@@ -8,9 +8,26 @@ export const metadata: Metadata = {
   },
   description: 'Schweizer Medienkritik. Registrierender Natur. Mit vorsichtiger Würde.',
   metadataBase: new URL('https://9min.ch'),
+  icons: {
+    icon: [
+      { url: '/9min_favicon/favicon-16x16.png', sizes: '16x16', type: 'image/png' },
+      { url: '/9min_favicon/favicon-32x32.png', sizes: '32x32', type: 'image/png' },
+    ],
+    apple: '/9min_favicon/apple-touch-icon.png',
+    shortcut: '/9min_favicon/favicon.ico',
+    other: [
+      { rel: 'icon', url: '/9min_favicon/android-chrome-192x192.png', sizes: '192x192' },
+      { rel: 'icon', url: '/9min_favicon/android-chrome-512x512.png', sizes: '512x512' },
+    ],
+  },
   openGraph: {
     siteName: '9min',
     locale: 'de_CH',
+    images: [{ url: '/api/og', width: 1200, height: 630 }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    images: ['/api/og'],
   },
 }
 

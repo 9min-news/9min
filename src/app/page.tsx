@@ -43,7 +43,16 @@ function ComingSoonPage() {
           padding: 40px 24px;
           text-align: center;
         }
-        .cs-logo { margin-bottom: 32px; opacity: 0.95; }
+        .cs-logo { margin-bottom: 28px; opacity: 0.95; }
+        .cs-descriptor {
+          font-family: 'GT Sectra Display', Georgia, serif;
+          font-weight: 500;
+          font-size: clamp(18px, 3.5vw, 26px);
+          color: rgba(245,240,232,0.88);
+          margin: 0 0 20px;
+          letter-spacing: -0.01em;
+          line-height: 1.3;
+        }
         .cs-tagline {
           font-family: 'GT Sectra', Georgia, serif;
           font-style: italic;
@@ -114,6 +123,10 @@ function ComingSoonPage() {
             lineHeight: 1,
           }}>9min</span>
         </div>
+
+        <p className="cs-descriptor">
+          Der fehlende Moment🔻 Die fehlende Perspektive
+        </p>
 
         <p className="cs-tagline">
           Schweizer Medienkritik.<br />
