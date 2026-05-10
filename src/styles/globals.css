@@ -1,0 +1,321 @@
+/* ============================================================
+   1. FONT FACES
+   ============================================================ */
+
+@font-face {
+  font-family: 'GT Sectra';
+  src: url('/fonts/GTSectra-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'GT Sectra';
+  src: url('/fonts/GTSectra-RegularItalic.woff2') format('woff2');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'GT Sectra Display';
+  src: url('/fonts/GTSectraDisplay-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'GT Sectra Display';
+  src: url('/fonts/GTSectraDisplay-MediumItalic.woff2') format('woff2');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* ============================================================
+   2. TAILWIND 4
+   ============================================================ */
+
+@import "tailwindcss";
+
+/* ============================================================
+   3. DESIGN TOKENS (@theme — Tailwind 4 CSS-first config)
+   ============================================================ */
+
+@theme {
+  /* Colors — available as bg-*, text-*, border-* utilities */
+  --color-bg-void: #0E150E;
+  --color-bg-dark: #131D13;
+  --color-bg-paper: #FAFAF7;
+  --color-bg-paper-warm: #F4F1EB;
+  --color-tannengruen: #1A2E1A;
+  --color-gold: #D4A847;
+  --color-textgrau: #4A5C4A;
+  --color-textgrau-hell: #8A9C8A;
+  --color-border: #D4D0C8;
+  --color-border-gold: #D4A847;
+
+  /* Fonts */
+  --font-body: 'GT Sectra', Georgia, serif;
+  --font-display: 'GT Sectra Display', Georgia, serif;
+  --font-mono: ui-monospace, 'Cascadia Code', monospace;
+}
+
+/* ============================================================
+   4. RAW CSS CUSTOM PROPERTIES
+   (for use outside Tailwind — e.g., inline styles, OG images)
+   ============================================================ */
+
+:root {
+  --bg-void: #0E150E;
+  --bg-dark: #131D13;
+  --bg-paper: #FAFAF7;
+  --bg-paper-warm: #F4F1EB;
+  --tannengruen: #1A2E1A;
+  --gold: #D4A847;
+  --textgrau: #4A5C4A;
+  --textgrau-hell: #8A9C8A;
+  --text: #1A2E1A;
+  --accent: #D4A847;
+  --border: #D4D0C8;
+  --border-gold: #D4A847;
+}
+
+/* ============================================================
+   5. BASE STYLES
+   ============================================================ */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-color: var(--bg-paper);
+  color: var(--tannengruen);
+  font-family: 'GT Sectra', Georgia, serif;
+  font-size: 19px;
+  line-height: 1.7;
+  margin: 0;
+  padding: 0;
+}
+
+@media (max-width: 768px) {
+  body {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    font-size: 17px;
+  }
+}
+
+/* ============================================================
+   6. ARTICLE TYPOGRAPHY (.prose-9min)
+   The reading experience IS the product.
+   ============================================================ */
+
+.prose-9min {
+  font-family: 'GT Sectra', Georgia, serif;
+  font-size: 19px;
+  line-height: 1.7;
+  color: var(--tannengruen);
+  max-width: 680px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.prose-9min p {
+  margin-top: 0;
+  margin-bottom: 1.4em;
+}
+
+.prose-9min h2 {
+  font-family: 'GT Sectra Display', Georgia, serif;
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 1.3;
+  margin-top: 2.4em;
+  margin-bottom: 0.8em;
+  color: var(--tannengruen);
+}
+
+.prose-9min h3 {
+  font-family: 'GT Sectra Display', Georgia, serif;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 1.3;
+  margin-top: 2em;
+  margin-bottom: 0.6em;
+  color: var(--tannengruen);
+}
+
+.prose-9min strong {
+  font-weight: 600;
+}
+
+.prose-9min em {
+  font-style: italic;
+}
+
+.prose-9min a {
+  color: var(--gold);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  transition: color 200ms ease;
+}
+
+.prose-9min a:hover {
+  color: var(--tannengruen);
+}
+
+.prose-9min ul {
+  list-style: disc;
+  padding-left: 1.5em;
+  margin-bottom: 1.4em;
+}
+
+.prose-9min ol {
+  list-style: decimal;
+  padding-left: 1.5em;
+  margin-bottom: 1.4em;
+}
+
+.prose-9min li {
+  margin-bottom: 0.4em;
+}
+
+.prose-9min hr {
+  border: none;
+  height: 1px;
+  background: var(--gold);
+  width: 40%;
+  margin: 2.5em auto;
+}
+
+.prose-9min blockquote {
+  border-left: 1px solid var(--tannengruen);
+  padding-left: 20px;
+  margin: 1.5em 0;
+  font-style: italic;
+  color: var(--textgrau);
+}
+
+.prose-9min code {
+  font-family: ui-monospace, 'Cascadia Code', monospace;
+  font-size: 0.875em;
+  background: var(--bg-paper-warm);
+  padding: 0.125rem 0.375rem;
+  border-radius: 3px;
+}
+
+.prose-9min pre {
+  background: var(--tannengruen);
+  color: var(--bg-paper);
+  padding: 1.5rem;
+  border-radius: 4px;
+  overflow-x: auto;
+  margin-bottom: 1.4em;
+}
+
+.prose-9min pre code {
+  background: transparent;
+  padding: 0;
+  font-size: 0.875em;
+}
+
+/* Sources section at end of article */
+.prose-9min .sources,
+.sources {
+  margin-top: 3em;
+  padding-top: 1.5em;
+  border-top: 1px solid var(--gold);
+  font-size: 15px;
+  color: var(--textgrau);
+  line-height: 1.6;
+}
+
+/* Responsive prose */
+@media (max-width: 768px) {
+  .prose-9min {
+    font-size: 18px;
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+
+  .prose-9min h2 {
+    font-size: 24px;
+  }
+
+  .prose-9min h3 {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 480px) {
+  .prose-9min {
+    font-size: 17px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .prose-9min h2 {
+    font-size: 22px;
+  }
+}
+
+/* ============================================================
+   7. PAGE TRANSITION
+   ============================================================ */
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+main {
+  animation: fadeIn 0.3s ease-out;
+}
+
+/* ============================================================
+   8. LOGO ANIMATION
+   Wedge separates from circle on page load. CSS only, no JS.
+   ============================================================ */
+
+@keyframes wedgeSeparate {
+  0% {
+    transform: translate(0, 0);
+    opacity: 0.3;
+  }
+  80% {
+    transform: translate(3px, -2px);
+    opacity: 1;
+  }
+  100% {
+    transform: translate(3px, -2px);
+    opacity: 1;
+  }
+}
+
+.logo-wedge-animated {
+  animation: wedgeSeparate 2s cubic-bezier(0.25, 0.1, 0.25, 1.0) forwards;
+  animation-delay: 0.8s;
+  opacity: 0.3;
+  transform-origin: 20px 20px;
+}
