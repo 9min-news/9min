@@ -5,6 +5,7 @@ import { ArticleCard } from '@/components/ArticleCard'
 import { Header } from '@/components/Header'
 import { Footer } from '@/components/Footer'
 import { LogoMark } from '@/components/LogoMark'
+import { ComingSoonVideo } from '@/components/ComingSoonVideo'
 import { formatDate, getExcerpt } from '@/lib/utils'
 
 export const metadata: Metadata = {
@@ -98,14 +99,7 @@ function ComingSoonPage() {
         .cs-x-link:hover { color: rgba(212,208,200,0.85); }
       `}</style>
 
-      <video
-        className="cs-video"
-        src="/9min-intro-vid.mp4"
-        autoPlay
-        muted
-        loop
-        playsInline
-      />
+      <ComingSoonVideo className="cs-video" />
       <div className="cs-overlay" />
 
       <div className="cs-content">
