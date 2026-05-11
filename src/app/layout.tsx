@@ -24,11 +24,11 @@ export const metadata: Metadata = {
   openGraph: {
     siteName: '9min',
     locale: 'de_CH',
-    images: [{ url: '/9min-og-3.png', width: 1200, height: 630 }],
+    images: [{ url: '/9min-OG.jpg', width: 1200, height: 630 }],
   },
   twitter: {
     card: 'summary_large_image',
-    images: ['/9min-og-3.png'],
+    images: ['/9min-OG.jpg'],
   },
 }
 
