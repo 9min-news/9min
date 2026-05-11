@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     default: '9min',
     template: '%s — 9min',
   },
-  description: 'Schweizer Medienkritik. Registrierender Natur. Mit vorsichtiger Würde.',
+  description: 'Der fehlende Moment🔻 Die fehlende Perspektive — Schweizer Medienkritik. Registrierender Natur. Mit vorsichtiger Würde.',
   metadataBase: new URL('https://9min.ch'),
   icons: {
     icon: [
