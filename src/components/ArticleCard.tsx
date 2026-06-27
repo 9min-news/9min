@@ -10,6 +10,7 @@ const TYPE_LABELS: Record<Article['type'], string> = {
   chronik: 'Chronik',
   analyse: 'Analyse',
   grundlage: 'Grundlage',
+  medienkritik: 'Medienkritik',
 }
 
 export function ArticleCard({ article }: ArticleCardProps) {

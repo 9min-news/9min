@@ -4,6 +4,7 @@ import { getAllSlugs, getArticle } from '@/lib/content'
 import { ChronikLayout } from '@/components/ChronikLayout'
 import { AnalyseLayout } from '@/components/AnalyseLayout'
 import { GrundlageLayout } from '@/components/GrundlageLayout'
+import { MediakritikLayout } from '@/components/MediakritikLayout'
 
 export async function generateStaticParams() {
   return getAllSlugs().map(slug => ({ slug }))
@@ -66,6 +67,8 @@ export default async function ArticlePage(
       return <AnalyseLayout article={article} />
     case 'grundlage':
       return <GrundlageLayout article={article} />
+    case 'medienkritik':
+      return <MediakritikLayout article={article} />
     default:
       notFound()
   }
