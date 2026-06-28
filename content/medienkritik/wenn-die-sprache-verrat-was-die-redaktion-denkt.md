@@ -6,53 +6,61 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHNroLEXMAAc0D9.jpg'
 tweetId: '2050100678807224592'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Gesellschaft
 tags:
-  - SRF
-  - Genderregel
-  - Sprachregelung
-  - Moralische Konnotationspolitik
-  - Identitätspolitik
+  - Gendern
+  - generisches Maskulinum
+  - Sprachpolitik
+  - Asymmetrie
+  - Täter-Opfer-Darstellung
+  - öffentlich-rechtliche Medien
+  - Wertekonnotation
+  - moralische Sortierung
 seo:
   description: >-
     Zur SRF-Berichterstattung über Online-Identitätsdiebstahl vom 30. April 2026
     Die kleine Beobachtung mit der grossen Implikation Sie haben einen Punkt…
 themen:
-  - Sprachpolitik
-  - Geschlechtergerechtigkeit
-  - Medienkritik
-  - Öffentlich-rechtliche Medien
+  - Gendergerechte Sprache
+  - SRF-Sprachregelung
+  - Asymmetrie in der Berichterstattung
+  - Medienethik
+  - Identitätspolitik
 kritisiertes_medium: SRF
-kritisierter_beitrag: Online-Identitätsdiebstahl
+kritisierter_beitrag: >-
+  Über 8000 Fälle im Jahr: Online-Identitätsdiebstahl hat in der Schweiz stark
+  zugenommen
 kritisierter_autor: ''
 kritik_typ:
+  - Asymmetrie
   - Framing
-  - Selektion
-  - Kontextmangel
 personen: []
 institutionen:
   - SRF
   - ARD
   - ZDF
   - ORF
+  - NZZ
+  - Tages-Anzeiger
+  - Republik
 gesetze_vorlagen: []
 these: >-
-  Die SRF-Berichterstattung über Online-Identitätsdiebstahl verrät eine
-  systematische Asymmetrie in der Anwendung der Genderregel, die Frauen in
-  negativen Kategorien unsichtbar macht.
+  SRF gendert konsequent positive Personenbezeichnungen, lässt aber negative wie
+  Täter oder Betrüger im generischen Maskulinum, was eine unausgesprochene
+  Redaktionsnorm der Geschlechterfavorisierung offenbart.
 zusammenfassung: >-
   Der Artikel analysiert die SRF-Berichterstattung über
-  Online-Identitätsdiebstahl und entdeckt eine systematische Asymmetrie in der
-  Anwendung der Genderregel. Während Frauen in positiven Kategorien sichtbar
-  gemacht werden, bleiben sie in negativen Kategorien unsichtbar. Dies wird als
-  politische Aussage in der Form einer Grammatikregel interpretiert, die die
-  Glaubwürdigkeit der öffentlich-rechtlichen Medien untergräbt.
+  Online-Identitätsdiebstahl und zeigt eine systematische Asymmetrie: Positive
+  Personenbezeichnungen werden gegendert, negative nicht. Diese Praxis wird als
+  moralische Sortierung und sprachlich verkleidete weibliche Privilegierung
+  interpretiert, die mit der offiziellen Begründung der Genderregel nicht
+  vereinbar sei.
 quelle_datum: '2026-04-30'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: ''
-kritik_schwere: 3
+quelle_redaktion: SRF News
+kritik_schwere: 2
 ---
 
 *Zur SRF-Berichterstattung über *[Online-Identitätsdiebstahl](https://www.srf.ch/news/dialog/ueber-8000-faelle-im-jahr-online-identitaetsdiebstahl-hat-in-der-schweiz-stark-zugenommen)* vom 30. April 2026*

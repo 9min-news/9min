@@ -6,51 +6,62 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HKpCRhuXUAAE7_o.jpg'
 tweetId: '2065537564589617392'
 categories:
+  - SRF/SRG
   - Demokratie
-  - Gesellschaft
+  - Zensur/Meinungsfreiheit
 tags:
-  - SRF News
+  - Auslassung
+  - Asymmetrie
+  - Covid-Proteste
+  - Schwarzer Block
+  - 1.-Mai-Demo
+  - Repressions-Box
+  - Ein-Experten-Problem
   - SWI swissinfo
-  - Proteste
-  - direkte Demokratie
-  - Repression
-  - Gewalt
-  - Linke
-  - Medienkritik
 seo:
   description: >-
     Dieser Beitrag — produziert von SWI swissinfo, dem Auslandportal der SRG,
     und über SRF News ausgespielt — erklärt, warum die Schweiz trotz steigender…
 themen:
-  - Proteste in der Schweiz
-  - direkte Demokratie
-  - Medienberichterstattung
-kritisiertes_medium: SRF News
+  - Protestkultur
+  - Direkte Demokratie
+  - Versammlungsfreiheit
+  - Covid-Repression
+  - Demonstrationsgewalt
+kritisiertes_medium: SWI swissinfo / SRF News
 kritisierter_beitrag: Proteste trotz direkter Demokratie – aber weniger heftig
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
-  - Framing
-  - Kontextmangel
+  - Selektion
+  - Asymmetrie
 personen:
   - Marco Giugni
 institutionen:
-  - SRF
   - SWI swissinfo
+  - SRF News
+  - SRF
   - SRG
-gesetze_vorlagen: []
+  - Amnesty International
+  - Brot für die Welt
+  - European Social Survey
+  - Schweizer Armee
+gesetze_vorlagen:
+  - Zürcher Kostenüberwälzungs-Initiative
+  - Finanzreferendum
 these: >-
-  Der Beitrag von SRF News über die Proteste in der Schweiz lässt wichtige
-  Informationen aus und präsentiert eine einseitige Darstellung der Ereignisse.
+  Der Beitrag verzerrt die Schweizer Protestrealität durch systematische
+  Auslassungen, indem er die Covid-Repression gegen Massnahmenkritiker
+  verschweigt, Demonstrationsgewalt täterlos darstellt und in einer eigenen
+  Repressions-Box ausschliesslich linke Anliegen als Opfer zeigt.
 zusammenfassung: >-
-  Der Beitrag von SRF News über die Proteste in der Schweiz wird kritisiert,
-  weil er wichtige Informationen über die staatliche Repression und die
-  politische Farbe der Gewalt auslässt. Der Beitrag präsentiert eine einseitige
-  Darstellung der Ereignisse und verschweigt die Tatsache, dass die Gewalt in
-  der Schweiz fast ausnahmslos aus dem linksextremen Spektrum kommt. Der Beitrag
-  wird auch dafür kritisiert, dass er die direkte Demokratie als Ventil für
-  Proteste darstellt, aber die negativen Aspekte der direkten Demokratie nicht
-  thematisiert.
+  9min.ch kritisiert einen SWI swissinfo/SRF-Beitrag, der direkte Demokratie als
+  Friedensgarantin feiert, aber die staatliche Repression der Covid-Proteste
+  komplett ausblendet. In einer Box zur Repression werden nur linke Anliegen als
+  Opfer genannt, während die politische Herkunft der Gewalttäter (linksextremes
+  Spektrum, Schwarzer Block, 1.-Mai-Nachdemo) konsequent verschwiegen wird.
+  Zudem widerspricht der Beitrag einem kurz zuvor ausgestrahlten SRF-Beitrag,
+  der direkte Demokratie als Überforderung darstellte.
 quelle_datum: '2026-06-09'
 quelle_format: Online-Artikel
 quelle_sendung: ''

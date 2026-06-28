@@ -6,56 +6,71 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HGMaEqiXwAAA9b2.jpg'
 tweetId: '2045507979961635253'
 categories:
+  - Migration
+  - Abstimmungen
   - Gesellschaft
-  - Demokratie
-  - Zensur/Meinungsfreiheit
 tags:
   - Oliver Nachtwey
-  - Tages-Anzeiger
+  - Nullsummendenken
   - 10-Millionen-Initiative
-  - SVP
-  - Linke
-  - Zuwanderungspolitik
-  - Wohnraum
-  - Infrastruktur
+  - Wohnraumknappheit
+  - Verteilungskonflikt
+  - Pathologisierung
+  - Asymmetrie
+  - Lohndruck
 seo:
   description: >-
     Zum Gastkommentar von Oliver Nachtwey im Tages-Anzeiger vom 18. April 2026:
     «Der Kuchen schrumpft — und schuld sind die anderen» Oliver Nachtwey ist
     ein…
 themen:
-  - Zuwanderung
-  - Nullsummendenken
-  - Soziologie
-  - Politische Debatte
+  - Nullsummendenken als Pathologisierung
+  - Wohnraum- und Infrastrukturknappheit durch Zuwanderung
+  - Asymmetrie vertikaler vs. horizontaler Verteilungskonflikte
+  - 10-Millionen-Initiative
 kritisiertes_medium: Tages-Anzeiger
 kritisierter_beitrag: Der Kuchen schrumpft — und schuld sind die anderen
 kritisierter_autor: Oliver Nachtwey
 kritik_typ:
-  - Fehlinformation
-  - Kontextmangel
-  - Interessenkonflikt
+  - Asymmetrie
+  - Framing
+  - Auslassung
 personen:
   - Oliver Nachtwey
+  - Carolin Amlinger
+  - George Sheldon
+  - Reiner Eichenberger
 institutionen:
   - Tages-Anzeiger
+  - Bundesamt für Statistik
   - SVP
   - SP
-  - Grüne
+  - Grüüne
+  - Credit Suisse
+  - AHV
+  - Frankfurter Schule
 gesetze_vorlagen:
   - 10-Millionen-Initiative
+  - 13. AHV-Rente
+  - Flankierende Massnahmen
+  - Personenfreizügigkeit
 these: >-
-  Die Kritik am Nullsummendenken von Oliver Nachtwey ist selbst ein Beispiel für
-  eine unzureichende Analyse der tatsächlichen Probleme in der Schweiz.
+  Oliver Nachtwey pathologisiert in seinem Gastkommentar Befürworter einer
+  Zuwanderungsbegrenzung als psychologisch verzerrte Nullsummendenker, obwohl
+  deren Wahrnehmung realer Knappheit empirisch korrekt ist und er selbst eine
+  asymmetrische Verteilungslogik anwendet, die vertikale Konflikte akzeptiert,
+  horizontale aber als Mentalitätsstörung abtut.
 zusammenfassung: >-
-  Der Artikel kritisiert den Soziologen Oliver Nachtwey für seine Analyse des
-  Nullsummendenkens in der Schweiz. Nachtwey behauptet, dass Menschen, die sich
-  gegen unbegrenzte Zuwanderung aussprechen, einer psychologischen
-  Fehlwahrnehmung aufsitzen. Der Artikel argumentiert jedoch, dass diese Kritik
-  selbst ein Beispiel für eine unzureichende Analyse der tatsächlichen Probleme
-  in der Schweiz ist, wie z.B. der Wohnraumknappheit und der Lohnstagnation.
+  Der 9min-Artikel analysiert Oliver Nachtweys Gastkommentar im Tages-Anzeiger,
+  der Gegnern der 10-Millionen-Initiative ein «Nullsummendenken» als
+  psychologische Fehlwahrnehmung attestiert. Die Kritik zeigt, dass Nachtweys
+  Prämisse eines wachsenden Kuchens unbelegt bleibt, während Wohnraumknappheit,
+  Infrastrukturdruck und Lohnstagnation empirisch dokumentiert sind. Zudem wird
+  eine Asymmetrie aufgedeckt: Nachtwey akzeptiert vertikale Verteilungskonflikte
+  als legitim, pathologisiert aber horizontale als mentale Verzerrung, was den
+  demokratischen Diskurs entpolitisiert.
 quelle_datum: '2026-04-18'
-quelle_format: Online-Artikel
+quelle_format: Print
 quelle_sendung: ''
 quelle_redaktion: Tages-Anzeiger
 kritik_schwere: 3

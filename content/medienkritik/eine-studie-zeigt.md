@@ -6,50 +6,67 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HKNZTe-WMAAZQQZ.jpg'
 tweetId: '2063591350008795471'
 categories:
-  - Medienrecht
+  - SRF/SRG
+  - Gesellschaft
+  - Demokratie
 tags:
-  - Wissenschaft
-  - Journalismus
-  - Studien
-  - Forschung
-  - Medienkritik
-  - SRF
+  - Studie zeigt
+  - SRF-Archiv
+  - Wissenschaftsvermittlung
+  - Auftraggeber verschwiegen
+  - Methodik fehlt
+  - Content-Ökonomie
+  - Peer-Review
+  - Framing durch Verb
 seo:
   description: >-
     Dies ist keine Kritik an einem einzelnen Beitrag, sondern an einem Muster.
     Eine Suche im SRF-Archiv nach «eine Studie» liefert 32'720 Artikel. Das ist…
 themen:
   - Wissenschaftsjournalismus
-  - Studienberichterstattung
-  - Journalistische Verantwortung
+  - Studien als PR-Instrument
+  - Journalistische Sorgfaltspflicht
+  - Interessenbindungen in Medien
 kritisiertes_medium: SRF
 kritisierter_beitrag: ''
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
   - Framing
-  - Fehlinformation
+  - Behördenpropaganda
 personen: []
 institutionen:
   - SRF
   - WSL
-  - Universität Basel
-gesetze_vorlagen: []
+  - Axpo
+  - ZKB
+  - H+
+  - HSG
+  - Avenir Suisse
+  - Militärakademie
+  - Sucht-Schweiz
+  - FMH
+  - OECD
+  - Nato
+gesetze_vorlagen:
+  - OECD-Mindeststeuer
 these: >-
-  Die Studie ist zum journalistischen Universalrohstoff geworden, der fast jeder
-  Aussage über Nacht den Stempel der Wissenschaftlichkeit verleiht, ohne jedoch
-  die notwendige Kritik und Transparenz zu gewährleisten.
+  SRF nutzt «eine Studie zeigt» als journalistische Universalformel, die
+  Wissenschaftlichkeit suggeriert, aber systematisch Methodik,
+  Interessenbindungen und Forschungskontext verschweigt und so fremde PR als
+  Journalismus ausliefert.
 zusammenfassung: >-
-  Der Artikel kritisiert die Art und Weise, wie der SRF mit Studien umgeht. Die
-  Redaktion verwendet oft das Verb 'zeigt' um eine Studie zu beschreiben, was
-  suggeriert, dass die Ergebnisse bewiesen seien, obwohl dies oft nicht der Fall
-  ist. Zudem fehlt es an Transparenz über die Methodik und die Auftraggeber der
-  Studien. Der Artikel argumentiert, dass dies zu einer Verzerrung der Wahrheit
-  und einer Untergrabung des Vertrauens in die Wissenschaft führt.
+  Der Artikel analysiert 32'720 SRF-Beiträge mit dem Muster «eine Studie zeigt»
+  und identifiziert vier Kernprobleme: das Verb «zeigen» suggeriert fälschlich
+  Beweis, die Methodik fehlt fast immer, Auftraggeber und Interessenbindungen
+  werden verschwiegen, und einzelne Studien werden als ganze Wahrheit
+  präsentiert. Das Muster diene letztlich als billiger Content unter Spardruck,
+  kaschiere mangelnde Recherche und untergrabe langfristig das Vertrauen in
+  Wissenschaft.
 quelle_datum: ''
-quelle_format: ''
+quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: ''
+quelle_redaktion: SRF
 kritik_schwere: 3
 ---
 

@@ -6,56 +6,63 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJoUwKvWEAc78aq.jpg'
 tweetId: '2060983277515653567'
 categories:
-  - Medienrecht
-  - Zensur/Meinungsfreiheit
-  - Demokratie
+  - SRF/SRG
+  - Gesellschaft
+  - Sicherheitspolitik
 tags:
-  - Antifa
-  - Terrorismus
+  - unbewilligte Demonstration
+  - weitgehend friedlich
   - Vermummungsverbot
-  - SRF
-  - Der Bund
-  - Bern
-  - Sicherheitsdirektor
+  - Leila Khaled
+  - Intifada
+  - Alec von Graffenried
+  - Asymmetrie
+  - Medienschweigen
 seo:
   description: >-
     Eine unbewilligte Demonstration zieht durch Bern. Vermummte führen den Zug
     an. Petarden werden gezündet. Ein Eingang der Fremdenpolizei wird mit…
 themen:
+  - Antifa-Demonstration Bern
+  - Vermummungsverbot
+  - selektive Rechtsdurchsetzung
   - Medienberichterstattung
-  - Demonstrationen
-  - Rechtsstaatlichkeit
-kritisiertes_medium: 'SRF, Der Bund'
+  - Terrorverherrlichung
+kritisiertes_medium: Der Bund
 kritisierter_beitrag: Rund 400 Demonstrierende zogen durch die Innenstadt – weitgehend friedlich
 kritisierter_autor: ''
 kritik_typ:
   - Framing
   - Auslassung
-  - Selektion
+  - Asymmetrie
 personen:
   - Alec von Graffenried
   - Leila Khaled
 institutionen:
-  - SRF
   - Der Bund
-  - Stadt Bern
-  - Grüne Freie Liste
+  - SRF.ch
+  - Fremdenpolizei Bern
+  - GFL
+  - Polizei
+  - Feuerwehr
 gesetze_vorlagen:
   - Vermummungsverbot
 these: >-
-  Die Medienberichterstattung über eine illegale Demonstration in Bern war
-  unzureichend und beschönigend, wobei das Schweigen von SRF und die selektive
-  Empörung von Der Bund kritisiert werden.
+  Medien und Behörden behandeln linke und propalästinensische Rechtsbrüche sowie
+  Terrorverherrlichung nachsichtiger als rechte, was eine selektive Empörung und
+  asymmetrische Rechtsdurchsetzung offenbart.
 zusammenfassung: >-
-  Eine unbewilligte Demonstration in Bern, bei der das Vermummungsverbot
-  gebrochen und Petarden gezündet wurden, wurde von Der Bund als 'weitgehend
-  friedlich' bezeichnet. Der Sicherheitsdirektor zeigte sich 'zufrieden',
-  während SRF nicht berichtete. Die Kritik richtet sich gegen die unzureichende
-  und beschönigende Medienberichterstattung.
+  Der Artikel kritisiert die Berichterstattung des Bund über eine unbewilligte
+  Antifa-Demonstration in Bern, bei der das Vermummungsverbot gebrochen,
+  Petarden gezündet und unter dem Banner der Flugzeugentführerin Leila Khaled
+  zur Intifada aufgerufen wurde. Der Bund frame die Ereignisse als «weitgehend
+  friedlich», während SRF.ch gar nicht berichte. 9min.ch sieht darin eine
+  asymmetrische Behandlung gegenüber rechten Demonstrationen und eine
+  unkritische Wiedergabe der Zufriedenheit des Berner Sicherheitsdirektors.
 quelle_datum: '2026-05-30'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: 9min.ch
+quelle_redaktion: ''
 kritik_schwere: 3
 ---
 

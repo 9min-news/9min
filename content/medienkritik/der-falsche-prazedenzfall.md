@@ -6,53 +6,56 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJOybpSXAAArMNc.jpg'
 tweetId: '2059185732191703139'
 categories:
-  - EU/Aussenpolitik
+  - SRF/SRG
   - Migration
-  - Medienrecht
+  - Abstimmungen
 tags:
-  - SRF
   - Brexit
-  - SVP
-  - Initiative
-  - Zuwanderung
+  - SVP-Initiative
   - Personenfreizügigkeit
-  - EU
-  - Migration
+  - Framing
+  - Dublin-System
+  - Kontingentssystem
+  - Expertenmeinung
+  - Vorabstimmungs-Berichterstattung
 seo:
   description: >-
     SRF vergleicht die SVP-Initiative mit dem Brexit. Der Vergleich hinkt, aber
     er erfüllt einen Zweck: Er rahmt die Initiative als gescheitertes Projekt,…
 themen:
   - Brexit-Vergleich
-  - SVP-Initiative
-  - Zuwanderung
   - Personenfreizügigkeit
+  - Migrationskontrolle
+  - Medienframing vor Abstimmungen
 kritisiertes_medium: SRF
 kritisierter_beitrag: Was uns der Brexit über ein EU-Aus lehren kann
 kritisierter_autor: ''
 kritik_typ:
-  - Fehlinformation
   - Framing
   - Auslassung
+  - Kontextmangel
 personen:
   - Jonathan Portes
 institutionen:
   - SRF
   - SVP
   - EU
+  - britische Regierung
+  - Dublin-System
 gesetze_vorlagen:
-  - Dublin-Asyl-Verweis
+  - SVP-Initiative
 these: >-
-  Der SRF-Artikel vergleicht die SVP-Initiative mit dem Brexit und suggeriert,
-  dass die Initiative die Zuwanderung nicht bremsen wird, obwohl der Vergleich
-  falsch ist und die Daten ohne Kontext präsentiert werden.
+  SRF rahmt die SVP-Initiative durch einen sachlich falschen Brexit-Vergleich
+  als gescheitertes Projekt, bevor sie abgestimmt wird.
 zusammenfassung: >-
-  Der Artikel von SRF vergleicht die SVP-Initiative mit dem Brexit und
-  behauptet, dass die Initiative die Zuwanderung nicht bremsen wird. Der
-  Vergleich ist jedoch falsch, da die Schweiz nicht in der EU ist und bereits
-  ein Kontingentssystem für Drittstaaten hat. Die Daten über die Zuwanderung
-  nach dem Brexit werden ohne Kontext präsentiert und der Asyl-Verweis ist für
-  die Schweiz irrelevant.
+  Der 9min.ch-Artikel kritisiert einen SRF-Beitrag, der die SVP-Initiative mit
+  dem Brexit vergleicht und daraus folgert, ein Ende der Personenfreizügigkeit
+  würde die Zuwanderung nicht bremsen. Der Vergleich hinkt, da die Schweiz nicht
+  EU-Mitglied ist, bereits ein Kontingentssystem für Drittstaaten hat und im
+  Dublin-System bleibt. Der Anstieg der Drittstaats-Zuwanderung im UK war eine
+  politische Entscheidung der britischen Regierung, kein Automatismus — was SRF
+  verschleiert. Der Experte Jonathan Portes bekommt das letzte Wort mit einer
+  politischen Meinung, die als analytische Expertise präsentiert wird.
 quelle_datum: '2026-05-26'
 quelle_format: Online-Artikel
 quelle_sendung: ''

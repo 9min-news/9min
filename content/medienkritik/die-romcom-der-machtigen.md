@@ -6,56 +6,59 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIWFEgZX0AAocSh.jpg'
 tweetId: '2055195608810496380'
 categories:
-  - Medienrecht
-  - Demokratie
+  - SRF/SRG
+  - EU/Aussenpolitik
   - Wirtschaft
 tags:
   - Trump
   - Musk
   - SRF
-  - Kritik
-  - Medien
-  - Demokratie
-  - Wirtschaft
+  - Framing
   - Korruption
+  - Tesla
+  - China
+  - Delegation
 seo:
   description: >-
     Zum SRF-Beitrag «Darum finden Trump und Musk immer wieder zueinander», 15.
     Mai 2026 Der Titel liest sich wie ein Teaser für eine Beziehungskomödie.
     «Darum…
 themen:
-  - Korruption
-  - Institutionen
-  - Aussenpolitik
-kritisiertes_medium: SRF
+  - US-China-Beziehungen
+  - Tech-Industrie und Lobbyismus
+  - Korruption und Staatskapitalismus
+  - Medienframing
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Darum finden Trump und Musk immer wieder zueinander
-kritisierter_autor: ''
+kritisierter_autor: Thomas Jäger
 kritik_typ:
   - Framing
   - Auslassung
   - Kontextmangel
 personen:
-  - Trump
-  - Musk
+  - Donald Trump
+  - Elon Musk
   - Thomas Jäger
 institutionen:
   - SRF
   - Universität Köln
-  - US-Regierung
-  - chinesische Regierung
+  - Tesla
+  - Nvidia
+  - Apple
+  - USA
+  - China
 gesetze_vorlagen: []
 these: >-
-  Der SRF-Beitrag über die Beziehung zwischen Trump und Musk ist eine verpasste
-  Chance, die tatsächlichen Hintergründe und Interessenkonflikte aufzudecken.
+  Der SRF-Beitrag rahmt die Trump-Musk-Allianz als persönliche Beziehungskomödie
+  und verschleiert damit die institutionelle Korruption sowie Musks konkrete
+  geschäftliche Abhängigkeit vom chinesischen Markt.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag über die Beziehung zwischen Trump und
-  Musk als eine verpasste Chance, die tatsächlichen Hintergründe und
-  Interessenkonflikte aufzudecken. Der Beitrag wird als eine Soap-Opera
-  bezeichnet, die die Interessenkonvergenz zwischen Trump und Musk als
-  persönliche Dramaturgie erzählt, anstatt als institutionelles Versagen. Der
-  Artikel fordert eine Analyse, die über Persönlichkeiten und Interessen
-  hinausgeht und die Institutionen, die diese Allianz ermöglichen, kritisch
-  betrachtet.
+  Der 9min-Artikel kritisiert einen SRF-Beitrag, der die US-China-Delegation mit
+  Trump und Musk als Soap-Opera darstellt. Wesentliche Fakten wie Teslas
+  87-Prozent-Inlandsverkauf in China und Musks Interesse an einer FSD-Freigabe
+  fehlen vollständig. Die institutionelle Korruption wird als harmlose
+  «Interessenkonvergenz» banalisiert, die europäische Perspektive bleibt
+  ausgeblendet.
 quelle_datum: '2026-05-15'
 quelle_format: Online-Artikel
 quelle_sendung: ''

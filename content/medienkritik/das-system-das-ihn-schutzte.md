@@ -7,55 +7,58 @@ coverImage: 'https://pbs.twimg.com/media/HJdv9bxWUAAgvTQ.jpg'
 tweetId: '2060076807773102473'
 categories:
   - Sicherheitspolitik
-  - Gesellschaft
-  - Demokratie
+  - Migration
+  - SRF/SRG
 tags:
-  - Terrorakt
-  - Dschihad
+  - Winterthur
+  - Messerangriff
+  - Radikalisierung
   - IS-Propaganda
-  - Bürgerrechtsentzug
-  - Sicherheitsdirektor
-  - Mario Fehr
+  - Artikel 42
+  - Bürgerrechtsgesetz
+  - Ausschaffungsinitiative
+  - Systemversagen
 seo:
   description: >-
     Der Täter war seit 2018 bekannt. IS-Propaganda. Radikalisierung.
     Dschihad-Szene. Brüder ebenfalls radikalisiert. Zwei Jahre Türkei. Rückkehr
     im Mai. Wirre…
 themen:
-  - Terrorismus
-  - Radikalisierung
   - Bürgerrechtsentzug
-  - Sicherheitspolitik
-kritisiertes_medium: SRF
-kritisierter_beitrag: 'Kipp-Moment, Schock und Kritik – die Reaktionen aus der Politik'
+  - Terrorismusbekämpfung
+  - Systemversagen bei Radikalisierung
+  - Medienberichterstattung über Anschläge
+kritisiertes_medium: SRF News
+kritisierter_beitrag: '«Kipp-Moment», Schock und Kritik – die Reaktionen aus der Politik'
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
-  - Framing
   - Kontextmangel
+  - Behördenpropaganda
 personen:
   - Mario Fehr
 institutionen:
-  - Staatssekretariat für Migration (SEM)
-  - Justiz- und Polizeidepartement (EJPD)
-  - Parlament
-  - Bundesrat
   - SRF
+  - SEM
+  - EJPD
+  - Bundesrat
+  - Parlament
+  - Kantonspolizei
+  - Staatsanwaltschaft
 gesetze_vorlagen:
-  - Artikel 42 des Bürgerrechtsgesetzes
-  - Ausschaffungsinitiative
+  - Artikel 42 Bürgerrechtsgesetz
+  - Ausschaffungsinitiative 2010
 these: >-
-  Das System, das den Winterthurer Täter schützte, ist das eigentliche Problem,
-  nicht der Sicherheitsdirektor Mario Fehr, der den Entzug des Bürgerrechts und
-  die Ausschaffung fordert.
+  SRF berichtet über die politischen Reaktionen auf den Winterthurer Anschlag,
+  verschweigt aber die systemischen Verantwortlichen und die vorhandenen
+  rechtlichen Instrumente, die hätten angewendet werden müssen.
 zusammenfassung: >-
-  Der Artikel kritisiert das System, das den Winterthurer Täter acht Jahre lang
-  schützte, obwohl er als radikalisiert bekannt war. Der Sicherheitsdirektor
-  Mario Fehr fordert den Entzug des Bürgerrechts und die Ausschaffung, aber das
-  System, das ihn jahrelang handlungsunfähig gemacht hat, ist das eigentliche
-  Problem. Die Kritik richtet sich gegen das Staatssekretariat für Migration,
-  das Justiz- und Polizeidepartement, das Parlament und den Bundesrat, die die
-  Instrumente zur Wehrlosigkeit verdünnt haben.
+  Der Artikel kritisiert den SRF-Bericht über die Reaktionen auf den
+  Messerangriff in Winterthur, weil er die systemischen Ursachen des Versagens
+  ausblendet. 9min.ch argumentiert, dass SRF weder nach den Verantwortlichen in
+  SEM, EJPD, Bundesrat und Parlament fragt, noch den verfügbaren Artikel 42 des
+  Bürgerrechtsgesetzes thematisiert. Stattdessen werde der Fokus auf einen
+  «Kipp-Moment» gelegt und die politische Rhetorik unkritisch wiedergegeben.
 quelle_datum: '2026-05-28'
 quelle_format: Online-Artikel
 quelle_sendung: ''

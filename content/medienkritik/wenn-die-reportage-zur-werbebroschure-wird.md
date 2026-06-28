@@ -6,58 +6,68 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHUELhJX0AAofXU.jpg'
 tweetId: '2050549859485196373'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Klima/Energie
+  - EU/Aussenpolitik
 tags:
-  - SRF
+  - PR-Veranstaltung
+  - Auslandskompensation
+  - Greenwashing
+  - CO₂-Zertifikate
   - Echo der Zeit
-  - Klimapolitik
-  - Ghana
-  - Zement
-  - CO₂-Reduktion
-  - Kritik
-  - Journalismus
+  - Zusätzlichkeitsfrage
+  - Verifikationsprobleme
+  - Wohlfühl-Narrativ
 seo:
   description: >-
     Zur SRF-Berichterstattung «Ghanaischer Zement für die Klimawende» von Fabian
     Urech, Echo der Zeit, 28. April 2026 Die Story, die uns erzählt wird Der…
 themen:
-  - Klimaschutz
-  - Medienkritik
-  - Auslandskompensation
-  - Zementindustrie
-kritisiertes_medium: SRF
+  - CO₂-Auslandskompensation
+  - SRF-Auslandsreportage als PR
+  - Greenwashing durch öffentlich-rechtliche Medien
+  - Schweizer Klimapolitik und bilaterale Abkommen
+kritisiertes_medium: SRF Echo der Zeit
 kritisierter_beitrag: Ghanaischer Zement für die Klimawende
 kritisierter_autor: Fabian Urech
 kritik_typ:
   - Auslassung
-  - Framing
-  - Kontextmangel
+  - Selektion
+  - Behördenpropaganda
 personen:
   - Fabian Urech
   - Emmanuel Agbabga
   - Frédéric Albrecht
 institutionen:
   - SRF
+  - Echo der Zeit
   - F. Scott Group
   - CBI Ghana
   - Bundesamt für Umwelt
+  - Nature
+  - SVP
 gesetze_vorlagen:
   - Pariser Klimaabkommen
+  - Bilaterales Abkommen Schweiz-Ghana (2020)
+  - Klima-Schutz-Vorlage Juni 2023
 these: >-
-  Der SRF-Beitrag 'Ghanaischer Zement für die Klimawende' ist eine unkritische
-  Werbebroschüre für die F. Scott Group und ihre klimafreundliche
-  Zementproduktion in Ghana.
+  Die SRF-Reportage präsentiert das umstrittene Geschäftsmodell der
+  CO₂-Auslandskompensation einer Schweizer Firma in Ghana als
+  Wohlfühl-Klimaschutzgeschichte, ohne kritische Stimmen, Kontext oder die
+  zentrale Kontroverse zu erwähnen.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag 'Ghanaischer Zement für die Klimawende'
-  für seine unzureichende Recherche und seine unkritische Darstellung der F.
-  Scott Group und ihrer klimafreundlichen Zementproduktion in Ghana. Der Beitrag
-  fehlt es an kritischen Stimmen und Kontext, um die Mechanik der
-  Auslandskompensation und die Zusätzlichkeitsfrage zu hinterfragen.
+  Der 9min.ch-Artikel analysiert eine siebenminütige SRF-Echo-der-Zeit-Reportage
+  über ein Zementwerk der Schweizer F. Scott Group in Ghana. Die Kritik zeigt,
+  dass im Beitrag ausschliesslich Firmenvertreter zu Wort kommen, keine
+  unabhängigen Experten gehört werden und die zentrale Kontroverse um die
+  CO₂-Auslandskompensation — Zusätzlichkeit, Verifikation, Gerechtigkeit,
+  strukturelle Externalisierung — vollständig ausgeblendet wird. Der Beitrag
+  funktioniere damit als PR für das Unternehmen und als Normalisierung der
+  offiziellen schweizerischen Klimapolitik.
 quelle_datum: '2026-04-28'
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
-quelle_redaktion: SRF
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

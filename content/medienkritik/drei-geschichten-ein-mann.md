@@ -6,51 +6,68 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HH2zQjSXUAk2x_0.jpg'
 tweetId: '2052994790078255398'
 categories:
+  - SRF/SRG
+  - Wirtschaft
   - Medienrecht
-  - Zensur/Meinungsfreiheit
 tags:
-  - SRF
   - Fredy Künzler
-  - Medienkritik
-  - Berichterstattung
-  - Zensur
-  - Meinungsfreiheit
+  - 10vor10
+  - ECO
+  - Swisscom
+  - Glasfaser
+  - Überwachungsanlage
+  - FMG-Revision
+  - Weko-Klage
 seo:
   description: >-
     Zur Qualität der SRF-Berichterstattung über Fredy Künzler 2013, 2018, 2020 —
     und zu ihrer Abwesenheit 2026 Die drei SRF-Beiträge sind besser, als man
     bei…
 themen:
-  - SRF-Berichterstattung
-  - Fredy Künzler
-  - Medienkritik
+  - SRF-Berichterstattungsqualität
+  - Glasfaserinfrastruktur
+  - Überwachungsrecht
+  - Medienfragmentierung
+  - Infrastrukturkontrolle
 kritisiertes_medium: SRF
-kritisierter_beitrag: ''
+kritisierter_beitrag: '10vor10 (2013, 2020) und ECO (2018) — drei Beiträge über Fredy Künzler'
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
   - Kontextmangel
+  - Framing
 personen:
   - Fredy Künzler
+  - Olaf Swantee
+  - Urs Schäppi
 institutionen:
   - SRF
+  - 10vor10
+  - ECO
+  - Swisscom
+  - Sunrise
+  - Suissedigital
+  - Mia Engiadina
+  - Bund
+  - Weko
   - Bundesgericht
 gesetze_vorlagen:
-  - Bussenverfügung
-  - Bundesgerichtsbeschwerde
+  - FMG-Revision
 these: >-
-  Die SRF-Berichterstattung über Fredy Künzler ist fragmentiert und fehlt es an
-  Kontext und Gedächtnis.
+  SRF berichtet über Fredy Künzler in drei Episoden (2013, 2018, 2020), ohne die
+  kohärente politische Aussage dahinter zu erkennen, und lässt 2026 die vierte
+  Runde vor Gericht komplett aus.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRF-Berichterstattung über Fredy Künzler und
-  bemängelt, dass die Berichte fragmentiert und ohne Kontext sind. Die
-  SRF-Berichte informieren, aber kontextualisieren nicht und nennen Akteure,
-  ohne deren Geschichte zu kennen. Die Geschichte von Fredy Künzler wird nicht
-  als eine kohärente Erzählung dargestellt, sondern als einzelne Episoden.
-quelle_datum: ''
-quelle_format: ''
-quelle_sendung: ''
-quelle_redaktion: ''
+  Der Artikel analysiert drei SRF-Beiträge über Fredy Künzler und zeigt, dass
+  diese handwerklich solide sind, aber jede Erinnerung an die vorherigen
+  Episoden fehlt. Die Fragmentierung verhindert, dass das Muster sichtbar wird:
+  ein Mann, der dreizehn Jahre lang dieselbe strukturelle Frage zur
+  Infrastrukturkontrolle stellt. 2026 fehlt beim SRF jede Berichterstattung zum
+  DNS-Fall und zur Bundesgerichtsbeschwerde.
+quelle_datum: '2020-01-01'
+quelle_format: Broadcast
+quelle_sendung: 10vor10 / ECO
+quelle_redaktion: SRF News
 kritik_schwere: 2
 ---
 

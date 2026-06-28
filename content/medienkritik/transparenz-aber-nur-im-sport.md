@@ -6,18 +6,18 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HGFWjpYW0AA53zF.jpg'
 tweetId: '2045011054346850740'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Gesellschaft
   - Demokratie
 tags:
-  - SRF
   - Transparenz
-  - Medienkritik
-  - Covid-19
+  - Einhegung
+  - Sport
+  - Covid
   - Impfstoffverträge
-  - Politik
-  - Gesellschaft
-  - Demokratie
+  - BAG
+  - RKI
+  - Asymmetrie
 seo:
   description: >-
     Der SRF-Folgeartikel heisst: «Nach Fall Fischer: Wenn Transparenz im Sport
@@ -25,17 +25,17 @@ seo:
     es…
 themen:
   - Transparenz
-  - Medienkritik
-  - Politik und Medien
-  - Covid-19-Pandemie
-  - Impfstoffverträge
+  - Covid-Dokumente
+  - Sportberichterstattung
+  - Behördenkommunikation
+  - Medienethik
 kritisiertes_medium: SRF
 kritisierter_beitrag: 'Nach Fall Fischer: Wenn Transparenz im Sport fehlt'
 kritisierter_autor: ''
 kritik_typ:
-  - Einordnungsfehler
-  - Selektion
-  - Kontextmangel
+  - Auslassung
+  - Framing
+  - Asymmetrie
 personen:
   - Fischer
   - Embolo
@@ -47,28 +47,31 @@ institutionen:
   - BAG
   - RKI
   - EU
-  - Pfizer
+  - Bundesverwaltungsgericht
   - Moderna
+  - Pfizer
   - Novavax
   - Janssen
   - AstraZeneca
   - CureVac
-gesetze_vorlagen:
-  - Covid-19-Impfstoffverträge
+  - Europäische Bürgerbeauftragte
+  - Europäischer Rechnungshof
+gesetze_vorlagen: []
 these: >-
-  Der SRF-Artikel über Transparenz im Sport ist ein Beispiel für eine
-  unzureichende Einordnung und Selektion von Themen, die wichtige Fragen zur
-  Transparenz in der Politik und den Medien ausklammert.
+  SRF begrenzt das Thema Transparenzversagen künstlich auf den Sport, um
+  politisch relevante Fälle bei Behörden, Pharma und Medien selbst auszublenden.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Artikel über Transparenz im Sport, da er
-  wichtige Fragen zur Transparenz in der Politik und den Medien ausklammert. Der
-  Autor argumentiert, dass die Transparenz in der Politik und den Medien viel
-  wichtiger ist als im Sport. Der Artikel wird als Beispiel für eine
-  unzureichende Einordnung und Selektion von Themen gesehen.
+  Der Artikel kritisiert, dass SRF im Fall Fischer das Thema fehlende
+  Transparenz ausschliesslich auf den Sport begrenzt, während zeitgleich
+  gravierende Transparenzprobleme bei BAG, RKI, EU, Pharmaunternehmen und bei
+  SRF selbst existieren. Diese Einhegung verhindere eine gesellschaftlich
+  relevante Panorama-Berichterstattung und schaffe eine Asymmetrie, bei der
+  Sportler moralisch geprüft werden, Behörden und Medien aber ungeschoren
+  bleiben.
 quelle_datum: ''
-quelle_format: ''
+quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: ''
+quelle_redaktion: SRF Panorama
 kritik_schwere: 3
 ---
 

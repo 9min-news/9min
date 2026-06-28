@@ -6,54 +6,60 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJOuHSiX0AADbuV.jpg'
 tweetId: '2059181286955036678'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Demokratie
   - Zensur/Meinungsfreiheit
 tags:
+  - Deepfakes
   - SRF
-  - Deepfake
-  - Medienkritik
+  - einseitige Berichterstattung
+  - Asymmetrie
+  - UBI
+  - Ombudsmann
+  - Zwangsfinanzierung
   - Demokratie
-  - Zensur
-  - Meinungsfreiheit
-  - Einseitigkeit
-  - Berichterstattung
 seo:
   description: >-
     SRF wehrt sich gegen Deepfake-Videos, die die Marke des Senders
     missbrauchen. Zu Recht. Aber die Empörung über KI-generierte Fälschungen
     verschleiert das…
 themen:
-  - Medienkritik
-  - Deepfake-Videos
-  - Einseitige Berichterstattung
-  - Demokratiegefährdung
-  - SRF-Kritik
+  - SRF-Bias
+  - Deepfake-Debatte
+  - Asymmetrie der Rechenschaft
+  - Demokratiegefährdung durch Medien
+  - SRG-Finanzierung
 kritisiertes_medium: SRF
-kritisierter_beitrag: ''
+kritisierter_beitrag: Reaktion von SRF auf Deepfake-Videos im Abstimmungskampf
 kritisierter_autor: ''
 kritik_typ:
+  - Asymmetrie
   - Framing
-  - Selektion
-  - Kontextmangel
+  - Behördenpropaganda
 personen:
   - Daniel Vogler
 institutionen:
   - SRF
-  - Universität Zürich
+  - SRG
+  - UBI
   - SP
   - SVP
-  - UBI
+  - Universität Zürich
+  - TikTok
 gesetze_vorlagen: []
 these: >-
-  Die Empörung über Deepfakes lenkt von der einseitigen Berichterstattung der
-  SRF ab, die eine größere Gefahr für die Demokratie darstellt.
+  SRF nutzt die Empörung über Deepfakes, um den Blick auf die eigene
+  systematisch einseitige, institutionell geschützte und zwangsfinanzierte
+  Berichterstattung zu verdecken, die für die Demokratie gefährlicher ist als
+  amateurhafte Fälschungen.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRF für ihre einseitige Berichterstattung und die
-  mangelnde Transparenz bei der Quellenwahl. Die Empörung über Deepfakes wird
-  als Ablenkung von der eigentlichen Problematik gesehen. Die SRF wird
-  vorgeworfen, eine selektive Wirklichkeit zu verbreiten, die durch Quellenwahl,
-  Rahmung und Perspektive entsteht.
+  Der Artikel kontrastiert SRF's harte Reaktion auf Deepfake-Videos
+  (Strafanzeige, Löschbegehren) mit der fehlenden Rechenschaft bei eigener
+  einseitiger Berichterstattung. Er argumentiert, dass professionelle,
+  institutionell geschützte Verzerrung durch Quellenwahl und Rahmung wirksamer
+  und schwerer erkennbar sei als Deepfakes. Die Asymmetrie — Deepfakes als
+  Gefahr, SRF-Bias als Auftragserfüllung — werde durch die Zwangsfinanzierung
+  und schwache Kontrollinstanzen wie die UBI verstärkt.
 quelle_datum: '2026-05-26'
 quelle_format: Online-Artikel
 quelle_sendung: ''

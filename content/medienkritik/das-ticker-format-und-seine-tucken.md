@@ -6,60 +6,70 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HGggVsrW4AAMG0X.jpg'
 tweetId: '2046921632522838025'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - EU/Aussenpolitik
-  - Klima/Energie
+  - Sicherheitspolitik
 tags:
+  - Liveticker
+  - SRF
   - Ukraine
-  - EU
-  - Russland
+  - EU-Hilfspaket
   - Orbán
-  - Selenski
-  - Putin
-  - Krieg
-  - Medien
+  - Framing
+  - Kontextmangel
+  - Einseitigkeit
 seo:
   description: >-
     Zum SRF-Ticker «Orban gibt Blockade von Ukraine-Hilfe und Sanktionen auf»
     vom 20.–22. April 2026 Der Beitrag ist kein klassischer Artikel, sondern
     ein…
 themen:
-  - Ukraine-Konflikt
-  - EU-Unterstützung
-  - Medienberichterstattung
-  - Kriegsberichterstattung
-  - Internationale Beziehungen
+  - Ukraine-Krieg-Berichterstattung
+  - Liveticker als journalistisches Format
+  - EU-Finanzhilfen für Ukraine
+  - Medien-Framing
+  - Diplomatie und Verhandlungsöffnung
 kritisiertes_medium: SRF News
 kritisierter_beitrag: Orban gibt Blockade von Ukraine-Hilfe und Sanktionen auf
 kritisierter_autor: ''
 kritik_typ:
   - Framing
-  - Auslassung
   - Kontextmangel
+  - Auslassung
 personen:
-  - Orbán
-  - Selenski
-  - Putin
+  - Viktor Orbán
+  - Péter Magyar
   - Wadephul
   - Kaja Kallas
+  - Selenski
+  - Putin
+  - Sybiha
 institutionen:
-  - EU
   - SRF
-  - Ukraine
+  - EU
+  - Ungarn
   - Russland
-  - Türkei
+  - Ukraine
+  - Biennale von Venedig
+  - Russland der Zukunft – Schweiz
+  - USA
   - Japan
+  - Türkei
 gesetze_vorlagen: []
 these: >-
-  Der SRF-Ticker über den Ukraine-Konflikt wertet durch Auswahl und Reihung der
-  Meldungen und gibt eine einseitige Darstellung der Ereignisse.
+  Der SRF-Liveticker präsentiert sachlich korrekte Einzelmeldungen, verzerrt
+  aber durch Titel-Dramaturgie, fehlenden Kontext und strukturelle Einseitigkeit
+  das Gesamtbild zu einer pro-ukrainischen, pro-EU-Erzählung ohne alternative
+  Perspektiven.
 zusammenfassung: >-
-  Der Artikel analysiert den SRF-Ticker über den Ukraine-Konflikt und kritisiert
-  die einseitige Darstellung der Ereignisse. Der Ticker wertet durch Auswahl und
-  Reihung der Meldungen und gibt eine klare Position zugunsten der EU und der
-  Ukraine. Der Artikel fordert eine ausgewogene Berichterstattung, die
-  alternative Perspektiven einbezieht und die Frage nach der Strategie im
-  Ukraine-Konflikt stellt.
+  Der Artikel analysiert einen SRF-Liveticker zum Ukraine-Krieg vom April 2026
+  und zeigt mehrere Schwächen auf: Der Titel verschleiert einen demokratischen
+  Regierungswechsel in Ungarn als persönliches Nachgeben Orbáns, das
+  90-Milliarden-EU-Paket wird ohne finanziellen Kontext präsentiert, der
+  Selenski-Putin-Gipfelwunsch wird als Randnotiz eingereiht, und die
+  Kallas-Drohung gegen die Biennale wird unkritisch übernommen. Der Ticker
+  liefere zuverlässige Einzelmeldungen, fehle aber bei der Einordnungsleistung,
+  die aus Information Orientierung machte.
 quelle_datum: '2026-04-20'
 quelle_format: Online-Artikel
 quelle_sendung: ''

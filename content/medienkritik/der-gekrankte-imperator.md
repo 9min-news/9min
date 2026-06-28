@@ -6,29 +6,29 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIqSilsXMAArye-.jpg'
 tweetId: '2056617648733962495'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Wirtschaft
-  - Gesellschaft
 tags:
+  - SRF
   - Elon Musk
   - OpenAI
-  - KI
-  - Wirtschaftskrieg
-  - Medienkritik
-  - SRF
-  - Journalismus
+  - Sam Altman
+  - Verjährung
+  - Künstliche Intelligenz
+  - Silicon Valley
+  - Berichterstattung
 seo:
   description: >-
     Wie SRF den Prozess gegen OpenAI auf eine Verjährungsfrist reduziert — und
     dabei die eigentliche Sensation verschweigt: die Entlarvung des Elon Musk
     Zum…
 themen:
-  - Elon Musk
-  - OpenAI
-  - KI-Technologie
-  - Wirtschaftskrieg
-  - Medienkritik
-kritisiertes_medium: SRF
+  - SRF-Berichterstattung über Musk-OpenAI-Prozess
+  - Verjährung vs. inhaltliche Aufarbeitung
+  - Musks Kontrollansprüche und Dynastiegedanke
+  - Wirtschaftskrieg im KI-Sektor
+  - IPO-Torpedierung
+kritisiertes_medium: SRF News
 kritisierter_beitrag: 'Niederlage für Elon Musk: US-Jury weist Klage gegen OpenAI ab'
 kritisierter_autor: ''
 kritik_typ:
@@ -43,20 +43,20 @@ institutionen:
   - OpenAI
   - Tesla
   - Microsoft
-gesetze_vorlagen:
-  - Verjährungsfrist in Kalifornien
+  - SpaceX
+  - xAI
+gesetze_vorlagen: []
 these: >-
-  Der SRF-Beitrag über den Prozess gegen OpenAI reduziert den Fall auf eine
-  Verjährungsfrist und verschweigt die eigentliche Sensation: die Entlarvung von
-  Elon Musks wahren Motiven und seiner Hybris.
+  SRF verschweigt die eigentliche Sensation des Musk-OpenAI-Prozesses — Musks
+  Dynastieanspruch und strategischen Wirtschaftskrieg — und reduziert ihn auf
+  eine Verjährungsfrist.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag über den Prozess gegen OpenAI, da er
-  die eigentliche Sensation des Falls, die Entlarvung von Elon Musks wahren
-  Motiven, verschweigt. Der SRF-Beitrag reduziert den Fall auf eine
-  Verjährungsfrist und lässt die Hintergründe und Motive von Elon Musk
-  unerwähnt. Der Artikel argumentiert, dass dies ein Beispiel für schlechten
-  Journalismus ist, der die Machtverhältnisse und die wahren Interessen der
-  Beteiligten nicht aufdeckt.
+  Der Artikel kritisiert die SRF-Berichterstattung über den Prozess Musk vs.
+  OpenAI, weil sie zentrale Enthüllungen aus den Gerichtsakten verschweigt.
+  Statt Musks Kontrollansprüche, Dynastiegedanken und den strategischen
+  Wirtschaftskrieg gegen OpenAI zu thematisieren, reduziert SRF den Fall auf
+  eine abgelaufene Verjährungsfrist. Dadurch werde Musk als betrogener Wohltäter
+  statt als gekränkter Imperator dargestellt.
 quelle_datum: '2026-05-19'
 quelle_format: Online-Artikel
 quelle_sendung: ''

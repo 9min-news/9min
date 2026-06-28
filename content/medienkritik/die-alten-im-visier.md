@@ -6,56 +6,59 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHdJLWrWIAAYo42.jpg'
 tweetId: '2051188741947961760'
 categories:
-  - Gesellschaft
+  - SRF/SRG
   - Wirtschaft
-  - Medienrecht
+  - Gesellschaft
 tags:
-  - Wohnungsmangel
-  - Alte
-  - Schuldzuweisung
-  - Medienberichterstattung
-  - Politik
-  - Geldpolitik
-  - Immobilienpreise
+  - Senioren
+  - Einfamilienhaus
+  - Wohnraum
+  - Negativzinsen
+  - SNB
+  - Sündenbock
+  - Unterbelegung
+  - Maklerbelästigung
 seo:
   description: >-
     Zur SRF-Berichterstattung «Warum Menschen im Alter im Einfamilienhaus wohnen
     bleiben» von Susanne Schmugge, Rendez-vous, 1. Mai 2026 Die Frage steht…
 themen:
-  - Wohnraumknappheit
-  - Altersdiskriminierung
-  - Medienkritik
+  - Wohnraumknappheit und Sündenbock-Konstruktion
+  - Geldpolitik und Immobilienpreise
+  - Generationenkonflikt-Framing
+  - Medienverantwortung im Strukturdiskurs
 kritisiertes_medium: SRF
 kritisierter_beitrag: Warum Menschen im Alter im Einfamilienhaus wohnen bleiben
 kritisierter_autor: Susanne Schmugge
 kritik_typ:
   - Framing
   - Auslassung
-  - Fehlinformation
+  - Kontextmangel
 personen:
+  - Susanne Schmugge
   - Walter
   - Rosemarie
-  - Susanne Schmugge
 institutionen:
   - SRF
+  - Rendez-vous
   - Schweizerische Nationalbank
+  - Bundesplatz 1
 gesetze_vorlagen:
   - Personenfreizügigkeit
 these: >-
-  Die Medienberichterstattung über die Wohnraumknappheit in der Schweiz
-  verschiebt die Schuld von der Politik und der Geldpolitik auf die ältere
-  Generation.
+  Der SRF-Beitrag verschiebt die strukturelle Verantwortung für die
+  Wohnraumknappheit von der Geld- und Zuwanderungspolitik auf Senioren und
+  bereitet diskursiv den Boden für umverteilende Massnahmen gegen ältere
+  Hausbesitzer.
 zusammenfassung: >-
-  Der Artikel kritisiert die Medienberichterstattung über die Wohnraumknappheit
-  in der Schweiz, insbesondere einen Beitrag von Susanne Schmugge im SRF. Der
-  Beitrag wird dafür kritisiert, die Schuld für die Wohnraumknappheit auf die
-  ältere Generation zu schieben, anstatt die politischen und geldpolitischen
-  Ursachen zu thematisieren. Der Artikel argumentiert, dass die
-  Medienberichterstattung eine politische Operation durchführt, indem sie die
-  Schuld auf eine demografische Gruppe verschiebt, die als legitimes Ziel
-  öffentlicher Kritik gilt.
+  9min.ch kritisiert einen Rendez-vous-Beitrag von Susanne Schmugge, der ältere
+  Einfamilienhausbesitzer als Ursache der Wohnraumknappheit darstellt. Die
+  Kritik moniert, dass zentrale strukturelle Ursachen wie die
+  SNB-Negativzinspolitik (2015–2022), die Zuwanderungspolitik und restriktive
+  Bauvorschriften ausgeblendet werden. Stattdessen werde Senioren die Schuld
+  zugewiesen und die Bedrängung älterer Hausbesitzer durch Makler normalisiert.
 quelle_datum: '2026-05-01'
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: Rendez-vous
 quelle_redaktion: SRF News
 kritik_schwere: 3

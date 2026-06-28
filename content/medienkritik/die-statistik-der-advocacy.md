@@ -6,62 +6,72 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIWltnmW8AEzhQk.jpg'
 tweetId: '2055231334008717447'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Gesellschaft
+  - Demokratie
 tags:
   - SRF
-  - LGBTIQ-Helpline
-  - Advocacy
   - Statistik
-  - Hate Crimes
-  - Diskriminierung
-  - Medienkritik
+  - Advocacy
+  - LGBTIQ
+  - Hate Crime
+  - Repräsentativität
+  - Polizeiliche Kriminalstatistik
+  - Auftragsstudie
 seo:
   description: >-
     Zum SRF-Beitrag «Rund 80 Prozent der LGBTIQ-Personen erleben
     Diskriminierung», 15. Mai 2026 281 Meldungen. 80 Prozent
     Diskriminierungserfahrung. 45 Fälle…
 themen:
-  - LGBTIQ-Rechte
-  - Hate Crimes
-  - Statistik
-  - Medienkritik
-kritisiertes_medium: SRF
+  - LGBTIQ-Diskriminierung
+  - Statistik-Methodik
+  - Advocacy-Berichterstattung
+  - Hate-Crime-Statistik
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Rund 80 Prozent der LGBTIQ-Personen erleben Diskriminierung
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
+  - Behördenpropaganda
   - Framing
-  - Fehlinformation
 personen:
   - Angelo Barrile
   - Anna Rosenwasser
   - Nicolas Walder
 institutionen:
   - SRF
-  - LGBTIQ-Helpline
+  - LGBTIQ Helpline
   - Bundesamt für Statistik
   - Pink Cross
   - LOS
   - Amnesty International
+  - TGNS
+  - Dialogai
+  - Queeramnesty
+  - InterAction
+  - gfs.bern
+  - Bundesrat
 gesetze_vorlagen:
   - Art. 261bis StGB
+  - Nationaler Aktionsplan gegen Homofeindlichkeit
 these: >-
-  Der SRF-Beitrag über Diskriminierung von LGBTIQ-Personen ist ein Beispiel für
-  ungenaue und irreführende Berichterstattung, die Advocacy-Statistiken als
-  Fakten weitergibt.
+  SRF präsentiert Advocacy-Statistiken einer selbst Finanzierung fordernden
+  Organisation als Fakten und verschweigt dabei methodische Grenzen,
+  Auftragsgeber sowie offizielle Polizeizahlen.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag über Diskriminierung von
-  LGBTIQ-Personen, da er ungenaue und irreführende Zahlen verwendet und die
-  Grenzen zwischen Meinung und Gewalt eindeutet. Der Beitrag basiert auf einer
-  Advocacy-Statistik, die von der LGBTIQ-Helpline erstellt wurde, und ignoriert
-  die offiziellen Polizeistatistiken. Der Artikel fordert eine Debatte, die auf
-  verifizierten Fakten basiert und die Komplexität der Realität nicht auf eine
-  einzige Zahl reduziert.
+  Der 9min-Artikel kritisiert einen SRF-Beitrag, der eine
+  80-Prozent-Diskriminierungsstatistik über LGBTIQ-Personen verbreitet, ohne
+  deren nicht-repräsentativen Charakter, die Herkunft als Auftragsstudie von
+  Advocacy-Organisationen und die offizielle Polizeiliche Kriminalstatistik (67
+  Straftaten 2024) zu erwähnen. SRF übernehme zudem eine Konflation von
+  Beleidigungen und körperlicher Gewalt sowie einen methodisch bedingten Anstieg
+  durch ein überarbeitetes Meldetool. Der Beitrag wird als Reproduktion einer
+  Pressemitteilung statt als Journalismus bewertet.
 quelle_datum: '2026-05-15'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: ''
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

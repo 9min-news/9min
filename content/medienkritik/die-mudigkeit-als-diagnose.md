@@ -11,13 +11,13 @@ categories:
   - SRF/SRG
 tags:
   - Pathologisierung
-  - Framing
-  - Klimafonds-Initiative
+  - Klimafatalismus
+  - Swissinfo
   - Ipsos
   - direkte Demokratie
-  - Fatalismus
-  - Swissinfo
-  - Marktforschung
+  - Framing
+  - Klimafonds-Initiative
+  - Umfrage-Kritik
 seo:
   description: >-
     Zur Swissinfo-Berichterstattung «Klimakrise: Mehr Fatalismus in der
@@ -26,9 +26,8 @@ seo:
 themen:
   - Pathologisierung demokratischer Entscheidungen
   - Klimaberichterstattung und Framing
-  - Marktforschung als politisches Instrument
   - Direkte Demokratie vs. Umfrage-Interpretation
-  - Klimafonds-Initiative als Kontext
+  - Marktforschung als journalistische Quelle
 kritisiertes_medium: Swissinfo
 kritisierter_beitrag: 'Klimakrise: Mehr Fatalismus in der Schweiz'
 kritisierter_autor: Luigi Jorio
@@ -42,22 +41,23 @@ personen:
 institutionen:
   - Swissinfo
   - Ipsos
-  - Ipsos Schweiz
+  - SRG
 gesetze_vorlagen:
   - Klimafonds-Initiative
 these: >-
-  Swissinfo pathologisiert eine demokratische Entscheidung der Schweizer
-  Bevölkerung als psychologisches Defizit, indem es politische Skepsis gegenüber
-  Klimamassnahmen als Fatalismus und Erschöpfung umdeutet.
+  Der Swissinfo-Artikel pathologisiert eine demokratisch legitimierte Position
+  der Schweizer Bevölkerung als psychologisches Defizit, indem er das Nein zur
+  Klimafonds-Initiative als «Fatalismus» und «Erschöpfung» umdeutet statt als
+  legitime politische Willensbildung zu behandeln.
 zusammenfassung: >-
-  Der 9min-Artikel kritisiert die Swissinfo-Berichterstattung über eine
-  Ipsos-Klimaumfrage, die die Schweizer Bevölkerung als fatalistisch und
-  erschöpft diagnostiziert. Die Kritik zeigt auf, dass diese Interpretation eine
-  demokratische Entscheidung (Nein zur Klimafonds-Initiative) als
-  psychologisches Defizit umdeutet und dabei den direktdemokratischen Kontext,
-  die statistische Fragilität der Umfrage sowie den unaufgeklärten Auftraggeber
-  ausblendet. Die Berichterstattung folge einer Mobilisierungslogik, die
-  politische Positionen als behandlungsbedürftige Pathologie tarnt.
+  Der 9min-Artikel kritisiert, dass Swissinfo eine Ipsos-Umfrage zur
+  Klimaeinstellung der Schweizer Bevölkerung übernimmt, ohne deren
+  pathologisierendes Framing zu hinterfragen. Die Bevölkerung werde als
+  «fatalistisch» und «erschöpft» diagnostiziert, obwohl ihr Verhalten konsistent
+  mit dem demokratischen Nein zur Klimafonds-Initiative ist. Der Artikel moniert
+  fehlenden Kontext bezüglich Auftraggeber, statistischer Fragilität bei 500
+  Befragten, direktdemokratischer Ausdrucksform und der vernachlässigbaren
+  Wirkung schweizerischer Klimapolitik auf die globale Erwärmung.
 quelle_datum: '2026-05-07'
 quelle_format: Online-Artikel
 quelle_sendung: ''

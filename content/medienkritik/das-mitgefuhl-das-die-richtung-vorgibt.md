@@ -6,58 +6,66 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HKB8fWMWgAA7d4i.jpg'
 tweetId: '2062785984765297031'
 categories:
+  - SRF/SRG
   - Gesellschaft
   - Demokratie
 tags:
-  - SRF
-  - Investigativ-Redaktion
-  - Sarah Nowotny
-  - Container-Knast
-  - Luzern
+  - Container-Gefängnis
   - Wauwilermoos
-  - Gefängnisbedingungen
-  - Recherche
+  - Überbelegung
+  - Strafvollzug
+  - Sympathie-Framing
+  - Thierry Urwyler
+  - Sarah Nowotny
+  - Investigativ-Redaktion
 seo:
   description: >-
     Dieser SRF-Beitrag von Sarah Nowotny aus der Investigativ-Redaktion
     schildert die Zustände im ersten Schweizer Container-Gefängnis im
     luzernischen…
 themen:
-  - Medienkritik
-  - Gefängnisse
-  - Container-Gefängnis
-  - Justiz
-kritisiertes_medium: SRF
+  - Strafvollzug
+  - Gefängnisüberbelegung
+  - Container-Gefängnis Wauwilermoos
+  - Kriminalpolitik
+  - Einseitige Berichterstattung
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Container-Knast im Kanton Luzern steht in der Kritik
 kritisierter_autor: Sarah Nowotny
 kritik_typ:
   - Auslassung
-  - Framing
   - Selektion
+  - Framing
 personen:
   - Sarah Nowotny
   - Thierry Urwyler
 institutionen:
   - SRF
   - Investigativ-Redaktion
-  - Luzerner Justizdepartement
   - Aufsichtskommission
+  - Luzerner Justizdepartement
+  - Humanrights.ch
+  - Bund
+  - Kanton Bern
+  - Kanton Tessin
 gesetze_vorlagen: []
 these: >-
-  Der SRF-Beitrag über das Container-Gefängnis in Wauwilermoos ist durch eine
-  klare Sympathie für die Häftlinge und gegen die Container geprägt, aber
-  vernachlässigt wichtige Aspekte wie die Überbelegung der Gefängnisse und die
-  Interessen der Opfer und der Öffentlichkeit.
+  Der SRF-Beitrag nutzt solide Recherche, lenkt sie aber durch einseitige
+  Quellenwahl und systematische Auslassungen auf eine vorbestimmte
+  Schlussfolgerung (weniger einsperren), ohne die Ursachen der Überbelegung oder
+  die Interessen von Opfern und Öffentlichkeit zu beleuchten.
 zusammenfassung: >-
-  Der Beitrag kritisiert die Zustände im Container-Gefängnis in Wauwilermoos,
-  aber die Kritik ist einseitig und vernachlässigt wichtige Aspekte. Der Beitrag
-  gibt den Behörden Raum zur Antwort, aber die normative Bewertung hängt an
-  einer einzigen externen Fachstimme. Die Frage, warum die Gefängnisse überhaupt
-  so voll sind wie nie, wird gestellt, aber nicht beantwortet.
+  Der 9min-Artikel analysiert einen SRF-Beitrag über das Container-Gefängnis
+  Wauwilermoos. Er lobt die Recherche und Mehrseitigkeit bei den Stellungnahmen,
+  kritisiert aber, dass die normative Bewertung an einer einzigen Fachstimme
+  hängt, die zentrale Frage nach den Ursachen der Rekord-Belegung gestellt und
+  fallengelassen wird, Opfer- und Sicherheitsinteressen vollständig fehlen und
+  die pragmatische Logik der Kantone unterschlagen wird. Die Containerlösung
+  werde gegen ein ideales Gefängnis statt gegen reale Alternativen gerahmt.
 quelle_datum: '2026-06-04'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: Investigativ-Redaktion
+quelle_redaktion: SRF Investigativ
 kritik_schwere: 2
 ---
 

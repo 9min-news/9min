@@ -7,17 +7,17 @@ coverImage: 'https://pbs.twimg.com/media/HIXQ9MhWsAAnj99.jpg'
 tweetId: '2055280676199346494'
 categories:
   - EU/Aussenpolitik
+  - Sicherheitspolitik
   - Zensur/Meinungsfreiheit
-  - Demokratie
 tags:
   - Neutralität
-  - Cassis
   - OSZE
+  - Cassis
+  - Chişinău
   - Europarat
   - Berset
-  - Chişinău
-  - FIMI
   - Sondertribunal
+  - FIMI
 seo:
   description: >-
     Zur OSZE/Europarat-Konferenz in Chişinău, 14. Mai 2026, und den Aussagen von
@@ -25,18 +25,18 @@ seo:
 themen:
   - Schweizer Neutralitätspolitik
   - OSZE-Vorsitz 2026
-  - Sondertribunal für Verbrechen der Aggression
-  - FIMI-Informationskontrolle
-  - EU-Sanktionen gegen Schweizer Staatsbürger
+  - Sondertribunal gegen Russland
+  - FIMI und Meinungsfreiheit
+  - EU-Sanktionen gegen Schweizer Bürger
 kritisiertes_medium: Bundesrat
 kritisierter_beitrag: >-
-  OSZE/Europarat-Kommunique von Chişinău und Tweet von Bundesrat Cassis zur
-  Unterstützung des Sondertribunals
+  OSZE/Europarat-Kommunique von Chişinău und Tweet von Ignazio Cassis zum
+  Sondertribunal
 kritisierter_autor: Ignazio Cassis
 kritik_typ:
+  - Behördenpropaganda
   - Framing
   - Auslassung
-  - Behördenpropaganda
 personen:
   - Ignazio Cassis
   - Alain Berset
@@ -50,28 +50,27 @@ institutionen:
   - Europarat
   - EU
   - Bundesrat
+  - EDA
   - NATO
   - Schweizer Nachrichtendienst
 gesetze_vorlagen:
   - Sondertribunal für das Verbrechen der Aggression
-  - EU-Sanktionsliste
+  - FIMI-Massnahmen
 these: >-
-  Die Schweiz hat in Chişinău ihre Neutralität aufgegeben, ein konfrontatives
-  Tribunal unterstützt und duldet stillschweigend die Sanktionierung eigener
-  Staatsbürger durch die EU.
+  Die Schweiz hat in Chişinău ihre Neutralität aufgegeben und sich einer
+  Konfrontationskoalition angeschlossen, die Schweizer Bürgerrechte bedroht.
 zusammenfassung: >-
-  Der Artikel analysiert das OSZE/Europarat-Kommunique vom 14. Mai 2026 in
-  Chişinău und kritisiert, dass Bundesrat Cassis die Schweizer Neutralität
-  aufgegeben habe, indem er ein Sondertribunal gegen Russland unterstützte und
-  'systematische Antworten' auf Informationsmanipulation ankündigte. Zugleich
-  wird bemängelt, dass die Schweiz Schweizer Staatsbürger wie Jacques Baud und
-  Nathalie Yamb schutzlos lässt, die von der EU sanktioniert werden. Die Kritik
-  richtet sich gegen die Verschiebung vom Dialog- zur Konfrontationsansatz und
-  den Verlust demokratischer Mitbestimmung.
+  Der Artikel kritisiert, dass Bundesrat Cassis an der OSZE/Europarat-Konferenz
+  in Chişinău die Schweizer Neutralität aufgegeben habe, indem er ein
+  Sondertribunal gegen Russland unterstützte und sich hinter FIMI-Massnahmen
+  stellte. Zugleich wird bemängelt, dass die Schweiz Schweizer Bürger wie
+  Jacques Baud und Nathalie Yamb schutzlos EU-Sanktionen überlässt. Die
+  Entwicklung wird als Übergang vom Dialogforum zur Konfrontationsarchitektur
+  gedeutet.
 quelle_datum: '2026-05-14'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: ''
+quelle_redaktion: EDA
 kritik_schwere: 3
 ---
 

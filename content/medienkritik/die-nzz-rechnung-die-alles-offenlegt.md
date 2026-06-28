@@ -6,24 +6,28 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJq6I0YWoAcBfbg.jpg'
 tweetId: '2061165118239523178'
 categories:
-  - Medienrecht
-  - Zensur/Meinungsfreiheit
-  - Demokratie
+  - Migration
+  - Abstimmungen
+  - EU/Aussenpolitik
 tags:
   - NZZ
-  - Journalismus
-  - Wertordnung
-  - Medienkritik
-  - Demokratie
-  - Meinungsfreiheit
+  - Fabian Schäfer
+  - 10-Millionen-Initiative
+  - Personenfreizügigkeit
+  - Framing
+  - Bevölkerungsprognose
+  - Wachstum
+  - Pro-Kopf-Wohlstand
 seo:
   description: >-
     Dieser Text verdient zunächst eine ehrliche Vorbemerkung: Was Fabian Schäfer
     in der NZZ liefert, ist solider, numerisch ernsthafter Journalismus. Drei…
 themen:
-  - Medienkritik
-  - Journalismus
-  - Wertordnung
+  - 10-Millionen-Initiative
+  - Personenfreizügigkeit
+  - Bevölkerungsszenarien des Bundes
+  - Wirtschaftswachstum vs. Pro-Kopf-Wohlstand
+  - Medien-Framing in der Migrationsdebatte
 kritisiertes_medium: NZZ
 kritisierter_beitrag: >-
   Streit um die 10-Millionen-Initiative: Führt sie zwingend zur Kündigung der
@@ -32,22 +36,30 @@ kritisierter_autor: Fabian Schäfer
 kritik_typ:
   - Framing
   - Auslassung
+  - Kontextmangel
 personen:
   - Fabian Schäfer
 institutionen:
   - NZZ
+  - SVP
+  - EU
   - Bund
 gesetze_vorlagen:
   - 10-Millionen-Initiative
+  - Personenfreizügigkeit
 these: >-
-  Die NZZ-Artikel verstecken ihre Wertordnung hinter einer neutralen Rechnung
-  und einer sorgfältigen Analyse.
+  Die NZZ-Rechnung zur 10-Millionen-Initiative tarnt eine unausgesprochene
+  Wertordnung — Erhaltung der Freizügigkeit und Wirtschaftswachstum als unfragte
+  Güter — als neutrale Arithmetik.
 zusammenfassung: >-
-  Der Artikel kritisiert die NZZ für ihre unausgesprochene Wertordnung in einem
-  Beitrag über die 10-Millionen-Initiative. Die NZZ stellt die Erhaltung der
-  Personenfreizügigkeit als Ziel dar, ohne dies zu hinterfragen. Der Artikel
-  zeigt auch, dass die NZZ ihre eigene Rechnung über ihre Sympathie stellt, aber
-  ihre Wertordnung nicht als solche zu erkennen gibt.
+  Die 9min.ch-Analyse lobt den NZZ-Beitrag von Fabian Schäfer für numerische
+  Redlichkeit, kritisiert aber drei unausgesprochene Prämissen: die
+  Personenfreizügigkeit werde als schützenswertes Gut gesetzt, das mittlere
+  Bundesszenario trotz eingestandener historischer Unterschätzung als Massstab
+  gewählt und Wirtschaftswachstum als Tugend behandelt, deren Bremsung als
+  'ironisch' gelte. Die zentrale Frage des Pro-Kopf-Wohlstands fehle
+  vollständig. Das Bild «Das Boot ist voll – oder nur das Tram?» setze zudem die
+  Stossrichtung vor dem Textbeginn.
 quelle_datum: '2026-05-30'
 quelle_format: Online-Artikel
 quelle_sendung: ''

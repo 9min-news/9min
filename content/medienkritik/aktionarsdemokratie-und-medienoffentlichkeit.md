@@ -6,55 +6,68 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIIohCRXoAA4skd.jpg'
 tweetId: '2054249018071335334'
 categories:
-  - Medienrecht
+  - SRF/SRG
+  - Billag/Gebühren
   - Demokratie
 tags:
-  - SRF
-  - Swatch
-  - Medienöffentlichkeit
-  - Aktionärsrechte
-  - Kritikabwehr
+  - Selbstreferenz
   - Ombudsstelle
   - Presserat
+  - Aktionärsrechte
+  - Online-GV
+  - Gebührenfinanzierung
+  - strukturelle Kritik
 seo:
   description: >-
     Zum SRF-Beitrag «Online-Generalversammlung der Swatch-Gruppe in der Kritik»,
     12. Mai 2026 Was berichtet wird Manuel Rentsch berichtet über die rein…
 themen:
-  - Medienkritik
   - Aktionärsdemokratie
-  - Öffentlich-rechtliche Anstalt
-kritisiertes_medium: SRF
+  - Medienkontrolle
+  - Service-public-Struktur
+  - Gebührenpflicht
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Online-Generalversammlung der Swatch-Gruppe in der Kritik
 kritisierter_autor: Manuel Rentsch
 kritik_typ:
   - Auslassung
-  - Framing
-  - Kontextmangel
+  - Asymmetrie
+  - Behördenpropaganda
 personen:
+  - Manuel Rentsch
   - Nayla Hayek
   - Steven Wood
 institutionen:
   - SRF
-  - Swatch
   - SRG
+  - Swatch-Gruppe
+  - Anlagestiftung Ethos
+  - Actares
   - Schweizer Presserat
+  - Ombudsstelle SRG
+  - Publikumsrat
 gesetze_vorlagen:
   - Aktienrechtsrevision 2023
+  - No Billag-Initiative 2018
+  - SRG-Halbierungs-Initiative
 these: >-
-  Die SRG als öffentlich-rechtliche Anstalt untergräbt die Aktionärsdemokratie
-  und die Medienöffentlichkeit durch ihre Kritikabwehr und mangelnde
-  Selbstbeobachtung.
+  SRF kritisiert bei Swatch die Aushöhlung demokratischer Kontrollmechanismen,
+  wendet dieselbe Kritik aber nicht auf die eigene Institution an, deren
+  Kontrollorgane strukturell wirkungslos sind und Kritik absorbieren statt
+  bearbeiten.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRG für ihre mangelnde Selbstbeobachtung und
-  Kritikabwehr. Die SRG berichtet über die Aushöhlung der Aktionärsdemokratie
-  bei Swatch, aber nicht über ihre eigene Kritikabwehr. Die Ombudsstelle und der
-  Presserat sind wirkungslos, und die Redaktion reagiert auf Kritik mit
-  Schweigen oder Pauschalqualifikation.
+  Der Artikel nutzt einen SRF-Beitrag über die virtuelle Generalversammlung der
+  Swatch-Gruppe als Aufhänger, um eine strukturelle Parallelkritik am SRF selbst
+  zu entwickeln. SRF zeige bei Swatch, wie formale demokratische Strukturen
+  erhalten bleiben, aber substanziell ausgehöhlt werden — genau dies gelte für
+  die eigenen Kontrollorgane (Ombudsstelle, Presserat, Publikumsrat), die Kritik
+  formal entgegennähmen, aber nicht bearbeiteten. Die Asymmetrie verschärfe den
+  Befund: Swatch-Aktionäre könnten ihre Aktien verkaufen, Gebührenzahler könnten
+  sich der Pflichtfinanzierung nicht entziehen.
 quelle_datum: '2026-05-12'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: ''
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

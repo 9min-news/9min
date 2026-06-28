@@ -6,60 +6,83 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HI19ctYWcAEQNRq.jpg'
 tweetId: '2057439249322926558'
 categories:
+  - Abstimmungen
+  - Migration
   - Demokratie
-  - Medienrecht
-  - Zensur/Meinungsfreiheit
 tags:
-  - Nachhaltigkeitsinitiative
   - Bundesbüchlein
-  - Abstimmungserläuterungen
-  - Medienkritik
-  - Politische Kommunikation
-  - Demokratie
-  - Meinungsfreiheit
-  - Zensur
+  - Nachhaltigkeitsinitiative
+  - Neutralität
+  - Framing
+  - Behördenpropaganda
+  - Personenfreizügigkeit
+  - SVP
+  - Bilaterale
 seo:
   description: >-
     Eine vollständige Analyse der Darstellung der Nachhaltigkeitsinitiative im
     Bundesbüchlein vom 14. Juni 2026 I. Ausgangspunkt: Was die Erläuterungen…
 themen:
+  - Bundesbüchlein-Neutralität
   - Nachhaltigkeitsinitiative
-  - Bundesbüchlein
   - Abstimmungserläuterungen
-  - Medienkritik
-  - Politische Kommunikation
-kritisiertes_medium: Bundesbüchlein
-kritisierter_beitrag: ''
+  - Personenfreizügigkeit
+  - Behördenpropaganda
+kritisiertes_medium: Bundeskanzlei
+kritisierter_beitrag: Bundesbüchlein zur Volksabstimmung vom 14. Juni 2026
 kritisierter_autor: ''
 kritik_typ:
   - Framing
-  - Selektion
-  - Kontextmangel
+  - Auslassung
+  - Behördenpropaganda
 personen: []
 institutionen:
+  - Bundeskanzlei
   - Bundesrat
   - Parlament
-  - Bundeskanzlei
+  - Nationalrat
+  - Ständerat
+  - SVP
+  - SEM
+  - BFS
+  - SECO
+  - Obsan
+  - Ecoplan
+  - FDP
+  - Mitte
+  - GLP
+  - SP
+  - Grüne
+  - IG Nachhaltigkeitsinitiative
+  - EU
   - SRF
 gesetze_vorlagen:
-  - Nachhaltigkeitsinitiative
-  - Bilaterale III
+  - Volksinitiative «Keine 10-Millionen-Schweiz! (Nachhaltigkeitsinitiative)»
+  - Änderung des Zivildienstgesetzes
+  - Bundesgesetz über die politischen Rechte
+  - Bilaterale I
+  - Paket Schweiz–EU (Bilaterale III)
+  - Masseneinwanderungsinitiative 2014
+  - Begrenzungsinitiative 2020
+  - Ausschaffungsinitiative 2010
 these: >-
-  Das Bundesbüchlein zur Nachhaltigkeitsinitiative ist in der Substanz nicht
-  neutral, obwohl es formal die Anforderungen an Sachlichkeit und Transparenz
-  erfüllt.
+  Das Bundesbüchlein erfüllt die formalen Anforderungen an Neutralität, ist in
+  der Substanz aber strukturell zur Empfehlung von Bundesrat und Parlament hin
+  verzerrt.
 zusammenfassung: >-
-  Die Analyse des Bundesbüchleins zur Nachhaltigkeitsinitiative zeigt, dass es
-  in der Substanz nicht neutral ist, obwohl es formal die Anforderungen an
-  Sachlichkeit und Transparenz erfüllt. Der Detailteil rahmt die Initiative
-  negativ, Folgen werden einseitig als Risiken dargestellt und das Vokabular ist
-  auf der Behördenseite wertend statt deskriptiv. Dies kann die Meinungsbildung
-  der Stimmberechtigten beeinflussen.
-quelle_datum: '2026-05-27'
-quelle_format: Online-Artikel
+  Die Analyse untersucht das Bundesbüchlein zur Abstimmung vom 14. Juni 2026 zur
+  Nachhaltigkeitsinitiative. Während die formale Architektur symmetrisch ist,
+  framt der als sachlich auftretende Detailteil die Initiative negativ,
+  verwendet ausschliesslich binnenamtliche Quellen, formuliert Prognosen als
+  Fakten und lässt positive Folgen sowie parlamentarische Alternativen
+  unerwähnt. Angesichts der Diskrepanz zwischen parlamentarischer Mehrheit
+  (63–68% Nein) und Umfragewerten (47/47) ist diese strukturelle Verzerrung
+  demokratiepolitisch relevant.
+quelle_datum: '2026-06-14'
+quelle_format: Print
 quelle_sendung: ''
-quelle_redaktion: ''
-kritik_schwere: 2
+quelle_redaktion: Bundeskanzlei
+kritik_schwere: 3
 ---
 
 **Eine vollständige Analyse der Darstellung der Nachhaltigkeitsinitiative im **[Bundesbüchlein vom 14. Juni 2026](https://www.admin.ch/de/volksabstimmung-vom-14-juni-2026)

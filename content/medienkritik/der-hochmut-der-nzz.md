@@ -7,54 +7,69 @@ coverImage: 'https://pbs.twimg.com/media/HJKVkZTWcAA6hjS.jpg'
 tweetId: '2058872660927410576'
 categories:
   - EU/Aussenpolitik
+  - Migration
   - Demokratie
-  - Medienrecht
 tags:
   - NZZ
   - Georg Häsler
   - SVP-Initiative
-  - Werte- und Schicksalsgemeinschaft
+  - Personenfreizügigkeit
+  - direkte Demokratie
+  - Bilaterale
   - Zuwanderung
-  - Resilienz
-  - Hybris
+  - Eigensinn
 seo:
   description: >-
     Wie Georg Häsler die SVP-Initiative als «Alleingang» und «Hochmut» rahmt,
     dabei selbst die hybristische Annahme vertritt, die Schweiz müsse sich
     Europa…
 themen:
-  - Schweizerische Neutralität
-  - Europäische Integration
-  - Direkte Demokratie
+  - SVP-Bevölkerungsobergrenze-Initiative
+  - Personenfreizügigkeit und Bilaterale Verträge
+  - Direkte Demokratie vs. Elitenbevormundung
+  - EU-Resilienz vs. Schweizer Selbstbestimmung
+  - Zuwanderungskosten und Wirtschaftsnutzen
 kritisiertes_medium: NZZ
 kritisierter_beitrag: 'Hochmut kommt vor dem Fall: Der Alleingang in Europa hat Konsequenzen'
 kritisierter_autor: Georg Häsler
 kritik_typ:
   - Framing
-  - Fehlinformation
-  - Selektion
+  - Auslassung
+  - Kontextmangel
 personen:
   - Georg Häsler
+  - Schwarzenbach
 institutionen:
   - NZZ
   - EU
-  - SVP
+  - EU-Kommission
+  - Nato
+  - Frontex
 gesetze_vorlagen:
-  - SVP-Initiative
+  - SVP-Initiative zur Bevölkerungsobergrenze
+  - Schwarzenbach-Initiative
+  - EWR-Abstimmung 1992
+  - EU-Beitrittsinitiative 2001
+  - Masseneinwanderungsinitiative
+  - Personenfreizügigkeit 2005
 these: >-
-  Die Schweiz hat keine Wahl, als sich der EU anzuschließen und ihre
-  Souveränität aufzugeben, um zu überleben.
+  Häsler rahmt die Schweizer Selbstbestimmung als «Hybris» und «Alleingang»,
+  während er selbst die hybristische Annahme vertritt, die Schweiz müsse sich
+  der EU unterordnen, die Zuwanderungskosten verschweigt und die direkte
+  Demokratie als «Gefühlsausbruch» abwertet.
 zusammenfassung: >-
-  Der Artikel kritisiert den NZZ-Kommentar von Georg Häsler, der die
-  Schweizerische Neutralität und Direkte Demokratie als 'Hochmut' und 'Hybris'
-  bezeichnet. Der Autor argumentiert, dass die Schweiz immer eigensinnig war und
-  ihre Souveränität verteidigen muss, anstatt sich der EU anzuschließen. Der
-  Artikel fordert eine offene Diskussion über die Konsequenzen der Zuwanderung
-  und die Resilienz der Schweiz.
+  Der 9min.ch-Artikel kritisiert den NZZ-Kommentar von Georg Häsler zur
+  SVP-Initiative als Framing, das Schweizer Selbstbestimmung als «Eigensinn» und
+  «Hybris» diskreditiere, während EU-Drohungen unkritisch als Sachlichkeit
+  präsentiert würden. Häsler verschweige die konkreten Zuwanderungskosten,
+  verdrehe das Resilienz-Argument zuungunsten der Schweiz und werte die direkte
+  Demokratie als «elektoralen Gefühlsausbruch» ab. Die eigentliche Hybris liege
+  bei denen, die der Schweiz die Wahl absprechen und Bevormundung als
+  Schicksalsgemeinschaft verkaufen.
 quelle_datum: '2026-05-23'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: NZZ
+quelle_redaktion: NZZ Meinung
 kritik_schwere: 3
 ---
 

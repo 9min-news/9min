@@ -6,30 +6,30 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIRNy2SXAAAZG76.jpg'
 tweetId: '2054854054669435289'
 categories:
+  - SRF/SRG
+  - Migration
   - Gesellschaft
-  - Demokratie
-  - Zensur/Meinungsfreiheit
 tags:
-  - SRF
-  - Gefängnisse
-  - Inhaftierte
-  - Ausländer
-  - Kriminalität
+  - Statistik
+  - Auslassung
+  - Nationalität
+  - Strafvollzug
   - Einwanderung
-  - Medien
-  - Zensur
+  - Kriminalität
+  - Behördenpropaganda
+  - Codierung
 seo:
   description: >-
     Zum SRF-Beitrag «Warum sind Schweizer Gefängnisse so ausgelastet?», 13. Mai
     2026 Was berichtet wird Ende Januar 2026 erreichte die Zahl der
     Inhaftierten…
 themen:
-  - Schweizer Gefängnisse
-  - Inhaftierte
+  - Gefängnisauslastung
   - Ausländerkriminalität
-  - Einwanderungspolitik
-  - Medienkritik
-kritisiertes_medium: SRF
+  - Medienverschweigen
+  - Ausschaffungspraxis
+  - Strafvollzugsreform
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Warum sind Schweizer Gefängnisse so ausgelastet?
 kritisierter_autor: ''
 kritik_typ:
@@ -41,22 +41,26 @@ personen:
 institutionen:
   - SRF
   - Bundesamt für Statistik
+  - Konferenz der kantonalen Justiz- und Polizeidirektoren
   - >-
     Schweizerisches Institut für Strafvollzugs- und
     Strafvollstreckungswissenschaften
 gesetze_vorlagen:
   - Ausschaffungsinitiative 2010
+  - Strafgesetzbuch
 these: >-
-  Die Schweizer Medien, insbesondere der SRF, verschweigen die wahre Ursache für
-  die hohe Auslastung der Schweizer Gefängnisse, nämlich die Überrepräsentation
-  von Ausländern unter den Inhaftierten.
+  SRF verschweigt im Beitrag über die Rekordauslastung der Schweizer Gefängnisse
+  die zentrale Tatsache, dass rund 72 Prozent der Inhaftierten ausländische
+  Staatsangehörige sind, und präsentiert stattdessen eine kosmetische Lösung als
+  wesentlich.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag 'Warum sind Schweizer Gefängnisse so
-  ausgelastet?' für die Auslassung wichtiger Informationen, insbesondere die
-  Tatsache, dass 72% der Inhaftierten Ausländer sind. Der Artikel argumentiert,
-  dass diese Auslassung die öffentliche Debatte über die Einwanderungspolitik
-  und die Kriminalitätsstatistik beeinflusst und dass die Medien ihre
-  Verantwortung, die Bevölkerung umfassend zu informieren, nicht erfüllen.
+  Der 9min-Artikel kritisiert, dass der SRF-Beitrag über die Rekordauslastung
+  der Schweizer Gefängnisse die bekannte und dokumentierte Tatsache ausblendet,
+  dass rund 72 Prozent der Inhaftierten Ausländer sind. Statt diese zentrale
+  Ursache zu benennen, werde ein Nebenproblem (Ersatzfreiheitsstrafen) als
+  Lösungsansatz präsentiert. Die Auslassung wird als systematische
+  Schutzstrategie gedeutet, um nicht der SVP in die Hände zu spielen, was jedoch
+  den demokratischen Diskurs beschädige.
 quelle_datum: '2026-05-13'
 quelle_format: Online-Artikel
 quelle_sendung: ''

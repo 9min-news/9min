@@ -6,59 +6,69 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HG-uow-bEAAAVWq.jpg'
 tweetId: '2049048423542772161'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Demokratie
   - Zensur/Meinungsfreiheit
 tags:
-  - Demokratie
-  - Medien
-  - Politik
-  - Kritik
-  - Öffentlich-rechtlicher Rundfunk
+  - Service public
+  - Milieuverengung
+  - Demokratieschutz
   - SRF
   - SWI
-  - Medienrecht
+  - liberal-progressive Perspektive
+  - direkte Demokratie
+  - Souveränität
 seo:
   description: >-
     Einige Wochen systematische Beobachtung des Schweizer öffentlich-rechtlichen
     Rundfunks. Sachsen-Anhalt. EU-Beistandsklausel. Trump-Umfragen. Russland.…
 themen:
-  - Demokratieschutz
-  - Medienkritik
-  - Politische Berichterstattung
   - Öffentlich-rechtlicher Rundfunk
-  - Medienpluralität
+  - Demokratieschutz-Debatten
+  - Milieuverengung im Journalismus
+  - Service-public-Auftrag
+  - Schweizer direkte Demokratie
 kritisiertes_medium: SRF
-kritisierter_beitrag: ''
+kritisierter_beitrag: >-
+  Systematische Beobachtung des Schweizer öffentlich-rechtlichen Rundfunks über
+  mehrere Wochen
 kritisierter_autor: ''
 kritik_typ:
   - Framing
   - Selektion
-  - Kontextmangel
-personen: []
+  - Asymmetrie
+personen:
+  - Trump
 institutionen:
   - SRF
   - SWI
   - EU
   - NATO
-gesetze_vorlagen: []
+  - EU-Gremien
+  - NGOs
+  - Gerichte
+  - Ministerien
+gesetze_vorlagen:
+  - EU-Beistandsklausel
 these: >-
-  Der öffentlich-rechtliche Rundfunk in der Schweiz vertritt oft eine liberale,
-  progressive Perspektive und vernachlässigt dabei die Vielfalt der Meinungen
-  und die direkte Demokratie.
+  Der Schweizer öffentlich-rechtliche Rundfunk erzählt die Welt systematisch aus
+  einer liberal-progressiven Perspektive, die sich selbst nicht mehr als
+  Perspektive erkennt, und verkennt damit seinen Verfassungsauftrag zur
+  Ausgewogenheit.
 zusammenfassung: >-
-  Der Artikel kritisiert den öffentlich-rechtlichen Rundfunk in der Schweiz für
-  seine einseitige Berichterstattung und die Vernachlässigung der direkten
-  Demokratie. Der Autor argumentiert, dass die Medien eine wichtige Rolle bei
-  der Förderung der Demokratie spielen, aber dass sie auch die Gefahr der
-  Selbstimmunisierung und der Unterdrückung von abweichenden Meinungen bergen.
-  Der Artikel fordert einen besseren Demokratieschutz, der auch die Kritik an
-  den Schutzmechanismen selbst schützt.
+  Der Artikel fasst systematische Beobachtungen des Schweizer
+  öffentlich-rechtlichen Rundfunks zusammen und identifiziert ein
+  wiederkehrendes Muster liberal-progressiver Deutung, das sich selbst als
+  Realität versteht. Kritisiert wird eine Milieuverengung, die Schweizer
+  Spezifika wie direkte Demokratie und Souveränität in den Hintergrund drängt
+  und Demokratieschutz-Debatten einseitig führt. Der Autor fordert echten
+  Demokratieschutz, der auch Bürger vor Institutionen schützt und Kritik an
+  Schutzmechanismen selbst zulässt.
 quelle_datum: ''
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: ''
-quelle_redaktion: ''
-kritik_schwere: 2
+quelle_redaktion: SRF
+kritik_schwere: 3
 ---
 
 Einige Wochen systematische Beobachtung des Schweizer öffentlich-rechtlichen Rundfunks. Sachsen-Anhalt. EU-Beistandsklausel. Trump-Umfragen. Russland. Ungarn. Demokratieberichte.

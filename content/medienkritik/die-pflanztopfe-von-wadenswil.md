@@ -6,53 +6,68 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHnnFraXIAAJCie.jpg'
 tweetId: '2051925590672826745'
 categories:
-  - Gesellschaft
   - Wirtschaft
-  - Medienrecht
+  - Gesellschaft
+  - Migration
 tags:
-  - Wädenswil
-  - Barbershops
-  - Nailstudios
-  - Kebab-Stände
   - Geldwäsche
-  - Stadtplanung
-  - Politische Korrektheit
+  - Barbershops
+  - Wädenswil
+  - Daniela Haag
+  - Astrid Furrer
+  - Tages-Anzeiger
+  - Behördenpropaganda
+  - Pflanztöpfe
 seo:
   description: >-
     Zum Tagesanzeiger-Artikel «Wir wollen verstehen, wieso so viele Barbershops
     entstanden sind», 29. April 2026 Der Wädenswiler Stadtrat hat 31 Massnahmen…
 themen:
+  - Geldwäsche durch Bargeldgeschäfte
   - Innenstadtverödung
-  - Geldwäsche
-  - Politische Verantwortung
+  - Medienkomplizenschaft
+  - Stadtplanung vs. Wirtschaftskriminalität
+  - Politische Tabuisierung
 kritisiertes_medium: Tages-Anzeiger
 kritisierter_beitrag: 'Wir wollen verstehen, wieso so viele Barbershops entstanden sind'
 kritisierter_autor: Daniela Haag
 kritik_typ:
   - Auslassung
-  - Framing
+  - Behördenpropaganda
   - Kontextmangel
 personen:
   - Astrid Furrer
   - Daniela Haag
 institutionen:
-  - Stadtrat Wädenswil
   - Tages-Anzeiger
+  - MROS
+  - Bundeskriminalamt
   - FDP
+  - SVP
+  - SP
+  - NZZ
+  - SRF
+  - Kantonspolizei
+  - Stadtrat Wädenswil
 gesetze_vorlagen: []
 these: >-
-  Die Stadt Wädenswil und die Medien vermeiden die Diskussion über die wahre
-  Ursache der Innenstadtverödung, nämlich die Geldwäsche durch Bargeldgeschäfte.
+  Der Tages-Anzeiger-Artikel und der Wädenswiler Stadtrat vermeiden kollaborativ
+  die bekannte Ursache der Innenstadtverödung — Geldwäsche durch
+  Bargeldgeschäfte — und verlagern das Problem in ein harmloses
+  stadtplanerisches Vokabular.
 zusammenfassung: >-
-  Der Artikel kritisiert die Stadt Wädenswil und den Tages-Anzeiger für die
-  Vermeidung der Diskussion über die wahre Ursache der Innenstadtverödung. Die
-  Stadt plant 31 Massnahmen zur Aufwertung des Stadtzentrums, aber ignoriert die
-  eigentliche Ursache des Problems. Der Tages-Anzeiger übernimmt diese
-  Verlagerung der Diskussion, ohne sie als solche kenntlich zu machen.
+  Der 9min-Artikel kritisiert, dass die Tages-Anzeiger-Journalistin Daniela Haag
+  den Satz der Wädenswiler Stadträtin Astrid Furrer, man wolle verstehen, warum
+  so viele Barbershops, Nailstudios und Kebab-Stände entstanden seien,
+  unkommentiert stehen lässt. Das Phänomen sei in der europäischen
+  Strafverfolgung seit über einem Jahrzehnt als Geldwäsche-Modell organisierter
+  Kriminalität bekannt. Weder die Behörde noch die Zeitung benenne dies,
+  stattdessen werde das Problem auf Pflanztöpfe und städtebauliche Massnahmen
+  reduziert.
 quelle_datum: '2026-04-29'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: Tages-Anzeiger
+quelle_redaktion: Inland
 kritik_schwere: 3
 ---
 

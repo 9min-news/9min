@@ -6,17 +6,18 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHVI9P_XQAEywV4.jpg'
 tweetId: '2050625895166079227'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Migration
-  - Zensur/Meinungsfreiheit
+  - Abstimmungen
 tags:
-  - SRF
   - Echo der Zeit
   - Griechenland
-  - Migrationspolitik
-  - Schweiz
-  - Journalismus
-  - Manipulation
+  - Schlepper-Praxis
+  - NGO-Verortung
+  - Asymmetrie
+  - Kontextmangel
+  - Selektion
+  - libysche Realität
 seo:
   description: >-
     Zur SRF-Berichterstattung «Kriminalisierung Geflüchteter — Kritik an
@@ -24,42 +25,55 @@ seo:
     2026…
 themen:
   - Migrationsberichterstattung
-  - Geflüchtete
-  - Schlepperkriminalität
-kritisiertes_medium: SRF
+  - Schlepperkriminalität im Mittelmeer
+  - Asymmetrie der Stimmen
+  - NGO als Quelle
+  - 10-Millionen-Initiative
+kritisiertes_medium: SRF Echo der Zeit
 kritisierter_beitrag: >-
   Kriminalisierung Geflüchteter — Kritik an Griechenland: Geflüchtete als
   Schlepper verhaftet
 kritisierter_autor: ''
 kritik_typ:
-  - Framing
   - Auslassung
-  - Fehlinformation
+  - Selektion
+  - Asymmetrie
 personen:
   - Irini Zilavaki
   - Rose
 institutionen:
   - SRF
-  - EU
+  - Echo der Zeit
+  - Fifty out of Many
   - UNHCR
+  - Europol
   - Frontex
+  - EU
+  - griechische Küstenwache
+  - libysche Küstenwache
+  - griechische Justiz
+  - griechische Regierung
 gesetze_vorlagen:
   - 10-Millionen-Initiative
+  - Celio-Standard 1940
 these: >-
-  Der SRF-Beitrag über die Verhaftung von Geflüchteten in Griechenland ist eine
-  Petition in journalistischer Verpackung, die eine klare Botschaft vermittelt,
-  ohne die notwendige Neutralität und Objektivität zu wahren.
+  Der SRF-Beitrag aus Griechenland ist keine Reportage, sondern eine einseitige
+  Petition in journalistischer Verpackung, die durch systematische Auslassungen,
+  Selektion und fehlenden Kontext im Vorfeld einer migrationspolitischen
+  Abstimmung politisch wirkt.
 zusammenfassung: >-
-  Der Artikel kritisiert einen SRF-Beitrag über die Verhaftung von Geflüchteten
-  in Griechenland, der als Petition in journalistischer Verpackung bezeichnet
-  wird. Der Beitrag wird für seine einseitige Darstellung und die Auslassung von
-  wichtigen Informationen kritisiert. Der Artikel fordert eine neutralere und
-  objektivere Berichterstattung, insbesondere in einer Zeit, in der die
-  schweizerische Bevölkerung über Migrationspolitik abstimmen wird.
+  9min.ch analysiert eine Echo-der-Zeit-Reportage vom 30. April 2026 über
+  griechische Verhaftungen von Geflüchteten als mutmassliche Schlepper. Der
+  Beitrag kritisiert, dass ausschliesslich NGO-aktivistische und betroffene
+  Stimmen zu Wort kommen, während griechische Justiz, Regierung, EU und
+  Strafrechtler fehlen. Zudem werde die dokumentierte Praxis der organisierten
+  Schleppernetzwerke, die libysche Realität, die juristische Einordnung und die
+  Stimmen der Ertrunkenen ausgeblendet. Der Beitrag wird als Teil einer
+  systematischen SRF-Tendenz im Vorfeld der 10-Millionen-Initiative eingeordnet.
 quelle_datum: '2026-04-30'
 quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
-quelle_redaktion: SRF
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

@@ -6,55 +6,70 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HH9WBI5W4AY1wsV.jpg'
 tweetId: '2053454554591604809'
 categories:
+  - Migration
+  - Abstimmungen
   - Medienrecht
-  - Wirtschaft
-  - Demokratie
 tags:
   - NZZ
+  - Felix Lill
   - Japan
-  - Schweiz
-  - Migration
-  - Wirtschaft
-  - Abstimmung
-  - Kampagnenpostille
+  - 10-Millionen-Initiative
+  - Framing
+  - Abstimmungseinfluss
+  - Kausalitätsbehauptung
+  - Auslandsreportage
 seo:
   description: >-
     Zum NZZaS-Artikel «Liebe Schweiz, willst du wirklich werden wie Japan?», 10.
     Mai 2026 Felix Lill berichtet aus Japan über die Folgen einer schrumpfenden…
 themen:
-  - Migration
-  - Wirtschaftswachstum
-  - Abstimmungskampagne
+  - Abstimmungsjournalismus
+  - Monokausale Erklärung
+  - Migration und Wirtschaftswachstum
+  - Quellenselektion
+  - Demografischer Wandel
 kritisiertes_medium: NZZ
 kritisierter_beitrag: 'Liebe Schweiz, willst du wirklich werden wie Japan?'
 kritisierter_autor: Felix Lill
 kritik_typ:
   - Framing
-  - Fehlinformation
   - Selektion
+  - Auslassung
 personen:
   - Felix Lill
   - Toshihiro Menju
+  - Marilyn Monroe
 institutionen:
   - NZZ
+  - NZZaS
   - Japanisches Zentrum für internationalen Austausch
+  - IWF
+  - OECD
+  - Weltbank
+  - SECO
+  - ETH
+  - Japan Times
 gesetze_vorlagen:
   - Keine 10-Millionen-Schweiz-Initiative
 these: >-
-  Der Artikel der NZZ suggeriert, dass Japans wirtschaftliche Stagnation auf
-  seine restriktive Immigrationspolitik zurückzuführen ist und warnt die Schweiz
-  vor ähnlichen Folgen, wenn sie die 'Keine 10-Millionen-Schweiz'-Initiative
-  annimmt.
+  Die NZZ tarnt einen abstimmungspolitischen Interventionstext als
+  Auslandsreportage, indem sie Japans wirtschaftliche Stagnation monokausal auf
+  restriktive Migration zurückführt und dabei zentrale ökonomische Forschung
+  sowie Gegenbeispiele auslässt.
 zusammenfassung: >-
-  Der Artikel der NZZ über die Folgen einer schrumpfenden Bevölkerung in Japan
-  wird kritisiert, weil er eine zu einfache Kausalität zwischen Migration und
-  Wirtschaftswachstum suggeriert und die Schweizer Stimmberechtigten vor einer
-  bestimmten Entscheidung warnen will. Der Artikel ignoriert die komplexe
-  ökonomische Realität und die einschlägige internationale Forschung.
+  Der 9min.ch-Artikel kritisiert einen NZZaS-Beitrag von Felix Lill, der fünf
+  Wochen vor der Abstimmung über die 10-Millionen-Initiative erschien und Japans
+  Demografie als Warnschild für die Schweiz inszeniert. Die Kritik zeigt auf,
+  dass der Artikel Japans wirtschaftliche Stagnation einseitig auf fehlende
+  Migration reduziert, dabei die gesamte wirtschaftshistorische Forschung zu
+  Japans Bilanzrezession, Immobilienblase und strukturellen Problemen auslässt.
+  Zudem wird nur ein einziger Experte zitiert, dessen Position exakt der
+  Artikelaussage entspricht, während internationale Migrationsforschung und
+  Gegenbeispiele wie Deutschland oder Italien fehlen.
 quelle_datum: '2026-05-10'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: NZZ
+quelle_redaktion: NZZaS
 kritik_schwere: 3
 ---
 

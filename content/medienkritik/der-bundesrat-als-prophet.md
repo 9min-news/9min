@@ -6,54 +6,62 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HI50g9mXoAAGwCQ.jpg'
 tweetId: '2057710382249119875'
 categories:
-  - Medienrecht
+  - Abstimmungen
+  - Migration
   - Demokratie
-  - Gesellschaft
 tags:
-  - Tagesanzeiger
-  - Bundesrat
   - Beat Jans
-  - 10-Millionen-Initiative
-  - Brexit-Vergleich
-  - Gesundheitsgefährdung
-  - Demokratie
+  - Tages-Anzeiger
+  - Interview-Kritik
+  - Brexit-Analogie
+  - Angstrhetorik
+  - Behördenpropaganda
+  - Wachstumsdebatte
+  - direkte Demokratie
 seo:
   description: >-
     Wie der Tagesanzeiger Beat Jans eine ungetrübte Plattform für Apokalyptik
     bietet, den Brexit-Vergleich als Waffe zulässt, ohne ihn zu prüfen, die…
 themen:
-  - Medienkritik
-  - Politische Berichterstattung
-  - Bevölkerungswachstum
-kritisiertes_medium: Tagesanzeiger
-kritisierter_beitrag: Interview mit Bundesrat Beat Jans
+  - 10-Millionen-Initiative
+  - Bevölkerungsbegrenzung
+  - Brexit-Vergleich
+  - Gesundheitswesen-Personalmangel
+  - Wachstumsgrenzen
+kritisiertes_medium: Tages-Anzeiger
+kritisierter_beitrag: Interview mit Bundesrat Beat Jans über die 10-Millionen-Initiative
 kritisierter_autor: ''
 kritik_typ:
-  - Framing
-  - Fehlinformation
-  - Selektion
+  - Behördenpropaganda
+  - Auslassung
+  - Kontextmangel
 personen:
   - Beat Jans
 institutionen:
+  - Tages-Anzeiger
   - Bundesrat
-  - Tagesanzeiger
+  - Europäische Union
+  - NHS
+  - Unispital Basel
 gesetze_vorlagen:
   - 10-Millionen-Initiative
+  - SVP-Initiative
 these: >-
-  Der Tagesanzeiger bietet Bundesrat Beat Jans eine ungetrübte Plattform für
-  Apokalyptik und lässt ihn unkorrigiert falsche Vergleiche und Behauptungen
-  äußern.
+  Der Tages-Anzeiger bietet Bundesrat Beat Jans eine ungeprüfte Plattform für
+  apokalyptische Rhetorik gegen die 10-Millionen-Initiative, ohne seine
+  Behauptungen zu hinterfragen oder alternative Perspektiven einzufordern.
 zusammenfassung: >-
-  Der Artikel kritisiert das Interview des Tagesanzeigers mit Bundesrat Beat
-  Jans über die 10-Millionen-Initiative. Der Tagesanzeiger lässt Jans
-  unkorrigiert falsche Vergleiche und Behauptungen äußern, ohne die Fakten zu
-  prüfen oder die Demokratie zu verteidigen. Der Artikel argumentiert, dass dies
-  keine journalistische Aufgabe ist, sondern eine Plattform für die
-  Apokalypse-Predigt des Bundesrats.
+  Der Artikel kritisiert ein Tages-Anzeiger-Interview mit Bundesrat Beat Jans
+  als reine Plattform ohne journalistische Hinterfragung. Jans dürfe den
+  Brexit-Vergleich ziehen, Gesundheitsgefährdung behaupten und Wachstumsgrenzen
+  verweigern, ohne dass die Interviewerin auf Faktenprüfung, Kontext oder
+  Gegenargumente drängt. 9min.ch wirft dem Tages-Anzeiger vor, damit
+  Behördenpropaganda statt Journalismus zu betreiben und den demokratischen
+  Diskurs zur Initiativabstimmung zu verzerren.
 quelle_datum: '2026-05-21'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: 9min.ch
+quelle_redaktion: ''
 kritik_schwere: 3
 ---
 

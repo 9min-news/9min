@@ -6,53 +6,66 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHxZ2HYWAAMOhxX.jpg'
 tweetId: '2052614456820023708'
 categories:
+  - SRF/SRG
   - Wirtschaft
+  - EU/Aussenpolitik
 tags:
-  - SRF
   - Trump
   - Zölle
-  - US-Handelsgericht
-  - Wirtschaftspolitik
-  - Medienkritik
-  - Journalismus
-  - Politik
+  - Trade Court
+  - Verfassungsrecht
+  - Handelsbilanzdefizit
+  - Reindustrialisierung
+  - Personalisierung
+  - Asymmetrie
 seo:
   description: >-
     Zur SRF-Berichterstattung «Trump kassiert vor Gericht die nächste
     Zoll-Niederlage», 8. Mai 2026 Was berichtet wird SRF meldet am 8. Mai 2026:
     Ein…
 themen:
-  - Trump
-  - Zollpolitik
-  - US-Handelsgericht
-  - Wirtschaftspolitik
-  - Medienkritik
-kritisiertes_medium: SRF
+  - Zollpolitik Trump
+  - US-Verfassungsrecht
+  - Medienframing
+  - Wirtschaftspolitische Einordnung
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Trump kassiert vor Gericht die nächste Zoll-Niederlage
 kritisierter_autor: ''
 kritik_typ:
-  - Framing
   - Auslassung
+  - Framing
   - Kontextmangel
 personen:
   - Trump
+  - Biden
+  - Obama
+  - Stiglitz
+  - Krugman
 institutionen:
   - SRF
   - US-Handelsgericht
-  - US-Regierung
+  - Supreme Court
+  - Kongress
+  - EPA
+  - Trade Court
 gesetze_vorlagen:
-  - Handelsgesetz von 1974
-  - IEEPA von 1977
+  - Trade Act 1974
+  - IEEPA 1977
+  - Inflation Reduction Act
+  - CHIPS Act
 these: >-
-  Die SRF-Berichterstattung über Trumps Zollpolitik ist fehlerhaft und reduziert
-  die komplexe wirtschaftspolitische Debatte auf eine Anekdote.
+  SRF reduziert eine fundamentale wirtschaftspolitische Neuausrichtung der USA
+  auf eine Personalisierungs- und Niederlagennarrative und blendet rechtliche
+  Substanz, ökonomische Effekte und den strukturellen Wandel systematisch aus.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRF-Berichterstattung über Trumps Zollpolitik als
-  fehlerhaft und einseitig. Die Berichterstattung konzentriert sich auf die
-  juristischen Niederlagen Trumps, ohne die wirtschaftspolitische Substanz und
-  die langfristigen Auswirkungen auf die Schweizer Wirtschaft zu thematisieren.
-  Der Artikel fordert eine substantiellere Berichterstattung, die die komplexe
-  wirtschaftspolitische Debatte in ihrer Tragweite darstellt.
+  Der Artikel kritisiert die SRF-Berichterstattung über ein
+  US-Handelsgerichtsurteil gegen Trumps Zölle als personalisierend, kontextlos
+  und asymmetrisch. SRF erwähne weder die juristische Substanz (Differenz
+  Zahlungsbilanz- vs. Handelsbilanzdefizit) noch die wirtschaftspolitische Logik
+  der Reindustrialisierung noch die ökonomischen Effekte der Zölle noch die
+  parteipolitische Zusammensetzung des Gerichts. Die Kritik sieht darin ein
+  systematisches Muster schweizerischer Trump-Berichterstattung, das eine
+  historische Verschiebung der US-Wirtschaftspolitik unsichtbar macht.
 quelle_datum: '2026-05-08'
 quelle_format: Online-Artikel
 quelle_sendung: ''

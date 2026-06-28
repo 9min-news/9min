@@ -6,60 +6,63 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJ0BHaFWQAEQ8_c.jpg'
 tweetId: '2061805871319883996'
 categories:
-  - Medienrecht
+  - SRF/SRG
+  - Migration
   - Gesellschaft
-  - Demokratie
 tags:
   - Burkini
-  - Islamophobie
-  - Sexismus
-  - Geschlechtertrennung
-  - Säkularer öffentlicher Raum
-  - Medienkritik
+  - UV-Anzug
   - Framing
+  - Stimmenauswahl
+  - Islamophobie-Vorwurf
+  - Säkularräum
+  - Geschlechtergleichheit
+  - Genf
 seo:
   description: >-
     Diese Meldung handelt von einem Genfer Gesetz, das jeder als
     «Burkini-Verbot» kennt — der Text sagt es selbst in der dritten Zeile. Und
     doch ist das…
 themen:
-  - Burkini-Verbot
-  - Islamische Bekleidungsnormen
-  - Säkularer öffentlicher Raum
+  - Burkini-Verbot Genf
+  - Medienframing
+  - Islam im öffentlichen Raum
   - Geschlechtertrennung
+  - Säkulare Werte
 kritisiertes_medium: SRF
 kritisierter_beitrag: Knatsch um Genfer Burkini-Gesetz
 kritisierter_autor: ''
 kritik_typ:
   - Framing
-  - Auslassung
   - Selektion
+  - Auslassung
 personen:
   - Guinchard
 institutionen:
   - SRF
-  - Kantonsparlament
+  - RTS
+  - Genfer Kantonsparlament
 gesetze_vorlagen:
-  - Burkini-Gesetz
+  - Genfer Burkini-Gesetz
 these: >-
-  Der SRF-Beitrag über das Genfer Burkini-Gesetz verlagert den Fokus von der
-  eigentlichen Debatte um islamische Bekleidungsnormen und Geschlechtertrennung
-  auf eine Nebenfolge, nämlich die unbeabsichtigte Einschränkung von
-  UV-Schutzanzügen für Kinder.
+  SRF rahmt das Genfer Burkini-Gesetz um, indem es die politische Debatte durch
+  eine Nebenschauplatz-Geschichte über UV-Schutzanzüge ersetzt und die
+  inhaltlichen Argumente der Gesetzesbefürworter vollständig auslässt.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag über das Genfer Burkini-Gesetz, weil er
-  den Fokus von der eigentlichen Debatte um islamische Bekleidungsnormen und
-  Geschlechtertrennung auf eine Nebenfolge verlagert. Der Beitrag gibt den
-  Stimmen von empörten Eltern und einem Bademeister Raum, während die
-  Befürworter des Gesetzes mit ihren inhaltlichen Argumenten nicht zu Wort
-  kommen. Der Artikel argumentiert, dass dies ein Beispiel für Framing und
-  Auslassung ist, da der Beitrag die Debatte auf eine Weise darstellt, die die
-  eigentliche Frage ausblendet.
+  Der 9min.ch-Artikel kritisiert einen SRF/RTS-Beitrag zum Genfer
+  Burkini-Gesetz, der die eigentliche politische Auseinandersetzung über
+  islamische Bekleidungsnormen im öffentlichen Raum durch eine harmlose
+  Geschichte über UV-Schutzanzüge für Kinder ersetzt. Die Argumente der
+  Gesetzesbefürworter fehlen vollständig, während Gegner mit Emotionen und
+  O-Tönen prominent präsentiert werden. Der Vorwurf «islamophob und sexistisch»
+  bleibt als Schlusspointe unwidersprochen stehen, ohne dass die Gegenposition —
+  dass der Burkini selbst eine patriarchale Vorschrift sei — auch nur erwähnt
+  wird.
 quelle_datum: '2026-06-02'
 quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
-kritik_schwere: 2
+kritik_schwere: 3
 ---
 
 *Diese Meldung handelt von einem Genfer Gesetz, das jeder als «Burkini-Verbot» kennt — der Text sagt es selbst in der dritten Zeile. Und doch ist das Bemerkenswerte an dem Beitrag, wie geschickt er den eigentlichen Konflikt umschifft, indem er sich auf einen Nebenschauplatz stürzt: die armen Familien mit ihren UV-Schutzanzügen. So entsteht aus einer hochpolitischen Auseinandersetzung über Islam, Integration und Geschlechtertrennung im öffentlichen Raum eine harmlose Geschichte über Sonnenschutz und Bürokratie. Schauen wir genau hin, denn hier wird mit der Auswahl der Stimmen Politik gemacht — leise, aber unüberhörbar.*

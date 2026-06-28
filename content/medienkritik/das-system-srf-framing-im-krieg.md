@@ -6,32 +6,36 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HGhU1DWWMAEUjvN.jpg'
 tweetId: '2046980228363296825'
 categories:
-  - Medienrecht
-  - Zensur/Meinungsfreiheit
+  - SRF/SRG
+  - EU/Aussenpolitik
   - Sicherheitspolitik
 tags:
-  - Framing
-  - Propaganda
-  - Medienkritik
-  - Völkerrecht
-  - Iran-Krieg
   - SRF
+  - Iran-Krieg
+  - Framing
+  - Völkerrecht
+  - Asymmetrie
+  - Strukturproblem
+  - Nachrichtenlogik
+  - westliche Medien
 seo:
   description: >-
     Die SRF-Redaktion hat kein böses Ziel. Sie betreibt keine Propaganda. Sie
     versucht, etwa im Iran-Krieg, ein komplexes Thema in vielen Facetten
     abzubilden.…
 themen:
-  - SRF-Berichterstattung
-  - Iran-Krieg
-  - Völkerrecht
+  - Iran-Krieg-Berichterstattung
+  - strukturelles Medienframing
+  - Völkerrecht in der Kriegsberichterstattung
+  - westliche Medienhomogenität
+  - Reflexionskrise der Medien
 kritisiertes_medium: SRF
-kritisierter_beitrag: ''
+kritisierter_beitrag: SRF-Iran-Berichterstattung (ca. 150 Beiträge zum Iran-Krieg)
 kritisierter_autor: ''
 kritik_typ:
   - Framing
   - Auslassung
-  - Kontextmangel
+  - Asymmetrie
 personen:
   - Trump
 institutionen:
@@ -39,23 +43,35 @@ institutionen:
   - AP
   - Reuters
   - AFP
-gesetze_vorlagen:
-  - Völkerrecht
+  - Internationaler Gerichtshof
+  - Internationaler Strafgerichtshof
+  - Hamas
+  - Hisbollah
+  - Huthi
+  - Israel
+  - USA
+  - Russland
+  - Iran
+gesetze_vorlagen: []
 these: >-
-  Die SRF-Berichterstattung über den Iran-Krieg ist strukturell verzerrt und
-  reproduziert westliche Grundannahmen, ohne die iranische Perspektive und die
-  historischen Vorgeschichten ausreichend zu berücksichtigen.
+  Die SRF-Berichterstattung zum Iran-Krieg ist handwerklich ordentlich, leidet
+  aber unter strukturellen Framing-Problemen, die zentrale Fragen ausklammert
+  und so eine Öffentlichkeit produziert, die weniger weiss, als sie wissen
+  könnte.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRF-Berichterstattung über den Iran-Krieg als
-  strukturell verzerrt und parteiisch. Die Berichterstattung reproduziert
-  westliche Grundannahmen und vernachlässigt die iranische Perspektive und die
-  historischen Vorgeschichten. Der Artikel fordert eine reflektiertere
-  Berichterstattung, die die eigenen Voraussetzungen und die Komplexität des
-  Konflikts thematisiert.
+  Der Artikel analysiert die SRF-Berichterstattung zum Iran-Krieg als Teil eines
+  westlichen Mediensystems, das durch gemeinsame Agenturquellen,
+  Ausbildungspfade und Framing-Logiken strukturell homogenisiert ist. Zentrale
+  Fragen – Völkerrechtsstreitigkeit, israelische Treiberrolle, nichtwestliche
+  Perspektiven, historische Parallelen zum Irakkrieg – würden systematisch
+  ausgeklammert. Die Kritik richtet sich nicht gegen individuelle
+  Voreingenommenheit, sondern gegen die fehlende Reflexion über strukturelle
+  Verzerrungen in einem öffentlich-rechtlichen Medium, das sich als neutral
+  versteht.
 quelle_datum: ''
-quelle_format: ''
+quelle_format: Broadcast
 quelle_sendung: ''
-quelle_redaktion: ''
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

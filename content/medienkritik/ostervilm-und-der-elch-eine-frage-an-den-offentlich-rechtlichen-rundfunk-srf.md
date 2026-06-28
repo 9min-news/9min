@@ -8,66 +8,77 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHaBOjRX0AA9T94.jpg'
 tweetId: '2050968856345092264'
 categories:
-  - Medienrecht
-  - Demokratie
   - SRF/SRG
-tags:
-  - SRF
-  - Medienkritik
+  - Billag/Gebühren
   - Demokratie
-  - Öffentlich-rechtlicher Rundfunk
-  - Schweizer Medien
-  - Medienlandschaft
+tags:
   - Konsenssender
-  - Feindsender
+  - Asymmetrie
+  - Redaktionelle Disposition
+  - Halbierungsinitiative
+  - Beat Jans
+  - Expertenpool
+  - Reichweitenökonomie
+  - Verfassungsauftrag
 seo:
   description: >-
     Schauen wir, was SRF heute, am 3. Mai 2026, an Schweizer Gebührenzahler
     liefert. Geschichte eins: Eine marode DDR-Militärplattform vor Rügen wird…
 themen:
-  - SRF-Kritik
-  - Medienlandschaft Schweiz
-  - Demokratie und Medien
-  - Öffentlich-rechtlicher Rundfunk
-  - Medienkritik
+  - Redaktionelle Asymmetrie bei SRF
+  - Service-public-Auftrag und Verfassung
+  - Halbierungsinitiative als Warnsignal
+  - Beat-Jans-Affäre und Berichterstattung
+  - Konsenssender vs. Feindsender
 kritisiertes_medium: SRF
-kritisierter_beitrag: ''
+kritisierter_beitrag: Militärplattform vor Rügen zu ersteigern; Missglückter Sprung in Estland
 kritisierter_autor: ''
 kritik_typ:
+  - Asymmetrie
   - Framing
   - Auslassung
-  - Kontextmangel
 personen:
   - Beat Jans
-  - Bundesrätin Baume-Schneider
-  - Bundesrat Rösti
-  - Berset
-  - Maurer
+  - Elisabeth Baume-Schneider
+  - Guy Parmelin
+  - Alain Berset
+  - Ueli Maurer
 institutionen:
   - SRF
-  - Bundesrat
-  - Parlament
-  - Kantonsregierungen
+  - SRG
+  - NZZ
+  - Weltwoche
+  - Tamedia
   - ETH
   - Universität Zürich
+  - SVP
+  - SP
+  - Grüne
+  - FDP
+  - Bundesrat
+  - Bundesversammlung
+  - EU
+  - UNO
+  - Hamas
+  - Postimehes
 gesetze_vorlagen:
-  - Halbierungsinitiative
+  - Halbierungsinitiative der SVP
 these: >-
-  Der öffentlich-rechtliche Rundfunk SRF erfüllt seinen Verfassungsauftrag nicht
-  ausreichend und reproduziert stattdessen einen gesellschaftlichen Konsens, der
-  die Demokratie verarmt.
+  SRF ist ein Konsenssender, der durch systematische redaktionelle Asymmetrie
+  seinen demokratischen Verfassungsauftrag verfehlt und die März-Abstimmung als
+  Bestätigung statt als Warnsignal missversteht.
 zusammenfassung: >-
-  Der Artikel kritisiert den öffentlich-rechtlichen Rundfunk SRF für seine
-  unzureichende Erfüllung seines Verfassungsauftrags. Der Sender reproduziert
-  einen gesellschaftlichen Konsens, der die Demokratie verarmt, anstatt eine
-  kritische und unabhängige Berichterstattung zu liefern. Die Kritik bezieht
-  sich auf die asymmetrische politische Berichterstattung, den schmalen
-  Expertenpool und die reflexhafte Reichweitenoptimierung. Der Artikel fordert
-  eine Reform des Senders, um die Demokratie in der Schweiz zu stärken.
+  Der Artikel kritisiert SRF als Konsenssender, der statt als Feindsender allen
+  Mächtigen lästig zu sein, einen urban-sozialliberalen gesellschaftlichen
+  Konsens reproduziert. Belegt wird dies an asymmetrischer Berichterstattung
+  (Beat-Jans-Affäre vs. SVP/FDP-Bundesräte), einseitigem Expertenpool und
+  unterschiedlicher Behandlung politischer Positionen. Die Halbierungsinitiative
+  mit knapp 40 Prozent Ja-Anteil wird als Warnsignal interpretiert, das SRF als
+  Sieg gefeiert habe, statt ehrliche Selbstkritik zu üben.
 quelle_datum: '2026-05-03'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: ''
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

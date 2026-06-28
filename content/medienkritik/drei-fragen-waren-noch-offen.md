@@ -6,52 +6,63 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HGFeJiGXIAAbXJR.jpg'
 tweetId: '2045019327229808872'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Wirtschaft
   - Gesellschaft
 tags:
-  - SRF
   - Moderna
-  - Impfstoff
-  - Preisunterschied
-  - Haftungsklauseln
-  - Medienkritik
+  - BAG
+  - Impfstoffverträge
+  - Haftungsbedingungen
+  - SRF
+  - Wirtschaftsredaktion
+  - Bundesverwaltungsgericht
+  - Operation Warp Speed
 seo:
   description: >-
     Am Mittwoch berichtete SRF, dass das BAG die Verträge freigegeben hat. Eine
     Agenturmeldung. Zahlen, keine Fragen. Am Freitag kommt der Folgeartikel.…
 themen:
-  - Impfstoffkauf
-  - Medienkritik
-  - Institutionelle Berichterstattung
-kritisiertes_medium: SRF
+  - COVID-Impfstoffbeschaffung
+  - BAG-Vertragsveröffentlichung
+  - Moderna-Preisvergleich
+  - Haftungsübernahme durch Bund
+  - Medienberichterstattung
+kritisiertes_medium: SRF News
 kritisierter_beitrag: 'Eine Milliarde für Moderna-Impfstoff: War das zu teuer?'
 kritisierter_autor: ''
 kritik_typ:
-  - Framing
   - Auslassung
-  - Kontextmangel
+  - Framing
+  - Behördenpropaganda
 personen:
   - Celio
 institutionen:
   - SRF
   - BAG
   - Moderna
+  - Bundesverwaltungsgericht
+  - US-Regierung
 gesetze_vorlagen: []
 these: >-
-  Der SRF-Artikel über den Impfstoffkauf ist ein Beispiel für institutionelle
-  Berichterstattung, die kritische Informationen erwähnt, aber sofort
-  entschärft, um keine Konsequenzen zu erzeugen.
+  SRF erwähnt in seinem Moderna-Vertragsartikel drei entscheidende kritische
+  Informationen, entschärft sie aber systematisch durch sofortige Relativierung
+  und Auslassung von Details, sodass der Artikel wie Aufklärung wirkt, aber wie
+  Beruhigung funktioniert.
 zusammenfassung: >-
-  Der Artikel kritisiert die Berichterstattung des SRF über den Impfstoffkauf
-  und zeigt, wie kritische Informationen erwähnt, aber sofort entschärft werden,
-  um keine Konsequenzen zu erzeugen. Der Artikel argumentiert, dass dies ein
-  Beispiel für institutionelle Berichterstattung ist, die nicht die
-  informierende, sondern die befriedende Funktion erfüllt.
+  Der 9min-Artikel kritisiert, dass SRF in seinem Bericht über die vom BAG
+  veröffentlichten Moderna-Verträge wesentliche Punkte — Preisunterschied zu den
+  USA, öffentliche Mitfinanzierung der Impfstoffentwicklung und
+  Haftungsübernahme durch den Bund — zwar erwähnt, aber nicht vertieft und
+  sofort relativiert. Die BAG-Perspektive wird als Ausgleich präsentiert,
+  unabhängige Experten fehlen, und die Haftungsklauseln werden nur in einem
+  Halbsatz gestreift. Die Kritik sieht darin eine Form institutioneller
+  Berichterstattung, die durch partielles Erwähnen rather than Verschweigen
+  wirkt.
 quelle_datum: ''
-quelle_format: ''
+quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: ''
+quelle_redaktion: SRF Wirtschaftsredaktion
 kritik_schwere: 3
 ---
 

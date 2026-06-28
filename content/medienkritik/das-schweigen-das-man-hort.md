@@ -6,62 +6,70 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHip8DgXoAUJ78f.jpg'
 tweetId: '2051577180576944467'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Gesellschaft
   - Demokratie
 tags:
-  - SRF
   - Covid-19
-  - Impfstoffe
+  - Impfstoffverträge
+  - Pfizer
+  - Schwärzung
+  - BAG
   - Transparenz
-  - Geschäftsgeheimnisse
-  - Medienkritik
-  - Demokratie
-  - Politik
+  - Informationsfreiheit
+  - SRF-Kritik
 seo:
   description: >-
     Zur SRF-Berichterstattung «Covid-Impfung: Das zermürbende Schweigen um die
     Nebenwirkungen» von Irène Dietschi, SRF 4 News, 4. Mai 2026 Manchmal sind
     die…
 themen:
-  - Covid-19-Impfung
-  - Impfstoffverträge
-  - Transparenz in der Politik
-  - Medienkritik
-  - Geschäftsgeheimnisse
-kritisiertes_medium: SRF
+  - Covid-Impfstoffverträge
+  - Transparenz und Informationsfreiheit
+  - Impfschäden und Entschädigung
+  - Behördenkommunikation
+  - Haftungsausschluss Pharma
+kritisiertes_medium: SRF 4 News
 kritisierter_beitrag: 'Covid-Impfung: Das zermürbende Schweigen um die Nebenwirkungen'
 kritisierter_autor: Irène Dietschi
 kritik_typ:
   - Auslassung
-  - Framing
   - Kontextmangel
+  - Behördenpropaganda
 personen:
   - Irène Dietschi
-  - Katja Braendle
   - Philipp Tarr
+  - Katja Braendle
+  - Rafael Häcki
 institutionen:
   - SRF
-  - Bundesamt für Gesundheit
+  - SRF 4 News
+  - BAG
+  - Bundesverwaltungsgericht
+  - Swissmedic
   - Universität Basel
+  - Verein Post-Vakzin-Syndrom
+  - Pfizer/BioNTech
+  - Moderna
+  - Novavax
 gesetze_vorlagen:
   - Öffentlichkeitsgesetz
 these: >-
-  Der SRF-Beitrag zur Covid-19-Impfung und den Impfstoffverträgen ist in seiner
-  Anlage ein vorsichtiger Schritt in die richtige Richtung, aber er bleibt in
-  der entscheidenden Frage zahnlos und suggeriert Transparenz, wo Intransparenz
-  fortbesteht.
+  Der SRF-Beitrag suggeriert Transparenz über die Covid-Impfstoffverträge,
+  verschweigt aber, dass der dominante Pfizer-Vertrag weiterhin geschwärzt
+  bleibt, und übernimmt damit eine Halbwahrheit des BAG.
 zusammenfassung: >-
-  Der Artikel analysiert einen SRF-Beitrag zur Covid-19-Impfung und den
-  Impfstoffverträgen. Der Beitrag wird als ein vorsichtiger Schritt in die
-  richtige Richtung bewertet, aber auch als unvollständig und irreführend
-  kritisiert. Die Auslassung wichtiger Details, wie die Differenzierung zwischen
-  den Impfstoffherstellern und die Geschwärzten der Pfizer-Verträge, wird als
-  entscheidender Fehler angesehen.
+  9min.ch kritisiert den SRF-Beitrag von Irène Dietschi, weil er zwar erstmals
+  Geschädigte zu Wort kommen lässt, aber die zentrale Auslassung macht, dass nur
+  die Moderna- und Novavax-Verträge nach einem Gerichtsurteil entschwärzt
+  wurden, während der dominante Pfizer-Vertrag weiterhin geschwärzt bleibt.
+  Zudem lässt der Beitrag das BAG-Statement zur Zulassung unkommentiert stehen,
+  ohne zwischen befristeter und regulärer Zulassung zu unterscheiden, und nennt
+  die zwei bewilligten Entschädigungsfälle ohne Kontext zur Ablehnungsquote.
 quelle_datum: '2026-05-04'
 quelle_format: Online-Artikel
-quelle_sendung: ''
-quelle_redaktion: SRF 4 News
+quelle_sendung: SRF 4 News
+quelle_redaktion: SRF Wissen
 kritik_schwere: 3
 ---
 

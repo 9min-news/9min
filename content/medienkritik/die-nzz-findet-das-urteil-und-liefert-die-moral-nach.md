@@ -6,26 +6,29 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HGQo5PWXMAAsxTk.jpg'
 tweetId: '2045805202641494469'
 categories:
-  - Medienrecht
   - Gesellschaft
+  - Medienrecht
+  - Zensur/Meinungsfreiheit
 tags:
   - NZZ
-  - Tages-Anzeiger
+  - Medienkritik
   - Patrick Fischer
-  - Medienhetze
+  - Urkundenfälschung
   - Rechtsstaat
-  - Moralisierung
-  - Journalismus
+  - Doppelbestrafung
+  - Staatsfeinde
+  - Corona-Zertifikat
 seo:
   description: >-
     Zum NZZ-Kommentar «Patrick Fischer hat seine Mannschaft verraten. Die
     Aufregung um ihn ist scheinheilig, die Entlassung zwingend» vom 17. April
     2026…
 themen:
-  - Medienkritik
-  - Journalismus
-  - Rechtsstaatlichkeit
-  - Moralisierung
+  - Medienkritik NZZ-Kommentar
+  - Patrick Fischer COVID-Zertifikat
+  - Rechtsstaatlichkeit Doppelbestrafung
+  - Corona-Aufarbeitung
+  - Rhetorik Staatsfeinde
 kritisiertes_medium: NZZ
 kritisierter_beitrag: >-
   Patrick Fischer hat seine Mannschaft verraten. Die Aufregung um ihn ist
@@ -34,25 +37,34 @@ kritisierter_autor: ''
 kritik_typ:
   - Framing
   - Auslassung
+  - Kontextmangel
 personen:
   - Patrick Fischer
 institutionen:
   - NZZ
   - Tages-Anzeiger
-gesetze_vorlagen: []
+  - IOC
+  - chinesische Behörden
+  - Staatsanwaltschaft
+gesetze_vorlagen:
+  - Strafbefehl 2023 (39'000 Franken Busse)
+  - Urkundenfälschung
 these: >-
-  Die NZZ hat mit ihrem Kommentar die Grenzen des Journalismus überschritten und
-  moralisiert, anstatt objektiv zu berichten.
+  Die NZZ liefert mit ihrem Kommentar die moralische Untermalung für eine
+  doppelte Bestrafung Fischers, konstruiert Schuld aus hypothetischen Szenarien
+  und diskreditiert Kritiker als 'Staatsfeinde'.
 zusammenfassung: >-
-  Der Artikel kritisiert den NZZ-Kommentar zu Patrick Fischer und argumentiert,
-  dass die NZZ die Grenzen des Journalismus überschritten hat, indem sie
-  moralisiert und nicht objektiv berichtet. Der Kommentar wird als Beispiel für
-  Medienhetze und Moralisierung angesehen. Die Kritik konzentriert sich auf die
-  Art und Weise, wie die NZZ den Fall präsentiert und die Leser manipuliert.
+  Der 9min-Artikel analysiert einen NZZ-Kommentar zum Fall Patrick Fischer, der
+  offen moralisiert, während er rechtsstaatliche Prinzipien wie das Verbot der
+  Doppelbestrafung ignoriert. Kritisiert wird insbesondere die Konstruktion von
+  Schuld aus nicht eingetretenen hypothetischen Szenarien, die Auslassung der
+  Frage nach der Entstehung des Strafbefehls und die Etikettierung von Kritikern
+  als 'Staatsfeinde'. Die Leserkommentare zeigten, dass das Publikum die
+  rhetorische Konstruktion durchschaue und weiter sei als die Redaktion.
 quelle_datum: '2026-04-17'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: ''
+quelle_redaktion: NZZ Sport
 kritik_schwere: 3
 ---
 

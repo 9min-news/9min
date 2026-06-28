@@ -8,62 +8,63 @@ tweetId: '2056664101531623912'
 categories:
   - Migration
   - Demokratie
-  - EU/Aussenpolitik
+  - Abstimmungen
 tags:
+  - 10-Millionen-Initiative
   - Erklärvideo
-  - Drohkulisse
+  - Behördenpropaganda
   - Alternativlosigkeit
-  - Wirtschaftsprimat
-  - Pflegenotstand
-  - Schengen/Dublin
   - Asymmetrie
-  - Behördenkommunikation
+  - Personenfreizügigkeit
+  - Wohnungsnot
+  - Pflegenotstand
 seo:
   description: >-
     Wie der Staat die 10-Millionen-Initiative erklärt — und dabei die politische
     Souveränität an die Wirtschaft auslagert und die Bürger mit dem…
 themen:
-  - 10-Millionen-Initiative
-  - Personenfreizügigkeit
-  - Bundesinformation
-  - Zuwanderungspolitik
-  - Bilaterale Verträge
+  - Bundesrätliche Abstimmungsinformation
+  - Asymmetrische Rhetorik in der Zuwanderungsdebatte
+  - Personenfreizügigkeit und Bilaterale
+  - Pflegenotstand als Erpressungsargument
+  - Wirtschaftssouveränität vs. Volkssouveränität
 kritisiertes_medium: Bundesrat
 kritisierter_beitrag: Erklärvideo des Bundes zur Initiative «Keine 10-Millionen-Schweiz!»
 kritisierter_autor: ''
 kritik_typ:
   - Framing
-  - Behördenpropaganda
   - Asymmetrie
+  - Behördenpropaganda
 personen: []
 institutionen:
   - Bundesrat
   - Parlament
   - EU
   - Initiativkomitee
+  - Wirtschaft
 gesetze_vorlagen:
   - 10-Millionen-Initiative
   - Personenfreizügigkeit
   - Bilaterale Verträge
   - Schengen/Dublin-Verträge
 these: >-
-  Das offizielle Erklärvideo des Bundes zur 10-Millionen-Initiative degradiert
-  reale Probleme der Zuwanderung zu subjektiven Meinungen, während es
-  wirtschaftliche Interessen als Naturgesetz präsentiert und Bürger mit
-  Pflegenotstand und Sicherheitsrisiken erpresst.
+  Das offizielle Erklärvideo des Bundes zur 10-Millionen-Initiative ist keine
+  neutrale Sachinformation, sondern eine ideologische Disziplinierung, die die
+  politische Gestaltbarkeit der Demografie leugnet und die Bürger durch
+  emotionale Erpressung manipuliert.
 zusammenfassung: >-
   Der Artikel analysiert das amtliche Erklärvideo des Bundes zur
-  10-Millionen-Initiative und identifiziert eine asymmetrische
-  Argumentationsstruktur: Positive Effekte der Zuwanderung werden als objektive
-  Fakten dargestellt, negative Folgen als blosse Behauptungen des
-  Initiativkomitees. Zudem kritisiert der Artikel, dass das Video die politische
-  Gestaltbarkeit der Demografie leugnet, die Wirtschaft zum eigentlichen
-  Souverän über Zuwanderung erklärt und emotionale Erpressung mit Kranken und
-  Pflegebedürftigen betreibt.
+  10-Millionen-Initiative und kritisiert eine asymmetrische Rhetorik: Positive
+  Effekte der Zuwanderung werden als objektive Fakten präsentiert, negative
+  Folgen als subjektive Befindlichkeiten der Initianten delegitimiert. Der Bund
+  lagere die politische Souveränität an die Wirtschaft aus und
+  instrumentalisiere den Pflegenotstand sowie Sicherheitsbedenken als emotionale
+  Erpressung. Diese amtliche Kommunikation werde zur Verwaltung der
+  Alternativlosigkeit statt zur neutralen Entscheidungsgrundlage.
 quelle_datum: ''
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: Bundesrat
+quelle_redaktion: ''
 kritik_schwere: 3
 ---
 

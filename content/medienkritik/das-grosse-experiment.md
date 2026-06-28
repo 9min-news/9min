@@ -6,16 +6,18 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIBrUlcXwAAxRMR.jpg'
 tweetId: '2053759559265571169'
 categories:
-  - Medienrecht
-  - Demokratie
+  - Abstimmungen
   - Migration
+  - EU/Aussenpolitik
 tags:
-  - NZZ
-  - Fabian Schäfer
-  - SVP
-  - Migration
-  - Bevölkerungsentwicklung
-  - Schweizer Politik
+  - 10-Millionen-Initiative
+  - Framing
+  - Bevölkerungswachstum
+  - BfS-Prognosen
+  - Masseneinwanderungsinitiative
+  - Personenfreizügigkeit
+  - Datenjournalismus
+  - Auslassung
 seo:
   description: >-
     Zum NZZ-Artikel «10-Millionen-Initiative: Die Schweiz dürfte bis 2050 noch
@@ -24,7 +26,9 @@ seo:
 themen:
   - 10-Millionen-Initiative
   - Bevölkerungswachstum
-  - Migration in der Schweiz
+  - Migrationspolitik
+  - Medienframing
+  - Direkte Demokratie
 kritisiertes_medium: NZZ
 kritisierter_beitrag: >-
   10-Millionen-Initiative: Die Schweiz dürfte bis 2050 noch um 35 000 Personen
@@ -33,32 +37,35 @@ kritisierter_autor: Fabian Schäfer
 kritik_typ:
   - Framing
   - Auslassung
-  - Kontextmangel
+  - Asymmetrie
 personen:
   - Fabian Schäfer
 institutionen:
   - NZZ
-  - SVP
   - Bundesamt für Statistik
+  - SVP
+  - Bundesrat
+  - Parlament
 gesetze_vorlagen:
   - 10-Millionen-Initiative
   - Masseneinwanderungsinitiative
+  - Personenfreizügigkeit
 these: >-
-  Der Artikel von Fabian Schäfer in der NZZ über die 10-Millionen-Initiative ist
-  durch einen fehlerhaften Rahmen und Auslassungen gekennzeichnet, die die
-  Neutralität des Beitrags beeinträchtigen.
+  Der NZZ-Artikel liefert solide Daten zur 10-Millionen-Initiative, rahmt diese
+  aber durch den Einstiegssatz als 'SVP-Experiment' politisch ein und lässt die
+  historische Vorgeschichte aus, die die Initiative erst erklärbar macht.
 zusammenfassung: >-
-  Der Artikel von Fabian Schäfer in der NZZ über die 10-Millionen-Initiative
-  wird kritisiert, weil er einen fehlerhaften Rahmen und Auslassungen aufweist.
-  Der erste Satz des Artikels reduziert die Initiative auf eine
-  Parteienoperation und bezeichnet sie als 'Experiment', ohne die historische
-  Vorgeschichte der Migration in der Schweiz zu berücksichtigen. Der Artikel
-  arbeitet mit Daten, aber der Rahmen, in den sie eingebettet werden, ist nicht
-  neutral.
+  9min.ch analysiert einen NZZ-Artikel von Fabian Schäfer zur
+  10-Millionen-Initiative. Die Datenarbeit wird als substanziell und sorgfältig
+  anerkannt, jedoch wird das Framing des ersten Satzes ('Die SVP plant ein
+  grosses Experiment') als politische Markierung kritisiert, die die historische
+  Vorgeschichte — 25 Jahre falsche BfS-Prognosen und die nicht umgesetzte
+  Masseneinwanderungsinitiative 2014 — ausblendet. Zudem fehlen Dimensionen wie
+  Wohnkosten, Infrastruktur und Lohnentwicklung im Niedriglohnsegment.
 quelle_datum: '2026-05-11'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: NZZ Wirtschaft
+quelle_redaktion: Wirtschaft
 kritik_schwere: 2
 ---
 

@@ -6,49 +6,55 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJQWSPGXQAAYU-7.jpg'
 tweetId: '2059295626186064180'
 categories:
-  - Medienrecht
-  - Zensur/Meinungsfreiheit
-  - Gesellschaft
+  - SRF/SRG
+  - EU/Aussenpolitik
+  - Sicherheitspolitik
 tags:
   - SRF
-  - Ukraine
-  - Russland
-  - Krieg
-  - Medienkritik
-  - Propaganda
+  - Kiew
+  - russische Angriffe
+  - ukrainische Drohnen
   - Eskalation
+  - Auslassung
   - Vergeltung
+  - Patriot
 seo:
   description: >-
     SRF berichtet über die schwersten russischen Angriffe auf Kiew seit Beginn
     des Krieges. Der Beitrag schildert die Stimmung, den Zusammenhalt, die…
 themen:
-  - Ukraine-Konflikt
-  - Medienberichterstattung
+  - Ukraine-Krieg
+  - Eskalationsspirale
   - Kriegsberichterstattung
-kritisiertes_medium: SRF
+  - Medienkontext
+kritisiertes_medium: SRF News
 kritisierter_beitrag: 'Journalist in Kiew: ''Ich bin froh, unverletzt geblieben zu sein'''
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
-  - Kontextmangel
+  - Selektion
   - Framing
 personen:
   - Denis Trubetskoy
+  - Donald Trump
 institutionen:
   - SRF
   - Ukraine
   - Russland
+  - FSB
 gesetze_vorlagen: []
 these: >-
-  Der SRF-Bericht über die russischen Angriffe auf Kiew ist unvollständig und
-  verzerrt, da er den Kontext und die Vorgeschichte der Angriffe nicht erwähnt.
+  SRF berichtet nur die russischen Vergeltungsangriffe auf Kiew, lässt aber die
+  vorausgehenden ukrainischen Offensiven gegen russische Ziele unerwähnt und
+  erzeugt so ein verzerrtes Bild der Eskalationsspirale.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Bericht über die russischen Angriffe auf Kiew,
-  da er den Kontext und die Vorgeschichte der Angriffe nicht erwähnt. Der
-  Bericht zeigt nur die eine Seite der Geschichte und produziert damit ein
-  verzerrtes Bild. Der Journalist mit den zerbrochenen Fenstern ist ein guter
-  Zeuge für das Leid in Kiew, aber kein Zeuge für die Vorgeschichte.
+  Der 9min-Artikel kritisiert einen SRF-Beitrag vom 26.05.2026 über russische
+  Angriffe auf Kiew, weil er die vorausgehende ukrainische Offensivkampagne
+  (fast 600 Drohnen am 17. Mai, Treffer auf Ölraffinerien in Rjasan und
+  Noworossijsk) nicht erwähnt. SRF stelle die russischen Angriffe als
+  unprovozierte Aggression dar, obwohl es sich um Vergeltung handele. Die
+  ausschliessliche Quelle Denis Trubetskoy sei ein legitimer Augenzeuge, aber
+  als alleinige Quelle einseitig.
 quelle_datum: '2026-05-26'
 quelle_format: Online-Artikel
 quelle_sendung: ''

@@ -6,58 +6,63 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJtOYx6WEAQx6tY.jpg'
 tweetId: '2061327551272771988'
 categories:
+  - SRF/SRG
+  - Migration
   - Gesellschaft
-  - Medienrecht
-  - Zensur/Meinungsfreiheit
 tags:
-  - Fussball
-  - Gewalt
-  - Krawalle
+  - SRF
+  - dpa
   - Paris
-  - Medien
-  - Berichterstattung
-  - Zensur
-  - Meinungsfreiheit
+  - Krawalle
+  - Banlieues
+  - vermummte Personen
+  - Sprachlenkung
+  - Ursachenfrage
 seo:
   description: >-
     Ein Fussballsieg, und danach: 200 Verletzte, 780 Festnahmen, brennende
     Autos, Plünderungen in 15 Städten. Im Vorjahr dasselbe Bild, nur mit zwei
     Toten.…
 themen:
-  - Fussballgewalt
-  - Krawalle in Paris
-  - Medienberichterstattung
-  - Soziale Unruhen
-kritisiertes_medium: SRF
+  - Berichterstattung über französische Krawalle
+  - Unterdrückung der Ursachenanalyse
+  - Sprachliche Entkörperung von Tätern
+  - Banlieue-Gewalt als Tabuthema
+  - Macron-Rhetorik ohne Konsequenzen
+kritisiertes_medium: SRF News
 kritisierter_beitrag: 'Macron über Krawalle: ‹Das muss ein Ende haben›'
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
-  - Kontextmangel
   - Framing
+  - Behördenpropaganda
 personen:
-  - Macron
+  - Emmanuel Macron
+  - Nahel
 institutionen:
   - SRF
   - dpa
+  - PSG
   - Élysée
 gesetze_vorlagen: []
 these: >-
-  Die Medienberichterstattung über die Krawalle in Paris nach dem Fussballsieg
-  ist unvollständig und fehlerhaft, da sie die Ursachen und Täter nicht
-  thematisiert.
+  SRF berichtet pflichtschuldig über die jährlichen Krawalle in Frankreich,
+  lässt aber die zentrale Frage nach Tätern und Ursachen systematisch aus und
+  übernimmt dadurch unkritisch die entkörpernde Sprachregelung der Behörden.
 zusammenfassung: >-
-  Der Artikel kritisiert die Medienberichterstattung über die Krawalle in Paris
-  nach dem Fussballsieg. Die Berichterstattung sei unvollständig und fehlerhaft,
-  da sie die Ursachen und Täter nicht thematisiert. Stattdessen werde nur über
-  die Symptome berichtet, ohne die tieferen Gründe für die Gewalt zu erforschen.
-  Der Artikel fordert eine ehrliche und kritische Berichterstattung, die die
-  Fragen nach den Tätern und den Ursachen für die Gewalt stellt.
+  Der Artikel kritisiert, dass SRF bei der Berichterstattung über Krawalle nach
+  dem PSG-Champions-League-Sieg alle Fakten korrekt liefert, aber die
+  naheliegendste Frage nach Tätern und Ursachen konsequent auslässt. Die Formel
+  «vermummte Personen» entleere die Beschreibung jeder sozialen und
+  demografischen Bedeutung, während Macrons jährlich wiederholte Kraftworte
+  unkommentiert als Nachricht präsentiert würden. Dadurch entstehe beim Leser
+  ein diffuses Bild von «Krawallen, die halt passieren» ohne Verständnis der
+  wiederkehrenden Strukturen.
 quelle_datum: '2026-05-31'
 quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
-kritik_schwere: 3
+kritik_schwere: 2
 ---
 
 *Ein Fussballsieg, und danach: 200 Verletzte, 780 Festnahmen, brennende Autos, Plünderungen in 15 Städten. Im Vorjahr dasselbe Bild, nur mit zwei Toten. SRF berichtet darüber pflichtschuldig, korrekt, mit allen Zahlen — und lässt dabei die eine Frage konsequent aus, die sich jedem Leser sofort aufdrängt: Wer tut das eigentlich? Und warum verwandelt sich in Frankreich ein sportliches Freudenfest mit solcher Regelmässigkeit in eine Strassenschlacht, dass der Innenminister es «vorausgesehen» hat und 22'000 Polizisten aufbietet? Der Bericht beschreibt das Symptom in jedem Detail. Die Ursache bleibt eine schwarze Box.*

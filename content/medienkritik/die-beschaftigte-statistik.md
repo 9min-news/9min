@@ -6,53 +6,54 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJZpD1qXwAETfXI.jpg'
 tweetId: '2059949448898208046'
 categories:
+  - SRF/SRG
+  - Migration
   - Wirtschaft
-  - Gesellschaft
-  - Medienrecht
 tags:
-  - SRF
-  - Beschäftigungsstatistik
-  - Dienstleistungssektor
-  - Industrie
-  - Fachkräftemangel
-  - Einwanderung
+  - Beschäftigungswachstum
   - Bevölkerungswachstum
-  - Wirtschaftswachstum
+  - Personenfreizügigkeit
+  - Fachkräftemangel
+  - BFS
+  - Behördenpropaganda
+  - Auslassung
+  - Wettbewerbsverzerrung
 seo:
   description: >-
     Die Beschäftigung wächst. Um 0,5 Prozent. Auf 5,537 Millionen. Der
     Dienstleistungssektor treibt das Wachstum. Die Industrie erholt sich. Die
     Aussichten…
 themen:
-  - Beschäftigung
-  - Bevölkerungswachstum
-  - Einwanderungspolitik
-  - Wirtschaftswachstum
-  - Medienkritik
-kritisiertes_medium: SRF
-kritisierter_beitrag: Beschäftigung nimmt schweizweit zu
+  - Beschäftigungsstatistik
+  - Bevölkerungswachstum vs. Wirtschaftswachstum
+  - Fachkräftemangel-Narrativ
+  - Medienkritik an SRF
+kritisiertes_medium: SRF News
+kritisierter_beitrag: 'Nach Durststrecke: Beschäftigung nimmt schweizweit zu'
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
   - Framing
-  - Kontextmangel
+  - Behördenpropaganda
 personen: []
 institutionen:
   - SRF
-  - Bundesamt für Statistik (BFS)
-gesetze_vorlagen: []
+  - Bundesamt für Statistik
+  - Google
+gesetze_vorlagen:
+  - Personenfreizügigkeit
 these: >-
-  Die SRF-Berichterstattung über die Beschäftigungszahlen in der Schweiz ist
-  unvollständig und irreführend, da sie die Bevölkerungsentwicklung und die
-  Einwanderungspolitik nicht berücksichtigt.
+  SRF präsentiert Beschäftigungswachstum unkritisch als Erfolg, verschweigt aber
+  den demografischen Kontext und die Verteilungswirkungen, was eine einseitige
+  pro-Unternehmer-Perspektive erzeugt.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRF-Berichterstattung über die Beschäftigungszahlen
-  in der Schweiz, da sie die Bevölkerungsentwicklung und die
-  Einwanderungspolitik nicht berücksichtigt. Die Beschäftigungszahlen werden als
-  Erfolg der Schweizer Wirtschaft dargestellt, ohne die negativen Auswirkungen
-  auf die Arbeitnehmer und den Steuerzahler zu erwähnen. Der Artikel fordert
-  eine umfassendere Berichterstattung, die die komplexen Zusammenhänge zwischen
-  Beschäftigung, Bevölkerungswachstum und Einwanderungspolitik berücksichtigt.
+  Der 9min-Artikel kritisiert, dass SRF eine BFS-Beschäftigungsstatistik ohne
+  demografischen Kontext wiedergibt und das Wachstum als wirtschaftlichen Erfolg
+  feiert, ohne zu fragen, ob es mit dem Bevölkerungswachstum Schritt hält. SRF
+  übernehme unkritisch die Unternehmerperspektive beim Fachkräftemangel und
+  agiere als staatlicher Stenograf statt als Vierter Stand. Zudem wird die
+  Google-Bettelei als Wettbewerbsverzerrung des gebührenfinanzierten SRF
+  gegenüber privaten Medien beanstandet.
 quelle_datum: '2026-05-28'
 quelle_format: Online-Artikel
 quelle_sendung: ''

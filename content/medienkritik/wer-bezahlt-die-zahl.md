@@ -6,18 +6,18 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJyNXyoW4AAC2jo.jpg'
 tweetId: '2061678218164207911'
 categories:
+  - SRF/SRG
+  - Migration
   - Gesellschaft
-  - Demokratie
-  - Zensur/Meinungsfreiheit
 tags:
-  - Ausländer
-  - Kriminalität
-  - Gefängnis
-  - Krankenversicherung
-  - Politik
-  - Schweiz
+  - Gefängnisinsassen
+  - Wohnsitz
+  - Krankenkasse
   - Ständerat
-  - Bundesrat
+  - Überrepräsentation
+  - Kriminaltourismus
+  - Framing
+  - Auslassung
 seo:
   description: >-
     Auf den ersten Blick ist dies eine trockene sozialversicherungsrechtliche
@@ -25,9 +25,10 @@ seo:
 themen:
   - Ausländerkriminalität
   - Gefängnispopulation
-  - Krankenversicherung
-  - Politische Debatte
-kritisiertes_medium: SRF
+  - Krankenversicherungspflicht für Häftlinge
+  - Ständeratsdebatte
+  - Medienframing
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Keine Krankenversicherung für ausländische Inhaftierte
 kritisierter_autor: ''
 kritik_typ:
@@ -38,28 +39,32 @@ personen:
   - Häberli-Koller
   - Baume-Schneider
 institutionen:
+  - SRF
   - Ständerat
   - Bundesrat
-  - SRF
+  - SP
+  - Mitte
+  - Schweizerische Kriminalstatistik
 gesetze_vorlagen:
-  - Bundesverfassung
+  - Krankenversicherungspflicht für ausländische Inhaftierte ohne Wohnsitz
 these: >-
-  Die Debatte um die Krankenversicherung für ausländische Häftlinge ohne
-  Wohnsitz in der Schweiz lenkt von der eigentlichen Frage ab, warum ein Drittel
-  der Gefängnisinsassen ausländische Straftäter ohne Wohnsitz sind.
+  SRF behandelt die Tatsache, dass ein Drittel der Schweizer Gefängnisinsassen
+  keinen Wohnsitz in der Schweiz hat, als versicherungstechnische
+  Nebensächlichkeit, statt die strukturelle Frage nach grenzüberschreitender
+  Kriminalität und Überrepräsentation zu stellen.
 zusammenfassung: >-
-  Der Artikel kritisiert die Berichterstattung des SRF über die Debatte um die
-  Krankenversicherung für ausländische Häftlinge ohne Wohnsitz in der Schweiz.
-  Die Debatte konzentriert sich auf die Frage, wer die Kosten für die
-  Krankenversicherung trägt, anstatt sich mit der eigentlichen Frage
-  auseinanderzusetzen, warum ein Drittel der Gefängnisinsassen ausländische
-  Straftäter ohne Wohnsitz sind. Der Artikel argumentiert, dass die Politik und
-  der Journalismus die Debatte eng definieren und wichtige Fragen auslassen.
+  Der 9min-Artikel kritisiert einen SRF-Bericht über eine Ständeratsdebatte zur
+  Krankenversicherungspflicht für ausländische Häftlinge ohne Schweizer
+  Wohnsitz. SRF nenne die Zahl von 2300 betroffenen Insassen (ein Drittel aller
+  Gefangenen), mache daraus aber keine Recherche nach Ursachen und
+  Hintergründen. Der Bericht übernehme den engen politischen Rahmen als
+  Versicherungsfrage, statt die eigentliche Frage nach Ausländerkriminalität und
+  Belastung des Justizsystems aufzuwerfen.
 quelle_datum: '2026-06-02'
 quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
-kritik_schwere: 3
+kritik_schwere: 2
 ---
 
 *Auf den ersten Blick ist dies eine trockene sozialversicherungsrechtliche Meldung: Der Ständerat lehnt es ab, ausländische Häftlinge ohne Schweizer Wohnsitz zur Krankenkasse zu verpflichten. Bürokratie, Prämien, Zuständigkeiten. Doch mitten im Text steht, beiläufig hingeworfen, eine Zahl, die alles andere überstrahlt und die der Bericht so behandelt, als wäre sie eine technische Nebensächlichkeit: Ein Drittel der Gefängnisinsassen in der Schweiz — rund 2300 Personen — hat keinen festen Wohnsitz im Land. Die ganze Debatte dreht sich darum, wer ihre Arztrechnung bezahlt. Die viel grössere Frage, warum ein Drittel der Schweizer Gefängnisplätze von Menschen belegt wird, die gar nicht hier leben, stellt niemand. Nicht der Ständerat, nicht der Bundesrat, und nicht SRF.*

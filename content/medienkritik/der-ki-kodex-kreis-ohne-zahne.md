@@ -6,30 +6,33 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHsVRjvXsAUw9s8.jpg'
 tweetId: '2052257661500998131'
 categories:
+  - SRF/SRG
   - Medienrecht
-  - Demokratie
+  - Zensur/Meinungsfreiheit
 tags:
-  - KI-Einsatz
-  - Transparenz
-  - Datenschutz
+  - KI-Kodex
+  - Selbstregulierung
+  - Interessenkonflikt
   - Ombudsstelle
-  - Sanktionsmöglichkeit
+  - Sanktionslosigkeit
+  - Vertrauensverlust
+  - Branchenlobby
 seo:
   description: >-
     Zur SRF-Berichterstattung «KI-Einsatz in Medien soll transparenter werden»,
     7. Mai 2026 Die Schweizer Medienbranche hat einen gemeinsamen KI-Kodex…
 themen:
-  - KI-Kodex
-  - Medienbranche
-  - Selbstregulierung
-  - Vertrauen
-kritisiertes_medium: SRF
+  - KI-Regulierung in Medien
+  - Selbstregulierung vs. staatliche Regulierung
+  - Interessenkonflikt in Berichterstattung
+  - Medienvertrauen
+kritisiertes_medium: SRF News
 kritisierter_beitrag: KI-Einsatz in Medien soll transparenter werden
 kritisierter_autor: ''
 kritik_typ:
   - Interessenkonflikt
-  - Framing
-  - Kontextmangel
+  - Auslassung
+  - Behördenpropaganda
 personen:
   - Pia Guggenbühl
   - Susanne Wille
@@ -38,20 +41,25 @@ institutionen:
   - SRG
   - Verlegerverband
   - Keystone-SDA
-  - Privatradios
-  - Privatfernsehen
-  - Regionalfernsehen
+  - Bundesrat
+  - Europarat
+  - Scienceindustries
 gesetze_vorlagen:
+  - KI-Kodex der Schweizer Medienbranche
   - KI-Konvention des Europarates
 these: >-
-  Die Schweizer Medienbranche schafft sich selbst eine Regulierung, die sie
-  selbst durchsetzt, um staatliche Regulierung zu verhindern.
+  SRF berichtet über einen KI-Kodex, den die SRG selbst mitunterzeichnet hat,
+  ohne den Interessenkonflikt zu thematisieren, und verschleiert so, dass die
+  zahnlose Selbstregulierung ein präventives Manöver zur Vermeidung schärferer
+  staatlicher Regulierung ist.
 zusammenfassung: >-
-  Der Artikel kritisiert die Berichterstattung des SRF über den KI-Kodex der
-  Schweizer Medienbranche. Die Branche schafft sich selbst eine Regulierung, die
-  sie selbst durchsetzt, mit einer Aufsichtsstelle, die selbst von der Branche
-  getragen wird und keine Sanktionen aussprechen kann. Die Berichterstattung des
-  SRF wird als strukturell unkritisch und interessenkonfliktbehaftet kritisiert.
+  Der Artikel kritisiert die SRF-Berichterstattung über den branchenweiten
+  KI-Kodex als strukturell unkritisch: SRF thematisiere nicht, dass die SRG
+  Mitträgerin des Kodex ist und somit ein Interessenkonflikt vorliegt. Zudem
+  werde die Zahnlosigkeit der Ombudsstelle nur beiläufig erwähnt, die
+  strategische Funktion der Selbstregulierung als Präventivmanöver gegen
+  staatliche Regulierung sowie die zentralen Lücken des Kodex bei hybrider
+  KI-Nutzung und algorithmischer Steuerung blieben unerwähnt.
 quelle_datum: '2026-05-07'
 quelle_format: Online-Artikel
 quelle_sendung: ''

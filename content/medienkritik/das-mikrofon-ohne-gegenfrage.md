@@ -9,60 +9,60 @@ categories:
   - SRF/SRG
   - EU/Aussenpolitik
 tags:
-  - SRF
-  - Echo der Zeit
-  - Susanne Brunner
+  - Quellenkritik
+  - Einseitigkeit
   - Israel
   - Gaza
   - Al Jazeera
-  - Hamas
   - Genozid-Begriff
+  - Opferzahlen
+  - Oktober-7
 seo:
   description: >-
     Zur SRF-Berichterstattung «Man glaubt uns palästinensischen Journalisten
     nicht» von Susanne Brunner, Echo der Zeit, 2. Mai 2026 Die Konstruktion…
 themen:
-  - Israel-Gaza-Konflikt-Berichterstattung
-  - Al-Jazeera-institutionelle-Verortung
-  - Genozid-Begriff-im-Journalismus
-  - Opferzahlen-Verifikation
-  - Pressefreiheit-unter-Hamas
+  - Israel-Gaza-Berichterstattung
+  - Quellenverifikation
+  - Al Jazeera und Hamas-Verbindungen
+  - Opferzahlen im Gaza-Konflikt
+  - Pressefreiheit unter Hamas
 kritisiertes_medium: SRF Echo der Zeit
 kritisierter_beitrag: Man glaubt uns palästinensischen Journalisten nicht
 kritisierter_autor: Susanne Brunner
 kritik_typ:
   - Auslassung
   - Framing
-  - Kontextmangel
+  - Selektion
 personen:
-  - Youmna El Sayed
   - Susanne Brunner
+  - Youmna El Sayed
   - Ismail Haniyeh
   - Abraham Wyner
-  - Celio
 institutionen:
   - SRF
   - Al Jazeera
   - Al Jazeera English
   - Hamas
-  - Israel
-  - Internationaler Gerichtshof
   - Reporter ohne Grenzen
+  - Internationaler Gerichtshof
   - Hamas-kontrolliertes Gesundheitsministerium
+  - Israelische Armee
 gesetze_vorlagen: []
 these: >-
-  Der SRF-Beitrag gibt seine journalistische Verifikationspflicht auf, indem er
-  eine einseitige palästinensische Erzählung ohne institutionelle Einordnung,
-  ohne israelische Gegenstimme und ohne Kontextualisierung umstrittener
-  Behauptungen übernimmt.
+  Der SRF-Beitrag übernimmt unkritisch eine palästinensische Erzählung und
+  blendet wesentliche Kontexte zu Al Jazeera, Hamas-Strukturen und israelischen
+  Perspektiven aus, wodurch er journalistische Verifikation zugunsten
+  politischer Positionierung aufgibt.
 zusammenfassung: >-
-  9min.ch analysiert einen Echo-der-Zeit-Beitrag von Susanne Brunner, der eine
-  ehemalige Al-Jazeera-Reporterin interviewt. Der Beitrag kritisiert, dass SRF
-  den katarischen Staatscharakter von Al Jazeera, die Hamas-Verbindungen, die
-  fehlende Pressefreiheit in Gaza, den 7. Oktober nur als Halbsatz, umstrittene
-  Opferzahlen als Fakten und den Genozid-Begriff ohne Einordnung behandle.
-  Israel komme im Beitrag nicht zu Wort, Skepsis werde als pathologisch abgetan
-  statt sachlich begründet.
+  Die 9min.ch-Analyse kritisiert einen Echo-der-Zeit-Beitrag von Susanne
+  Brunner, der eine ehemalige Al-Jazeera-Reporterin porträtiert. Der Beitrag
+  lasse den institutionellen Rahmen Al Jazeeras als katarischer Staatssender
+  ebenso aus wie die Hamas-Medienkontrolle, israelische Stimmen und die Details
+  des 7. Oktober. Zudem übernehme er den Genozid-Begriff ohne Einordnung und
+  präsentiere umstrittene Opferzahlen als unbestrittene Fakten. Die Analyse
+  sieht darin eine metajournalistische Verteidigung einer politischen Position
+  statt journalistischer Verifikation.
 quelle_datum: '2026-05-02'
 quelle_format: Broadcast
 quelle_sendung: Echo der Zeit

@@ -6,54 +6,58 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJJMdpuWcAAbd0K.jpg'
 tweetId: '2058792175836565668'
 categories:
-  - Gesellschaft
-  - Wirtschaft
-  - Demokratie
+  - Migration
+  - Abstimmungen
+  - EU/Aussenpolitik
 tags:
-  - SVP
-  - Lisa Marchon
-  - NZZ
-  - Gastkommentar
   - Zuwanderung
-  - Infrastruktur
   - Bevölkerungswachstum
-  - Politik
+  - Infrastruktur
+  - Personenfreizügigkeit
+  - Sündenbock
+  - Framing
+  - Mathematik
+  - Nostalgie
 seo:
   description: >-
     Wie Lisa Marchon die SVP als Sündenbock konstruiert, während sie selbst
     genau das tut, was sie kritisiert: Sie macht die SVP für Probleme
     verantwortlich,…
 themen:
-  - Bevölkerungswachstum
-  - Infrastruktur
-  - Zuwanderung
-  - Politische Debatte
+  - Zuwanderung und Infrastrukturbelastung
+  - SVP-Initiative zur Personenfreizügigkeit
+  - Bevölkerungswachstum als politischer Faktor
+  - Medienframing der SVP
 kritisiertes_medium: NZZ am Sonntag
 kritisierter_beitrag: Es wird eng in der Schweiz – für unsere Freiheit
 kritisierter_autor: Lisa Marchon
 kritik_typ:
-  - Auslassung
   - Framing
-  - Kontextmangel
+  - Auslassung
+  - Einordnungsfehler
 personen:
   - Lisa Marchon
 institutionen:
+  - NZZ am Sonntag
   - SVP
-  - NZZ
+  - EU
 gesetze_vorlagen:
-  - Personenfreizügigkeit
+  - SVP-Initiative zur Kündigung der Personenfreizügigkeit
 these: >-
-  Die Kritik an der SVP-Initiative ignoriert die mathematische Realität des
-  Bevölkerungswachstums und seiner Auswirkungen auf die Infrastruktur
+  Lisa Marchon leugnet die mathematische Beziehung zwischen Bevölkerungswachstum
+  und Infrastrukturbelastung, indem sie die SVP als Sündenbock konstruiert und
+  legitime Erfahrungen als Populismus oder Nostalgie abtut.
 zusammenfassung: >-
-  Der Artikel kritisiert den Gastkommentar von Lisa Marchon, der die
-  SVP-Initiative zur Begrenzung der Zuwanderung ablehnt. Der Autor argumentiert,
-  dass Marchon die mathematische Realität des Bevölkerungswachstums und seiner
-  Auswirkungen auf die Infrastruktur ignoriert. Der Artikel fordert eine
-  realistische Debatte über die Kapazitäten der Schweiz und die notwendigen
-  Massnahmen, um die Lebensqualität zu erhalten.
+  Der 9min-Artikel kritisiert Marchons Gastkommentar, weil sie den Faktor
+  Bevölkerungswachstum bei Infrastrukturdefiziten, Mieten und Umweltbelastung
+  ausblendet und stattdessen ausschliesslich politisches Versagen verantwortlich
+  macht. Sie rahme berechtigte Alltagserfahrungen als unbegründete Ängste und
+  Nostalgie, während sie die Freiheitsverluste durch Dichte und Knappheit
+  ignoriere. Die Kritik wirft ihr vor, mit dem Sündenbock-Vorwurf eine Debatte
+  zu verhindern, die die einfache Arithmetik von Wachstum und
+  Ressourcenverbrauch thematisiert.
 quelle_datum: '2026-05-24'
-quelle_format: Online-Artikel
+quelle_format: Print
 quelle_sendung: ''
 quelle_redaktion: NZZ am Sonntag
 kritik_schwere: 2

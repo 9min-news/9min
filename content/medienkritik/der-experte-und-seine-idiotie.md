@@ -6,64 +6,76 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHsaPCsWsAE_WgC.jpg'
 tweetId: '2052263124523172113'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - EU/Aussenpolitik
-  - Zensur/Meinungsfreiheit
+  - Sicherheitspolitik
 tags:
-  - SRF
   - Echo der Zeit
   - Andreas Böhm
+  - Expertenkritik
+  - Einseitigkeit
   - Iran-Krieg
-  - USA
-  - Israel
-  - China
-  - Garantiemacht
+  - Trump-Kritik
+  - China-Garantiemacht
+  - Interviewführung
 seo:
   description: >-
     Zum SRF-Interview mit Andreas Böhm zum Iran-Krieg, Echo der Zeit, 6. Mai
     2026 SRF bringt im «Echo der Zeit» ein achtminütiges Interview mit Andreas
     Böhm,…
 themen:
-  - Iran-Krieg
-  - USA-Aussenpolitik
-  - Medienkritik
-kritisiertes_medium: SRF
-kritisierter_beitrag: Echo der Zeit
+  - Iran-Krieg-Berichterstattung
+  - Experten-Auswahl im Journalismus
+  - US-Aussenpolitik unter Trump
+  - China als Garantiemacht im Nahen Osten
+  - JCPOA und Atomabkommen
+kritisiertes_medium: SRF News
+kritisierter_beitrag: 'USA im Dilemma: Iran-Krieg – es gibt nur drei schlechte Lösungen'
 kritisierter_autor: Matthias Kündig
 kritik_typ:
+  - Selektion
   - Auslassung
   - Framing
-  - Selektion
 personen:
   - Andreas Böhm
   - Matthias Kündig
   - Donald Trump
   - Ali Khamenei
+  - Pezeshkian
   - Barack Obama
+  - Marco Rubio
+  - Mike Waltz
+  - Steve Witkoff
+  - Reinhard Schulze
 institutionen:
   - SRF
   - Universität St. Gallen
   - Center for Philanthropy Studies
+  - IRGC
+  - Hisbollah
+  - Huthi
+  - Foreign Relations Committee
 gesetze_vorlagen:
   - JCPOA
+  - Abraham Accords
 these: >-
-  Das SRF-Interview mit Andreas Böhm zum Iran-Krieg ist durch eine einseitige
-  und polemische Darstellung gekennzeichnet, die die Trump-Administration
-  als'strategisch idiotisch' bezeichnet und den Iran als reaktiven Akteur
-  darstellt, ohne dessen eigene Aggression und ideologische Programmatik zu
-  thematisieren.
+  SRF präsentiert im Echo der Zeit ein einseitiges Interview mit einem fachlich
+  dünn verankerten Experten, dessen polemische anti-Trump-Position und
+  pro-China-Empfehlung ohne kritische Nachfragen oder alternative Perspektiven
+  transportiert werden.
 zusammenfassung: >-
-  Das Interview mit Andreas Böhm zum Iran-Krieg in der Sendung 'Echo der Zeit'
-  des SRF ist durch eine einseitige und polemische Darstellung gekennzeichnet.
-  Der Experte Andreas Böhm bezeichnet die Trump-Administration als'strategisch
-  idiotisch' und den Iran als reaktiven Akteur, ohne dessen eigene Aggression
-  und ideologische Programmatik zu thematisieren. Der Interviewer Matthias
-  Kündig assistiert dem Experten, statt ihn zu prüfen, und lässt dessen
-  politische Position unkommentiert stehen.
+  Der Artikel kritisiert ein achtminütiges SRF-Interview mit Andreas Böhm zum
+  Iran-Krieg als analytisch einseitig. Böhm wird als Nahostexperte vorgestellt,
+  obwohl sein akademischer Schwerpunkt in der Philanthropie-Forschung liegt.
+  Seine polemische Kritik an Trump («strategische Idiotie») und seine
+  Empfehlung, China als Garantiemacht einzubeziehen, werden vom Interviewer
+  Matthias Kündig nicht hinterfragt. Der Iran erscheint ausschliesslich als
+  reaktiver Akteur, während iranische Aggression, das Atomprogramm und die
+  JCPOA-Kontroversen ausgeblendet werden.
 quelle_datum: '2026-05-06'
 quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
-quelle_redaktion: SRF
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

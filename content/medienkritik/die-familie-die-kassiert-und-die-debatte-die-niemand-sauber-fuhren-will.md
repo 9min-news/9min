@@ -6,55 +6,63 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJlxY4cXQAQDHGN.jpg'
 tweetId: '2060805055515955296'
 categories:
-  - Gesellschaft
   - Migration
+  - Wirtschaft
+  - SRF/SRG
 tags:
+  - Mörgeli
   - Weltwoche
-  - Christoph Mörgeli
-  - Migration
-  - Sozialleistungen
   - IV
   - AHV
-  - Asyl
-  - Schweiz
+  - Ergänzungsleistungen
+  - Migration
+  - Sozialleistungen
+  - BSV-Zahlen
 seo:
   description: >-
     Christoph Mörgeli hat in der Weltwoche eine Pointe gesetzt: Die Familie des
     Winterthurer Messer-Terroristen bezieht IV — während «die Medien» tags
     zuvor…
 themen:
-  - Medienkritik
-  - Migration und Sozialleistungen
-  - Gerechtigkeit und Legitimität
+  - IV-Renten und Ausländeranteil
+  - Medienberichterstattung über Migration und Sozialleistungen
+  - Asylkosten und Sozialversicherungssysteme
+  - Ergänzungsleistungen und Beitragslücken
 kritisiertes_medium: Weltwoche
 kritisierter_beitrag: Familie des Winterthurer Türken-Terroristen bezieht Invaliden-Versicherung
 kritisierter_autor: Christoph Mörgeli
 kritik_typ:
   - Framing
+  - Einordnungsfehler
   - Auslassung
-  - Fehlinformation
 personen:
   - Christoph Mörgeli
 institutionen:
   - Weltwoche
   - BSV
-gesetze_vorlagen: []
+  - AHV
+  - IV
+  - Bundesrat
+gesetze_vorlagen:
+  - 13. AHV-Rente
 these: >-
-  Die Debatte um Migration und Sozialleistungen in der Schweiz wird durch eine
-  Vermischung von verschiedenen Geldtöpfen und eine mangelnde Trennung von
-  Fakten und Narrativen behindert.
+  Sowohl Mörgelis polemische Vermengung verschiedener Geldtöpfe als auch das
+  Schweigen der seriösen Medien zu den BSV-Zahlen zur IV/EL-Überrepräsentation
+  von Ausländern verhindern eine sachliche Debatte über die Legitimität des
+  Sozialsystems.
 zusammenfassung: >-
-  Der Artikel kritisiert die Debatte um Migration und Sozialleistungen in der
-  Schweiz, insbesondere einen Beitrag von Christoph Mörgeli in der Weltwoche.
-  Der Autor argumentiert, dass Mörgeli drei verschiedene Geldtöpfe vermengt und
-  damit eine ungenaue und irreführende Debatte erzeugt. Die Gegenseite kontert
-  mit statistischen Argumenten, aber überhört die Frage nach Gerechtigkeit und
-  Legitimität. Der Artikel fordert eine nüchterne und datenbasierte Debatte, um
-  die Wahrheit auf den Tisch zu legen.
+  Der Artikel analysiert Mörgelis Weltwoche-Beitrag, der den IV-Bezug der
+  Familie eines Winterthurer Terroristen mit der Migrationsbilanz der
+  Sozialwerke verknüpft. 9min.ch zeigt auf, dass Mörgeli drei verschiedene
+  Geldtöpfe (EU-Arbeitsmigration, Asylbereich, Einzelfälle) vermengt, im
+  Einzelfall recht hat, aber im Gesamtbild unrecht liegt. Gleichzeitig
+  kritisiert der Artikel, dass seriöse Medien die relevanten BSV-Zahlen (44%
+  Ausländeranteil bei EL zur IV, 43 Mio. für rentenlose EL) kaum thematisieren,
+  was erst die Polemik ermögliche.
 quelle_datum: '2026-05-29'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: ''
+quelle_redaktion: Weltwoche Daily
 kritik_schwere: 2
 ---
 

@@ -6,52 +6,68 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJaQVGhWYAYDLWE.jpg'
 tweetId: '2059993031294525514'
 categories:
-  - Medienrecht
-  - Zensur/Meinungsfreiheit
-  - Demokratie
+  - Migration
+  - SRF/SRG
+  - Abstimmungen
 tags:
-  - SRF
-  - BFS
-  - Prognose
-  - Zuwanderung
-  - Bevölkerungswachstum
-  - Medienkritik
-  - Politik
+  - BFS-Prognose
+  - Referenzszenario
+  - Personenfreizügigkeit
+  - Masseneinwanderungsinitiative
+  - Abstimmungsbüchlein
+  - Volkswille
+  - Guillotine-Klausel
+  - Ponzi-Schema
 seo:
   description: >-
     Das BFS projiziert 10,4 Millionen Einwohner bis 2055. SRF präsentiert diese
     Zahl als Fakt. Als Schicksal. Als Naturgesetz. Aber wir wissen, wie das
     läuft.…
 themen:
-  - Medienkritik
-  - Bevölkerungswachstum
-  - Zuwanderung
-kritisiertes_medium: SRF
+  - Bevölkerungsprognosen als politisches Instrument
+  - Fehlprognose 2002 zur Personenfreizügigkeit
+  - Nicht-Umsetzung der Masseneinwanderungsinitiative 2014
+  - Einseitige Darstellung der Keine-10-Millionen-Initiative
+  - Behördenkommunikation als Journalismus
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Was würde ein Ja zur ‹Keine 10-Millionen-Schweiz› bedeuten?
 kritisierter_autor: ''
 kritik_typ:
-  - Framing
   - Auslassung
-  - Fehlinformation
+  - Framing
+  - Selektion
 personen: []
 institutionen:
   - SRF
   - BFS
+  - Bundesrat
+  - Parlament
+  - EU
   - SEM
+  - SVP
+  - Berner Zeitung
+  - Kantonspolizei
 gesetze_vorlagen:
+  - Personenfreizügigkeit
   - Masseneinwanderungsinitiative
+  - Keine 10-Millionen-Schweiz-Initiative
+  - Bilaterale Verträge
+  - Guillotine-Klausel
 these: >-
-  Die Prognosen des Bundes sind keine Wissenschaft, sondern politische
-  Instrumente, und SRF präsentiert diese Prognosen als Fakt, ohne die
-  Vorgeschichte und die politischen Interessen zu berücksichtigen.
+  SRF präsentiert BFS-Bevölkerungsprognosen als unvermeidbare Fakten und
+  verschweigt dabei die Fehlprognose von 2002 und die Nicht-Umsetzung der
+  Masseneinwanderungsinitiative von 2014, wodurch es als Verstärker einer
+  interessengeleiteten Migrationspolitik fungiert.
 zusammenfassung: >-
-  Der Artikel kritisiert die Berichterstattung von SRF über die Prognose des
-  BFS, dass die Schweiz bis 2055 10,4 Millionen Einwohner haben wird. Die Kritik
-  richtet sich gegen die Präsentation dieser Prognose als Fakt, ohne die
-  Vorgeschichte und die politischen Interessen zu berücksichtigen. Der Artikel
-  argumentiert, dass die Prognosen des Bundes keine Wissenschaft, sondern
-  politische Instrumente sind, und dass SRF diese Prognosen als Fakt
-  präsentiert, um die Begrenzungsinitiative abzuwehren.
+  Der Artikel kritisiert einen SRF-Beitrag, der ein BFS-Referenzszenario von
+  10,4 Millionen Einwohnern bis 2055 als Fakt präsentiert, ohne die historische
+  Vorgeschichte zu erwähnen: Die Prognose von 2002 zur Personenfreizügigkeit lag
+  dramatisch falsch (8'000 statt tatsächlichen 70'000–100'000 Zuwanderer pro
+  Jahr) und wurde nie korrigiert. Zudem wird der Nicht-Umsetzung des
+  Volkswillens von 2014 durch Bundesrat und Parlament kein Raum gegeben. SRF
+  wird vorgeworfen, nur die Kosten eines Ja zur Begrenzungsinitiative zu nennen,
+  nicht aber die Kosten eines Nein, und Initianten nicht zu Wort kommen zu
+  lassen.
 quelle_datum: '2026-05-28'
 quelle_format: Online-Artikel
 quelle_sendung: ''

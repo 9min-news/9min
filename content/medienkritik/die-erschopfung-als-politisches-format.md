@@ -5,59 +5,68 @@ status: published
 type: medienkritik
 tweetId: '2049949834870931542'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Gesellschaft
   - Demokratie
 tags:
-  - SRF
   - Tagesgespräch
   - Mattea Meyer
-  - Politikerin
-  - Erschöpfung
-  - Burnout
-  - Therapeutin
+  - Comeback-Inszenierung
+  - therapeutisches Format
+  - politische Fragen
+  - Co-Präsidium
   - Identitätspolitik
+  - Haifischbecken
 seo:
   description: >-
     Zum SRF-Tagesgespräch mit Mattea Meyer vom 29. April 2026 Das Genre Es gibt
     eine Gattung von Interview, die sich in den letzten Jahren in der
     westlichen…
 themen:
-  - Politik
-  - Medien
-  - Erschöpfung
-  - Comeback-Interview
+  - Comeback-Interview als Genre
+  - Co-Präsidium SP
+  - Erschöpfung/Burnout in der Politik
+  - Identitätspolitik und Strukturdiagnose
+  - Verhältnismässigkeit von Belastungsklagen
 kritisiertes_medium: SRF
-kritisierter_beitrag: Tagesgespräch mit Mattea Meyer
+kritisierter_beitrag: Tagesgespräch mit Mattea Meyer vom 29. April 2026
 kritisierter_autor: Simone Hulliger
 kritik_typ:
-  - Framing
   - Auslassung
-  - Kontextmangel
+  - Framing
+  - Selektion
 personen:
   - Mattea Meyer
   - Simone Hulliger
+  - Karin Keller-Sutter
+  - Viola Amherd
+  - Sandra Hutter
 institutionen:
   - SRF
   - SP
-gesetze_vorlagen: []
+  - SVP
+  - UBS
+  - Nationalrat
+gesetze_vorlagen:
+  - Demokratie-Initiative
 these: >-
-  Das Tagesgespräch mit Mattea Meyer ist ein Beispiel für eine Gattung von
-  politischen Comeback-Interviews, die in der öffentlich-rechtlichen
-  Medienlandschaft Routine ist und die Politikerin ihre Schwäche zur Stärke
-  umdeutet.
+  Das SRF-Tagesgespräch mit Mattea Meyer inszeniert ein politisches Comeback als
+  therapeutisches Format und lässt die wesentlichen politischen Fragen
+  ungestellt.
 zusammenfassung: >-
-  Das Tagesgespräch mit Mattea Meyer ist ein perfektes Beispiel für eine Gattung
-  von politischen Comeback-Interviews, die in der öffentlich-rechtlichen
-  Medienlandschaft Routine ist. Die Politikerin spricht offen über ihre
-  Verletzlichkeit und ihre Erschöpfung, während die Interviewerin einfühlsame
-  Fragen stellt und die Bühne hält. Das Interview ist jedoch auch ein Beispiel
-  für eine mangelnde journalistische Auseinandersetzung mit den politischen
-  Fragen, die sich stellen würden.
-quelle_datum: '2026-05-26'
-quelle_format: Online-Artikel
-quelle_sendung: ''
-quelle_redaktion: ''
+  Der Artikel analysiert das SRF-Tagesgespräch mit Mattea Meyer als Beispiel
+  eines etablierten Comeback-Genres, in dem Erschöpfung therapeutisch
+  aufgearbeitet und gleichzeitig als strukturelle Diagnose gerahmt wird.
+  Kritisiert wird, dass die Interviewerin keine politischen Nachfragen stellt —
+  zur Funktionsfähigkeit des Co-Präsidiums, zum Timing der Rückkehr, zur
+  Verhältnismässigkeit der Belastungsklage gegenüber anderen Berufsgruppen und
+  zur Doppelstruktur linker Sanftheitsrhetorik. Das Format wird als
+  Identitätspflege der SRF-Stammhörerschaft statt als Journalismus
+  charakterisiert.
+quelle_datum: '2026-04-29'
+quelle_format: Broadcast
+quelle_sendung: Tagesgespräch
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

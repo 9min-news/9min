@@ -6,56 +6,59 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHInhFHXgAAjej-.jpg'
 tweetId: '2049744334648492080'
 categories:
+  - SRF/SRG
   - Gesellschaft
-  - Medienrecht
-  - Zensur/Meinungsfreiheit
+  - Demokratie
 tags:
+  - Spermienqualität
+  - Covid-Impfung
+  - mRNA
+  - Auslassung
   - SRF
-  - Covid-19
-  - Impfung
-  - Spermaqualität
-  - Wissenschaft
-  - Journalismus
-  - Zensur
-  - Medienkritik
+  - Rekruten
+  - BAG
+  - Corona-Aufarbeitung
 seo:
   description: >-
     Zum SRF-Beitrag «Neuer Anlauf zur Ergründung abnehmender Spermienqualität»
     vom 30. April 2026 Es ist ein freundlicher, sachlicher, gut geschriebener…
 themen:
-  - Spermienqualität
-  - Covid-Impfung
-  - mRNA-Technologie
-  - Wissenschaftsjournalismus
-kritisiertes_medium: SRF
+  - Spermienqualität Schweizer Rekruten
+  - Covid-Impfung als mögliche Ursache
+  - Wissenschaftsjournalismus und Auslassung
+  - Corona-Aufarbeitung
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Neuer Anlauf zur Ergründung abnehmender Spermienqualität
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
-  - Framing
-  - Kontextmangel
+  - Selektion
+  - Behördenpropaganda
 personen:
   - Rita Rahban
-  - Gat
-  - Gonzalez
   - Strebel
 institutionen:
   - SRF
   - BAG
   - NZZ
   - Tages-Anzeiger
-gesetze_vorlagen: []
+  - Universität Bern
+gesetze_vorlagen:
+  - Kantonale Initiative Kanton Bern
 these: >-
-  Der SRF-Beitrag über die sinkende Spermienqualität in der Schweiz lässt
-  systematisch die mögliche Korrelation mit der Covid-Impfung und der
-  mRNA-Technologie aus.
+  Der SRF-Beitrag lässt systematisch die Covid-Impfung als mögliche Ursache der
+  sinkenden Spermienqualität bei Schweizer Rekruten aus, obwohl die zeitliche
+  Korrelation mit der Impfkampagne 2021–2023 offensichtlich und wissenschaftlich
+  diskutiert ist.
 zusammenfassung: >-
-  Der Artikel kritisiert einen SRF-Beitrag über die sinkende Spermienqualität in
-  der Schweiz, weil er die mögliche Korrelation mit der Covid-Impfung und der
-  mRNA-Technologie nicht thematisiert. Der Beitrag listet verschiedene
-  Einflussfaktoren auf die Spermaqualität auf, aber die Covid-Impfung und die
-  mRNA-Technologie werden nicht erwähnt. Der Artikel argumentiert, dass dies
-  eine systematische Auslassung ist, die die wissenschaftliche Debatte zensiert.
+  9min.ch kritisiert einen SRF-Beitrag vom 30. April 2026 zur sinkenden
+  Spermienqualität Schweizer Rekruten, der eine breite Liste möglicher Ursachen
+  präsentiert, aber die Covid-Impfung und mRNA-Technologie systematisch
+  ausspart. Obwohl internationale Studien transiente Effekte auf die
+  Spermienqualität nachweisen und die untersuchte Rekrutenkohorte genau im
+  Zeitraum der Impfkampagne erfasst wurde, wird diese Variable weder als
+  Hypothese genannt noch geprüft. 9min.ch wertet dies als gezielte Auslassung,
+  die den öffentlich-rechtlichen Auftrag der vollständigen Information verletzt.
 quelle_datum: '2026-04-30'
 quelle_format: Online-Artikel
 quelle_sendung: ''

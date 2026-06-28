@@ -6,25 +6,30 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HISteYZWgAAFpxN.jpg'
 tweetId: '2054958645406793892'
 categories:
+  - SRF/SRG
   - Gesellschaft
+  - Demokratie
 tags:
-  - SRF
-  - Unicef-Studie
+  - Chancengleichheit
+  - Schulsystem
   - Selektion
   - Migrationshintergrund
-  - Bildungssystem
-  - Chancengleichheit
+  - Unicef-Studie
+  - Bildungspolitik
+  - Frühförderung
+  - PISA
 seo:
   description: >-
     Zum SRF-Beitrag «Bericht zur Chancengleichheit: ‹Gravierendes Resultat›»,
     13. Mai 2026 91 Prozent der privilegierten Jugendlichen haben die nötigen…
 themen:
-  - Chancengleichheit
-  - Bildungspolitik
-  - Medienkritik
-kritisiertes_medium: SRF
+  - Chancengleichheit im Bildungssystem
+  - Frühe Selektion als Sündenbock
+  - Migrationshintergrund als ausgeblendete Variable
+  - Wissenschaft vs. Politik im Journalismus
+kritisiertes_medium: SRF News
 kritisierter_beitrag: 'Bericht zur Chancengleichheit: ‹Gravierendes Resultat›'
-kritisierter_autor: ''
+kritisierter_autor: Katharina Maag Merki
 kritik_typ:
   - Auslassung
   - Framing
@@ -33,20 +38,23 @@ personen:
   - Katharina Maag Merki
 institutionen:
   - SRF
-  - Unicef
   - Universität Zürich
+  - Unicef
+  - Bundesamt für Statistik
 gesetze_vorlagen: []
 these: >-
-  Die SRF-Sendung präsentiert eine politische Position als wissenschaftliche
-  Erkenntnis und blendet wichtige Variablen wie den Migrationshintergrund aus.
+  SRF präsentiert eine politische Position (Abschaffung der Selektion) als
+  wissenschaftliche Erkenntnis und blendet dabei den Migrationshintergrund als
+  zentrale Erklärungsvariable systematisch aus.
 zusammenfassung: >-
-  Der Artikel kritisiert eine SRF-Sendung, die eine Unicef-Studie zur
-  Chancengleichheit in der Schweiz thematisiert. Die Sendung präsentiert die
-  Selektion im Bildungssystem als Hauptursache für die Ungleichheit, ohne den
-  Migrationshintergrund und andere wichtige Faktoren zu berücksichtigen. Der
-  Artikel argumentiert, dass die Sendung eine politische Position als
-  wissenschaftliche Erkenntnis präsentiert und wichtige Fragen und Kritikpunkte
-  ausblendet.
+  Der Artikel kritisiert einen SRF-Beitrag, der eine Unicef-Studie zur
+  Chancengleichheit im Schweizer Schulsystem behandelt. SRF übernehme unkritisch
+  die These der Professorin Maag Merki, dass die frühe Selektion Hauptursache
+  der Ungleichheit sei, ohne den Migrationshintergrund als zentrale Variable zu
+  erwähnen, ohne internationale Vergleiche demografisch einzuordnen und ohne
+  Gegenpositionen oder kritische Fragen zu formulieren. Die Sendung sei keine
+  Diskussion, sondern eine Bestätigung einer politischen Position im Gewand der
+  Wissenschaft.
 quelle_datum: '2026-05-13'
 quelle_format: Online-Artikel
 quelle_sendung: ''

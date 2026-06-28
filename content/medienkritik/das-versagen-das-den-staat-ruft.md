@@ -6,33 +6,35 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HI1NTSAWcAAU2ES.jpg'
 tweetId: '2057393354371944523'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Gesellschaft
+  - Demokratie
 tags:
-  - SRF
   - Netzcourage
+  - SRF
   - Jolanda Spiess
+  - wegklappbare Box
+  - Technologie-Schuld
+  - staatliche Lösung
+  - Beratungsstelle
   - digitale Gewalt
-  - staatliche Lösungen
-  - Medienkritik
-  - Technologie
-  - Kommunikation
 seo:
   description: >-
     Wie SRF das Scheitern von Netzcourage der Technologie anlastet — und die
     interne Krise, die gestrichenen Bundesgelder und die umstrittene Gründerin
     in…
 themen:
-  - Netzcourage
-  - digitale Gewalt
-  - staatliche Lösungen
-  - Medienkritik
-kritisiertes_medium: SRF
+  - Medienberichterstattung über Vereinsauflösung
+  - Digitale Gewalt und Hass im Netz
+  - Staatliche Anlaufstelle als Lückenfüller
+  - Interne Krise von Netzcourage
+  - Bundesgelder und Vereinsfinanzierung
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Verein Netzcourage hört auf – wie geht es weiter?
 kritisierter_autor: ''
 kritik_typ:
-  - Auslassung
   - Framing
+  - Auslassung
   - Kontextmangel
 personen:
   - Jolanda Spiess
@@ -43,19 +45,23 @@ institutionen:
   - SRF
   - Netzcourage
   - Gleichstellungsbüro des Bundes
+  - Bundesrat
   - Unicef
-gesetze_vorlagen: []
+  - Grüne
+gesetze_vorlagen:
+  - Motion Meret Schneider für nationale Anlaufstelle
 these: >-
-  Der SRF-Beitrag über das Scheitern von Netzcourage lastet das Versagen der
-  Technologie an, anstatt die interne Krise und die mangelhafte Führung des
-  Vereins zu thematisieren.
+  SRF framt das Scheitern von Netzcourage als Technologieproblem, um den Ruf
+  nach einer staatlichen Stelle zu legitimieren, während die wahren Ursachen –
+  interne Krise, gestrichene Bundesgelder, umstrittene Gründerin – in einer
+  wegklappbaren Box versteckt werden.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag über das Scheitern von Netzcourage, da
-  dieser das Versagen der Technologie anlastet, anstatt die interne Krise und
-  die mangelhafte Führung des Vereins zu thematisieren. Der Artikel
-  argumentiert, dass die interne Krise und die mangelhafte Führung des Vereins
-  die Hauptgründe für das Scheitern von Netzcourage sind und dass eine
-  staatliche Lösung nicht die richtige Antwort ist.
+  Der 9min-Artikel kritisiert SRF für die Berichterstattung über die Auflösung
+  des Vereins Netzcourage. SRF übernehme unkritisch die Erzählung der Gründerin,
+  der Verein sei von der Technologie überrannt worden, und verstecke die
+  internen Krisenursachen in einer standardmässig zugeklappten Box. Dadurch
+  werde das Versagen des privaten Vereins zum Argument für eine staatliche
+  Lösung umgedeutet, ohne die eigentlichen Ursachen zu analysieren.
 quelle_datum: '2026-05-20'
 quelle_format: Online-Artikel
 quelle_sendung: ''

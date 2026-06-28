@@ -6,48 +6,56 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIBwDu_W4AAOpka.jpg'
 tweetId: '2053764721099063358'
 categories:
-  - Medienrecht
+  - SRF/SRG
+  - Wirtschaft
   - Gesellschaft
 tags:
-  - SRF
-  - Kalifornien
-  - Betrug
-  - Medienkritik
+  - Bär Altadena
+  - Bagatellberichterstattung
+  - Asymmetrie
+  - Medi-Cal-Betrug
+  - West Coast Strike Force
+  - Gebührenzahler
+  - Bewegtbild-Logik
   - Auslandberichterstattung
-  - Redaktionslogik
 seo:
   description: >-
     Zum SRF-Beitrag «Kalifornien: Bär sorgt in Wohngegend für Aufregung», 11.
     Mai 2026 Was berichtet wird SRF meldet, dass in Altadena, Kalifornien, ein…
 themen:
-  - Medienkritik
-  - SRF-Berichterstattung
-  - Betrugskomplexe in Kalifornien
-kritisiertes_medium: SRF
+  - Auslandberichterstattung SRF
+  - Service-Public-Auftrag
+  - Themen-Selektion
+  - Kalifornien Betrugsskandale
+  - Programmgestaltung
+kritisiertes_medium: SRF News
 kritisierter_beitrag: 'Kalifornien: Bär sorgt in Wohngegend für Aufregung'
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
-  - Selektion
   - Asymmetrie
+  - Selektion
 personen: []
 institutionen:
   - SRF
-  - Tierschutzbehörde von Pasadena
-  - Sheriff-Behörde von Los Angeles County
+  - Tierschutzbehörde Pasadena
+  - Sheriff-Behörde Los Angeles County
+  - Wildtierbehörden
   - US-Justizbehörde
+  - Medi-Cal
 gesetze_vorlagen: []
 these: >-
-  Die SRF-Berichterstattung konzentriert sich auf spektakuläre, aber irrelevante
-  Ereignisse, während wichtige, strukturelle Themen wie Betrugskomplexe in
-  Kalifornien ignoriert werden.
+  SRF berichtet über einen Bären in Kalifornien, ignoriert aber gleichzeitig
+  strukturell relevante Betrugsskandale im selben Bundesstaat mit 180 Milliarden
+  Dollar Schaden, was eine systematische Asymmetrie in der
+  Auslandberichterstattung zugunsten filmbarer Bagatellen zeigt.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRF-Berichterstattung über einen Bären in
-  Kalifornien, der als spektakulär, aber irrelevant angesehen wird, während
-  wichtige Themen wie Betrugskomplexe in Kalifornien ignoriert werden. Die
-  Auswahl der Berichte wird als inhaltliche Aussage gesehen, die den Service
-  public verfehlt. Die Redaktionslogik der SRF wird als fehlerhaft angesehen, da
-  sie sich auf visuell ansprechende, aber irrelevante Ereignisse konzentriert.
+  9min.ch kritisiert, dass SRF einen 46-Sekunden-Beitrag über einen Bären in
+  Altadena sendet, aber in denselben Wochen nicht über massive Betrugsskandale
+  in Kalifornien (180 Mrd. Dollar, Hospizbetrug, Arbeitslosenbetrug) berichtet.
+  Die Kritik sieht darin ein Muster: filmbare Bagatellen kommen ins Programm,
+  strukturelle Befunde ohne Spektakel bleiben draussen. Dies verfehle den
+  Service-Public-Auftrag.
 quelle_datum: '2026-05-11'
 quelle_format: Online-Artikel
 quelle_sendung: ''

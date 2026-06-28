@@ -6,31 +6,35 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJT4lsyXcAE3kCg.jpg'
 tweetId: '2059544279853211733'
 categories:
+  - SRF/SRG
   - Klima/Energie
+  - Billag/Gebühren
 tags:
-  - Klima
-  - Energie
-  - Medienkritik
+  - 43 Grad
+  - ETH-Modellierung
   - SRF
-  - Propaganda
   - Klimawandel
-  - Journalismus
+  - Propaganda
+  - Zwangsgebühren
+  - Framing
+  - Messung vs. Projektion
 seo:
   description: >-
     SRF warnt: Schweizer Städte müssen sich auf bis zu 43 Grad einstellen. Die
     Zahl kommt aus einer ETH-Modellierung. Sie ist kein Messwert, keine…
 themen:
   - Klimaberichterstattung
-  - SRF-Kritik
-  - Propaganda
-  - Klimawandel
-kritisiertes_medium: SRF
+  - Temperaturprojektion vs. Messung
+  - städtische Wärmeinsel
+  - historische Hitzeextreme
+  - öffentlich-rechtliche Medienfinanzierung
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Bis zu 43 Grad – Schweizer Städte sind gefordert
-kritisierter_autor: ''
+kritisierter_autor: Christian von Burg
 kritik_typ:
   - Framing
-  - Fehlinformation
-  - Selektion
+  - Auslassung
+  - Kontextmangel
 personen:
   - Erich Fischer
   - Christian von Burg
@@ -39,15 +43,17 @@ institutionen:
   - ETH Zürich
 gesetze_vorlagen: []
 these: >-
-  Die SRF-Klimaberichterstattung ist tendenziös und verschleiert den Unterschied
-  zwischen Messung und Modellierung, um Angst zu erzeugen und politische
-  Maßnahmen zu fördern.
+  SRF verschleiert den Unterschied zwischen gemessenen und modellierten
+  Temperaturen, verschweigt historische Hitzeextreme und betreibt mit
+  Zwangsgebühren finanzierte Klimapropaganda statt sachlicher Information.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRF-Klimaberichterstattung für ihre tendenziöse
-  Darstellung des Klimawandels. Die Verwendung von Modellierungen und
-  Projektionen wird als Fakt dargestellt, ohne den Unterschied zwischen Messung
-  und Modellierung zu klären. Der Artikel argumentiert, dass dies zu Angst und
-  Bevormundung führt, anstatt zu Aufklärung und sachlicher Information.
+  Der 9min.ch-Artikel kritisiert einen SRF-Beitrag, der eine ETH-Modellierung
+  von bis zu 43 Grad in Schweizer Städten als faktische Vorhersage präsentiert,
+  ohne zwischen Messung und Projektion zu unterscheiden. Historische
+  Hitzeextreme vor der Industrialisierung werden ebenso verschwiegen wie die
+  Unsicherheiten der Modellannahmen. Der Beitrag rahmt das lokale Problem der
+  städtischen Wärmeinsel als globales Klimaproblem und finanziere so mit
+  Zwangsgebühren Klimapropaganda statt Aufklärung.
 quelle_datum: '2026-05-26'
 quelle_format: Online-Artikel
 quelle_sendung: ''

@@ -6,55 +6,72 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HH4MudwW0AI9K6n.jpg'
 tweetId: '2053093278367568007'
 categories:
+  - SRF/SRG
   - Gesellschaft
-  - Medienrecht
-  - Zensur/Meinungsfreiheit
+  - Demokratie
 tags:
-  - Kinderprostitution
-  - Medienkritik
-  - Journalismus
   - SRF
   - RTS
   - Temps présent
-  - Sexarbeit
-  - Minderjährige
+  - Kinderprostitution
+  - Täterauslassung
+  - Heim-Versagen
+  - Sexarbeit-Vokabular
+  - Empathie-Architektur
 seo:
   description: >-
     Zur SRF-Adaption der RTS-Reportage «Sarah: ‹Die Kunden konnten erahnen, dass
     ich minderjährig bin›», 8. Mai 2026 Was berichtet wird Der Beitrag,…
 themen:
   - Kinderprostitution
-  - Medienkritik
-  - Journalismus
+  - Medienberichterstattung über Sexualstraftaten
+  - Tätersoziologie und institutionelles Versagen
+  - Sprachliche Normalisierung
+  - Grenzüberschreitender Zahlenvergleich
 kritisiertes_medium: SRF News
-kritisierter_beitrag: '«Sarah: ‹Die Kunden konnten erahnen, dass ich minderjährig bin›»'
+kritisierter_beitrag: 'Sarah: ‹Die Kunden konnten erahnen, dass ich minderjährig bin›'
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
   - Framing
-  - Kontextmangel
+  - Selektion
 personen:
   - Sarah
   - Ylona
 institutionen:
   - SRF
   - RTS
+  - SRF News
   - Temps présent
-  - Innenministerium
+  - Bundesrat
+  - EDA
+  - EJPD
+  - BAG
+  - BFM
+  - SNB
+  - SECO
+  - EU-Rat
+  - EU-Kommission
+  - OSZE
+  - WHO
+  - IWF
+  - SVP
+  - SP
+  - Parlament
+  - Innenministerium Frankreich
 gesetze_vorlagen: []
 these: >-
-  Die Reportage über Kinderprostitution in der SRF-Adaption der RTS-Reportage
-  ist ein Beispiel für eine unzureichende journalistische Aufarbeitung eines
-  gesellschaftlichen Problems, da sie die Täter und Institutionen nicht
-  ausreichend thematisiert und stattdessen auf eine emotionale Architektur
-  setzt, die Empathie erzeugt, ohne politische Aussagen zu machen.
+  Die SRF-Adaption der RTS-Reportage löst ein gesellschaftliches Verbrechen in
+  individuelle Opferschicksale auf, lässt Täter und institutionelle Verursacher
+  unsichtbar und normalisiert durch ihr Vokabular, was sie vorgeblich aufklärt.
 zusammenfassung: >-
-  Die Reportage über Kinderprostitution in der SRF-Adaption der RTS-Reportage
-  wird kritisiert, da sie die Täter und Institutionen nicht ausreichend
-  thematisiert und stattdessen auf eine emotionale Architektur setzt, die
-  Empathie erzeugt, ohne politische Aussagen zu machen. Die Kritik bemängelt die
-  Auslassung wichtiger Informationen und die Verwendung einer Sprache, die das
-  Problem verharmlost.
+  9min.ch analysiert die SRF-Übernahme einer RTS-Reportage über
+  Kinderprostitution in Genf und Frankreich. Der Beitrag erzeuge Empathie für
+  die Opfer, lasse aber die Tätersoziologie, das institutionelle Versagen der
+  Heime und die Deutschschweizer Dimension systematisch aus. Die Sprache
+  («Sexarbeit», «Kunden») normalisiere Kindesmissbrauch, die Forderung nach
+  «spezialisierten Heimen» reproduziere das System, das das Problem erst
+  ermöglicht habe.
 quelle_datum: '2026-05-08'
 quelle_format: Online-Artikel
 quelle_sendung: Temps présent

@@ -6,56 +6,66 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HKkACsOWUAEGiM_.jpg'
 tweetId: '2065182137767141568'
 categories:
+  - SRF/SRG
   - Wirtschaft
-  - Medienrecht
   - EU/Aussenpolitik
 tags:
+  - Zinserhöhung
   - EZB
-  - Leitzins
-  - Inflation
-  - Wirtschaft
-  - Medienkritik
   - Christine Lagarde
-  - Schuldspruch
   - Tapie-Affäre
+  - Einordnungsbox
+  - Schuldspruch
+  - Stagflation
+  - Behördenpropaganda
 seo:
   description: >-
     Dieser SRF-Beitrag ist eine Agenturmeldung mit Einordnungsbox: Die EZB
     erhöht den Leitzins erstmals seit 2023 um 0.25 Punkte auf 2.25 Prozent, als…
 themen:
-  - EZB-Leitzins
-  - Inflation
-  - Wirtschaftspolitik
-  - Medienkritik
-  - Christine Lagarde
-kritisiertes_medium: SRF News
+  - EZB-Zinserhöhung
+  - Inflationsbekämpfung
+  - Medienberichterstattung über Notenbanken
+  - Christine Lagarde und Tapie-Affäre
+  - Stagflation und Angebotsschock
+kritisiertes_medium: SRF 4 News
 kritisierter_beitrag: EZB erhöht den Leitzins erstmals seit 2023
-kritisierter_autor: ''
+kritisierter_autor: Charlotte Jacquemart
 kritik_typ:
   - Auslassung
-  - Framing
-  - Kontextmangel
+  - Selektion
+  - Behördenpropaganda
 personen:
-  - Christine Lagarde
   - Charlotte Jacquemart
+  - Christine Lagarde
+  - Bernard Tapie
+  - François Hollande
 institutionen:
-  - EZB
   - SRF
+  - SRF 4 News
+  - EZB
   - IWF
+  - Cour de Justice de la République
 gesetze_vorlagen: []
 these: >-
-  Der SRF-Beitrag über die EZB-Leitzinserhöhung ist methodisch mangelhaft und
-  verfehlt die kritische Analyse der Entscheidung.
+  Der SRF-Beitrag bricht seine eigene ökonomische Analyse vor der kritischen
+  Schlussfolgerung ab, lässt keine Gegenposition zu und verschweigt systematisch
+  den rechtskräftigen Schuldspruch der EZB-Präsidentin Lagarde aus der
+  Tapie-Affäre.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag über die EZB-Leitzinserhöhung als
-  methodisch mangelhaft und verfehlt in der kritischen Analyse der Entscheidung.
-  Die EZB-Präsidentin Christine Lagarde wird nicht auf ihren rechtskräftigen
-  Schuldspruch angesprochen. Der Beitrag bietet keine ausgewogene Darstellung
-  der Meinungen und keine kritische Auseinandersetzung mit der Entscheidung.
+  9min.ch kritisiert einen SRF-Beitrag zur EZB-Zinserhöhung, dessen
+  Einordnungsbox von Charlotte Jacquemart die ökonomische Logik bis zur Schwelle
+  der eigenen Schlussfolgerung entwickelt, diese dann aber abbricht, statt zu
+  sagen, dass die Zinserhöhung bei einem Angebotsschock das falsche Instrument
+  ist. Zudem wird moniert, dass Christine Lagardes rechtskräftiger Schuldspruch
+  im Tapie-Verfahren in keiner SRF-Berichterstattung je erwähnt wird, obwohl
+  Vertrauen das zentrale Kapital einer Notenbank sei. Als drittes Problem wird
+  die fehlende externe Gegenstimme und die ungefilterte Wiedergabe von Lagardes
+  Aussagen beanstandet.
 quelle_datum: '2026-06-11'
 quelle_format: Online-Artikel
-quelle_sendung: SRF 4 News
-quelle_redaktion: SRF News
+quelle_sendung: ''
+quelle_redaktion: SRF News Wirtschaft
 kritik_schwere: 3
 ---
 

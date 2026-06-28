@@ -7,56 +7,68 @@ coverImage: 'https://pbs.twimg.com/media/HJOhcjnWEAA3VRw.jpg'
 tweetId: '2059167018624946381'
 categories:
   - Wirtschaft
+  - Demokratie
   - Gesellschaft
-  - Medienrecht
 tags:
-  - Pharma
-  - Medikamente
-  - Preisdruck
-  - Schweiz
-  - USA
   - Roche
-  - Bundesrätin Baume-Schneider
-  - FDP
+  - US-Verträge
+  - Preisdruck
+  - Baume-Schneider
+  - BAG
+  - FDP-Kehrtwende
+  - Prämien
+  - Transparenz
 seo:
   description: >-
     Die Pharma steht in den USA unter Preisdruck. Lösung: Die Schweiz soll
     kompensieren. Roche hat den USA offenbar zugesichert, Medikamente nicht
     teurer als…
 themen:
-  - Pharma-Industrie
+  - Pharmaabgabe
   - Medikamentenpreise
-  - Schweizer Gesundheitswesen
-kritisiertes_medium: SRF
-kritisierter_beitrag: Bürgerliche wollen Umsatzabgabe bei Medikamenten überdenken
+  - Quersubventionierung USA-Schweiz
+  - Lobbyismus
+  - Gesundheitspolitik
+kritisiertes_medium: SRF News
+kritisierter_beitrag: >-
+  «Bürgerliche wollen Umsatzabgabe bei Medikamenten überdenken» und
+  «Baume-Schneider: «Mir machen die Lobbyisten keine Angst»»
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
   - Kontextmangel
+  - Framing
 personen:
-  - Bundesrätin Baume-Schneider
+  - Elisabeth Baume-Schneider
 institutionen:
+  - SRF
   - Roche
+  - BAG
   - FDP
   - SVP
   - Mitte
-  - BAG
-gesetze_vorlagen: []
+  - USA
+gesetze_vorlagen:
+  - Pharmaabgabe
+  - Kostenfolge-Modelle
 these: >-
-  Die Schweizer Medikamentenpreise werden durch geheime US-Verträge und
-  Lobbyismus der Pharma-Industrie beeinflusst.
+  SRF berichtet über die Einzelteile eines Mechanismus — Pharma drückt Schweizer
+  Preise hoch, um US-Verluste zu kompensieren, bürgerliche Parteien kippen die
+  Pharmaabgabe — stellt aber den Zusammenhang nicht her und lässt wesentliche
+  Kontexte fehlen.
 zusammenfassung: >-
-  Der Artikel kritisiert die Berichterstattung des SRF über die Pharma-Industrie
-  und die Medikamentenpreise in der Schweiz. Die Autorin argumentiert, dass die
-  Berichte wichtige Kontexte und Zusammenhänge nicht herstellen und somit ein
-  unvollständiges Bild der Situation vermitteln. Die Pharma-Industrie steht in
-  den USA unter Preisdruck und fordert Kompensation in der Schweiz, was zu
-  höheren Medikamentenpreisen für die Schweizer Bevölkerung führt.
+  9min.ch kritisiert zwei SRF-Artikel, die die Kehrtwende der bürgerlichen
+  Parteien bei der Pharmaabgabe und den US-Preisdruck auf die Pharma getrennt
+  behandeln, ohne die Verbindung herzustellen. Wesentliche Kontexte wie
+  Schweizer Hochpreise, Pharma-Milliardengewinne und der Anteil der Abgabe am
+  Umsatz fehlen. Baume-Schneiders Weigerung, die geheimen US-Verträge zu prüfen,
+  wird ebenso wenig kritisch eingeordnet wie die Umdeutung des
+  Erpressungsvorwurfs zu einem psychologischen Problem der Beamten.
 quelle_datum: '2026-05-26'
 quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
-kritik_schwere: 2
+kritik_schwere: 3
 ---
 
 *Die Pharma steht in den USA unter Preisdruck. Lösung: Die Schweiz soll kompensieren. Roche hat den USA offenbar zugesichert, Medikamente nicht teurer als in Industrieländern wie der Schweiz anzubieten — ein vertraglicher Anreiz, Schweizer Preise hochzuhalten. Bundesrätin Baume-Schneider sagt, die Schweizer sollen nicht für die USA bezahlen. Aber sie weigert sich, die Verträge zu sehen, die zeigen würden, ob sie es bereits tun. Gleichzeitig weicht die FDP von ihrem eigenen Vorschlag einer Pharmaabgabe zurück. BAG-Mitarbeiter sprechen von Erpressung. Die Ministerin nennt es mangelnde Kreativität. Zwei Artikel. Keiner verbindet die Punkte.*

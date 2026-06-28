@@ -6,50 +6,57 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIvAsq0X0AAtJK3.jpg'
 tweetId: '2056950498083705339'
 categories:
+  - SRF/SRG
   - EU/Aussenpolitik
   - Wirtschaft
-  - Medienrecht
 tags:
-  - EU
-  - Schweiz
-  - Protektionismus
+  - SRF
+  - Charles Liebherr
+  - EU-Protektionismus
   - Stahlzölle
-  - Bilaterale Verträge
   - Schiedsgericht
-  - Wirtschaftspolitik
+  - Alternativlosigkeit
+  - Lobbyismus
+  - Machtfrage
 seo:
   description: >-
     Wie SRF den EU-Protektionismus als Naturereignis darstellt — und die
     bilaterale Kapitulation als einzig logische Antwort neu erzählt Zur Analyse
     von…
 themen:
-  - EU-Protektionismus
-  - Schweizer Wirtschaft
-  - Bilaterale Beziehungen
-kritisiertes_medium: SRF
+  - EU-Stahl-Protektionismus
+  - Bilaterales Vertragspaket
+  - Schiedsgericht
+  - Schweizer Souveränität
+  - Medien-Framing
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Die EU setzt auf Stahl-Protektionismus – und das ganz unverblümt
 kritisierter_autor: Charles Liebherr
 kritik_typ:
-  - Framing
   - Auslassung
-  - Fehlinformation
+  - Framing
+  - Kontextmangel
 personen:
   - Charles Liebherr
 institutionen:
   - SRF
   - EU
-  - Schweizer Regierung
-gesetze_vorlagen: []
+  - Europaparlament
+gesetze_vorlagen:
+  - Bilaterales Vertragspaket
+  - Schiedsgericht
 these: >-
-  Der Artikel von Charles Liebherr präsentiert den EU-Protektionismus als
-  unvermeidliche Realität und die bilaterale Integration als einzig logische
-  Antwort, ohne die Kosten und Alternativen zu prüfen.
+  SRF-Korrespondent Liebherr präsentiert den EU-Protektionismus als
+  unbestrittenen Konsens und verkauft die bilaterale Kapitulation als einzig
+  logische Antwort, ohne Alternativen zu prüfen oder die Machtfrage zu stellen.
 zusammenfassung: >-
-  Der Artikel analysiert den EU-Protektionismus im Stahlsektor und die
-  Auswirkungen auf die Schweiz. Der Autor präsentiert die bilaterale Integration
-  als Lösung, ohne die Machtfrage und die Alternativen zu berücksichtigen. Die
-  Kritik behauptet, dass der Artikel die EU-Perspektive überbetont und die
-  Schweizer Souveränität vernachlässigt.
+  Der 9min-Artikel kritisiert Charles Liebherrs SRF-Analyse zum
+  EU-Stahl-Protektionismus als verdeckte Propaganda für das bilaterale
+  Vertragspaket. Liebherr verschweige die Verlierer des Protektionismus,
+  moralisiere die Machtfrage mit Opfersprache und präsentiere das Schiedsgericht
+  als Heilmittel, obwohl es politische Zölle nicht verhindern könne. Die als
+  Analyse etikettierte Berichterstattung funktioniere als Lobbyismus, der
+  Alternativlosigkeit konstruiere und andere Positionen als naiv diskreditiere.
 quelle_datum: '2026-05-19'
 quelle_format: Online-Artikel
 quelle_sendung: ''

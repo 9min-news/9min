@@ -6,49 +6,59 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJYVrGXWwAM1ruT.jpg'
 tweetId: '2059857878442229785'
 categories:
-  - Medienrecht
-  - Zensur/Meinungsfreiheit
-  - Gesellschaft
+  - SRF/SRG
+  - Wirtschaft
+  - Klima/Energie
 tags:
-  - SRF
   - Greenpeace
+  - Axpo
   - Atomkraft
-  - Russland
-  - Uran
-  - Lobbyismus
-  - Medienmanipulation
+  - Russland-Uran
+  - NGO-Lobbyismus
+  - SRF
+  - Framing
+  - Asymmetrie
 seo:
   description: >-
     SRF berichtet: Greenpeace hat eine «Untersuchung» gemacht. Die Untersuchung
     «zeigt», dass Schweizer AKWs mit russischem Uran betrieben werden. Die Axpo…
 themen:
-  - Medienkritik
-  - NGO-Einfluss
-  - Energiepolitik
-kritisiertes_medium: SRF
+  - NGO-Berichterstattung
+  - Atomenergie und Uranlieferungen
+  - Medienasymmetrie
+  - Lobbyismus im öffentlich-rechtlichen Rundfunk
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Russisches Uran in Schweizer AKW? Greenpeace erhebt Vorwürfe
 kritisierter_autor: ''
 kritik_typ:
   - Framing
   - Auslassung
-  - Fehlinformation
+  - Asymmetrie
 personen:
   - Florian Kasser
+  - Pascal Husting
 institutionen:
   - SRF
   - Greenpeace
+  - Greenpeace International
   - Axpo
+  - ENSI
+  - Bundesrat
 gesetze_vorlagen: []
 these: >-
-  Der SRF-Beitrag über Greenpeace und russisches Uran in Schweizer AKW ist ein
-  Beispiel für unzureichende Medienkritik und die Verbreitung von NGO-Kampagnen.
+  SRF instrumentalisiert eine Greenpeace-Kampagne als neutrale Untersuchung und
+  übernimmt damit die politische Agenda einer NGO, während das befragte
+  Schweizer Unternehmen in die Verteidigungsrolle gedrängt wird.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag über Greenpeace und russisches Uran in
-  Schweizer AKW. Der Beitrag wird als einseitig und unkritisch gegenüber
-  Greenpeace angesehen, während die Axpo und die Schweizer Energiepolitik
-  kritisch befragt werden. Der Artikel argumentiert, dass SRF die politische
-  Agenda von Greenpeace unterstützt und die Kosten einer moralisch komfortablen
-  Position nicht thematisiert.
+  Der 9min-Artikel kritisiert einen SRF-Beitrag, der eine
+  Greenpeace-Untersuchung zu russischem Uran in Schweizer AKWs als objektive
+  Wahrheit darstellt, ohne die politische Agenda der NGO, ihre Methoden oder
+  ihre dokumentierten Skandale zu erwähnen. SRF behandle den
+  Greenpeace-Aktivisten Florian Kasser als 'Atomexperten', übernehme dessen
+  moralische Wertungen unkritisch und stelle suggestive Behauptungen ohne
+  Beweise auf. Die Kostenfolgen für Schweizer Stromkonsumenten würden ebenso
+  ausgeblendet wie die Asymmetrie zwischen einer internationalen NGO und einem
+  demokratisch kontrollierten Schweizer Energiekonzern.
 quelle_datum: '2026-05-28'
 quelle_format: Online-Artikel
 quelle_sendung: ''

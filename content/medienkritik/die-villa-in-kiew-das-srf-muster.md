@@ -6,28 +6,32 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIbeUlwXcAEKWta.jpg'
 tweetId: '2055577197339885766'
 categories:
-  - Medienrecht
-  - Zensur/Meinungsfreiheit
+  - SRF/SRG
   - EU/Aussenpolitik
 tags:
+  - SRF
   - Ukraine
   - Korruption
-  - SRF
-  - Medienkritik
+  - Selenski
   - Judith Huber
   - Echo der Zeit
-  - Selenski
+  - Berichterstattungsmuster
+  - Schweizer Gelder
 seo:
   description: >-
     Zur SRF-Berichterstattung über Korruption in der Ukraine, mit besonderer
     Berücksichtigung des Beitrags von Judith Huber vom 15. Mai 2026 Sucht man
     auf…
 themen:
-  - Korruption in der Ukraine
-  - SRF-Berichterstattung
-  - Medienkritik
+  - SRF-Berichterstattung zu Ukraine-Korruption
+  - Selenski und Machtkonzentration
+  - Schweizer Ukraine-Hilfe und Rechenschaft
+  - Medienmuster Diagnose-Vergessen-Bestätigung
+  - Korruption als System
 kritisiertes_medium: SRF
-kritisierter_beitrag: Ukrainische Korruptionsaffäre wirft dunklen Schatten auf Selenski
+kritisierter_beitrag: >-
+  Geldwäsche und Villenbau: Ukrainische Korruptionsaffäre wirft dunklen Schatten
+  auf Selenski
 kritisierter_autor: Judith Huber
 kritik_typ:
   - Auslassung
@@ -35,26 +39,41 @@ kritik_typ:
   - Kontextmangel
 personen:
   - Judith Huber
-  - Selenski
   - David Nauer
-  - Susan Stewart
   - Olexi Haran
+  - Susan Stewart
+  - Wolodymyr Selenski
+  - Andrij Jermak
+  - Julija Swyrydenko
+  - Simonetta Sommaruga
+  - Donald Trump
 institutionen:
   - SRF
-  - Ukrainische Regierung
-gesetze_vorlagen: []
+  - Echo der Zeit
+  - Ukrainische Anti-Korruptionsbehörden
+  - Oberster Gerichtshof Ukraine
+  - Präsidialbüro Ukraine
+  - Nationalbank Ukraine
+gesetze_vorlagen:
+  - >-
+    Gesetz zur Unterstellung der Anti-Korruptionsbehörden unter
+    Regierungskontrolle
 these: >-
-  Die SRF-Berichterstattung über Korruption in der Ukraine ist mangelhaft und
-  folgt einem bestimmten Muster, das die tatsächlichen Probleme nicht anspricht.
+  SRF behandelt jeden Ukraine-Korruptionsskandal als isoliertes Einzelereignis
+  und vergisst die eigene frühere Diagnose, wodurch das systemische Muster der
+  Machtkonzentration unter Selenski verdeckt und die fehlende Rechenschaft über
+  Schweizer Gelder ausgeblendet wird.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRF-Berichterstattung über Korruption in der
-  Ukraine und zeigt auf, dass die Berichterstattung ein bestimmtes Muster folgt,
-  das die tatsächlichen Probleme nicht anspricht. Der Autor argumentiert, dass
-  die SRF-Berichterstattung die Korruption in der Ukraine nicht ausreichend
-  thematisiert und stattdessen eine positive Erzählung über die Ukraine und ihre
-  Regierung vermittelt.
+  Der Artikel analysiert 338 SRF-Artikel zur Ukraine-Korruption seit 2019 und
+  identifiziert ein wiederkehrendes Muster: Diagnose, Vergessen, Bestätigung.
+  SRF stellt zwar korrekt fest, dass Selenski Macht konzentriert und Loyalisten
+  einsetzt, behandelt aber jeden neuen Skandal als überraschendes
+  Einzelereignis, ohne die eigene Chronologie zu verknüpfen. Besonders Judith
+  Hubers Beitrag vom 15. Mai 2026 wird kritisiert, weil er die Schweizer
+  Milliardenzahlungen an die Ukraine und das Interesse der Steuerzahler an
+  Rechenschaft unerwähnt lässt.
 quelle_datum: '2026-05-15'
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3

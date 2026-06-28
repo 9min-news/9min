@@ -6,61 +6,79 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJ5S0UTWsAAEVPF.jpg'
 tweetId: '2062176797786075317'
 categories:
+  - SRF/SRG
+  - EU/Aussenpolitik
   - Wirtschaft
 tags:
-  - SRF
-  - Ungarn
   - Vermögenssteuer
-  - Kapitalsozialismus
+  - Ungarn
+  - Peter Magyar
+  - Viktor Orbán
+  - SRF
   - Medienkritik
-  - Politik
-  - Wirtschaft
+  - Selektion
+  - Framing
 seo:
   description: >-
     Dieser SRF-Beitrag schildert das Vorhaben des neuen ungarischen Premiers
     Peter Magyar, eine Vermögenssteuer einzuführen, mit der die unter Viktor
     Orbán…
 themen:
-  - Medienkritik
-  - Ungarn
-  - Vermögenssteuer
-  - Kapitalsozialismus
-kritisiertes_medium: SRF
+  - Vermögenssteuer Ungarn
+  - SRF-Berichterstattung und Sympathie-Framing
+  - Oligarchensystem und Staatsklientelismus
+  - Geldschöpfung als Ursache von Ungleichheit
+  - Selektive Berichterstattung im europäischen Kontext
+kritisiertes_medium: SRF News
 kritisierter_beitrag: 'Ungarns Reiche sollen bezahlen: Magyar plant Vermögenssteuer'
-kritisierter_autor: ''
+kritisierter_autor: Peter Balzli
 kritik_typ:
-  - Auslassung
   - Framing
-  - Selektion
+  - Auslassung
+  - Asymmetrie
 personen:
   - Peter Magyar
   - Viktor Orbán
+  - Peter Balzli
   - Lőrinc Mészáros
   - Tiborcz
   - Richard Cantillon
   - Roland Baader
   - George Soros
+  - Henry Nowak
+  - Vickrum Digwa
+  - Keir Starmer
 institutionen:
   - SRF
-  - Corruption Research Center in Budapest
+  - Corruption Research Center Budapest
   - Open Society Foundations
+  - EU
+  - IOPC
+  - Britisches Parlament
+  - Operation Beaconport
 gesetze_vorlagen:
-  - Vermögenssteuer
+  - Vermögenssteuer Vorhaben Magyar
+  - ISF Frankreich
 these: >-
-  Der SRF-Beitrag über die ungarische Vermögenssteuer ist durchgehend von
-  Sympathie für den Machtwechsel und die Steuer geprägt, ersetzt jedoch die
-  kritische Prüfung durch eine optimistische Erzählung.
+  SRF berichtet über Magyars Vermögenssteuer mit durchgehender Sympathie statt
+  kritischer Prüfung, verschweigt ökonomische und rechtsstaatliche Einwände
+  sowie die monetäre Ursache der Ungleichheit und schweigt zugleich zu
+  unliebsamen Geschichten wie den britischen Grooming-Gangs.
 zusammenfassung: >-
-  Der Beitrag kritisiert den SRF-Beitrag über die ungarische Vermögenssteuer für
-  seine einseitige Darstellung und die Auslassung wichtiger Kritikpunkte. Der
-  Beitrag wird als Beispiel für die Selektion von Geschichten durch den Sender
-  SRF genannt, die nicht ins bevorzugte Erzählraster passen. Die Kritik
-  konzentriert sich auf die mangelnde Ausgewogenheit und die Verwendung von
-  Framing und Selektion, um eine bestimmte Meinung zu vermitteln.
+  Der Artikel kritisiert den SRF-Beitrag zu Magyars Vermögenssteuerplan für
+  einseitige Quellenabhängigkeit (nur Korrespondent Balzli), mangelnde
+  ökonomische Einordnung (Vermögensflucht, gescheiterte Vermögenssteuern in
+  Europa) und ein sympathetisches Framing, das Kritik im selben Atemzug
+  entschärft. Die tiefere Auslassung sei die Unhinterfragtheit der Diagnose: die
+  Ungleichheit werde als Marktversagen dargestellt, obwohl sie wesentlich durch
+  das staatliche Geldmonopol und Cantillon-Effekte erzeugt sei. Zudem moniert
+  der Artikel eine asymmetrische Berichterstattung, da SRF zu britischen Fällen
+  wie Henry Nowak und den Grooming-Gang-Anhörungen schweige, weil diese nicht
+  ins bevorzugte Erzählraster passten.
 quelle_datum: '2026-06-03'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: SRF News
+quelle_redaktion: SRF News International
 kritik_schwere: 3
 ---
 

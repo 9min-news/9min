@@ -6,26 +6,30 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIx27nkXkAASUyb.jpg'
 tweetId: '2057149916326326283'
 categories:
+  - SRF/SRG
+  - Abstimmungen
   - Gesellschaft
-  - Wirtschaft
-  - Demokratie
 tags:
-  - AHV
-  - Rentenreform
-  - Bundesrat
+  - AHV 2030
   - SRF
-  - Medienkritik
-  - Soziale Gerechtigkeit
+  - Framing
+  - Bundesrat
+  - Frühpensionierung
+  - Freibetrag
+  - 13. Rente
+  - Selbstständige
 seo:
   description: >-
     Wie SRF die AHV-Reform als Förderung verkauft — und verschweigt, dass die
     Massnahmen vor allem jene treffen, die körperlich nicht mehr arbeiten können
     Zum…
 themen:
-  - AHV-Reform
-  - Rentenalter
-  - Frühpensionierungen
-kritisiertes_medium: SRF
+  - AHV-Reform 2030
+  - Rentenpolitik und körperlich belastende Berufe
+  - Medien-Framing von Bundesratsvorlagen
+  - 13. AHV-Rente als Kontext
+  - Selbstständige und AHV-Beiträge
+kritisiertes_medium: SRF News
 kritisierter_beitrag: 'AHV-Reform: Bundesrat will das Arbeiten im Rentenalter fördern'
 kritisierter_autor: ''
 kritik_typ:
@@ -34,20 +38,25 @@ kritik_typ:
   - Kontextmangel
 personen: []
 institutionen:
-  - Bundesrat
   - SRF
+  - Bundesrat
+  - Parlament
 gesetze_vorlagen:
-  - AHV-Reform
+  - AHV 2030
+  - 13. Altersrente
 these: >-
-  Die AHV-Reform wird von SRF als Förderprogramm dargestellt, obwohl sie vor
-  allem jene trifft, die körperlich nicht mehr arbeiten können.
+  SRF verkauft die AHV-Reform als Förderprogramm, verschleiert aber, dass sie
+  faktisch ein Strafkatalog ist, der vor allem körperlich Belastete trifft, und
+  verschweigt den ursächlichen Zusammenhang mit der 13. AHV-Rente.
 zusammenfassung: >-
-  Der Artikel kritisiert die Berichterstattung von SRF über die AHV-Reform. SRF
-  stellt die Reform als Förderprogramm dar, obwohl sie vor allem jene trifft,
-  die körperlich nicht mehr arbeiten können. Der Artikel argumentiert, dass die
-  Reform ein Strafkatalog ist, der Frühpensionierungen unattraktiver macht und
-  Beiträge ausweitet. Die 13. Rente wird als Elefant im Raum bezeichnet, der die
-  Finanzierungslücke der AHV vergrössert.
+  Der 9min-Artikel kritisiert, dass SRF die AHV-Reform 2030 in der Sprache des
+  Bundesrats als «Förderung» des Arbeitens im Rentenalter darstellt, obwohl die
+  Massnahmen faktisch Strafen für Frühpensionierungen, Beitragserhöhungen und
+  neue Zwänge enthalten. SRF verschweige, dass die Reform vor allem Menschen in
+  körperlich belastenden Berufen trifft, die nicht länger arbeiten können, und
+  klammere den Zusammenhang mit der 13. AHV-Rente als Mitursache der
+  Finanzierungslücke aus. Damit berichte SRF über Massnahmen, ohne nach
+  Ursachen, Verlierern und Gerechtigkeit zu fragen.
 quelle_datum: '2026-05-20'
 quelle_format: Online-Artikel
 quelle_sendung: ''

@@ -10,67 +10,70 @@ categories:
   - EU/Aussenpolitik
   - Zensur/Meinungsfreiheit
 tags:
-  - Cassis
+  - Bundesratsrede
+  - Ignazio Cassis
   - Swiss Press Award
-  - Selektion
-  - Framing
-  - Behördenpropaganda
-  - Arendt
+  - Aktivismus-Vorwurf
   - Clausewitz
-  - Gaza
+  - Hannah Arendt
+  - Gaza-Zahlen
+  - Informationskrieg
 seo:
   description: >-
     Zur Ansprache von Bundesrat Ignazio Cassis anlässlich der Swiss Press
     Award-Verleihung 2026 in Bern, gehalten am 24. April 2026 Eine
     Bundesratsrede vor…
 themen:
-  - Regierungskommunikation
+  - Politische Rhetorik
   - Pressefreiheit
-  - Desinformation
   - Informationspolitik
-  - Aussenpolitische Rhetorik
+  - Selektive Beispielauswahl
+  - Aussenminister-Perspektive
 kritisiertes_medium: EDA
-kritisierter_beitrag: Ansprache anlässlich der Swiss Press Award-Verleihung 2026
+kritisierter_beitrag: >-
+  Ansprache von Bundesrat Ignazio Cassis anlässlich der Swiss Press
+  Award-Verleihung 2026
 kritisierter_autor: Ignazio Cassis
 kritik_typ:
+  - Selektion
   - Auslassung
   - Framing
-  - Selektion
 personen:
   - Ignazio Cassis
   - Hannah Arendt
-  - Carl von Clausewitz
+  - Clausewitz
   - Beat Jans
-  - Călin Georgescu
-  - Viktor Orbán
-  - Christoph Blocher
-  - Hansjörg Wyss
+  - Georgescu
+  - Orbán
+  - Blocher
+  - Wyss
 institutionen:
   - EDA
   - Bundesrat
-  - Swiss Press Award
   - UN
   - IKRK
   - Lancet
-  - Time
   - Hamas
+  - Swiss Press Award
   - SRG
+  - Time
 gesetze_vorlagen:
   - Mediengesetz 2022
   - SRG-Halbierungsinitiative
 these: >-
   Cassis' Rede tarnt eine politische Positionierung als Appell an die
-  Pressefreiheit und demonstriert damit genau die selektive Informationspolitik,
-  die sie vorgibt zu kritisieren.
+  Pressefreiheit, indem sie westliche Desinformation ausblendet, kritischen
+  Journalismus als 'Aktivismus' delegitimiert und die Rolle der Regierung als
+  Informationsproduzent verschweigt.
 zusammenfassung: >-
-  Der Artikel analysiert die Rede von Bundesrat Cassis beim Swiss Press Award
-  2026 und zeigt auf, dass diese durch selektive Beispielauswahl
-  (ausschliesslich nicht-westliche Desinformation), Framing (Desinformation als
-  externes Problem) und systematische Auslassungen (keine Selbstkritik, keine
-  westlichen Beispiele) eine politische Positionierung verdeckt. Die Rede
-  instrumentalisiere Arendt und Clausewitz selektiv, delegitimiere kritischen
-  Journalismus als 'Aktivismus' und verschleiere die Rolle der Regierung als
-  Informationsakteur.
+  Der Artikel analysiert eine Rede von Bundesrat Ignazio Cassis am Swiss Press
+  Award 2026 und zeigt auf, dass diese rhetorisch geschliffen, aber inhaltlich
+  selektiv ist. Cassis wählt nur nicht-westliche Beispiele für Desinformation,
+  relativiert Gaza-Opferzahlen durch Hamas-Verweise, zitiert Arendt selektiv und
+  fordert eine 'diszipliniertere' Presse, die sich von Aktivismus abgrenzt. Die
+  Selbstkritik der Schweizer Behörden als Informationsakteure fehlt vollständig,
+  was die klassische Position der Macht bestätigt: Sie beschreibt das Problem
+  so, dass sie selbst nicht Teil davon ist.
 quelle_datum: '2026-04-24'
 quelle_format: Online-Artikel
 quelle_sendung: ''

@@ -6,52 +6,70 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHm8t3cX0AMvT-j.jpg'
 tweetId: '2051879352971776419'
 categories:
-  - Medienrecht
-  - Gesellschaft
+  - SRF/SRG
+  - Wirtschaft
+  - EU/Aussenpolitik
 tags:
-  - SRF
-  - Tagesgespräch
   - Patricia Danzi
   - Deza
+  - Tagesgespräch
+  - David Karasek
   - Entwicklungshilfe
-  - Iran-Krieg
-  - Kritik an SRF
+  - Behördenpropaganda
+  - Interessenkonflikt
+  - Kausalitätsbehauptung
 seo:
   description: >-
     Zur SRF-Berichterstattung «Deza: 'Es werden Leute sterben, weil es weniger
     Hilfe gibt'», Tagesgespräch, 5. Mai 2026 Patricia Danzi, Direktorin der…
 themen:
-  - SRF-Berichterstattung
-  - Entwicklungshilfe
-  - Iran-Krieg
+  - Entwicklungshilfe-Kontroverse
+  - Behördenkommunikation im öffentlich-rechtlichen Rundfunk
+  - Interessenkonflikt bei Budgetdebatten
+  - Geopolitische Darstellung des globalen Südens
+  - Moderatorische Nachlassigkeit
 kritisiertes_medium: SRF
 kritisierter_beitrag: 'Deza: ''Es werden Leute sterben, weil es weniger Hilfe gibt'''
 kritisierter_autor: David Karasek
 kritik_typ:
+  - Behördenpropaganda
   - Auslassung
-  - Framing
-  - Fehlinformation
+  - Selektion
 personen:
   - Patricia Danzi
   - David Karasek
+  - William Easterly
+  - Dambisa Moyo
+  - Angus Deaton
 institutionen:
   - SRF
   - Deza
+  - UN
+  - UNIGME
+  - RSF
+  - Hamas
+  - SVP
+  - FDP
+  - NYU
+  - Harvard
+  - Princeton
 gesetze_vorlagen: []
 these: >-
-  Die SRF-Berichterstattung über die Entwicklungshilfe und den Iran-Krieg ist
-  einseitig und unkritisch.
+  SRF gibt der Deza-Direktorin 26 Minuten ungeprüfte Sendezeit zur Verteidigung
+  ihres Budgets, ohne die wissenschaftliche Kontroverse, ihren institutionellen
+  Interessenkonflikt oder alternative Positionen zu thematisieren.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRF-Berichterstattung über die Entwicklungshilfe
-  und den Iran-Krieg als einseitig und unkritisch. Die Direktorin der Deza,
-  Patricia Danzi, wurde 26 Minuten lang ohne Gegenfrage oder Kritik interviewt.
-  Der Artikel argumentiert, dass die Berichterstattung die Komplexität der
-  Themen nicht ausreichend widerspiegelt und stattdessen eine moralische
-  Erzählung präsentiert.
+  Der Artikel kritisiert das SRF Tagesgespräch vom 5. Mai 2026, in dem
+  Deza-Direktorin Patricia Danzi 26 Minuten lang ungeprüft ihre Behördenposition
+  darlegen konnte. Moderator David Karasek stellte keine kritischen Nachfragen,
+  thematisierte weder den Interessenkonflikt noch die entwicklungspolitische
+  Forschungskontroverse, und liess keine Gegenstimmen zu. Der Beitrag wird als
+  Behördenwerbung im Gewand von Information charakterisiert, der dem
+  demokratischen Diskurs über Budgetkürzungen schadet.
 quelle_datum: '2026-05-05'
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: Tagesgespräch
-quelle_redaktion: SRF
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

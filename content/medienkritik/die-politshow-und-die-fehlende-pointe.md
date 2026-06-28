@@ -6,61 +6,68 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HFiSAkIbcAAtVER.jpg'
 tweetId: '2042543227878637629'
 categories:
-  - Medienrecht
-  - Demokratie
-  - Zensur/Meinungsfreiheit
+  - SRF/SRG
+  - Abstimmungen
+  - Migration
 tags:
   - SRF
   - SVP
-  - Volksinitiativen
-  - Zuwanderungsdebatte
-  - Medienkritik
-  - Framing
+  - MEI
+  - Begrenzungsinitiative
   - Politshow
+  - Tabubruch
+  - direkte Demokratie
+  - Nichtumsetzung
 seo:
   description: >-
     SRF publiziert das perfekte Hintergrundstück — zwei Monate vor der
     Abstimmung. Dreissig Jahre SVP-Geschichte, eingerahmt als Geschichte von
     «Tabubrüchen»,…
 themen:
-  - SRF-Berichterstattung
   - SVP-Geschichte
-  - Volksinitiativen
+  - MEI-Umsetzung
+  - Volksrechte Framing
   - Zuwanderungsdebatte
-  - Medienkritik
 kritisiertes_medium: SRF
-kritisierter_beitrag: Die Politshow und die fehlende Pointe
+kritisierter_beitrag: Hintergrundstück über 30 Jahre SVP-Geschichte
 kritisierter_autor: ''
 kritik_typ:
-  - Framing
   - Auslassung
+  - Framing
   - Kontextmangel
 personen:
   - Albert Rösti
-  - Blocher
+  - Christoph Blocher
 institutionen:
   - SRF
   - SVP
   - Nationalrat
   - UNO
+  - Parlament
+  - NZZ
 gesetze_vorlagen:
-  - MEI
+  - Masseneinwanderungsinitiative
   - Begrenzungsinitiative
+  - Verfassungsartikel Höchstzahlen und Kontingente
+  - Stellenmeldepflicht
+  - Inländervorrang light
 these: >-
-  Der SRF-Artikel über die SVP-Geschichte ist durch Framing und Auslassung
-  gekennzeichnet und vermittelt ein unvollständiges Bild der
-  Zuwanderungsdebatte.
+  SRF rahmt 30 Jahre SVP-Geschichte als Provokation und Politshow ein und
+  verschweigt dabei die Nichtumsetzung der MEI durch das Parlament, was der
+  entscheidende Kontext für die Begrenzungsinitiative und die aktuelle Empörung
+  wäre.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRF-Berichterstattung über die SVP-Geschichte und
-  die Zuwanderungsdebatte. Der Autor argumentiert, dass der Artikel durch
-  Framing und Auslassung gekennzeichnet ist und wichtige Informationen wie die
-  Nicht-Umsetzung der MEI nicht erwähnt. Der Artikel wird als Politshow
-  bezeichnet, die die Empörung über die Ignorierung eines Verfassungsartikels
-  herunterspielt.
+  Der Artikel kritisiert einen SRF-Hintergrundbeitrag über 30 Jahre
+  SVP-Geschichte, der die Zuwanderungsdebatte als Reihe von Tabubrüchen und
+  Politshows darstellt. Dabei verschweigt SRF, dass die MEI von 2014 vom
+  Parlament nicht umgesetzt wurde, obwohl dies der eigentliche Grund für die
+  Begrenzungsinitiative und die parlamentarische Empörung ist. Das Framing
+  diskreditiere Volksrechte als Provokationsmittel statt als demokratisches
+  Grundrecht.
 quelle_datum: ''
-quelle_format: ''
+quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: ''
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

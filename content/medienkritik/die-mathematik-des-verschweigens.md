@@ -6,54 +6,64 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIk3zLKXMAAiUgn.jpg'
 tweetId: '2056236498467303543'
 categories:
-  - Medienrecht
   - Migration
-  - Gesellschaft
+  - SRF/SRG
+  - Abstimmungen
 tags:
-  - Asylmigration
-  - SRF
-  - 10-Millionen-Initiative
+  - Faktencheck
   - Verhältnismässigkeit
-  - Kriminalität
-  - Vollkosten
+  - Vollkostenrechnung
+  - vorläufig Aufgenommene
+  - Kriminalstatistik
+  - False Equivalence
+  - Medienkritik
+  - Personenfreizügigkeit
 seo:
   description: >-
     Wie SRF die 10-Millionen-Initiative entkräften will — und dabei verrät,
     worum es wirklich geht Zum SRF-Beitrag «Im Visier der Initiative ist die…
 themen:
-  - Asylpolitik
-  - Medienkritik
-  - Zuwanderung
-kritisiertes_medium: SRF
+  - 10-Millionen-Initiative
+  - Asylmigration
+  - Asylkosten im Vollkostenvergleich
+  - vorläufige Aufnahme
+  - Kriminalität von Asylsuchenden
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Im Visier der Initiative ist die Asylmigration
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
   - Framing
-  - Kontextmangel
+  - False Equivalence
 personen:
   - Pascal Schmid
+  - Mühlemann
 institutionen:
   - SRF
-  - Bundesregierung
+  - Bund
+  - Kantone
+  - Gemeinden
+  - VBS
+  - Bundesasylzentren
 gesetze_vorlagen:
   - 10-Millionen-Initiative
+  - Personenfreizügigkeit
 these: >-
-  Die SRF-Berichterstattung über die 10-Millionen-Initiative ist unvollständig
-  und irreführend, da sie die tatsächlichen Kosten und Probleme des Asylsystems
-  verschweigt.
+  SRF tarnt eine politische Position als Faktencheck, indem es die
+  Verhältnismässigkeit der Asylmigration betont, aber die wahren Vollkosten, das
+  Problem der vorläufigen Aufnahme und die Kriminalitätsstatistik verschweigt.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRF-Berichterstattung über die
-  10-Millionen-Initiative, da sie die tatsächlichen Kosten und Probleme des
-  Asylsystems nicht thematisiert. Stattdessen wird die Initiative als
-  unverhältnismässig dargestellt, ohne die Vollkosten des Asylsystems und die
-  damit verbundenen Probleme zu berücksichtigen. Der Artikel fordert eine
-  ehrliche Diskussion über die Asylpolitik und die Notwendigkeit einer Reform
-  des Systems.
+  9min.ch kritisiert einen SRF-Faktencheck zur 10-Millionen-Initiative, der die
+  Asylmigration als nur 8 Prozent der Zuwanderung darstellt und die Initiative
+  als unverhältnismässig einordnet. Der Artikel wirft SRF vor, wesentliche
+  Kontexte zu verschweigen: Vollkosten von rund 5,6 Milliarden Franken pro Jahr,
+  rund 50'000 vorläufig Aufgenommene, die nicht ausgeschafft werden können, und
+  eine überproportionale Kriminalitätsbelastung. SRF behandle Schmids Statistik
+  und Mühlemanns Interpretation als gleichwertige politische Behauptungen.
 quelle_datum: '2026-05-18'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: ''
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

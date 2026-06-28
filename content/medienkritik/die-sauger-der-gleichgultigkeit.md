@@ -6,54 +6,66 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIhurgrW4AALRv9.jpg'
 tweetId: '2056014990574780562'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Klima/Energie
+  - Wirtschaft
 tags:
-  - SRF
   - Climeworks
-  - CO₂
-  - Klimaneutralität
-  - Journalismusfehler
-  - Medienkritik
+  - DAC
+  - Netto-Emittent
+  - Zertifikatehandel
+  - Calyx Global
+  - Heimildin
+  - SWI swissinfo
+  - Ablasshandel
 seo:
   description: >-
     Wie SRF eine Maschine feiert, die mehr CO₂ ausstösst als sie einfängt – und
     nicht einmal die einfachsten Fragen stellt Zum SRF-Beitrag «Die Schweiz
     sucht…
 themen:
-  - Klimaschutz
-  - CO₂-Entnahme
-  - Journalismus
-  - Medienkritik
-kritisiertes_medium: SRF
-kritisierter_beitrag: Die Schweiz sucht internationalen Markt für CO₂-Entnahme
+  - CO2-Entnahme-Technologie
+  - Klimaziel-Berichterstattung
+  - PR-Journalismus
+  - Subventionskritik
+kritisiertes_medium: SRF News
+kritisierter_beitrag: Die Schweiz sucht internationalen Markt für CO2-Entnahme
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
-  - Framing
-  - Fehlinformation
+  - Behördenpropaganda
+  - Selektion
 personen:
   - Wurzbacher
 institutionen:
   - SRF
   - Climeworks
   - ETH
+  - Neustark
   - Microsoft
   - Stripe
   - JP Morgan
   - Boeing
+  - Calyx Global
+  - Heimildin
+  - SWI swissinfo.ch
+  - Bundesrat
 gesetze_vorlagen: []
 these: >-
-  Der SRF-Beitrag über Climeworks ist ein Beispiel für fehlerhaften
-  Journalismus, der wichtige Informationen auslässt und eine positive
-  Darstellung der Firma bietet, obwohl diese mehr CO₂ ausstößt als sie einfängt.
+  SRF produziert unkritische PR für Climeworks und verschweigt zentrale Fakten –
+  darunter, dass die Firma 2023 mehr CO₂ ausstiess als einfing und ihre
+  Zertifikate herabgestuft wurden –, obwohl die eigene Schwesterredaktion
+  swissinfo.ch darüber berichtet hatte.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag über Climeworks, ein Unternehmen, das
-  CO₂ aus der Luft saugt. Der Beitrag wird als fehlerhaft dargestellt, da er
-  wichtige Informationen auslässt und eine positive Darstellung der Firma
-  bietet, obwohl diese mehr CO₂ ausstößt als sie einfängt. Der Artikel
-  argumentiert, dass dies ein Beispiel für fehlerhaften Journalismus ist, der
-  die Interessen der Mächtigen bedient, anstatt kritische Fragen zu stellen.
+  Der 9min-Artikel kritisiert einen SRF-Beitrag vom 17. Mai 2026 über Climeworks
+  und den internationalen CO₂-Entnahmemarkt als PR-Text ohne journalistische
+  Distanz. SRF verschweige, dass Climeworks 2023 Netto-Emittent war, die
+  Orca-Anlage nie ihre Nennleistung erreichte, Calyx Global die Zertifikate
+  herabstufte, 22% der Belegschaft entlassen wurden und der US-Standort gestoppt
+  wurde – alles öffentlich und teils von der eigenen Schwesterredaktion
+  swissinfo.ch dokumentiert. Statt kritischer Fragen liefere SRF eine
+  Heldengeschichte, die einem Geschäftsmodell aus Ablasshandel und Subventionen
+  diene.
 quelle_datum: '2026-05-17'
 quelle_format: Online-Artikel
 quelle_sendung: ''

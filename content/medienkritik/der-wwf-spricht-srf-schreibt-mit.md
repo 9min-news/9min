@@ -6,53 +6,63 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HGF6GSdX0AAZcaP.jpg'
 tweetId: '2045050050242380106'
 categories:
-  - Medienrecht
-  - Gesellschaft
-  - Demokratie
+  - SRF/SRG
+  - Abstimmungen
+  - Klima/Energie
 tags:
-  - SRF
+  - Kampagnenbegleitung
+  - Einseitigkeit
   - WWF
   - Finanzplatz-Initiative
-  - Klimaschutz
-  - Medienmanipulation
+  - Selektion
+  - Interessenkonflikt
+  - Divestment
+  - Pensionskassen
 seo:
   description: >-
     Der Tag ist Donnerstag. Der WWF hat am Morgen 145'000 Unterschriften für
     seine Finanzplatz-Initiative eingereicht. Am Mittag sendet SRF im
     «Rendez-vous»…
 themen:
-  - Medienkritik
-  - Journalismus
-  - Politische Berichterstattung
+  - Kampagnenbegleitung bei Volksinitiativen
+  - Einseitige Quellenwahl im SRF
+  - Interessenkonflikt durch WWF-Studie
+  - Divestment vs. Engagement
+  - Finanzplatz-Initiative
 kritisiertes_medium: SRF
 kritisierter_beitrag: 'Banken und klimaschädliche Konzerne: investieren oder nicht?'
 kritisierter_autor: ''
 kritik_typ:
-  - Framing
+  - Selektion
   - Auslassung
   - Interessenkonflikt
 personen:
   - Stephan Kellenberger
 institutionen:
+  - WWF Schweiz
   - SRF
-  - WWF
   - UBS
+  - Recherchekollektiv WAV
+  - McDonald's
+  - NYU Stern School
+  - Pensionskassen
 gesetze_vorlagen:
   - Finanzplatz-Initiative
 these: >-
-  Der SRF-Beitrag ist keine unabhängige Berichterstattung, sondern eine
-  Kampagnenbegleitung für die WWF-Initiative.
+  SRF hat am Tag der Einreichung der WWF-Finanzplatz-Initiative mit einem
+  einseitigen Rendez-vous-Beitrag eine Kampagnenbegleitung geleistet, indem ein
+  WWF-Experte als neutrale Fachstimme präsentiert wurde ohne jede Gegenstimme.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag als unabhängige Berichterstattung, da
-  er den WWF-Experten Stephan Kellenberger als einzigen namentlich genannten
-  Experten zitiert und die Studie des Recherchekollektivs WAV als Datengrundlage
-  verwendet, die vom WWF bezahlt wurde. Der Beitrag wird als Kampagnenbegleitung
-  für die WWF-Initiative angesehen, anstatt eine ausgewogene Berichterstattung
-  zu bieten.
-quelle_datum: ''
-quelle_format: ''
+  Der Artikel kritisiert einen SRF-Rendez-vous-Beitrag, der am Tag der
+  Einreichung der WWF-Finanzplatz-Initiative gesendet wurde. Der Beitrag
+  basierte auf einer vom WWF in Auftrag gegebenen Studie, präsentierte einen
+  WWF-Experten als einzige Quelle und enthielt keine Gegenstimme. Der Autor
+  sieht darin eine institutionelle Vereinnahmung des öffentlichen Senders durch
+  einen politischen Akteur und eine Vorformatierung der Abstimmungsagenda.
+quelle_datum: '2024-11-14'
+quelle_format: Broadcast
 quelle_sendung: Rendez-vous
-quelle_redaktion: SRF News
+quelle_redaktion: SRF
 kritik_schwere: 3
 ---
 

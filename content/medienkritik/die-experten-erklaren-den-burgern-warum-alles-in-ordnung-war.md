@@ -6,61 +6,67 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HGQmfTzasAAdFDx.jpg'
 tweetId: '2045802663317488018'
 categories:
+  - SRF/SRG
   - Medienrecht
   - Gesellschaft
 tags:
-  - Medien
-  - Journalismus
-  - Kritik
-  - Patrick Fischer
+  - Medienkritik
+  - Expertenbefragung
+  - Berufsverband
+  - Quellenwahl
+  - öffentliche Demontage
+  - doppelte Bestrafung
+  - Alibi-Gegenstimme
   - SRF
-  - Tages-Anzeiger
-  - Journalistische Ethik
-  - Medienrecht
 seo:
   description: >-
     Zum Tages-Anzeiger-Beitrag «Hat SRF das Vertrauen von Patrick Fischer
     missbraucht?» vom 18. April 2026 Bevor wir die Argumente der zwei
     «Medienexperten»…
 themen:
-  - Medienkritik
-  - Patrick Fischer
-  - SRF
-  - Tages-Anzeiger
-  - Journalistische Ethik
+  - Medienethik und Off-the-record-Praxis
+  - Öffentliches Interesse vs. Sensationsjournalismus
+  - Systemische Verflechtung von Medienexperten
+  - Patrick-Fischer-Fall
+  - Corona-Aufarbeitung und Medienverantwortung
 kritisiertes_medium: Tages-Anzeiger
 kritisierter_beitrag: Hat SRF das Vertrauen von Patrick Fischer missbraucht?
 kritisierter_autor: ''
 kritik_typ:
+  - Selektion
   - Framing
   - Auslassung
-  - Kontextmangel
 personen:
   - Patrick Fischer
   - Vinzenz Wyss
+  - Pascal Schmitz
   - Dominique Strebel
   - Ursina Wey
-  - Pascal Schmitz
 institutionen:
   - SRF
   - Tages-Anzeiger
   - ZHAW
+  - Beobachter
   - Schweizer Presserat
+  - Swiss Ice Hockey
 gesetze_vorlagen: []
 these: >-
-  Die Veröffentlichung der privaten Angelegenheit von Patrick Fischer durch den
-  SRF dient nicht dem öffentlichen Interesse, sondern dem privaten Interesse des
-  Mediums.
+  Der Tages-Anzeiger präsentiert eine einseitige Verteidigung der SRF-Praxis
+  durch systemisch verflochtene Experten als unabhängige Einordnung und blendet
+  die zentrale Frage nach dem öffentlichen Nutzen der Veröffentlichung
+  konsequent aus.
 zusammenfassung: >-
-  Der Artikel kritisiert die Veröffentlichung der privaten Angelegenheit von
-  Patrick Fischer durch den SRF und argumentiert, dass dies nicht dem
-  öffentlichen Interesse dient, sondern dem privaten Interesse des Mediums. Der
-  Tages-Anzeiger-Artikel, der die Veröffentlichung rechtfertigt, wird als
-  einseitig und fehlerhaft kritisiert.
+  Der 9min-Artikel kritisiert einen Tages-Anzeiger-Beitrag, der zwei
+  Medienexperten (ZHAW-Professor Wyss und Beobachter-Chefredaktor Strebel) zur
+  SRF-Berichterstattung über Patrick Fischer befragt. Beide Experten sind Teil
+  desselben Mediensystems, das sie beurteilen, während die einzige Gegenstimme
+  (Presseratsgeschäftsführerin Wey) als rhetorisches Feigenblatt dient. Die
+  zentrale Frage nach dem öffentlichen Nutzen der Veröffentlichung einer längst
+  juristisch erledigten Privatsache wird im Artikel nicht gestellt.
 quelle_datum: '2026-04-18'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: Tages-Anzeiger
+quelle_redaktion: ''
 kritik_schwere: 3
 ---
 

@@ -6,52 +6,57 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HI2EjdEXIAATSeP.jpg'
 tweetId: '2057484343426072719'
 categories:
+  - SRF/SRG
   - Wirtschaft
-  - Gesellschaft
-  - Medienrecht
+  - Demokratie
 tags:
-  - SRF
-  - Statistik
   - Konkurse
-  - Wirtschaft
-  - Gesetz
-  - Schuldbetreibung
-  - Staat
-  - Unternehmen
+  - Methodenbruch
+  - SchKG
+  - BFS
+  - Statistik
+  - Steuerschulden
+  - Vollzug
+  - Pressemitteilung
 seo:
   description: >-
     Wie SRF einen statistisches Artefakt als Wirtschaftskrise verkauft, die
     Methodenänderung verschweigt, die den Vergleich ungültig macht, und die
     Brutalität…
 themen:
-  - Wirtschaftskrise
-  - Unternehmenskonkurse
-  - Schuldbetreibung
-  - Gesetzesänderung
-kritisiertes_medium: SRF
+  - Konkursstatistik 2025
+  - Methodenänderung BFS
+  - SchKG-Reform
+  - Staatliche Konkursbegehren
+  - Wirtschaftsberichterstattung
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Starker Anstieg der Konkurse im Jahr 2025
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
-  - Framing
-  - Fehlinformation
+  - Kontextmangel
+  - Behördenpropaganda
 personen: []
 institutionen:
   - SRF
   - Bundesamt für Statistik
+  - Bundesrat
 gesetze_vorlagen:
-  - Schuldbetreibungs- und Konkursgesetz
+  - SchKG
+  - Art. 731b OR
+  - Weisung Nr. 10
 these: >-
-  Der Staat als Vollstrecker vernichtet Unternehmen für Steuerschulden, ohne
-  dass dies einen Nutzen für die Gläubiger oder den Staat bringt.
+  SRF verkauft einen statistischen Methodenbruch und einen gesetzlichen Vollzug
+  als Wirtschaftskrise, indem es die Warnung des BFS verschweigt und die
+  zerstörerische Bilanz der neuen Konkursregelung nicht hinterfragt.
 zusammenfassung: >-
-  Der Artikel kritisiert die Berichterstattung des SRF über den Anstieg der
-  Unternehmenskonkurse in der Schweiz. Der SRF verschweigt die Methodenänderung
-  bei der Erhebung der Konkursdaten und die Gesetzesänderung, die es dem Staat
-  ermöglicht, Unternehmen für Steuerschulden in den Konkurs zu treiben. Der
-  Artikel argumentiert, dass dies zu einer Bilanz der Vernichtung führt, bei der
-  über die Hälfte der Konkurse mangels Aktiven eingestellt wird und der Staat
-  mehr als 1,8 Milliarden Franken an wirtschaftlichem Wert vernichtet.
+  9min.ch kritisiert den SRF-Beitrag über den angeblich starken Anstieg der
+  Unternehmenskonkurse 2025. SRF verschweige die komplette Überarbeitung der
+  BFS-Erhebungsmethodik, die den Jahresvergleich ungültig mache, sowie die
+  SchKG-Reform, die dem Staat ermögliche, Firmen für Steuerschulden in den
+  Konkurs zu treiben. Zudem werde die Diskrepanz zwischen 1,8 Milliarden Verlust
+  und 192 Millionen Erlös sowie die 2755 Auflösungen nach Art. 731b OR nicht
+  thematisiert.
 quelle_datum: '2026-05-21'
 quelle_format: Online-Artikel
 quelle_sendung: ''

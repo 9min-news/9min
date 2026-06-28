@@ -6,58 +6,57 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HFXH0mrXEAA4-7y.jpg'
 tweetId: '2041758110293893615'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Demokratie
   - Zensur/Meinungsfreiheit
 tags:
-  - SRF
   - Ungarn
   - Orbán
-  - Regierungsnahe Medien
-  - Fake News
+  - Framing
+  - Selbstwahrnehmung
   - Mainstream-Medien
-  - Demokratie
-  - Medienkritik
+  - Narrative
+  - Bergsturz
+  - MEI
 seo:
   description: >-
     SRF berichtet über ein Land, in dem die Regierung Mainstream-Medien
     kontrolliert, Narrative gezielt setzt, Ängste schürt und den demokratischen
     Dialog…
 themen:
-  - Medienkritik
-  - Regierungspropaganda
-  - Demokratische Dialog
-  - Framing und Narrative
+  - Medienkontrolle in Ungarn
+  - Selbstwahrnehmung öffentlich-rechtlicher Medien
+  - Framing als demokratisches Problem
+  - Narrativbildung im Mainstream
 kritisiertes_medium: SRF
 kritisierter_beitrag: ''
 kritisierter_autor: ''
 kritik_typ:
   - Framing
+  - Asymmetrie
   - Auslassung
-  - Interessenkonflikt
 personen:
   - Orbán
 institutionen:
   - SRF
-  - Regierung Ungarns
-gesetze_vorlagen: []
+gesetze_vorlagen:
+  - Masseneinwanderungsinitiative
 these: >-
-  Der SRF kritisiert die ungarische Regierung für ihre Kontrolle über die
-  Medien, ohne jedoch seine eigene Rolle bei der Setzung von Narrativen und der
-  Beeinflussung der öffentlichen Meinung zu reflektieren.
+  SRF kritisiert an Ungarn genau jene Framing-Praktiken, die es selbst anwendet,
+  ohne dies zu erkennen — der Unterschied zwischen Budapest und Zürich ist nicht
+  die Methode, sondern die Selbstwahrnehmung.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF für seine Berichterstattung über Ungarn und die
-  ungarische Regierung, indem er darauf hinweist, dass der SRF selbst ähnliche
-  Methoden anwendet, um die öffentliche Meinung zu beeinflussen. Der SRF
-  berichtet über die Kontrolle der Medien durch die ungarische Regierung, ohne
-  jedoch seine eigene Rolle bei der Setzung von Narrativen und der Beeinflussung
-  der öffentlichen Meinung zu reflektieren. Der Artikel argumentiert, dass der
-  Unterschied zwischen Budapest und Zürich nicht die Methode, sondern die
-  Selbstwahrnehmung ist.
+  Der Artikel hält SRF vor, in einem Beitrag über Ungarn jene Mechanismen zu
+  kritisieren — gezielte Rahmung, Mainstream-Narrative, Angstkampagnen,
+  erschwerter demokratischer Dialog — die es selbst praktiziere. Beispiele wie
+  die Klimatisierung eines Bergsturzes, das Weglassen der MEI oder die
+  Einordnung eines völkerrechtswidrigen Krieges als US-Innenpolitik illustrieren
+  dies. Die Pointe: Orbán wisse, was er tue, SRF hingegen halte sich für
+  Journalismus.
 quelle_datum: ''
-quelle_format: ''
+quelle_format: Broadcast
 quelle_sendung: ''
-quelle_redaktion: ''
+quelle_redaktion: SRF
 kritik_schwere: 3
 ---
 

@@ -6,56 +6,68 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHdqViaX0AExsBd.jpg'
 tweetId: '2051225266001772642'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Gesellschaft
-  - Demokratie
+  - Migration
 tags:
-  - SRF
   - Echo der Zeit
-  - Gewaltkriminalität
-  - Statistiken
-  - Kulturelle Unterschiede
+  - Matthias Baumer
+  - Gymnasiastinnen
+  - Kriminalstatistik 2025
+  - BFS
+  - Tätergruppen
+  - Herkunft
+  - Selektion
 seo:
   description: >-
     Zur SRF-Berichterstattung «Wie drei Gymnasiastinnen über Gewalt an Frauen
     denken» von Matthias Baumer, Echo der Zeit, 3. Mai 2026 Das Echo der Zeit
     ist…
 themen:
-  - Gewalt an Frauen
-  - Journalismus
-  - Statistik
-kritisiertes_medium: SRF
+  - Häusliche Gewalt
+  - Kriminalstatistik und Tätergruppen
+  - SRF-Berichterstattung
+  - Migration und Sicherheit
+kritisiertes_medium: SRF Echo der Zeit
 kritisierter_beitrag: Wie drei Gymnasiastinnen über Gewalt an Frauen denken
 kritisierter_autor: Matthias Baumer
 kritik_typ:
   - Auslassung
+  - Selektion
   - Framing
-  - Fehlinformation
 personen:
+  - Matthias Baumer
   - Ayda
   - Clio
   - Selina
-  - Matthias Baumer
 institutionen:
   - SRF
-  - BFS
-  - Opferhilfe
-gesetze_vorlagen: []
+  - Echo der Zeit
+  - Bundesamt für Statistik
+  - Gymnasium Hofwil
+  - Frauenhäuser
+  - SVP
+gesetze_vorlagen:
+  - SVP-Initiative gegen die 10-Millionen-Schweiz
+  - revidiertes Sexualstrafrecht
 these: >-
-  Der Beitrag des Echo der Zeit über Gewalt an Frauen ist ein Beispiel für
-  Agenda-Journalismus, der Statistiken und Fachmeinungen auslässt, um eine
-  politische Botschaft zu transportieren.
+  Das Echo der Zeit instrumentalisiert drei Gymnasiastinnen, um kulturelle
+  Faktoren bei Gewalt an Frauen als blosses «politisches Narrativ»
+  abzuqualifizieren und dabei die statistischen Fakten des BFS bewusst
+  auszulassen.
 zusammenfassung: >-
-  Der Artikel kritisiert den Beitrag des Echo der Zeit über Gewalt an Frauen,
-  der drei Gymnasiastinnen als Zeuginnen ihrer Generation aufgerufen hat, ohne
-  Statistiken und Fachmeinungen zu berücksichtigen. Der Beitrag wird als
-  Agenda-Journalismus bezeichnet, der eine politische Botschaft transportiert,
-  indem er kulturelle Unterschiede bei der Gewalt gegen Frauen als politisches
-  Narrativ darstellt.
+  Der 9min-Artikel kritisiert einen Echo-Zeit-Beitrag, in dem drei
+  Gymnasiastinnen aus Hofwil unwidersprochen behaupten, kulturelle Faktoren bei
+  Gewalt an Frauen seien ein «politisches Narrativ». Der Beitrag lasse
+  Fachpersonen ebenso weg wie die vollständige Kriminalstatistik 2025, die
+  erhebliche Unterschiede bei Tatverdächtigen nach Herkunftsregion ausweist. Die
+  Stimmenauswahl und die Auslassung relevanter Zahlen erzeugten ein verzerrtes
+  Bild, das im Kontext der laufenden Migrations- und Sicherheitsdebatte
+  politisch wirksam sei.
 quelle_datum: '2026-05-03'
 quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
-quelle_redaktion: SRF
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

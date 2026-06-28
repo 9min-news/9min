@@ -6,56 +6,58 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HEr8RzYbsAAgKoc.jpg'
 tweetId: '2038719420625752073'
 categories:
-  - Medienrecht
+  - SRF/SRG
+  - Zensur/Meinungsfreiheit
   - Gesellschaft
-  - Demokratie
 tags:
+  - Vorverurteilung
+  - Unschuldsvermutung
+  - Deepfake
+  - digitale Vergewaltigung
+  - Quellenbalance
+  - Rechtsstaat
+  - Behördenpropaganda
   - SRF
-  - Deutschland
-  - Gesetzgebung
-  - Justizministerin
-  - Frauenministerin
-  - HateAid
-  - Catfishing
-  - Rachepornografie
 seo:
   description: >-
     Ein Mann wird beschuldigt. Das Wort «soll» steht in jedem Satz, der die
     Vorwürfe beschreibt. Kein Urteil. Kein Verfahren. Untersuchungen. Trotzdem…
 themen:
-  - digitale Vergewaltigung
-  - Deepfake
-  - Rechtsstaat
-  - Empörungsmaschinerie
-kritisiertes_medium: SRF
+  - Vorverurteilung in Medien
+  - Unschuldsvermutung
+  - Deepfake-Gesetzgebung
+  - Quellenbalance
+  - Medienethik
+kritisiertes_medium: SRF News
 kritisierter_beitrag: >-
   Nach Fall Collien Fernandes: Enthüllungen haben Schockwelle durch Deutschland
   geschickt
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
+  - Selektion
   - Framing
-  - Fehlinformation
 personen:
   - Collien Fernandes
-  - Justizministerin
-  - Frauenministerin
 institutionen:
   - SRF
   - HateAid
+  - Justizministerin
+  - Frauenministerin
 gesetze_vorlagen:
-  - Gesetzgebung gegen Deepfakes
+  - Deepfake-Verbot
 these: >-
-  Der Artikel kritisiert die Berichterstattung des SRF über den Fall Collien
-  Fernandes und die daraus resultierende Empörungsmaschinerie, die den
-  Rechtsstaat untergräbt.
+  SRF berichtet nicht über eine Empörungsmaschinerie, sondern vollzieht sie mit,
+  indem es rechtsstaatliche Prinzipien überspringt, einseitige Quellen wählt und
+  deutsche politische Stimmung ohne Verantwortung importiert.
 zusammenfassung: >-
-  Der Artikel beschreibt, wie der SRF über den Fall Collien Fernandes berichtet
-  und dabei den Rechtsstaat untergräbt. Die Berichterstattung wird als einseitig
-  und empörungsmaschinerisch kritisiert, da sie die Unschuldsvermutung außer
-  Acht lässt und Gesetzgebung auf Basis von unbewiesenen Vorwürfen fordert. Der
-  Artikel argumentiert, dass dies den Rechtsstaat untergräbt und eine
-  gefährliche Entwicklung darstellt.
+  Der 9min-Artikel kritisiert einen SRF-Beitrag zum Fall Collien Fernandes, der
+  einen Mann vorverurteilt, ohne dass ein Verfahren oder Urteil vorliegt. SRF
+  wählt fünf einseitige Quellen, prüft keine statistischen Behauptungen und
+  rahmt den Beitrag mit dem Begriff «digitale Vergewaltigung», ohne diesen
+  einzuordnen. Zudem nutzt der Beitrag einen Catfishing-Vorwurf als Sprungbrett
+  für Deepfake-Gesetzgebung, obwohl der Fall laut eigener Infobox gar keinen
+  Deepfake-Bezug hat.
 quelle_datum: ''
 quelle_format: Online-Artikel
 quelle_sendung: ''

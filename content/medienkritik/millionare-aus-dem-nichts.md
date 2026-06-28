@@ -6,51 +6,59 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJ9tXXPWAAAqW-K.jpg'
 tweetId: '2062487747428831688'
 categories:
+  - SRF/SRG
   - Wirtschaft
-  - Medienrecht
   - Gesellschaft
 tags:
-  - SRF
-  - Wirtschaftsbeitrag
-  - Reichtum
-  - Geldpolitik
-  - Kapital
-  - Immobilien
-  - Aktien
+  - Capgemini World Wealth Report
+  - Dollar-Millionäre
+  - Aktienmärkte
+  - Immobilienpreise
+  - Niedrigzins
+  - quantitative Lockerung
+  - nominale vs. reale Vermögenswerte
+  - Erbschaftssteuer
 seo:
   description: >-
     Dieser kurze SRF-Wirtschaftsbeitrag meldet eine bemerkenswerte Zahl: Zwei
     Millionen neue Dollar-Millionäre weltweit innert eines Jahres, das Vermögen
     der…
 themen:
-  - Reichtumskonzentration
+  - Vermögenskonzentration
+  - Geldpolitik und Cantillon-Effekt
   - Wirtschaftsjournalismus
-  - Geldpolitik
-kritisiertes_medium: SRF
+  - Asset-Inflation
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Weltweit zwei Millionen Millionäre mehr innert eines Jahres
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
   - Kontextmangel
+  - Behördenpropaganda
 personen: []
 institutionen:
   - SRF
   - Capgemini
-gesetze_vorlagen: []
+  - Google
+gesetze_vorlagen:
+  - Erbschaftssteuer
 these: >-
-  Der SRF-Wirtschaftsbeitrag meldet die Zunahme der Millionäre, ohne die
-  Mechanik des Reichtumswachstums zu hinterfragen.
+  Der SRF-Beitrag meldet die Symptome der Vermögenskonzentration sauber,
+  verschweigt aber die monetäre Ursache – die Asset-Inflation durch staatliche
+  Geldpolitik – und übernimmt damit unkritisch die staatliche Lesart.
 zusammenfassung: >-
-  Der Beitrag kritisiert einen SRF-Wirtschaftsbeitrag, der die Zunahme der
-  Millionäre meldet, ohne die Ursachen dafür zu hinterfragen. Der Beitrag
-  argumentiert, dass die steigenden Aktien- und Immobilienpreise die Reichen
-  reicher machen, während die Armen zurückbleiben. Die Kritik bemängelt, dass
-  der SRF-Beitrag die Mechanik des Reichtumswachstums nicht thematisiert und
-  stattdessen die nominale Rekordzahl der Millionäre als bare Münze nimmt.
+  9min.ch analysiert einen SRF-Wirtschaftsbeitrag über den Capgemini World
+  Wealth Report, der zwei Millionen neue Dollar-Millionäre meldet. Der Beitrag
+  wird als handwerklich sauber beurteilt, kritisiert aber, dass die genannte
+  Ursache (boomende Aktien- und Immobilienmärkte) nicht auf ihre eigentliche
+  Wurzel zurückgeführt wird: die Geldschöpfung via Niedrigzinsen und QE. Zudem
+  würden nominale Rekordzahlen ohne Unterscheidung zwischen realer Wertschöpfung
+  und blosser Buchwert-Aufblähung präsentiert, und die redaktionelle Verknüpfung
+  mit der Erbschaftssteuer-Debatte bleibe unausgesprochen.
 quelle_datum: '2026-06-03'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: SRF Wirtschaft
+quelle_redaktion: SRF News
 kritik_schwere: 2
 ---
 

@@ -6,49 +6,63 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHYY5F0bcAANYjF.jpg'
 tweetId: '2050854140197151082'
 categories:
+  - SRF/SRG
   - Klima/Energie
   - Wirtschaft
-  - Medienrecht
 tags:
-  - Energiepolitik
-  - Umweltschutz
-  - Rohstoffabbau
-  - Medienberichterstattung
-  - Klimapolitik
-  - Nachhaltigkeit
+  - Energiewende
+  - kritische Mineralien
+  - Lithium
+  - Kobalt
+  - UNO-Bericht
+  - Medienkritik
+  - Wasserverbrauch
+  - Rohstoffpolitik
 seo:
   description: >-
     Zur SRF-Berichterstattung «Gier nach kritischen Mineralien ist ungebrochen»
     von Klaus Ammann, SRF 4 News, 29. April 2026 Endlich. Nach Jahren der…
 themen:
-  - Energiewende
-  - Kritische Mineralien
-  - Umweltkosten
-  - Medienkritik
-kritisiertes_medium: SRF
+  - Berichterstattung zur Energiewende
+  - Ökologische Kosten kritischer Mineralien
+  - Einseitige Medienberichterstattung
+  - Vergleich fossile vs. erneuerbare Energien
+  - Extraktive Rohstoffpolitik
+kritisiertes_medium: SRF 4 News
 kritisierter_beitrag: Gier nach kritischen Mineralien ist ungebrochen
 kritisierter_autor: Klaus Ammann
 kritik_typ:
   - Auslassung
-  - Framing
   - Kontextmangel
+  - Asymmetrie
 personen:
   - Klaus Ammann
 institutionen:
   - SRF
+  - SRF 4 News
   - UNO
+  - ARD
+  - ZDF
+  - Spiegel
+  - Zeit
+  - NZZ
 gesetze_vorlagen: []
 these: >-
-  Die Energiewende wird als moralisches Projekt verkauft, anstatt als
-  technisches, und die damit verbundenen Umweltkosten und sozialen Auswirkungen
-  werden systematisch unterschlagen.
+  SRF berichtet erstmals zaghaft über die ökologischen und sozialen Kosten der
+  Energiewende, zieht aber die logischen Konsequenzen aus den eigenen Daten
+  nicht und lässt die etablierte Erzählung der sauberen Energiewende
+  unangetastet weiterlaufen.
 zusammenfassung: >-
-  Der Artikel kritisiert die Berichterstattung des SRF über die Energiewende und
-  die damit verbundenen Umweltkosten und sozialen Auswirkungen. Der Autor
-  argumentiert, dass die Energiewende als moralisches Projekt verkauft wird,
-  anstatt als technisches, und dass die damit verbundenen Probleme systematisch
-  unterschlagen werden. Der Artikel fordert eine ehrliche Debatte über die
-  Kosten und Auswirkungen der Energiewende.
+  Der Artikel analysiert einen SRF-Beitrag von Klaus Ammann, der auf Basis eines
+  UNO-Berichts über kritische Mineralien der Energiewende berichtet. 9min.ch
+  lobt, dass SRF Probleme wie den enormen Wasserverbrauch beim Lithiumabbau und
+  die ausländische Kontrolle im Kongo überhaupt erwähnt, kritisiert aber, dass
+  der Beitrag die naheliegenden Schlussfolgerungen nicht zieht: keinen ehrlichen
+  Kostenvergleich mit fossilen Energien, keine Thematisierung der extraktiven
+  Rohstoffpolitik des globalen Nordens und keine Infragestellung der
+  Beschleunigungslogik der Energiewende. Die Kritik richtet sich auch gegen die
+  jahrelange einseitige Berichterstattung etablierter Medien, die Kritiker der
+  Energiewende moralisch delegitimiert habe.
 quelle_datum: '2026-04-29'
 quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News

@@ -6,18 +6,18 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIc--eAXUAEbbDc.jpg'
 tweetId: '2055682034341913008'
 categories:
+  - SRF/SRG
   - EU/Aussenpolitik
-  - Wirtschaft
-  - Medienrecht
+  - Demokratie
 tags:
   - SRF
-  - Bundespräsident Parmelin
-  - EU
   - Stahlzölle
-  - Schweiz
-  - Wirtschaft
-  - Medien
-  - Journalismus
+  - Modus Vivendi
+  - Parmelin
+  - EU
+  - Bilaterale
+  - Samstagsrundschau
+  - Medienkritik
 seo:
   description: >-
     Zur SRF-Berichterstattung über EU Stahlzölle, «Bundespräsident Parmelin übt
@@ -25,41 +25,49 @@ seo:
     der…
 themen:
   - EU-Stahlzölle
-  - Schweizer Wirtschaft
-  - Medienkritik
-kritisiertes_medium: SRF
+  - Modus Vivendi
+  - Bilaterales Vertragspaket
+  - SRF-Berichterstattung
+  - Demokratischer Diskurs
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Bundespräsident Parmelin übt heftige Kritik an der EU
-kritisierter_autor: ''
+kritisierter_autor: Jan Baumann
 kritik_typ:
   - Auslassung
-  - Framing
+  - Behördenpropaganda
   - Kontextmangel
 personen:
-  - Bundespräsident Parmelin
+  - Guy Parmelin
   - Jan Baumann
   - Jean-Philippe Kohl
 institutionen:
   - SRF
   - EU
   - Bundesrat
-  - Schweizer Regierung
+  - metal.suisse
+  - Swissmem
+  - WTO
+  - Radio SRF
 gesetze_vorlagen:
-  - Modus Vivendi
   - 10-Millionen-Initiative
+  - Modus Vivendi
+  - Bilaterales Vertragspaket
 these: >-
-  Die SRF-Berichterstattung über die EU-Stahlzölle und den Modus Vivendi ist
-  unvollständig und unkritisch, was die Öffentlichkeit nicht ausreichend
-  informiert.
+  SRF berichtet erst acht Monate nach dem ersten Bericht und nur, weil der
+  Bundesrat gesprochen hat, statt unabhängig zu recherchieren und die
+  demokratischen Implikationen des gebrochenen Modus Vivendi kritisch zu
+  analysieren.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRF-Berichterstattung über die EU-Stahlzölle und
-  den Modus Vivendi. Die Berichterstattung sei unvollständig und unkritisch, was
-  die Öffentlichkeit nicht ausreichend informiert. Der Bundespräsident Parmelin
-  habe den Modus Vivendi gebrochen, was die Schweiz in eine schwierige Lage
-  bringt. Die SRF-Berichterstattung konzentriere sich auf die Worte des
-  Bundespräsidenten, aber nicht auf die Ohnmacht dahinter.
+  Der Artikel kritisiert, dass SRF nach seinem Bericht vom Oktober 2025 über
+  EU-Stahlzölle acht Monate schwieg und erst am 16. Mai 2026 wieder berichtete,
+  weil Bundespräsident Parmelin in der Samstagsrundschau gesprochen hatte. SRF
+  erkläre den Modus Vivendi, ohne seine demokratischen Implikationen zu
+  hinterfragen, und begleite die Regierung statt sie zu kontrollieren. Diese
+  Asymmetrie der Stille verhindere einen informierten Abstimmungsdiskurs über
+  das bilaterale Vertragspaket.
 quelle_datum: '2026-05-16'
 quelle_format: Online-Artikel
-quelle_sendung: ''
+quelle_sendung: Samstagsrundschau
 quelle_redaktion: SRF News
 kritik_schwere: 3
 ---

@@ -6,33 +6,42 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJL6snwWYAAouUX.jpg'
 tweetId: '2058984022571683890'
 categories:
+  - SRF/SRG
   - Medienrecht
-  - Demokratie
+  - EU/Aussenpolitik
 tags:
   - SRF
   - Spanien
-  - Demokratiekrise
-  - Medienkritik
-  - Berichterstattung
+  - Madrid
+  - Demonstration
+  - Sánchez
+  - Selektion
   - Käserennen
+  - redaktionelle Prioritäten
 seo:
   description: >-
     Wie SRF im Mai 2026 detailliert über die spanische Demokratiekrise
     berichtet, am 20. Mai die Eskalation präzise antizipiert, drei Tage später
     schweigt,…
 themen:
-  - SRF-Berichterstattung
-  - spanische Demokratiekrise
-  - Medienkritik
+  - SRF-Berichterstattung Spanienkrise
+  - redaktionelle Selektion
+  - öffentlich-rechtlicher Auftrag
+  - Demonstration Madrid
 kritisiertes_medium: SRF
-kritisierter_beitrag: ''
-kritisierter_autor: ''
+kritisierter_beitrag: Berichterstattung zur spanischen Demokratiekrise Mai 2026 / Zapatero-Affäre
+kritisierter_autor: Beat Vogt
 kritik_typ:
   - Auslassung
   - Selektion
+  - Asymmetrie
 personen:
   - Pedro Sánchez
   - Beat Vogt
+  - Santos Cerdán
+  - José Luis Ábalos
+  - Begoña Gómez
+  - José Luis Rodríguez Zapatero
   - Tom Kopke
   - Giorgia Meloni
   - Emmanuel Macron
@@ -40,23 +49,31 @@ personen:
 institutionen:
   - SRF
   - PSOE
-  - Volkspartei
+  - PP
   - Vox
+  - Sociedad Civil Española
+  - Kongress
 gesetze_vorlagen:
   - Bundesgesetz über Radio und Fernsehen
+  - Medienabgabe
 these: >-
-  Die SRF-Berichterstattung über die spanische Demokratiekrise ist selektiv und
-  erfüllt nicht den Auftrag des öffentlich-rechtlichen Rundfunks.
+  SRF bricht seine Berichterstattung über die spanische Demokratiekrise genau im
+  Moment der strassen Eskalation ab und berichtet stattdessen über ein
+  englisches Käserennen, was eine selektive redaktionelle Auswahl offenbart, die
+  dem öffentlich-rechtlichen Auftrag widerspricht.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRF-Berichterstattung über die spanische
-  Demokratiekrise, insbesondere die Auslassung der Demonstration in Madrid am
-  23. Mai 2026. Der Autor argumentiert, dass die Berichterstattung selektiv ist
-  und nicht den Auftrag des öffentlich-rechtlichen Rundfunks erfüllt.
-  Stattdessen wird ein Käserennen in England ausführlich berichtet.
-quelle_datum: '2026-05-26'
+  Der Artikel dokumentiert, dass SRF am 20. Mai 2026 detailliert über die
+  politische Krise in Spanien und die Verwundbarkeit von Premierminister Sánchez
+  berichtete, am 23. Mai jedoch schwieg, als 40'000 bis 120'000 Menschen in
+  Madrid den Rücktritt Sánchez' forderten. Stattdessen sendete SRF am 25. Mai
+  einen ausführlichen Bericht über ein Käserennen in England. Der Autor sieht
+  darin ein Muster selektiver Berichterstattung, das der inneren Logik der
+  begonnenen Geschichte widerspricht und den Auftrag des öffentlich-rechtlichen
+  Rundfunks verletzt.
+quelle_datum: '2026-05-20'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: ''
+quelle_redaktion: SRF News International
 kritik_schwere: 3
 ---
 

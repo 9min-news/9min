@@ -6,50 +6,67 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HKHDMcXXgAAphCO.jpg'
 tweetId: '2063144819937906804'
 categories:
-  - Medienrecht
-  - Zensur/Meinungsfreiheit
-  - Demokratie
+  - SRF/SRG
+  - EU/Aussenpolitik
+  - Gesellschaft
 tags:
-  - SRF
-  - Krypto-Berater
-  - Donald Trump
-  - Korruption
-  - Medienkritik
-  - Interview
-  - Parteilichkeit
+  - Korruptionsvorwurf
+  - Selektion
+  - Parteizeuge
+  - Stablecoin
+  - World Liberty Financial
+  - SEC
+  - Gensler
+  - Beweislast
 seo:
   description: >-
     Dieser SRF-Beitrag ist ein Interview mit Corey Frayer, dem früheren
     Krypto-Berater des einstigen US-Börsenaufsichtschefs Gary Gensler, über
     Donald Trumps…
 themen:
-  - Kryptowährungen
-  - Korruptionsvorwürfe
-  - Medienkritik
-kritisiertes_medium: SRF
-kritisierter_beitrag: '«‹Klar, dass Trump seine Geschäftspartner begünstigen würde›»'
+  - Krypto-Regulierung
+  - Interessenkonflikte Trump
+  - Medienethik
+  - Quellenbalance
+  - US-Politik
+kritisiertes_medium: SRF News
+kritisierter_beitrag: >-
+  Ihre Fragen zu Trump-Korruptionsvorwürfe und Zölle: Das sagen Fachleute zur
+  US-Politik
 kritisierter_autor: ''
 kritik_typ:
+  - Selektion
   - Framing
-  - Auslassung
-  - Einordnungsfehler
+  - Asymmetrie
 personen:
   - Corey Frayer
   - Gary Gensler
   - Donald Trump
+  - Changpeng Zhao
+  - Justin Sun
+  - Joe Biden
 institutionen:
   - SRF
   - SEC
+  - World Liberty Financial
+  - Binance
+  - Trump-Regierung
+  - Kongress
+  - Justiz
+  - VAE
 gesetze_vorlagen: []
 these: >-
-  Der SRF-Beitrag über Donald Trumps Krypto-Geschäfte ist parteiisch und
-  unkritisch.
+  SRF lässt einen parteiischen Zeugen den juristisch präzisen Korruptionsvorwurf
+  gegen Trump wiederholt unbewiesen erheben, ohne Gegenstimme, Gegenrecherche
+  oder kritische Nachfrage.
 zusammenfassung: >-
-  Der Beitrag thematisiert mögliche Interessenkonflikte von Donald Trump, aber
-  lässt einen erkennbar positionierten Ankläger das Wort «Korruption» ohne
-  Gegenstimme verwenden. Der Zeuge ist nicht neutral, sondern ein direkter
-  Gegenspieler der Trump'schen Krypto-Politik. Der Beitrag bietet keine zweite
-  Stimme und prüft die Vorwürfe nicht kritisch.
+  Der 9min-Artikel kritisiert einen SRF-Beitrag, in dem Corey Frayer, ehemaliger
+  Krypto-Berater von Gary Gensler, rund ein Dutzend Mal den Vorwurf der
+  «Korruption» gegen Trump erhebt, ohne dass die Interviewerin nach Beweisen
+  fragt oder eine Gegenposition eingeholt wird. Die Indizienkette zum
+  VAE-Stablecoin-Geschäft wird als Schlussfolgerung verkauft, Morddrohungen am
+  Schluss immunisieren den Zeugen rhetorisch. Ein Vergleich mit der Behandlung
+  Bidens zeigt asymmetrische Berichterstattung.
 quelle_datum: '2026-06-03'
 quelle_format: Online-Artikel
 quelle_sendung: ''

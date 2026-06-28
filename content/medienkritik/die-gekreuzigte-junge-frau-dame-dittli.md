@@ -6,54 +6,58 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HKTo4Y5W0AE8G5e.jpg'
 tweetId: '2064030654208086354'
 categories:
-  - Medienrecht
-  - Gesellschaft
+  - SRF/SRG
   - Demokratie
 tags:
   - SRF
   - RTS
   - Valérie Dittli
-  - Waadtländer Regierungsrätin
-  - Untersuchungsbericht
-  - Rücktrittsforderung
-  - Medienethik
+  - Regierungsrätin
+  - Waadt
+  - Porträt
+  - Einseitigkeit
+  - Framing
 seo:
   description: >-
     Dieser SRF/RTS-Beitrag ist ein Nahporträt der Waadtländer Regierungsrätin
     Valérie Dittli (Mitte), die seit Monaten massiv unter Druck steht: Ein…
 themen:
-  - Journalismus
-  - Politik
-  - Medienkritik
+  - Politikerporträt
+  - Einseitigkeit
+  - Opfer-Framing
+  - Medienethik
 kritisiertes_medium: SRF/RTS
 kritisierter_beitrag: 'Dittli: ‹Was ich gerade durchmache, ist schon sehr brutal›'
 kritisierter_autor: ''
 kritik_typ:
-  - Framing
   - Selektion
-  - Kontextmangel
+  - Framing
+  - Auslassung
 personen:
   - Valérie Dittli
 institutionen:
   - SRF
   - RTS
   - Waadtländer Regierung
+  - Parlament
+  - Staatsanwaltschaft
 gesetze_vorlagen: []
 these: >-
-  Der SRF/RTS-Beitrag über Valérie Dittli ist ein Beispiel für einseitigen
-  Journalismus, der die Sicht der Beschuldigten übernimmt und die kritische
-  Seite vernachlässigt.
+  Der SRF/RTS-Beitrag übernimmt durch das dreitägige Begleitformat strukturell
+  die Perspektive der beschuldigten Regierungsrätin Dittli und blendet die
+  Anklageseite vollständig aus.
 zusammenfassung: >-
-  Der Beitrag porträtiert Valérie Dittli, eine Waadtländer Regierungsrätin, die
-  unter Druck steht, und gibt ihrer Sicht der Dinge Raum. Der Artikel kritisiert
-  jedoch, dass der Beitrag die kritische Seite vernachlässigt und die Anklage
-  nur als abstrakte Kulisse darstellt. Der Beitrag übernimmt auch die
-  Opfer-Erzählung von Dittli, ohne sie zu hinterfragen.
+  Der 9min-Artikel analysiert ein SRF/RTS-Nahporträt der unter Druck stehenden
+  Waadtländer Regierungsrätin Valérie Dittli. Er kritisiert, dass der Beitrag
+  durch das dreitägige Begleitformat Sympathie erzeugt, die Anklageseite
+  vollständig ausblendet und Dittlis Externalisierungsstrategie sowie ihr
+  Opfer-Framing ungeprüft weiterreicht. Die sachliche Frage der Amtsführung
+  werde durch die emotionale Perspektive auf ihr persönliches Leiden ersetzt.
 quelle_datum: '2026-06-07'
-quelle_format: Online-Artikel
-quelle_sendung: ''
-quelle_redaktion: SRF/RTS
-kritik_schwere: 3
+quelle_format: Broadcast
+quelle_sendung: Mise au point
+quelle_redaktion: SRF News
+kritik_schwere: 2
 ---
 
 *Dieser SRF/RTS-Beitrag ist ein Nahporträt der Waadtländer Regierungsrätin Valérie Dittli (Mitte), die seit Monaten massiv unter Druck steht: Ein Untersuchungsbericht eines ehemaligen Richters warf ihr «diverse Versäumnisse» vor, eine Parlamentsmehrheit forderte ihren Rücktritt — den sie verweigerte. Ein RTS-Team begleitete sie drei Tage lang. Das Resultat ist weniger ein investigativer Bericht über die Vorwürfe als ein einfühlsames Stimmungsbild aus ihrer Perspektive. Genau das macht es zum interessanten Fall: Hier liegt die Schlagseite nicht in einer Anklage, sondern in der fast vollständigen Übernahme der Sicht der Beschuldigten.*

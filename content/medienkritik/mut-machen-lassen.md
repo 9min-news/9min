@@ -6,56 +6,73 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHiuemAWkAEsn-s.jpg'
 tweetId: '2051581696907043017'
 categories:
-  - Medienrecht
-  - Demokratie
+  - SRF/SRG
   - EU/Aussenpolitik
+  - Demokratie
 tags:
-  - SRF
-  - Echo der Zeit
-  - Charles Liebherr
   - Mark Carney
+  - Echo der Zeit
+  - Werte-Rhetorik
+  - Stimmungsbild
+  - EPG
+  - Selenski
   - Ursula von der Leyen
-  - Europapolitik
-  - Journalistische Verantwortung
+  - Davos-Klasse
 seo:
   description: >-
     Zur SRF-Berichterstattung «Der kanadische Premierminister macht Europa Mut»
     von Charles Liebherr, Echo der Zeit, 4. Mai 2026 Es gibt journalistische…
 themen:
-  - Journalismus
-  - Medienkritik
-  - Europapolitik
-kritisiertes_medium: SRF
+  - EPG-Treffen Eriwan 2026
+  - Werte-Diskurs Europa-Kanada
+  - Demokratielegitimation EU
+  - Ukraine-Krieg und Selenski-Mandat
+  - Medien als Stimmungsmusik
+kritisiertes_medium: SRF Echo der Zeit
 kritisierter_beitrag: Der kanadische Premierminister macht Europa Mut
 kritisierter_autor: Charles Liebherr
 kritik_typ:
   - Framing
   - Auslassung
-  - Fehlinformation
+  - Behördenpropaganda
 personen:
   - Mark Carney
-  - Ursula von der Leyen
   - Charles Liebherr
+  - Ursula von der Leyen
+  - Justin Trudeau
   - Wolodimir Selenski
+  - Emmanuel Macron
+  - Donald Trump
 institutionen:
   - SRF
+  - Echo der Zeit
   - EU-Kommission
+  - NATO
+  - WEF
+  - Bank of England
+  - Bank of Canada
+  - Europäisches Parlament
+  - EPG
   - Europäischer Rat
 gesetze_vorlagen: []
 these: >-
-  Der Beitrag von Charles Liebherr ist ein Beispiel für unzureichende
-  journalistische Berichterstattung, die Stimmungsmusik statt Analyse und Kritik
-  bietet.
+  Der SRF-Beitrag ersetzt journalistische Analyse durch emotionale
+  Stimmungsmusik, indem er Politiker-Rhetorik unkritisch übernimmt und
+  wesentliche Kontexte wie Demokratiedefizite, Verantwortlichkeiten und reale
+  politische Widersprüche ausblendet.
 zusammenfassung: >-
-  Der Artikel kritisiert den Beitrag von Charles Liebherr in der SRF-Sendung
-  'Echo der Zeit' für seine unzureichende Berichterstattung und seine Tendenz,
-  Stimmungsmusik statt Analyse und Kritik zu bieten. Der Beitrag wird als
-  Beispiel für die mangelnde journalistische Verantwortung in der
-  Berichterstattung über europäische Politik angesehen.
+  9min.ch analysiert einen Echo-Zeit-Beitrag von Charles Liebherr über Mark
+  Carneys Auftritt am EPG-Treffen in Eriwan als reine Stimmungsmusik ohne
+  journalistische Substanz. Der Beitrag kritisiert, dass die beschworenen Werte
+  (Frieden, Rechtsstaatlichkeit, Demokratie, Pluralismus) nicht mit der Realität
+  konfrontiert werden, Carneys Hintergrund als Banker und WEF-Figur ausgeblendet
+  bleibt, von der Leyen als Diagnostikerin statt als Verantwortliche für Europas
+  Abhängigkeiten zitiert wird und Selenskis fehlendes demokratisches Mandat nur
+  beiläufig erwähnt wird.
 quelle_datum: '2026-05-04'
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
-quelle_redaktion: SRF Aussenredaktion
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

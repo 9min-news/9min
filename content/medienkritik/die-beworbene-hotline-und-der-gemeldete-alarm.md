@@ -6,16 +6,18 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HKXqpcjXkAAN5ML.jpg'
 tweetId: '2064314229407039778'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Gesellschaft
+  - Demokratie
 tags:
-  - SRF
   - Opferhilfe
-  - Gewalt
   - Statistik
-  - Medienkritik
-  - Werbung
+  - Framing
   - Kampagne
+  - Beratungen
+  - Gewalt
+  - SRF
+  - Hotline 142
 seo:
   description: >-
     Dieser SRF-Beitrag ist eine Agenturmeldung über die neue
@@ -23,38 +25,40 @@ seo:
     Prozent mehr Beratungen…
 themen:
   - Opferhilfe-Statistik
-  - Bundesamt für Statistik
-  - Gewaltprävention
-  - Medienkritik
+  - häusliche Gewalt
+  - Medienkampagne
+  - Statistikinterpretation
 kritisiertes_medium: SRF 4 News
 kritisierter_beitrag: Beratungen wegen Körperverletzung und Drohungen nehmen stark zu
 kritisierter_autor: ''
 kritik_typ:
   - Framing
   - Kontextmangel
-  - Interessenkonflikt
+  - Auslassung
 personen: []
 institutionen:
   - SRF
+  - SRF 4 News
   - Bundesamt für Statistik
+  - Bund
+  - Opferhilfe-Hotline 142
+  - Google
 gesetze_vorlagen: []
 these: >-
-  Der SRF-Beitrag über die Opferhilfe-Statistik ist durch eine alarmierende
-  Lesart und mangelnde Kontextualisierung gekennzeichnet, die den Eindruck einer
-  Zunahme von Gewalt vermittelt, obwohl die Beratungszahlen auch durch eine
-  erfolgreiche Werbekampagne beeinflusst sein könnten.
+  SRF meldet steigende Beratungszahlen als alarmierende Gewaltzunahme,
+  verschweigt aber, dass der Anstieg zumindest teilweise der erwünschte Effekt
+  einer staatlich-medialen Werbekampagne ist, die der Sender selbst mitträgt.
 zusammenfassung: >-
-  Der Beitrag über die Opferhilfe-Statistik des Bundesamts für Statistik wird
-  kritisiert, da er eine alarmierende Lesart vermittelt, ohne den Kontext der
-  Werbekampagne für die Opferhilfe-Hotline zu berücksichtigen. Die
-  Beratungszahlen können auch durch eine erfolgreiche Werbekampagne beeinflusst
-  sein, anstatt eine Zunahme von Gewalt zu bedeuten. Der Beitrag wird auch für
-  mangelnde Kontextualisierung und unzureichende Einordnung von Zahlen
-  kritisiert.
+  9min.ch analysiert eine SRF-Kurzmeldung über die neue Opferhilfe-Statistik des
+  Bundesamts für Statistik. Der Beitrag referiert die Zahlen korrekt, der Titel
+  suggeriert jedoch eine steigende Gewalt, obwohl nur Beratungen zunehmen. Zudem
+  verschweigt der Beitrag den Kontext einer laufenden staatlichen
+  Präventionskampagne, deren Erfolg gerade in steigenden Beratungszahlen besteht
+  — ein Zirkel, den SRF selbst mitträgt.
 quelle_datum: '2026-06-09'
 quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
-quelle_redaktion: ''
+quelle_redaktion: SRF News
 kritik_schwere: 2
 ---
 

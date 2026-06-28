@@ -6,33 +6,34 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIg6dV0W0AAtELt.jpg'
 tweetId: '2055958229922841044'
 categories:
-  - Medienrecht
-  - Gesellschaft
+  - SRF/SRG
+  - Migration
 tags:
   - SRF
-  - Medien
-  - Berichterstattung
-  - Terrorismus
-  - Einwanderung
+  - Modena
+  - Anschlag
   - Pathologisierung
   - Asymmetrie
+  - Täter-Hintergrund
+  - Berichterstattung
+  - Narrativ
 seo:
   description: >-
     Zum SRF-Beitrag «Auto rast im italienischen Modena in Menschenmenge», 17.
     Mai 2026 Ein Mann rast mit einem Auto in eine Menschenmenge. In der Altstadt
     von…
 themen:
-  - Medienkritik
-  - Berichterstattung
-  - Terrorismus
-  - Einwanderung
-kritisiertes_medium: SRF
+  - Medienberichterstattung über Anschläge
+  - Pathologisierung von Tätern
+  - Asymmetrische Einordnung nach Herkunft
+  - Migrationshintergrund in der Berichterstattung
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Auto rast im italienischen Modena in Menschenmenge
 kritisierter_autor: ''
 kritik_typ:
   - Framing
-  - Auslassung
   - Asymmetrie
+  - Auslassung
 personen:
   - Antonio Tajani
 institutionen:
@@ -40,21 +41,21 @@ institutionen:
   - Adnkronos
 gesetze_vorlagen: []
 these: >-
-  Die SRF-Berichterstattung über den Angriff in Modena ist asymmetrisch und
-  pathologisiert den Täter, um bestimmte Narrative zu schützen.
+  SRF pathologisiert den Täter von Modena und verschweigt den möglichen
+  Migrationshintergrund, was eine asymmetrische Einordnung darstellt, die
+  bestimmte Narrative schützt und notwendige Debatten verhindert.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRF-Berichterstattung über den Angriff in Modena,
-  bei dem ein Mann mit einem Auto in eine Menschenmenge rast und eine Frau beide
-  Beine verliert. Die SRF-Berichterstattung wird als asymmetrisch und
-  pathologisierend kritisiert, da sie den Täter als psychisch krank darstellt
-  und die Hintergründe des Angriffs als unklar bezeichnet. Der Artikel
-  argumentiert, dass diese Berichterstattung bestimmte Narrative schützt und die
-  Debatte über die Kosten der Einwanderung und die Integration von Migranten
-  verhindert.
+  Der Artikel kritisiert die SRF-Berichterstattung über einen Autoangriff in
+  Modena, bei dem ein Mann mit marokkanischen Wurzeln in eine Menschenmenge rast
+  und mit einem Messer aussteigt. SRF rahme den Vorfall als Einzelschicksal
+  eines psychisch Kranken, erwähne die marokkanischen Wurzeln nur beiläufig und
+  stelle die Anschlagsfrage nicht. Der Autor erkennt ein asymmetrisches Muster:
+  Bei Tätern mit Migrationshintergrund werde pathologisiert, bei rechtsextremen
+  Tätern würde sofort politisch eingeordnet.
 quelle_datum: '2026-05-17'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: ''
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

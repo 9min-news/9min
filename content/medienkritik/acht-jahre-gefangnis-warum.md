@@ -10,14 +10,13 @@ categories:
   - Gesellschaft
   - Sicherheitspolitik
 tags:
+  - Wolfsrudel-Prozess
   - Glasfaser-Sabotage
-  - Bezirksgericht Rheinfellen
-  - Tätigkeitsverbot
   - Strafmass
   - Motive
-  - Kontext
-  - Autismus
-  - Jugendstrafrecht
+  - Tätigkeitsverbot
+  - Rheinfelden
+  - Regionaljournal
 seo:
   description: >-
     Dieser SRF-Beitrag ist ein regionaler Gerichtsbericht über das Urteil im
@@ -25,22 +24,20 @@ seo:
     Rheinfelden…
 themen:
   - Gerichtsberichterstattung
-  - Strafmass-Einordnung
-  - Motive im Strafprozess
+  - Strafjustiz
   - Kritische Infrastruktur
-  - Wolfsrudel-Prozess
-kritisiertes_medium: SRF
+  - Medienethik
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Fünf junge Schweizer wegen dutzenden Delikten verurteilt
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
   - Kontextmangel
-  - Einordnungsfehler
+  - Framing
 personen: []
 institutionen:
   - SRF
   - Bezirksgericht Rheinfelden
-  - Staatsanwaltschaft
   - Obergericht
   - SBB
   - Schweizer Armee
@@ -48,21 +45,22 @@ institutionen:
   - Aargauische Kantonalbank
   - Coop
   - Holcim
-gesetze_vorlagen: []
+  - Staatsanwaltschaft
+gesetze_vorlagen:
+  - Jugendstrafrecht
 these: >-
-  Der SRF-Bericht zum Wolfsrudel-Urteil ist protokollarisch solide, lässt aber
-  die drei zentralen Leserfragen nach Motiv, Begründung des lebenslangen
-  Tätigkeitsverbots und Einordnung des Strafmasses unbeantwortet und bleibt
-  damit eine halbe Geschichte.
+  Der SRF-Bericht protokolliert das Urteil im Wolfsrudel-Prozess handwerklich
+  solide, lässt aber die drei zentralen Fragen nach Motiv, Begründung des
+  lebenslangen Tätigkeitsverbots und Einordnung des Strafmasses komplett
+  unbeantwortet.
 zusammenfassung: >-
-  9min.ch analysiert einen SRF-Beitrag zum Urteil im Wolfsrudel-Prozess vor
-  Bezirksgericht Rheinfelden, in dem fünf junge Schweizer wegen über 40
-  Straftaten verurteilt wurden. Der Beitrag lobt die protokollarische Sorgfalt
-  bei Strafanträgen, Verteidigung und Geschädigtenliste, kritisiert aber drei
-  fundamentale Leerstellen: das völlig fehlende Motiv, das unerklärte
-  lebenslange Tätigkeitsverbot mit Minderjährigen und die fehlende Einordnung
-  des ungewöhnlich hohen Strafmasses. Zudem werden handwerkliche Unschärfen bei
-  Personenarithmetik, Altersangaben und Autismus-Formulierung beanstandet.
+  Die Analyse lobt die protokollarische Richtigkeit des SRF-Gerichtsberichts,
+  kritisiert aber drei wesentliche Leerstellen: Das Motiv der Täter wird trotz
+  40+ Straftaten nicht erklärt, das lebenslange Tätigkeitsverbot mit
+  Minderjährigen wird erwähnt aber nicht begründet, und das Strafmass von acht
+  Jahren wird ohne jede Vergleichsgrösse oder Expertenstimme präsentiert. Hinzu
+  kommen handwerkliche Unschärfen bei Personenarithmetik, Altersangaben und
+  Autismus-Formulierung.
 quelle_datum: '2026-06-11'
 quelle_format: Broadcast
 quelle_sendung: Regionaljournal Aargau Solothurn / Schweiz aktuell

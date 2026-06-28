@@ -6,31 +6,34 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HKN_6oxW4AA1LMh.jpg'
 tweetId: '2063633730112029016'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Gesellschaft
   - Demokratie
 tags:
-  - SRF
   - Operation Libero
   - Vatertag
-  - Lobbyarbeit
-  - Medienethik
-  - Politische Berichterstattung
+  - Gratis-PR
+  - Selbstetikettierung
+  - Kontextmangel
+  - Gegenstimme
+  - Service public
+  - Ameti-Skandal
 seo:
   description: >-
     Dieser SRF-Beitrag berichtet über eine PR-Aktion der Organisation Operation
     Libero: Zum «Vatertag» wurden über Nacht zahlreiche Männer-Denkmäler —…
 themen:
-  - Medienkritik
-  - Politische Kampagnen
-  - Journalistische Verantwortung
-kritisiertes_medium: SRF
+  - PR-Kampagnen im Service public
+  - Einordnung politischer Akteure
+  - Familienpolitik/Elternzeit
+  - Lobbyarbeit als News
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Schweizer Statuen mit Babys im Tragetuch
 kritisierter_autor: ''
 kritik_typ:
+  - Behördenpropaganda
   - Auslassung
   - Framing
-  - Kontextmangel
 personen:
   - Simon Städeli
   - Sanija Ameti
@@ -40,22 +43,23 @@ institutionen:
   - Operation Libero
 gesetze_vorlagen: []
 these: >-
-  Der SRF-Beitrag über die Vatertags-Aktion der Operation Libero übernimmt die
-  politische Kampagne fast vollständig in deren eigener Sprache, ohne den
-  nötigen Kontext und ohne Gegenstimme.
+  SRF reicht eine politische PR-Kampagne der Operation Libero unkritisch als
+  News weiter, übernimmt deren Selbstetikettierung als «liberale Bewegung» und
+  lässt den nötigen Kontext zur Glaubwürdigkeit des Absenders weg.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag über die Vatertags-Aktion der Operation
-  Libero, weil er die politische Kampagne ohne Distanz und ohne Gegenstimme
-  übernimmt. Der Beitrag fehlt es an Kontext und Einordnung des Absenders, was
-  die Glaubwürdigkeit der Organisation und die politische Forderung betrifft.
-  Der Artikel fordert, dass ein Service public wie der SRF die Aktivität einer
-  politischen Bewegung korrekt einordnen, die politische Forderung als
-  umstritten kenntlich machen und den relevanten Hintergrund nennen sollte.
+  Der 9min-Artikel kritisiert einen SRF-Beitrag, der eine Vatertags-PR-Aktion
+  der Operation Libero (Behängen von Statuen mit Babytragetüchern) behandelt.
+  SRF übernehme ungeprüft die Selbstbeschreibung als «liberale Bewegung», obwohl
+  die Organisation sozialliberal-progressiv und proeuropäisch agiere und
+  staatliche Interventionen fordere. Zudem fehle eine Gegenstimme zur
+  politischen Forderung nach Familienrahmenbedingungen, und der Kontext um den
+  Ameti-Skandal (Schiessen auf Marienbild) werde verschwiegen, obwohl er die
+  Glaubwürdigkeit der Organisation als moralischer Absender berühre.
 quelle_datum: ''
-quelle_format: ''
+quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: ''
-kritik_schwere: 3
+quelle_redaktion: SRF News
+kritik_schwere: 2
 ---
 
 *Dieser SRF-Beitrag berichtet über eine PR-Aktion der Organisation Operation Libero: Zum «Vatertag» wurden über Nacht zahlreiche Männer-Denkmäler — darunter die Einstein-Statue in Bern — mit pinkfarbenen Babytragetüchern und Puppen versehen, um ein «Zeichen für mehr Verantwortung von Vätern» zu setzen. Es ist eine kurze Meldung über einen Werbe-Coup, und als solche scheint sie harmlos. Aber gerade die scheinbare Harmlosigkeit lohnt einen zweiten Blick, denn der Beitrag tut etwas, das man leicht übersieht: Er übernimmt eine politische Kampagne fast vollständig in deren eigener Sprache — samt einer Selbstetikettierung, die er nicht prüft, und unter Auslassung eines Kontexts, der zur Einordnung des Absenders gehört.*

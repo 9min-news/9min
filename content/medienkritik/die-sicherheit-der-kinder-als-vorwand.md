@@ -6,17 +6,17 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIHxqmIXAAAIWPs.jpg'
 tweetId: '2054189202607104318'
 categories:
-  - Zensur/Meinungsfreiheit
   - EU/Aussenpolitik
+  - Zensur/Meinungsfreiheit
   - Gesellschaft
 tags:
   - Altersverifikation
-  - Kinderschutzrhetorik
   - digitale Identifikation
-  - Anonymität
-  - Überwachung
-  - Social Media Delay
+  - Kinderschutzrhetorik
   - EU-Regulierung
+  - Anonymität
+  - Überwachungsinfrastruktur
+  - Social Media Delay
   - Mission Creep
 seo:
   description: >-
@@ -25,14 +25,12 @@ seo:
     Mai 2026…
 themen:
   - Altersverifikation als Identifikationspflicht
-  - Kinderschutz als rhetorisches Instrument
+  - Kinderschutz als rhetorischer Vorwand
   - EU-Digitalregulierung und Mission Creep
+  - Anonymität als demokratisches Gut
   - Australien-Modell als Vorbild
-  - Auswirkungen auf die Schweiz
 kritisiertes_medium: EU-Kommission
-kritisierter_beitrag: >-
-  Grundsatzrede am Europäischen Gipfel zu künstlicher Intelligenz und Kindern
-  (SPEECH_26_1060)
+kritisierter_beitrag: Grundsatzrede am Europäischen Gipfel zu künstlicher Intelligenz und Kindern
 kritisierter_autor: Ursula von der Leyen
 kritik_typ:
   - Auslassung
@@ -58,17 +56,20 @@ gesetze_vorlagen:
   - Social Media Delay
   - Australische Altersgrenze für soziale Medien
 these: >-
-  Die Rede nutzt den Schutz der Kinder als rhetorischen Vorwand, um eine
-  flächendeckende Identifikationspflicht für die digitale Sphäre einzuführen,
-  deren Reichweite weit über den deklarierten Zweck hinausgeht.
+  Die Rede nutzt den Kinderschutz als rhetorischen Vorwand, um eine
+  flächendeckende digitale Identifikationspflicht einzuführen, deren Reichweite
+  weit über den deklarierten Zweck hinausgeht und die Anonymität im Internet
+  strukturell unmöglich macht.
 zusammenfassung: >-
-  Der Artikel analysiert eine Grundsatzrede von Ursula von der Leyen in
-  Kopenhagen, in der sie einen 'Social Media Delay' und eine
-  Altersverifikations-App ankündigt. Der Autor argumentiert, dass die Massnahme
-  strukturell eine Identifikationspflicht für alle Internetnutzer schafft und
-  Gegenargumente systematisch ausblendet. Er kritisiert, dass die Rede einen
-  Konsens inszeniert, der so nicht existiert, und auf die Schweiz ausstrahlen
-  wird.
+  Der Artikel analysiert eine Rede von Ursula von der Leyen in Kopenhagen und
+  argumentiert, dass die vorgeschlagene Altersverifikations-App faktisch den
+  Beginn einer flächendeckenden Identifikationspflicht für die digitale Sphäre
+  darstelle. Die Kritik richtet sich gegen die rhetorische Konstruktion, die
+  legitime Gegenargumente — Anonymität als demokratisches Gut, Mission Creep,
+  wissenschaftliche Evidenz, elterliche Verantwortung — ausblende statt
+  widerlege. Der Artikel warnt vor einer kumulativen Regulierungsdichte, die das
+  offene Internet fundamental verändere, und fordert Schweizer Medien zu
+  kritischer Distanz auf.
 quelle_datum: '2026-05-12'
 quelle_format: Online-Artikel
 quelle_sendung: ''

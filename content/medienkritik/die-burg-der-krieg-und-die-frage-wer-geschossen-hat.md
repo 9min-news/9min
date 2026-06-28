@@ -6,56 +6,59 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJqDeY9WwAIltfm.jpg'
 tweetId: '2061106693119852613'
 categories:
-  - Medienrecht
-  - Zensur/Meinungsfreiheit
+  - SRF/SRG
   - EU/Aussenpolitik
 tags:
-  - SRF
+  - Beaufort-Festung
   - Hisbollah
-  - Israel
-  - Libanon
-  - Kriegsberichterstattung
-  - Medienkritik
-  - Framing
-  - Selektion
+  - False Equivalence
+  - Pull-Quote
+  - Litani-Abkommen
+  - UNESCO-Welterbe
+  - Behördenzahlen
+  - Kausalitätsverdrehung
 seo:
   description: >-
     Israel nimmt die Kreuzritterfestung Beaufort im Südlibanon ein. SRF macht
     daraus eine Geschichte über eine «rund 900 Jahre alte Festung», über…
 themen:
-  - Kriegsberichterstattung
-  - Israel-Libanon-Konflikt
-  - Medienkritik
+  - Nahostkonflikt
+  - Israel-Libanon-Krieg
+  - Hisbollah-Berichterstattung
+  - Kausalität in Kriegsberichterstattung
+  - Opferzahlen-Asymmetrie
 kritisiertes_medium: SRF
 kritisierter_beitrag: Israel nimmt wichtige Burg im Südlibanon ein – was bedeutet das?
 kritisierter_autor: ''
 kritik_typ:
   - Framing
-  - Selektion
-  - Kontextmangel
+  - False Equivalence
+  - Asymmetrie
 personen:
   - Nawaf Salam
   - Netanjahu
+  - Katz
 institutionen:
   - SRF
   - Hisbollah
+  - UNESCO
   - Israelische Armee
-  - Unesco
+  - Libanesische Regierung
 gesetze_vorlagen: []
 these: >-
-  Die SRF-Berichterstattung über den Israel-Libanon-Konflikt ist durch eine
-  unzureichende Gewichtung von Fakten und eine selektive Darstellung
-  gekennzeichnet, die die Hisbollah als gleichberechtigte Konfliktpartei
-  darstellt und Israels Handeln als aggressiv hervorhebt.
+  SRF verzerrt die Berichterstattung über Israels Einnahme der Beaufort-Festung,
+  indem es die Kausalität (Hisbollahs Bruch der Waffenruhe und Raketenbeschuss)
+  in Nebensätze verbannt, eine vom Iran finanzierte Terrororganisation als
+  gleichberechtigte Stimme behandelt und ungeprüfte Behördenzahlen aus
+  Hisbollah-kontrolliertem Gebiet asymmetrisch präsentiert.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRF-Berichterstattung über den
-  Israel-Libanon-Konflikt als unzureichend und voreingenommen. Die
-  Berichterstattung konzentriert sich auf die Zerstörung einer historischen Burg
-  und die Reaktionen der libanesischen Regierung, während die Ursachen des
-  Konflikts und die Rolle der Hisbollah nur marginal thematisiert werden. Der
-  Artikel argumentiert, dass diese Darstellung die Hisbollah als
-  gleichberechtigte Konfliktpartei darstellt und Israels Handeln als aggressiv
-  hervorhebt, anstatt die komplexen Ursachen des Konflikts zu beleuchten.
+  Der 9min-Artikel kritisiert einen SRF-Online-Beitrag über die Einnahme der
+  Kreuzritterfestung Beaufort durch Israel. SRF stufe die Hisbollah als
+  gleichberechtigte Konfliktpartei ein, verbanne den Bruch der Waffenruhe durch
+  die Hisbollah in Nebensätze und übernehme libanesische Opferzahlen ungeprüft,
+  während israelische Tote präzise gezählt würden. Zudem werden ein
+  geografischer Fehler (Sahrani statt Zahrani) und eine unpräzise UNESCO-Aussage
+  beanstandet.
 quelle_datum: '2026-05-31'
 quelle_format: Online-Artikel
 quelle_sendung: ''

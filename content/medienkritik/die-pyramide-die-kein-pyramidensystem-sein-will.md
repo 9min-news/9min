@@ -6,26 +6,29 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHS1Y9aWUAA9Zy2.jpg'
 tweetId: '2050463875397472469'
 categories:
-  - Demokratie
-  - Medienrecht
   - Migration
+  - Abstimmungen
+  - SRF/SRG
 tags:
   - Swissinfo
-  - RTS
+  - Demografie
+  - Zuwanderung
   - SVP-Initiative
-  - Bevölkerungswachstum
-  - Demografische Alterung
-  - Migration als Lösung
+  - Pyramidensystem
+  - AHV
+  - Krankenkassen
+  - Abstimmungskampf
 seo:
   description: >-
     Zur Swissinfo/RTS-Berichterstattung «Ohne Zuwanderung würde die Schweizer
     Bevölkerung stark altern», 1. Mai 2026 Die Botschaft im Mantel der
     Statistik…
 themen:
-  - Demografie
-  - Zuwanderung
-  - AHV
-  - Krankenkasse
+  - Demografische Alterung
+  - Migrationspolitik
+  - SVP-Initiative Keine 10-Millionen-Schweiz
+  - Medienmanipulation im Abstimmungskampf
+  - AHV- und Krankenkassenfinanzierung
 kritisiertes_medium: Swissinfo
 kritisierter_beitrag: Ohne Zuwanderung würde die Schweizer Bevölkerung stark altern
 kritisierter_autor: ''
@@ -35,20 +38,29 @@ kritik_typ:
   - Selektion
 personen: []
 institutionen:
+  - Swissinfo
+  - RTS
   - SRG
   - Bundesamt für Statistik
+  - SVP
+  - AHV
+  - Krankenkassen
+  - SBB
 gesetze_vorlagen:
-  - SVP-Initiative «Keine 10-Millionen-Schweiz»
+  - SVP-Initiative Keine 10-Millionen-Schweiz
+  - Personenfreizügigkeit
 these: >-
-  Der Swissinfo-Beitrag präsentiert eine einseitige und irreführende Darstellung
-  der demografischen Alterung der Schweiz und der Rolle der Zuwanderung.
+  Der Swissinfo-Beitrag tarnt eine politische Botschaft pro Zuwanderung als
+  statistische Aufbereitung und beeinflusst damit sechs Wochen vor der
+  Abstimmung die Debatte zur SVP-Initiative.
 zusammenfassung: >-
-  Der Beitrag kritisiert die Berichterstattung von Swissinfo über die
-  demografische Alterung der Schweiz und die Rolle der Zuwanderung. Der Autor
-  argumentiert, dass der Beitrag eine einseitige und irreführende Darstellung
-  der Fakten präsentiert und die langfristigen Konsequenzen der Zuwanderung
-  ausblendet. Der Beitrag wird als politische Botschaft angesehen, die die
-  SVP-Initiative «Keine 10-Millionen-Schweiz» beeinflussen soll.
+  Der 9min-Artikel analysiert einen Swissinfo-Beitrag zur demografischen
+  Alterung der Schweiz und kritisiert diesen als politisch positionierend,
+  demografisch irreführend und methodisch selektiv. Der Beitrag verschweige die
+  Pyramidensystem-Logik der Migrationsstrategie, die Kostenseite der Migration
+  und baue einen Strohmann auf, statt die tatsächliche SVP-Initiative zu
+  diskutieren. Die Veröffentlichung sechs Wochen vor der Abstimmung auf einer
+  staatlich finanzierten Plattform wird als Wahlbeeinflussung eingeordnet.
 quelle_datum: '2026-05-01'
 quelle_format: Online-Artikel
 quelle_sendung: ''

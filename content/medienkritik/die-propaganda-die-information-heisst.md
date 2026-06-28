@@ -6,53 +6,63 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJeRPT9XgAEwrgz.jpg'
 tweetId: '2060275417089454153'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Demokratie
   - Gesellschaft
 tags:
-  - Propaganda
   - Öffentlichkeitsarbeit
-  - Medienkritik
-  - staatliche Kommunikation
-  - Demokratie
-  - Gesellschaft
+  - Propagandamaschine
+  - SRF
+  - Bundesrat
+  - Informationsauftrag
+  - Meinungsbildung
+  - VBS
+  - Steuerzahler
 seo:
   description: >-
     Der Bund streicht 60 Stellen in der Öffentlichkeitsarbeit. 25 Millionen
     Franken weniger. Von 400 auf 340 Vollzeitstellen. Das klingt nach einem…
 themen:
-  - staatliche Propaganda
-  - Öffentlichkeitsarbeit
-  - Medienkritik
-kritisiertes_medium: SRF
+  - Bundeskommunikation
+  - Propaganda vs. Information
+  - Medienrolle in der Demokratie
+  - Deutungshoheit
+  - Stellenabbau im Bund
+kritisiertes_medium: SRF News
 kritisierter_beitrag: 'Weniger PR aus Bern: Bund muss Stellen streichen'
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
-  - Framing
+  - Behördenpropaganda
   - Kontextmangel
 personen:
   - Irène Kälin
   - Daniel Eckmann
+  - Bundesrat Villiger
 institutionen:
-  - Bund
   - SRF
-  - Bundesamt für Umwelt
+  - Bund
+  - Bundesrat
   - VBS
+  - Bundesamt für Umwelt
+  - Grüne
 gesetze_vorlagen: []
 these: >-
-  Der Bund betreibt mit seiner Öffentlichkeitsarbeit eine Propagandamaschine,
-  die die öffentliche Meinung formt und die Deutungshoheit behält.
+  SRF berichtet unkritisch über die Bundeskommunikation, weil es selbst Teil des
+  staatlichen Informationssystems ist, und thematisiert nicht, dass 400
+  staatliche Kommunikatoren eine Propagandaindustrie darstellen, die die
+  Deutungshoheit über die öffentliche Meinung sichert.
 zusammenfassung: >-
-  Der Bund streicht 60 von 400 Stellen in der Öffentlichkeitsarbeit, was jedoch
-  nicht als Einschnitt, sondern als Haarschnitt betrachtet wird. Die
-  Propagandamaschine bleibt bestehen und wird sogar 'geschärft'. Der Artikel
-  kritisiert die staatliche Kommunikation und die Rolle der Medien in einer
-  Demokratie.
+  Der Artikel kritisiert den SRF-Beitrag über Stellenstreichungen in der
+  Bundeskommunikation als unkritische Behördenberichterstattung. SRF hinterfrage
+  nicht, wofür der Bund 400 Kommunikatoren brauche und dass diese direkte
+  Bürgerkommunikation die Medien umgehe. Der Autor sieht in der
+  Bundeskommunikation eine staatliche Propagandaindustrie, die SRF nicht
+  thematisisiere, weil es selbst Teil desselben Systems sei.
 quelle_datum: '2026-05-29'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: ''
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

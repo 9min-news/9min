@@ -6,51 +6,57 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJzdVi6WEAAyASW.jpg'
 tweetId: '2061766261097275573'
 categories:
-  - Medienrecht
+  - SRF/SRG
+  - Billag/Gebühren
   - Wirtschaft
-  - Gesellschaft
 tags:
-  - SRF
   - Flixbus
-  - Gebührenfinanzierung
-  - Medienkritik
-  - PR-Aktionen
-  - Werbung
+  - PR-Aktion
+  - Gratiswerbung
+  - Service public
+  - Gebühren
+  - Linie 666
+  - Marketing
+  - SRG-Kritik
 seo:
   description: >-
     Was hat dieser Text auf der Website eines gebührenfinanzierten öffentlichen
     Rundfunks verloren? Die ehrliche Antwort lautet: Es ist eine Werbeanzeige
     für…
 themen:
-  - Medienkritik
-  - Gebührenfinanzierung
-  - PR-Aktionen
-kritisiertes_medium: SRF
+  - Service-public-Verpflichtung
+  - PR-Stunts als Nachrichten
+  - Gebührenfinanzierung und Legitimation
+  - Gratiswerbung im öffentlich-rechtlichen Rundfunk
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Flixbus setzt wieder auf umstrittene Linie 666
 kritisierter_autor: ''
 kritik_typ:
   - Framing
-  - Fehlinformation
-  - Selektion
+  - Auslassung
+  - Interessenkonflikt
 personen: []
 institutionen:
   - SRF
+  - SRG
   - Flixbus
 gesetze_vorlagen: []
 these: >-
-  Der SRF-Beitrag über Flixbus ist eine unerlaubte Werbeanzeige, die die
-  Gebührenzahler finanziert.
+  SRF betreibt mit einem Beitrag über eine Flixbus-PR-Aktion ungekennzeichnete
+  Gratiswerbung für einen privaten Konzern und untergräbt damit seine
+  Service-public-Legitimation.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag über Flixbus, da er eine unerlaubte
-  Werbeanzeige für das Unternehmen darstellt. Der Beitrag sei eine PR-Aktion,
-  die den SRF als Vehikel nutzt, um Aufmerksamkeit zu erzeugen. Der Artikel
-  argumentiert, dass dies ein Problem für den gebührenfinanzierten Sender sei,
-  da er damit seine Legitimation untergräbt.
+  9min.ch kritisiert einen SRF-Online-Artikel über die Wiedereinführung der
+  Flixbus-Linie 666 als ungekennzeichnete Werbeanzeige für ein deutsches
+  Privatunternehmen. Der Beitrag reproduziere eine bewusste
+  Marketing-Inszenierung unkritisch als Nachricht und verletze damit die
+  Service-public-Pflicht eines gebührenfinanzierten Senders. Der Artikel liefert
+  damit der SRG-Kritik ein weiteres Argument in der GebührenDebatte.
 quelle_datum: '2026-06-02'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: ''
-kritik_schwere: 3
+quelle_redaktion: SRF News International
+kritik_schwere: 2
 ---
 
 *Was hat dieser Text auf der Website eines gebührenfinanzierten öffentlichen Rundfunks verloren? Die ehrliche Antwort lautet: Es ist eine Werbeanzeige für ein deutsches Privatunternehmen, die nur nicht als solche gekennzeichnet ist. Flixbus hätte für eine vergleichbare Platzierung — Markenname in der Schlagzeile, Logo-grünes Bild des eigenen Busses, die augenzwinkernde «Highway to Hel»-Story, das alles auf dem Newsportal des meistbesuchten Schweizer Senders — vermutlich einen vier- bis fünfstelligen Betrag zahlen müssen. Hier bekommt das Unternehmen es vermutlich (?) geschenkt. Und genau darin liegt der eigentliche Skandal dieser harmlos wirkenden Glosse.*

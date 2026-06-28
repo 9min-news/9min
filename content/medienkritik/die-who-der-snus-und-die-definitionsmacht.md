@@ -6,51 +6,58 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIYqjcpWYAEX4f2.jpg'
 tweetId: '2055533153368813738'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Gesellschaft
+  - EU/Aussenpolitik
 tags:
   - WHO
-  - Snus
-  - Nikotin
-  - Gesundheit
-  - Medien
-  - Kritik
-  - Framing
+  - White Snus
+  - Schadensminderung
   - Infodemie
+  - Schweden
+  - Definitionsmacht
+  - Behördenpropaganda
+  - Konsenssender
 seo:
   description: >-
     Zur SRF-Meldung «WHO warnt vor White Snus», 15. Mai 2026 Die Struktur der
     Warnung Die WHO warnt vor White Snus. Das ist die Nachricht. Alles andere
     ist…
 themen:
-  - WHO
-  - Snus
-  - Nikotin
-  - Gesundheitspolitik
-  - Medienkritik
-kritisiertes_medium: SRF
+  - WHO-Definitionsmacht über Informationen
+  - Nikotinpolitik und Schadensminderung
+  - Schwedische Snus-Evidenz
+  - Infodemie-Konzept als Kontrollinstrument
+kritisiertes_medium: SRF News
 kritisierter_beitrag: WHO warnt vor White Snus
 kritisierter_autor: ''
 kritik_typ:
-  - Framing
   - Auslassung
-  - Kontextmangel
-personen: []
+  - Behördenpropaganda
+  - Selektion
+personen:
+  - Cassis
 institutionen:
   - WHO
   - SRF
   - EU
-gesetze_vorlagen: []
+  - Bundesgericht
+  - Schweden
+gesetze_vorlagen:
+  - EU-Tabakverbot 1992
+  - Beitrittsvertrag Schweden Artikel 151
 these: >-
-  Die WHO und die Medien betreiben eine einseitige Berichterstattung über White
-  Snus, ohne die Debatte über Schadensminderung und die schwedische Erfahrung zu
-  erwähnen.
+  SRF übernimmt die WHO-Warnung vor White Snus kritiklos als Pressedienst und
+  verschweigt die schwedische Evidenz zur Schadensminderung sowie die
+  WHO-Definitionsmacht über zulässige Informationen.
 zusammenfassung: >-
-  Der Artikel kritisiert die Berichterstattung des SRF über die Warnung der WHO
-  vor White Snus. Die Kritik richtet sich gegen die einseitige Darstellung und
-  die Auslassung wichtiger Informationen. Der Artikel argumentiert, dass die WHO
-  eine Definitionsmacht über gesundheitsbezogene Informationen hat und dass die
-  Medien diese Macht unkritisch übernehmen.
+  Der Artikel kritisiert, dass SRF eine WHO-Warnung vor White Snus ohne
+  Kontextualisierung und ohne Gegenstimmen verbreitet. Wesentliche Aspekte wie
+  die schwedische Erfahrung mit Schadensminderung, die Debatte unter
+  Wissenschaftlern und die WHO-Definitionsmacht über 'Fehlinformationen' via
+  Infodemie-Konzept fehlen vollständig. SRF agiere damit als Konsenssender und
+  Öffentlichkeitsarbeit für eine internationale Organisation statt als
+  Journalismus.
 quelle_datum: '2026-05-15'
 quelle_format: Online-Artikel
 quelle_sendung: ''

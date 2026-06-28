@@ -6,50 +6,55 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HH4Bfs7WgAQsrne.jpg'
 tweetId: '2053080145905242577'
 categories:
-  - Medienrecht
-  - Gesellschaft
+  - SRF/SRG
 tags:
-  - SRF
-  - Yaël Meier
-  - Werbung
-  - Journalismus
-  - Kritik
-  - Medien
-  - Unternehmertum
+  - 10vor10
+  - Werbeporträt
+  - Deutungshoheit
+  - Einseitigkeit
+  - Reichweite
+  - Beratungsagentur
+  - Gefälligkeitsporträt
+  - Marketing
 seo:
   description: >-
     Zum 10vor10-Beitrag «Unternehmerin Yaël Meier zwischen Vorbild und
     Reizfigur», 7. Mai 2026 SRF rahmt den Beitrag als kritische
     Auseinandersetzung. Die…
 themen:
-  - Journalismus
-  - Medienkritik
-  - Unternehmertum
+  - Porträtjournalismus
+  - Wirtschaftsinteressen in Medien
+  - Einseitige Berichterstattung
+  - Kommerzielle Influencer-Ökonomie
 kritisiertes_medium: SRF
 kritisierter_beitrag: Unternehmerin Yaël Meier zwischen Vorbild und Reizfigur
 kritisierter_autor: ''
 kritik_typ:
-  - Framing
   - Auslassung
-  - Fehlinformation
+  - Framing
+  - Selektion
 personen:
   - Yaël Meier
 institutionen:
   - SRF
   - ZEAM
+  - BAG
 gesetze_vorlagen: []
 these: >-
-  Der SRF-Beitrag über Yaël Meier ist ein Werbeporträt, das ihre
-  Selbstinszenierung übernimmt und kritische Stimmen ausblendet.
+  SRF sendet unter dem Deckmantel einer kritischen Auseinandersetzung ein
+  einseitiges Werbeporträt, das die kommerziellen Interessen der porträtierten
+  Unternehmerin bedient und journalistische Recherche durch Selbstinszenierung
+  ersetzt.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag über Yaël Meier als einseitig und
-  werbend. Der Beitrag übernimmt Meiers Selbstdeutung und blendet kritische
-  Stimmen aus. Die kommerzielle Dimension von Meiers Unternehmen und ihre
-  Reichweite werden nicht thematisiert. Der Artikel argumentiert, dass der
-  Beitrag ein Beispiel für schlechten Journalismus ist, der die Grenzen zwischen
-  Werbung und Journalismus verwischt.
+  Der 9min.ch-Artikel kritisiert einen 10vor10-Beitrag von SRF über die
+  Unternehmerin Yaël Meier als getarntes Werbeporträt. Der Beitrag kündige eine
+  kritische Auseinandersetzung an, überlasse Meier jedoch durchgehend die
+  Deutungshoheit, ohne externe Stimmen oder Recherchen zu familiären und
+  kommerziellen Hintergründen einzubinden. Die kommerzielle Verschränkung von
+  Meiers Reichweite mit dem Geschäftsmodell ihrer Beratungsagentur ZEAM werde
+  ausgeblendet, sodass SRF faktisch Teil ihrer Marketing-Operation werde.
 quelle_datum: '2026-05-07'
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: 10vor10
 quelle_redaktion: SRF News
 kritik_schwere: 3

@@ -6,17 +6,17 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJpbve7XoAAvxUb.jpg'
 tweetId: '2061105150526177322'
 categories:
+  - SRF/SRG
   - Wirtschaft
-  - Gesellschaft
-  - Medienrecht
 tags:
-  - Kantonalbanken
   - Staatsgarantie
-  - Einlagensicherung
-  - Bankenkrise
-  - Wirtschaftspolitik
+  - Kantonalbanken
   - SRF
-  - Medienkritik
+  - Einlagensicherung
+  - Steuerzahlerhaftung
+  - UBS
+  - Too big to fail
+  - Wettbewerbsverzerrung
 seo:
   description: >-
     Die Kantonalbanken halten viel mehr hartes Eigenkapital, als sie müssten.
@@ -25,41 +25,47 @@ seo:
 themen:
   - Kantonalbanken
   - Staatsgarantie
+  - Too big to fail
   - Einlagensicherung
-  - Bankenkrise
-  - Wirtschaftspolitik
-kritisiertes_medium: SRF
+  - Wettbewerbsverzerrung
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Das Polster der Kantonalbanken ist grösser als verlangt
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
   - Framing
-  - Kontextmangel
+  - Asymmetrie
 personen:
-  - Analyst Fischer
+  - Fischer
 institutionen:
-  - Kantonalbanken
   - SRF
+  - esisuisse
   - UBS
-  - Verein esisuisse
-gesetze_vorlagen:
-  - Einlagensicherungsgesetz
+  - ZKB
+  - BEKB
+  - BCGE
+  - BCV
+  - Basellandschaftliche Kantonalbank
+  - Graubündner Kantonalbank
+  - St. Galler Kantonalbank
+  - Radicant
+  - BZ Bank
+gesetze_vorlagen: []
 these: >-
-  Die Kantonalbanken halten dicke Kapitalpolster, weil sie von den Kantonen
-  unbeschränkt garantiert werden, was eine Umverteilung des Risikos von den
-  Wohlhabenden zur Allgemeinheit bedeutet.
+  SRF verschleiert die unbeschränkte Steuerzahlerhaftung für Kantonalbanken und
+  präsentiert eine beruhigende Erzählung, während bei der UBS dieselbe Struktur
+  kritisch thematisiert wird.
 zusammenfassung: >-
-  Der Artikel kritisiert die Berichterstattung von SRF über die Kantonalbanken
-  und ihre Kapitalpolster. Die Kantonalbanken halten viel mehr Eigenkapital, als
-  sie müssten, weil sie von den Kantonen unbeschränkt garantiert werden. Dies
-  bedeutet eine Umverteilung des Risikos von den Wohlhabenden zur Allgemeinheit.
-  Der Artikel argumentiert, dass SRF diese Tatsache nicht klar macht und
-  stattdessen eine beruhigende Erzählung über die Solidität der Kantonalbanken
-  präsentiert.
+  Der 9min-Artikel kritisiert einen SRF-Beitrag, der die hohen
+  Eigenkapitalpolster der Kantonalbanken als beruhigend darstellt. SRF erwähne
+  die Staatsgarantie nur beiläufig und vermische sie mit der Einlagensicherung,
+  obwohl 21 von 24 Kantonalbanken unbeschränkt durch die Steuerzahler haften.
+  Die ungleiche Behandlung gegenüber der UBS offenbare eine selektive Empörung,
+  die das Narrativ vom guten Staat und bösen Grosskapital stütze.
 quelle_datum: '2026-05-28'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: SRF Wirtschaft
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

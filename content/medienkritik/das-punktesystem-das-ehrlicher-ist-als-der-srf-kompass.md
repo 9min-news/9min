@@ -6,57 +6,65 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJjUKeRXwAI9sET.jpg'
 tweetId: '2060631127447007649'
 categories:
-  - Medienrecht
-  - Demokratie
-  - Zensur/Meinungsfreiheit
+  - SRF/SRG
+  - Abstimmungen
+  - Migration
 tags:
-  - SRF-Kompass
+  - SRF
+  - Abstimmungskompass
   - Frank Urbaniok
   - 10-Millionen-Initiative
-  - Meinungsfreiheit
+  - Transparenz
+  - Punktesystem
   - Demokratie
-  - Medienkritik
+  - Meinungsbildung
 seo:
   description: >-
     Ein Mann sitzt vor der Kamera und denkt laut nach. Er zählt Argumente. Er
     vergibt Punkte. Er kommt am Ende auf 11:6 für die Initiative. Das klingt…
 themen:
-  - Medienkritik
-  - Politische Meinungsbildung
-  - Demokratische Entscheidung
+  - 10-Millionen-Initiative
+  - Abstimmungskompass
+  - Meinungsbildung
+  - Transparenz
+  - Migrationspolitik
 kritisiertes_medium: SRF
-kritisierter_beitrag: ''
+kritisierter_beitrag: Interaktiver Abstimmungskompass zur 10-Millionen-Initiative
 kritisierter_autor: ''
 kritik_typ:
   - Framing
   - Auslassung
-  - Kontextmangel
+  - Behördenpropaganda
 personen:
   - Frank Urbaniok
   - Beat Jans
 institutionen:
   - SRF
   - Bundesrat
+  - EU
+  - Parlament
 gesetze_vorlagen:
   - 10-Millionen-Initiative
-  - Masseneinwanderungsinitiative
   - Ausschaffungsinitiative
+  - Masseneinwanderungsinitiative
+  - Begrenzungsinitiative
+  - Verwahrungsinitiative
 these: >-
-  Die Methode von Frank Urbaniok ist transparenter und ehrlicher als der
-  SRF-Kompass, da er seine Gewichtungen offen legt und die Schwächen seiner
-  Position anerkennt.
+  Frank Urbanioks transparente Punktemethode zur Bewertung der
+  10-Millionen-Initiative ist ehrlicher und demokratischer als der
+  SRF-Abstimmungskompass, der seine Gewichtungskriterien verschleiert.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Kompass für seine mangelnde Transparenz und
-  Ehrlichkeit bei der Darstellung von Argumenten. Im Gegensatz dazu wird die
-  Methode von Frank Urbaniok gelobt, der in einem Video seine Argumente für die
-  10-Millionen-Initiative darlegt und seine Gewichtungen offen legt. Der Artikel
-  argumentiert, dass dies ein besserer Ansatz für die politische Meinungsbildung
-  ist, da er die Bürger einlädt, ihre eigenen Gewichtungen zu setzen und eine
-  informierte Entscheidung zu treffen.
-quelle_datum: '2026-05-26'
+  Der Artikel vergleicht Frank Urbanioks YouTube-Video zur
+  10-Millionen-Initiative mit dem SRF-Abstimmungskompass und lobt Urbanioks
+  transparente Methode der Punktevergabe. Er kritisiert SRF dafür, dass der
+  Kompass seine Auswahl- und Gewichtungskriterien nicht offenlegt, aber eine
+  neutrale Darstellung vortäuscht. Der Artikel argumentiert, dass die
+  transparente Meinungsbildung eines einzelnen Bürgers demokratisch wertvoller
+  ist als die kuratierten Formate des Staatssenders.
+quelle_datum: ''
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: ''
+quelle_redaktion: SRF
 kritik_schwere: 2
 ---
 

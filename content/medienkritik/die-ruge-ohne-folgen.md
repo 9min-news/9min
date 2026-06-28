@@ -6,55 +6,66 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJ3zlBBWEAA1e4l.jpg'
 tweetId: '2062072073111957571'
 categories:
+  - SRF/SRG
+  - Abstimmungen
   - Medienrecht
-  - Gesellschaft
 tags:
-  - SRF
   - UBI
-  - Medienkritik
-  - Einseitige Berichterstattung
-  - Covid-19
-  - Erbschaftssteuer
-  - Gaza-Krieg
-  - Genozid
+  - SRF
+  - RTS
+  - Einseitigkeit
+  - Bundesrat-Terminologie
+  - Folgenlosigkeit
+  - Sachgerechtigkeitsgebot
+  - Vielfaltsgebot
 seo:
   description: >-
     Die UBI rügt SRF gleich mehrfach: einseitige Berichterstattung über die
     Covid-mRNA-Spritze, einseitige Positionierung vor der
     Erbschaftssteuer-Abstimmung.…
 themen:
-  - Medienkritik
-  - SRF
-  - UBI
-  - Einseitige Berichterstattung
-  - Covid-19
+  - UBI-Rügen gegen SRF/RTS
+  - Covid-Impfberichterstattung
+  - Erbschaftssteuer-Abstimmung
+  - Gaza-Terminologie
+  - Medienaufsicht
 kritisiertes_medium: SRF
-kritisierter_beitrag: ''
+kritisierter_beitrag: >-
+  Mehrere SRF/RTS-Beiträge: Covid-mRNA-Impfung-Interview, «Bleisch & Bossart»
+  zur Erbschaftssteuer, RTS-Gaza-Berichterstattung, Berger-Interviews,
+  RTS-Masern/Covid-Sendung
 kritisierter_autor: ''
 kritik_typ:
-  - Framing
-  - Kontextmangel
+  - Auslassung
+  - Selektion
+  - Behördenpropaganda
 personen:
   - Christoph Berger
 institutionen:
   - SRF
+  - RTS
   - UBI
   - Bundesrat
+  - SRG
+  - Bundesgericht
 gesetze_vorlagen:
   - Erbschaftssteuer-Initiative
 these: >-
-  Die UBI rügt SRF mehrfach wegen einseitiger Berichterstattung, aber die Rügen
-  bleiben folgenlos.
+  SRF/RTS berichtet systematisch einseitig und die UBI-Rügen bleiben strukturell
+  folgenlos, was den Medienwächter als machtlos und die Unabhängigkeit des
+  öffentlich-rechtlichen Rundfunks als illusorisch entlarvt.
 zusammenfassung: >-
-  Der Artikel kritisiert die einseitige Berichterstattung des SRF über die
-  Covid-19-Impfung und die Erbschaftssteuer-Abstimmung. Die UBI hat den Sender
-  mehrfach gerügt, aber die Rügen bleiben ohne Folgen. Der Artikel argumentiert,
-  dass die UBI ihre Entscheide nicht durchsetzen kann und dass die Sender
-  weiterhin einseitig berichten können.
+  Der Artikel analysiert mehrere UBI-Rügen gegen SRF/RTS in einer Sitzung:
+  einseitige Covid-Impfberichterstattung, einseitige Positionierung vor der
+  Erbschaftssteuer-Abstimmung und mangelhafte Masern-Berichterstattung.
+  Kritisiert wird, dass die Rügen keine Konsequenzen haben — SRF entschuldigt
+  sich und die UBI verzichtet auf Massnahmen. Beim Gaza-Entscheid zeigt sich ein
+  strukturelles Problem: Die UBI erlaubt RTS, die Regierungsterminologie zu
+  übernehmen, was die Unabhängigkeit des Senders de facto aufhebt.
 quelle_datum: '2026-05-22'
-quelle_format: Online-Artikel
-quelle_sendung: ''
-quelle_redaktion: ''
+quelle_format: Broadcast
+quelle_sendung: Bleisch & Bossart
+quelle_redaktion: SRF
 kritik_schwere: 3
 ---
 

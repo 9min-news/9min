@@ -8,49 +8,53 @@ tweetId: '2056969965064872028'
 categories:
   - EU/Aussenpolitik
   - Wirtschaft
-  - Medienrecht
+  - SRF/SRG
 tags:
-  - EU
-  - USA
-  - Handelsabkommen
+  - Einigung
   - Zölle
-  - Medienkritik
-  - Berichterstattung
-  - SRF
   - Trump
+  - Erpressung
+  - Notbremse
+  - Deeskalation
+  - Framing
+  - Symmetrie
 seo:
   description: >-
     Wie SRF die EU-Kapitulation vor Trump als «Einigung» verkauft — und ein
     Kontrollmechanismus als Schutzschild präsentiert wird, der die EU an den…
 themen:
-  - EU-USA-Handelsabkommen
-  - Zölle und Handelspolitik
-  - Medienkritik und Berichterstattung
-kritisiertes_medium: SRF
+  - EU-USA Handelskonflikt
+  - Zollerpressung durch Trump
+  - Medien-Framing von Kapitulation
+  - Notbremse-Metapher
+  - Asymmetrie der Macht
+kritisiertes_medium: SRF News
 kritisierter_beitrag: USA bekommen Zollvorteile unter Vorbehalt
 kritisierter_autor: ''
 kritik_typ:
   - Framing
-  - Fehlinformation
-  - Selektion
+  - Auslassung
+  - Kontextmangel
 personen:
-  - Donald Trump
   - Bernd Lange
+  - Donald Trump
 institutionen:
+  - SRF
   - EU
   - USA
-  - SRF
+  - Handelsausschuss
 gesetze_vorlagen: []
 these: >-
-  Die EU kapituliert vor der Erpressung eines US-Präsidenten und nennt diese
-  Kapitulation eine «Einigung»
+  SRF verkauft die EU-Kapitulation vor Trumps Zollerpressung als symmetrische
+  «Einigung» und verschleiert damit die zugrundeliegende Machtasymmetrie sowie
+  die Belohnung von Erpressung.
 zusammenfassung: >-
-  Der Artikel kritisiert die Berichterstattung des SRF über das
-  EU-USA-Handelsabkommen. Die EU gibt Zollzugeständnisse, während die USA eine
-  Drohung aufgeben. Der SRF bezeichnet dies als «Einigung», obwohl es sich um
-  eine Kapitulation der EU handelt. Die Notbremse, die automatisch gezogen
-  werden soll, wenn europäische Unternehmen geschädigt werden, ist ein Placebo
-  und gibt die Illusion von Kontrolle.
+  Der 9min-Artikel kritisiert die SRF-Berichterstattung über das
+  EU-USA-Zollabkommen vom 20. Mai 2026. SRF rahme eine erpresste EU-Kapitulation
+  als vernünftige «Einigung» und präsentiere die «Notbremse» als
+  Kontrollinstrument, obwohl sie lediglich den Status quo ante wiederherstelle.
+  Die Grammatik der Symmetrie, Kontrolle und Deeskalation verschleiere die
+  Struktur der Erpressung und stelle Nachgeben als Strategie dar.
 quelle_datum: '2026-05-20'
 quelle_format: Online-Artikel
 quelle_sendung: ''

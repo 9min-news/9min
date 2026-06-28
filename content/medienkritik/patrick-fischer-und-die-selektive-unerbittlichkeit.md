@@ -6,52 +6,63 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HGBaxpZWMAAhGgD.jpg'
 tweetId: '2044734072208187637'
 categories:
+  - SRF/SRG
   - Medienrecht
   - Gesellschaft
 tags:
-  - SRF
   - Patrick Fischer
+  - SRF
   - Covid-Zertifikat
-  - Recherche
-  - Intervention
-  - Selektive Unerbittlichkeit
+  - BAG
+  - Impfstoffverträge
+  - Asymmetrie
+  - Investigativjournalismus
+  - Transparenz
 seo:
   description: >-
     SRF hat Patrick Fischer erledigt. Nicht mit einer Lüge. Mit einer Recherche.
     Und genau das macht den Fall interessant. Die Fakten sind unbestritten.…
 themen:
-  - Medienkritik
-  - Recherche
-  - Öffentliches Interesse
+  - Selektive Berichterstattung
+  - Covid-Zertifikat-Aufarbeitung
+  - Behördentransparenz
+  - SRF-Rechercherolle
+  - Proportionalität journalistischer Intervention
 kritisiertes_medium: SRF
-kritisierter_beitrag: ''
+kritisierter_beitrag: Recherche zu Patrick Fischers gefälschtem Covid-Zertifikat
 kritisierter_autor: ''
 kritik_typ:
-  - Selektion
-  - Interessenkonflikt
   - Asymmetrie
+  - Selektion
+  - Auslassung
 personen:
   - Patrick Fischer
 institutionen:
   - SRF
-  - Bundesverwaltungsgericht
   - BAG
+  - Bundesverwaltungsgericht
+  - Moderna
+  - Pfizer
+  - Ford
+  - internationaler Eishockeyverband
 gesetze_vorlagen:
   - Covid-Zertifikat
+  - Covid-Impfstoffverträge
 these: >-
-  Die SRF-Recherche gegen Patrick Fischer ist ein Beispiel für selektive
-  Unerbittlichkeit und Interventionismus in der Medienarbeit.
+  SRF betreibt selektive Unerbittlichkeit – investigativ gegen einen einzelnen
+  Sportler, stenographisch gegenüber dem BAG, das gerichtlich angeordnete
+  Transparenz über Milliardenverträge verweigert.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRF-Recherche gegen Patrick Fischer, die als
-  selektiv und intervenierend angesehen wird. Die SRF hat den Strafbefehl gegen
-  Fischer angefordert und die Sponsoren kontaktiert, was zu seiner Freistellung
-  führte. Der Artikel fragt, ob dies im öffentlichen Interesse war und warum die
-  SRF nicht ähnlich gegen das Bundesamt für Gesundheit vorgeht, das Verträge
-  über Covid-Impfstoffe nicht offenlegt.
-quelle_datum: ''
-quelle_format: ''
+  Der Artikel kritisiert, dass SRF durch eigene Recherche die Freistellung von
+  Eishockey-Nationaltrainer Patrick Fischer auslöste, vier Jahre nach dessen
+  rechtskräftig verurteilter Zertifikatsfälschung. Gleichzeitig habe SRF die
+  gerichtlich angeordnete Offenlegung der BAG-Covid-Impfstoffverträge im Wert
+  von Hunderten Millionen Franken nicht weiter verfolgt. Das Muster sei
+  asymmetrisch: unerbitlich nach unten, höflich nach oben.
+quelle_datum: '2026-06-24'
+quelle_format: Broadcast
 quelle_sendung: ''
-quelle_redaktion: ''
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

@@ -7,27 +7,27 @@ coverImage: 'https://pbs.twimg.com/media/HKo-DC_XMAEuu9q.jpg'
 tweetId: '2065532874003214336'
 categories:
   - SRF/SRG
-  - Demokratie
   - Abstimmungen
+  - Demokratie
 tags:
   - Abstimmungsflut
   - SVP-Vokabular
-  - Framing
   - Titelradikalisierung
   - Finanzreferendum
   - Stimmbeteiligung
   - Art. 93 BV
-  - Kampagnenjournalismus
+  - Framing
+  - Experten-Einseitigkeit
 seo:
   description: >-
     Dieser SRF-Beitrag handelt vom Zürcher Abstimmungssonntag mit 20 Vorlagen —
     und er hat sein Urteil schon im Titel gefällt: eine «Abstimmungsflut, die…
 themen:
-  - Abstimmungsflut-Rahmung
+  - Abstimmungsflut-Framing
   - Finanzreferendum
-  - SRF-Programmauftrag Art. 93 BV
-  - Parteivokabular in Medien
-  - Experten-Einseitigkeit
+  - Art. 93 BV
+  - Stimmbeteiligung
+  - Redaktionelle Kampagne
 kritisiertes_medium: SRF News
 kritisierter_beitrag: '20 Vorlagen: Eine Abstimmungsflut, die überfordert'
 kritisierter_autor: ''
@@ -39,7 +39,9 @@ personen:
   - Kübler
 institutionen:
   - SRF
-  - SVP Zürich
+  - SRF News
+  - Schweiz aktuell
+  - Zürcher SVP
   - Grüne
   - Parlament
   - UBI
@@ -48,17 +50,17 @@ gesetze_vorlagen:
   - Art. 93 BV
   - Finanzreferendum
 these: >-
-  SRF übernimmt mit dem Begriff «Abstimmungsflut» unattribuiert SVP-Vokabular in
-  Titel und Programmschwerpunkt, radikalisiert den eigenen Lead zur
-  Tatsachenbehauptung und prämiert volksrechtsbeschneidende Lösungen, wodurch
-  Art. 93 BV verletzt wird.
+  SRF übernimmt SVP-Vokabular als redaktionelle Kampagne, radikalisiert im Titel
+  eine vorsichtige Lead-Formulierung zur Tatsachenbehauptung und verletzt damit
+  Art. 93 BV (Vielfalt der Ansichten).
 zusammenfassung: >-
-  Der 9min-Artikel kritisiert einen SRF-Beitrag zum Zürcher Abstimmungssonntag
-  mit 20 Vorlagen. Der Titel streiche das hedged «kann überfordern» aus dem Lead
-  und übernehme den Kampfbegriff «Abstimmungsflut» unattribuiert von der Zürcher
-  SVP. Zudem werde die hohe Stimmbeteiligung entwertend platziert, der Experte
-  einseitig ausgewählt und die Beschneidung des Finanzreferendums als
-  «Entlastung» euphemisiert.
+  Der 9min-Artikel kritisiert einen SRF-Beitrag zum Zürcher Abstimmungssonntag,
+  der im Titel eine vorsichtige Lead-Formulierung ("kann überfordern") zur
+  Tatsachenbehauptung radikalisiert und SVP-Vokabular ("Abstimmungsflut")
+  unattribuiert übernimmt. Das einzige empirische Gegenindiz (hohe
+  Stimmbeteiligung) wird entwertend als "Übrigens" platziert, und der einzige
+  Experte prämiert eine volksrechtsbeschneidende Lösung ohne Gegenposition — ein
+  Verstoss gegen Art. 93 BV.
 quelle_datum: '2026-06-08'
 quelle_format: Online-Artikel
 quelle_sendung: Schweiz aktuell

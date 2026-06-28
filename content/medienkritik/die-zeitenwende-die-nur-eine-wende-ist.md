@@ -6,53 +6,64 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJWIQG3WwAc01gT.jpg'
 tweetId: '2059702810401243408'
 categories:
-  - Medienrecht
-  - Demokratie
+  - SRF/SRG
   - EU/Aussenpolitik
+  - Demokratie
 tags:
-  - SRF
   - Ungarn
   - Orban
   - Magyar
-  - Medienfreiheit
-  - Demokratie
-  - EU
+  - SRF
+  - Doppelmassstab
+  - Wahlsystem
+  - EU-Kohäsionsmittel
+  - Gewaltenteilung
 seo:
   description: >-
     SRF feiert die Abwahl von Viktor Orban als «Zeitenwende». Tanzende Menschen
     vor dem Parlament. Junge Frauen mit Fahnen. Optimismus, Aufbruch, Euphorie.…
 themen:
-  - Medienberichterstattung
-  - Politische Einseitigkeit
-  - Demokratische Werte
-kritisiertes_medium: SRF
+  - Ungarn-Wahl 2026
+  - Asymmetrie in der Berichterstattung
+  - Wahlsystem und Zweidrittelmehrheit
+  - EU-Einfluss auf ungarische Politik
+  - Medienfreiheit und Säuberung
+kritisiertes_medium: SRF News
 kritisierter_beitrag: 'Zeitenwende in Ungarn: Viel Euphorie und grosse Hürden'
 kritisierter_autor: ''
 kritik_typ:
-  - Framing
-  - Selektion
   - Asymmetrie
+  - Selektion
+  - Framing
 personen:
   - Viktor Orban
-  - Magyar
   - Erzsebet Antal
+  - Magyar
   - Gabor Polyak
   - Ellen Bos
 institutionen:
   - SRF
   - EU
-  - Andrassy-Universität
-gesetze_vorlagen: []
+  - Ungarisches Parlament
+  - Andrassy-Universität Budapest
+  - Zentrum für Demokratieforschung
+  - Orban-Regierung
+  - Tisza-Lager
+gesetze_vorlagen:
+  - Mediengesetz Ungarn
 these: >-
-  Die Berichterstattung des SRF über die Abwahl von Viktor Orban in Ungarn ist
-  einseitig und parteiisch.
+  SRF feiert den Machtwechsel in Ungarn als 'Zeitenwende' und wendet dabei einen
+  doppelten Massstab an: Dieselben Methoden, die unter Orban als Demokratieabbau
+  kritisiert wurden, werden unter Magyar als 'Wiederherstellung der Demokratie'
+  gerahmt.
 zusammenfassung: >-
-  Der Artikel kritisiert die Berichterstattung des SRF über die Abwahl von
-  Viktor Orban in Ungarn als einseitig und parteiisch. Die Sieger werden visuell
-  und sprachlich gefeiert, während die Verlierer marginalisiert und
-  psychologisiert werden. Die Methoden der neuen Regierung werden als
-  'Wiederherstellung der Demokratie' gerahmt, obwohl sie identisch mit denen
-  Orbans sind, die zu Recht als 'Aushöhlung der Demokratie' kritisiert wurden.
+  Der 9min-Artikel kritisiert einen SRF-Beitrag zur ungarischen Parlamentswahl
+  2026 als einseitige Siegerfeier. SRF zeige nur die euphorischen Sieger,
+  marginalisiere die Orban-Wähler psychologisch, verschweige den tatsächlichen
+  Stimmenanteil von 44% für Magyar und den EU-Einfluss durch zurückgehaltene
+  Kohäsionsmittel. Zudem werde die identische Zweidrittelmehrheit, die unter
+  Orban als Aushöhlung der Demokratie kritisiert wurde, unter Magyar als
+  'Wiederherstellung der Gewaltenteilung' gefeiert.
 quelle_datum: '2026-05-27'
 quelle_format: Online-Artikel
 quelle_sendung: ''

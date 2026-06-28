@@ -6,58 +6,73 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHIkYpxWwAALV6w.jpg'
 tweetId: '2049740803455512852'
 categories:
-  - Medienrecht
+  - SRF/SRG
+  - Gesellschaft
   - EU/Aussenpolitik
 tags:
-  - USA
-  - Wahlen
-  - Rassismus
-  - Diskriminierung
-  - Bürgerrechte
-  - Medienkritik
+  - Supreme Court
+  - Wahlkreiseinteilung
+  - Voting Rights Act
+  - Framing
+  - Asymmetrie
+  - Korrespondentenbericht
+  - Tages-Anzeiger
+  - Charlotte Walser
 seo:
   description: >-
     Zum Tages-Anzeiger-Beitrag «Supreme Court schränkt Rassismus-Klausel für
     Wahlen ein» vom 18. April 2026 Ein Urteil des US-Supreme Court, 6 zu 3, zur…
 themen:
-  - US-Supreme Court
+  - US-Supreme Court Urteil
   - Wahlrechtsjurisprudenz
-  - Rassismus-Klausel
+  - Medien-Framing USA
+  - Auslandberichterstattung
 kritisiertes_medium: Tages-Anzeiger
 kritisierter_beitrag: Supreme Court schränkt Rassismus-Klausel für Wahlen ein
 kritisierter_autor: Charlotte Walser
 kritik_typ:
-  - Framing
-  - Auslassung
+  - Asymmetrie
   - Selektion
+  - Framing
 personen:
   - Charlotte Walser
-  - Donald Trump
-  - Barack Obama
+  - Samuel Alito
   - Elena Kagan
+  - Barack Obama
+  - Donald Trump
+  - Derrick Johnson
+  - Clarence Thomas
+  - Glenn Loury
+  - Thomas Sowell
+  - John McWhorter
   - Martin Luther King
+  - John Harlan
 institutionen:
-  - US-Supreme Court
   - Tages-Anzeiger
+  - US-Supreme Court
   - NAACP
+  - Demokratische Partei
+  - Republikanische Partei
 gesetze_vorlagen:
   - Voting Rights Act
+  - Section 2 Voting Rights Act
 these: >-
-  Der Tages-Anzeiger-Bericht über das US-Supreme-Court-Urteil zur
-  Rassismus-Klausel bei Wahlen ist einseitig und reproduziert das Framing der
-  unterlegenen Seite.
+  Der Tages-Anzeiger präsentiert eine einseitige Korrespondentenmeldung als
+  neutrale Berichterstattung, indem er das Framing der unterlegenen Seite
+  übernimmt und die juristische Argumentation der Mehrheitsmeinung sowie
+  konservative Gegenstimmen systematisch unterdrückt.
 zusammenfassung: >-
-  Der Artikel analysiert den Bericht des Tages-Anzeigers über das
-  US-Supreme-Court-Urteil zur Rassismus-Klausel bei Wahlen und kritisiert die
-  einseitige Darstellung. Der Bericht übernimmt das Framing der unterlegenen
-  Seite und reproduziert die Reaktionen von Barack Obama und anderen Demokraten,
-  während die Argumente der konservativen Seite nur marginal behandelt werden.
-  Die Analyse zeigt, dass der Bericht nicht neutral ist und die Leser nicht mit
-  einer ausgewogenen Darstellung des Themas versorgt.
+  Der 9min-Artikel analysiert einen Korrespondentenbeitrag von Charlotte Walser
+  im Tages-Anzeiger zu einem US-Supreme-Court-Urteil zur Wahlkreiseinteilung.
+  Die Kritik zeigt auf, dass die Mehrheitsmeinung des Gerichts nur knapp
+  referiert wird, während die Minderheitsmeinung narrativ ausgebaut wird,
+  konservative schwarze Intellektuelle fehlen und der Louisiana-Kontext
+  ausgeblendet bleibt. Der Beitrag werde als Nachricht formatiert, funktioniere
+  aber als Editorial der Demokratischen Partei.
 quelle_datum: '2026-04-18'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: Tages-Anzeiger
+quelle_redaktion: Ausland
 kritik_schwere: 3
 ---
 

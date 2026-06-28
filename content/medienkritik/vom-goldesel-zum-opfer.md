@@ -6,54 +6,65 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HGLxwpnXQAAFz5m.jpg'
 tweetId: '2045464036284694909'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Wirtschaft
   - Gesellschaft
 tags:
-  - SRF
-  - Impfstoffe
-  - Pharmaindustrie
+  - Covid-Impfung
+  - Pharma
   - Haftung
-  - Öffentliche Finanzen
-  - Kritik
-  - Medienkritik
+  - Steuergeld
+  - SRF
+  - Framing
+  - BAG
+  - Moderna
 seo:
   description: >-
     Zu zwei SRF-Beiträgen derselben Woche: «Impfstoffe: vom Goldesel zum
     Verlustgeschäft» (17.4.2026) und «1 Milliarde: Hat die Schweiz zu viel für…
 themen:
-  - Impfstoffe
-  - Pharmaindustrie
-  - Haftungsklauseln
-  - Öffentliche Finanzen
-kritisiertes_medium: SRF
+  - Covid-Impfstoffbeschaffung
+  - Haftungsfrage bei Impfstoffen
+  - SRF-Rahmenverschiebung
+  - Steuergeld-Fluss an Pharma
+  - Vertraulichkeit von Impfverträgen
+kritisiertes_medium: SRF News
 kritisierter_beitrag: 'Impfstoffe: vom Goldesel zum Verlustgeschäft'
-kritisierter_autor: ''
+kritisierter_autor: 'Irène Dietschi, Sven Zaugg'
 kritik_typ:
   - Framing
   - Auslassung
-  - Kontextmangel
+  - Behördenpropaganda
 personen:
+  - Irène Dietschi
+  - Sven Zaugg
   - Robert F. Kennedy Jr.
 institutionen:
   - SRF
-  - Bundesamt für Gesundheit (BAG)
+  - BAG
   - Swissmedic
-gesetze_vorlagen: []
+  - Moderna
+  - Biontech
+  - Lonza
+  - EU
+  - USA
+gesetze_vorlagen:
+  - Covid-Impfverträge
 these: >-
-  Der SRF-Beitrag 'Impfstoffe: vom Goldesel zum Verlustgeschäft' rehabilitiert
-  die Pharmaindustrie und verschweigt die Haftungsklauseln und öffentlichen
-  Finanzen
+  SRF betreibt eine nachträgliche Rahmenverschiebung, die Pharmafirmen
+  rehabilitiert, die staatliche Haftungsübernahme normalisiert und die doppelte
+  Belastung des Steuerzahlers unsichtbar macht.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag 'Impfstoffe: vom Goldesel zum
-  Verlustgeschäft' für die Rehabilitation der Pharmaindustrie und die Auslassung
-  von Haftungsklauseln und öffentlichen Finanzen. Der Beitrag stellt die Gewinne
-  der Pharmaindustrie als normal dar und verschweigt die Tatsache, dass der
-  Staat die Risiken trägt. Der Artikel fordert eine nüchterne Buchhaltung und
-  die Veröffentlichung von Verträgen und Haftungsklauseln.
+  Der Artikel analysiert zwei SRF-Beiträge derselben Woche und zeigt, wie durch
+  Framing und Auslassungen Pharmafirmen als Opfer eines Niedergangs dargestellt
+  werden, während die entscheidende Haftungsfrage — der Steuerzahler trägt das
+  Produktrisiko — ausgeblendet wird. Die Beiträge rehabilitieren die Hersteller,
+  normalisieren die Haftungsübernahme via BAG-Zitat und lenken auf RFK Jr. als
+  externen Schurken ab. Konkrete Zahlen zu Impfschadensfällen und
+  Nachverhandlungen fehlen vollständig.
 quelle_datum: '2026-04-17'
 quelle_format: Online-Artikel
-quelle_sendung: ''
+quelle_sendung: News Plus
 quelle_redaktion: SRF News
 kritik_schwere: 3
 ---

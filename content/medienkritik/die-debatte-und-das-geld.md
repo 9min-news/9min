@@ -6,30 +6,29 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIA27pEX0AAvbC1.jpg'
 tweetId: '2053702051431842092'
 categories:
+  - SRF/SRG
+  - SNB/Geldpolitik
   - Wirtschaft
-  - Medienrecht
-  - Gesellschaft
 tags:
-  - Schweizer Mittelstand
-  - Geldsorgen
-  - Wirtschaftspolitik
-  - Medienkritik
   - SNB
   - Goldverkauf
-  - Frankeninterventionen
   - Negativzinsen
+  - Frankenintervention
+  - Mittelstand
+  - Vermögensverteilung
+  - Wohnkosten
+  - Budgetberatung
 seo:
   description: >-
     Zum SRF-Beitrag «Schweizer Mittelstand mit Geldsorgen: Was können Betroffene
     tun?», 8. Mai 2026 Was berichtet wird SRF berichtet über die finanzielle
     Lage…
 themen:
-  - Schweizer Mittelstand
-  - Geldsorgen
-  - Wirtschaftspolitik
-  - Medienkritik
-  - SNB-Geldpolitik
-kritisiertes_medium: SRF
+  - Geldpolitik und Mittelstandsbelastung
+  - Vermögensumverteilung durch SNB-Massnahmen
+  - Wohnkosten- und Krankenkassenentwicklung
+  - Medien framing struktureller Ursachen
+kritisiertes_medium: SRF News
 kritisierter_beitrag: 'Schweizer Mittelstand mit Geldsorgen: Was können Betroffene tun?'
 kritisierter_autor: ''
 kritik_typ:
@@ -43,17 +42,23 @@ institutionen:
   - SNB
   - Bund
   - Kantone
+  - Swiss Prime Site
+  - PSP Swiss Property
+  - Pensionskassen
+  - Krankenkassen
 gesetze_vorlagen: []
 these: >-
-  Der SRF-Beitrag über die finanzielle Lage des Schweizer Mittelstands ist
-  kritikwürdig, da er die Ursachen der Geldsorgen nicht richtig thematisiert und
-  stattdessen auf individuelles Verhalten und Anpassung setzt.
+  SRF stellt die Mittelstandsbelastung als individuelles Budgetproblem dar und
+  blendet die monetären Entscheidungen der SNB der letzten 25 Jahre aus, die
+  massgeblich für die Vermögensumverteilung verantwortlich sind.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag über die finanzielle Lage des Schweizer
-  Mittelstands, da er die monetäre Politik der letzten 25 Jahre nicht
-  thematisiert und stattdessen auf individuelles Verhalten und Anpassung setzt.
-  Der Beitrag wird als Beispiel für eine unvollständige und irreführende
-  Berichterstattung angesehen.
+  Der 9min-Artikel kritisiert einen SRF-Beitrag zum Schweizer Mittelstand, weil
+  dieser strukturelle Ursachen der finanziellen Belastung vollständig
+  ausblendet. Insbesondere die SNB-Politik — Goldverkauf 2000–2005,
+  Frankeninterventionen ab 2011, Negativzinsen 2014–2022 — werde nicht erwähnt,
+  obwohl sie massgeblich Vermögen von Sparern zu Schuldnern und von Mietern zu
+  Eigentümern umverteilt habe. Statt Akteure und Profiteure zu benennen,
+  individualisiere SRF das Problem durch Ratschläge zur Lebensstandardanpassung.
 quelle_datum: '2026-05-08'
 quelle_format: Online-Artikel
 quelle_sendung: ''

@@ -6,52 +6,53 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HI0fSgdWwAA_0d3.jpg'
 tweetId: '2057335378021847311'
 categories:
+  - SRF/SRG
   - Klima/Energie
-  - Medienrecht
-  - Zensur/Meinungsfreiheit
+  - Demokratie
 tags:
-  - Klimaerwärmung
+  - Klimawandel
   - SRF
-  - Medienmanipulation
-  - Wissenschaft
-  - Politik
-  - Ideologie
+  - Framing
+  - Worst-Case-Szenario
+  - Narrativ
+  - Trump-Strohmann
+  - bewegliche Torpfosten
+  - Overshoot
 seo:
   description: >-
     Wie SRF eine gute Nachricht in eine schlechte verwandelt — und warum das
     Wegfallen des Katastrophenszenarios nicht nur gefeiert werden sollte,
     sondern die…
 themen:
-  - Klimawandel
-  - Medienkritik
-  - Wissenschaftskommunikation
-kritisiertes_medium: SRF
+  - Klimaberichterstattung
+  - Framing guter Nachrichten
+  - Wissenschaftsnarrativ und Ideologie
+  - Klimaszenarien und Modellierung
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Keine Entwarnung bezüglich Klimaerwärmung
 kritisierter_autor: Klaus Ammann
 kritik_typ:
   - Framing
   - Auslassung
-  - Interessenkonflikt
+  - Kontextmangel
 personen:
   - Klaus Ammann
-  - Trump
+  - Donald Trump
 institutionen:
   - SRF
-  - UN
-gesetze_vorlagen:
-  - Pariser Klimaabkommen
+  - Paris-Abkommen
+gesetze_vorlagen: []
 these: >-
-  Die Medienberichterstattung über den Klimawandel ist oft von Ideologie und
-  politischen Interessen geprägt, anstatt sich auf eine sachliche und
-  wissenschaftliche Darstellung zu konzentrieren.
+  SRF wandelt die gute Nachricht vom Wegfallen des Worst-Case-Klimaszenarios
+  durch Framing in eine Warnung um, um das Katastrophennarrativ
+  aufrechtzuerhalten und legitime kritische Fragen zu unterdrücken.
 zusammenfassung: >-
-  Der Artikel kritisiert die Medienberichterstattung über den Klimawandel,
-  insbesondere die Art und Weise, wie gute Nachrichten neutralisiert werden, um
-  die Katastrophenerzählung aufrechtzuerhalten. Der Autor argumentiert, dass die
-  Krise nicht nur eine Krise ist, sondern auch ein Argument für politische und
-  ideologische Zwecke. Die Frage, ob der Klimawandel primär natürlich oder
-  menschengemacht ist, wird nicht gestellt, da sie das Argument infrage stellen
-  würde.
+  Der Artikel kritisiert, dass SRF die unplausibel gewordene 4.8-Grad-Erwärmung
+  nicht als Fortschritt darstellt, sondern durch den Titel 'Keine Entwarnung'
+  als Bestätigung der Krise umdeutet. Es wird argumentiert, dass SRF natürliche
+  Klimavariabilität ausblendet, Trump als Strohmann einsetzt und die politische
+  Setzung der 1.5-Grad-Grenze nicht einordnet. Die Kritik sieht darin die
+  Verwaltung eines politischen Arguments statt Wissenschaftsjournalismus.
 quelle_datum: '2026-05-20'
 quelle_format: Online-Artikel
 quelle_sendung: ''

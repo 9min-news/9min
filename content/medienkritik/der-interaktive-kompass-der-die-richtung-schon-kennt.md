@@ -6,52 +6,61 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJjN7wiWsAQvC0d.jpg'
 tweetId: '2060623318240141646'
 categories:
-  - Medienrecht
-  - Demokratie
-  - Zensur/Meinungsfreiheit
+  - SRF/SRG
+  - Abstimmungen
+  - Migration
 tags:
-  - Abstimmung
-  - Kompass
-  - SRF
+  - Abstimmungskompass
+  - Framing
+  - Asymmetrie
+  - Abstimmungsbüchlein
+  - 10-Millionen-Initiative
+  - Zivildienst
+  - Service public
   - Meinungsbildung
-  - Demokratie
-  - Medienkritik
-  - Propaganda
 seo:
   description: >-
     SRF lanciert einen «Abstimmungskompass». Man bewertet Argumente. Man findet
     heraus, «wo man steht». Das klingt nach Aufklärung. Nach Hilfe für…
 themen:
   - Abstimmungskompass
-  - SRF
+  - Argumentationsasymmetrie
   - Meinungsbildung
-  - Demokratische Aufklärung
-kritisiertes_medium: SRF
+  - Migrationspolitik
+  - Zivildienst
+kritisiertes_medium: SRF News
 kritisierter_beitrag: 'Interaktiver Abstimmungskompass: Welche Argumente überzeugen Sie?'
 kritisierter_autor: ''
 kritik_typ:
   - Framing
-  - Selektion
-  - Kontextmangel
+  - Asymmetrie
+  - Auslassung
 personen: []
 institutionen:
   - SRF
   - Bundesrat
+  - BFS
+  - Parlament
+  - EU
+  - SVP
 gesetze_vorlagen:
   - Keine 10-Millionen-Schweiz-Initiative
+  - Zivildienstgesetz
   - Ausschaffungsinitiative
   - Masseneinwanderungsinitiative
 these: >-
-  Der interaktive Abstimmungskompass von SRF ist nicht neutral und dient der
-  Meinungsbildung, indem er Argumente asymmetrisch präsentiert und den
-  offiziellen Diskurs ungeprüft reproduziert.
+  SRFs Abstimmungskompass präsentiert Argumente asymmetrisch und reproduziert
+  unkritisch den offiziellen Diskurs, was ihn zum Instrument der Meinungsbildung
+  statt der Aufklärung macht.
 zusammenfassung: >-
-  Der Artikel kritisiert den interaktiven Abstimmungskompass von SRF, der
-  Argumente zu verschiedenen Abstimmungsvorlagen präsentiert. Der Kompass wird
-  als nicht neutral und als Instrument der Meinungsbildung bezeichnet, da er
-  Argumente asymmetrisch präsentiert und den offiziellen Diskurs ungeprüft
-  reproduziert. Der Artikel argumentiert, dass dies nicht demokratische
-  Aufklärung, sondern demokratische Infantilisierung ist.
+  Der Artikel kritisiert SRFs interaktiven Abstimmungskompass als nicht-neutral,
+  da Pro-Argumente emotional als Klagen und Sorgen, Contra-Argumente hingegen
+  rational als Risiken und Folgen gerahmt würden. Zudem fehle historischer
+  Kontext wie die Fehlprognose von 2002 (8'000 statt 70'000 Zuwanderer) und die
+  Verwässerung früherer Volksentscheide (Ausschaffungsinitiative 2010,
+  Masseneinwanderungsinitiative 2014). Die Quellenbasis aus Abstimmungsbüchlein
+  und Kampagnen-Webseiten werde ungeprüft übernommen, was Behördenpropaganda
+  statt Journalismus darstelle.
 quelle_datum: '2026-05-30'
 quelle_format: Online-Artikel
 quelle_sendung: ''

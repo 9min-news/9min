@@ -6,60 +6,71 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHnr6YgXAAM0qWd.jpg'
 tweetId: '2051930641361424842'
 categories:
+  - SRF/SRG
   - EU/Aussenpolitik
-  - Medienrecht
-  - Zensur/Meinungsfreiheit
-tags:
-  - SRF
-  - Echo der Zeit
-  - Rumänien
-  - EU
-  - Reformen
   - Demokratie
-  - Medienkritik
+tags:
+  - Rumänien
+  - Echo der Zeit
+  - Judith Huber
+  - EU-Framing
+  - Osteuropa
+  - Annullierte Wahl
+  - Privatisierung
+  - Sprachregelung
 seo:
   description: >-
     Zur SRF-Berichterstattung «Was kommt nach dem Sturz der Regierung in
     Rumänien?», Echo der Zeit, 5. Mai 2026 Die Lage Die rumänische Regierung
     unter Ilie…
 themen:
-  - Rumänien
-  - EU-Politik
-  - Medienberichterstattung
-  - Demokratie
-kritisiertes_medium: SRF
+  - Rumänien Regierungskrise
+  - EU-konforme Sprachregelung
+  - Osteuropa-Berichterstattung
+  - Annullierte Wahl 2024
+  - Privatisierungskontext
+kritisiertes_medium: SRF Echo der Zeit
 kritisierter_beitrag: Was kommt nach dem Sturz der Regierung in Rumänien?
 kritisierter_autor: Judith Huber
 kritik_typ:
-  - Framing
   - Auslassung
-  - Selektion
+  - Framing
+  - Asymmetrie
 personen:
   - Ilie Bolojan
   - Călin Georgescu
   - George Simion
   - Nicușor Dan
   - Judith Huber
+  - J.D. Vance
+  - Thierry Breton
 institutionen:
   - SRF
-  - EU
-  - Regierung Rumänien
+  - Echo der Zeit
+  - AUR
+  - PSD
+  - PNL
+  - EU-Kommission
+  - Verfassungsgericht Rumänien
+  - FSN
 gesetze_vorlagen: []
 these: >-
-  Die SRF-Berichterstattung über Rumänien ist einseitig und EU-konform, wobei
-  die Akteure moralisch sortiert werden, ohne die zentrale Vorgeschichte zu
-  erwähnen.
+  Die SRF-Berichterstattung zu Rumänien folgt einer EU-konformen Sprachregelung,
+  die pro-europäische Akteure moralisch aufwertet, die Opposition stigmatisiert
+  und die zentrale Vorgeschichte der annullierten Präsidentschaftswahl 2024
+  systematisch ausblendet.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRF-Berichterstattung über die politische Situation
-  in Rumänien als einseitig und EU-konform. Die Akteure werden moralisch
-  sortiert, ohne die zentrale Vorgeschichte, wie die annullierte
-  Präsidentschaftswahl 2024, zu erwähnen. Die Berichterstattung wird als
-  Sprachregelung mit Sendungsstempel bezeichnet, die systematisch nur eine Seite
-  der Realität sichtbar macht.
+  Der Artikel kritisiert, dass Judith Hubers Echo-der-Zeit-Beitrag zur
+  rumänischen Regierungskrise die Akteure mit asymmetrischen Etiketten versieht
+  (pro-europäisch vs. anti-westlich), die Reformen ohne inhaltliche Beschreibung
+  darstellt und die annullierte Präsidentschaftswahl 2024 samt Ausschluss
+  Georgescus vollständig verschweigt. Dies wird als Teil einer wiederkehrenden
+  SRF-Schablone für Osteuropa-Berichterstattung eingeordnet, die EU-Konformität
+  als demokratischen Massstab behandelt.
 quelle_datum: '2026-05-05'
 quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
-quelle_redaktion: SRF
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

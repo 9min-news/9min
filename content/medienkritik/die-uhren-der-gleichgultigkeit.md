@@ -6,55 +6,68 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIeA8L4XcAExwwj.jpg'
 tweetId: '2055753763692900686'
 categories:
-  - Medienrecht
-  - Gesellschaft
+  - SRF/SRG
+  - Migration
   - Demokratie
 tags:
   - SRF
-  - Medien
-  - Proteste
-  - London
-  - Gleichgültigkeit
+  - Tagesschau
+  - Asymmetrie
   - Etikettierung
-  - Rechtsextremismus
-  - Demokratie
+  - Rechtsextrem
+  - Aktivisten
+  - Vermeintlich
+  - London-Proteste
 seo:
   description: >-
     Was SRF zeigt, wenn es schweigt — und wie es spricht, wenn es nicht mehr
     schweigen kann Zum SRF-Beitrag «Neue Swatch-Uhr: Fans stehen teils 24
     Stunden…
 themen:
-  - Medienkritik
-  - Berichterstattung
-  - Politische Proteste
-kritisiertes_medium: SRF
-kritisierter_beitrag: 'Neue Swatch-Uhr: Fans stehen teils 24 Stunden Schlange'
+  - Asymmetrische Etikettierung bei SRF
+  - Londoner Proteste vom Mai 2026
+  - Schweigung als journalistische Entscheidung
+  - Verbindung London-Schweizer Migrationspolitik
+  - Konsumberichterstattung vs. Politikberichterstattung
+kritisiertes_medium: SRF Tagesschau
+kritisierter_beitrag: >-
+  Neue Swatch-Uhr: Fans stehen teils 24 Stunden Schlange; Tagesschau-Beitrag
+  über Londoner Proteste
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
+  - Asymmetrie
   - Framing
 personen:
   - Tommy Robinson
+  - Keir Starmer
+  - Guy Parmelin
 institutionen:
   - SRF
-  - Audemars Piguet
   - Swatch
+  - Audemars Piguet
+  - Metropolitan Police
+  - Regierung Starmer
 gesetze_vorlagen:
-  - Masseneinwanderungsinitiative
   - 10-Millionen-Initiative
+  - Masseneinwanderungsinitiative
+  - Personenfreizügigkeit
 these: >-
-  Die SRF-Berichterstattung über die Proteste in London ist unvollständig und
-  einseitig, da sie die Sorgen und Anliegen der Demonstranten nicht ernst nimmt
-  und stattdessen mit Etiketten wie'rechtsextrem' abtut.
+  SRF berichtet ausführlich über eine Uhren-Verkaufsschlange, verschweigt aber
+  massive Londoner Proteste online und etikettiert sie in der Tagesschau
+  asymmetrisch als «rechtsextrem» versus «Aktivisten», was den demokratischen
+  Diskurs verzerrt.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRF-Berichterstattung über die Proteste in London
-  und die Präsentation der Demonstranten als'rechtsextrem'. Der Autor
-  argumentiert, dass die SRF-Berichterstattung unvollständig und einseitig ist
-  und die Sorgen und Anliegen der Demonstranten nicht ernst nimmt. Stattdessen
-  wird die Berichterstattung über eine neue Swatch-Uhr als Beispiel für die
-  Gleichgültigkeit der Medien gegenüber wichtigen politischen Themen angeführt.
+  Der Artikel kritisiert, dass SRF am 16. Mai 2026 ausführlich über den
+  Swatch-Verkaufsstart berichtete, aber online über zeitgleiche massive Londoner
+  Proteste mit 80'000 Teilnehmenden schwieg. In der Tagesschau seien die
+  Proteste asymmetrisch etikettiert worden: Die eine Seite als «Rechtsextreme»
+  mit «vermeintlicher» Sorge, die andere als legitime «Aktivisten», ohne
+  Antisemitismus in der propalästinensischen Bewegung zu erwähnen. Der Autor
+  sieht darin eine systematische Entpolitisierung und eine verpasste Verbindung
+  zur Schweizer Migrationspolitik.
 quelle_datum: '2026-05-16'
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: Tagesschau
 quelle_redaktion: SRF News
 kritik_schwere: 3

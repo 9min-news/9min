@@ -6,28 +6,30 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJ31702WkAAz0sS.jpg'
 tweetId: '2062075397773078690'
 categories:
+  - SRF/SRG
   - Gesellschaft
+  - Demokratie
 tags:
-  - SRF
   - AfD
-  - Wähler
-  - Politik
-  - Medien
-  - Analyse
-  - Kritik
-  - Rechtspopulismus
+  - Empathie
+  - Ressentiment
+  - Wählerfang
+  - Verfassungsschutz
+  - Selektion
+  - Pathologisierung
+  - Wortwahl
 seo:
   description: >-
     Dieser SRF-Beitrag von Alexandra Gubser will erklären, warum die AfD in
     Deutschland im Umfragehoch verharrt. Das ist ein legitimes und wichtiges
     Thema.…
 themen:
-  - AfD
-  - Wählerverhalten
-  - Medienanalyse
-  - Politische Berichterstattung
-  - Rechtspopulismus
-kritisiertes_medium: SRF
+  - AfD-Wahlerfolg
+  - Medienframing
+  - Wählerwahrnehmung
+  - politische Berichterstattung
+  - Deutschland-Politik
+kritisiertes_medium: SRF News
 kritisierter_beitrag: AfD geht mit Empathie auf Wählerfang
 kritisierter_autor: Alexandra Gubser
 kritik_typ:
@@ -36,8 +38,8 @@ kritik_typ:
   - Kontextmangel
 personen:
   - Alexandra Gubser
-  - Werner Krause
   - Ulrich Siegmund
+  - Werner Krause
 institutionen:
   - SRF
   - AfD
@@ -46,20 +48,22 @@ institutionen:
   - Verfassungsschutz
 gesetze_vorlagen: []
 these: >-
-  Der SRF-Beitrag über die AfD verfehlt eine neutrale Analyse und tendiert zu
-  einer wertenden Berichterstattung, die die Wähler der AfD als
-  ressentimentgeleitet und die Partei als manipulativ darstellt.
+  Der SRF-Beitrag erklärt das AfD-Umfragehoch nicht analytisch, sondern
+  pathologisiert die Wähler durch Framing und selektive Darstellung als
+  ressentimentgeleitete Manipulierte.
 zusammenfassung: >-
-  Der Beitrag analysiert die Gründe für die Popularität der AfD in Deutschland,
-  aber die Erklärung wird oft durch wertende Formulierungen und eine selektive
-  Darstellung des Wahlprogramms der AfD beeinflusst. Der Text tendiert dazu, die
-  Wähler der AfD als ressentimentgeleitet und die Partei als manipulativ
-  darzustellen, anstatt eine neutrale Analyse zu liefern.
+  Der 9min-Artikel analysiert einen SRF-Beitrag von Alexandra Gubser über die
+  AfD-Wähler in Deutschland. Er lobt die faktenreiche Berichterstattung und die
+  Diagnose, dass die Rechts-Überholen-Strategie der CDU/CSU scheitert,
+  kritisiert aber die durchgängige Wortwahl, die Wähler als manipulierbar und
+  faktenresistent darstellt. Besonders der Begriff «Ressentiment» und die
+  selektive Programmdarstellung werden als Pathologisierung statt Analyse
+  identifiziert.
 quelle_datum: '2026-06-03'
 quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
-kritik_schwere: 2
+kritik_schwere: 3
 ---
 
 *Dieser SRF-Beitrag von Alexandra Gubser will erklären, warum die AfD in Deutschland im Umfragehoch verharrt. Das ist ein legitimes und wichtiges Thema. Doch die Erklärung eines politischen Phänomens ist journalistisch eine Gratwanderung: Sie kann analysieren, warum Menschen eine Partei wählen — oder sie kann unter dem Deckmantel der Analyse erklären, warum diese Wähler sich irren. Der Beitrag wählt streckenweise das Zweite. Sehen wir genau hin, denn hier verschwimmt die Grenze zwischen Befund und Urteil so durchgängig, dass sie kaum mehr zu erkennen ist.*

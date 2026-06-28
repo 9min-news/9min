@@ -7,54 +7,58 @@ coverImage: 'https://pbs.twimg.com/media/HKTUPYiXAAAoF3e.jpg'
 tweetId: '2064007910384963621'
 categories:
   - Migration
-  - Medienrecht
-  - Zensur/Meinungsfreiheit
+  - SRF/SRG
 tags:
   - SRF
-  - Asylpolitik
+  - Rendez-vous
   - Griechenland
-  - Minderjährige
-  - Flüchtlingscamps
-  - Abschiebepläne
-  - Kindesschutz
-  - Migrationskontrolle
+  - Plevris
+  - UNHCR
+  - Tsovili
+  - Zitatkachel
+  - Replik-Dramaturgie
 seo:
   description: >-
     Dieser SRF-Beitrag behandelt eine Wende in der griechischen Asylpolitik: Die
     Regierung will unbegleitete minderjährige Asylbewerber künftig nicht mehr
     in…
 themen:
-  - Asylpolitik
-  - Griechenland
-  - Minderjährige Asylbewerber
-  - Medienkritik
-kritisiertes_medium: SRF
+  - Griechische Asylpolitik
+  - Unbegleitete minderjährige Asylbewerber
+  - Kindesschutz vs. Migrationskontrolle
+  - Medien-Framing durch Anordnung
+  - UNHCR-Position
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Weniger städtische Unterkünfte für minderjährige Asylbewerber
 kritisierter_autor: ''
 kritik_typ:
   - Framing
-  - Selektion
-  - Kontextmangel
+  - Auslassung
+  - Asymmetrie
 personen:
   - Plevris
   - Tsovili
 institutionen:
   - SRF
   - UNHCR
+  - Athens Solidarity Center
+  - EU
   - Griechische Regierung
-gesetze_vorlagen:
-  - Internationale Standards zum Kindesschutz
+gesetze_vorlagen: []
 these: >-
-  Der SRF-Beitrag über die griechische Asylpolitik lässt beide Seiten
-  ausführlich zu Wort kommen, aber die Anordnung und die Gewichtung der
-  Argumente sind nicht ausgewogen.
+  Der SRF-Beitrag nutzt trotz scheinbarer Ausgewogenheit subtile
+  Framing-Mechanismen — Anordnung, Zitatkachel, Übernahme kritischer Deutungen
+  in die redaktionelle Stimme —, die die Regierungsposition moralisch abwerten
+  und wesentliche Kontextinformationen zur Altersfeststellung auslassen.
 zusammenfassung: >-
-  Der Beitrag behandelt die geplante Änderung in der griechischen Asylpolitik,
-  bei der unbegleitete minderjährige Asylbewerber in Flüchtlingscamps
-  untergebracht werden sollen. Der Beitrag lässt sowohl die Regierungsseite als
-  auch die Kritiker zu Wort kommen, aber die Anordnung und die Gewichtung der
-  Argumente sind nicht ausgewogen. Die Kritik wird stärker hervorgehoben und die
-  Regierungsposition wird nicht ausreichend sachlich untermauert.
+  Der 9min-Artikel analysiert einen SRF-Rendez-vous-Beitrag zur griechischen
+  Asylpolitik für unbegleitete Minderjährige. Er lobt, dass beide Seiten
+  ausführlich zu Wort kommen, kritisiert aber die Replik-Dramaturgie, die
+  einseitige Zitatkachel, die Übernahme der Kritiker-Deutung «gute und böse
+  Kinder» in die redaktionelle Stimme sowie die Auslassung des
+  Altersfestellungsproblems. Zudem wird bemängelt, dass Tsovilis weitreichende
+  Position nicht hinterfragt wird, während nur die Regierung kritisch befragt
+  wird.
 quelle_datum: '2026-06-08'
 quelle_format: Online-Artikel
 quelle_sendung: Rendez-vous

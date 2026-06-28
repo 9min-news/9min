@@ -6,52 +6,60 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HI1bAMEW0AEDsIR.jpg'
 tweetId: '2057400740889477480'
 categories:
-  - Medienrecht
-  - Zensur/Meinungsfreiheit
+  - SRF/SRG
   - Gesellschaft
+  - Demokratie
 tags:
   - digitale Gewalt
-  - therapeutischer Staat
-  - mündige Selbstermächtigung
-  - Medienkritik
-  - Politische Agenda
-  - Unicef
+  - Begriffsbildung
   - HateAid
-  - SRF
+  - Unicef
+  - Opfernarrativ
+  - therapeutischer Staat
+  - Selbstermächtigung
+  - SRF-Kritik
 seo:
   description: >-
     Wie ein politisch konstruierter Begriff den Bürger zum Patienten macht und
     den Staat zum Therapeuten – und was die alternative Prämisse der mündigen…
 themen:
-  - Digitale Gewalt
-  - Therapeutischer Staat
-  - Mündige Selbstermächtigung
-  - Medienkritik
-  - Politische Agenda
+  - Begriffsbildung digitale Gewalt
+  - Interessenkonflikte zitiierter Organisationen
+  - Opfernarrativ vs. mündiger Bürger
+  - therapeutischer Staat
+  - SRF-Berichterstattung über Online-Belästigung
 kritisiertes_medium: SRF
 kritisierter_beitrag: ''
 kritisierter_autor: ''
 kritik_typ:
+  - Behördenpropaganda
+  - Auslassung
   - Framing
-  - Fehlinformation
-  - Selektion
-personen: []
+personen:
+  - Trump
 institutionen:
   - SRF
   - Unicef
   - HateAid
+  - Netzcourage
+  - Polizei
+  - Justiz
 gesetze_vorlagen: []
 these: >-
-  Der Begriff 'digitale Gewalt' ist ein politisch konstruierter Begriff, der den
-  Bürger zum Patienten macht und den Staat zum Therapeuten.
+  SRF reproduziert unkritisch den politisch konstruierten Begriff «digitale
+  Gewalt» und damit eine therapeutische Staatslogik, die den Bürger zum
+  Patienten macht und staatliche Zuständigkeiten legitimiert, statt die
+  Alternative mündiger Selbstermächtigung zu diskutieren.
 zusammenfassung: >-
-  Der Artikel kritisiert die Verwendung des Begriffs 'digitale Gewalt' durch den
-  Sender SRF und argumentiert, dass dieser Begriff den Bürger zum Patienten
-  macht und den Staat zum Therapeuten. Der Artikel plädiert für eine alternative
-  Prämisse, die mündige Selbstermächtigung, und argumentiert, dass die
-  therapeutische Prämisse den Staat überflüssig macht.
+  Der Artikel kritisiert SRF für die unkritische Übernahme des Begriffs
+  «digitale Gewalt», den er als politisches Konstrukt von
+  Interessenorganisationen wie Unicef und HateAid betrachtet, deren
+  Eigeninteressen an Problemausweitung verschwiegen würden. Er argumentiert,
+  dass der Begriff den Gewaltbegriff entwerte, den Bürger zum Patienten und den
+  Staat zum Therapeuten mache, und stellt dem die alternative Prämisse mündiger
+  Selbstermächtigung gegenüber, die im Diskurs nicht vorkomme.
 quelle_datum: ''
-quelle_format: ''
+quelle_format: Broadcast
 quelle_sendung: ''
 quelle_redaktion: ''
 kritik_schwere: 3

@@ -6,55 +6,58 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJOrMvGXAAAbV1j.jpg'
 tweetId: '2059177714779672898'
 categories:
-  - EU/Aussenpolitik
   - Sicherheitspolitik
-  - Zensur/Meinungsfreiheit
+  - EU/Aussenpolitik
+  - Wirtschaft
 tags:
-  - Schweiz
-  - Deutschland
-  - Österreich
-  - Luxemburg
-  - ESA
-  - NATO
-  - Ukraine
+  - Weltraum
   - Souveränität
+  - Neutralität
+  - ESA
+  - Monnerat
+  - NATO-Kooperation
+  - 850 Millionen
+  - Interessenkonflikt
 seo:
   description: >-
     Die Schweiz will «souveräne Fähigkeiten im Weltraum». Dafür arbeitet sie mit
     Deutschland, Österreich und Luxemburg zusammen. Und nutzt die ESA, eine…
 themen:
-  - Souveränität
-  - Weltraum
-  - Militärische Kooperation
-  - Neutralität
-kritisiertes_medium: SRF
+  - Schweizer Weltraumpolitik
+  - Neutralität und militärische Kooperation
+  - ESA-Militarisierung
+  - Rüstungsausgaben ohne Kontext
+  - Interessenkonflikt in der Expertenquelle
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Was will die Schweizer Armee im Weltraum?
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
-  - Framing
-  - Kontextmangel
+  - Behördenpropaganda
+  - Interessenkonflikt
 personen:
   - Ludovic Monnerat
 institutionen:
   - SRF
   - ESA
+  - Kompetenzzentrum Weltraum
   - NATO
+  - Bundesrat
   - Schweizer Armee
-gesetze_vorlagen:
-  - Gründungsvertrag der ESA
+gesetze_vorlagen: []
 these: >-
-  Die Schweiz will souveräne Fähigkeiten im Weltraum, aber die Kooperation mit
-  NATO-Staaten und die Nutzung einer zivilen Organisation für militärische
-  Zwecke wirft Fragen über die Neutralität und Souveränität auf.
+  SRF gibt einen interessengeleiteten Experten unkritisch wieder und verschweigt
+  zentrale Aspekte wie Neutralität, Rechtsfragen zur ESA-Militarisierung und
+  Kostenkontext.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Artikel über die Schweizer Armee im Weltraum,
-  da er wichtige Fragen nicht stellt und die Neutralität nicht erwähnt. Die
-  Schweiz will souveräne Fähigkeiten im Weltraum, aber die Kooperation mit
-  NATO-Staaten und die Nutzung einer zivilen Organisation für militärische
-  Zwecke wirft Fragen über die Neutralität und Souveränität auf. Der Experte,
-  der das erklärt, profitiert von den 850 Millionen Franken, die für das Projekt
-  vorgesehen sind.
+  9min.ch kritisiert einen SRF-Artikel über die Schweizer Weltraumpolitik, der
+  Ludovic Monnerat als Experten zitiert, ohne dessen institutionelles Interesse
+  an den 850 Millionen Franken zu thematisieren. Der Artikel moniert, dass SRF
+  weder die Neutralität noch den Widerspruch zwischen Souveränität und
+  NATO-Kooperation thematisiert, die zivile ESA-Militarisierung nicht rechtlich
+  hinterfragt und die Kosten ohne Vergleich oder Alternative darstellt. Der
+  Ukraine-Verweis wird als argumentativer Selbstwiderspruch entlarvt, da er
+  Abhängigkeit von Verbündeten beweise, die die Schweiz gerade nicht hat.
 quelle_datum: '2026-05-25'
 quelle_format: Online-Artikel
 quelle_sendung: ''

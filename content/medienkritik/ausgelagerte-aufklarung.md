@@ -6,55 +6,70 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHu56ElXwAI4Cj0.jpg'
 tweetId: '2052438484640514130'
 categories:
-  - Medienrecht
+  - SRF/SRG
+  - Abstimmungen
   - Demokratie
-  - Wirtschaft
 tags:
-  - SRF
   - WAV-Recherchekollektiv
-  - Datenanalyse
-  - Medienkritik
-  - Journalismus
-  - Abstimmungskampagnen
-  - Transparenz
+  - SRF Data
+  - Methodenbox
+  - Offenlegungspflicht
+  - Zivilgesellschaft
+  - Interessenkonflikt
+  - Asymmetrie
+  - öffentlicher Dienst
 seo:
   description: >-
     Teil 2: Zur SRF-Berichterstattung «So viel Geld fliesst in die
     Abstimmungskampagnen», 7. Mai 2026  @9min_news  Teil I: «Zahlen ohne Frage»
     Die…
 themen:
-  - Medienkritik
+  - Kampagnenfinanzierung
   - Datenjournalismus
-  - Abstimmungskampagnen
-kritisiertes_medium: SRF
+  - Medienunabhängigkeit
+  - Outsourcing von Recherchen
+  - Transparenz
+kritisiertes_medium: SRF News
 kritisierter_beitrag: So viel Geld fliesst in die Abstimmungskampagnen
 kritisierter_autor: ''
 kritik_typ:
+  - Interessenkonflikt
   - Auslassung
   - Framing
-  - Kontextmangel
-personen: []
+personen:
+  - Philippe Gaydoul
 institutionen:
   - SRF
+  - SRG
   - WAV-Recherchekollektiv
   - Economiesuisse
+  - SVP
+  - SP
   - Unia
-gesetze_vorlagen: []
+  - Stiftung für bürgerliche Politik
+  - Republik
+  - Watson
+gesetze_vorlagen:
+  - Offenlegungspflicht Kampagnenfinanzierung
 these: >-
-  Die SRF-Berichterstattung über die Abstimmungskampagnenfinanzierung ist nicht
-  neutral, sondern übernimmt die Datenarchitektur des WAV-Recherchekollektivs,
-  das eine politische Mission verfolgt.
+  SRF übernimmt für eine zentrale Abstimmung die gesamte Datenarchitektur eines
+  politisch profilierten Recherchekollektivs, ohne dessen ideologische
+  Ausrichtung zu thematisieren, und gibt so eine parteiliche Aufbereitung als
+  neutralen Datenjournalismus aus.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRF-Berichterstattung über die
-  Abstimmungskampagnenfinanzierung, da sie die Datenarchitektur des
-  WAV-Recherchekollektivs übernimmt, ohne dessen politische Mission zu
-  thematisieren. Dies führt zu einer ungenauen und nicht neutralen Darstellung
-  der Fakten. Der Artikel fordert eine kritische Berichterstattung, die die
-  Asymmetrie in der Darstellung von Wirtschafts- und Linksparteien thematisiert.
+  Der Artikel kritisiert, dass SRF für die Berichterstattung über die teuerste
+  Abstimmung seit Einführung der Offenlegungspflicht die Datenanalyse des
+  zwölfköpfigen WAV-Recherchekollektivs übernimmt, das sich explizit als Partner
+  der Zivilgesellschaft positioniert. Diese Konstellation werde in der
+  Methodenbox erwähnt, aber in ihren Konsequenzen verschwiegen: Die Auswahl,
+  Kategorisierung und Visualisierung der Daten trage eine ideologische Färbung,
+  die als neutrale SRF-Eigenproduktion erscheint. Die Kritik richtet sich gegen
+  eine strukturelle Outsourcing-Praxis, bei der öffentlich-rechtliche Recherche
+  durch ideologisch profilierte externe Lieferanten ersetzt wird.
 quelle_datum: '2026-05-07'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: 9min.ch
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

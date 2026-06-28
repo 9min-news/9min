@@ -6,50 +6,60 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HInTlzCXoAAQpVk.jpg'
 tweetId: '2056410878396813379'
 categories:
-  - Medienrecht
-  - Zensur/Meinungsfreiheit
+  - SRF/SRG
   - EU/Aussenpolitik
+  - Sicherheitspolitik
 tags:
-  - SRF
-  - Medienmanipulation
-  - Wunschdenken
-  - Kriegsberichterstattung
-  - Russland
-  - Ukraine
+  - Exit-Strategie
+  - Projektion
+  - Leck
+  - Präsidialverwaltung
+  - Grammatik der Hoffnung
   - Putin
-  - Elite
+  - Kriegsende
+  - Wunschdenken
 seo:
   description: >-
     Wie SRF ein Leck als Wende deutet — und dabei beweist, dass nicht Russland,
     sondern die westlichen Medien eine Exit-Strategie suchen Zum SRF-Beitrag…
 themen:
-  - Medienkritik
-  - Kriegsberichterstattung
-  - Russland-Ukraine-Konflikt
-kritisiertes_medium: SRF
+  - Russland-Ukraine-Krieg
+  - Medienberichterstattung über Russland
+  - Leck-Deutung und Kriegsende-Narrativ
+  - Wunschdenken in der Kriegsberichterstattung
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Bereitet sich Russland auf ein Ende des Krieges vor?
 kritisierter_autor: ''
 kritik_typ:
   - Framing
-  - Fehlinformation
-  - Selektion
+  - Einordnungsfehler
+  - Auslassung
 personen:
   - Putin
+  - Prigoschin
 institutionen:
   - SRF
-  - Präsidialverwaltung
+  - russische Präsidialverwaltung
+  - NATO
+  - USA
+  - ICC
+  - Ukraine
 gesetze_vorlagen: []
 these: >-
-  Die westlichen Medien suchen eine Exit-Strategie aus der Geschichte des
-  Ukraine-Krieges, indem sie ein Leck aus der russischen Präsidialverwaltung als
-  Zeichen für ein mögliches Kriegsende deuten.
+  SRF deutet einen internen Kommunikationsplan der russischen
+  Präsidialverwaltung als Exit-Strategie und Kriegsende-Signal, obwohl der
+  Bericht ohne Putins Wissen erstellt wurde und lediglich eine Vorsorge für
+  einen Teilsieg darstellt — womit westliche Medien ihre eigene Suche nach einem
+  Ausweg aus der Kriegserzählung offenbaren.
 zusammenfassung: >-
-  Der Artikel kritisiert die Berichterstattung des SRF über den Ukraine-Krieg
-  und argumentiert, dass die westlichen Medien eine Exit-Strategie aus der
-  Geschichte suchen, indem sie ein Leck aus der russischen Präsidialverwaltung
-  als Zeichen für ein mögliches Kriegsende deuten. Der Artikel behauptet, dass
-  dies eine Projektion eigenen Wunschdenkens auf eine Realität ist, die sich
-  nicht danach richtet.
+  Der Artikel kritisiert einen SRF-Beitrag vom 18. Mai 2026, der ein geleaktes
+  Dokument aus der russischen Präsidialverwaltung als Indiz für ein mögliches
+  Kriegsende deutet. 9min.ch argumentiert, dass der Bericht lediglich eine
+  Kommunikationsstrategie für den Fall eines Teilsiegs beschreibt, ohne Putins
+  Wissen erstellt wurde und von einer Elite stammt, die politisch nicht
+  entscheidet. SRF ignoriere alternative Deutungen wie Machtkampf oder
+  Desinformation und setze eine seit 2022 wiederkehrende Geschichte falscher
+  Hoffnungen fort.
 quelle_datum: '2026-05-18'
 quelle_format: Online-Artikel
 quelle_sendung: ''

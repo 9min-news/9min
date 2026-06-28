@@ -6,51 +6,63 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHu5AR8XsAIGo8p.jpg'
 tweetId: '2052437600355405936'
 categories:
+  - SRF/SRG
   - Abstimmungen
-  - Medienrecht
-  - Wirtschaft
-tags:
-  - SRF
-  - Abstimmung
-  - Kampagnenfinanzierung
-  - Medienkritik
   - Demokratie
-  - Wirtschaftsverbände
+tags:
+  - SRF Data
+  - Nachhaltigkeitsinitiative
+  - Economiesuisse
+  - Kleinspenden
+  - Transparenz
+  - Asymmetrie
+  - Datenneutralität
+  - Sprachliche Asymmetrie
 seo:
   description: >-
     Zur SRF-Berichterstattung «So viel Geld fliesst in die
     Abstimmungskampagnen», 7. Mai 2026 Was berichtet wird SRF Data legt am 7.
     Mai 2026 die…
 themen:
-  - Abstimmungskampagnen
   - Kampagnenfinanzierung
-  - Medienberichterstattung
+  - Abstimmungsberichterstattung
+  - Offenlegungspflicht
+  - Direkte Demokratie
+  - Interessenlagen
 kritisiertes_medium: SRF
 kritisierter_beitrag: So viel Geld fliesst in die Abstimmungskampagnen
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
-  - Framing
   - Kontextmangel
+  - Framing
 personen: []
 institutionen:
   - SRF
-  - Economiesuisse
+  - SRF Data
   - SVP
+  - SVP Zürich
+  - Stiftung für bürgerliche Politik
+  - Economiesuisse
+  - SP
+  - Gewerkschaften
+  - Wirtschaftsverbände
 gesetze_vorlagen:
-  - Offenlegungspflicht
+  - Nachhaltigkeitsinitiative «Keine 10-Mio-Schweiz»
+  - Referendum zum Zivildienstgesetz
+  - Offenlegungspflicht 2024
 these: >-
-  Die SRF-Berichterstattung über die Abstimmungskampagnenfinanzierung ist
-  mangelhaft, da sie die Zahlen nicht in den politischen Kontext stellt und die
-  Bedeutung der Geldflüsse nicht thematisiert.
+  SRF zeigt Kampagnenbudgets als neutrale Zahlen, ohne die demokratiepolitische
+  Asymmetrie, die Kleinspenden-Lücke und die Interessenlagen hinter den
+  Geldflüssen zu problematisieren.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRF-Berichterstattung über die
-  Abstimmungskampagnenfinanzierung, da sie die Zahlen nicht in den politischen
-  Kontext stellt und die Bedeutung der Geldflüsse nicht thematisiert. Die
-  Berichterstattung zeigt die Zahlen, aber überlässt die Interpretation den
-  Lesern. Der Artikel argumentiert, dass eine substantielle Berichterstattung
-  die Strukturfrage stellen sollte, wie Geld in Abstimmungskämpfen die
-  demokratische Willensbildung beeinflusst.
+  Der Artikel kritisiert die SRF-Data-Berichterstattung zu den Kampagnenbudgets
+  der Abstimmung vom 14. Juni 2026. SRF präsentiere korrekte Zahlen, verzichte
+  aber auf die journalistische Einordnung der finanziellen Übermacht der
+  Nein-Seite, der 1,6 Millionen Franken anonymen Kleinspenden an die SP und der
+  sprachlichen Asymmetrie in der Argumentationsdarstellung. Die eigentliche
+  demokratiepolitische Frage — wem die Gelder nutzen und welche Interessen sie
+  durchsetzen — bleibe ungestellt.
 quelle_datum: '2026-05-07'
 quelle_format: Online-Artikel
 quelle_sendung: ''

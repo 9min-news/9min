@@ -6,28 +6,32 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIGSU13WAAAx3Na.jpg'
 tweetId: '2054084230947225955'
 categories:
+  - SRF/SRG
   - Wirtschaft
   - Gesellschaft
-  - Medienrecht
 tags:
-  - SRF
-  - Mittelstand
-  - Finanzen
-  - Armut
   - Spartipps
-  - Strukturelle Ursachen
+  - Mittelstand
+  - Krankenkasse
+  - Miete
+  - Caritas
+  - Comparis
+  - EFK
+  - Asylgesundheitskosten
 seo:
   description: >-
     Zum SRF-Beitrag «Sparen im Alltag: Diese Tipps entlasten das
     Haushaltsbudget», 12. Mai 2026 Was berichtet wird Jenny Bargetzi berichtet
     über die…
 themen:
-  - Finanzielle Lage des Mittelstands
-  - Spartipps
-  - Strukturelle Ursachen von Armut
-kritisiertes_medium: SRF
+  - Mittelstand
+  - Krankenkassenprämien
+  - Mietkosten
+  - strukturelle Ursachen
+  - individuelle vs. kollektive Verantwortung
+kritisiertes_medium: SRF News
 kritisierter_beitrag: 'Sparen im Alltag: Diese Tipps entlasten das Haushaltsbudget'
-kritisierter_autor: ''
+kritisierter_autor: Jenny Bargetzi
 kritik_typ:
   - Auslassung
   - Framing
@@ -37,19 +41,25 @@ personen:
   - Sara Koller
 institutionen:
   - SRF
-  - Caritas Zürich
   - Bundesamt für Statistik
-gesetze_vorlagen: []
+  - Caritas Zürich
+  - Comparis
+  - EFK
+gesetze_vorlagen:
+  - Pflegeinitiative
 these: >-
-  Der SRF-Beitrag über Spartipps für den Mittelstand verschweigt die
-  strukturellen Ursachen von Armut und belastet stattdessen die Individuen.
+  SRF präsentiert die strukturelle finanzielle Belastung des Mittelstands als
+  individuelles Optimierungsproblem und blendet die politischen Ursachen
+  systematisch aus.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag über Spartipps für den Mittelstand, da
-  er die strukturellen Ursachen von Armut verschweigt und stattdessen die
-  Individuen für ihre finanzielle Lage verantwortlich macht. Der Beitrag wird
-  als Teil einer publizistischen Operation gesehen, die die Bevölkerung dazu
-  bringt, ihre eigene strukturelle Benachteiligung als individuelle
-  Optimierungsaufgabe zu verstehen.
+  9min.ch kritisiert einen SRF-Beitrag, der der unter Druck geratenen
+  Mittelschicht Spartipps und Budget-Apps empfiehlt, ohne die strukturellen
+  Ursachen (Mietniveau, Prämienentwicklung, Steuerlast, Energiepreise) zu
+  thematisieren. Der Beitrag wird als Teil einer Trilogie desselben Tages
+  analysiert, die Verschwendung, Belastung und individuelle Anpassung getrennt
+  präsentiert, ohne deren Zusammenhang herzustellen. Die Kritik sieht darin eine
+  systematische Atomisierung der Wahrnehmung, die das System schont statt die
+  Mittelschicht zu helfen.
 quelle_datum: '2026-05-12'
 quelle_format: Online-Artikel
 quelle_sendung: ''

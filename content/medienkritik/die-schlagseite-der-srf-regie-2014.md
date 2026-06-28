@@ -6,15 +6,18 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HKTksRXWAAALi0n.jpg'
 tweetId: '2064026627428831252'
 categories:
-  - Gesellschaft
+  - SRF/SRG
+  - Abstimmungen
+  - Migration
 tags:
-  - Medienkritik
-  - SRF
-  - Regie
   - Masseneinwanderungsinitiative
-  - Journalismus
-  - Politik
-  - Gesellschaft
+  - SRF
+  - Medienkritik
+  - Regie-Bias
+  - Affektlexikon
+  - Cluster-Architektur
+  - Inszenierung
+  - Milieu-Anschlussfähigkeit
 seo:
   description: >-
     Eine erweiterte Inhaltsanalyse von 29 SRF-Beiträgen zur
@@ -22,41 +25,66 @@ seo:
     Methodischer Rahmen 1.1 Was…
 themen:
   - Masseneinwanderungsinitiative
-  - SRF Regie
-  - Medienanalyse
-  - Journalismus
+  - SRF-Berichterstattung 2014-2016
+  - Inszenierung und Framing
+  - Gattungsabhängigkeit journalistischer Fairness
+  - Asymmetrie der Regie
 kritisiertes_medium: SRF
-kritisierter_beitrag: ''
+kritisierter_beitrag: >-
+  29 SRF-Beiträge zur Masseneinwanderungsinitiative (Februar 2014 – Dezember
+  2016)
 kritisierter_autor: ''
 kritik_typ:
   - Framing
+  - Asymmetrie
   - Selektion
-  - Kontextmangel
 personen:
   - Heinz Karrer
   - Bolliger
-  - Burkhalter
+  - Schneider-Ammann
+  - Stamm
+  - Epiney
+  - Blocher
+  - Brunner
   - Levrat
+  - Müller
+  - Leuba
   - Freysinger
+  - Rodewald
+  - Brutschin
+  - Burkhalter
+  - Leuenberger
+  - Burkhardt
 institutionen:
   - SRF
   - Economiesuisse
   - Migros
+  - Credit Suisse
+  - Bundesrat
+  - Parlament
+  - SVP
+  - EU
   - Bundesamt
 gesetze_vorlagen:
   - Masseneinwanderungsinitiative
 these: >-
-  Die SRF Regie hat eine Tendenz zur dritten Ebene, die sich in der Inszenierung
-  und nicht in der Faktenebene zeigt.
+  Die SRF-Berichterstattung zur Masseneinwanderungsinitiative zeigt keine
+  faktische Verzerrung, aber eine systematische Schlagseite der Regie – durch
+  Affektlexikon, Dramaturgie, Framing-Wörter und Cluster-Architektur –, die mit
+  der Gattung korreliert und dem eigenen Milieu zugutekommt, über die Zeitachse
+  aber auch gegen genehme Macht wendet.
 zusammenfassung: >-
-  Die Analyse von 29 SRF-Beiträgen zur Masseneinwanderungsinitiative zeigt, dass
-  die SRF Regie eine Tendenz zur dritten Ebene hat, die sich in der Inszenierung
-  und nicht in der Faktenebene zeigt. Die Analyse identifiziert fünf
-  Mechanismen, die diese Tendenz verursachen, und zeigt, dass die SRF Regie
-  nicht parteiisch im klassischen Sinne ist, sondern eine Haltung zur Macht und
-  zum Vertrauten hat.
-quelle_datum: '2014-02-01'
-quelle_format: Online-Artikel
+  Die Inhaltsanalyse von 29 SRF-Beiträgen zur Masseneinwanderungsinitiative
+  (2014–2016) findet keine Fehlinformation oder gefälschte Fakten, wohl aber
+  eine systematische Asymmetrie auf der Inszenierungsebene: Affektlexikon,
+  Dramaturgie des letzten Wortes, Würde-Verteilung durch Verben und
+  Cluster-Architektur bevorzugen das urbane, europafreundliche Milieu. Die
+  Schlagseite korreliert regelhaft mit der Gattung – Drahtmeldungen und
+  Interviews sind fair, Presseschauen und Protokolle kippen ins vertraute
+  Narrativ. Über die volle Zeitachse wendet sich der kritische Blick
+  schliesslich auch gegen das Parlament, das den Volksentscheid verwässert.
+quelle_datum: ''
+quelle_format: Broadcast
 quelle_sendung: ''
 quelle_redaktion: SRF
 kritik_schwere: 2

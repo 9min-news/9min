@@ -6,15 +6,18 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HEuf5z1WUAAOkgj.jpg'
 tweetId: '2038899688502395351'
 categories:
+  - SRF/SRG
   - Klima/Energie
-  - Medienrecht
-  - Wirtschaft
+  - Migration
 tags:
-  - Klimapolitik
-  - Forschung
-  - Medienkritik
-  - Wissenschaftskommunikation
-  - Klimafinanzierung
+  - Klimamigration
+  - SRF
+  - Echo der Zeit
+  - Weltbank
+  - ETH Zürich
+  - Framing
+  - Selektion
+  - Interessenkonflikt
 seo:
   description: >-
     Am 29. März 2026 veröffentlicht SRF einen Beitrag über Klimamigration. Die
@@ -22,43 +25,47 @@ seo:
     zitiert…
 themen:
   - Klimamigration
-  - Klimawandel
-  - Forschungsförderung
+  - Forschungsfinanzierung und Interessenkonflikte
+  - Framing multikausaler Phänomene
+  - Wissenschaftskommunikation
 kritisiertes_medium: SRF
 kritisierter_beitrag: Wenn das eigene Haus weggespült wird
-kritisierter_autor: ''
+kritisierter_autor: Christian von Burg
 kritik_typ:
   - Framing
-  - Auslassung
-  - Einordnungsfehler
+  - Selektion
+  - Interessenkonflikt
 personen:
+  - Christian von Burg
   - Jan Freihardt
   - Etienne Piguet
 institutionen:
+  - SRF
   - Weltbank
   - ETH Zürich
   - Universität Neuenburg
-  - SRF
+  - Schweizerischer Nationalfonds
+  - Bund
 gesetze_vorlagen: []
 these: >-
-  Der Beitrag von SRF über Klimamigration ist ein Beispiel für eine
-  voreingenommene Berichterstattung, die die Dringlichkeit des Problems und die
-  Notwendigkeit von Klimaschutzmassnahmen betont, ohne die Komplexität der
-  Ursachen und die Unsicherheit der Prognosen ausreichend zu berücksichtigen.
+  SRF rahmt ein multikausales Phänomen als Klimamigration, präsentiert
+  ausschliesslich staatlich finanzierte Quellen ohne Gegenstimmen und schliesst
+  einen Beitrag, der seine eigene Prämisse widerlegt, mit einer unkritischen
+  Forderung nach Klimaschutzmassnahmen.
 zusammenfassung: >-
-  Der Artikel kritisiert den Beitrag von SRF über Klimamigration, der die
-  Dringlichkeit des Problems und die Notwendigkeit von Klimaschutzmassnahmen
-  betont, ohne die Komplexität der Ursachen und die Unsicherheit der Prognosen
-  ausreichend zu berücksichtigen. Der Beitrag basiert auf drei Quellen, die alle
-  aus öffentlich finanzierten Institutionen stammen und deren Forschungsmittel
-  an die Relevanz des Forschungsgegenstands gebunden sind. Der Artikel
-  argumentiert, dass dies zu einer voreingenommenen Berichterstattung führt, die
-  die Notwendigkeit von Klimaschutzmassnahmen betont, ohne die Komplexität der
-  Ursachen und die Unsicherheit der Prognosen ausreichend zu berücksichtigen.
+  Der 9min-Artikel analysiert einen SRF-Beitrag über Klimamigration in
+  Bangladesch, der acht Absätze lang seine eigene Prämisse relativiert, dann
+  aber mit einer festen Forderung nach Klimaschutzmassnahmen schliesst.
+  Kritisiert wird, dass SRF ein multikausales Phänomen (Flusserosion seit
+  Jahrhunderten) als Klimamigration einrahmt, ausschliesslich staatlich
+  finanzierte Quellen zitiert und keine Gegenstimmen oder alternativen
+  Ursachenanalysen zulässt. Der Kreis aus staatlicher Forschungsfinanzierung,
+  Problemdefinition und Massnahmenempfehlung wird als Nachricht präsentiert,
+  obwohl er institutionelle Interessenkonflikte aufweist.
 quelle_datum: '2026-03-29'
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
-quelle_redaktion: SRF News
+quelle_redaktion: SRF Wissen
 kritik_schwere: 3
 ---
 

@@ -6,55 +6,81 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHiHlfyWgAEL0w8.jpg'
 tweetId: '2051538917661258105'
 categories:
-  - Medienrecht
-  - Demokratie
+  - SRF/SRG
+  - Klima/Energie
+  - Abstimmungen
 tags:
-  - Medienkritik
   - SRF
-  - Mobilitätsbon
-  - Klimaschutz
+  - Forum
+  - Rendez-vous
   - Flugticketabgabe
-  - Direkte Demokratie
+  - Mobilitätsbon-Initiative
+  - Framing
+  - Auslassung
+  - CO2-Gesetz 2021
 seo:
   description: >-
     Zur SRF-Berichterstattung über die Mobilitätsbon-Initiative: «Klimaschutz
     statt Reiselust» (Forum, 16. April 2026) und «Flugticket-Abgabe ja oder
     nein?…
 themen:
-  - SRF-Berichterstattung
   - Mobilitätsbon-Initiative
-  - Klimaschutz
+  - Flugticketabgabe
+  - Medienverzerrung in der Klimadebatte
+  - ' direkte Demokratie und Volksabstimmung 2021'
+  - Auftragsumfragen und Meinungsforschung
 kritisiertes_medium: SRF
-kritisierter_beitrag: Klimaschutz statt Reiselust
+kritisierter_beitrag: >-
+  «Klimaschutz statt Reiselust» (Forum, 16. April 2026) und «Flugticket-Abgabe
+  ja oder nein? Auf die Umfrage kommt es an!» (Rendez-vous, 4. Mai 2026)
 kritisierter_autor: Matthias Baumer
 kritik_typ:
   - Framing
   - Auslassung
-  - Kontextmangel
+  - Asymmetrie
 personen:
   - Priska Wismer-Felder
   - Thomas Hurter
   - Marc Bühlmann
+  - Matthias Baumer
 institutionen:
   - SRF
-  - Umweltorganisation Umverkehr
-  - Aviationuisse
+  - Umverkehr
+  - Aviationsuisse
+  - Aerosuisse
+  - Sotomo
+  - VCS
+  - WWF
+  - Greenpeace
+  - SP
+  - Grüne
+  - Lufthansa Group
+  - Bundesrat
 gesetze_vorlagen:
-  - CO₂-Gesetz
+  - Mobilitätsbon-Initiative
+  - CO₂-Gesetz 2021
 these: >-
-  Die SRF-Berichterstattung zur Mobilitätsbon-Initiative ist verzerrt und
-  ignoriert die Ergebnisse der Volksabstimmung von 2021.
+  SRF berichtet formal ausgewogen über die Mobilitätsbon-Initiative, setzt aber
+  durch Framing, asymmetrische Quellenbehandlung und Auslassung zentraler
+  historischer Fakten — insbesondere der Volksabstimmung von 2021, die eine
+  nahezu identische Vorlage ablehnte — narrative Gerüste, die die Initiative
+  begünstigen.
 zusammenfassung: >-
-  Der Artikel analysiert die SRF-Berichterstattung zur Mobilitätsbon-Initiative
-  und kritisiert die Verzerrung und Auslassung von Informationen. Die
-  Berichterstattung ignoriert die Ergebnisse der Volksabstimmung von 2021 und
-  präsentiert die Initiative als notwendige Maßnahme zum Klimaschutz. Der
-  Artikel argumentiert, dass die SRF-Berichterstattung die direkte Demokratie
-  untergräbt, indem sie die Stimmbürger nicht ausreichend informiert.
+  Der Artikel analysiert zwei SRF-Beiträge zur Mobilitätsbon-Initiative und
+  zeigt, wie formale Ausgewogenheit subtile Verzerrung verbergen kann. Das Forum
+  setzt durch den Titel «Klimaschutz statt Reiselust» eine moralische
+  Wertehierarchie, präsentiert umstrittene RFI-basierte Zahlen als Tatsache und
+  lässt zentrale Fakten wie den Verlagerungseffekt oder die schwedischen
+  Regionalflughäfen unterbelichtet. Das Rendez-vous behandelt zwei
+  widersprüchliche Auftragsumfragen als symmetrisch, obwohl die eine die
+  Initiative erst legitimierte und die andere reagierend war, und blendet die
+  wesentlich aussagekräftigere Volksabstimmung von 2021 komplett aus. Beide
+  Beiträge zusammen wirken als stille Vorbereitung eines zweiten Anlaufs auf
+  eine Frage, die das Volk bereits beantwortet hat.
 quelle_datum: '2026-04-16'
-quelle_format: Online-Artikel
-quelle_sendung: Forum
-quelle_redaktion: SRF News
+quelle_format: Broadcast
+quelle_sendung: Forum / Rendez-vous
+quelle_redaktion: SRF Radio / SRF News
 kritik_schwere: 3
 ---
 

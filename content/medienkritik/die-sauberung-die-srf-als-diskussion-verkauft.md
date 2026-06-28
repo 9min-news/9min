@@ -6,23 +6,27 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJgcC3hXoAM9riM.jpg'
 tweetId: '2060427764344193446'
 categories:
+  - SRF/SRG
   - Demokratie
+  - Abstimmungen
 tags:
-  - SRF
   - Daniel Jositsch
   - SP
-  - Politik
-  - Medien
-  - Demokratie
-  - Parteipolitik
+  - Ständeratswahlen 2027
+  - Delegiertenversammlung
+  - Parteilinie
+  - Funktionärsherrschaft
+  - EGMR
+  - Asylpolitik
 seo:
   description: >-
     237'000 Stimmen. So viele hat Daniel Jositsch 2023 im Kanton Zürich erhalten
     — mehr als jeder andere Politiker im Land. Er holte Stimmen aus der…
 themen:
-  - Medienkritik
-  - Politische Berichterstattung
-  - Parteipolitik
+  - SP-Ausschluss von Daniel Jositsch
+  - Demokratische Legitimität vs. Parteilinie
+  - SRF-Berichterstattung als Medienkritik
+  - Innerparteiliche Demokratie
 kritisiertes_medium: SRF
 kritisierter_beitrag: Was bedeutet die Nichtnomination von Daniel Jositsch?
 kritisierter_autor: ''
@@ -36,23 +40,33 @@ institutionen:
   - SRF
   - SP
   - EGMR
+  - Schweizer Parlament
+  - Nationalrat
+  - Ständerat
+  - Bundesversammlung
 gesetze_vorlagen:
-  - Bundesverfassung
+  - Ausschaffungsinitiative 2010
+  - Masseneinwanderungsinitiative 2014
+  - Begrenzungsinitiative 2020
 these: >-
-  Die SRF-Berichterstattung über den Ausschluss von Daniel Jositsch aus der SP
-  ist unzureichend und beschreibt den Prozess als 'Diskussion' anstatt als
-  politische Hinrichtung.
+  SRF verkauft die innerparteiliche Ausschliessung des populärsten Schweizer
+  Politikers als neutrale «Diskussion», statt die demokratische Tragweite zu
+  hinterfragen — dass 109 Parteifunktionäre den Willen von 237'000 Wählern
+  aushebeln.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRF-Berichterstattung über den Ausschluss von
-  Daniel Jositsch aus der SP. Die Berichterstattung wird als unzureichend und
-  beschönigend beschrieben. Der Artikel argumentiert, dass der Ausschluss von
-  Jositsch eine politische Hinrichtung ist und dass die SRF-Berichterstattung
-  den Prozess als 'Diskussion' darstellt, anstatt die demokratische Tragweite zu
-  benennen.
+  Der 9min.ch-Artikel kritisiert die SRF-Berichterstattung über die
+  Nicht-Nomination von Daniel Jositsch durch die SP-Zürcher-Delegierten als
+  oberflächlich und unkritisch. SRF rahme den Ausschluss des populärsten
+  Schweizer Politikers als «harte Diskussion» und «knappes Ergebnis», stelle
+  aber nicht die wesentliche Frage, was es für die Demokratie bedeutet, wenn 109
+  Funktionäre den expliziten Willen von 237'000 Wählern überstimmen. 9min
+  argumentiert, dass Jositschs Positionen (EGMR-Kritik, restriktive Asylpolitik,
+  Widerstand gegen Geschlechterquoten) in der Bevölkerung mehrheitsfähig seien
+  und die SP sich damit zu einer ideologischen Sekte mache.
 quelle_datum: '2026-05-29'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: 9min.ch
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

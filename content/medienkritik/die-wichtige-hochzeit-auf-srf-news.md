@@ -6,57 +6,62 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJK8JCIXEAAjI9z.jpg'
 tweetId: '2058915000463355980'
 categories:
-  - Medienrecht
-  - Gesellschaft
+  - SRF/SRG
+  - Billag/Gebühren
+  - EU/Aussenpolitik
 tags:
   - SRF
-  - Boulevard
   - Medienabgabe
-  - Kritik
-  - Journalismus
+  - Boulevardjournalismus
+  - Trump
   - Relevanz
-  - Influencerin
+  - Auftragserfüllung
+  - Iran-Krieg
+  - Promiklatsch
 seo:
   description: >-
     Wie SRF eine Promi-Hochzeit auf den Bahamas als Nachrichtenereignis
     inszeniert, mit Schweizer Haushaltsgeldern Klatschpresse finanziert, den
     Iran-Krieg…
 themen:
-  - Medienkritik
-  - SRF
-  - Boulevardjournalismus
-  - Medienabgabe
-kritisiertes_medium: SRF
+  - Promiberichterstattung im öffentlich-rechtlichen Rundfunk
+  - Medienauftrag und Medienabgabe
+  - Iran-Krieg als Nachrichtenrahmen
+  - Boulevardjournalismus vs. Informationsauftrag
+  - Opportunitätskosten der Berichterstattung
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Donald Trump Jr. heiratet – Vater fehlt bei Feier
 kritisierter_autor: ''
 kritik_typ:
-  - Fehlinformation
-  - Selektion
-  - Kontextmangel
+  - Einordnungsfehler
+  - Auslassung
+  - Framing
 personen:
   - Donald Trump Jr.
   - Bettina Anderson
+  - Vanessa Trump
 institutionen:
   - SRF
   - SRG
+  - Weisses Haus
 gesetze_vorlagen:
   - Medienabgabe
 these: >-
-  Die SRF berichtet über eine irrelevante Hochzeit auf den Bahamas und
-  finanziert dies mit Schweizer Haushaltsgeldern, anstatt relevante Nachrichten
-  zu berichten.
+  SRF zweckentfremdet die Medienabgabe für irrelevanten Boulevardjournalismus
+  über eine Promi-Hochzeit und banalisiert dabei den Iran-Krieg zur
+  Familienkulisse.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRF für die Berichterstattung über die Hochzeit von
-  Donald Trump Jr. auf den Bahamas, die als irrelevant für die Schweiz angesehen
-  wird. Die SRF finanziert diese Berichterstattung mit Schweizer
-  Haushaltsgeldern, anstatt relevante Nachrichten zu berichten. Der Artikel
-  fragt nach der Relevanz dieser Berichterstattung und warum die SRF sich
-  entscheidet, darüber zu berichten.
+  Der Artikel kritisiert, dass SRF News über die Hochzeit von Donald Trump Jr.
+  auf den Bahamas berichtet, obwohl diese für ein Schweizer Publikum keine
+  Nachrichtenrelevanz hat. Dabei werde der Iran-Krieg lediglich als Nebensache
+  erwähnt und als Hintergrundkulisse für eine Familienfeier abgetan. Die SRG
+  nutze so zwangsfinanzierte Mittel für Boulevardjournalismus statt für ihren
+  Informations-, Bildungs- und Kulturauftrag.
 quelle_datum: '2026-05-25'
 quelle_format: Online-Artikel
-quelle_sendung: ''
+quelle_sendung: SRF News
 quelle_redaktion: SRF News
-kritik_schwere: 3
+kritik_schwere: 2
 ---
 
 *Wie SRF eine Promi-Hochzeit auf den Bahamas als Nachrichtenereignis inszeniert, mit Schweizer Haushaltsgeldern Klatschpresse finanziert, den Iran-Krieg als Hintergrundkulisse für eine Familienfeier abtut, die Frage der Relevanz für ein Schweizer Publikum nicht stellt, die Medienabgabe von 335 Franken pro Haushalt für Boulevardjournalismus zweckentfremdet und nicht fragt, was die SRG nicht berichtet, während sie über Eheringe auf Instagram schreibt*

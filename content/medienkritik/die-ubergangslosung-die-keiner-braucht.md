@@ -6,16 +6,17 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIyU32fXgAAJ9iX.jpg'
 tweetId: '2057183307163467951'
 categories:
+  - SRF/SRG
   - Gesellschaft
   - Wirtschaft
-  - Demokratie
 tags:
-  - AHV
-  - Rentenreform
-  - Frühpensionierung
-  - Finanzierung
-  - Gerechtigkeit
-  - Ursachen
+  - AHV 2030
+  - Übergangslösung
+  - Freiwilligkeit
+  - Damoklesschwert
+  - Körperliche Arbeit
+  - Finanzberater
+  - Pflegefachfrau
   - Pokerspiel
 seo:
   description: >-
@@ -24,10 +25,11 @@ seo:
     als…
 themen:
   - AHV-Reform
-  - Rentenalter
+  - 13. Rente
   - Frühpensionierung
-  - Finanzierung der 13. Rente
-kritisiertes_medium: SRF
+  - soziale Gerechtigkeit
+  - Rentenfinanzierung
+kritisiertes_medium: SRF News
 kritisierter_beitrag: 'Mehrheitsfähig sollte ''AHV 2030'' sein, aber die Kritik ist laut'
 kritisierter_autor: Andreas Stüdli
 kritik_typ:
@@ -41,16 +43,19 @@ institutionen:
   - Bundesrat
   - Parlament
 gesetze_vorlagen:
-  - AHV-Reform
+  - AHV 2030
+  - 13. AHV-Rente
 these: >-
-  Die AHV-Reform ist eine Übergangslösung, die die eigentlichen Probleme nicht
-  löst und die Schwachen bestraft.
+  SRF verkauft die AHV-Reform als pragmatischen Kompromiss, verschweigt aber,
+  dass sie körperlich arbeitende Menschen bestraft und die 13. Rente als Ursache
+  des Problems nicht benennt.
 zusammenfassung: >-
-  Der Artikel kritisiert die AHV-Reform als Übergangslösung, die die
-  eigentlichen Probleme nicht löst und die Schwachen bestraft. Die Reform
-  erschwert die Frühpensionierung und fördert das Weiterarbeiten, aber sie
-  verschweigt die Ursache des Problems, nämlich die 13. Rente. Der Artikel
-  fordert eine Analyse der Gerechtigkeit und der Verlierer der Reform.
+  Der 9min-Artikel kritisiert Andreas Stüdlis SRF-Analyse zur AHV-Reform, weil
+  sie die Reform als unzureichende Übergangslösung darstelle, ohne die Frage
+  nach Gerechtigkeit und Verlierern zu stellen. Die 'Freiwilligkeit' des
+  Weiterarbeitens werde als Freiheit für Wohlhabende gerahmt, während sie für
+  körperlich arbeitende Menschen ein Zwang sei. Zudem werde die 13. Rente als
+  'Damoklesschwert' statt als Ursache der Finanzierungsprobleme benannt.
 quelle_datum: '2026-05-20'
 quelle_format: Online-Artikel
 quelle_sendung: ''

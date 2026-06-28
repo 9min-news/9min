@@ -6,54 +6,63 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HILnqCgWoAAajjV.jpg'
 tweetId: '2054465232584560710'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - EU/Aussenpolitik
-  - Gesellschaft
+  - Sicherheitspolitik
 tags:
   - SRF
-  - China
-  - USA
-  - Iran
-  - Schweiz
+  - Iran-Krieg
   - Schutzmachtmandat
-  - Diplomatie
-  - Krieg
+  - US-China-Gipfel
+  - Kontextmangel
+  - Auslandberichterstattung
+  - Schweizer Botschaft Teheran
+  - Gedächtnislücke
 seo:
   description: >-
     Zum SRF-Beitrag «Nähern sich China und die USA wieder an?», 13. Mai 2026 Was
     berichtet wird Trump reist nach China. Vorab-Delegationen treffen sich in…
 themen:
-  - Iran-Krieg
-  - US-China-Beziehungen
-  - Schweizer Aussenpolitik
-kritisiertes_medium: SRF
+  - US-China-Gipfel
+  - Iran-Krieg und Schweizer Betroffenheit
+  - Schutzmachtmandat Schweiz
+  - Auslandberichterstattung
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Nähern sich China und die USA wieder an?
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
   - Kontextmangel
-  - Framing
+  - Selektion
 personen:
   - Ralph Weber
-  - Trump
+  - Donald Trump
   - Monika Schmutz Kirgöz
   - Olivier Bangerter
+  - Jenni
 institutionen:
   - SRF
-  - Uni Basel
+  - Universität Basel
   - EDA
   - US-Finanzministerium
-gesetze_vorlagen: []
+  - Schweizer Botschaft Teheran
+  - TCS
+  - Keystone-SDA
+  - Swiss
+gesetze_vorlagen:
+  - Schutzmachtmandat Schweiz im Iran
 these: >-
-  Der SRF-Beitrag über den US-China-Gipfel vernachlässigt die Schweizer
-  Perspektive und den Kontext des Iran-Kriegs.
+  SRF berichtet über den US-China-Gipfel, ohne die für die Schweiz zentralen
+  Zusammenhänge zum Iran-Krieg, zum Schutzmachtmandat und zur Betroffenheit
+  Schweizer Bürger herzustellen.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag über den US-China-Gipfel, da er die
-  Schweizer Perspektive und den Kontext des Iran-Kriegs vernachlässigt. Der
-  Beitrag konzentriert sich auf die chinesische Sichtweise und lässt die
-  Auswirkungen auf die Schweiz und ihre Bürger außer Acht. Der Iran-Krieg wird
-  nur als Kontext für das Treffen erwähnt, ohne die Bedeutung für die Schweiz
-  und ihre Rolle als Schutzmacht zu thematisieren.
+  9min.ch kritisiert einen SRF-Beitrag zum US-China-Gipfel vom 13. Mai 2026, der
+  den Iran-Krieg nur als Kulisse erwähnt, ohne die erheblichen Schweizer Bezüge
+  einzubeziehen. SRF hatte zuvor ausführlich über die geschlossene Botschaft,
+  gestrandete Schweizer, das Schutzmachtmandat und die humanitäre Lage
+  berichtet, stellt diese Zusammenhänge aber im aktuellen Kontext nicht mehr
+  her. Die Kritik sieht darin ein strukturelles Problem ereignisorientierter
+  Nachrichtenproduktion, die Schweizer Perspektiven systematisch ausblendet.
 quelle_datum: '2026-05-13'
 quelle_format: Online-Artikel
 quelle_sendung: ''

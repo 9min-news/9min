@@ -6,50 +6,64 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJ1LS65XkAAsw82.jpg'
 tweetId: '2061887367678710255'
 categories:
+  - Migration
   - EU/Aussenpolitik
-  - Migration
-  - Medienrecht
+  - SRF/SRG
 tags:
-  - SRF
-  - EU-Korrespondent
-  - Charles Liebherr
-  - Asylpolitik
-  - Migration
-  - Medienkritik
+  - Einordnung
+  - Wertung
+  - Brandmauer
+  - AfD
+  - CDU
+  - EU-Asylpakt
+  - Expertenbehauptung
+  - Dublin-System
 seo:
   description: >-
     Dieser SRF-Beitrag ist ein Interview-Format: EU-Korrespondent Charles
     Liebherr ordnet die neue EU-Regelung zu Abschiebezentren in Drittstaaten
     ein. Das…
 themen:
-  - EU-Asylpolitik
-  - Abschiebezentren in Drittstaaten
-  - Medienkritik
-kritisiertes_medium: SRF
+  - EU-Asylpakt und Abschiebezentren in Drittstaaten
+  - Brandmauer-Logik und parlamentarisches Prinzip
+  - Wirksamkeit von Asylverschärfungen
+  - Dublin-Vollzugsproblem
+  - Einordnung vs. Wertung im Journalismus
+kritisiertes_medium: SRF News
 kritisierter_beitrag: 'Ausschaffung in Drittstaaten: Wie realistisch ist das?'
 kritisierter_autor: Charles Liebherr
 kritik_typ:
   - Framing
-  - Einordnungsfehler
+  - Auslassung
+  - Autoritätsargument
 personen:
   - Charles Liebherr
 institutionen:
   - SRF
   - EU
+  - Europäisches Parlament
+  - CDU
+  - AfD
+  - NGOs
+  - Kirchenorganisationen
 gesetze_vorlagen:
+  - EU-Asyl- und Migrationspakt
   - Dublin-System
-  - Schengen-Abkommen
+  - Schengen-Weiterentwicklung
 these: >-
-  Der SRF-Beitrag zu den Abschiebezentren in Drittstaaten enthält eine
-  problematische Akzentsetzung und Wertung, die die Haltung des Korrespondenten
-  verrät.
+  SRF-Korrespondent Liebherr vermischt in seiner Einordnung Analyse mit
+  parteipolitischer Wertung, übernimmt die umstrittene Brandmauer-Logik
+  unkritisch als Massstab und präsentiert eine einseitige Expertenbehauptung zur
+  Wirkungslosigkeit von Asylverschärfungen als Konsens, während wesentliche
+  Kontexte wie das scheiternde Dublin-System fehlen.
 zusammenfassung: >-
-  Der Beitrag kritisiert den SRF-Beitrag zu den Abschiebezentren in Drittstaaten
-  für seine problematische Akzentsetzung und Wertung. Der Korrespondent ordnet
-  die neue EU-Regelung ein, aber seine Akzente und Wertungen verraten seine
-  Haltung. Der Beitrag fehlt es an einer ausgewogenen Einordnung und einer
-  kritischen Fragestellung, insbesondere zum Vollzugsproblem des bestehenden
-  Dublin-Systems.
+  Der 9min-Artikel analysiert einen SRF-Beitrag von EU-Korrespondent Charles
+  Liebherr zur neuen EU-Regelung für Abschiebezentren in Drittstaaten. Er lobt
+  die nüchterne Skepsis gegenüber der Umsetzbarkeit, kritisiert aber, dass
+  Liebherr die Brandmauer-Logik unkritisch übernimmt, eine einseitige
+  Expertenbehauptung als gesicherten Konsens präsentiert und das naheliegende
+  Vollzugsproblem des bestehenden Dublin-Systems unerwähnt lässt. Auch die
+  Bildsprache wird als einseitig beanstandet.
 quelle_datum: '2026-06-02'
 quelle_format: Online-Artikel
 quelle_sendung: ''

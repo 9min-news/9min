@@ -6,31 +6,36 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIWXAKTXYAIGfyJ.jpg'
 tweetId: '2055217930539782172'
 categories:
+  - SRF/SRG
   - Klima/Energie
+  - Gesellschaft
 tags:
+  - Bergsturz
+  - Blatten
+  - Lötschental
+  - Klimawandel
   - SRF
-  - Klimanarrativ
-  - Faktencheck
-  - Wissenschaft
   - Geologie
-  - Klimaforschung
+  - Permafrost
+  - Heimatverlust
 seo:
   description: >-
     Zum SRF-Beitrag «Blatten ist kein Einzelfall: Wenn Heimat sich klimabedingt
     ändert», 13. Mai 2026 und dem SRF Klima-Narrativ Ein Bergsturz im
     Lötschental.…
 themen:
-  - Klimawandel
-  - Bergsturz
-  - Medienkritik
+  - Bergsturz Blatten Lötschental
+  - Klimawandel-Berichterstattung
   - Wissenschaftskommunikation
-kritisiertes_medium: SRF
+  - Geologie vs Klimatologie
+  - Heimatverlust
+kritisiertes_medium: SRF News
 kritisierter_beitrag: 'Blatten ist kein Einzelfall: Wenn Heimat sich klimabedingt ändert'
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
+  - Selektion
   - Framing
-  - Fehlinformation
 personen:
   - Jan Freihardt
   - Christophe Lambiel
@@ -40,20 +45,24 @@ personen:
   - Sonia Seneviratne
 institutionen:
   - SRF
-  - ETH
+  - ETH Zürich
   - Universität Lausanne
   - TU München
+  - UNO-Flüchtlingshilfswerk
+  - WMO
+  - IPCC
 gesetze_vorlagen: []
 these: >-
-  Der SRF-Beitrag nutzt die Tragödie von Blatten, um eine Klimanarration zu
-  stützen, die von den Fakten nicht gedeckt ist.
+  SRF nutzt die Tragödie von Blatten als Projektionsfläche für eine
+  Klimanarration, die Fakten ignoriert, Gegenpositionen verschweigt und
+  Aktivismus als Journalismus ausgibt.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag 'Blatten ist kein Einzelfall: Wenn
-  Heimat sich klimabedingt ändert' für seine einseitige Darstellung des
-  Klimawandels und seine Auslassung von gegensätzlichen Meinungen. Der Beitrag
-  wird als Aktivismus statt Journalismus bezeichnet. Die Kritik konzentriert
-  sich auf die mangelnde Ausgewogenheit und die selektive Darstellung von
-  Fakten.
+  Der Artikel kritisiert den SRF-Beitrag zum Bergsturz von Blatten als
+  einseitige Klimanarration, die geologische Gegenpositionen, die historische
+  Perspektive und methodische Probleme der Statistik verschweigt. Er moniert
+  insbesondere die Selektion klimastützender Experten, die Gleichsetzung von
+  Blatten mit Bangladesch sowie die «100-Prozent»-Aussage von Sonia Seneviratne
+  als kommunikative Irreführung. Der Beitrag sei Aktivismus statt Journalismus.
 quelle_datum: '2026-05-13'
 quelle_format: Online-Artikel
 quelle_sendung: ''

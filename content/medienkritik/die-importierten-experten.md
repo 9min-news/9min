@@ -6,32 +6,34 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHEV2LiagAAIWbR.jpg'
 tweetId: '2049443487456628911'
 categories:
-  - Medienrecht
-  - Gesellschaft
-  - Wirtschaft
+  - SRF/SRG
+  - EU/Aussenpolitik
 tags:
-  - SRF
   - Echo der Zeit
-  - Experten
-  - Deutsche Stiftungen
-  - Schweizer Medien
-  - Wirtschaft
-  - Energiepolitik
+  - Konrad-Adenauer-Stiftung
+  - Philipp Dienstbier
+  - Expertenauswahl
+  - deutsche Stiftungen
+  - Schweizer Experten
+  - Opec
+  - VAE
 seo:
   description: >-
     Zum SRF-Beitrag «Was bedeutet der Austritt der VAE für die Opec?» vom 28.
     April 2026 Die Wahl der Geschichte ist ausgezeichnet. Der Austritt der…
 themen:
-  - Medienkritik
-  - Expertenauswahl
-  - Schweizer Öffentlich-Rechtlicher Rundfunk
+  - Expertenauswahl im öffentlich-rechtlichen Rundfunk
+  - Opec-Austritt der VAE
+  - Deutsche politische Stiftungen als Expertenquelle
+  - Schweizer Perspektivenverzerrung
+  - Redaktionelle Routinen
 kritisiertes_medium: SRF
 kritisierter_beitrag: Was bedeutet der Austritt der VAE für die Opec?
 kritisierter_autor: ''
 kritik_typ:
   - Selektion
-  - Kontextmangel
-  - Interessenkonflikt
+  - Asymmetrie
+  - Behördenpropaganda
 personen:
   - Philipp Dienstbier
   - Daniel Möckli
@@ -40,27 +42,51 @@ personen:
   - Martin Dahinden
 institutionen:
   - SRF
+  - Echo der Zeit
   - Konrad-Adenauer-Stiftung
+  - Friedrich-Ebert-Stiftung
+  - Heinrich-Böll-Stiftung
+  - Friedrich-Naumann-Stiftung
+  - Hanns-Seidel-Stiftung
+  - Rosa-Luxemburg-Stiftung
   - ETH Zürich
   - Universität St. Gallen
   - EPFL
+  - Center for Security Studies
+  - Graduate Institute Genf
+  - Centre on Conflict Development and Peacebuilding
+  - EDA
+  - CDU
+  - SPD
+  - Grüne
+  - FDP
+  - CSU
+  - Die Linke
+  - Glencore
+  - Trafigura
+  - Vitol
+  - Mercuria
+  - Gunvor
+  - NATO
+  - EU
+  - UNO
 gesetze_vorlagen: []
 these: >-
-  Der Schweizer öffentlich-rechtliche Rundfunk bevorzugt deutsche
-  Stiftungsexperten, anstatt schweizerische Stimmen zu suchen, was zu einer
-  systematischen perspektivischen Verzerrung der Schweizer Welteinordnung führt.
+  SRF importiert systematisch deutsche Stiftungsexperten statt Schweizer
+  Fachleute, was zu einer perspektivischen Verzerrung der Schweizer
+  Welteinordnung führt.
 zusammenfassung: >-
-  Der Artikel kritisiert die Auswahl von Experten im Schweizer
-  öffentlich-rechtlichen Rundfunk, insbesondere im Beitrag 'Was bedeutet der
-  Austritt der VAE für die Opec?' des SRF. Der Autor argumentiert, dass die
-  Auswahl von deutschen Stiftungsexperten, anstatt schweizerischer Stimmen, zu
-  einer Verzerrung der Schweizer Perspektive auf die Welt führt. Der Artikel
-  fordert eine stärkere Berücksichtigung schweizerischer Experten und eine
-  Abkehr von der Routine, deutsche Stiftungsexperten zu bevorzugen.
+  Der Artikel kritisiert, dass SRF Echo der Zeit für die Analyse des
+  Opec-Austritts der VAE einen Mitarbeiter der deutschen
+  Konrad-Adenauer-Stiftung in Amman befragte, obwohl die Schweiz über
+  umfangreiche eigene energiewirtschaftliche, akademische und diplomatische
+  Expertise verfügt. Diese redaktionelle Routine befördere eine deutsche
+  Aussenpolitik-Perspektive als universelle Vernunft und verhindere eine
+  eigenständige Schweizer Einordnung globaler Ereignisse.
 quelle_datum: '2026-04-28'
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
-quelle_redaktion: SRF
+quelle_redaktion: SRF News
 kritik_schwere: 2
 ---
 

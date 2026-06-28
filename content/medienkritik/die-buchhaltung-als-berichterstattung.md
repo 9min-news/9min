@@ -6,29 +6,30 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIGOcafWkAAepAE.jpg'
 tweetId: '2054079855470301547'
 categories:
-  - Medienrecht
-  - Gesellschaft
+  - Migration
+  - SRF/SRG
   - Wirtschaft
 tags:
-  - Asylsuchende
-  - Gesundheitskosten
-  - Bundesasylzentren
-  - Krankenkassen
+  - EFK-Bericht
   - Franchise
-  - Effizienz
-  - Transparenz
+  - CSS
+  - SEM
+  - Pro-Kopf-Kosten
   - Entwicklungshilfe
+  - Buchhaltungs-Framing
+  - kantonale Asylkosten
 seo:
   description: >-
     Zum SRF «Bericht: Bund lässt Gesundheitskosten bei Asylsuchenden ausufern»,
     12. Mai 2026 Was berichtet wird Philipp Schrämmli berichtet über einen
     Bericht…
 themen:
-  - Asylpolitik
-  - Gesundheitskosten
-  - Medienberichterstattung
-  - Finanzierung
-kritisiertes_medium: SRF
+  - Asylkosten-Gesamtrechnung
+  - Gesundheitskosten in Bundesasylzentren
+  - Pro-Kopf-Belastung
+  - Entwicklungshilfe-Verwendung
+  - Medienintransparenz bei Verteilungsfragen
+kritisiertes_medium: SRF News
 kritisierter_beitrag: 'Bericht: Bund lässt Gesundheitskosten bei Asylsuchenden ausufern'
 kritisierter_autor: Philipp Schrämmli
 kritik_typ:
@@ -39,22 +40,29 @@ personen:
   - Philipp Schrämmli
 institutionen:
   - SRF
-  - Eidgenössische Finanzkontrolle (EFK)
-  - Staatssekretariat für Migration (SEM)
+  - Eidgenössische Finanzkontrolle
+  - Staatssekretariat für Migration
   - CSS
+  - Bund
+  - OECD
+  - Kantone
+  - Gemeinden
 gesetze_vorlagen: []
 these: >-
-  Der SRF-Beitrag über die Gesundheitskosten bei Asylsuchenden ist unvollständig
-  und irreführend, da er die Gesamtkosten und die Pro-Kopf-Belastung nicht
-  thematisiert.
+  SRF kanalisiert die Kritik an den Asylkosten auf eine verwaltungstechnische
+  Effizienzfrage und blendet die strukturelle Verteilungsfrage, die Gesamtkosten
+  von 3,5 Milliarden Franken sowie die Pro-Kopf-Belastung systematisch aus, was
+  dem demokratischen Diskurs schadet.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag über die Gesundheitskosten bei
-  Asylsuchenden, da er die Gesamtkosten und die Pro-Kopf-Belastung nicht
-  thematisiert. Der Beitrag konzentriert sich auf die Effizienz der Verwaltung
-  und die Franchise, anstatt die grundlegenden Fragen der Asylpolitik und der
-  Finanzierung zu thematisieren. Die Kritik richtet sich gegen die
-  unvollständige und irreführende Berichterstattung, die die Öffentlichkeit
-  nicht in der Lage versetzt, sich ein umfassendes Bild der Situation zu machen.
+  9min.ch kritisiert den SRF-Beitrag über einen EFK-Bericht zu Gesundheitskosten
+  in Bundesasylzentren als Beispiel struktureller Medienintransparenz. SRF
+  referiere den Bericht korrekt, verstecke aber durch ein Buchhaltungs-Framing
+  die eigentliche Geschichte: Gesamtkosten von 3,5 Milliarden Franken, eine
+  Pro-Kopf-Belastung von 35'000 bis 45'000 Franken, die Verwendung von
+  Entwicklungshilfegeldern für inländische Asylaufnahme und die kantonale
+  Kostenebene würden ausgeblendet. Die journalistische Operation bestehe darin,
+  eine politisch unbequeme Verteilungsfrage in eine politisch ungefährliche
+  Verwaltungseffizienzfrage umzuwandeln.
 quelle_datum: '2026-05-12'
 quelle_format: Online-Artikel
 quelle_sendung: ''

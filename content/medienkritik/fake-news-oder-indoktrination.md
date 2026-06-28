@@ -6,36 +6,35 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HKRUbScWsAAADxz.jpg'
 tweetId: '2063867414169768344'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Gesellschaft
   - Demokratie
 tags:
+  - Fake News
+  - Medienkompetenz
+  - kritische Denken
   - SRF
-  - Theaterprojekt
-  - Jugendliche
-  - Medienkritik
-  - Desinformation
-  - Autorität
+  - Framing
+  - Selektion
   - Vertrauen
-  - Kritische Denkfähigkeit
+  - Schulprojekt
 seo:
   description: >-
     Dieser SRF-Beitrag berichtet über ein sympathisches Schulprojekt: Das
     Aargauer Theater Marie und die Bühne Aarau inszenieren in Klassenzimmern ein
     als…
 themen:
-  - Fake News
-  - Medienkompetenz
-  - Kritische Denkfähigkeit
-  - Schulprojekt
-  - Institutionelle Manipulation
-kritisiertes_medium: SRF
+  - Medienkompetenz und Fake News
+  - Politische Schlagseite bei Quellenauswahl
+  - Vertrauen vs. Misstrauen gegenüber Autoritäten
+  - Definitionshoheit über Desinformation
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Aargauer Theaterprojekt regt Lernende zu kritischem Denken an
 kritisierter_autor: ''
 kritik_typ:
   - Framing
+  - Selektion
   - Auslassung
-  - Interessenkonflikt
 personen:
   - Emilia
   - Aurelio
@@ -47,23 +46,25 @@ institutionen:
   - Theater Marie
   - Bühne Aarau
   - Pro Juventute
+  - Regionaljournal Aargau Solothurn
 gesetze_vorlagen: []
 these: >-
-  Der SRF-Beitrag über ein Theaterprojekt, das Jugendliche zum kritischen Denken
-  über Fake News anregen soll, selbst einseitig und manipulativ ist.
+  Ein SRF-Beitrag, der Jugendliche zum kritischen Denken über Fake News erziehen
+  will, betreibt selbst einseitiges Framing, indem er Desinformation
+  ausschliesslich bei rechten/populistischen Akteuren verortet und die Frage
+  auslässt, wer überhaupt definiert, was als «Fake» gilt.
 zusammenfassung: >-
-  Der Artikel analysiert einen SRF-Beitrag über ein Theaterprojekt, das
-  Jugendliche zum kritischen Denken über Fake News anregen soll. Der Beitrag
-  wird als einseitig und manipulativ kritisiert, da er die Grenze zwischen
-  Desinformation und abweichender Meinung nicht thematisiert und die
-  Jugendlichen als naive Opfer darstellt. Der Artikel argumentiert, dass echte
-  Medienkompetenz auch das Misstrauen gegenüber etablierten Quellen und
-  Autoritäten beinhalten sollte.
+  Der 9min-Artikel analysiert einen SRF-Beitrag über ein Aargauer Theaterprojekt
+  zur Medienkompetenz. Er lobt die differenzierte Stimmen der Jugendlichen,
+  kritisiert aber, dass der Beitrag die Definitionshoheit über «Fake News» nicht
+  hinterfragt, bei den verwandten Artikeln eine politisch einseitige Auswahl
+  trifft (Orbán, Trump) und Vertrauen als Wert an sich setzt, statt echtes
+  Misstrauen auch gegenüber Autoritäten zu fördern.
 quelle_datum: '2026-06-04'
 quelle_format: Online-Artikel
 quelle_sendung: Regionaljournal Aargau Solothurn
 quelle_redaktion: SRF News
-kritik_schwere: 3
+kritik_schwere: 2
 ---
 
 *Dieser SRF-Beitrag berichtet über ein sympathisches Schulprojekt: Das Aargauer Theater Marie und die Bühne Aarau inszenieren in Klassenzimmern ein als «Influencerin-Vortrag» getarntes Theaterstück, das mitten im Geschehen auffliegt — und so Jugendliche zum kritischen Denken über Fake News anregen soll. Das Anliegen ist unbestreitbar gut, der pädagogische Einfall originell. Gerade deshalb lohnt der prüfende Blick: Ein Beitrag, der das «kritische Denken» feiert, sollte selbst ein wenig davon vertragen.*

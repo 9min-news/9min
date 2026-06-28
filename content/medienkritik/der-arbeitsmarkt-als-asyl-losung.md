@@ -12,22 +12,23 @@ categories:
 tags:
   - EJPD
   - Geflüchtete
-  - Arbeitsmarktintegration
+  - Arbeitsmarkt
+  - Integration
   - Framing
   - Potenzial
-  - Fachkräftemangel
-  - Behördenpropaganda
-  - Path2Work
+  - Fachkräfte
+  - Medienmitteilung
 seo:
   description: >-
     Wie das EJPD die berufliche Integration von Geflüchteten als Erfolgsstory
     verkauft, die Frage nach der Arbeitsmarktfähigkeit verschweigt, den
     Unterschied…
 themen:
-  - Berufsintegration von Geflüchteten
-  - Behördenkommunikation des EJPD
-  - Fachkräftemangel und Arbeitsmarktpotenzial
-  - Framing von Asyl- als Arbeitsmarktthema
+  - Berufliche Integration von Geflüchteten
+  - Arbeitsmarktfähigkeit
+  - Fachkräftemangel
+  - Behördenkommunikation
+  - Asylpolitik
 kritisiertes_medium: EJPD
 kritisierter_beitrag: Wirtschaft und Behörden treiben Berufsintegration gemeinsam voran
 kritisierter_autor: ''
@@ -47,23 +48,21 @@ institutionen:
   - Universität Lausanne
   - Arbeitgeberverband
   - Gewerbeverband
-  - Bundesrat
 gesetze_vorlagen:
   - Bevölkerungsinitiative
 these: >-
   Das EJPD deklariert ein Asylproblem durch strategisches Framing als
-  Arbeitsmarktlösung um, indem es die heterogenen Qualifikationen von
-  Geflüchteten verschweigt, Begriffe verschleift und zentrale
-  Kosten-Nutzen-Fragen nicht stellt.
+  Arbeitsmarktlösung um, verschweigt die begrenzten Qualifikationen der
+  Geflüchteten und stellt keine grundlegenden Fragen zur Integrationsfähigkeit.
 zusammenfassung: >-
-  Der Artikel kritisiert die Medienmitteilung des EJPD vom 22. Mai 2026 zur
-  beruflichen Integration von Geflüchteten als strategische Umdeklarierung eines
-  Asylproblems in eine Arbeitsmarktlösung. Das EJPD verschweige die begrenzten
-  und stark heterogenen Qualifikationen der Geflüchteten, rahme die «Extrameile»
-  der Unternehmen als moralische Pflicht und verschleife den Begriff
-  «Fachkräfte». Zentrale Fragen nach Kosten, Nutzen und tatsächlicher
-  Integrationsfähigkeit würden bewusst nicht gestellt, um eine Erfolgsmeldung zu
-  konstruieren.
+  Der Artikel kritisiert die EJPD-Medienmitteilung zur beruflichen Integration
+  von Geflüchteten als strategische Umdeklarierung eines Asylproblems in ein
+  Arbeitsmarktproblem. Das EJPD verschweige die begrenzten Qualifikationen
+  vieler Geflüchteter, ebne Unterschiede zwischen Hoch- und
+  Niedrigqualifizierten ein und verkaufe niedrig qualifizierte Massnahmen wie
+  den Lastwagenfahrer-Ausweis als Fachkräftelösung. Die Erfolgsmeldung blendet
+  aus, dass die meisten Geflüchteten mehr kosten als sie bringen und die
+  Integration nicht grundsätzlich gelingt.
 quelle_datum: '2026-05-22'
 quelle_format: Online-Artikel
 quelle_sendung: ''

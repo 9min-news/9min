@@ -6,58 +6,65 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHLgbbaWEAA4uiV.jpg'
 tweetId: '2049947569044787435'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Wirtschaft
-  - Gesellschaft
+  - Demokratie
 tags:
-  - SRF
-  - dialog
+  - dialog-Format
+  - Meinungsmanipulation
+  - Pseudonyme
+  - Repräsentativität
   - UBS
-  - Bürgerstimme
-  - Meinungsmache
-  - Medienmanipulation
-  - Wirtschaftspolitik
-  - Regulierung
+  - Bundesrat
+  - Selektion
+  - Gebührenmedien
 seo:
   description: >-
     Zum SRF-Beitrag «‹dialog›-Community zu UBS: ‹Eine Bank darf nie so mächtig
     werden›» vom 30. April 2026 Das Format SRF hat seit einigen Jahren das
     Format…
 themen:
-  - SRF-Beitrag
-  - UBS-Kritik
-  - Bürgerbeteiligung
-  - Meinungsmanipulation
-  - Medienkritik
-kritisiertes_medium: SRF
-kritisierter_beitrag: '«dialog»-Community zu UBS: «Eine Bank darf nie so mächtig werden»'
+  - SRF dialog-Format als Meinungsamplifikation
+  - UBS-Regulierung und Grossbankendebatte
+  - Konstruktion von Bürgerstimme
+  - Repräsentativitätsproblematik bei Online-Umfragen
+  - Selektive Quellenwahl in der Berichterstattung
+kritisiertes_medium: SRF News
+kritisierter_beitrag: '‹dialog›-Community zu UBS: ‹Eine Bank darf nie so mächtig werden›'
 kritisierter_autor: ''
 kritik_typ:
-  - Framing
   - Selektion
-  - Kontextmangel
+  - Framing
+  - Auslassung
 personen: []
 institutionen:
   - SRF
+  - SRG
   - UBS
   - Bundesrat
+  - Credit Suisse
+  - JPMorgan
+  - HSBC
+  - BNP Paribas
+  - Deutsche Bank
 gesetze_vorlagen: []
 these: >-
-  Der SRF-Beitrag konstruiert eine Bürgerstimme, die der politischen Linie des
-  Bundesrats entspricht, indem er eine unrepräsentative Auswahl von Kommentaren
-  aus der «dialog»-Community präsentiert.
+  SRF nutzt das dialog-Format systematisch, um eine politisch genehme
+  Bürgerstimme zu konstruieren und als demokratischen Konsens zugunsten der
+  Bundesrats-Linie zu inszenieren.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag, der eine «dialog»-Community zu UBS
-  präsentiert, als unrepräsentativ und manipulativ. Der Beitrag konstruiert eine
-  Bürgerstimme, die der politischen Linie des Bundesrats entspricht, indem er
-  eine Auswahl von Kommentaren aus der «dialog»-Community präsentiert, die nicht
-  repräsentativ für die Schweizer Bevölkerung ist. Der Artikel argumentiert,
-  dass dies eine systematische Verzerrung der Diskussionslandschaft zugunsten
-  einer politischen Linie ist, mit dem Anstrich der Bürgerbeteiligung.
+  Der Artikel analysiert einen SRF-Beitrag, der angebliche Bürgerstimmen zur
+  UBS-Regulierung präsentiert, und zeigt auf, dass die doppelte Filterung durch
+  Selbstselektion der User und Redaktionsauswahl eine systematisch verzerrte
+  Darstellung erzeugt. Wesentliche Gegenargumente wie Beschäftigungs-,
+  Standort-, Vergleichs- und historische Argumente werden ausgeblendet, während
+  kritische Stimmen rhetorisch aufgewertet und zustimmende Stimmen
+  marginalisiert werden. Das Resultat ist eine pseudo-demokratische Bestätigung
+  der Bundesrats-Linie unter dem Anstrich der Bürgerbeteiligung.
 quelle_datum: '2026-04-30'
 quelle_format: Online-Artikel
-quelle_sendung: ''
-quelle_redaktion: SRF
+quelle_sendung: dialog
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

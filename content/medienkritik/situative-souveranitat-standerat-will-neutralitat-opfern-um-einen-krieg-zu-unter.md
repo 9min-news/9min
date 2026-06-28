@@ -8,62 +8,77 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HFO6dSGbUAAiy0G.jpg'
 tweetId: '2041180569061425580'
 categories:
-  - Demokratie
+  - EU/Aussenpolitik
   - Sicherheitspolitik
-  - Zensur/Meinungsfreiheit
+  - Demokratie
 tags:
   - Neutralität
-  - Sicherheitspolitik
-  - Schweiz
+  - René Rhinow
+  - NZZ
+  - situative Neutralität
+  - NATO
   - USA
-  - Krieg
-  - Internationale Beziehungen
-  - Demokratie
-  - Meinungsfreiheit
+  - Iran-Krieg
+  - Völkerrecht
 seo:
   description: >-
     Am 6. April 2026 publiziert die @NZZ einen Gastkommentar des emeritierten
     Professors und ehemaligen Ständerats René Rhinow. Er argumentiert, die
     Schweiz…
 themen:
-  - Neutralität
-  - Sicherheitspolitik
-  - Internationale Beziehungen
-  - Schweizer Politik
-  - Krieg und Konflikt
+  - Schweizer Neutralitätspolitik
+  - Situative vs. dauernde Neutralität
+  - US-Krieg gegen Iran und Völkerrechtsverletzung
+  - Neutralitätsinitiative
+  - Demokratische Mitbestimmung bei Aussenpolitik
 kritisiertes_medium: NZZ
 kritisierter_beitrag: Neutralität als Stolperstein in der Sicherheitspolitik
 kritisierter_autor: René Rhinow
 kritik_typ:
-  - Fehlinformation
   - Framing
   - Auslassung
+  - Selektion
 personen:
   - René Rhinow
   - Nicolas Levrat
+  - Roger Aebli
   - Henry Dunant
+  - Donald Trump
+  - Adolf Hitler
 institutionen:
   - NZZ
   - SRF
   - UNO
+  - IKRK
   - NATO
+  - EU
   - Bundesrat
+  - Ständerat
+  - USA
+  - Iran
+  - Israel
+  - China
+  - Indien
+  - Belgien
+  - Niederlande
 gesetze_vorlagen:
-  - Haager Abkommen
   - Neutralitätsinitiative
-  - Bundesverfassung
+  - Bundesverfassung Art. 185
+  - 5. Haager Abkommen 1907
 these: >-
-  Die Schweiz sollte ihre Neutralität aufgeben, um eine 'situative Neutralität'
-  zu verfolgen und damit ihre Handlungsfreiheit in der Sicherheitspolitik zu
-  erhöhen.
+  Rhinows Vorschlag einer situativen Neutralität ist keine pragmatische
+  Anpassung, sondern die Aufgabe des strategisch wertvollsten Merkmals der
+  Schweizer Neutralität zugunsten der Unterwerfung unter eine westliche
+  Sicherheitsarchitektur, die gerade einen völkerrechtswidrigen Krieg führt.
 zusammenfassung: >-
-  Der Artikel kritisiert den Gastkommentar von René Rhinow in der NZZ, in dem er
-  die Aufgabe der Schweizer Neutralität fordert. Der Autor argumentiert, dass
-  die Neutralität ein wichtiger Teil der Schweizer Identität und ein
-  strategischer Wert ist, der es der Schweiz ermöglicht, mit allen Seiten zu
-  sprechen und als Vermittler in Konflikten aufzutreten. Die Aufgabe der
-  Neutralität würde die Schweiz in eine ungebundene Position bringen und ihre
-  Glaubwürdigkeit bei internationalen Organisationen und Ländern untergraben.
+  Der Artikel kritisiert René Rhinows NZZ-Gastkommentar, der eine situative
+  Neutralität der Schweiz vorschlägt, als strategisch kurzsichtig und
+  demokratiegefährdend. 9min.ch argumentiert, dass der Wert der Schweizer
+  Neutralität in ihrer Dauerhaftigkeit und Berechenbarkeit liegt und Rhinow
+  diese opfern will, um einen völkerrechtswidrigen US-Krieg gegen den Iran zu
+  unterstützen. Zudem wird kritisiert, dass Rhinow die Neutralitätsinitiative
+  umgehen will, indem er exekutive Entscheidungen ohne Volksabstimmung
+  propagiert.
 quelle_datum: '2026-04-06'
 quelle_format: Online-Artikel
 quelle_sendung: ''

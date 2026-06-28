@@ -6,57 +6,61 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HEwLPvVXUAAoj_a.jpg'
 tweetId: '2039017413094629411'
 categories:
-  - Medienrecht
+  - SRF/SRG
+  - Wirtschaft
   - Gesellschaft
 tags:
-  - Mieten
-  - Mieter
-  - Interessenorganisationen
-  - Journalismus
-  - Medienkritik
-  - Politische Argumentationskette
-  - Repräsentativität
-  - Methodische Einschränkungen
+  - Mietbarometer
+  - Sotomo
+  - Lobbystudie
+  - Selbstselektion
+  - Quellenwahl
+  - Michael Töngi
+  - Regulierungsforderungen
+  - öffentliche-rechtlicher Journalismus
 seo:
   description: >-
     Der SRF-Beitrag zum «Mietbarometer» des Mieterinnen- und Mieterverbands
     illustriert ein bekanntes Problem des politischen Journalismus:…
 themen:
-  - Mietbarometer
-  - Mieterinnen- und Mieterverband
-  - SRF-Beitrag
-  - Lobbystudie
-  - Interessengetriebene Erhebungen
+  - Mietpolitik
+  - Journalismususkritik
+  - Umfragemethodik
+  - Interessenkonflikte
+  - Wohnungsmarkt
 kritisiertes_medium: SRF
 kritisierter_beitrag: Viele Mietende zahlen mehr als 30 Prozent vom Einkommen für Miete
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
-  - Framing
-  - Kontextmangel
+  - Selektion
+  - Interessenkonflikt
 personen:
   - Michael Töngi
 institutionen:
   - SRF
-  - Mieterinnen- und Mieterverband
   - Sotomo
+  - Mieterinnen- und Mieterverband
+  - Parlamentsdienste
+  - Grüne
 gesetze_vorlagen: []
 these: >-
-  Der SRF-Beitrag zum Mietbarometer illustriert ein bekanntes Problem des
-  politischen Journalismus, indem Interessengetriebene Erhebungen als neutrale
-  Bestandsaufnahme behandelt werden.
+  SRF präsentiert eine interessengeleitete Lobbystudie des Mieterverbands als
+  neutrale Bestandsaufnahme, ohne methodische Grenzen, politische Rollen der
+  Quellen oder Gegenperspektiven zu thematisieren.
 zusammenfassung: >-
-  Der SRF-Beitrag zum Mietbarometer wurde kritisiert, da er die methodischen
-  Grenzen der Umfrage und die politischen Rollen der Quellen nicht ausreichend
-  thematisiert. Der Beitrag präsentiert die Ergebnisse der Umfrage als
-  allgemeingültige Vermessung der Lage aller Mieter, obwohl es sich um eine
-  interessengeleitete Erhebung handelt. Die Kritik fordert eine größere Distanz
-  zum Material und eine bessere Darstellung der Struktur der Interessen.
+  Der 9min-Artikel kritisiert einen SRF-Beitrag zum «Mietbarometer 2026» des
+  Mieterinnen- und Mieterverbands. SRF übernimmt die Ergebnisse einer in Auftrag
+  gegebenen Umfrage, ohne deren methodische Grenzen wie mögliche Selbstselektion
+  klar zu benennen, und lässt ausschliesslich Vertreter der auftraggebenden
+  Organisation zu Wort kommen. Damit verschwimmt die Grenze zwischen
+  Berichterstattung und Interessenvertretung, was bei einem
+  öffentlich-rechtlichen Medium besonders problematisch ist.
 quelle_datum: '2026-03-31'
-quelle_format: Broadcast
+quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
-kritik_schwere: 2
+kritik_schwere: 3
 ---
 
 Der SRF-Beitrag zum «Mietbarometer» des Mieterinnen- und Mieterverbands illustriert ein bekanntes Problem des politischen Journalismus: Interessengetriebene Erhebungen werden rasch als neutrale Bestandsaufnahme behandelt, obwohl sie in Wirklichkeit Teil einer politischen Argumentationskette sind.

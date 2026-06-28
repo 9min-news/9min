@@ -6,49 +6,62 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIbyif7WwAAoYGR.jpg'
 tweetId: '2055603056901771737'
 categories:
-  - Medienrecht
+  - SRF/SRG
+  - Abstimmungen
   - Demokratie
 tags:
-  - SRF
-  - Elisabeth Baume-Schneider
-  - Initiative Keine 10-Mio-Schweiz
-  - Rollenvermischung
-  - Kontrolle des Kontexts
+  - Baume-Schneider
+  - Solothurner Literaturtagen
+  - Laudatio
+  - Max Frisch
+  - Personenfreizügigkeit
+  - Selektive Extraktion
+  - Kontextkontrolle
+  - Kollegialitätsprinzip
 seo:
   description: >-
     Wie SRF aus einer Literaturrede eine politische Stellungnahme macht und was
     der Volltext verrät — Zum SRF-Beitrag «Baume-Schneider warnt vor Initiative…
 themen:
-  - Medienkritik
-  - Politische Stellungnahmen
-  - Direkte Demokratie
-kritisiertes_medium: SRF
+  - Selektive Extraktion einer Bundesratsrede
+  - Volksinitiative 'Keine 10-Mio-Schweiz'
+  - Rollenvermischung im Abstimmungskampf
+  - Kontextverlust in der Berichterstattung
+  - Direkte Demokratie und institutionelle Ressourcen
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Baume-Schneider warnt vor Initiative 'Keine 10-Mio-Schweiz'
 kritisierter_autor: ''
 kritik_typ:
+  - Auslassung
+  - Framing
   - Selektion
-  - Kontextmangel
 personen:
   - Elisabeth Baume-Schneider
-  - Max Frisch
   - Corinne Desarzens
+  - Max Frisch
+  - Winston Churchill
 institutionen:
   - SRF
   - Bundesrat
-  - Bundesregierung
+  - EDI
+  - SP
+  - Grand Prix Literature
 gesetze_vorlagen:
-  - Initiative Keine 10-Mio-Schweiz
+  - Volksinitiative 'Keine 10-Mio-Schweiz'
 these: >-
-  Die SRF-Meldung über die Warnung von Elisabeth Baume-Schneider vor der
-  Initiative 'Keine 10-Mio-Schweiz' ist durch selektive Extraktion und Kontrolle
-  des Kontexts manipuliert worden.
+  SRF hat durch selektive Extraktion des politischen Einschubs aus einer
+  überwiegend literarischen Laudatio den Charakter der Rede grundlegend
+  verändert und die Rollenvermischung einer SP-Bundesrätin sowie die
+  strukturelle Ressourcenasymmetrie im Abstimmungskampf verschleiert.
 zusammenfassung: >-
-  Die SRF-Meldung über die Warnung von Elisabeth Baume-Schneider vor der
-  Initiative 'Keine 10-Mio-Schweiz' ist kritisiert worden, da sie den
-  literarischen Kontext und die Relativierungen der Originalrede weglässt. Dies
-  führt zu einer Veränderung des Charakters der Rede und gibt der Warnung eine
-  absolute Bedeutung. Die Kritik betrifft die selektive Extraktion, den
-  Kontextmangel und die Rollenvermischung.
+  Der Artikel analysiert, wie SRF aus einer Rede von Bundesrätin Baume-Schneider
+  an den Solothurner Literaturtagen, die zu 60% eine literarische Laudatio auf
+  Corinne Desarzens war, nur den 15%igen politischen Einschub als eigenständige
+  Meldung präsentierte. Dadurch wurde der Charakter der Rede verändert: Aus
+  einer kulturellen Feier mit politischem Moment wurde eine politische
+  Stellungnahme. SRF thematisierte weder die Rollenvermischung noch die
+  strukturelle Asymmetrie, dass eine Bundesrätin institutionelle Ressourcen
+  gegen eine Volksinitiative einsetzt.
 quelle_datum: '2026-05-15'
 quelle_format: Online-Artikel
 quelle_sendung: ''

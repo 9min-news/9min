@@ -6,18 +6,18 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJaTMmWWYAUXG5g.jpg'
 tweetId: '2059995942162497970'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Sicherheitspolitik
-  - Gesellschaft
+  - Migration
 tags:
-  - SRF
-  - Journalismus
-  - Behörden
-  - Sicherheit
-  - Terror
-  - Islamismus
-  - Psychiatrie
-  - Justiz
+  - Behördenpropaganda
+  - Kontrollfunktion
+  - Winterthur
+  - Messserattacke
+  - An'Nur-Moschee
+  - Bürgerrechtsentzug
+  - vierte Gewalt
+  - Staatsversagen
 seo:
   description: >-
     Um 14:42 Uhr liefert SRF die Recherche. Und man muss fair sein: Für die
@@ -25,38 +25,41 @@ seo:
     hat…
 themen:
   - Behördenjournalismus
-  - Terrorismus
   - Islamismus
-  - Psychiatrie
-  - Justiz
-kritisiertes_medium: SRF
+  - Sicherheitsversagen
+  - Doppelbürgerschaft
+  - Psychiatrie und Gefährdungsbeurteilung
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Verdächtiger war in Winterthurer Islamisten-Szene aktiv
 kritisierter_autor: Daniel Glaus
 kritik_typ:
+  - Behördenpropaganda
   - Auslassung
-  - Framing
   - Kontextmangel
 personen:
   - Daniel Glaus
   - Mario Fehr
 institutionen:
   - SRF
-  - Polizei
+  - Kantonspolizei
+  - An'Nur-Moschee
   - Psychiatrie
+  - Nachrichtendienst
   - Justiz
+  - Bundesrat
 gesetze_vorlagen:
-  - Bürgerrechtsgesetz
+  - Art. 42 Bürgerrechtsgesetz
 these: >-
-  Der SRF-Bericht über die Messerattacke in Winterthur ist ein Beispiel für
-  Behördenjournalismus, der Fakten sammelt, aber keine kritischen Fragen an die
-  Macht stellt.
+  SRF liefert zwar Fakten zum mehrfachen Behördenversagen bei der Messerattacke
+  in Winterthur, verweigert aber die kritische Kontrolle der Sicherheitsbehörden
+  und übernimmt unkritisch deren entpolitisierendes Narrativ.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Bericht über die Messerattacke in Winterthur,
-  weil er keine kritischen Fragen an die Behörden stellt und die politische
-  Komfortzone des Staates nicht stört. Der Bericht liefert Fakten, aber
-  verweigert die politische Diskussion darüber. Der Autor fordert einen
-  unabhängigen Journalismus, der die Macht kontrolliert und zur Verantwortung
-  zieht.
+  Der Artikel kritisiert den SRF-Beitrag zur Messerattacke am Bahnhof Winterthur
+  als Behördenjournalismus, der Fakten liefere, aber keine kritischen Fragen an
+  verantwortliche Behörden stelle. SRF übernehme unkritisch das
+  Kombination-Narrativ der Behörden, das die Tat als psychiatrisches Problem
+  statt als islamistischen Terrorakt darstelle. Die politische Diskussion über
+  Einbürgerungspraxis und möglichen Bürgerrechtsentzug werde verweigert.
 quelle_datum: '2026-05-28'
 quelle_format: Online-Artikel
 quelle_sendung: ''

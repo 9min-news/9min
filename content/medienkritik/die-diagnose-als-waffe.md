@@ -6,56 +6,65 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJQRzFXXYAA3W0w.jpg'
 tweetId: '2059291290886447129'
 categories:
-  - Medienrecht
-  - Zensur/Meinungsfreiheit
+  - Migration
   - Demokratie
+  - SRF/SRG
 tags:
   - Peer Teuwsen
-  - NZZ
-  - SRF
-  - Medienlandschaft
+  - NZZ am Sonntag
+  - 10-Millionen-Initiative
   - Pathologisierung
-  - Politische Gegner
-  - Diagnose
-  - Debatte
+  - Freud
+  - Wohnungsnot
+  - Personenfreizügigkeit
+  - Medienmuster
 seo:
   description: >-
     Peer Teuwsen nennt die Hälfte der Schweizer Wählerschaft neurotisch,
     verwahrlost und realitätsverweigernd. Er beruft sich auf Freud, um
     politische Gegner…
 themen:
+  - Pathologisierung politischer Gegner
   - 10-Millionen-Initiative
-  - Politische Auseinandersetzung
-  - Medienkritik
-kritisiertes_medium: NZZ
+  - Medien und Diskurskultur
+  - Auslassung von Argumenten
+  - Klassenverachtung im Kommentar
+kritisiertes_medium: NZZ am Sonntag
 kritisierter_beitrag: '10-Millionen-Initiative: Sind wir von allen guten Geistern verlassen?'
 kritisierter_autor: Peer Teuwsen
 kritik_typ:
+  - Auslassung
   - Framing
-  - Fehlinformation
-  - Selektion
+  - Einordnungsfehler
 personen:
   - Peer Teuwsen
+  - Sigmund Freud
 institutionen:
   - NZZ
+  - NZZ am Sonntag
   - SRF
+  - Google
+  - EU
 gesetze_vorlagen:
   - 10-Millionen-Initiative
+  - Personenfreizügigkeitsabkommen
+  - AHV
 these: >-
-  Der Kommentar von Peer Teuwsen ist ein Beispiel für die politische
-  Auseinandersetzung durch psychologische Diagnose zu ersetzen.
+  Peer Teuwsen ersetzt in seinem NZZ-am-Sonntag-Kommentar die Auseinandersetzung
+  mit den Argumenten der Initiativbefürworter durch eine psychologische Diagnose
+  und pathologisiert damit rund die Hälfte der Schweizer Wählerschaft.
 zusammenfassung: >-
-  Der Artikel kritisiert den Kommentar von Peer Teuwsen in der NZZ, in dem er
-  die Hälfte der Schweizer Wählerschaft als neurotisch, verwahrlost und
-  realitätsverweigernd bezeichnet. Der Artikel argumentiert, dass dies eine
-  unangemessene Methode der politischen Auseinandersetzung ist, die die Debatte
-  unterdrückt. Der Kommentar von Teuwsen wird als Beispiel für die
-  Pathologisierung von politischen Gegnern und die Vermischung von Themen zur
-  Erzeugung eines bestimmten Gefühls kritisiert.
+  Der 9min.ch-Artikel kritisiert einen Kommentar von Peer Teuwsen in der NZZ am
+  Sonntag vom 24.05.2026 zur 10-Millionen-Initiative. Teuwsen lasse wesentliche
+  Argumente der Befürworter wie Wohnungsnot, Lohnkonkurrenz und
+  Infrastrukturbelastung unerwähnt, vermische unzusammenhängende Themen und
+  pathologisiere politische Gegner mithilfe eines Freud-Zitats als neurotisch.
+  Der Artikel ordnet diesen Kommentar als Teil eines grösseren Musters in der
+  Schweizer Medienlandschaft ein.
 quelle_datum: '2026-05-24'
-quelle_format: Online-Artikel
+quelle_format: Print
 quelle_sendung: ''
-quelle_redaktion: NZZ
+quelle_redaktion: NZZ am Sonntag Meinung
 kritik_schwere: 3
 ---
 

@@ -6,56 +6,66 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJRTJZlXEAAQJSw.jpg'
 tweetId: '2059363303206310391'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Wirtschaft
   - Gesellschaft
 tags:
   - Nayib Bukele
-  - El Salvador
   - Bitcoin
-  - Wirtschaftspresse
-  - Medienmanipulation
+  - El Salvador
+  - Echoraum
+  - Wahrheitsproduktion
+  - SRF
   - Geldsozialismus
+  - Systemerhalt
 seo:
   description: >-
     9min zu 9min — Teil 4 der Serie. Im September 2022 schrieb Nayib Bukele
     (@nayibbukele) ein Essay, das die westliche Wirtschaftspresse als…
 themen:
-  - Medienkritik
-  - Wirtschaftspolitik
-  - Geldsystem
+  - Medien-Echoräume und Wahrheitsproduktion
+  - Bitcoin-Strategie El Salvadors
+  - Systemerhaltende Berichterstattung in der Schweiz
+  - Geldsystem und Medienkonsens
 kritisiertes_medium: SRF
 kritisierter_beitrag: ''
 kritisierter_autor: ''
 kritik_typ:
-  - Framing
   - Auslassung
-  - Fehlinformation
+  - Framing
+  - Selektion
 personen:
   - Nayib Bukele
+  - Roland Baader
 institutionen:
   - SRF
   - Bloomberg
   - Financial Times
-  - Forbes
   - New York Times
   - BBC
   - Deutsche Welle
   - The Guardian
   - Al Jazeera
+  - IWF
+  - EFK
+  - Comparis
+  - Caritas
+  - Bitcoin Magazine
+  - Ratingagenturen
 gesetze_vorlagen: []
 these: >-
-  Die westliche Wirtschaftspresse produziert eine einheitliche
-  Berichterstattung, die systemerhaltend ist und Alternativen zum bestehenden
-  Geldsystem nicht zulässt.
+  Die westliche Wirtschaftspresse produziert einheitliche, systemerhaltende
+  Narrative, die bei Falschprognosen nicht korrigiert werden – ein Muster, das
+  auch die Schweizer SRF-Berichterstattung prägt.
 zusammenfassung: >-
-  Der Artikel analysiert die Berichterstattung über El Salvador und seine
-  Bitcoin-Strategie und zeigt, wie die westliche Wirtschaftspresse eine
-  einheitliche Narrative produziert, die systemerhaltend ist. Der Autor
-  argumentiert, dass diese Berichterstattung nicht journalistisch unabhängig
-  ist, sondern Teil eines Echoraums, der die Interessen der Eliten schützt. Die
-  Schweizer Berichterstattung über die eigenen wirtschaftlichen Probleme folgt
-  denselben Mustern.
+  Der Artikel nutzt Bukeles Essay über El Salvadors Bitcoin-Strategie als
+  Fallstudie für systemerhaltende Medienmuster und zeigt, dass die
+  internationalen Vorhersagen eines ökonomischen Untergangs El Salvadors falsch
+  waren und nie korrigiert wurden. Diese Methode der Wahrheitsproduktion wird
+  auf die Schweizer Berichterstattung übertragen, insbesondere auf SRF, das
+  strukturelle Ursachen zugunsten individueller Erklärungen verschleiere. Die
+  Kritik richtet sich gegen einen Echoraum, der aus denselben Quellen schöpft
+  und Verantwortliche unsichtbar hält.
 quelle_datum: ''
 quelle_format: ''
 quelle_sendung: ''

@@ -6,35 +6,35 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HKHYMrHXUAEC7Lv.jpg'
 tweetId: '2063167874315747373'
 categories:
-  - Medienrecht
-  - Demokratie
+  - SRF/SRG
   - Abstimmungen
+  - Migration
 tags:
-  - SRF
-  - SWI swissinfo.ch
-  - SVP
-  - Initiative
-  - Abstimmung
-  - Ausland
-  - Medien
-  - Berichterstattung
+  - SVP-Initiative
+  - 10-Millionen-Obergrenze
+  - Auslandberichterstattung
+  - Selektion
+  - Framing
+  - Asymmetrie
+  - Abstimmungskampf
+  - SWI swissinfo
 seo:
   description: >-
     Dieser SRF-Beitrag (übernommen von SWI swissinfo.ch) tut etwas scheinbar
     Bescheidenes: Er referiert, wie ausländische Medien über die SVP-Initiative…
 themen:
-  - SRF-Beitrag
-  - Ausland Auswahl
-  - SVP-Initiative
-  - Keine 10-Millionen-Schweiz
-  - Abstimmungskampagne
+  - Auslandberichterstattung zur SVP-Initiative
+  - Selektion bei Zitatauswahl
+  - Wertungsübernahme ohne Kennzeichnung
+  - Asymmetrie im Abstimmungskampf
+  - Saisonnierstatut-Vorwurf ohne Faktencheck
 kritisiertes_medium: SRF
 kritisierter_beitrag: Was ausländische Medien aus dem Schweizer Abstimmungskampf lesen
 kritisierter_autor: ''
 kritik_typ:
   - Selektion
-  - Framing
   - Auslassung
+  - Framing
 personen: []
 institutionen:
   - SRF
@@ -43,22 +43,25 @@ institutionen:
   - New York Times
   - Guardian
   - Spiegel
-  - Zeit
+  - Die Zeit
   - Bloomberg
+  - Time
+  - Roche
+  - UBS
+  - Nestlé
 gesetze_vorlagen:
-  - Keine 10-Millionen-Schweiz-Initiative
+  - SVP-Initiative «Keine 10-Millionen-Schweiz»
 these: >-
-  Der SRF-Beitrag präsentiert eine einseitige Auswahl ausländischer
-  Medienberichte über die SVP-Initiative, die negativ gegen die Initiative
-  ausfällt.
+  Der SRF-Beitrag präsentiert eine einseitig negative Auswahl ausländischer
+  Medienstimmen als neutralen Querschnitt und verzerrt damit die Wahrnehmung der
+  SVP-Initiative im laufenden Abstimmungskampf.
 zusammenfassung: >-
-  Der Beitrag des SRF referenziert ausländische Medienberichte über die
-  SVP-Initiative, aber die Auswahl der zitierten Stimmen ist einseitig und
-  negativ gegen die Initiative. Der Beitrag übernimmt Wertungen ausländischer
-  Medien, ohne sie als solche zu kennzeichnen, und lässt die Stimme der
-  Initianten selbst weitgehend unberücksichtigt. Die Folgen der Initiative
-  werden einseitig aus der Perspektive der Wirtschaftssorge dargestellt, ohne
-  die Argumente der Befürworter der Initiative zu berücksichtigen.
+  Der 9min-Artikel kritisiert einen SRF-Beitrag, der ausländische Reaktionen zur
+  SVP-Initiative «Keine 10-Millionen-Schweiz» referiert. Alle fünf zitierten
+  Leitmedien bewerten die Initiative negativ, während Stimmen der Initianten und
+  wirtschaftsliberale/migrationskritische ausländische Perspektiven vollständig
+  fehlen. Zudem werden Wertungen wie «Ausländerfeindlichkeit» ungeprüft
+  übernommen und Meinungsartikel als Befund dargestellt.
 quelle_datum: '2026-06-03'
 quelle_format: Online-Artikel
 quelle_sendung: ''

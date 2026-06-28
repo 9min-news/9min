@@ -6,55 +6,67 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJoZVTbXMAUh6Tw.jpg'
 tweetId: '2060987688296079529'
 categories:
+  - SRF/SRG
   - Gesellschaft
   - Demokratie
 tags:
-  - SRF
-  - Kulturplatz
   - Yves Bossart
-  - Medienkritik
-  - Gesellschaftskritik
-  - Demokratie
-  - Zensur
-  - Meinungsfreiheit
+  - Kulturplatz
+  - Systemkritik
+  - Überwachungsstaat
+  - Bankenrettung
+  - Corona
+  - Bitcoin
+  - Zwangsgebühr
 seo:
   description: >-
     Yves Bossart blickt im «Kulturplatz» auf 25 Jahre 21. Jahrhundert zurück. Er
     sagt: «Wir haben die Zukunft verloren.» Er hat recht — und doch erzählt er…
 themen:
-  - Medienkritik
-  - Gesellschaftsanalyse
-  - Demokratische Teilhabe
-kritisiertes_medium: SRF
+  - Öffentlich-rechtliche Berichterstattung und Systemkritik
+  - Verlust von Prinzipien vs. Werte
+  - Finanzkrise 2008 und Bankenrettung
+  - Überwachungsstaat und Kontrollgewinn
+  - Corona-Massnahmen und digitale Kontrolle
+kritisiertes_medium: SRF Kulturplatz
 kritisierter_beitrag: '25 Jahre 21. Jahrhundert: Was uns seit 2000 geprägt hat'
 kritisierter_autor: Yves Bossart
 kritik_typ:
   - Auslassung
   - Framing
-  - Kontextmangel
+  - Behördenpropaganda
 personen:
   - Yves Bossart
-  - Franklin
+  - Ursula von der Leyen
+  - Benjamin Franklin
+  - Amy Winehouse
+  - Taylor Swift
+  - Greta Thunberg
 institutionen:
   - SRF
+  - SRF Kulturplatz
+  - Lehman Brothers
+  - Occupy Wall Street
   - Zentralbanken
+  - Investmentbanken
 gesetze_vorlagen:
-  - Patriot Act
+  - PATRIOT Act
 these: >-
-  Der öffentlich-rechtliche Sender SRF präsentiert die Krise als Stimmung und
-  nicht als Konstruktion, indem er die Symptome mit Eleganz katalogisiert, aber
-  die Ursache unbenannt lässt.
+  SRF beschreibt die Krise des 21. Jahrhunderts als Stimmung und Wetter, nicht
+  als Konstruktion der Mächtigen, und verschweigt dabei systematisch die
+  Ursachen sowie die eigene Rolle als Teil der Machtstruktur.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag '25 Jahre 21. Jahrhundert: Was uns seit
-  2000 geprägt hat' von Yves Bossart für seine unvollständige und irreführende
-  Darstellung der Krise. Der Beitrag beschreibt die Symptome der Krise, aber
-  lässt die Ursache unbenannt. Der Artikel argumentiert, dass dies die Signatur
-  des öffentlich-rechtlichen Denkens ist, das die Krise als Stimmung verkauft,
-  nie als Konstruktion.
+  Der Artikel kritisiert Yves Bossarts SRF-Kulturplatz-Beitrag über 25 Jahre 21.
+  Jahrhundert als oberflächliche Symptombeschreibung ohne Ursachenanalyse.
+  Bossart beschreibe die Krise als Stimmung statt als Konstruktion und
+  verschweige zentrale Themen wie Bankenrettung, Überwachungsausbau,
+  Corona-Massnahmen und digitale Geldkontrolle. SRF könne die Ursachen nicht
+  benennen, weil es als zwangsfinanzierter Sender selbst Teil der Machtstruktur
+  sei.
 quelle_datum: '2026-05-27'
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: Kulturplatz
-quelle_redaktion: SRF
+quelle_redaktion: SRF Kultur
 kritik_schwere: 3
 ---
 

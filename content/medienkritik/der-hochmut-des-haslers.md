@@ -6,33 +6,36 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJKjzjrXsAENdxa.jpg'
 tweetId: '2058888427085443155'
 categories:
-  - Medienrecht
+  - EU/Aussenpolitik
+  - Migration
   - Demokratie
-  - Gesellschaft
 tags:
   - NZZ
   - Georg Häsler
+  - Hochmut
   - Kommentarspalte
-  - Demokratie
-  - Zuwanderung
-  - EU
-  - Souveränität
+  - Framing
+  - Dichotomie
+  - Bilaterale
+  - Selbstbestimmung
 seo:
   description: >-
     Wie die NZZ-Kommentarspalte Georg Häslers Predigt demoliert, den
     Hochmutsvorwurf gegen den Autor kehrt, die Lüge von den 8'000 Zuwanderern
     dokumentiert,…
 themen:
-  - Medienkritik
-  - Direkte Demokratie
-  - Zuwanderung
+  - 10-Millionen-Initiative
+  - Personenfreizügigkeit
+  - Kommentarspalte als Korrektiv
+  - BIP pro Kopf vs. BIP
+  - Lüge von den 8'000 Zuwanderern
 kritisiertes_medium: NZZ
 kritisierter_beitrag: Hochmut kommt vor dem Fall
 kritisierter_autor: Georg Häsler
 kritik_typ:
   - Framing
   - Auslassung
-  - Fehlinformation
+  - Kontextmangel
 personen:
   - Georg Häsler
   - T. Zwicky
@@ -45,23 +48,31 @@ personen:
 institutionen:
   - NZZ
   - EU
+  - SVP
+  - FDP
+  - NATO
 gesetze_vorlagen:
-  - Bilaterale Verträge
+  - 10-Millionen-Initiative
+  - Bilaterale I
   - Personenfreizügigkeit
 these: >-
-  Die Kommentarspalte unter Georg Häslers Artikel in der NZZ zeigt, dass die
-  Leser differenzierter denken als der Autor und dass die Debatte um die
-  Zuwanderung nicht das ist, was Häsler behauptet.
+  Die Kommentarspalte unter Häslers NZZ-Kommentar beweist, dass die Leser
+  differenzierter argumentieren als der Kommentator und dessen Framing,
+  Auslassungen und Elite-Perspektive als demokratisches Korrektiv widerlegen.
 zusammenfassung: >-
-  Der Artikel analysiert die Kommentarspalte unter Georg Häslers Artikel in der
-  NZZ und zeigt, dass die Leser Häslers Argumentation ablehnen und stattdessen
-  für eine kontrollierte Einwanderung und Selbstbestimmung argumentieren. Die
-  Leser kritisieren Häslers Framing und Auslassung von wichtigen Informationen
-  und betonen die Bedeutung der Demokratie und der Lebensqualität.
+  Der 9min-Artikel analysiert die 442 Kommentare unter Georg Häslers
+  NZZ-Kommentar «Hochmut kommt vor dem Fall» vom 23. Mai 2026 und zeigt, wie die
+  Leserschaft dessen Framing (Selbstbestimmung als Hochmut, Unterordnung als
+  Vernunft), die falsche Dichotomie (Öffnung vs. Abschottung), die Auslassung
+  der Lüge von den 8'000 Zuwanderern und die Ignoranz des BIP-pro-Kopf-Arguments
+  korrigiert. Die Kommentarspalte wird als demokratisches Korrektiv zu einem
+  undemokratischen Text interpretiert, der das Volk belehrt statt fragt und
+  damit das Gegenteil bewirkt: Leser treibt die Zustimmung zur
+  10-Millionen-Initiative.
 quelle_datum: '2026-05-23'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: NZZ
+quelle_redaktion: NZZ Meinung
 kritik_schwere: 3
 ---
 

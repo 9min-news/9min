@@ -6,57 +6,67 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIvZkGGWsAASMzP.jpg'
 tweetId: '2056977058459169217'
 categories:
-  - Medienrecht
-  - Gesellschaft
+  - SRF/SRG
+  - Billag/Gebühren
+  - Demokratie
 tags:
   - Kassensturz
-  - SRF
   - XXXLutz
-  - Kundenservice
   - Rügen
-  - Ombudsmann
   - UBI
+  - Ombudsmann
   - Monopol
+  - Haushaltsgebühr
+  - Asymmetrie
 seo:
   description: >-
     Wie Kassensturz über XXXLutz richtet — und dabei vergisst, dass der
     öffentlich-rechtliche Sender selbst vor Gericht steht, weil er Hunderte von
     Rügen…
 themen:
-  - Kassensturz
-  - SRF
-  - XXXLutz
-  - Kundenservice
+  - SRF-Monopol und Aufsicht
+  - Medienkritik und Selbstkritik
+  - Konsumentenschutz
+  - Öffentlich-rechtlicher Auftrag
+  - Rügen und Aufsichtsorgane
 kritisiertes_medium: SRF
-kritisierter_beitrag: 'Kassensturz: Möbelriese XXXLutz: Viele Klagen über schlechten Kundenservice'
+kritisierter_beitrag: 'Möbelriese XXXLutz: Viele Klagen über schlechten Kundenservice'
 kritisierter_autor: Eveline Falk
 kritik_typ:
+  - Asymmetrie
   - Auslassung
-  - Framing
-  - Interessenkonflikt
+  - Kontextmangel
 personen:
   - Eveline Falk
+  - Samuel Buri
+  - Familie Kocic
+  - Edith Stäuble
+  - Rolf Stäuble
   - Yves von Ballmoos
 institutionen:
   - SRF
+  - Kassensturz
   - XXXLutz
   - Ombudsmann
   - UBI
+  - Gericht
 gesetze_vorlagen:
   - Radio- und Fernsehgesetz
 these: >-
-  Der Sender SRF kritisiert den Möbelhersteller XXXLutz für seinen schlechten
-  Kundenservice, ignoriert aber selbst Hunderte von Rügen seiner Aufsichtsorgane
-  und zieht vor Gericht gegen diese.
+  SRF kritisiert in Kassensturz den schlechten Kundenservice von XXXLutz,
+  ignoriert dabei aber systemisch die eigenen Hunderten ignorierten Rügen der
+  Aufsichtsorgane und den eigenen mangelhaften 'Kundenservice' als
+  zwangsfinanziertes Monopol.
 zusammenfassung: >-
-  Der Artikel kritisiert den Sender SRF für seine Berichterstattung über den
-  Möbelhersteller XXXLutz. SRF kritisiert XXXLutz für seinen schlechten
-  Kundenservice, aber ignoriert selbst Hunderte von Rügen seiner Aufsichtsorgane
-  und zieht vor Gericht gegen diese. Der Artikel argumentiert, dass SRF als
-  Monopolist nicht die Legitimität hat, über andere zu richten, wenn es selbst
-  nicht seine eigenen Rügen befolgt.
+  Der Artikel wirft Kassensturz vor, XXXLutz für ignorierte Reklamationen zu
+  kritisieren, während SRF selbst Hunderte von Rügen des Ombudsmanns und der UBI
+  ignoriere und gerichtlich dagegen vorgehe. Diese Asymmetrie werde durch das
+  SRF-Monopol und die Zwangsgebühr ermöglicht, die es dem Sender erlaube, eigene
+  Qualitäts- und Serviceprobleme auszublenden. Zudem werde die österreichische
+  Herkunft von XXXLutz und die strukturelle Frage ausländischer
+  Marktdurchdringung ausgeklammert.
 quelle_datum: '2026-05-19'
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: Kassensturz
 quelle_redaktion: SRF
 kritik_schwere: 3

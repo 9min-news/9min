@@ -6,52 +6,58 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJEpSXwXQAEwZd9.jpg'
 tweetId: '2058471920320864617'
 categories:
-  - Gesellschaft
+  - SRF/SRG
   - Wirtschaft
-  - Demokratie
+  - Gesellschaft
 tags:
+  - SRF
   - Corine Mauch
-  - Zürich
-  - Wohnungsnot
+  - Wohnungsmarkt
   - Mieten
-  - Städte
-  - Föderalismus
-  - Wirtschaftsleistung
+  - Zürich
+  - Abschiedsinterview
+  - Angebot und Nachfrage
+  - Bilanz
 seo:
   description: >-
     Wie SRF Corine Mauch zum Abschied eine weiche Bühne bietet, die ökonomische
     Logik des Wohnungsmarkts als «Märchen» stehen lässt, den städtischen…
 themen:
-  - Wohnungsmarkt
-  - Stadtpolitik
-  - Föderalismus
-kritisiertes_medium: SRF
+  - Wohnungsmarkt und Mietpreise
+  - Medienkritik an SRF-Interview
+  - Stadtzürcher Politik unter Corine Mauch
+  - Föderalismus und städtischer Machtanspruch
+kritisiertes_medium: SRF News
 kritisierter_beitrag: 'Corine Mauch über Macht, Mieten und Märchen'
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
-  - Framing
+  - Behördenpropaganda
   - Kontextmangel
 personen:
   - Corine Mauch
 institutionen:
   - SRF
   - Stadt Zürich
+  - SP
+  - Bundesbern
 gesetze_vorlagen: []
 these: >-
-  SRF bietet Corine Mauch eine weiche Bühne für ihren Abschied und lässt ihre
-  Deutung der Wohnungsmarktlage unwidersprochen stehen.
+  SRF bietet Corine Mauch zum Abschied eine unkritische Bühne, lässt ökonomische
+  Widersprüche und die Bilanz nach 17 Jahren SP-Stadtpolitik unhinterfragt.
 zusammenfassung: >-
-  Der Artikel kritisiert das Abschiedsinterview mit Corine Mauch bei SRF, in dem
-  sie ihre Deutung der Wohnungsmarktlage und ihrer Politik als Stadtpräsidentin
-  von Zürich unwidersprochen präsentieren kann. Der Artikel argumentiert, dass
-  SRF wichtige Fragen nicht stellt und die ökonomische Logik des Wohnungsmarktes
-  nicht ernsthaft prüft.
+  9min.ch kritisiert ein SRF-Abschiedsinterview mit der abtretenden Zürcher
+  Stadtpräsidentin Corine Mauch. SRF lasse Mauchs Behauptung stehen, mehr Bauen
+  senke die Mieten nicht automatisch, ohne den ökonomischen Zusammenhang zu
+  prüfen, und frage nicht nach der Verantwortung für die verschärfte Wohnungsnot
+  nach 17 Jahren SP-geführter Stadtpolitik. Zudem werde ihr urbaner
+  Machtanspruch gegenüber dem Föderalismus und ihre Darstellung Zürichs als
+  Zukunftslabor nicht hinterfragt.
 quelle_datum: '2026-05-19'
 quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
-kritik_schwere: 2
+kritik_schwere: 3
 ---
 
 *Wie SRF Corine Mauch zum Abschied eine weiche Bühne bietet, die ökonomische Logik des Wohnungsmarkts als «Märchen» stehen lässt, den städtischen Machtanspruch nicht hinterfragt und nicht fragt, warum Zürich nach 17 Jahren linker Wohnpolitik unbezahlbarer ist als je zuvor*

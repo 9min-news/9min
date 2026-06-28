@@ -6,56 +6,64 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HE4Tf4kaQAAZ4w-.jpg'
 tweetId: '2039591087816286717'
 categories:
-  - Medienrecht
-  - Gesellschaft
-  - Zensur/Meinungsfreiheit
+  - SRF/SRG
+  - EU/Aussenpolitik
+  - Sicherheitspolitik
 tags:
-  - SRF
-  - Iran-Krieg
-  - Medienkritik
   - Schlagzeilen
   - Asymmetrie
-  - Wertung
-  - Framing
+  - SRF
+  - Iran-Krieg
+  - Trump
+  - Sprachregister
+  - Doppelstandard
+  - Headline-Framing
 seo:
   description: >-
     Zwischen dem 28. Februar und dem 2. April 2026 hat SRF mehr als 120 Beiträge
     zum Krieg im Iran publiziert. Das ist der Bedeutung des Konflikts
     angemessen.…
 themen:
-  - Medienkritik
-  - SRF Berichterstattung
-  - Iran-Krieg
+  - Schlagzeilen-Sprachregister
+  - Iran-Krieg-Berichterstattung
+  - Asymmetrie in der Headline-Wertung
+  - Trump-Darstellung vs. Iran-Darstellung
+  - Öffentlich-rechtlicher Auftrag
 kritisiertes_medium: SRF
-kritisierter_beitrag: ''
+kritisierter_beitrag: SRF-Schlagzeilen zum Iran-Krieg (Feb.–Apr. 2026)
 kritisierter_autor: ''
 kritik_typ:
-  - Framing
   - Asymmetrie
+  - Framing
 personen:
   - Donald Trump
+  - Selensky
+  - Macron
+  - Scholz
 institutionen:
   - SRF
+  - Nato
   - USA
   - Iran
 gesetze_vorlagen: []
 these: >-
-  Die SRF-Berichterstattung über den Iran-Krieg zeigt eine Asymmetrie in den
-  Schlagzeilen, indem gegenüber den USA und Donald Trump oft ein wertendes und
-  spöttisches Register gewählt wird, während gegenüber dem Iran und seinen
-  Akteuren ein deskriptiver und empathischer Ton verwendet wird.
+  SRF wendet in Schlagzeilen zum Iran-Krieg einen doppelten sprachlichen
+  Massstab an: Trump und US-Akteure werden wiederholt wertend, spöttisch oder
+  umgangssprachlich gerahmt, während iranische Akteure und Zivilisten häufiger
+  deskriptiv oder empathisch erscheinen.
 zusammenfassung: >-
-  Der Artikel analysiert die SRF-Berichterstattung über den Iran-Krieg und zeigt
-  auf, dass die Schlagzeilen oft eine Asymmetrie aufweisen. Während gegenüber
-  den USA und Donald Trump oft ein wertendes und spöttisches Register gewählt
-  wird, wird gegenüber dem Iran und seinen Akteuren ein deskriptiver und
-  empathischer Ton verwendet. Der Artikel argumentiert, dass dies ein Problem
-  für ein öffentlich-rechtliches Medium wie SRF darstellt, das faire sprachliche
-  Standards schuldet.
-quelle_datum: '2026-05-27'
+  Der Artikel analysiert SRF-Schlagzeilen zum Iran-Krieg zwischen Februar und
+  April 2026 und identifiziert eine sprachliche Asymmetrie: Während Trump/USA
+  oft kommentierend, spöttisch oder vorverurteilend tituliert werden
+  («Planlosigkeit», «Honig ums Maul», «davonmachen»), erscheinen Iran-bezogene
+  Schlagzeilen häufiger nüchtern oder empathisch. Der Autor betont, dass dies
+  keine Pauschalkritik am SRF ist, sondern ein über Wochen erkennbares Muster
+  benennt, das für ein gebührenfinanziertes Medium fairere sprachliche Standards
+  verlangt.
+quelle_datum: ''
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: 9min.ch
+quelle_redaktion: SRF News
 kritik_schwere: 2
 ---
 

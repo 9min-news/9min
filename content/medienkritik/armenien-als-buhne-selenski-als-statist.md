@@ -6,64 +6,73 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHiwxhTXoAI1R2p.jpg'
 tweetId: '2051584069440241672'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - EU/Aussenpolitik
-  - Demokratie
+  - Sicherheitspolitik
 tags:
   - SRF
-  - EPG-Treffen
+  - Selenski
   - Armenien
-  - Wolodimir Selenski
-  - Ukraine
+  - EPG-Treffen
+  - Mandat
+  - Auslassung
   - Russland
-  - Demokratie
-  - Medienkritik
+  - Korrespondentenbericht
 seo:
   description: >-
     Zur SRF-Berichterstattung «EPG-Treffen in Armenien ist ein politisches
     Signal», SRF 4 News, 5. Mai 2026 Einen Tag nach dem Mutmacher-Beitrag über
     Mark…
 themen:
-  - SRF-Berichterstattung
-  - EPG-Treffen in Armenien
-  - Wolodimir Selenski
+  - SRF-Berichterstattung zum EPG-Treffen in Eriwan
+  - Selenskis abgelaufenes Verfassungsmandat
+  - Russland-Ukraine-Konflikt und Waffenruhe-Verhandlungen
+  - Armeniens geopolitische Doppelbindung
+  - Westliche Medien und ukrainische Legitimationsfrage
 kritisiertes_medium: SRF 4 News
 kritisierter_beitrag: EPG-Treffen in Armenien ist ein politisches Signal
 kritisierter_autor: Calum MacKenzie
 kritik_typ:
   - Auslassung
-  - Framing
   - Kontextmangel
+  - Framing
 personen:
-  - Wolodimir Selenski
   - Calum MacKenzie
-  - Mark Carney
-  - Premier Paschinjan
+  - Wolodimir Selenski
+  - Nikol Paschinjan
   - Walerij Saluschnyj
+  - Mark Carney
+  - Putin
 institutionen:
   - SRF
+  - EPG
   - EU
   - Russland
-  - Ukraine
   - Armenien
+  - Ukraine
+  - OVKS
+  - Russisches Staatsfernsehen
 gesetze_vorlagen:
-  - ukrainische Verfassung
+  - Ukrainische Verfassung
+  - Kriegsrecht Ukraine
 these: >-
-  Der SRF-Beitrag über das EPG-Treffen in Armenien enthält eine bemerkenswerte
-  Auslassung, indem er den Status von Wolodimir Selenski als ungewählter
-  Präsident nicht thematisiert.
+  Der SRF-Beitrag liefert zur armenischen Lage solide Korrespondentenarbeit,
+  blendet aber systematisch Selenskis seit Mai 2024 abgelaufenes
+  Verfassungsmandat und die laufenden Waffenruhe-Verhandlungen aus, um das
+  ideologische Gerüst unangetastet zu lassen.
 zusammenfassung: >-
-  Der Artikel analysiert einen SRF-Beitrag über das EPG-Treffen in Armenien und
-  kritisiert die Auslassung des Status von Wolodimir Selenski als ungewählter
-  Präsident. Der Beitrag liefert Kontext zur armenischen Lage, aber nicht zu
-  Selenskis Mandat. Die Erzählmuster sind beweglich, aber haben feste
-  Markierungen, wie Russland als Aggressor und Selenski als legitimer
-  Repräsentant.
+  Der 9min.ch-Artikel kritisiert den SRF-Beitrag von Calum MacKenzie zum
+  EPG-Treffen in Eriwan vom 5. Mai 2026. Während die armenische Lage
+  differenziert dargestellt wird, wird Selenskis seit zwei Jahren abgelaufenes
+  Mandat vollständig ausgeblendet. Die russische Staatsfernsehen-Drohung wird
+  undifferenziert als Beleg für russische Aggressivität verwendet, ohne zu
+  prüfen, wer genau gedroht hat. Auch die parallel laufenden
+  Waffenruhe-Verhandlungen zwischen Moskau und Kiew werden nicht thematisiert.
 quelle_datum: '2026-05-05'
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
-kritik_schwere: 2
+kritik_schwere: 3
 ---
 
 *Zur SRF-Berichterstattung *[«EPG-Treffen in Armenien ist ein politisches Signal»](https://www.srf.ch/news/international/annaeherung-an-europa-epg-treffen-in-armenien-ist-ein-politisches-signal)*, SRF 4 News, 5. Mai 2026*

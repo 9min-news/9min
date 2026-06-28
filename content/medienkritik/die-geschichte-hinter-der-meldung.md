@@ -6,60 +6,78 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHuUQiEWMAIR_ax.jpg'
 tweetId: '2052397145160925331'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Demokratie
   - Zensur/Meinungsfreiheit
 tags:
   - EGMR
-  - Schweiz
-  - Genfer Manifestationsgesetz
-  - Demonstrationsfreiheit
-  - Polizeipraxis
-  - Rechtsprechung
+  - Versammlungsfreiheit
+  - Frauenstreik
+  - Genf
+  - Strassburger Urteil
+  - Sondervotum
+  - Manifestationsgesetz
+  - Berichterstattungskritik
 seo:
   description: >-
     Zur SRF-Berichterstattung «EGMR urteilt: Schweiz hat gegen
     Versammlungsfreiheit verstossen», 7. Mai 2026 — und zum Strassburger Urteil
     «Affaire Batou c.…
 themen:
-  - SRF-Berichterstattung
-  - Strassburger Urteil
+  - EGMR-Urteil Batou c. Suisse
   - Versammlungsfreiheit
-kritisiertes_medium: SRF
+  - Genfer Manifestationsgesetz
+  - Berichterstattung über Menschenrechtsurteile
+  - Demonstrationsrecht
+kritisiertes_medium: SRF News
 kritisierter_beitrag: 'EGMR urteilt: Schweiz hat gegen Versammlungsfreiheit verstossen'
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
-  - Framing
   - Kontextmangel
+  - Framing
 personen:
   - M. Batou
   - Jean Batou
+  - Maître L.L.S. Batou
   - Georgios Serghides
 institutionen:
   - SRF
   - EGMR
   - Bundesgericht
-  - Genfer Justiz
+  - Cour de justice Genf
+  - Polizeigericht Genf
+  - Service des contraventions Genf
+  - UN-Sonderberichterstatter für Versammlungs- und Vereinigungsfreiheit
+  - UN-Menschenrechtsausschuss
+  - Coordination genevoise pour le droit de manifester
+  - Partei solidaritéS
+  - Universität Lausanne
 gesetze_vorlagen:
-  - Genfer Manifestationsgesetz
-  - EMRK
+  - EMRK Artikel 11
+  - EMRK Artikel 6
+  - EMRK Artikel 13
+  - EMRK Artikel 10
+  - Genfer Loi sur les manifestations sur le domaine public (LMDPu)
+  - Artikel 10 LMDPu
 these: >-
-  Die SRF-Berichterstattung über Strassburger Urteile gegen die Schweiz folgt
-  einem standardisierten Format, das die Substanz der Urteile systematisch
-  ausspart.
+  SRF reduziert ein 41-seitiges Strassburger Urteil, das eine systematische
+  Genfer Verwaltungspraxis gegen Demonstrationsorganisatoren korrigiert, auf
+  eine 150-Wörter-Meldung, die alle politischen, verfahrensrechtlichen und
+  systemischen Dimensionen ausblendet.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRF-Berichterstattung über ein Strassburger Urteil,
-  das die Schweiz wegen Verletzung der Versammlungsfreiheit verurteilt hat. Die
-  Berichterstattung sei zu kurz und lasse wichtige Details aus, wie die
-  politische Dimension des Falls und die systematische Verfolgung von
-  Demonstrationsorganisatoren durch die Genfer Justiz. Der Artikel fordert eine
-  ausführlichere und kontextualisierte Berichterstattung, um die demokratische
-  Diskussion zu fördern.
+  9min.ch kritisiert die SRF-Berichterstattung über das EGMR-Urteil «Batou c.
+  Suisse» als systematische Reduktion: Name, Gesamtkosten, verweigerte
+  Zeugenanträge, politischer Kontext, UN-Kritik am Genfer Manifestationsgesetz,
+  abschreckende Wirkung und Sondervotum fehlen vollständig. Die Kritik
+  argumentiert, dass dieses standardisierte Format ein trügerisches Bild
+  erzeuge, in dem Strassburger Urteile als routinemässige Verwaltungsmeldungen
+  erscheinen statt als politische Akte mit realen Folgen für die Schweizer
+  Rechtsordnung und Steuerzahler.
 quelle_datum: '2026-05-07'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: 9min.ch
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

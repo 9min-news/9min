@@ -7,59 +7,73 @@ coverImage: 'https://pbs.twimg.com/media/HJRH-bwWEAAiSP6.jpg'
 tweetId: '2059350630473338893'
 categories:
   - Wirtschaft
-  - Gesellschaft
+  - SRF/SRG
+  - Medienrecht
 tags:
-  - John Maynard Keynes
-  - Friedrich Hayek
-  - Ökonomie
-  - Wirtschaftskrise
-  - Inflation
-  - Staatsschulden
-  - Notenbanken
-  - Medienlandschaft
+  - Keynes
+  - Hayek
+  - Österreichische Schule
+  - Keynesianismus
+  - SRF
+  - Zwangsabgaben
+  - Fiat-Geld
+  - Stagflation
 seo:
   description: >-
     9min zu 9min — Teil 3 der Serie. Über John Maynard Keynes, den charmantesten
     Ökonomen des 20. Jahrhunderts, und warum seine Ideen sich  durchsetzten.…
 themen:
-  - Keynesianismus
-  - Österreichische Schule
-  - Wirtschaftspolitik
-  - Medienkritik
+  - Keynesianismus vs. Österreichische Schule
+  - Geldpolitik und Notenbankinterventionen
+  - Medienstruktur und Systemabhängigkeit
+  - Staatsschulden und Inflation
+  - Wirtschaftstheoriegeschichte
 kritisiertes_medium: SRF
 kritisierter_beitrag: ''
 kritisierter_autor: ''
 kritik_typ:
+  - Behördenpropaganda
   - Auslassung
-  - Framing
-  - Kontextmangel
+  - Interessenkonflikt
 personen:
   - John Maynard Keynes
   - Friedrich Hayek
+  - Virginia Woolf
+  - Lytton Strachey
+  - E.M. Forster
+  - Ludwig von Mises
   - Milton Friedman
   - Gunnar Myrdal
+  - Ronald Reagan
+  - Margaret Thatcher
 institutionen:
   - SRF
+  - Bloomsbury Group
+  - King's College
   - London School of Economics
+  - OPEC
+  - Universitäten
+  - NGOs
   - Notenbanken
   - Finanzministerien
-gesetze_vorlagen: []
+  - EU
+gesetze_vorlagen:
+  - Next Generation EU
 these: >-
-  Der Keynesianismus hat sich in der Wirtschaftspolitik durchgesetzt, weil er
-  Politikern eine ökonomische Rechtfertigung für ihre Handlungen bietet, obwohl
-  er methodisch fehlerhaft ist.
+  Der Keynesianismus setzte sich nicht wegen besserer Argumente durch, sondern
+  weil er Politikern Handlungsmacht gibt, und staatsfinanzierte Medien wie SRF
+  sind strukturell unfähig, die systemischen Folgen dieser Wirtschaftspolitik zu
+  hinterfragen.
 zusammenfassung: >-
-  Der Artikel diskutiert den Konflikt zwischen dem Keynesianismus und der
-  Österreichischen Schule in der Ökonomie. Der Keynesianismus hat sich in der
-  Wirtschaftspolitik durchgesetzt, weil er Politikern eine ökonomische
-  Rechtfertigung für ihre Handlungen bietet. Die Österreichische Schule hingegen
-  kritisiert den Keynesianismus für seine methodischen Fehler und seine
-  Unfähigkeit, die Komplexität der Wirtschaft zu erfassen. Der Artikel
-  argumentiert, dass die etablierten Medien wie die SRF die keynesianische
-  Sichtweise bevorzugen und alternative Ansichten wie die der Österreichischen
-  Schule ausblenden.
+  Der Artikel analysiert den intellektuellen Sieg des Keynesianismus über die
+  Österreichische Schule (Hayek/Mises) und erklärt diesen nicht mit besseren
+  Argumenten, sondern mit politischer Nützlichkeit: Keynes gab Politikern
+  Rechtfertigung für Defizit-Ausgaben. Die Kritik richtet sich gegen SRF und
+  staatsnahe Medien, die durch Zwangsabgaben und staatliche Finanzierung
+  strukturell unfähig seien, die keynesianischen Grundannahmen zu hinterfragen.
+  Die österreichische Gegenposition werde systematisch unsichtbar gemacht.
 quelle_datum: ''
-quelle_format: ''
+quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: ''
 kritik_schwere: 3

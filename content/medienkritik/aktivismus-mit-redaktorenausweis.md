@@ -6,55 +6,69 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHOFpLUXUAAp8gV.jpg'
 tweetId: '2050129221540835629'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Klima/Energie
+  - Demokratie
 tags:
-  - Klimagipfel
-  - SRF
-  - Klaus Ammann
+  - Analyse-Format
   - Aktivismus
-  - Journalistische Unabhängigkeit
-  - Klimadebatte
+  - Klimakonferenz
+  - Santa Marta
+  - Willige und Bremser
+  - Glaubwürdigkeitsargument
+  - Klaus Ammann
+  - öffentlich-rechtlich
 seo:
   description: >-
     Zur SRF-«Analyse» von Klaus Ammann zum Klimagipfel in Santa Marta vom 1. Mai
     2026 Die Tarnung als Genre Beachten Sie, was ganz oben über dem Text steht:…
 themen:
-  - Klimapolitik
-  - Medienkritik
-  - Journalismus
-  - Energiepolitik
-kritisiertes_medium: SRF
-kritisierter_beitrag: Klimakonferenz der Willigen
+  - Klimaberichterstattung
+  - Format-Etikettierung als Tarnung
+  - Geopolitische Kontextausblendung
+  - Investitionsschutz-Debatte
+  - Demokratische Legitimation vs. internationale Reputation
+kritisiertes_medium: SRF News
+kritisierter_beitrag: 'Ausstieg aus Kohle, Öl und Gas — Schweiz muss konkret werden'
 kritisierter_autor: Klaus Ammann
 kritik_typ:
   - Framing
   - Auslassung
-  - Fehlinformation
+  - Selektion
 personen:
   - Klaus Ammann
   - Gustavo Petro
 institutionen:
   - SRF
-  - Schweizer Regierung
-  - Internationale Energieagentur
+  - Wirtschaftsredaktion SRF
+  - Klimakonferenz der Willigen
+  - Regierung Kolumbiens
+  - EU
+  - USA
+  - Russland
+  - China
+  - Indien
 gesetze_vorlagen:
   - Netto-Null-Gesetz
   - CO2-Gesetz
 these: >-
-  Der SRF-Beitrag von Klaus Ammann zum Klimagipfel in Santa Marta ist ein
-  Beispiel für Aktivismus mit Redaktorenausweis, der unter dem Etikett der
-  Analyse Forderungen transportiert und geopolitische Komplexität ausblendet.
+  SRF nutzt das Format-Etikett «Analyse», um aktivistische klimapolitische
+  Forderungen als objektive Berichterstattung zu tarnen, wobei geopolitische
+  Realitäten, innere Widersprüche und demokratische Legitimation systematisch
+  ausgeblendet werden.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag von Klaus Ammann zum Klimagipfel in
-  Santa Marta als einseitig und parteiisch. Der Beitrag blendet geopolitische
-  Realitäten aus und stellt eine bestimmte klimapolitische Linie als
-  selbstverständlich dar. Die Kritik betrifft die mangelnde Ausgewogenheit und
-  die Verwendung von Framing und Auslassung, um die Leser zu beeinflussen.
+  Der 9min.ch-Artikel kritisiert eine SRF-«Analyse» von Klaus Ammann zur
+  Klimakonferenz in Santa Marta als aktivistische Meinungsäusserung unter dem
+  Deckmantel eines Sachformats. Beanstandet werden die moralisierende Sortierung
+  in «Willige» und «Bremser», das Fehlen geopolitischer Kontexte wie
+  Russland-Krieg und China-Industrialisierung, die Idealisierung Kolumbiens ohne
+  Erwähnung innerer Kontroversen, die unkritische Forderung nach Lockerung des
+  Investitionsschutzes sowie die Ersetzung demokratischer Legitimation durch ein
+  externes «Glaubwürdigkeits»-Argument.
 quelle_datum: '2026-05-01'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: SRF News
+quelle_redaktion: SRF Wirtschaftsredaktion
 kritik_schwere: 3
 ---
 

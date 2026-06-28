@@ -6,28 +6,30 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJvA_EPXUAAIuOG.jpg'
 tweetId: '2061454109954207922'
 categories:
+  - Migration
+  - SRF/SRG
   - Gesellschaft
-  - Zensur/Meinungsfreiheit
 tags:
-  - Fussball
-  - Gewalt
   - Banlieue
   - Migration
+  - Maghreb
   - Integration
-  - Medienkritik
-  - Zensur
-  - Meinungsfreiheit
+  - PSG
+  - Ausschreitungen
+  - Codewort
+  - Framing
 seo:
   description: >-
     Nach dem Champions-League-Triumph von Paris Saint-Germain brannten in
     Frankreich die Strassen: rund 900 Festnahmen, 178 verletzte
     Sicherheitskräfte,…
 themen:
-  - Fussballgewalt
-  - Banlieue-Problematik
-  - Migration und Integration
-  - Medienkritik
-kritisiertes_medium: SRF
+  - Ausschreitungen nach PSG-Sieg
+  - Banlieue als Codewort
+  - Migration und Integration in Frankreich
+  - Medienberichterstattung über ethnische Herkunft
+  - Frankreichs Vorortproblematik
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Warum es in Paris eskaliert – und was das mit Fussball zu tun hat
 kritisierter_autor: Mirjam Mathis
 kritik_typ:
@@ -36,26 +38,30 @@ kritik_typ:
   - Kontextmangel
 personen:
   - Mirjam Mathis
+  - Nahel
 institutionen:
   - SRF
-  - Paris Saint-Germain
+  - INSEE
+  - Institut Montaigne
+  - Polizei
 gesetze_vorlagen: []
 these: >-
-  Die Medien, insbesondere der SRF, vermeiden es, die tatsächlichen Ursachen für
-  die Gewalt in den Banlieues zu benennen, um nicht als rassistisch oder
-  stigmatisierend angesehen zu werden.
+  SRF verwendet «Banlieue» als geografisches Codewort, um die demografische
+  Realität maghrebinischer und subsaharischer Herkunft der Randalierer zu
+  verschweigen, und verfälscht damit die Ursachenanalyse systematisch.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF für seine Berichterstattung über die Gewalt in
-  den Banlieues nach dem Champions-League-Sieg von Paris Saint-Germain. Der SRF
-  wird vorgeworfen, die tatsächlichen Ursachen für die Gewalt, wie die
-  gescheiterte Integration von Migranten und die soziale Problematik in den
-  Banlieues, nicht zu benennen, um nicht als rassistisch oder stigmatisierend
-  angesehen zu werden. Stattdessen wird der Begriff 'Banlieue' verwendet, um die
-  Probleme zu umschreiben, ohne sie wirklich zu erklären.
+  Der 9min-Artikel analysiert einen SRF-Beitrag von Mirjam Mathis zu den
+  Ausschreitungen nach dem PSG-Champions-League-Sieg. Er lobt, dass SRF diesmal
+  nach Ursachen fragt und den Befund nennt, dass der Sieg dieselbe Gewalt
+  auslöst wie eine Niederlage. Die Kritik richtet sich dagegen, dass SRF das
+  Wort «Banlieue» als Chiffre nutzt, um die Herkunft der Gewalttäter
+  (maghrebinisch, subsaharisch) und die gescheiterte Integration nicht
+  aussprechen zu müssen — und damit die eigentliche Ursache systematisch
+  ausblendet.
 quelle_datum: '2026-06-01'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: 9min.ch
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

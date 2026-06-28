@@ -6,18 +6,17 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HKkHseaXwAAnHVA.jpg'
 tweetId: '2065191192619327666'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Gesellschaft
-  - Zensur/Meinungsfreiheit
 tags:
-  - Kokain
-  - Sucht
-  - Medizin
-  - Drogen
-  - Journalismus
-  - Medienkritik
-  - Falschdarstellung
+  - Seidenberg
+  - Zullino
+  - Genf
+  - Heroinabgabe
   - Pharmakologie
+  - Rechtslage
+  - Methodenstreit
+  - Spray-Modell
 seo:
   description: >-
     Dieser SRF-Beitrag berichtet über ein Genfer Pionierprojekt: Das
@@ -27,38 +26,42 @@ themen:
   - Kokainabgabe
   - Suchtmedizin
   - Drogenpolitik
-  - Journalismus
   - Medienkritik
 kritisiertes_medium: SRF
 kritisierter_beitrag: Kontroverse um die Verschreibung von Kokain an Süchtige in Genf
 kritisierter_autor: ''
 kritik_typ:
   - Fehlinformation
-  - Framing
   - Auslassung
+  - Framing
 personen:
   - André Seidenberg
   - Daniele Zullino
   - Frank Zobel
 institutionen:
-  - Universitätsspital Genf
   - SRF
+  - Universitätsspital Genf
+  - BAG
+  - Sucht Schweiz
+  - Genfer Staatsanwaltschaft
   - Bund
 gesetze_vorlagen:
   - Betäubungsmittelgesetz
+  - Humanforschungsgesetz
 these: >-
-  Der SRF-Beitrag über die Kokainabgabe in Genf stellt den Konflikt zwischen
-  André Seidenberg und Daniele Zullino falsch dar und lässt wichtige
-  Informationen zur Pharmakologie und Rechtslage aus.
+  SRF stellt einen methodischen Streit über die Form der Kokainabgabe als
+  fundamentalen Gegensatz dar und verschweigt Pharmakologie, Rechtslage und die
+  wahre Position des angeblichen Gegners Seidenberg.
 zusammenfassung: >-
-  Der SRF-Beitrag über die Kokainabgabe in Genf wird kritisiert, weil er den
-  Konflikt zwischen André Seidenberg und Daniele Zullino falsch darstellt.
-  Seidenberg wird als Gegner der Kokainabgabe dargestellt, obwohl er selbst ein
-  Modell für die ärztliche Verschreibung von Kokain vorgeschlagen hat. Der
-  Beitrag lässt wichtige Informationen zur Pharmakologie und Rechtslage aus und
-  enthält sprachliche Fehler.
+  Der Artikel kritisiert einen SRF-Beitrag über ein Genfer Kokainabgabe-Projekt,
+  der den Konflikt zwischen André Seidenberg und Daniele Zullino falsch
+  darstellt. Seidenberg ist kein Gegner der Kokainabgabe, sondern berät den Bund
+  und hat ein eigenes Spray-Modell publiziert — was SRF als Streit über das Ob
+  inszeniert, ist in Wahrheit ein Streit über das Wie. Zudem fehlen
+  pharmakologische und rechtliche Kontexte, die Infobox beantwortet ihre eigene
+  Frage nicht, und der Beitrag weist sechs Sprachfehler auf.
 quelle_datum: '2026-06-11'
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: HeuteMorgen / SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3

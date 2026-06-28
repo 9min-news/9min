@@ -6,52 +6,72 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJWOBRHX0AI_E9Z.jpg'
 tweetId: '2059708762370539701'
 categories:
-  - Medienrecht
-  - Zensur/Meinungsfreiheit
+  - SRF/SRG
   - Demokratie
 tags:
-  - SRF
+  - Asymmetrie
+  - Framing
+  - US-Wahlen
+  - Parteipolitik
+  - Doppelstandard
   - Trump
   - Biden
-  - Republikaner
-  - Demokraten
-  - Medienkritik
-  - Politische Berichterstattung
-  - Parteipolitik
+  - Zwangsgebühren
 seo:
   description: >-
     SRF berichtet: Trump «zementiert» seine Macht. Wer ihn kritisiert, «ist weg
     vom Fenster». Loyalisten setzen sich durch. Das ist die Rahmung: Trump als…
 themen:
-  - Medienkritik
-  - Politische Berichterstattung
-  - Parteipolitik
-kritisiertes_medium: SRF
+  - Asymmetrische US-Berichterstattung
+  - Parteipolitik und Loyalitätsdruck
+  - Trump-vs-Biden-Framing
+  - Zwangsgebühren und Konzessionsauftrag
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Trumps Machtprobe in Texas gelingt
 kritisierter_autor: Barbara Colpi
 kritik_typ:
+  - Asymmetrie
   - Framing
   - Selektion
-  - Kontextmangel
 personen:
   - Donald Trump
   - Joe Biden
+  - Barack Obama
+  - Bill Clinton
+  - Joe Manchin
+  - Kyrsten Sinema
+  - Ken Paxton
+  - Hunter Biden
+  - Robert Menendez
+  - Eric Adams
+  - Letitia James
+  - Bernie Sanders
+  - Kamala Harris
+  - Beto O'Rourke
   - Barbara Colpi
+  - Nancy Pelosi
+  - Chuck Schumer
 institutionen:
   - SRF
-  - Republikaner
-  - Demokraten
-gesetze_vorlagen: []
+  - FBI
+  - Demokratische Partei
+  - Republikanische Partei
+  - US-Senat
+gesetze_vorlagen:
+  - Build Back Better Plan
 these: >-
-  Die SRF-Berichterstattung über die US-Politik ist selektiv und kritisiert die
-  Republikaner für das, was sie bei den Demokraten ignoriert.
+  SRF rahmt identische parteipolitische Praktiken bei Republikanern als
+  Machtmissbrauch und bei Demokraten als Normalität, was eine systematische
+  Asymmetrie der Berichterstattung darstellt.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRF-Berichterstattung über die US-Politik,
-  insbesondere die Art und Weise, wie die Republikaner und Demokraten
-  dargestellt werden. Die Autoren argumentieren, dass die SRF-Berichterstattung
-  selektiv ist und die Republikaner für das kritisiert, was sie bei den
-  Demokraten ignoriert. Dies sei ein Problem, da die SRF mit Zwangsgebühren
-  finanziert wird und somit eine ausgewogene Berichterstattung liefern sollte.
+  Der Artikel analysiert einen SRF-Beitrag über die Texas-Vorwahlen und wirft
+  der Redaktion vor, gleiche politische Phänomene (Loyalitätsdruck, Geld,
+  Skandale, interne Revolten) bei Republikanern und Demokraten unterschiedlich
+  zu rahmen. Bei Trump werden Parteidisziplin, Spenden und Skandale als
+  strukturelles Problem dargestellt, während dieselben Methoden bei den
+  Demokraten unsichtbar bleiben oder positiv konnotiert sind. Der Autor sieht
+  darin einen Verstoß gegen den Ausgewogenheitsauftrag des mit Zwangsgebühren
+  finanzierten SRF.
 quelle_datum: '2026-05-27'
 quelle_format: Online-Artikel
 quelle_sendung: ''

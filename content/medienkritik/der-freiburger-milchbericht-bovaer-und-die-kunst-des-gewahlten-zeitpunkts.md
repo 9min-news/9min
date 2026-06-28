@@ -6,63 +6,84 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HGMIANYbQAEgJ8g.jpg'
 tweetId: '2045487499762438257'
 categories:
-  - Medienrecht
+  - SRF/SRG
+  - Klima/Energie
   - Wirtschaft
-  - Gesellschaft
 tags:
-  - SRF
   - Bovaer
-  - Milchindustrie
-  - Klimapolitik
-  - Medienkritik
-  - Journalismus
-  - Öffentlicher Sender
+  - Methanhemmer
+  - SRG-Konzern
+  - Selektive Berichterstattung
+  - Klimanarrativ
+  - Milchwirtschaft
+  - AOP-Käse
+  - Regionaljournal
 seo:
   description: >-
     Zum SRF-Beitrag «Zu viel Milch: Freiburg will seine Milchbauern retten» vom
     13. April 2026, und zur Bovaer-Berichterstattung im SRG-Konzern seit 2024
     Der…
 themen:
-  - Milchindustrie
-  - Klimapolitik
-  - Bovaer
-  - Medienkritik
+  - Bovaer-Berichterstattung SRG
+  - Selektive Themenwahl im SRF
+  - Milchwirtschaft und Methanhemmer
+  - Klimanarrativ und redaktionelle Ökonomie
+  - Freiburger Milchpolitik
 kritisiertes_medium: SRF
 kritisierter_beitrag: 'Zu viel Milch: Freiburg will seine Milchbauern retten'
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
-  - Framing
-  - Kontextmangel
+  - Selektion
+  - Asymmetrie
 personen:
-  - Frank Mitloehner
-  - Yoann Lézé
   - Frigga Dohme-Meier
   - Simon Bonnet
+  - Yoann Lézé
+  - Anand Chandrasekhar
   - Mutian Niu
+  - Frank Mitloehner
 institutionen:
   - SRF
+  - SRG
   - Swissinfo
-  - Bundesamt für Landwirtschaft
-  - Swissmilk
+  - Agroscope
+  - Käserei Bel
+  - ETH Zürich
   - DSM-Firmenich
-gesetze_vorlagen: []
+  - Tine
+  - Schweizer Bauer
+  - IPCC
+  - EFSA
+  - Swissmilk
+  - Bundesamt für Landwirtschaft
+  - Kanton Freiburg
+  - Kompetenzzentrum Grangeneuve
+  - Migros
+  - Coop
+  - Arla
+  - Syngenta
+gesetze_vorlagen:
+  - Bovaer-Zulassung Schweiz seit 2022
 these: >-
-  Der öffentliche Sender SRF berichtet selektiv über die Milchindustrie und den
-  Einsatz von Bovaer, einem synthetischen Methanhemmer, und ignoriert kritische
-  Stimmen und problematische Aspekte.
+  SRF betreibt bei Bovaer eine systematische Selektion: positive Nachrichten zum
+  Klimaschutz-Narrativ erhalten das Hauptformat, problematische Entwicklungen
+  werden in Nebenkanäle oder ins Schweigen verschoben.
 zusammenfassung: >-
-  Der Artikel kritisiert den öffentlichen Sender SRF für seine selektive
-  Berichterstattung über die Milchindustrie und den Einsatz von Bovaer. Der
-  Sender berichtet positiv über den Einsatz von Bovaer, aber ignoriert kritische
-  Stimmen und problematische Aspekte. Der Artikel argumentiert, dass dies ein
-  Beispiel für die redaktionelle Ökonomie der richtigen Geschichte zur richtigen
-  Zeit ist, bei der der Sender wichtige Informationen zurückhält, um eine
-  bestimmte Narrative zu unterstützen.
+  Der Artikel analysiert SRFs Berichterstattung zum Futterzusatz Bovaer über
+  drei Zeitpunkte und identifiziert ein Muster: 2024 positive Produktvorstellung
+  im Hauptformat, 2025 differenzierte Analyse nur auf Swissinfo mit kleiner
+  Reichweite, 2026 Stille, als norwegische Molkerei Bovaer-Milch ablehnt und
+  dänische Praxisprobleme auftreten. Der Freiburger Milchbeitrag vom 13. April
+  2026 klärt die strategisch zentrale Bovaer-Frage für AOP-Käseproduzenten
+  nicht, obwohl sie das Geschäftsmodell frontal betrifft. Der Autor erkennt eine
+  redaktionelle Ökonomie, die das Klimaschutz-Narrativ bestätigende Meldungen
+  bevorzugt und unliebsame Entwicklungen durch Nicht-Aufmerksamkeit unsichtbar
+  macht.
 quelle_datum: '2026-04-13'
 quelle_format: Online-Artikel
-quelle_sendung: ''
-quelle_redaktion: ''
+quelle_sendung: Regionaljournal Bern Freiburg Wallis
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

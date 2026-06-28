@@ -6,49 +6,57 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HI3TXNJWwAAyZLd.jpg'
 tweetId: '2057534062915461515'
 categories:
+  - SRF/SRG
   - Gesellschaft
+  - Migration
 tags:
   - SRF
-  - Schulische Ungleichheit
-  - Soziale Benachteiligung
+  - Framing
+  - Bildung
+  - Ungleichheit
+  - Migrationshintergrund
   - Frühförderung
-  - Migration
-  - Integration
-  - Bildungspolitik
+  - Schule
+  - Staat
 seo:
   description: >-
     Wie SRF eine Erfolgsgeschichte als Krise rahmt, den sozialen Graben auf die
     Familie schiebt und nach dem Staat als Retter ruft – ohne zu fragen, ob der…
 themen:
-  - Schulische Ungleichheit
-  - Soziale Benachteiligung
-  - Frühförderung
-  - Migration und Integration
-kritisiertes_medium: SRF
+  - Schulkompetenzen und soziale Ungleichheit
+  - Framing von Bildungserfolgen als Krise
+  - Migrationshintergrund als Ursache des Bildungsgrabens
+  - Frühförderung als staatliche Lösung
+  - Rolle der Schule vs. Familie
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Vor allem eine Schülergruppe fällt ab beim Lesen und Rechnen
 kritisierter_autor: ''
 kritik_typ:
   - Framing
   - Auslassung
-  - Fehlinformation
+  - Behördenpropaganda
 personen:
   - Andrea Erzinger
   - Christoph Darballey
 institutionen:
   - SRF
   - Dachverband der Lehrerinnen und Lehrer
+  - ÜGK
+  - OECD
 gesetze_vorlagen: []
 these: >-
-  Die Berichterstattung des SRF über die schulische Ungleichheit ist
-  unvollständig und reproduziert eine Perspektive, die den Staat als Retter
-  sieht und die Familie als Problem.
+  SRF rahmt eine Bildungserfolgsgeschichte als Krise, verschweigt den
+  Migrationshintergrund als zentrale Ursache und ruft unkritisch nach dem Staat
+  als Lösung, ohne zu hinterfragen, ob die Schule soziale Probleme überhaupt
+  lösen kann.
 zusammenfassung: >-
-  Der Artikel kritisiert die Berichterstattung des SRF über die schulische
-  Ungleichheit und argumentiert, dass die Zahlen, die als Krise präsentiert
-  werden, tatsächlich eine Erfolgsgeschichte sind. Der Artikel behauptet, dass
-  der SRF den Graben zwischen sozial privilegierten und benachteiligten Kindern
-  nicht richtig benennt und stattdessen nach dem Staat als Retter ruft, ohne die
-  Ursache des Problems zu benennen.
+  Der 9min-Artikel kritisiert einen SRF-Beitrag über eine Studie zu
+  Schulkompetenzen von Zweitklässlern. SRF präsentiere die eigentlich
+  erfreulichen Zahlen (75–90% erreichen Grundkompetenzen) als Krise, verschweige
+  den Migrationshintergrund als Hauptursache des Bildungsgrabens und übernehme
+  unkritisch Forderungen nach mehr Frühförderung. Dadurch werde eine staatliche
+  Lösungsperspektive reproduziert, ohne die Grenzen schulischer Sozialpolitik zu
+  hinterfragen.
 quelle_datum: '2026-05-21'
 quelle_format: Online-Artikel
 quelle_sendung: ''

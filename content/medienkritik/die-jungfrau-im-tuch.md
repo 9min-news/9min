@@ -6,62 +6,72 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIh6x8OXoAAX0fI.jpg'
 tweetId: '2056032196595421237'
 categories:
-  - Medienrecht
-  - Zensur/Meinungsfreiheit
+  - SRF/SRG
+  - Migration
   - Gesellschaft
 tags:
   - SRF
+  - Echo der Zeit
   - Vera Çelik
-  - Politische Korrektheit
-  - Medienmanipulation
+  - Kopftuch
+  - SP Zürich
+  - Asymmetrie
   - Identitätspolitik
-  - Islamismus
-  - Antisemitismus
+  - Israel-Kritik
 seo:
   description: >-
     Wie SRF aus einer politisch konfrontativen Aktivistin eine sanfte
     Velo-Idealistin macht – und alles weglässt, was die Geschichte ist Zum
     SRF-Beitrag «Vera…
 themen:
-  - Politische Berichterstattung
-  - Medienkritik
-  - Identitätspolitik
-kritisiertes_medium: SRF
+  - SRF-Porträt von Vera Çelik
+  - Asymmetrische Medienbehandlung
+  - Identitätspolitik in der SP
+  - Israel-Kritik und Antisemitismus-Debatte
+  - Kopftuch in der Schweizer Politik
+kritisiertes_medium: SRF Echo der Zeit
 kritisierter_beitrag: Vera Celik will mehr sein als ihr Kopftuch
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
   - Framing
-  - Interessenkonflikt
+  - Asymmetrie
 personen:
   - Vera Çelik
   - Hartmuth Attenhofer
   - Stefan Büsser
+  - Sandro Subotic
   - Nils Fiechter
+  - Susanne Brunner
 institutionen:
   - SRF
   - SP
-  - JSVP
+  - 'SP Migrant:innen Schweiz'
   - NZZ
-gesetze_vorlagen: []
+  - Ombudsstelle SRF
+  - JUSO
+  - JSVP
+  - Late Night Switzerland
+gesetze_vorlagen:
+  - Kopftuchverbot für Lehrerinnen
 these: >-
-  Der SRF-Beitrag über Vera Çelik ist ein Beispiel für eine unzureichende und
-  manipulative Berichterstattung, die die politischen Positionen und
-  Kontroversen der Protagonistin ausblendet und stattdessen ein positives, aber
-  unvollständiges Bild vermittelt.
+  SRF reduziert eine ideologisch scharfe, konfrontative Aktivistin auf ein
+  sanftes Velofahrerinnen-Porträt, indem es systematisch alle politisch
+  kontroversen Aussagen und Kontexte weglässt und so eine asymmetrische
+  Berichterstattung gegenüber konservativen Politikerinnen produziert.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag über Vera Çelik, eine junge muslimische
-  Politikerin, für seine unzureichende und manipulative Berichterstattung. Der
-  Beitrag blendet die politischen Positionen und Kontroversen Çeliks aus und
-  vermittelt stattdessen ein positives, aber unvollständiges Bild. Der Artikel
-  argumentiert, dass dies ein Beispiel für eine ideologische Vorsortierung in
-  der Medienberichterstattung ist, bei der Personen mit Migrationshintergrund
-  oder religiöser Minderheitenzugehörigkeit anders behandelt werden als Personen
-  mit anderem Profil.
+  Der Artikel kritisiert das SRF-Porträt der Zürcher SP-Stadträtin Vera Çelik,
+  das deren umstrittene Israel-Aussagen, Aufrufe zu unbewilligten
+  Demonstrationen am Schabbat, den Parteiaustritt eines SP-Veteranen und ihre
+  Rolle in der SP Migrant:innen vollständig ausblendet. Stattdessen werde sie
+  auf Kopftuch, Velo und Tierrechte reduziert und so infantilisiert. Der Autor
+  erkennt ein systematisches Muster der Schonberichterstattung bei
+  identitätspolitisch markierten Personen, das dem demokratischen Diskurs
+  schade.
 quelle_datum: '2026-05-07'
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
-quelle_redaktion: 9min.ch
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

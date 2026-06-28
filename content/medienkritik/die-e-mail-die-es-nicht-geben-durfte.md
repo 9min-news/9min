@@ -6,54 +6,76 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HKdAQkdW4AAQ-t6.jpg'
 tweetId: '2064689800423088240'
 categories:
+  - SRF/SRG
   - Medienrecht
-  - Zensur/Meinungsfreiheit
+  - Gesellschaft
 tags:
-  - SRF
-  - Patrick Fischer
-  - Covid-Zertifikat
+  - Off-the-record
+  - Ombudsstelle
   - Vertraulichkeit
-  - Medienrecht
-  - Journalistische Ethik
+  - Quellenschutz
+  - E-Mail-Beweis
+  - Verfahrensmangel
+  - Symmetrisierung
+  - Presserat
 seo:
   description: >-
     Fischers Gegendarstellung vom 9. Juni — und was sie für den Ombudsentscheid
     bedeutet (SRF und NZZ) --- 1. Das Ereignis Knapp zwei Monate nach seiner…
 themen:
-  - Medienethik
-  - Journalistische Verantwortung
-  - Vertraulichkeit
+  - Medienethik und Quellenschutz
+  - Ombudsverfahren und institutionelle Selbstkontrolle
+  - Vertraulichkeitsvereinbarungen im Journalismus
+  - Asymmetrische Medienkritik
 kritisiertes_medium: SRF
-kritisierter_beitrag: ''
+kritisierter_beitrag: Berichterstattung zur Affäre um falsches Covid-Zertifikat von Patrick Fischer
 kritisierter_autor: Pascal Schmitz
 kritik_typ:
   - Auslassung
   - Framing
-  - Kontextmangel
+  - Asymmetrie
 personen:
   - Patrick Fischer
   - Pascal Schmitz
   - Peter Röthlisberger
+  - Finn Sulzer
+  - Nicola Berger
+  - Patrizia Kummer
 institutionen:
   - SRF
   - NZZ
+  - Ombudsstelle
+  - UBI
   - Presserat
+  - Eishockeyverband
+  - Staatsanwaltschaft Luzern
+  - 20 Minuten
+  - Blick
+  - watson
+  - blue News
 gesetze_vorlagen:
-  - Medienrecht
+  - Erklärung der Pflichten und Rechte der Journalistinnen und Journalisten
 these: >-
-  Die SRF hat durch ihre Berichterstattung über die Covid-Zertifikat-Affäre um
-  Patrick Fischer gegen journalistische Ethik verstoßen und die Vertraulichkeit
-  von Quellengesprächen verletzt.
+  Eine datierte E-Mail des SRF-Journalisten Pascal Schmitz, die das umstrittene
+  Mittagessen als «unser Off-the-record-Gespräch» bezeichnet, widerlegt die
+  SRF-Darstellung und zeigt, dass der Ombudsentscheid auf einer künstlichen
+  Unaufklärbarkeit ruhte, die durch das Zurückhalten entlastender Dokumente
+  seitens der geprüften Redaktion entstand.
 zusammenfassung: >-
-  Der ehemalige Eishockey-Nationalcoach Patrick Fischer hat in einem Interview
-  auf seinem YouTube-Kanal die Covid-Zertifikat-Affäre thematisiert und Vorwürfe
-  gegen das SRF erhoben. Das SRF hat sich gegen diese Vorwürfe gewehrt, aber ein
-  Dokument aus dem Fall wirft neue Fragen auf. Die Affäre wirft ein Schlaglicht
-  auf die Medienethik und die Verantwortung von Journalisten.
+  Der Artikel analysiert Patrick Fischers YouTube-Interview vom 9. Juni 2026 und
+  identifiziert eine E-Mail des SRF-Journalisten Pascal Schmitz vom 19. März
+  2026 als zentrales Beweisstück, das die SRF-Darstellung zur
+  Off-the-record-Frage konterkariert. Es wird kritisiert, dass SRF diese E-Mail
+  im Ombudsverfahren nicht offenlegte und die Ombudsstelle die
+  Vertraulichkeitsfrage als «unaufklärbar» erledigte, obwohl das klärende
+  Dokument bei der geprüften Partei vorlag. Zudem wird der NZZ-Artikel von
+  Nicola Berger für asymmetrische Skepsis kritisiert: Fischers Motive werden
+  ökonomisch dekonstruiert, während das unbestrittene Dokument als Randnotiz
+  behandelt und SRFs Replik ungeprüft referiert wird.
 quelle_datum: '2026-06-09'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: 9min.ch
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

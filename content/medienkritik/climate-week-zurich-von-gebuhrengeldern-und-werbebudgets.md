@@ -10,13 +10,13 @@ categories:
   - Klima/Energie
   - Demokratie
 tags:
-  - Konsenssender
-  - Veranstaltungspromotion
-  - Klimaplattform
+  - Klimawoche Zürich
+  - Sponsoring
   - Greenwashing
-  - Finanzierung
-  - Asymmetrie
-  - Filterung
+  - Quotenasymmetrie
+  - PR-Funktion
+  - Konsenssender
+  - Klimanarrativ
   - Neutralitätsanspruch
 seo:
   description: >-
@@ -24,17 +24,17 @@ seo:
     werden», erschienen am 4. Mai 2026 im HeuteMorgen, verfasst von Klaus
     Ammann. Er ist…
 themen:
-  - Klimaberichterstattung SRF
+  - Klimaberichterstattung
+  - Konsensjournalismus
+  - Veranstaltungspromotion
+  - Quellen-Asymmetrie
   - Climate Week Zurich
-  - Konsensjournalismus und Asymmetrie
-  - PR-Funktion vs. Journalismus
-  - Veranstalterstimmen-Monopol
-kritisiertes_medium: SRF
+kritisiertes_medium: SRF HeuteMorgen
 kritisierter_beitrag: Zürich will zur Klimaplattform werden
 kritisierter_autor: Klaus Ammann
 kritik_typ:
+  - Selektion
   - Auslassung
-  - Framing
   - Asymmetrie
 personen:
   - Klaus Ammann
@@ -54,19 +54,20 @@ gesetze_vorlagen:
   - Stromgesetz
   - Halbierungsabstimmung
 these: >-
-  Der SRF-Beitrag zur Climate Week Zurich ist keine Berichterstattung, sondern
-  Veranstaltungspromotion, die durch Auslassung, Framing und Asymmetrie die
-  etablierte Klimanarrative reproduziert und dem demokratischen Diskurs schadet.
+  Der SRF-Beitrag funktioniert als Veranstaltungspromotion statt als kritische
+  Berichterstattung und reproduziert durch einseitige Quellenwahl, fehlende
+  Kontextualisierung und übernommene Marketing-Sprache die etablierten
+  Klimanarrative, ohne deren Schwachstellen zu thematisieren.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag zur Climate Week Zurich, weil er
-  ausschliesslich den Veranstalter Johannes Pokorny zu Wort kommen lässt,
-  kritische Stimmen, Finanzierungsfragen, Effektivitätsforschung und alternative
-  Klimaperspektiven vollständig ausblendet. Die einzige kritische Frage zum
-  CO2-Fussabdruck der Veranstaltung wird rituell gestellt und vom Veranstalter
-  selbst stillgelegt. Der Beitrag übernimmt die Marketing-Sprache der
-  Veranstaltung als Tatsache und erfüllt damit eine PR-Funktion statt einer
-  journalistischen, was die strukturelle Asymmetrie des Konsenssenders
-  dokumentiert.
+  Der Artikel kritisiert einen SRF-Beitrag zur Climate Week Zurich, der
+  ausschliesslich den Veranstalter zu Wort kommen lässt, keine kritischen
+  Gegenstimmen einholt und Finanzierung, Effektivität sowie alternative
+  wissenschaftliche Positionen ausblendet. Der Beitrag übernehme die
+  Selbstbeschreibung der Veranstaltung als Tatsache und stelle eine kritische
+  Frage nur rituell, um sie vom Veranstalter selbst stilllegen zu lassen. Diese
+  Asymmetrie – pro-Klima-Veranstaltungen würden unkritisch, kritische
+  Veranstaltungen hingegen mit Distanz behandelt – sei strukturell für den
+  Konsenssender und schade dem demokratischen Diskurs.
 quelle_datum: '2026-05-04'
 quelle_format: Broadcast
 quelle_sendung: HeuteMorgen

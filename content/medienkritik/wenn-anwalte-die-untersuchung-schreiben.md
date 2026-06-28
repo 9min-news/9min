@@ -6,53 +6,61 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHOm_Y4W4AAJemF.jpg'
 tweetId: '2050165890583310691'
 categories:
-  - Medienrecht
-  - Zensur/Meinungsfreiheit
+  - SRF/SRG
+  - Gesellschaft
+  - Sicherheitspolitik
 tags:
-  - SRF
-  - Crans-Montana
-  - Brandkatastrophe
-  - Rettungskräfte
-  - Anwälte
   - Litigation PR
-  - Medienmanipulation
+  - Anwaltsschreiben
+  - Strafverfahren
+  - Rettungskräfte
+  - Crans-Montana
+  - KWRO
+  - Framing
+  - Quellenasymmetrie
 seo:
   description: >-
     Zur SRF-Berichterstattung über das neue Strafverfahren nach der
     Brandkatastrophe von Crans-Montana, 1. Mai 2026 Der unsichtbare Akteur
     Schauen wir den…
 themen:
-  - Medienkritik
-  - Rechtliche Berichterstattung
-  - Litigation PR
-kritisiertes_medium: SRF
+  - Litigation PR in der Strafberichterstattung
+  - Crans-Montana-Brandkatastrophe
+  - Rettungskräfte im juristischen Fokus
+  - Anwaltsschreiben als journalistische Quelle
+  - Asymmetrie in der Krisenberichterstattung
+kritisiertes_medium: SRF News
 kritisierter_beitrag: >-
   Katastrophe in Crans-Montana: Rettungskräfte geraten in den Fokus der
   Staatsanwaltschaft
 kritisierter_autor: ''
 kritik_typ:
   - Framing
-  - Fehlinformation
+  - Auslassung
   - Selektion
 personen:
   - Philippe Nantermod
   - Fabrizio Ventimiglia
 institutionen:
   - SRF
-  - Staatsanwaltschaft
+  - RTS
+  - Walliser Staatsanwaltschaft
   - KWRO
+  - FDP
 gesetze_vorlagen: []
 these: >-
-  Der SRF-Beitrag über die Brandkatastrophe von Crans-Montana ist ein Beispiel
-  für Litigation PR-Berichterstattung, die die Perspektive der klagenden Anwälte
-  übernimmt und die Rettungskräfte ungerechtfertigt kritisiert.
+  SRF übernimmt in seiner Berichterstattung die Perspektive klagender Anwälte
+  als Beschreibungsrahmen und betreibt damit Litigation PR statt ausgewogenen
+  Journalismus.
 zusammenfassung: >-
-  Der Artikel kritisiert die Berichterstattung des SRF über die Brandkatastrophe
-  von Crans-Montana, in der Rettungskräfte ungerechtfertigt kritisiert werden.
-  Die Berichterstattung übernimmt die Perspektive der klagenden Anwälte und
-  ignoriert die Komplexität der Massenunfall-Situation. Der Artikel fordert eine
-  ausgewogenere Berichterstattung, die die Perspektive der Rettungskräfte
-  berücksichtigt.
+  Der 9min-Artikel kritisiert einen SRF-Beitrag, der ein neues Strafverfahren
+  gegen Rettungskräfte nach der Brandkatastrophe von Crans-Montana thematisiert.
+  SRF verschleiere, dass das Verfahren von zwei Anwälten – darunter
+  FDP-Nationalrat Philippe Nantermod – angestossen wurde, und übernehme deren
+  Vorwürfe weitgehend ungefiltert. Der Beitrag gebe acht von zehn rhetorischen
+  Punkten den Anwälten, lasse Kontext zur Massenunfall-Situation, zu
+  wirtschaftlichen Interessen der Kläger und zur Perspektive der Rettungskräfte
+  vollständig fehlen.
 quelle_datum: '2026-05-01'
 quelle_format: Online-Artikel
 quelle_sendung: ''

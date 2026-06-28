@@ -6,63 +6,70 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HG-xuvxbQAASukt.jpg'
 tweetId: '2049051805431058647'
 categories:
+  - SRF/SRG
+  - SNB/Geldpolitik
   - Wirtschaft
-  - Gesellschaft
-  - Medienrecht
 tags:
-  - Geld
-  - Wirtschaft
-  - Schweiz
-  - SNB
-  - Inflation
-  - Vermögensverteilung
-  - Gerechtigkeit
-  - Medienkritik
+  - Gerechtigkeitsbarometer
+  - Beobachter-Umfrage
+  - Tagesschau
+  - SNB-Bilanzausweitung
+  - Negativzinsen
+  - Geldmengenausweitung
+  - monetäre Umverteilung
+  - Bitcoin
 seo:
   description: >-
     Zum SRF-Beitrag «Geld spaltet die Schweiz, die Stimmung kippt» vom 27. April
     2026 Eine Tagesschau-Meldung über eine «Beobachter»-Umfrage. Die Zahlen
     sind…
 themen:
-  - Gerechtigkeitsbarometer
-  - Geldpolitik
-  - SNB
-  - Inflation
-  - Vermögensverteilung
+  - Geldpolitik und Verteilungsgerechtigkeit
+  - Cantillon-Effekt
+  - Wahrnehmung sozialer Ungerechtigkeit
+  - Medienberichterstattung über Notenbanken
+  - Inflation als politisches Phänomen
 kritisiertes_medium: SRF Tagesschau
 kritisierter_beitrag: 'Geld spaltet die Schweiz, die Stimmung kippt'
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
   - Kontextmangel
-  - Einordnungsfehler
+  - Framing
 personen:
   - Cloé Jans
   - Richard Cantillon
 institutionen:
   - SRF
+  - Tagesschau
+  - Beobachter
+  - GFS Bern
   - SNB
+  - EZB
+  - Federal Reserve
+  - Bank of Japan
   - Bundesrat
   - Parlament
 gesetze_vorlagen: []
 these: >-
-  Die Tagesschau-Meldung über die Gerechtigkeitsbarometer-Umfrage lässt die
-  zentrale Rolle der Geldpolitik und der SNB bei der Verteilung von Vermögen und
-  Einkommen in der Schweiz aus.
+  Die Tagesschau dokumentiert die Symptome wachsender
+  Ungerechtigkeitswahrnehmung, lässt aber die zentrale Ursache – die monetäre
+  Umverteilung durch SNB-Geldpolitik und den Cantillon-Effekt – systematisch
+  aus.
 zusammenfassung: >-
-  Der Artikel kritisiert die Tagesschau-Meldung über die
-  Gerechtigkeitsbarometer-Umfrage, weil sie die Ursachen für die wachsende
-  Spaltung in der Schweiz nicht ausreichend thematisiert. Die Meldung beschränkt
-  sich auf die Darstellung der Befunde, ohne die Rolle der Geldpolitik und der
-  SNB bei der Verteilung von Vermögen und Einkommen in der Schweiz zu
-  thematisieren. Der Artikel argumentiert, dass die SNB-Politik und die
-  Geldmengenausweitung zu einer Umverteilung von Vermögen und Einkommen geführt
-  haben, die die Mittelklasse und Geringverdienende benachteiligt.
+  Der Artikel kritisiert einen SRF-Tagesschau-Beitrag zu einem
+  Beobachter-Gerechtigkeitsbarometer, der zwar aussagekräftige Umfragezahlen
+  referiert, aber die Ursachen der wahrgenommenen Ungerechtigkeit nicht
+  analysiert. 9min.ch argumentiert, dass die Geldmengenexpansion der SNB und
+  anderer Notenbanken seit 2008 über den Cantillon-Effekt Vermögensbesitzer
+  systematisch begünstigt und Lohnempfänger benachteiligt habe – ein
+  Zusammenhang, den die Berichterstattung ignoriere. Die Lücke sei struktureller
+  Natur: Geldpolitik werde als Technik statt als Verteilungspolitik gerahmt.
 quelle_datum: '2026-04-27'
 quelle_format: Online-Artikel
 quelle_sendung: Tagesschau
 quelle_redaktion: SRF News
-kritik_schwere: 3
+kritik_schwere: 2
 ---
 
 *Zum SRF-Beitrag* [«Geld spaltet die Schweiz, die Stimmung kippt»](https://www.srf.ch/news/schweiz/gerechtigkeitsbarometer-geld-spaltet-die-schweiz-die-stimmung-kippt) *vom 27. April 2026*

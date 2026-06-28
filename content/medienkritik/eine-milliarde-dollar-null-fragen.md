@@ -6,55 +6,65 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HGDVFwlaYAAWGDv.jpg'
 tweetId: '2044868712168370480'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Gesellschaft
-  - Wirtschaft
+  - Demokratie
 tags:
   - SRF
   - BAG
-  - Covid-19
-  - Impfstoffe
-  - Journalismus
-  - Medienkritik
+  - Covid-Impfstoffe
+  - Moderna
   - Transparenz
+  - Behördenpropaganda
+  - Asymmetrie
+  - Investigativjournalismus
 seo:
   description: >-
     Derselbe Sender, dieselbe Woche. Am Dienstag zerstört SRF die Karriere eines
     Eishockeytrainers, weil er vor vier Jahren ein Covid-Zertifikat gefälscht…
 themen:
-  - Medienkritik
-  - Covid-19-Impfstoffe
-  - Journalismus
+  - Covid-Impfstoffbeschaffung
+  - Behördenkontrolle
+  - Medienasymmetrie
+  - Investigativjournalismus
+  - Transparenz
 kritisiertes_medium: SRF
-kritisierter_beitrag: ''
+kritisierter_beitrag: Berichterstattung über BAG-Veröffentlichung der Covid-Impfstoffverträge
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
   - Kontextmangel
-  - Selektion
+  - Behördenpropaganda
 personen:
   - Fischer
 institutionen:
   - SRF
   - BAG
   - Bundesverwaltungsgericht
+  - EU
+  - Moderna
+  - Novavax
+  - Pfizer
 gesetze_vorlagen:
-  - Covid-19-Verträge
+  - Covid-Impfstoffverträge
+  - Covid-Zertifikat
 these: >-
-  Die SRF berichtet über die Verträge zur Beschaffung von Covid-19-Impfstoffen
-  ohne kritische Fragen zu stellen, während sie gleichzeitig einen
-  Eishockeytrainer wegen eines gefälschten Covid-Zertifikats kritisiert.
+  SRF betreibt asymmetrischen Journalismus – unerbittlich gegen kleine
+  Einzelpersonen, unkritisch und fraglos gegenüber Behörden bei
+  milliardenschweren Staatsausgaben.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRF für ihre Berichterstattung über die Verträge
-  zur Beschaffung von Covid-19-Impfstoffen. Die SRF hat die Verträge ohne
-  kritische Fragen zu stellen veröffentlicht, während sie gleichzeitig einen
-  Eishockeytrainer wegen eines gefälschten Covid-Zertifikats kritisiert. Der
-  Artikel argumentiert, dass die SRF ihre Rolle als investigativer Journalist
-  nicht erfüllt hat, indem sie keine Fragen zu den Verträgen gestellt hat.
+  Der Artikel vergleicht SRFs Berichterstattung in einer Woche: Während ein
+  Eishockeytrainer wegen eines gefälschten Covid-Zertifikats mit grossem
+  investigativem Aufwand öffentlichkeitswirksam verfolgt wird, übernimmt SRF die
+  Veröffentlichung von Covid-Impfstoffverträgen im Wert von einer Milliarde
+  Dollar durch das BAG ohne einzige kritische Frage. Weder werden internationale
+  Preisvergleiche gezogen noch Vertragsbedingungen, Mengenangemessenheit oder
+  die Geheimhaltungsstrategie des BAG hinterfragt. Der Autor identifiziert ein
+  systematische Asymmetrie: 'Unerbittlich nach unten. Höflich nach oben.'
 quelle_datum: ''
-quelle_format: ''
+quelle_format: Broadcast
 quelle_sendung: ''
-quelle_redaktion: ''
+quelle_redaktion: SRF
 kritik_schwere: 3
 ---
 

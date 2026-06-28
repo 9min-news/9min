@@ -6,60 +6,71 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIXtjvjW4AAQezO.jpg'
 tweetId: '2055310108536553914'
 categories:
-  - Medienrecht
-  - Zensur/Meinungsfreiheit
-  - Gesellschaft
+  - SRF/SRG
+  - EU/Aussenpolitik
+  - Wirtschaft
 tags:
-  - USAID
   - SRF
-  - Dominic Rohner
+  - USAID
   - Entwicklungshilfe
-  - Gewalt
-  - Abhängigkeit
-  - Institutionen
+  - Dominic Rohner
   - Afrika
+  - Wissenschaftsjournalismus
+  - Opportunitätskosten
+  - Rapazitäts-Effekt
 seo:
   description: >-
     Zur SRF-Meldung «Geldstopp mit Folgen: Wo USAID-Hilfe fehlt, steigt die
     Gewalt» über die Studie von Dominic Rohner, 15. Mai 2026 «Menschen, deren…
 themen:
-  - Entwicklungshilfe
-  - Gewalt
-  - Abhängigkeit
-  - Institutionen
+  - Entwicklungshilfe und Abhängigkeit
+  - USAID-Kürzungen und Gewalt
+  - Medienrezeption wissenschaftlicher Studien
+  - Afrikanische Perspektiven auf Entwicklungshilfe
+  - Fungibilität und Korruption im Hilfesystem
 kritisiertes_medium: SRF
 kritisierter_beitrag: 'Geldstopp mit Folgen: Wo USAID-Hilfe fehlt, steigt die Gewalt'
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
   - Framing
-  - Kontextmangel
+  - Selektion
 personen:
   - Dominic Rohner
-  - Dr. Jean Kaseya
+  - Jean Kaseya
   - Nkem Khumbah
   - January Makamba
+  - Dambisa Moyo
 institutionen:
   - SRF
-  - USAID
   - Universität Lausanne
+  - Science
+  - USAID
   - Africa CDC
+  - African Academy of Sciences
+  - UNCTAD
+  - USAID Office of Inspector General
 gesetze_vorlagen: []
 these: >-
-  Die Studie von Dominic Rohner über die Auswirkungen von USAID-Kürzungen auf
-  die Gewalt in Afrika wird im SRF-Beitrag vereinfacht und aus dem Kontext
-  gerissen dargestellt.
+  Der SRF-Beitrag reduziert eine nuancierte Studie über die kurzfristigen
+  Gewaltfolgen von USAID-Kürzungen auf eine einseitige Narrativ, die wesentliche
+  theoretische Unterscheidungen, Limitationen, afrikanische Gegenstimmen und die
+  strukturelle Kritik an Entwicklungshilfe vollständig ausblendet.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag über die Studie von Dominic Rohner, die
-  die Auswirkungen von USAID-Kürzungen auf die Gewalt in Afrika untersucht. Der
-  Beitrag wird als vereinfachend und aus dem Kontext gerissen dargestellt, da er
-  die nuancierten Ergebnisse der Studie nicht richtig wiedergibt. Die Studie
-  selbst wird als methodisch solide und theoretisch nuanciert bewertet, aber der
-  Beitrag wird als unvollständig und irreführend kritisiert.
+  Der 9min-Artikel kritisiert, dass der SRF eine methodisch solide
+  Science-Studie von Rohner et al. zu einer vereinfachten Geber-Perspektive
+  umdeutet, indem er den Rapazitäts-Effekt, die Limitationen der Studie, die
+  Institutionen-Problematik, die Fungibilität von Hilfsgeldern und afrikanische
+  Reformstimmen (Kaseya, Khumbah, Makamba, Moyo) komplett verschweigt. Die
+  Studie zeige Entzugssymptome einer Abhängigkeit, nicht die Friedenswirkung der
+  Hilfe – diese Unterscheidung gehe im SRF-Beitrag verloren. Die Kritik richtet
+  sich gegen eine Berichterstattung, die einen Interessenkonflikt der
+  Entwicklungsökonomie nicht thematisiert und die Debatte über Entwicklungshilfe
+  auf die Formel 'Hilfe gut, Abbruch schlecht' reduziert.
 quelle_datum: '2026-05-15'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: SRF
+quelle_redaktion: SRF Wissen
 kritik_schwere: 3
 ---
 

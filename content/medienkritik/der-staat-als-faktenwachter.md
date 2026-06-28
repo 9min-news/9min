@@ -11,31 +11,31 @@ categories:
   - Gesellschaft
 tags:
   - Facts Matter
-  - Staatskommunikation
-  - Quellenprüfung
+  - Desinformation
+  - Medienkompetenz
+  - Quellenautorität
   - Urteilsfähigkeit
-  - Verlässliche Medien
   - Aufklärung
-  - Bürgerbildung
-  - Kampagnenanalyse
+  - staatliche Kommunikation
+  - Kantone
 seo:
   description: >-
     Zur Kampagne «Facts Matter» (https://factsmatter.ch/) der Kantone Zürich,
     St. Gallen und Luzern Drei Schweizer Kantone — Zürich, St. Gallen und Luzern
     —…
 themen:
-  - Staatliche Informationskampagne
+  - Staatliche Desinformationskampagne
   - Epistemische Autorität des Staates
-  - Medienkompetenz und Urteilsbildung
-  - Desinformationsbekämpfung
-  - Bildungspolitik
+  - Medienkompetenz vs. Quellenautorität
+  - Bildungspolitik und Urteilsfähigkeit
+  - Asymmetrie institutioneller Kommunikation
 kritisiertes_medium: 'Kantone Zürich, St. Gallen, Luzern'
 kritisierter_beitrag: Facts Matter Kampagne
 kritisierter_autor: ''
 kritik_typ:
   - Behördenpropaganda
-  - Auslassung
   - Framing
+  - Auslassung
 personen: []
 institutionen:
   - Kanton Zürich
@@ -48,37 +48,33 @@ institutionen:
   - Tamedia
   - CH Media
   - Ringier
-  - sda/Keystone
-  - Reuters
-  - AFP
   - Verlegerverband Schweizer Medien
-  - EDMO
   - EU-Kommission
   - Taskforce East Stratcom
-  - Europäischer Auswärtiger Dienst
+  - EDMO
   - Bundesamt für Gesundheit
   - SNB
   - Biden-Administration
 gesetze_vorlagen: []
 these: >-
   Die staatliche Kampagne «Facts Matter» übernimmt eine epistemische
-  Autoritätsrolle, ohne dies zu reflektieren, und befähigt die Bürger nicht zur
-  eigenständigen Urteilsbildung, sondern verlagert das Urteil auf die
-  Quellenwahl.
+  Autoritätsrolle, die in einer freien Gesellschaft dem offenen Diskurs und dem
+  urteilsfähigen Bürger zustehen sollte, und ersetzt echte Urteilsbildung durch
+  Quellenautorität.
 zusammenfassung: >-
-  Der Artikel analysiert die von den Kantonen Zürich, St. Gallen und Luzern
-  lancierte Kampagne «Facts Matter» als strukturell problematisch, da der Staat
-  selbst die Rolle des Faktenwächters übernimmt, ohne dies zu reflektieren. Die
-  fünf Regeln der Kampagne seien reine Quellenregeln, die die innere Prüfung von
-  Aussagen — Logik, Grössenordnung, Plausibilität, Alternativhypothesen,
-  Auslassungen — auslassen und damit die Bürger nicht zur eigenständigen
-  Urteilsbildung befähigen. Die Kampagne sei ein Symptom einer Bildungspolitik,
-  die das Denken aufgegeben hat, und einer staatlichen Kommunikationspolitik,
-  die die Lücke füllen will, ohne sie wirklich zu füllen.
-quelle_datum: '2026-04-01'
+  Der Artikel analysiert die von drei Kantonen getragene Kampagne «Facts Matter»
+  als strukturelle Verschiebung epistemischer Autorität vom freien Diskurs zum
+  Staat. Die fünf Regeln der Kampagne werden als reine Quellenregeln kritisiert,
+  die die Prüfung von der Aussage auf den Sprecher verlagern und damit
+  vor-aufklärerische Wahrheitsfindung reproduzieren. Der Autor argumentiert,
+  dass echte Medienkompetenz die innere Prüfung von Logik, Grössenordnungen,
+  Beobachtung, Alternativhypothesen und Auslassungen erfordern würde —
+  Fähigkeiten, die die Bildungspolitik der letzten Jahrzehnte abgebaut hat und
+  die eine staatliche Kampagne nicht ersetzen kann.
+quelle_datum: ''
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: ''
+quelle_redaktion: Direktion der Justiz und des Inneren Kanton Zürich
 kritik_schwere: 3
 ---
 

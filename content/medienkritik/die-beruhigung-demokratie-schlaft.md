@@ -6,51 +6,62 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HEt53A7acAAyrAC.jpg'
 tweetId: '2038859738713108591'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Demokratie
-  - Gesellschaft
 tags:
-  - SRF
-  - Pro Futuris
-  - Stiftung Mercator Schweiz
   - Demokratie
-  - Medienkritik
-  - Politische Bildung
+  - Pro Futuris
+  - Studie
+  - Auslassung
+  - SVP-Wähler
+  - Stiftung Mercator
+  - fög
+  - Polarisierung
 seo:
   description: >-
     SRF macht aus einer Studie mit unbequemen Befunden eine
     Gute-Nacht-Geschichte. Die Überschrift: «Schweizerinnen und Schweizer mögen
     ihre Staatsform, sehr…
 themen:
-  - Demokratie
-  - Medienkritik
-  - Politische Bildung
-kritisiertes_medium: SRF
+  - Demokratiezufriedenheit
+  - Studienberichterstattung
+  - institutionelle Vertrauenskrise
+  - Stiftungsnetzwerke
+  - Medienauswahl
+kritisiertes_medium: SRF News
 kritisierter_beitrag: 'Schweizerinnen und Schweizer mögen ihre Staatsform, sehr sogar'
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
-  - Framing
-  - Kontextmangel
+  - Selektion
+  - Interessenkonflikt
 personen:
   - Marc Bühlmann
 institutionen:
   - SRF
   - Pro Futuris
-  - Stiftung Mercator Schweiz
   - Schweizerische Gemeinnützige Gesellschaft
-gesetze_vorlagen: []
+  - Stiftung Mercator Schweiz
+  - fög
+  - Universität Zürich
+  - SVP
+gesetze_vorlagen:
+  - Masseneinwanderungsinitiative
+  - Ausschaffungsinitiative
+  - SVP-Initiative gegen die 10-Millionen-Schweiz
 these: >-
-  Die SRF-Berichterstattung über eine Studie zur Demokratie in der Schweiz ist
-  irreführend und verschweigt wichtige Befunde, um eine beruhigende Nachricht zu
-  präsentieren
+  SRF hat eine Pro-Futuris-Studie mit unbequemen Befunden durch systematische
+  Auslassungen in eine beruhigende Staatsräson-Geschichte verwandelt, die das
+  politische Establishment stützt.
 zusammenfassung: >-
-  Die Studie von Pro Futuris zeigt, dass fast vier von zehn Schweizern eine
-  Partei aus dem politischen Prozess ausschliessen würden. Die
-  SRF-Berichterstattung über diese Studie ist jedoch irreführend und verschweigt
-  wichtige Befunde, um eine beruhigende Nachricht zu präsentieren. Die Studie
-  selbst zeigt ein Land, in dem die Hälfte der Bevölkerung fundamentale Zweifel
-  an der Funktionsweise des politischen Systems hat.
+  9min.ch kritisiert, dass SRF eine Demokratie-Studie von Pro Futuris selektiv
+  wiedergibt und zentrale Befunde verschweigt — darunter, dass 38% der Schweizer
+  eine Partei ausschliessen würden, dass Nachrichtenkonsum Demokratiemüdigkeit
+  verstärkt und dass nicht umgesetzte Volksinitiativen SVP-Wähler entfremden.
+  Statt der Studienbefunde zitiert SRF einen externen Experten, der beruhigt.
+  Zudem verschweigt SRF, dass die Daten von Sommer 2024 stammen, und verschweigt
+  die Interessenverflechtung zwischen Stiftung Mercator, Pro Futuris und dem
+  fög.
 quelle_datum: ''
 quelle_format: Online-Artikel
 quelle_sendung: ''

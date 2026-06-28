@@ -6,53 +6,62 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HITFZ_nXcAAsy8J.jpg'
 tweetId: '2054984965964623903'
 categories:
-  - Demokratie
-  - Medienrecht
-  - Wirtschaft
+  - SRF/SRG
+  - Abstimmungen
+  - Migration
 tags:
-  - SRF
-  - Studie
+  - SVP-Initiative
   - Bevölkerungsbegrenzung
-  - Wirtschaftliche Folgen
-  - Medienkritik
-  - Framing
+  - Prognoseunsicherheit
   - Auslassung
+  - Framing
+  - Demografik-Studie
+  - Pro-Kopf-Zahlen
+  - Referenzszenario
 seo:
   description: >-
     Zum SRF-Artikel «Ja zur SVP-Initiative führt laut Studie zu ‹erheblichen
     Kosten›», 13. Mai 2026 Was berichtet wird Der Bundesrat hat eine Studie in…
 themen:
+  - SVP-Initiative 10 Millionen
+  - Studieninterpretation
   - Bevölkerungsbegrenzung
-  - Wirtschaftliche Folgen
-  - Medienkritik
-kritisiertes_medium: SRF
-kritisierter_beitrag: «Ja zur SVP-Initiative führt laut Studie zu ‹erheblichen Kosten›»
+  - Medienberichterstattung vor Abstimmungen
+  - AHV-Kostenprojektion
+kritisiertes_medium: SRF News
+kritisierter_beitrag: Ja zur SVP-Initiative führt laut Studie zu 'erheblichen Kosten'
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
   - Framing
-  - Fehlinformation
+  - Behördenpropaganda
 personen:
   - Pascal Broulis
   - Marianne Binder-Keller
 institutionen:
   - SRF
   - Bundesrat
-  - Staatssekretariat für Migration (SEM)
-  - Büro Demografik
+  - Demografik
+  - Staatssekretariat für Migration
+  - SVP
+  - FDP
+  - Mitte
+  - AHV
 gesetze_vorlagen:
-  - SVP-Initiative
+  - SVP-Initiative 10 Millionen
+  - Postulate Broulis/Binder-Keller
 these: >-
-  Die SRF-Berichterstattung über die Studie zur Bevölkerungsbegrenzung ist
-  fehlerhaft und irreführend, da sie wichtige Informationen auslässt und die
-  Ergebnisse als Fakt präsentiert.
+  SRF präsentiert eine hochgradig unsichere 74-Jahre-Projektion als
+  wissenschaftliche Gewissheit und verschweigt zentrale methodische Vorbehalte,
+  Pro-Kopf-Zahlen und Interessenkonflikte, um die SVP-Initiative als Risiko
+  darzustellen.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRF-Berichterstattung über eine Studie zur
-  Bevölkerungsbegrenzung, die von der SVP initiiert wurde. Die Studie selbst
-  warnt vor Unsicherheiten und methodischen Vorbehalten, die jedoch im
-  SRF-Artikel nicht erwähnt werden. Stattdessen präsentiert der Artikel die
-  Ergebnisse als Fakt und verschweigt wichtige Informationen wie den
-  Zeithorizont und die Pro-Kopf-Zahlen.
+  Der Artikel kritisiert die SRF-Berichterstattung über eine vom Bundesrat in
+  Auftrag gegebene Demografik-Studie zur SVP-Bevölkerungsinitiative. SRF
+  verschweigt demnach den Zeithorizont von 74 Jahren, die Pro-Kopf-Zahlen (4'000
+  Franken weniger BIP 2075), die politischen Annahmen des Referenzszenarios
+  sowie Interessenkonflikte und das Timing einen Monat vor der Abstimmung. Die
+  Kritik sieht darin Kampagne statt Berichterstattung.
 quelle_datum: '2026-05-13'
 quelle_format: Online-Artikel
 quelle_sendung: ''

@@ -6,47 +6,53 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HKDnmQxWgAAzZmc.jpg'
 tweetId: '2062903901750219157'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Klima/Energie
 tags:
-  - SRF
-  - Hydrologin
-  - Manuela Brunner
   - Flusshitzewellen
+  - Manuela Brunner
+  - ETH
+  - Hydrologie
   - Klimawandel
-  - Medienkritik
-  - Journalismus
+  - AKW Beznau
+  - thermische Verschmutzung
+  - unkritisches Interview
 seo:
   description: >-
     Dieser SRF-Beitrag ist ein Interview mit der ETH-Hydrologin Manuela Brunner
     über ein tatsächlich wenig beachtetes Phänomen: Flusshitzewellen, also…
 themen:
   - Flusshitzewellen
-  - Klimawandel
-  - Medienkritik
-kritisiertes_medium: SRF
-kritisierter_beitrag: 'Hydrologin: ‹Flusshitzewellen werden häufiger und schwerer›'
+  - Klimawandel-Berichterstattung
+  - Wissenschaftsjournalismus
+  - Thermische Gewässerverschmutzung
+kritisiertes_medium: SRF News
+kritisierter_beitrag: 'Hydrologin: «Flusshitzewellen werden häufiger und schwerer»'
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
+  - Autoritätsargument
   - Framing
-  - Kontextmangel
 personen:
   - Manuela Brunner
 institutionen:
   - SRF
   - ETH
+  - Nationalfonds
+  - AKW Beznau
 gesetze_vorlagen: []
 these: >-
-  Der SRF-Beitrag über Flusshitzewellen ist zwar thematisch relevant, aber
-  methodisch schwach, da er kritische Nachfragen vermissen lässt und die
-  Expertin ungebremt antworten kann.
+  Der SRF-Beitrag präsentiert ein unkritisches Expertengespräch, das
+  Flusshitzewellen einseitig als Klimafolge rahmt und wesentliche
+  nicht-klimatische Ursachen wie thermische Verschmutzung durch Kraftwerke und
+  Uferverbauung auslässt.
 zusammenfassung: >-
-  Der Beitrag thematisiert Flusshitzewellen und ihre Auswirkungen auf
-  Ökosysteme. Die Expertin Manuela Brunner erklärt das Phänomen und seine
-  Folgen. Kritik wird an der mangelnden kritischen Nachfrage und der
-  unzureichenden Berücksichtigung von Faktoren wie thermischer Verschmutzung und
-  Uferzerstörung geübt.
+  Der 9min.ch-Artikel kritisiert ein SRF-Interview mit ETH-Hydrologin Manuela
+  Brunner über Flusshitzewellen als unkritisches Verkündigungsformat ohne
+  journalistische Nachfragen. Zentrale Kritikpunkte sind die Auslassung
+  nicht-klimatischer Ursachen wie thermischer Verschmutzung durch Kraftwerke und
+  Uferverbauung sowie die unkritische Übernahme apodiktischer Aussagen trotz
+  ungesicherter Datenbasis.
 quelle_datum: '2026-06-05'
 quelle_format: Online-Artikel
 quelle_sendung: ''

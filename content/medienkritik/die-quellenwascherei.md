@@ -11,13 +11,13 @@ categories:
   - Sicherheitspolitik
 tags:
   - Quellenwäscherei
-  - Geheimdienstquelle
-  - Russland-Analyse
+  - SRF-Analyse
+  - Russland
+  - Geheimdienstquellen
   - Falsifizierbarkeit
-  - Spekulation
-  - Militärparade
-  - Putin
   - Echo der Zeit
+  - Calum MacKenzie
+  - Militärparade
 seo:
   description: >-
     Zur SRF-Analyse von Calum MacKenzie über die Moskauer Militärparade vom 9.
@@ -26,16 +26,16 @@ seo:
 themen:
   - Russland-Berichterstattung
   - Quellenprüfung
-  - Geheimdienstquellen
   - Analyse vs. Spekulation
-  - Falsifizierbarkeit
+  - Geheimdienstquellen in Medien
+  - Medienhandwerk
 kritisiertes_medium: SRF Echo der Zeit
 kritisierter_beitrag: Analyse von Calum MacKenzie über die Moskauer Militärparade vom 9. Mai 2026
 kritisierter_autor: Calum MacKenzie
 kritik_typ:
-  - Framing
   - Auslassung
-  - Kontextmangel
+  - Framing
+  - Autoritätsargument
 personen:
   - Calum MacKenzie
   - Putin
@@ -49,16 +49,17 @@ institutionen:
   - Kreml
 gesetze_vorlagen: []
 these: >-
-  Die SRF-Analyse von Calum MacKenzie über die Moskauer Militärparade operiert
-  mit unzureichender Quellenbasis, wäscht anonyme Geheimdienstbehauptungen und
-  liefert eine nicht falsifizierbare Diagnose, die handwerklich nicht überzeugt.
+  Die SRF-Analyse von Calum MacKenzie wäscht anonyme Geheimdienstquellen, stellt
+  zentrale Diagnosen ohne empirische Indikatoren und ist nicht falsifizierbar —
+  sie ist handwerklich unzulänglich, auch wenn ihre Schlussfolgerung womöglich
+  stimmt.
 zusammenfassung: >-
-  9min.ch kritisiert die SRF-Analyse von Calum MacKenzie über die reduzierte
-  Moskauer Militärparade als handwerklich schwach. Die Analyse stütze sich auf
-  anonyme Geheimdienstquellen ('Wäscherei'), lese Putins Mimik statt empirische
-  Indikatoren zu nennen und sei intern widersprüchlich sowie nicht
-  falsifizierbar. Die Kritik richtet sich nicht gegen die politische
-  Grundposition, sondern gegen die journalistische Methode.
+  Der Artikel kritisiert die SRF-Analyse von Calum MacKenzie über die Moskauer
+  Militärparade als handwerklich mangelhaft. Die Analyse verwende anonyme
+  Geheimdienstquellen ("Quellenwäscherei"), Mimik-Lektüre und unbelegte
+  Diagnosen, während alternative Lesarten ausgeblendet würden. Im Gegensatz dazu
+  beschränke sich die Tagesschau-Berichterstattung auf das Beobachtbare — der
+  Unterschied zwischen Journalismus und Spekulation.
 quelle_datum: '2026-05-09'
 quelle_format: Broadcast
 quelle_sendung: Echo der Zeit

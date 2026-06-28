@@ -6,36 +6,35 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHc_zgaWAAAbvll.jpg'
 tweetId: '2051178340577341527'
 categories:
-  - Medienrecht
-  - Demokratie
-  - Zensur/Meinungsfreiheit
+  - SRF/SRG
+  - EU/Aussenpolitik
+  - Sicherheitspolitik
 tags:
+  - Neutralität
   - SRF
   - Echo der Zeit
   - Tobias Gasser
-  - Neutralitätsinitiative
-  - Bundesrat
-  - Medienkritik
-  - Journalismus
-  - Demokratie
+  - Selektion
+  - Framing
+  - Auslassung
+  - Konsenssender
 seo:
   description: >-
     Schauen wir den Beitrag «Wie soll die Schweizer Neutralität aussehen?»
     genauer an, erschienen am 29. April 2026 im Echo der Zeit, verfasst von
     Tobias…
 themen:
-  - Schweizer Neutralität
-  - Ukraine-Konflikt
-  - Medienkritik
-  - Journalismus
-  - Demokratie
-kritisiertes_medium: SRF
+  - Schweizer Neutralitätspolitik
+  - Ukraine-Krieg und Kriegsmaterial-Exportverbot
+  - Neutralitätsinitiative
+  - Medienberichterstattung und Service public
+kritisiertes_medium: SRF Echo der Zeit
 kritisierter_beitrag: Wie soll die Schweizer Neutralität aussehen?
 kritisierter_autor: Tobias Gasser
 kritik_typ:
+  - Selektion
   - Framing
   - Auslassung
-  - Selektion
 personen:
   - Tobias Gasser
   - Astrid Epiney
@@ -45,29 +44,41 @@ personen:
   - Daniel Thürer
 institutionen:
   - SRF
+  - Echo der Zeit
   - Bundesrat
   - Seco
   - Universität Freiburg
+  - UNO
+  - UN-Generalversammlung
+  - UN-Sicherheitsrat
+  - SVP
   - FDP
+  - EDA
 gesetze_vorlagen:
-  - Neutralitätsinitiative
-  - Kriegsmaterial- und Güterkontrollgesetz
+  - Neutralitätsinitiative «Wahrung der schweizerischen Neutralität»
+  - Kriegsmaterialgesetz
+  - Güterkontrollgesetz
+  - Halbierungsinitiative
 these: >-
-  Der SRF-Beitrag zu Schweizer Neutralität ist einseitig und suggeriert eine
-  politische Position, anstatt eine ausgewogene Berichterstattung zu bieten.
+  Der SRF-Beitrag entscheidet die Streitfrage zur Neutralitätsauslegung
+  strukturell vor, indem er durch Stimmenauswahl, wertende Sprache und
+  systematische Auslassungen die weiche Auslegung als vernünftige Mitte
+  präsentiert und so die demokratische Urteilsbildung vor der Abstimmung zur
+  Neutralitätsinitiative verzerrt.
 zusammenfassung: >-
-  Der Artikel analysiert einen SRF-Beitrag zu Schweizer Neutralität und
-  kritisiert die einseitige Darstellung. Der Beitrag suggeriert, dass der
-  Bundesrat die Neutralität zu streng auslegt und die Ukraine nicht sanktioniert
-  werden sollte. Die Kritik bemängelt die Auswahl der Stimmen, die Sprache und
-  die Auslassungen, die eine klare Schlagseite ergeben. Der Artikel fordert eine
-  ausgewogene Berichterstattung, die dem Bürger ermöglicht, ein eigenes Urteil
-  zu bilden.
+  Der 9min.ch-Artikel analysiert einen Echo-der-Zeit-Beitrag von Tobias Gasser
+  vom 29. April 2026 zur schweizerischen Neutralitätspolitik im Ukrainekrieg. Er
+  kritisiert, dass der Beitrag nur Kritiker der strengen Neutralitätsauslegung
+  zitiert, Gegenstimmen und historische Praxis auslässt und durch wertende
+  Sprache die Streitfrage zugunsten einer Lockerung vorentscheidet. Damit
+  verfehle der Beitrag den Service-public-Auftrag, den Bürgern eine eigene
+  Urteilsbildung zu ermöglichen, gerade vor der anstehenden Abstimmung über die
+  Neutralitätsinitiative.
 quelle_datum: '2026-04-29'
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
-quelle_redaktion: SRF
-kritik_schwere: 2
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 Schauen wir den Beitrag [«Wie soll die Schweizer Neutralität aussehen?» ](https://www.srf.ch/news/schweiz/solidaritaet-mit-der-ukraine-wie-soll-die-schweizer-neutralitaet-aussehen)genauer an, erschienen am 29. April 2026 im Echo der Zeit, verfasst von Tobias Gasser. Er ist ein interessanter Fall. Nicht weil er handwerklich schlecht wäre. Sondern weil er handwerklich kompetent ist und gerade deswegen die Schlagseite des Konsenssenders so schön illustriert.

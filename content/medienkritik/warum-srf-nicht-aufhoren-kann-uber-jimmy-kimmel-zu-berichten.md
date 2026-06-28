@@ -6,57 +6,78 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HG-1sG5aQAAshxE.jpg'
 tweetId: '2049056154928484642'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Gesellschaft
-  - Demokratie
+  - Medienrecht
 tags:
-  - SRF
   - Jimmy Kimmel
-  - Trump
-  - Medien
-  - Journalismus
+  - Donald Trump
+  - Late-Night-Shows
   - Pressefreiheit
-  - Politik
+  - SRF
+  - Berichterstattungs-Frequenz
+  - pädagogischer Subtext
+  - Asymmetrie
 seo:
   description: >-
     Zum SRF-Beitrag «Nach Witwen-Witz: Trump fordert Entlassung von Jimmy
     Kimmel» vom 28. April 2026 Es ist nicht der erste Bericht. Es ist nicht der
     zweite.…
 themen:
-  - Medienkritik
-  - Journalismus
-  - Pressefreiheit
+  - Berichterstattung über amerikanische Late-Night-Shows
+  - Pressefreiheitsnarrativ
+  - Politischer Erziehungsanspruch öffentlich-rechtlicher Medien
+  - Asymmetrie in der internationalen Berichterstattung
 kritisiertes_medium: SRF
 kritisierter_beitrag: 'Nach Witwen-Witz: Trump fordert Entlassung von Jimmy Kimmel'
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
   - Framing
-  - Selektion
+  - Asymmetrie
 personen:
   - Jimmy Kimmel
   - Donald Trump
+  - Melania Trump
+  - Charlie Kirk
+  - Stephen Colbert
+  - Jimmy Fallon
+  - Carson
+  - Letterman
+  - Leno
+  - Conan
+  - Stewart
 institutionen:
   - SRF
   - SRG
-  - Disney
   - ABC
   - NBC
+  - Disney
+  - BBC
+  - ORF
+  - RAI
+  - Tamedia
+  - SNB
+  - Bundesrat
 gesetze_vorlagen: []
 these: >-
-  Der SRF-Bericht über Jimmy Kimmel und Trump dient nicht der Information,
-  sondern der Bestätigung von Vorurteilen und der politischen Erziehung.
+  SRF betreibt mit wiederholter Berichterstattung über amerikanische
+  Late-Night-Konflikte politische Erziehung statt neutralen Journalismus und
+  lenkt dabei von Schweizer und europäischen Medienproblemen ab.
 zusammenfassung: >-
-  Der Artikel kritisiert die Berichterstattung des SRF über Jimmy Kimmel und
-  Trump, da sie nicht der Information, sondern der Bestätigung von Vorurteilen
-  und der politischen Erziehung dient. Der SRF berichtet regelmäßig über
-  amerikanische Pressefreiheits-Konflikte, aber nicht über vergleichbare
-  Konflikte in der Schweiz. Die Auswahl der Themen und die Erzählstruktur dienen
-  einer bestimmten politischen Botschaft.
+  Der Artikel kritisiert SRF für mindestens fünf bis sechs Berichte über Jimmy
+  Kimmel innerhalb von sieben Monaten, die für Schweizer Hörer irrelevante
+  amerikanische Medienquerelen darstellen. Die immer gleiche Erzählstruktur
+  (Trump als Aggressor, Moderator als Opfer, Pressefreiheit bedroht)
+  funktioniere als pädagogische Lektion mit politischer Botschaft, während
+  vergleichbare europäische und Schweizer Pressefreiheitskonflikte nicht mit
+  gleicher Regelmässigkeit behandelt würden. Die Auswahl folge der moralischen
+  Klarheit des amerikanischen Falls, nicht der Relevanz für das Schweizer
+  Publikum.
 quelle_datum: '2026-04-28'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: SRF News
+quelle_redaktion: SRF Kultur
 kritik_schwere: 3
 ---
 

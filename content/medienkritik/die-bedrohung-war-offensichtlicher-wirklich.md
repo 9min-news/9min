@@ -6,27 +6,30 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HGLy1gJXQAAvS8O.jpg'
 tweetId: '2045464611160207675'
 categories:
+  - SRF/SRG
   - Klima/Energie
+  - Gesellschaft
 tags:
-  - Klimaerwärmung
+  - Klimakommunikation
+  - Wissenschaftsconsensus
   - Ozonloch
-  - FCKW
-  - Umweltchemie
-  - Wissenschaftskommunikation
-  - Medienkritik
-  - SRF
+  - Empa
+  - Reimann
+  - Modellunsicherheit
+  - SRF-Kritik
+  - Celio-Standard
 seo:
   description: >-
     Dieser Beitrag zum Ozonloch ist aus mehreren Gründen interessant. Er ist
     wissenschaftlich seriös. Er gibt einem Empa-Forscher Raum. Er liefert
     konkrete…
 themen:
-  - Klimawandel
-  - Ozonloch
-  - Wissenschaftskommunikation
-  - Medienkritik
-  - Umweltchemie
-kritisiertes_medium: SRF
+  - Klimaberichterstattung
+  - Wissenschaftsjournalismus
+  - Ozonloch vs. Klima
+  - Epistemische Asymmetrie
+  - Öffentlich-rechtlicher Auftrag
+kritisiertes_medium: SRF News
 kritisierter_beitrag: >-
   Neue Schadstoffmessungen: Die Bedrohung durch das Ozonloch war
   offensichtlicher
@@ -40,23 +43,25 @@ personen:
 institutionen:
   - SRF
   - Empa
+  - IPCC
 gesetze_vorlagen: []
 these: >-
-  Die Bedrohung durch den Klimawandel ist weniger offensichtlich als die durch
-  das Ozonloch, was die Kommunikation der Klimawissenschaft und die politische
-  Mobilisierung beeinflusst.
+  SRF lässt eine wissenschaftlich bedeutsame Aussage eines Empa-Forschers, die
+  die offizielle Klimakommunikationslinie durchbricht, unkommentiert stehen und
+  vertieft sie nicht, statt eine ehrliche Debatte über die unterschiedliche
+  Evidenzlage bei Ozonloch und Klima zu führen.
 zusammenfassung: >-
-  Der Artikel kritisiert die Berichterstattung des SRF über den Klimawandel und
-  das Ozonloch. Ein Interview mit einem Empa-Forscher enthält eine
-  bemerkenswerte Aussage, die die Offensichtlichkeit der Bedrohung durch den
-  Klimawandel in Frage stellt. Die Redaktion des SRF lässt diese Aussage jedoch
-  unkommentiert und vertieft sie nicht weiter. Der Artikel argumentiert, dass
-  dies ein Muster der Medienberichterstattung ist, bei dem unbequeme
-  Informationen genannt, aber nicht weiter verfolgt werden.
+  Der Artikel analysiert einen SRF-Beitrag über das Ozonloch, in dem
+  Empa-Forscher Stefan Reimann bemerkt, die Bedrohung durch das Ozonloch sei
+  offensichtlicher gewesen als heute bei der Klimaerwärmung. 9min kritisiert,
+  dass SRF diese epistemisch bedeutsame Aussage nicht weiterverfolgt, sondern in
+  eine erbauliche Schlussformel einbettet, obwohl sie eine produktive Debatte
+  über wissenschaftliche Gewissheit, Modellunsicherheiten und das Verhältnis von
+  Evidenz und politischer Mobilisierung eröffnet hätte.
 quelle_datum: ''
-quelle_format: ''
+quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: ''
+quelle_redaktion: SRF News
 kritik_schwere: 2
 ---
 

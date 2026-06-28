@@ -6,25 +6,29 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJADx9LXQAA4aBS.jpg'
 tweetId: '2058149367660331113'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Klima/Energie
+  - Migration
 tags:
-  - Klimaschutz
-  - Umweltschutz
-  - Bevölkerungsentwicklung
-  - Energiepolitik
+  - Klimastreik
+  - SVP-Initiative
+  - CO₂
+  - Bevölkerungswachstum
   - Medienkritik
+  - Logik
   - SRF
+  - Demonstration
 seo:
   description: >-
     Wie SRF eine Demonstration feiert, die auf einer Prämisse aufbaut, die nie
     bewiesen wurde, die absurde Gleichung «Mehr Menschen = weniger CO₂»…
 themen:
-  - Klimastreik
-  - CO₂-Emissionen
-  - Bevölkerungswachstum
-  - Energiewende
-kritisiertes_medium: SRF
+  - Klimastreik-Demonstration
+  - SVP-Bevölkerungsinitiative
+  - CO₂-Prämisse
+  - Bevölkerungswachstum und Emissionen
+  - Medienberichterstattung
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Klimastreik nimmt an Demo in Bern SVP-Initiative ins Visier
 kritisierter_autor: ''
 kritik_typ:
@@ -35,20 +39,22 @@ personen:
   - Greta Thunberg
 institutionen:
   - SRF
+  - Klimastreik
   - SVP
+  - Bundesplatz
 gesetze_vorlagen:
-  - Keine 10-Mio-Schweiz
+  - SVP-Initiative «Keine 10-Mio-Schweiz»
 these: >-
-  Die Berichterstattung des SRF über den Klimastreik ist fehlerhaft, da sie die
-  Prämisse, dass CO₂ das Problem ist, nicht hinterfragt und die Logik der
-  Demonstration nicht durchdenkt.
+  SRF übernimmt unkritisch die Prämisse des Klimastreiks, dass CO₂ das Problem
+  sei, und hinterfragt weder die mathematische Unmöglichkeit der Gleichung «mehr
+  Menschen = weniger CO₂» noch die Widersprüchlichkeit der Demonstration.
 zusammenfassung: >-
-  Der Artikel kritisiert die Berichterstattung des SRF über den Klimastreik und
-  die Demonstration gegen die SVP-Initiative. Der Autor argumentiert, dass die
-  Berichterstattung fehlerhaft ist, da sie die Prämisse, dass CO₂ das Problem
-  ist, nicht hinterfragt und die Logik der Demonstration nicht durchdenkt. Der
-  Artikel fordert eine kritischere Berichterstattung, die die Ursachen und
-  Konsequenzen des Klimawandels und der Bevölkerungsentwicklung thematisiert.
+  Der Artikel kritisiert, dass SRF über eine Klimastreik-Demonstration gegen die
+  SVP-Initiative berichtet, ohne die zugrundeliegende CO₂-Prämisse, die
+  mathematische Gleichung zwischen Bevölkerungswachstum und Emissionen sowie den
+  Klassenkampf-Slogan gegen Privatjets zu hinterfragen. SRF reproduziere die
+  Perspektive der Demonstranten, statt die Logik und Widersprüche der
+  Forderungen zu prüfen.
 quelle_datum: '2026-05-22'
 quelle_format: Online-Artikel
 quelle_sendung: ''

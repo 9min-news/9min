@@ -6,63 +6,68 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHTJu42W4AEVTkx.jpg'
 tweetId: '2050485574100824249'
 categories:
-  - Medienrecht
-  - Zensur/Meinungsfreiheit
+  - SRF/SRG
+  - EU/Aussenpolitik
   - Sicherheitspolitik
 tags:
-  - SRF
   - Echo der Zeit
   - Trump
-  - Drogenkrieg
-  - Medienkritik
-  - Journalismus
-  - US-Militär
-  - Sicherheitspolitik
+  - Drogenkartelle
+  - WOLA
+  - Framing
+  - Selektion
+  - Fentanyl
+  - Hegseth
 seo:
   description: >-
     Zur SRF-Berichterstattung «Trumps sogenannter Drogenkrieg», Echo der Zeit,
     1. Mai 2026 Die Schlagzeile als Vorurteil «Hinrichtungen auf hoher See —
     Trumps…
 themen:
-  - US-Militär
-  - Drogenkrieg
-  - Trump-Administration
-  - Medienkritik
-  - Journalismus
+  - US-Drogenkrieg-Berichterstattung
+  - Quellenauswahl im Journalismus
+  - Framing durch Sprache
+  - Kontext der Fentanyl-Krise
+  - Schweizer Drogenmitverantwortung
 kritisiertes_medium: SRF
 kritisierter_beitrag: Trumps sogenannter Drogenkrieg
 kritisierter_autor: ''
 kritik_typ:
   - Framing
+  - Selektion
   - Auslassung
-  - Fehlinformation
 personen:
   - Adam Isacson
-  - Trump
-  - Hegseth
+  - Donald Trump
+  - Pete Hegseth
+  - Barack Obama
 institutionen:
   - SRF
-  - Washington Office on Latin America (WOLA)
+  - Washington Office on Latin America
+  - US-State Department
   - US-Militär
-  - State Department
+  - Sinaloa-Kartell
+  - CJNG
+  - Tren de Aragua
+  - ELN
 gesetze_vorlagen:
-  - Foreign Terrorist Organizations
-  - armed conflict not of an international character
-  - Seerecht
+  - Foreign Terrorist Organizations Designation
 these: >-
-  Der SRF-Beitrag zu Trumps Drogenkrieg ist einseitig und fehlerhaft, da er
-  wichtige Informationen auslässt und eine negative Darstellung der US-Regierung
-  präsentiert.
+  Die SRF-Echo-der-Zeit-Sendung über Trumps Drogenkrieg ersetzt Journalismus
+  durch einseitige politische Positionierung, indem sie eine einzige progressive
+  NGO-Quelle als Autorität übernimmt, rechtliche Gegenargumente ausblendet und
+  den Kontext der Fentanyl-Krise verschweigt.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag zu Trumps Drogenkrieg als einseitig und
-  fehlerhaft. Der Beitrag präsentiert eine negative Darstellung der US-Regierung
-  und lässt wichtige Informationen aus. Der Artikel argumentiert, dass der
-  Beitrag nicht objektiv ist und eine politische Positionierung darstellt,
-  anstatt eine neutrale Berichterstattung zu bieten.
+  Der Artikel kritisiert die SRF-Sendung Echo der Zeit für eine einseitige
+  Berichterstattung über US-Militäroperationen gegen Drogenboote. Beanstandet
+  werden Framing in der Schlagzeile, Selektion durch alleinige Quellenwahl einer
+  progressiven NGO, Auslassung rechtlicher Gegenargumente und des
+  Fentanyl-Krisen-Kontexts sowie eine asymmetrische Behandlung Trumps gegenüber
+  Obama. Der Autor sieht darin politische Bildungsarbeit statt Journalismus.
 quelle_datum: '2026-05-01'
 quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
-quelle_redaktion: SRF
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

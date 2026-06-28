@@ -6,28 +6,30 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIyNBa0XUAAQqIc.jpg'
 tweetId: '2057174343088853195'
 categories:
-  - Medienrecht
-  - Zensur/Meinungsfreiheit
-  - Demokratie
+  - Abstimmungen
+  - Migration
+  - SRF/SRG
 tags:
-  - SRF
   - Faktencheck
   - Asymmetrie
-  - Abstimmung
-  - Initiative
-  - Zuwanderung
+  - Zirkelschluss
   - Demografie
+  - AHV
+  - Zuwanderung
+  - SRF
+  - Doppelmassstab
 seo:
   description: >-
     Wie SRF im Faktencheck die Ja-Argumente zerschneidet und die Nein-Argumente
     zurechtbiegt — und das «Richtig» des einen ganz anders aussieht als das…
 themen:
-  - Faktencheck
-  - Asymmetrie in der Berichterstattung
-  - Abstimmungskampagne
-kritisiertes_medium: SRF
+  - Asymmetrie in Faktenchecks
+  - Zuwanderung und Demografie
+  - AHV und Sozialversicherungen
+  - Abstimmungsberichterstattung
+kritisiertes_medium: SRF News
 kritisierter_beitrag: 'Initiative ''Keine 10-Mio-Schweiz'': Sechs Argumente im Faktencheck'
-kritisierter_autor: 'Curdin Vincenz, Michèle Scherer und Andreas Stüdli'
+kritisierter_autor: 'Curdin Vincenz, Michèle Scherer, Andreas Stüdli'
 kritik_typ:
   - Asymmetrie
   - Framing
@@ -42,16 +44,17 @@ institutionen:
 gesetze_vorlagen:
   - Initiative 'Keine 10-Mio-Schweiz'
 these: >-
-  Der SRF-Faktencheck zur Initiative 'Keine 10-Mio-Schweiz' zeigt eine
-  Asymmetrie in der Berichterstattung, indem Ja-Argumente mit Vorbehalten
-  umgeben und Nein-Argumente mit Fussnoten versehen werden.
+  SRF prüft Ja- und Nein-Argumente im Faktencheck mit unterschiedlichen
+  Massstäben und inszeniert so eine asymmetrische Berichterstattung zugunsten
+  eines Nein zur Initiative.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Faktencheck zur Initiative 'Keine
-  10-Mio-Schweiz' für seine Asymmetrie in der Berichterstattung. Die
-  Ja-Argumente werden mit Vorbehalten umgeben, während die Nein-Argumente mit
-  Fussnoten versehen werden. Der Artikel argumentiert, dass dies keine objektive
-  Prüfung der Argumente ist, sondern eine Inszenierung, die die Nein-Argumente
-  bevorzugt.
+  Der Artikel analysiert den SRF-Faktencheck zur Initiative 'Keine
+  10-Mio-Schweiz' und zeigt auf, dass Ja-Argumente mit Vorbehalten zerschnitten,
+  Nein-Argumente hingegen mit Fussnoten zurechtgebogen werden. Insbesondere der
+  zirkuläre Beweis beim AHV-Argument und die Alterung der Zugewanderten würden
+  verschwiegen oder marginalisiert. Die Asymmetrie der Fazits erzeuge den
+  Eindruck einer neutralen Prüfung, während tatsächlich eine Richtung vorgegeben
+  werde.
 quelle_datum: '2026-05-20'
 quelle_format: Online-Artikel
 quelle_sendung: ''

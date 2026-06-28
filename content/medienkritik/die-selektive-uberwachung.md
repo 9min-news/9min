@@ -6,30 +6,29 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HI0yntTW0AAlCrE.jpg'
 tweetId: '2057356604249444366'
 categories:
-  - Zensur/Meinungsfreiheit
+  - SRF/SRG
   - Sicherheitspolitik
   - Demokratie
 tags:
   - Massenüberwachung
   - Flugpassagierdaten
-  - Terrorismus
-  - Sicherheit
-  - Datenschutz
+  - Fedpol
   - Privatjets
-  - Elite
-  - Masse
+  - Pseudonymisierung
+  - Terrorismusbekämpfung
+  - Grundrechte
+  - Selektive Überwachung
 seo:
   description: >-
     Wie SRF die Massenüberwachung von Flugpassagieren normalisiert — und das
     grösste Schlupfloch nicht als Systemfehler, sondern als Detailfrage
     behandelt Zum…
 themen:
-  - Überwachung
-  - Flugpassagiere
-  - Terrorismus
-  - Datenschutz
-  - Sicherheitspolitik
-kritisiertes_medium: SRF
+  - Massenüberwachung von Flugpassagieren
+  - Selektive Überwachung und Privilegien
+  - Datenschutz und Pseudonymisierung
+  - Sicherheitsrhetorik und Framing
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Fedpol nimmt Flugpassagiere unter die Lupe
 kritisierter_autor: Manuel Ramirez
 kritik_typ:
@@ -37,27 +36,32 @@ kritik_typ:
   - Auslassung
   - Kontextmangel
 personen:
-  - Beat Jans
+  - Manuel Ramirez
   - Patrick Hässig
+  - Beat Jans
 institutionen:
-  - Fedpol
   - SRF
+  - Fedpol
   - Bundesverwaltungsgericht
+  - EU
+  - USA
+  - GLP
   - Grüne
+  - Bundesrat
 gesetze_vorlagen:
-  - Gesetz über die Sammlung von Flugpassagierdaten
+  - Passagierdatengesetz
 these: >-
-  Die selektive Überwachung von Flugpassagieren durch das Fedpol und die
-  Berichterstattung darüber durch den SRF normalisieren die Massenüberwachung
-  und verschleiern das grösste Schlupfloch im System.
+  SRF normalisiert durch harmloses Framing die Massenüberwachung aller
+  Flugpassagieren und behandelt das systematische Schlupfloch bei Privatjets als
+  Detailfrage statt als Systemfehler.
 zusammenfassung: >-
-  Das Fedpol sammelt ab 2027 die Daten aller Flugpassagiere, nicht nur
-  Verdächtiger. Die Begründung ist der Kampf gegen Terrorismus, Drogenhandel und
-  Menschenhandel. Der SRF berichtet darüber, ohne die systematische Selektivität
-  der Überwachung und das grösste Schlupfloch im System, die Ausnahme von
-  Privatjets, zu thematisieren. Die Kritik lautet, dass die Überwachung der
-  Masse und die Verschonung der Elite politisch durchsetzbar seien, während die
-  Sicherheitsbürokratie expandiere, wo sie könne.
+  Der 9min.ch-Artikel kritisiert den SRF-Beitrag zur Sammlung aller
+  Flugpassagierdaten ab 2027 als Beispiel für die Normalisierung von
+  Massenüberwachung. SRF nutze harmlose Sprache («unter die Lupe nehmen»),
+  stelle die systematische Ausnahme von Privatjets als Detail dar und erwähne
+  weder historische Erfahrungen mit Zweckentfremdung von Daten noch eine
+  Gegenrechnung zur tatsächlichen Bedrohungslage. Die Gegenposition der Grünen
+  werde nur zitiert, nicht entfaltet.
 quelle_datum: '2026-05-21'
 quelle_format: Online-Artikel
 quelle_sendung: ''

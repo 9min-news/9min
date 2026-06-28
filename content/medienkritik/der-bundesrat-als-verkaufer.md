@@ -7,17 +7,17 @@ coverImage: 'https://pbs.twimg.com/media/HIV2V5vXEAAuta0.jpg'
 tweetId: '2055179816752582787'
 categories:
   - Migration
-  - Demokratie
+  - Abstimmungen
   - EU/Aussenpolitik
 tags:
   - Beat Jans
-  - Rede
-  - Baden
-  - Zuwanderung
-  - Bilaterale
-  - Schengen
+  - Rede Baden
+  - 10-Millionen-Initiative
   - MEI
-  - Abstimmungsbüchlein
+  - Personenfreizügigkeit
+  - Zirkelschluss
+  - Auslassung
+  - Brexit-Vergleich
 seo:
   description: >-
     Zur Rede von Bundesrat Beat Jans in Baden, 7. Mai 2026 Beat Jans hat eine
@@ -26,22 +26,21 @@ seo:
 themen:
   - Migrationspolitik
   - Abstimmungskampf 10-Millionen-Initiative
-  - Bilaterale Beziehungen
-  - Rhetorik und Argumentation
-  - Gebrochene Regierungsversprechen
+  - Bilaterale Verträge
+  - Personenfreizügigkeit
+  - Vertrauensbruch Bundesrat
 kritisiertes_medium: Bundesrat
 kritisierter_beitrag: Rede von Bundesrat Beat Jans in Baden
 kritisierter_autor: Beat Jans
 kritik_typ:
   - Auslassung
   - Framing
-  - Behördenpropaganda
+  - Selektion
 personen:
   - Beat Jans
 institutionen:
   - Bundesrat
   - EJPD
-  - EU
   - Europol
   - NHS
   - AHV
@@ -50,20 +49,20 @@ gesetze_vorlagen:
   - 10-Millionen-Initiative
   - Masseneinwanderungsinitiative
   - Personenfreizügigkeit
-  - Bilaterale
-  - Begrenzungsinitiative
+  - Bilaterale Verträge
+  - Schengen-Abkommen
 these: >-
-  Die Rede von Beat Jans ist rhetorisch geschickt, aber inhaltlich schwach — sie
-  verkauft eine Politik statt sie zu begründen und verschweigt systematisch
-  gebrochene Versprechen, EL-Kosten und Alternativen zur Zuwanderung.
+  Die Rede von Beat Jans ist rhetorisch geschickt, aber argumentativ schwach und
+  dokumentiert einen Bundesrat, der nicht überzeugt, sondern durch Auslassungen,
+  falsche Analogien und Angstinstrumentalisierung verkaufen will.
 zusammenfassung: >-
-  Der Artikel analysiert eine Rede von Bundesrat Beat Jans vom 7. Mai 2026 in
-  Baden und wirft ihm rhetorische Taschenspielertricks vor: eine falsche
-  Analogie (Baden/Schweiz), einen Zirkelschluss zur Zuwanderungsdefinition,
-  selektiven Brexit-Vergleich und Angst-Macherei bei Schengen. Zentraler Vorwurf
-  ist die systematische Auslassung gebrochener Versprechen (Abstimmungsbüchlein
-  2000, MEI-Nichtumsetzung) sowie der EL-Kosten. Der Bundesrat werde als
-  Verkäufer statt als Überzeuger charakterisiert.
+  9min.ch analysiert die Rede von Bundesrat Beat Jans in Baden vom 7. Mai 2026
+  und wirft ihm rhetorische Taschenspielertricks vor. Kritisiert werden eine
+  falsche Baden-Analogie, ein Zirkelschluss bei der Definition des
+  Zuwanderungsbedarfs, die Auslassung gebrochener Versprechen (MEI,
+  Abstimmungsbüchlein 2000), ein selektiver Brexit-Vergleich sowie die
+  Verschweigung von EL-Kosten und Pyramidendynamik. Die Rede wird als Dokument
+  eines Bundesrates interpretiert, der nicht diskutiert, sondern dominiert.
 quelle_datum: '2026-05-07'
 quelle_format: Online-Artikel
 quelle_sendung: ''

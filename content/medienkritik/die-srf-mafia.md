@@ -7,54 +7,52 @@ coverImage: 'https://pbs.twimg.com/media/HKGz2KnX0AA_y33.jpg'
 tweetId: '2063127867412697582'
 categories:
   - SRF/SRG
-  - Migration
   - Gesellschaft
 tags:
-  - Kalabrien
-  - Erntehelfer
+  - Beweisführung
   - Caporalato
   - Ndrangheta
-  - Beweisführung
-  - Indizien
+  - Expertenstimme
   - Lieferkette
   - Konsumentenverantwortung
+  - Kalabrien
+  - Arbeitsausbeutung
 seo:
   description: >-
     Dieser SRF-Beitrag schildert einen entsetzlichen Fall: Vier Erntehelfer
     werden in Kalabrien in einem Auto verbrannt, offenbar nachdem sie sich gegen
     ihre…
 themen:
+  - Journalistische Beweisführung
   - Caporalato-Ausbeutung
-  - Mafia-Verbindung 'Ndrangheta
+  - Mafia-Zuschreibung
   - Lieferkettenverantwortung
-  - Beweisführung im Journalismus
-  - Arbeitsbedingungen migrantischer Landarbeiter
+  - Expertenabhängigkeit
 kritisiertes_medium: SRF News
 kritisierter_beitrag: Darum wurden vier Erntehelfer in Kalabrien ermordet
 kritisierter_autor: ''
 kritik_typ:
-  - Framing
   - Kontextmangel
   - Auslassung
+  - Autoritätsargument
 personen:
   - Marco Omizzólo
 institutionen:
   - SRF
-  - Ndrangheta
+  - '''Ndrangheta'
 gesetze_vorlagen: []
 these: >-
-  Der SRF-Beitrag macht ein wichtiges Thema stark, springt aber journalistisch
-  von Indizien zu Gewissheiten und belegt die Mafia-Verbindung sowie die
-  Schweizer Mitverantwortung nicht ausreichend.
+  Der SRF-Beitrag macht aus Indizien Gewissheiten, überlässt die gesamte
+  Systemerklärung einer einzigen Expertenstimme und ersetzt konkrete Recherchen
+  zu juristischen Fakten, Lieferketten und ökonomischen Margen durch moralische
+  Vermutungen.
 zusammenfassung: >-
   9min.ch analysiert einen SRF-Beitrag über einen Mordfall an vier Erntehelfern
-  in Kalabrien. Lob gilt der konkreten Schilderung und der Erklärung des
-  Caporalato-Systems. Kritisiert wird der Sprung von Indizien zu Gewissheiten:
-  Die 'Ndrangheta-Verbindung basiere nur auf Aussagen des Überlebenden, die
-  Schweizer Lieferkettenverbindung bleibe eine moralische Vermutung, und die
-  einseitige Quellenlage (nur Marco Omizzólo) ersetze keine breite Recherche.
-  Auch die ökonomische Preisbildung und die pauschale Aussage «Es fehlt am
-  Willen» werden als unzureichend begründet markiert.
+  in Kalabrien. Der Beitrag wird für den Sprung von Indizien zu Gewissheiten
+  kritisiert, insbesondere bei der Zuschreibung an die 'Ndrangheta und der
+  Kausalität zwischen Beschwerde und Mord. Zudem fehlen juristische
+  Zwischenschritte, weitere Quellen neben dem Experten Marco Omizzólo sowie
+  konkrete Belege für die behauptete Schweizer Lieferkettenverbindung.
 quelle_datum: '2026-06-05'
 quelle_format: Online-Artikel
 quelle_sendung: ''

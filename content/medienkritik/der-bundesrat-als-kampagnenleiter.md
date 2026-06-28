@@ -6,58 +6,72 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHxmjjaW0AAWdzJ.jpg'
 tweetId: '2052629146006593745'
 categories:
-  - Medienrecht
+  - Abstimmungen
+  - Migration
   - Demokratie
-  - Wirtschaft
 tags:
   - Bundesrat
+  - Beat Jans
   - TeleZüri
-  - Interview
-  - Kampagnenleiter
-  - Wahlkampf
-  - Demokratie
-  - Wirtschaft
-  - Zuwanderung
+  - Oliver Steffen
+  - Abstimmungskampf
+  - Volksinitiative
+  - Personenfreizügigkeit
+  - Kampagnenrhetorik
 seo:
   description: >-
     Zum TeleZüri-Interview mit Bundespräsident Beat Jans zur Volksinitiative
     «Keine 10-Mio-Schweiz», 8. Mai 2026 Was passiert Ein Bundesrat sitzt im
     Studio…
 themen:
-  - Volksinitiative Keine 10-Mio-Schweiz
-  - Bundespräsident Beat Jans
-  - Abstimmungskampagne
-  - Medienkritik
+  - Bundesrat als Kampagnenakteur
+  - Abstimmungskampf vor Volksabstimmung
+  - Personenfreizügigkeit und Zuwanderung
+  - Medienkritik Moderator-Verhalten
+  - Brexit-Analogie als rhetorisches Mittel
 kritisiertes_medium: TeleZüri
-kritisierter_beitrag: Interview mit Bundespräsident Beat Jans
-kritisierter_autor: ''
+kritisierter_beitrag: >-
+  Talktäglich-Interview mit Bundespräsident Beat Jans zur Volksinitiative «Keine
+  10-Mio-Schweiz»
+kritisierter_autor: Oliver Steffen
 kritik_typ:
+  - Behördenpropaganda
+  - Auslassung
   - Framing
-  - Fehlinformation
-  - Selektion
 personen:
   - Beat Jans
   - Oliver Steffen
 institutionen:
-  - Bundesrat
   - TeleZüri
+  - Bundesrat
   - SP
+  - SRG
+  - Geschäftsprüfungskommission
+  - SECO
+  - EU
+  - NHS
 gesetze_vorlagen:
-  - Volksinitiative Keine 10-Mio-Schweiz
+  - Volksinitiative «Keine 10-Mio-Schweiz»
+  - Artikel 10a Bundesgesetz über die politischen Rechte (RPG)
+  - Pflegeinitiative 2021
 these: >-
-  Der Bundespräsident Beat Jans nutzt seine institutionelle Autorität, um eine
-  politische Position zu vertreten und die Initiative Keine 10-Mio-Schweiz zu
-  bekämpfen.
+  Ein Bundespräsident nutzt sechs Wochen vor einer Volksabstimmung ein privates
+  TV-Format als Kampagnenbühne, während der Moderator journalistisch versagt und
+  die institutionelle Neutralität des Bundesrats zur Wahlkampfpraxis verzerrt
+  wird.
 zusammenfassung: >-
-  Das Interview mit Bundespräsident Beat Jans auf TeleZüri wird kritisiert, da
-  es mehr wie eine politische Rede als ein journalistisches Interview wirkt. Der
-  Bundespräsident nutzt seine institutionelle Autorität, um die Initiative Keine
-  10-Mio-Schweiz zu bekämpfen und die Zuschauer zu überzeugen. Der Moderator
-  stellt keine kritischen Fragen und lässt Jans' Aussagen unkommentiert.
+  Der 9min-Artikel analysiert ein TeleZüri-Interview mit Bundespräsident Beat
+  Jans vom 8. Mai 2026, in dem dieser sechs Wochen vor der Abstimmung über die
+  Initiative «Keine 10-Mio-Schweiz» eine SP-nahe Kampagnenrede im
+  Interview-Format hält. Kritisiert werden die fehlende journalistische
+  Nachfrage durch Moderator Oliver Steffen, die Verschiebung der Bundesratsrolle
+  von Information zu Kampagne, eine unbelegte Brexit-Todesstatistik, der
+  rhetorische China-Vergleich sowie das Ausblenden ökonomischer
+  Differenzierungen und Gegenargumente.
 quelle_datum: '2026-05-08'
-quelle_format: Online-Artikel
-quelle_sendung: ''
-quelle_redaktion: ''
+quelle_format: Broadcast
+quelle_sendung: Talktäglich
+quelle_redaktion: TeleZüri
 kritik_schwere: 3
 ---
 

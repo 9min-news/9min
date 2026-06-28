@@ -7,59 +7,75 @@ coverImage: 'https://pbs.twimg.com/media/HHUB4hKXAAAxleZ.jpg'
 tweetId: '2050547348003000431'
 categories:
   - Demokratie
+  - Migration
   - Medienrecht
-  - Zensur/Meinungsfreiheit
 tags:
-  - Wahlkampf-Rhetorik
-  - Drohbilder
+  - Beat Jans
+  - Blick
+  - Grundprinzipien Behördeninformation
+  - GPK
+  - Wahlkampf
+  - Schönheitsfehler-Framing
+  - Drohrhetorik
   - Tabakwarnung
-  - Sachlichkeit
-  - Verhältnismässigkeit
-  - Trennung von Behörde und Kampagne
 seo:
   description: >-
     Zur Berichterstattung des Blick vom 2. Mai 2026 über Justizminister Beat
     Jans und die GPK-Untersuchung im Abstimmungskampf zur
     10-Millionen-Initiative…
 themen:
-  - Wahlkampf
-  - Regierungskommunikation
-  - Abstimmungskampf
+  - Behördeninformation im Abstimmungskampf
+  - GPK-Untersuchung gegen Beat Jans
   - 10-Millionen-Initiative
-  - Bundesrat Beat Jans
+  - Rhetorik der Bundesratskommunikation
+  - Medienberichterstattung über Regierungsverstösse
 kritisiertes_medium: Blick
-kritisierter_beitrag: Ein Blick in den Wahlkampf der Regierung
+kritisierter_beitrag: 'Verstösse im Abstimmungskampf: Oberaufsicht will gegen Jans ermitteln'
 kritisierter_autor: ''
 kritik_typ:
   - Framing
-  - Fehlinformation
-  - Selektion
+  - Auslassung
+  - Behördenpropaganda
 personen:
   - Beat Jans
-  - Erich Hess
   - Karin Keller-Sutter
-  - Bundespräsident Parmelin
+  - Guy Parmelin
+  - Erich Hess
 institutionen:
-  - Bundesrat
-  - Geschäftsprüfungskommission
+  - Blick
   - EJPD
+  - GPK
+  - Bundesrat
+  - SVP
+  - SP
+  - Nationalrat
+  - Bundesgericht
+  - Bundesamt für Statistik
+  - Novartis
 gesetze_vorlagen:
   - 10-Millionen-Initiative
   - Grundprinzipien der Information vor Abstimmungen
+  - Masseneinwanderungsinitiative (2014)
+  - Begrenzungsinitiative (2020)
+  - Konzernverantwortungsinitiative (2020)
 these: >-
-  Der Bundesrat Beat Jans hat die Grenze zwischen Regierungs-Kommunikation und
-  Wahlkampf systematisch verschiebt und damit die Spielregeln der
-  Abstimmungskampagne verletzt.
+  Der Blick trivialisiert die Verstösse von Bundesrat Jans gegen die
+  Grundprinzipien der Behördeninformation als 'Schönheitsfehler' und
+  verschleiert damit die systematische Verschiebung von Regierungs- zu
+  Wahlkampfkommunikation.
 zusammenfassung: >-
-  Der Artikel analysiert den Wahlkampf der Regierung und die Rolle des
-  Bundesrats Beat Jans darin. Er zeigt auf, wie Jans die Grenze zwischen
-  Regierungs-Kommunikation und Wahlkampf verletzt und wie dies die Demokratie in
-  der Schweiz gefährdet. Die GPK-Untersuchung gegen Jans wird als wichtiger
-  Schritt zur Wahrung der institutionellen Selbstdisziplin gesehen.
+  Der Artikel analysiert die Blick-Berichterstattung über die GPK-Untersuchung
+  gegen Bundesrat Beat Jans im Abstimmungskampf zur 10-Millionen-Initiative. Er
+  kritisiert, dass der Blick die nachweislich falsche
+  Spital-Schliessungs-Behauptung und die manipulative Tabakwarnungs-Rhetorik als
+  'Schönheitsfehler' einordnet und damit die Schwere der Verstösse gegen die
+  Grundprinzipien der Behördeninformation herunterspielt. Zudem wird die
+  einseitige Themenauswahl im Begleitartikel-Cluster des Blick aufgezeigt, der
+  mehrheitlich gegen die Initiative gerichtete Beiträge versammelt.
 quelle_datum: '2026-05-02'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: 9min.ch
+quelle_redaktion: Blick Politik
 kritik_schwere: 3
 ---
 

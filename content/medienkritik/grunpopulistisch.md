@@ -6,34 +6,36 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJYTKHLXwAA8-lH.jpg'
 tweetId: '2059855187188047987'
 categories:
-  - Medienrecht
-  - Zensur/Meinungsfreiheit
+  - SRF/SRG
+  - Migration
   - Demokratie
 tags:
-  - SRF
-  - Reform UK
-  - Grüne
-  - Wahlen
-  - England
-  - Politik
-  - Medienkritik
+  - Asymmetrie
   - Framing
+  - Rechtspopulismus-Label
+  - Grüne
+  - Reform UK
+  - SRF
+  - Sprachwahl
+  - Lokalwahlen England
 seo:
   description: >-
     SRF berichtet über die Lokalwahlen in England: Reform UK und die Grünen
     haben gewonnen. Die «Rechtspopulisten» und die Grünen. Schon der
     Sprachgebrauch…
 themen:
-  - Medienberichterstattung
-  - Politische Asymmetrie
-  - Wahlberichterstattung
-kritisiertes_medium: SRF
+  - Asymmetrische politische Markierung in der Berichterstattung
+  - Framing durch positive/negative Formulierungen
+  - Lokalwahlen in England 2026
+  - Ungleichbehandlung von Reform UK und Grünen
+  - Sprachliche Normalisierung grüner Positionen
+kritisiertes_medium: SRF News
 kritisierter_beitrag: 'Politologe: Für Reform UK sind lokale Erfolge sehr wichtig'
 kritisierter_autor: ''
 kritik_typ:
-  - Framing
   - Asymmetrie
-  - Auslassung
+  - Framing
+  - Selektion
 personen:
   - Nigel Farage
   - Colin Copus
@@ -41,21 +43,25 @@ institutionen:
   - SRF
   - Reform UK
   - Grüne
+  - Labour
+  - Konservative
 gesetze_vorlagen: []
 these: >-
-  Die SRF-Berichterstattung über die Lokalwahlen in England zeigt eine
-  systematische Asymmetrie zwischen der Darstellung von Reform UK und den
-  Grünen, wobei Reform UK als 'Rechtspopulisten' markiert und die Grünen als
-  'normal' dargestellt werden.
+  SRF markiert Reform UK als «rechtspopulistisch» und formuliert deren Programme
+  negativ, während die Grünen kein Label erhalten und positiv dargestellt werden
+  — eine systematische Asymmetrie, die Wählerpositionen ungleich legitimiert.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRF-Berichterstattung über die Lokalwahlen in
-  England, in der Reform UK und die Grünen unterschiedlich dargestellt werden.
-  Während Reform UK als 'Rechtspopulisten' bezeichnet wird, werden die Grünen
-  ohne politisches Etikett präsentiert. Die Berichterstattung zeigt eine
-  Asymmetrie in der Sprachwahl und der Darstellung der beiden Parteien. Der
-  Artikel argumentiert, dass dies keine ausgewogene Berichterstattung sei,
-  sondern eine politische Botschaft, die bestimmte Wähler als 'problematisch'
-  darstellt.
+  Der Artikel kritisiert, dass SRF in seiner Berichterstattung über englische
+  Lokalwahlen Reform UK und die Grünen asymmetrisch behandelt: Reform UK wird
+  als «rechtspopulistisch» markiert, mit negativen Formulierungen («weniger»,
+  «gegen») und als Protestpartei dargestellt, während die Grünen ohne
+  politisches Label, mit positiven Formulierungen («mehr», «besser», «Schutz»)
+  und als visionär präsentiert werden. Der Autor argumentiert, dass diese
+  Sprachwahl Wählersorgen ungleich bewertet und die politische Topographie vorab
+  festlegt. Zudem werde kritisiert, dass die Grünen unrealistische kommunale
+  Versprechen (tiefere Mieten) machen, während Reform UK mit Schlaglöchern und
+  Strassenunterhalt näher an der kommunalen Realität sei — SRF rahme es jedoch
+  umgekehrt.
 quelle_datum: '2026-05-27'
 quelle_format: Online-Artikel
 quelle_sendung: ''

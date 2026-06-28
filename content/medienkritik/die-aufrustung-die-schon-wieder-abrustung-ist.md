@@ -6,54 +6,60 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HKdLgSJXAAApfex.jpg'
 tweetId: '2064702067894001874'
 categories:
+  - SRF/SRG
   - EU/Aussenpolitik
-  - Wirtschaft
   - Sicherheitspolitik
 tags:
-  - Russland
   - Schattenflotte
-  - Ölsanktionen
-  - Wirtschaftskrieg
-  - Sanktionsregime
-  - Wagner-Kämpfer
+  - Russland
+  - Sanktionen
+  - Wagner
+  - Framing
+  - Zeitachse
+  - NDR-Recherche
+  - Ölverkauf
 seo:
   description: >-
     Dieser SRF-Beitrag referiert eine europäische Gemeinschaftsrecherche: Ein
     Datenleck mit Crewlisten der russischen Schattenflotte zeigt, dass Moskau…
 themen:
-  - Russlands Schattenflotte
-  - Ölsanktionen
-  - Wirtschaftskrieg
+  - Russische Schattenflotte
+  - Sanktionsumgehung
+  - Medien-Framing
+  - Kriegsökonomie
+  - Quellenkritik
 kritisiertes_medium: SRF 4 News aktuell
 kritisierter_beitrag: Russland rüstet seine Schattenflotte auf
 kritisierter_autor: ''
 kritik_typ:
-  - Auslassung
   - Framing
+  - Auslassung
   - Kontextmangel
 personen:
   - Michail Chodorkowski
 institutionen:
   - SRF
   - NDR
+  - Follow the Money
   - Dossier Center
-  - Wagner-Gruppe
-gesetze_vorlagen:
-  - Ölsanktionen
+  - Wagner
+  - Kreml
+gesetze_vorlagen: []
 these: >-
-  Der SRF-Beitrag über Russlands Schattenflotte ist in seiner Darstellung
-  unvollständig und irreführend, da er die aktuelle Entwicklung der Abrüstung
-  der Schattenflotte nicht berücksichtigt.
+  SRF rahmt eine bereits ablaufende Übergangsphase als aktuelle Eskalation und
+  verschweigt zentrale Erkenntnisse der eigenen Quellenrecherche, darunter den
+  Rückgang der Bewaffnung seit Anfang 2026 und die Wagner-Verbindung des
+  Wachpersonals.
 zusammenfassung: >-
-  Der SRF-Beitrag über Russlands Schattenflotte ist in seiner Darstellung
-  unvollständig und irreführend. Der Beitrag berichtet über die Aufrüstung der
-  Schattenflotte, aber nicht über die aktuelle Entwicklung der Abrüstung. Die
-  Original-Recherche, auf der der Beitrag basiert, zeigt, dass die bewaffneten
-  Kräfte auf der Schattenflotte seit Anfang 2026 rapide abgenommen haben. Der
-  Beitrag verschweigt auch die Verbindung zwischen der Russifizierung der
-  Besatzungen und der Funktion der bewaffneten Kräfte.
+  Der SRF-Beitrag referiert eine europäische Gemeinschaftsrecherche zur
+  russischen Schattenflotte, rahmt diese aber durch Titel und Dachzeile als
+  laufende Aufrüstung, obwohl die Originalrecherche einen Rückgang der
+  Bewaffnung seit Anfang 2026 konstatiert. Zudem wird die Identifikation des
+  Wachpersonals als ehemalige Wagner-Kämpfer unterschlagen, die völkerrechtliche
+  Grauzone westlicher Kontrollen ausgeblendet und die naheliegende Frage nach
+  dem Scheitern der Sanktionsstrategie nicht gestellt.
 quelle_datum: '2026-06-10'
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: SRF 4 News aktuell
 quelle_redaktion: SRF News
 kritik_schwere: 2

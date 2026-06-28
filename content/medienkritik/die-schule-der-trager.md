@@ -6,55 +6,66 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HKc1LC-WoAAcdWL.jpg'
 tweetId: '2064677442870993105'
 categories:
+  - SRF/SRG
+  - Billag/Gebühren
   - Medienrecht
-  - Gesellschaft
-  - Demokratie
 tags:
-  - MAZ-Reform
-  - SRF
-  - Journalismus
-  - Medienbranche
-  - Qualitätssicherung
+  - MAZ
+  - Aufnahmeprüfung
+  - SRG-Umbau
+  - Trägermodell
+  - Qualitätsfilter
+  - Defizit
+  - Schweigen
+  - Asymmetrie
 seo:
   description: >-
     Eine Woche nach der MAZ-Reform: Das Schweigen auf SRF I. Was 1984 gebaut
     wurde Als die SRG 1984 in Luzern das MAZ mitgründete, war das eine…
 themen:
   - Journalistenausbildung
-  - Medienreform
-  - Qualitätsstandards
+  - Medienqualität
+  - Befangenheit des öffentlichen Rundfunks
+  - Gebührenlegitimation
 kritisiertes_medium: SRF
-kritisierter_beitrag: ''
+kritisierter_beitrag: Nichtberichterstattung zur MAZ-Reform (3.–10. Juni 2026)
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
-  - Framing
-  - Kontextmangel
+  - Interessenkonflikt
+  - Asymmetrie
 personen:
   - Tristan Brenn
   - Roger Elsener
   - Nathalie Christen
 institutionen:
   - SRG
-  - MAZ
   - SRF
+  - MAZ
   - ZHAW
+  - IAM
+  - Klein Report
+  - persoenlich.com
 gesetze_vorlagen:
-  - Rundfunkgebühren
+  - Rundfunkgebührenkürzung (Abstimmung 8. März 2026)
 these: >-
-  Die Abschaffung der Aufnahmeprüfung an der MAZ und das Schweigen der SRF
-  darüber gefährden die journalistische Qualität und die Unabhängigkeit der
-  Medien.
+  Das SRF hat sieben Tage lang die Abschaffung des unabhängigen Qualitätsfilters
+  der MAZ nicht erwähnt — ein dokumentiertes Schweigen, das angesichts
+  dreifacher Befangenheit als Mitgründerin, Geldgeberin und Hauptabnehmerin dem
+  demokratischen Auftrag widerspricht.
 zusammenfassung: >-
-  Die MAZ-Reform hat die Aufnahmeprüfung abgeschafft, was die journalistische
-  Qualität und Unabhängigkeit gefährdet. Die SRF hat sieben Tage lang nicht
-  darüber berichtet, obwohl sie Mitgründerin und Geldgeberin der MAZ ist. Dieses
-  Schweigen ist ein Verstoß gegen die journalistischen Standards und die
-  Rechenschaftspflicht gegenüber dem Souverän.
-quelle_datum: '2026-06-10'
+  Der Artikel analysiert die MAZ-Reform vom 3. Juni 2026, mit der die
+  unabhängige Aufnahmeprüfung für das Diplomstudium entfällt und allein die
+  Anstellung durch eine Redaktion als Zugang genügt. Er kritisiert, dass SRF in
+  der Folgewoche trotz dreifacher Befangenheit (Mitgründerin, Geldgeberin,
+  Hauptabnehmerin) nicht über die Reform berichtete, während gleichzeitig der
+  SRG-Umbau publik wurde. Das Schweigen wird als Asymmetrie und
+  Interessenkonflikt ausgewiesen, der drei Monate nach dem Ja zu den
+  Rundfunkgebühren besonders wiegt.
+quelle_datum: '2026-06-03'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: 9min.ch
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

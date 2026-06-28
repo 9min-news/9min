@@ -6,17 +6,18 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJExw9tXMAAhXOJ.jpg'
 tweetId: '2058481360981967255'
 categories:
-  - Medienrecht
-  - Zensur/Meinungsfreiheit
-  - Gesellschaft
+  - Migration
+  - SRF/SRG
+  - Demokratie
 tags:
-  - Asyl
-  - SRF
-  - Schweiz
-  - Algerien
+  - Asylkurs
+  - Schutzquote
   - Dublin-Verordnung
-  - Rechtsstaat
-  - Medienkritik
+  - SEM
+  - Algerien
+  - Rückführungen
+  - 24-Stunden-Verfahren
+  - SRF-Kritik
 seo:
   description: >-
     Wie SRF eine Anerkennungsquote von 1,3 Prozent als «härteren Asylkurs»
@@ -24,9 +25,11 @@ seo:
     Verfahren…
 themen:
   - Asylpolitik
-  - Medienkritik
-  - Rechtsstaatlichkeit
-kritisiertes_medium: SRF
+  - Dublin-Verordnung
+  - Anerkennungsquote
+  - Rückführungen
+  - Maghreb-Staaten
+kritisiertes_medium: SRF News
 kritisierter_beitrag: 'Bund mit härterem Asylkurs: bislang kein Erfolg bei Algerien'
 kritisierter_autor: ''
 kritik_typ:
@@ -37,20 +40,25 @@ personen:
   - Isabelle Wehrenfels
 institutionen:
   - SRF
-  - Staatssekretariat für Migration SEM
+  - Staatssekretariat für Migration
+  - Bund
 gesetze_vorlagen:
   - Dublin-Verordnung
+  - Genfer Konvention
 these: >-
-  Der SRF-Beitrag über den 'härteren Asylkurs' der Schweiz gegenüber Algerien
-  ist fehlerhaft, da er die tatsächlichen Gründe für die Asylgesuche und die
-  Funktionsweise des Asylsystems nicht thematisiert.
+  SRF rahmt eine 98,7-Prozent-Ablehnungsquote als «härteren Asylkurs» und
+  blendet dabei die wesentlichen Fragen nach Dublin-Zuständigkeit,
+  Verfahrenskosten und Rechtsstaatlichkeit systematisch aus.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag über den 'härteren Asylkurs' der
-  Schweiz gegenüber Algerien. Der Beitrag wird als fehlerhaft angesehen, da er
-  die tatsächlichen Gründe für die Asylgesuche und die Funktionsweise des
-  Asylsystems nicht thematisiert. Stattdessen wird die Anerkennungsquote von 1,3
-  Prozent und die Rückführung von 500 Menschen im letzten Jahr hervorgehoben,
-  ohne den Kontext und die Konsequenzen zu berücksichtigen.
+  Der 9min-Artikel kritisiert, dass SRF eine Anerkungsquote von 1,3 Prozent für
+  algerische Asylgesuche als «härteren Asylkurs» einrahmt, statt die eigentliche
+  Frage zu stellen: warum die Schweiz Gesuche prüft, die zu 98,7 Prozent
+  unbegründet sind und nach Dublin gar nicht in ihre Zuständigkeit fallen. SRF
+  zitiere Rückführungszahlen ohne Kontext, übernehme SEM-Aussagen unkritisch und
+  thematisiere weder die Dublin-Verordnung noch die Kosten der Verfahren. Die
+  Kritik sieht darin eine Reproduktion einer staatlichen Perspektive, die den
+  «härteren Kurs» als Scheitern darstelle, statt die fehlende
+  Rechtsstaatlichkeit zu hinterfragen.
 quelle_datum: '2026-05-23'
 quelle_format: Online-Artikel
 quelle_sendung: ''

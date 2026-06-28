@@ -6,50 +6,59 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HI5fWjEXIAAe1k1.jpg'
 tweetId: '2057686976787087575'
 categories:
-  - Medienrecht
-  - Gesellschaft
+  - SRF/SRG
+  - Abstimmungen
+  - Demokratie
 tags:
-  - SRF
-  - Biodiversitätsinitiative
-  - Bundesrat
-  - Landwirtschaft
-  - Umweltschutz
-  - Internationale Ziele
+  - Biodiversität
+  - Schutzgebiete
+  - Agrarsubventionen
+  - Volksinitiative
+  - Demokratie
+  - Framing
+  - Auslassung
+  - Kontextmangel
 seo:
   description: >-
     Wie SRF den Biodiversitätsschwund als Staatsversagen rahmt, mehr
     Schutzgebiete fordert, ohne zu fragen, ob die bisherigen überhaupt wirken,
     die abgelehnte…
 themen:
-  - Biodiversität
-  - Schutzgebiete
+  - Biodiversitätsschwund
+  - Schutzgebiete und Wirksamkeit
   - Agrarsubventionen
-  - Demokratie
-kritisiertes_medium: SRF
+  - Biodiversitätsinitiative 2024
+  - Internationale Ziele und demokratische Legitimation
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Der Bundesrat muss mehr für die Biodiversität tun
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
-  - Framing
   - Kontextmangel
+  - Framing
 personen: []
 institutionen:
   - SRF
   - Bundesrat
   - Parlament
+  - Bauern
+  - Landwirtschaft
 gesetze_vorlagen:
   - Biodiversitätsinitiative
 these: >-
-  SRF erzählt die Geschichte vom Verlust der Biodiversität, ohne die Frage zu
-  stellen, ob der Ansatz falsch ist und ob der Staat selbst das Problem
-  verursacht.
+  SRF rahmt den Biodiversitätsschwund als Staatsversagen, fordert mehr
+  Schutzgebiete, ohne die Wirksamkeit der bisherigen zu hinterfragen,
+  verschweigt die Gründe für das Scheitern der Biodiversitätsinitiative und
+  kritisiert Agrarsubventionen, ohne den paradoxen Kreislauf zu thematisieren,
+  in dem der Staat die Zerstörung bezahlt, die er gleichzeitig beklagt.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag über die Biodiversität und die Rolle
-  des Bundesrates. Der Autor argumentiert, dass SRF die Geschichte vom Verlust
-  der Biodiversität erzählt, ohne die Frage zu stellen, ob der Ansatz falsch ist
-  und ob der Staat selbst das Problem verursacht. Der Artikel fordert eine
-  kritische Analyse der Schutzgebiete, der Agrarsubventionen und der
-  internationalen Ziele.
+  Der 9min.ch-Artikel kritisiert einen SRF-Beitrag vom 21. Mai 2026 zum
+  Biodiversitätsschwund. SRF fordere mehr Schutzgebiete, ohne zu prüfen, ob die
+  bisherigen wirken, nenne die abgelehnte Biodiversitätsinitiative ohne Analyse
+  der Ablehnungsgründe und benenne Agrarsubventionen als Problem, ohne den
+  Widerspruch zu hinterfragen, dass der Staat die Zerstörung finanziere, die er
+  beklage. Zudem würden internationale Ziele als Dogma präsentiert, ohne deren
+  demokratische Legitimation zu prüfen.
 quelle_datum: '2026-05-21'
 quelle_format: Online-Artikel
 quelle_sendung: ''

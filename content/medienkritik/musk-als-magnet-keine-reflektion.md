@@ -6,52 +6,57 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HGRfXIPbkAE_jeY.jpg'
 tweetId: '2045865119381414080'
 categories:
-  - Medienrecht
-  - Zensur/Meinungsfreiheit
+  - SRF/SRG
+  - Gesellschaft
   - Wirtschaft
 tags:
   - Musk
-  - SpaceX
+  - Starlink
   - Reflect Orbital
   - Satelliten
   - Astronomie
-  - Medien
-  - Kritik
+  - Framing
+  - Klick-Ökonomie
+  - Frequenzreservierung
 seo:
   description: >-
     Zum SRF-Beitrag «Astronomie-Fachleute warnen vor Musks Satellitenflut» vom
     19. April 2026 Der Beitrag arbeitet mit zwei Aufmerksamkeitsmagneten: dem
     Namen…
 themen:
-  - Medienkritik
-  - Nicht-Reflektion
-  - Satellitenflut
-kritisiertes_medium: SRF
+  - Satellitenflut und Weltraumregulierung
+  - Klick-Ökonomie in der Wissenschaftsberichterstattung
+  - Framing durch Aufmerksamkeitsmagnete
+  - Regulatorisches Claim-Staking bei SpaceX
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Astronomie-Fachleute warnen vor Musks Satellitenflut
 kritisierter_autor: ''
 kritik_typ:
-  - Auslassung
   - Framing
-  - Selektion
+  - Auslassung
+  - Kontextmangel
 personen:
-  - Musk
+  - Elon Musk
 institutionen:
   - SRF
   - SpaceX
   - Reflect Orbital
   - FCC
   - ITU
-gesetze_vorlagen:
-  - internationales Recht
+  - Internationale Astronomische Union
+gesetze_vorlagen: []
 these: >-
-  Der SRF-Beitrag über Musks Satellitenflut ist irreführend und priorisiert
-  Klickwert über sachliche Information
+  Der SRF-Beitrag nutzt die Aufmerksamkeitsmagnete Musk und Million Satelliten,
+  verschweigt dabei aber den regulatorischen Kontext der Frequenzreservierung
+  und das astronomisch relevantere Projekt Reflect Orbital.
 zusammenfassung: >-
-  Der Beitrag kritisiert den SRF-Beitrag über Musks Satellitenflut als
-  irreführend und priorisiert Klickwert über sachliche Information. Der Beitrag
-  behauptet, dass die Million Satelliten, die SpaceX plant, nicht realisierbar
-  ist und dass die wahre Gefahr von Reflect Orbital kommt, das 50'000
-  Spiegelsatelliten plant, um absichtlich Sonnenlicht auf die Erde zu lenken.
+  Der 9min-Artikel kritisiert den SRF-Beitrag für die Verwendung zweier
+  Aufmerksamkeitsmagnete: die unrealistische Zahl von einer Million Satelliten,
+  die in Wahrheit eine FCC-Frequenzreservierung ist, und den Namen Musk. Dabei
+  werde das astronomisch problematischere Projekt Reflect Orbital, das 50'000
+  Spiegelsatelliten zur kommerziellen Aufhellung des Nachthimmels plant, nur in
+  einem Nebensatz erwähnt. Die Kritik sieht darin eine verzerrte
+  Prioritätensetzung zugunsten klickwirksamer Berichterstattung.
 quelle_datum: '2026-04-19'
 quelle_format: Online-Artikel
 quelle_sendung: ''

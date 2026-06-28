@@ -7,16 +7,17 @@ coverImage: 'https://pbs.twimg.com/media/HGL3sAuWkAAoQrk.jpg'
 tweetId: '2045469739003023582'
 categories:
   - Migration
-  - Gesellschaft
+  - SRF/SRG
   - Medienrecht
 tags:
-  - Flüchtlinge
-  - Ukraine
-  - Schweiz
   - SRF
   - Bundesrat
-  - Integration
-  - Privatunterbringung
+  - Schutzstatus S
+  - anerkannte Flüchtlinge
+  - private Unterbringung
+  - Freiburger Modell
+  - Ausgewogenheit
+  - Kategorienverschiebung
 seo:
   description: >-
     Zum SRF-Beitrag «Bundesrat will Modell der privaten Unterbringung ausbauen»
@@ -24,9 +25,11 @@ seo:
     Eine…
 themen:
   - Flüchtlingsunterbringung
-  - Private Unterbringung
-  - Integration von Flüchtlingen
-kritisiertes_medium: SRF
+  - Kategorienverschiebung Schutzstatus S vs. anerkannte Flüchtlinge
+  - Schein-Ausgewogenheit
+  - Sicherheitsfragen bei privater Unterbringung
+  - Skalierbarkeit von Pilotprojekten
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Bundesrat will Modell der privaten Unterbringung ausbauen
 kritisierter_autor: ''
 kritik_typ:
@@ -38,24 +41,31 @@ personen:
   - Manfred Bühler
   - Jean-Claude Simonet
 institutionen:
-  - Bundesrat
   - SRF
+  - Bundesrat
   - SEM
+  - Bundesamt für Statistik
   - Berner Fachhochschule
+  - Verein Osons l'accueil
+  - SP
+  - SVP
 gesetze_vorlagen:
-  - Schutzstatus S
-  - anerkannter Flüchtlingsstatus
+  - Bundesratsbericht zur privaten Unterbringung
 these: >-
-  Der SRF-Beitrag über die Ausweitung des Modells der privaten Unterbringung für
-  Flüchtlinge ist unvollständig und irreführend, da er die Unterschiede zwischen
-  den verschiedenen Flüchtlingsgruppen nicht hinreichend thematisiert.
+  Der SRF-Beitrag verschleiert die wesentliche Kategorienverschiebung zwischen
+  Schutzstatus S (Ukraine) und anerkannten Flüchtlingen und verpackt eine
+  politische Vorentscheidung als ausgewogene Berichterstattung.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag über die Ausweitung des Modells der
-  privaten Unterbringung für Flüchtlinge. Der Beitrag wird als unvollständig und
-  irreführend bezeichnet, da er die Unterschiede zwischen den verschiedenen
-  Flüchtlingsgruppen nicht hinreichend thematisiert. Der Artikel fordert eine
-  ausgewogenere Berichterstattung, die die offenen Fragen und Risiken der
-  Ausweitung des Modells thematisiert.
+  Der Artikel kritisiert einen SRF-Beitrag, der die Ausweitung des Modells
+  privater Unterbringung von ukrainischen Schutzstatus-S-Flüchtlingen auf
+  anerkannte Flüchtlinge und vorläufig Aufgenommene behandelt, ohne die
+  demografischen, rechtlichen und praktischen Unterschiede zwischen den Gruppen
+  zu thematisieren. Wesentliche Fragen zu Sicherheit, Selektion, rechtlichem
+  Rahmen und Skalierbarkeit würden ausgeblendet, während eine
+  Schein-Ausgewogenheit durch zwei Politiker erzeugt werde, die sich nur in
+  Details unterschieden. Die Kritik sieht darin eine Framing-Leistung, die einen
+  politischen Vorschlag als harmlos darstelle und kritische Dimensionen aussen
+  vor lasse.
 quelle_datum: '2026-04-18'
 quelle_format: Online-Artikel
 quelle_sendung: ''

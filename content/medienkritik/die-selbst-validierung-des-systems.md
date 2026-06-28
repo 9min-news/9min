@@ -6,60 +6,80 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIQhPFeXwAANRl5.jpg'
 tweetId: '2054804160302760160'
 categories:
-  - Medienrecht
-  - Gesellschaft
+  - SRF/SRG
+  - Billag/Gebühren
+  - Demokratie
 tags:
   - Ombudsentscheid
-  - Fischer-Fall
-  - SRF
-  - Medienrecht
+  - Fall Fischer
+  - Selbstvalidierung
   - Programmautonomie
   - Verhältnismässigkeit
-  - Recherchemethode
+  - Jurisdiktionsverengung
+  - Medienkontrolle
+  - SRG
 seo:
   description: >-
     Eine forensische Lektüre des Ombudsentscheids im Fall Fischer Vorbemerkung
     Am 13. Mai 2026, exakt einen Monat nach dem ersten SRF-Artikel,
     veröffentlicht…
 themen:
-  - Ombudsstelle
-  - SRG
-  - Medienkritik
-  - Rechtliche Rahmenbedingungen
-kritisiertes_medium: SRF
-kritisierter_beitrag: ''
-kritisierter_autor: ''
+  - Ombudsstelle und Medienkontrolle
+  - Verhältnismässigkeit in der Berichterstattung
+  - Programmautonomie vs. Rechenschaftspflicht
+  - Asymmetrie zwischen institutioneller und individueller Berichterstattung
+  - Interessenkonflikt in Kontrollorganen
+kritisiertes_medium: Ombudsstelle der SRG Deutschschweiz
+kritisierter_beitrag: Schlussbericht zur Berichterstattung im Fall Fischer
+kritisierter_autor: Urs Hofmann
 kritik_typ:
+  - Behördenpropaganda
   - Auslassung
-  - Framing
-  - Kontextmangel
+  - Asymmetrie
 personen:
   - Patrick Fischer
   - Pascal Schmitz
+  - Michael Bühler
   - Esther Girsberger
   - Urs Hofmann
 institutionen:
+  - Ombudsstelle der SRG Deutschschweiz
+  - SRF
   - SRG
-  - Ombudsstelle
-  - Unabhängige Beschwerdeinstanz UBI
+  - UBI
+  - BAG
+  - Robert-Koch-Institut
+  - Tages-Anzeiger
+  - Blick
+  - NZZ
+  - Watson
+  - 20 Minuten
+  - RTS
+  - RSI
 gesetze_vorlagen:
-  - RTVG
-  - StGB
+  - Art. 4 RTVG
+  - Art. 5 RTVG
+  - Art. 75 StGB
+  - Strafregistergesetz
 these: >-
-  Die Ombudsstelle der SRG Deutschschweiz hat in ihrem Entscheid zum Fall
-  Fischer die Kernfragen der Beanstandungen nicht erreicht und damit die
-  institutionelle Architektur des Mediensystems in der Schweiz offenbart.
+  Die institutionelle Architektur der SRG-Ombudsstelle ist strukturell auf
+  Selbstvalidierung angelegt, da ihre Prüfgrenzen genau dort enden, wo die
+  zentralen Beanstandungsfragen (Verhältnismässigkeit, Recherchemethode,
+  Eskalationsverantwortung) beginnen.
 zusammenfassung: >-
-  Der Ombudsentscheid zum Fall Fischer zeigt, dass die institutionelle
-  Architektur des Mediensystems in der Schweiz so konstruiert ist, dass zentrale
-  Beanstandungspunkte wie Verhältnismässigkeit und Recherchemethode kein
-  zugängliches Kontrollverfahren haben. Die Ombudsstelle hat ihre Arbeit
-  innerhalb der ihr zugewiesenen Grenzen sorgfältig getan, aber diese Grenzen
-  enden genau dort, wo die wirklichen Fragen beginnen.
+  Der Artikel analysiert forensisch den Ombudsentscheid der SRG Deutschschweiz
+  im Fall Fischer, der 27 Beanstandungen behandelte und zu keinem RTVG-Verstoss
+  kam. Er zeigt auf, wie die Ombudsstelle durch Jurisdiktionsverengung, die
+  «Fischer hat sich selbst geoutet»-Konstruktion und die
+  Programmautonomie-Argumentation die Kernfragen der Beanstander aus dem
+  Prüfbereich herausdefiniert und zentrale SRF-Behauptungen ungeprüft übernimmt.
+  Das Resultat ist ein Kontrollsystem, das strukturell auf Selbstvalidierung
+  angelegt ist und Verhältnismässigkeit faktisch aus dem programmrechtlichen
+  Prüfraster entfernt.
 quelle_datum: '2026-05-13'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: ''
+quelle_redaktion: Ombudsstelle der SRG Deutschschweiz
 kritik_schwere: 3
 ---
 

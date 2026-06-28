@@ -6,57 +6,60 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HGBccjrWwAAfV34.jpg'
 tweetId: '2044736018461393380'
 categories:
-  - Wirtschaft
+  - SRF/SRG
+  - Abstimmungen
   - Klima/Energie
-  - Demokratie
 tags:
-  - Klima
-  - Finanzplatz
-  - Wirtschaft
-  - Verfassungsartikel
-  - SRF
-  - Journalismus
+  - Pressemitteilungen
   - Stenographie
+  - Divestment
+  - Bankiervereinigung
+  - WWF
+  - Pensionskassen
+  - FDP
+  - Verfassungsartikel
 seo:
   description: >-
     145'000 Unterschriften für eine Initiative, die den Schweizer Finanzplatz
     per Verfassungsartikel auf Klimaverträglichkeit verpflichten will. Es ist
     eine…
 themen:
-  - Klimaverträglichkeit des Finanzplatzes
-  - Verfassungsartikel
-  - Wirtschaftspolitik
-  - Finanzströme und umweltschädliche Aktivitäten
+  - Klimainitiative Finanzplatz
+  - SRF-Berichterstattung
+  - Divestment-Debatte
+  - Anlagefreiheit
 kritisiertes_medium: SRF
 kritisierter_beitrag: ''
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
-  - Framing
   - Kontextmangel
-personen:
-  - Celio
+  - Quotenfüllung
+personen: []
 institutionen:
   - SRF
   - WWF
   - Bankiervereinigung
   - FDP
   - SP
+  - EU
 gesetze_vorlagen:
-  - Verfassungsartikel
+  - Klimainitiative Finanzplatz
 these: >-
-  Die Berichterstattung von SRF über die Initiative zur Klimaverträglichkeit des
-  Finanzplatzes ist unzureichend und stellt keine ausgewogene Darstellung der
-  Fakten und Meinungen dar.
+  SRF reduziert die Berichterstattung über eine weitreichende
+  Verfassungsinitiative zum Umbau des Schweizer Finanzplatzes auf die Montage
+  zweier Pressemitteilungen, ohne die entscheidenden inhaltlichen Fragen zu
+  stellen oder Evidenz zu prüfen.
 zusammenfassung: >-
-  Die Initiative zur Klimaverträglichkeit des Finanzplatzes fordert eine
-  Verfassungsänderung, die den Schweizer Finanzplatz auf Klimaverträglichkeit
-  verpflichten soll. SRF berichtet über die Initiative, indem sie zwei
-  Pressemitteilungen gegenüberstellt, ohne jedoch die notwendigen Fakten und
-  Hintergründe zu liefern, um den Lesern eine fundierte Meinung zu ermöglichen.
-  Die Berichterstattung wird als unzureichend und als Stenographie kritisiert.
+  Der Artikel kritisiert SRF dafür, die Einreichung einer Klimainitiative für
+  den Finanzplatz lediglich als Gegenüberstellung von WWF- und
+  Bankiervereinigungs-Pressemitteilungen darzustellen. Wesentliche Fragen zur
+  Definition von 'umweltschädlich', zu Auswirkungen auf Pensionskassen und zur
+  akademischen Divestment-Debatte würden nicht gestellt. Die Berichterstattung
+  gleiche Stenographie statt Journalismus und bürge dem Stimmbürger die
+  Bewertung zweier unbelegter Behauptungen auf.
 quelle_datum: ''
-quelle_format: ''
+quelle_format: Broadcast
 quelle_sendung: ''
 quelle_redaktion: ''
 kritik_schwere: 3

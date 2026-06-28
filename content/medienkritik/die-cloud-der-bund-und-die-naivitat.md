@@ -6,56 +6,75 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIH63fbWkAAeCm7.jpg'
 tweetId: '2054198826819317916'
 categories:
-  - Medienrecht
-  - Gesellschaft
+  - SRF/SRG
   - Wirtschaft
+  - Sicherheitspolitik
 tags:
-  - Cloud
-  - US Cloud Act
-  - Datenschutz
   - Gesundheitsdatenraum
   - Digi Santé
-  - Bundesprogramm
+  - US Cloud Act
+  - EPD
+  - Public Cloud Strategie
+  - BAG
+  - digitale Souveränität
+  - Behördenpropaganda
 seo:
   description: >-
     Zum SRF-Beitrag «Experten fordern Datenschutz bei digitalen
     Gesundheitsdaten», 12. Mai 2026 Was berichtet wird Ruth Wittwer berichtet
     über den…
 themen:
-  - Digitalisierung
-  - Datenschutz
-  - Gesundheitsdaten
-kritisiertes_medium: SRF
+  - Digitalisierung Gesundheitswesen
+  - Cloud-Abhängigkeit Schweiz
+  - IT-Grossprojekte des Bundes
+  - Datenschutz und US Cloud Act
+  - Digitale Souveränität
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Experten fordern Datenschutz bei digitalen Gesundheitsdaten
-kritisierter_autor: ''
+kritisierter_autor: Ruth Wittwer
 kritik_typ:
   - Auslassung
   - Kontextmangel
-  - Framing
+  - Behördenpropaganda
 personen:
   - Ruth Wittwer
   - Matthias Stürmer
 institutionen:
   - SRF
-  - Bundesamt für Gesundheit
+  - BAG
   - Berner Fachhochschule
+  - Verband der Schweizer Datenschützer
+  - Bundesrat
+  - Eidgenössische Steuerverwaltung
+  - SBB
+  - Microsoft
+  - Google
+  - Amazon Web Services
+  - IBM
+  - Oracle
+  - Alibaba
 gesetze_vorlagen:
   - US Cloud Act
+  - EPD-Gesetz
+  - Public Cloud Strategie 2021
 these: >-
-  Der SRF-Beitrag über den Gesundheitsdatenraum ist oberflächlich und fehlt es
-  an Kontext und Tiefe, um die Problematik angemessen zu thematisieren.
+  Der SRF-Beitrag thematisiert zwar wichtige Datenschutzrisiken des geplanten
+  Gesundheitsdatenraums, lässt aber den entscheidenden Kontext fehlen —
+  Vorgeschichte gescheiterter Bundes-IT-Projekte, bestehende Cloud-Abhängigkeit,
+  Kosten und digitale Souveränität.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag über den Gesundheitsdatenraum und
-  bemängelt die fehlende Tiefe und den Kontext. Der Beitrag thematisiert die
-  Warnung von Experten vor den Risiken der Digitalisierung im Gesundheitswesen,
-  aber fehlt es an einer umfassenden Berichterstattung. Die Geschichte der
-  gescheiterten IT-Projekte, die Kosten des aktuellen Projekts und die
-  bestehende Cloud-Abhängigkeit der Bundesverwaltung werden nicht thematisiert.
+  9min.ch kritisiert einen SRF-Beitrag zum geplanten Gesundheitsdatenraum, der
+  wichtige Expertenwarnungen zum US Cloud Act aufgreift, aber wesentliche
+  Kontexte auslässt: die Geschichte gescheiterter Bundes-IT-Projekte (EPD,
+  Insieme, SUPERB), die Kostenfrage, die bereits 2021 beschlossene Public Cloud
+  Strategie des Bundesrats und die strukturelle Cloud-Abhängigkeit der Schweiz.
+  Das BAG dürfe mit Allgemeinplätzen antworten, ohne dass SRF nachfasst, was als
+  Behördenpropaganda statt kritischer Berichterstattung gewertet wird.
 quelle_datum: '2026-05-12'
 quelle_format: Online-Artikel
-quelle_sendung: 'Rendez-vous um 12:30 Uhr'
+quelle_sendung: Rendez-vous
 quelle_redaktion: SRF News
-kritik_schwere: 2
+kritik_schwere: 3
 ---
 
 *Zum SRF-Beitrag *[«Experten fordern Datenschutz bei digitalen Gesundheitsdaten»](https://www.srf.ch/news/schweiz/digitalisierung-in-der-schweiz-experten-fordern-datenschutz-bei-digitalen-gesundheitsdaten)*, 12. Mai 2026*

@@ -6,50 +6,63 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HG-u7DaXEAE85qQ.jpg'
 tweetId: '2049048723137671232'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Demokratie
   - Gesellschaft
 tags:
-  - Recht
-  - Gesellschaft
-  - Demokratie
-  - Medienkritik
   - SRF
   - Bildungsfunk
+  - Rechtsbindung
+  - USA-Framing
+  - Konsensformat
+  - Auslassung
+  - Demokratie
+  - Rechtsvertrauen
 seo:
   description: >-
     Zum SRF-Beitrag «Warum brauchen wir Gesetze?» vom 27. April 2026 Eine knappe
     Stunde Live-Fragerunde im «Treffpunkt» von SRF 1, mit zwei akademischen…
 themen:
-  - Rechtsbindung
-  - Gesetze
-  - Demokratie
+  - Rechtsbindung und Rechtsvertrauen
+  - Bildungsauftrag öffentlich-rechtlicher Medien
+  - Erosion von Rechtsstaatlichkeit
+  - Einseitige Problemlokalisierung
+  - Demokratietheoretische Entwicklung
 kritisiertes_medium: SRF
 kritisierter_beitrag: Warum brauchen wir Gesetze?
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
   - Framing
-  - Kontextmangel
+  - Selektion
 personen:
   - Eva Maria Molinari
   - Chantal Magnin
 institutionen:
   - SRF
+  - SRF 1
   - EU
-gesetze_vorlagen: []
+  - EGMR
+  - Verfassungsgerichtshof
+gesetze_vorlagen:
+  - Antidiskriminierungsrecht
+  - Klimarecht
+  - Gleichstellungsrecht
 these: >-
-  Der SRF-Beitrag 'Warum brauchen wir Gesetze?' behandelt die Erosion von
-  Rechtsbindung zu einseitig und lokalisiert das Problem in den USA, anstatt die
-  komplexen Probleme in der Schweiz und Europa zu diskutieren.
+  Der SRF-Beitrag verkürzt die Frage der Rechtsbindung auf ein US-Problem und
+  blendet wesentliche europäische und schweizerische Entwicklungen aus, wodurch
+  er den Bildungsauftrag verfehlt und zur Bestätigungsfunktion wird.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag 'Warum brauchen wir Gesetze?' für seine
-  einseitige Darstellung der Erosion von Rechtsbindung. Der Beitrag lokalisiert
-  das Problem in den USA, anstatt die komplexen Probleme in der Schweiz und
-  Europa zu diskutieren. Der Artikel fordert eine ernsthafte Diskussion über die
-  Rechtsbindung und ihre Probleme in der Schweiz und Europa.
+  Der 9min.ch-Artikel kritisiert einen SRF-Treffpunkt-Beitrag zum Thema «Warum
+  brauchen wir Gesetze?», der die Erosion von Rechtsbindung einseitig auf die
+  USA und wirtschaftlich mächtige Gruppen projiziert. Fünf wesentliche Themen
+  werden ausgeblendet: Rechtsinflation, Entdemokratisierung der Rechtssetzung,
+  Notstandsregimes seit 2020, Doppelmoral der Rechtsdurchsetzung und
+  ideologische Aufladung des Rechts. Das Konsensformat mit zwei akademisch
+  ähnlich positionierten Gästen produziere Bestätigung statt Erkenntnis und
+  verfehle den eigentlichen Bildungsauftrag.
 quelle_datum: '2026-04-27'
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: Treffpunkt
 quelle_redaktion: SRF News
 kritik_schwere: 3

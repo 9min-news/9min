@@ -6,58 +6,63 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HILv8BoXAAAy1ml.jpg'
 tweetId: '2054473106106769538'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Gesellschaft
   - Demokratie
 tags:
   - Femizid
+  - lebenslang
+  - Framing
   - Justiz
-  - Medien
-  - Gewalt
-  - Frauenrechte
-  - Rechtsprechung
-  - Journalismus
+  - SRF
+  - Binningen
+  - Basler Vergewaltigungsurteil
+  - Narrativ
 seo:
   description: >-
     Zum SRF-Beitrag «Lebenslange Freiheitsstrafe für Baselbieter Frauenmörder»,
     13. Mai 2026 Was berichtet wird Ein Mann hat seine Ehefrau erwürgt,…
 themen:
-  - Femizid
-  - Justiz
-  - Medienberichterstattung
-  - Gewalt gegen Frauen
-kritisiertes_medium: SRF
+  - Femizid-Begriff in der Berichterstattung
+  - Justizdruck und öffentliche Meinung
+  - Strafmass "lebenslang" im Schweizer Recht
+  - Narrative Verkettung von Straffällen
+  - Sprache und juristische Präzision
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Lebenslange Freiheitsstrafe für Baselbieter Frauenmörder
 kritisierter_autor: ''
 kritik_typ:
   - Framing
   - Kontextmangel
-  - Interessenkonflikt
+  - Auslassung
 personen:
-  - Liselotte Henz
   - Marianne Heer
+  - Liselotte Henz
   - Blertë Berisha
   - Sibilla Bondolfi
   - Michele Luminati
 institutionen:
   - SRF
-  - Staatsanwaltschaft
-  - Gericht
+  - Bundesgericht
+  - Appellationsgericht
   - Frauenhäuser Schweiz
-gesetze_vorlagen:
-  - Schweizer Strafgesetzbuch
+  - Schweizerische Vereinigung der Richterinnen und Richter
+  - FDP
+gesetze_vorlagen: []
 these: >-
-  Die Berichterstattung von SRF über den Binninger Fall ist im Kern korrekt,
-  aber die Einordnung des Falls in einen narrativen Rahmen, der über den
-  Einzelfall hinausreicht, ist kritisch zu betrachten.
+  SRF verkettet den Binninger Mordfall narrativ mit dem Basler
+  Vergewaltigungsurteil und suggeriert ein Systemversagen der Justiz, obwohl im
+  konkreten Fall die Höchststrafe verhängt wurde und die Justiz funktioniert
+  hat.
 zusammenfassung: >-
-  Der Artikel analysiert die Berichterstattung von SRF über den Binninger Fall,
-  in dem ein Mann seine Ehefrau getötet hat. Die Berichterstattung ist im Kern
-  korrekt, aber die Einordnung des Falls in einen narrativen Rahmen, der über
-  den Einzelfall hinausreicht, ist kritisch zu betrachten. Der Artikel
-  argumentiert, dass die Verwendung des Wortes 'Femizid' und die Verkettung mit
-  dem Basler Vergewaltigungsfall eine ungenaue und politisch aufgeladene
-  Darstellung des Falls erzeugen.
+  Der Artikel kritisiert, dass SRF den Begriff "Femizid" verwendet, obwohl
+  dieser im Schweizer Strafrecht kein Tatbestand ist, und den Fall mit dem
+  Basler Vergewaltigungsurteil von 2021 verkettet, wodurch ein Systemversagen
+  suggeriert wird, das im konkreten Fall nicht vorliegt. Zudem wird bemängelt,
+  dass "lebenslang" ohne Erklärung verwendet wird, obwohl dies rechtlich nur ein
+  Mindestmass von 15 Jahren bedeutet. Die eigene SRF-Dokumentation über
+  Justizdruck durch Sibilla Bondolfi wird in der aktuellen Berichterstattung
+  nicht reflektiert.
 quelle_datum: '2026-05-13'
 quelle_format: Online-Artikel
 quelle_sendung: ''

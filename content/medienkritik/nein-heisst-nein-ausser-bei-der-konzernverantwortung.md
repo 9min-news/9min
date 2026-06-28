@@ -12,12 +12,12 @@ categories:
 tags:
   - Konzernverantwortung
   - Ständemehr
-  - Volksmehrheit
   - direkte Demokratie
-  - EU-Recht
-  - Sorgfaltspflicht
-  - Haftung
+  - Gegenvorschlag
+  - EU-Richtlinie
+  - CSDDD
   - Vernehmlassung
+  - Sorgfaltspflicht
 seo:
   description: >-
     Die Abstimmung über die Konzernverantwortungsinitiative vom 29. November
@@ -25,26 +25,26 @@ seo:
     der…
 themen:
   - Konzernverantwortungsinitiative
-  - Ständemehr und direkte Demokratie
   - Umgang mit Abstimmungsniederlagen
-  - EU-Sorgfaltspflichtenrichtlinie CSDDD
+  - Ständemehr als Verfassungsregel
+  - EU-Rechtsharmonisierung via Gegenvorschlag
   - indirekter Gegenvorschlag NUFG
 kritisiertes_medium: Bundesrat
 kritisierter_beitrag: 'Medienmitteilung vom 2. April 2026, Vernehmlassung NUFG'
 kritisierter_autor: ''
 kritik_typ:
   - Behördenpropaganda
-  - Einordnungsfehler
   - Kontextmangel
+  - Framing
 personen: []
 institutionen:
   - Bundesrat
   - Parlament
   - EU
-  - Souverän
+  - Europäische Union
 gesetze_vorlagen:
   - Konzernverantwortungsinitiative 2020
-  - Indirekter Gegenvorschlag (Bundesbeschluss 19. Juni 2020)
+  - Bundesbeschluss vom 19. Juni 2020 (indirekter Gegenvorschlag)
   - Neue Konzernverantwortungsinitiative 2025
   - NUFG
   - CSDDD
@@ -52,18 +52,19 @@ gesetze_vorlagen:
   - Art. 140 BV
   - Art. 142 BV
 these: >-
-  Ein demokratisches Nein darf nicht nur formal akzeptiert, sondern muss
-  inhaltlich ernst genommen werden – die rasche Wiederauflage der
-  Konzernverantwortung und die Orientierung an EU-Vorgaben relativieren den
-  Abstimmungsentscheid von 2020.
+  Die nach der Ablehnung der Konzernverantwortungsinitiative 2020 rasch
+  erfolgende Wiederauflage sowie die EU-orientierte Ausrichtung des
+  bundesrätlichen Gegenvorschlags relativieren den demokratischen Entscheid und
+  erwecken den Eindruck, eine Abstimmungsniederlage werde als vorläufiges
+  Kommunikationsproblem而非 als verbindliche Entsche behandelt.
 zusammenfassung: >-
-  Der Artikel kritisiert, dass die klare Ablehnung der
-  Konzernverantwortungsinitiative 2020 durch das Ständemehr politisch nicht
-  ernst genug genommen wird. Bereits wenige Jahre später werde eine neue
-  Initiative eingereicht und der Bundesrat orientiere seinen Gegenvorschlag an
-  der EU-CSDDD-Richtlinie. Dies erwecke den Eindruck, dass demokratische
-  Niederlagen als vorläufiges Kommunikationsproblem behandelt würden statt als
-  verbindliche Entscheidung des Souveräns.
+  Der Artikel analysiert den Umgang mit dem Nein zur
+  Konzernverantwortungsinitiative vom 29. November 2020, die am Ständemehr
+  scheiterte. Er kritisiert, dass bereits 2025 eine neue Initiative eingereicht
+  wurde und der Bundesrat mit dem NUFG einen indirekten Gegenvorschlag vorlegt,
+  der sich an der EU-CSDDD-Richtlinie orientiert. Dadurch entstehe der Eindruck,
+  der frühere Abstimmungsentscheid werde inhaltlich nicht ernst genommen,
+  sondern taktisch überwunden.
 quelle_datum: '2026-04-02'
 quelle_format: Online-Artikel
 quelle_sendung: ''

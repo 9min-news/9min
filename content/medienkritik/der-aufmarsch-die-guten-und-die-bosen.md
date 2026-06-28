@@ -6,32 +6,34 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HEuBD99aoAAJLlf.jpg'
 tweetId: '2038865259692216743'
 categories:
-  - Medienrecht
   - Gesellschaft
-  - Zensur/Meinungsfreiheit
+  - Demokratie
+  - Sicherheitspolitik
 tags:
+  - Framing
+  - Asymmetrie
+  - Antifa
   - Rechtsextremismus
   - Linksextremismus
-  - Gewalt
-  - Medienberichterstattung
-  - Framing
-  - Selektion
+  - Lausanne
+  - Lyon
+  - Tötungsdelikt
 seo:
   description: >-
     Der Tages-Anzeiger berichtet, dass am Samstag in Lausanne «Rechtsextreme auf
     Antifa treffen». Die Überschrift verteilt die Rollen: Die einen sind…
 themen:
-  - Rechtsextremismus
-  - Linksextremismus
-  - Gewalt
-  - Medienberichterstattung
+  - Medienframing politischer Gewalt
+  - Asymmetrische Berichterstattung
+  - Linksextremismus und Rechtsextremismus
+  - Demonstrationskultur
 kritisiertes_medium: Tages-Anzeiger
 kritisierter_beitrag: 'Lausanne: Rechtsextreme drohen mit Gewalt bei Demo am Samstag'
 kritisierter_autor: ''
 kritik_typ:
   - Framing
-  - Selektion
-  - Kontextmangel
+  - Asymmetrie
+  - Auslassung
 personen:
   - Quentin Deranque
   - Rimoldi
@@ -39,18 +41,20 @@ institutionen:
   - Tages-Anzeiger
   - Mass-voll
   - Junge Tat
+  - Nachrichtendienst
 gesetze_vorlagen: []
 these: >-
-  Der Artikel des Tages-Anzeigers über die Demonstration in Lausanne zeigt ein
-  unbalanciertes Framing, indem linke Gewalt als Kontext und rechte Gewalt als
-  Nachricht dargestellt wird.
+  Der Tages-Anzeiger rahmt linke Gewalt, einschliesslich eines Tötungsdelikts,
+  als Kontext und rechte Gewalt als Hauptnachricht, wodurch eine asymmetrische
+  Erzählung entsteht, die demokratische Grundrechte einseitig verteilt.
 zusammenfassung: >-
-  Der Artikel des Tages-Anzeigers über die Demonstration in Lausanne wird
-  kritisiert, weil er ein unbalanciertes Bild von linker und rechter Gewalt
-  zeichnet. Während linke Gewalt, einschließlich eines Tötungsdelikts, als
-  Kontext dargestellt wird, wird rechte Gewalt als Nachricht präsentiert. Dieses
-  Framing wird als redaktionelle Entscheidung kritisiert, die nicht ausgewiesen
-  wird.
+  Der 9min-Artikel kritisiert eine Tages-Anzeiger-Berichterstattung über
+  Demonstrationen in Lausanne, die durch ihr Framing Antifa als legitime
+  demokratische Akteure und Rechtsextreme als Bedrohung darstelle. Ein
+  Tötungsdelikt durch Linksextreme in Lyon werde lediglich als Kontext für
+  rechte Radikalisierung erwähnt, während Warnungen vor linksextremer
+  Radikalisierung vollständig fehlten. Die redaktionelle Entscheidung, welche
+  Gewalt erzählt und welche erklärt werde, werde nicht als solche ausgewiesen.
 quelle_datum: ''
 quelle_format: Online-Artikel
 quelle_sendung: ''

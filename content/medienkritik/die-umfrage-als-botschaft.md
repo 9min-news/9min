@@ -6,16 +6,18 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJ3S2shXEAAG7u_.jpg'
 tweetId: '2062036343685894328'
 categories:
+  - SRF/SRG
   - Abstimmungen
-  - Medienrecht
-  - Zensur/Meinungsfreiheit
+  - Migration
 tags:
   - Umfrage
-  - SRG
-  - SVP
+  - SRF
+  - Abstimmung
+  - 10-Mio-Initiative
   - Zivildienstgesetz
-  - Abstimmungen
-  - Medienkritik
+  - Methodik
+  - Framing
+  - Erwartungsfrage
 seo:
   description: >-
     Dieser SRF-Beitrag fasst die zweite SRG-Umfrage von GFS Bern zu den
@@ -23,10 +25,11 @@ seo:
     10-Mio-Schweiz» und zum…
 themen:
   - Umfragejournalismus
-  - SRG-Umfrage
-  - SVP-Initiative
-  - Zivildienstgesetz
-kritisiertes_medium: SRF
+  - Abstimmungsprognosen
+  - Methodiktransparenz
+  - Meinungsbildung durch Umfragen
+  - Migrationspolitik
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Nein-Trend bei 10-Mio-Schweiz – Nägelkauen beim Zivildienstgesetz
 kritisierter_autor: ''
 kritik_typ:
@@ -36,22 +39,29 @@ kritik_typ:
 personen:
   - Lukas Golder
 institutionen:
+  - SRF
   - SRG
+  - GFS Bern
   - SVP
+  - Grüne
+  - SP
+  - GLP
+  - FDP
 gesetze_vorlagen:
-  - SVP-Initiative
+  - SVP-Initiative «Keine 10-Mio-Schweiz»
   - Zivildienstgesetz
 these: >-
-  Der SRF-Beitrag zur SRG-Umfrage über die Abstimmungen vom 14. Juni ist
-  methodisch transparent, aber die Darstellung der Ergebnisse ist tendenziös und
-  kann die Meinungsbildung beeinflussen.
+  Der SRF-Beitrag verkündet einen «Nein-Trend» zur SVP-Initiative, verschweigt
+  aber systematische methodische Verzerrungen und einen potenziell
+  stimmungsprägenden Messerangriff, was die Schlagzeile in Frage stellt.
 zusammenfassung: >-
-  Der Beitrag zum SRF analysiert die zweite SRG-Umfrage zu den Abstimmungen vom
-  14. Juni und kritisiert die Darstellung der Ergebnisse. Der Beitrag ist
-  methodisch transparent, aber die Schlagzeile «Nein-Trend» bei der
-  SVP-Initiative ist möglicherweise irreführend, da die Erhebung vor dem
-  Messerangriff von Winterthur erfolgte. Die Diskrepanz zwischen den Erwartungen
-  und den Absichten der Befragten wird nicht ausreichend thematisiert.
+  9min.ch analysiert einen SRF-Beitrag zur zweiten SRG-Umfrage vor den
+  Abstimmungen vom 14. Juni. Lob gilt der Methodentransparenz, doch die Kritik
+  richtet sich dagegen, dass der Vorbehalt zum Messerangriff von Winterthur in
+  einen Nebensatz verbannt wird, die Diskrepanz zwischen Absicht und Erwartung
+  nicht kritisch genutzt wird, der historische Bias bei migrationskritischen
+  Vorlagen unerwähnt bleibt und die «normaler Verlauf»-Rahmung das Nein
+  normalisiert.
 quelle_datum: '2026-06-03'
 quelle_format: Online-Artikel
 quelle_sendung: ''

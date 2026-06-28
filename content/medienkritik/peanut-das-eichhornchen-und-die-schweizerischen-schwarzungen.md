@@ -6,54 +6,68 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HGLiUstacAAG3PV.jpg'
 tweetId: '2045446044222214498'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Demokratie
+  - Gesellschaft
 tags:
-  - SRF
+  - SRF 4 News aktuell
   - Gina Rinehart
-  - Peanut
-  - Eichhörnchen
-  - Australien
-  - Schweiz
-  - Medien
-  - Journalismus
+  - Peanut-Skulptur
+  - geschwärzte Verträge
+  - Finanzplatz-Initiative
+  - BAG-Haftungsklausel
+  - institutionelle Ablenkung
+  - Sendezeitvergabe
 seo:
   description: >-
     Ein Gedankenexperiment. Wir nehmen den folgenden SRF-Beitrag und streichen,
     Satz für Satz, jede Information, die für eine Entscheidung eines Schweizer…
 themen:
-  - Medienkritik
-  - Journalismus
-  - Direkte Demokratie
-  - Institutionelle Ablenkung
+  - Sendeplatzvergabe
+  - Service-public-Auftrag
+  - Impfstoffverträge
+  - direkte Demokratie
+  - Relevanzkriterien
 kritisiertes_medium: SRF
 kritisierter_beitrag: 'Die weibliche Trump: Verkehrte Welt in Down Under'
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
   - Framing
-  - Selektion
+  - Asymmetrie
 personen:
   - Gina Rinehart
+  - Trump
 institutionen:
   - SRF
-  - Bundesamt für Gesundheit (BAG)
+  - SRF 4 News aktuell
+  - BAG
+  - Pfizer
+  - Janssen
+  - AstraZeneca
+  - CureVac
+  - Moderna
+  - SP
+  - FDP
+  - Bund
 gesetze_vorlagen:
   - Finanzplatz-Initiative
 these: >-
-  Der öffentliche Sender SRF priorisiert unterhaltsame und ferne Geschichten
-  gegenüber relevanten und nahen Themen, die für die direkte Demokratie in der
-  Schweiz wichtig sind.
+  Der öffentliche Sender SRF bevorzugt ferne, moralisch eindeutige Geschichten
+  wie das Rinehart-Porträt gegenüber nahen, folgenreichen Schweizer Themen und
+  verstösst damit gegen seinen Service-public-Auftrag in einer direkten
+  Demokratie.
 zusammenfassung: >-
-  Der Artikel kritisiert den öffentlichen Sender SRF für die Priorisierung
-  unterhaltsamer und ferne Geschichten gegenüber relevanten und nahen Themen.
-  Der Beitrag über die australische Bergbauunternehmerin Gina Rinehart wird als
-  Beispiel genannt, während wichtige Themen wie die Finanzplatz-Initiative und
-  die Haftungsklausel in Impfstoffverträgen nur marginal behandelt werden. Der
-  Artikel argumentiert, dass dies eine Form institutioneller Ablenkung ist, die
-  die direkte Demokratie in der Schweiz untergräbt.
+  Der Artikel kritisiert, dass SRF am 17. April 2026 sechs Minuten
+  zweiunddreißig Sendezeit für ein Porträt der australischen
+  Bergbauunternehmerin Gina Rinehart aufwendete, während in derselbe Woche
+  entscheidungsrelevante Schweizer Themen wie geschwärzte Impfstoffverträge, die
+  Finanzplatz-Initiative oder BAG-Haftungsklauseln kaum oder gar nicht behandelt
+  wurden. Diese Sendeplatzvergabe wird als institutionelle Ablenkung
+  interpretiert, die den Souverän als Adressaten öffentlicher Kommunikation
+  systematisch ausblendet.
 quelle_datum: '2026-04-17'
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: SRF 4 News aktuell
 quelle_redaktion: SRF News
 kritik_schwere: 3

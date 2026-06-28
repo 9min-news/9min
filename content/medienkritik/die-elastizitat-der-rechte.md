@@ -6,57 +6,65 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIYouwEW0AA78tW.jpg'
 tweetId: '2055375618003685812'
 categories:
-  - Medienrecht
-  - Demokratie
+  - SRF/SRG
   - EU/Aussenpolitik
+  - Migration
 tags:
-  - Elastizität der Rechte
-  - Menschenrechtskonvention
-  - Europäischer Gerichtshof für Menschenrechte
-  - Alain Berset
+  - Menschenrechte
+  - Europarat
+  - Deklaration von Chisinau
   - Fredy Gsteiger
-  - SRF
-  - Diplomatie
-  - Kompromiss
+  - Alain Berset
+  - EMRK
+  - Elastizität
+  - Normalisierung
 seo:
   description: >-
     Zur SRF-Analyse von Fredy Gsteiger über die Deklaration von Chisinau, 15.
     Mai 2026 «Eine gewisse Genugtuung ist Alain Berset nach dem Ministertreffen…
 themen:
   - Menschenrechte
-  - Europarat
   - Deklaration von Chisinau
-  - Rechtsstaatlichkeit
-  - Diplomatie
+  - diplomatische Berichterstattung
+  - Aushöhlung des Rechts
+  - Europarat
 kritisiertes_medium: SRF
-kritisierter_beitrag: Deklaration von Chisinau
+kritisierter_beitrag: >-
+  Deklaration von Chisinau: Europarat – Der Wind in Ausländerfragen weht
+  schärfer
 kritisierter_autor: Fredy Gsteiger
 kritik_typ:
   - Framing
+  - Behördenpropaganda
   - Auslassung
-  - Kontextmangel
 personen:
-  - Alain Berset
   - Fredy Gsteiger
+  - Alain Berset
 institutionen:
-  - Europarat
   - SRF
+  - Europarat
   - Europäischer Gerichtshof für Menschenrechte
+  - Europäische Menschenrechtskonvention
 gesetze_vorlagen:
-  - Menschenrechtskonvention
+  - Deklaration von Chisinau
+  - Europäische Menschenrechtskonvention
 these: >-
-  Die Deklaration von Chisinau führt zu einer Erosion der Menschenrechte durch
-  die Einführung von Elastizität und relativer Interpretationen.
+  SRF-Korrespondent Gsteiger beschreibt die Aushöhlung der Menschenrechte durch
+  die Deklaration von Chisinau als neutralen Kompromiss, ohne sie zu kritisieren
+  oder beim Namen zu nennen, und wird damit zum Verstärker der Erosion.
 zusammenfassung: >-
-  Der Artikel kritisiert die Deklaration von Chisinau und die Berichterstattung
-  von Fredy Gsteiger bei SRF. Die Deklaration führt zu einer Erosion der
-  Menschenrechte, indem sie Elastizität und relative Interpretationen einführt.
-  Der Artikel argumentiert, dass dies zu einer Aufhebung der absoluten
-  Menschenrechte führt und die Rechtsstaatlichkeit untergräbt.
+  Der Artikel kritisiert die SRF-Analyse von Fredy Gsteiger zur Deklaration von
+  Chisinau als Beispiel diplomatischer Berichterstattung, die die schrittweise
+  Aushöhlung der Menschenrechte als neutralen Kompromiss darstellt, ohne die
+  Konsequenzen zu benennen. Gsteiger beschreibe die Erpressung des Europäischen
+  Gerichtshofs für Menschenrechte und die Relativierung absoluter Rechte, stelle
+  dies aber als natürlichen politischen Prozess dar. Die Kritik sieht darin eine
+  Komplizenschaft mit der Erosion der Menschenrechte durch die Sprache der
+  Diplomatie.
 quelle_datum: '2026-05-15'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: SRF
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

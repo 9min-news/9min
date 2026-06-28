@@ -6,57 +6,67 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHxY0JaXUAIcb1D.jpg'
 tweetId: '2052613583951806670'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - EU/Aussenpolitik
-  - Klima/Energie
+  - Sicherheitspolitik
 tags:
   - Russland
   - Ukraine
   - SRF
-  - Medienkritik
-  - Kriegsberichterstattung
-  - Propaganda
   - Framing
-  - Selektion
+  - Kriegsberichterstattung
+  - Asymmetrie
+  - Putin
+  - 9-Mai-Paraden
 seo:
   description: >-
     Zur SRF-Berichterstattung «Russland feiert reduziert – aus Angst vor
     ukrainischem Angriff», 7. Mai 2026 Was berichtet wird
     SRF-Russlandkorrespondent Calum…
 themen:
-  - Russland-Ukraine-Konflikt
-  - SRF-Berichterstattung
-  - Medienkritik
-kritisiertes_medium: SRF
+  - Russland-Ukraine-Krieg-Berichterstattung
+  - Framing und Kriegsnarrative
+  - SRF-Russlandkorrespondenz
+  - Militärische Lagebewertung
+  - Westliche Medien-Asymmetrie
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Russland feiert reduziert – aus Angst vor ukrainischem Angriff
 kritisierter_autor: Calum MacKenzie
 kritik_typ:
   - Framing
-  - Selektion
-  - Kontextmangel
+  - Auslassung
+  - Asymmetrie
 personen:
   - Calum MacKenzie
-  - Putin
+  - Wladimir Putin
 institutionen:
   - SRF
+  - Levada-Center
+  - WCIOM
+  - NATO
+  - EU
   - Russland
   - Ukraine
 gesetze_vorlagen: []
 these: >-
-  Die SRF-Berichterstattung über den Russland-Ukraine-Konflikt ist systematisch
-  verzerrt und dient der politischen Erwartungshaltung, anstatt der Beschreibung
-  der Realität.
+  Die SRF-Berichterstattung framt Russland systematisch als schwach und in der
+  Krise, indem sie selektiv Fakten auswählt, Kontext ausblendet und russische
+  Sicherheitsmassnahmen als Angst pathologisiert.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRF-Berichterstattung über den
-  Russland-Ukraine-Konflikt als systematisch verzerrt. Die Berichterstattung
-  konzentriert sich auf die Schwäche Russlands und die Stärke der Ukraine, ohne
-  die komplexe Realität des Konflikts zu berücksichtigen. Der Artikel
-  argumentiert, dass die SRF-Berichterstattung die politische Erwartungshaltung
-  bedient, anstatt die Realität des Konflikts zu beschreiben.
+  Der 9min.ch-Artikel kritisiert die SRF-Analyse von Calum MacKenzie zu den
+  reduzierten russischen 9.-Mai-Feierlichkeiten als systematisch verzerrt. Er
+  identifiziert mehrere Framing-Operationen: die Emotionalisierung
+  sicherheitspolitischer Vorsicht als 'Angst', die einseitige Hervorhebung
+  ukrainischer Marschflugkörper ohne Erwähnung russischer Überlegenheit im
+  Luftkrieg, die unbelegte Behauptung sinkender Putin-Zustimmungswerte und die
+  Auslassung russischer Wirtschaftswachstumsdaten und territorialer Gewinne. Die
+  Kritik attestiert eine seit vier Jahren konstante asymmetrische
+  Berichterstattung, die russische Anpassungen als Schwäche und ukrainische
+  Probleme als heldenhaften Widerstand darstellt.
 quelle_datum: '2026-05-07'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: SRF News
+quelle_redaktion: SRF News International
 kritik_schwere: 3
 ---
 

@@ -6,54 +6,60 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HGGAm2eXUAAQSKF.jpg'
 tweetId: '2045057269306466661'
 categories:
+  - SRF/SRG
+  - Demokratie
   - Medienrecht
-  - Zensur/Meinungsfreiheit
-  - Gesellschaft
 tags:
-  - SRF
+  - Causa Fischer
+  - Podcast
   - Krisenkommunikation
-  - Journalismus
-  - Medienkritik
+  - Claudia Jenni
   - Zweitviktimisierung
-  - PR-Expertin
+  - Asymmetrie
+  - BAG
+  - UBS
 seo:
   description: >-
     Es ist tatsächlich bemerkenswert. SRF hat diese Woche eine Karriere beendet.
     Strafbefehl angefordert, Sponsoren kontaktiert, Druckkaskade ausgelöst, im…
 themen:
-  - Journalismus
-  - Medienkritik
-  - Krisenkommunikation
+  - Medienmacht und Verantwortung
+  - Krisenkommunikation als Framing
+  - Asymmetrie in der Berichterstattung
+  - Selbstreflexionsdefizit des öffentlichen Dienstes
 kritisiertes_medium: SRF
-kritisierter_beitrag: Wie kommt man durch einen Skandal?
+kritisierter_beitrag: Wie kommt man durch einen Skandal? – Die Causa Fischer aus PR-Sicht
 kritisierter_autor: ''
 kritik_typ:
   - Framing
   - Auslassung
-  - Interessenkonflikt
+  - Asymmetrie
 personen:
-  - Fischer
   - Claudia Jenni
+  - Fischer
 institutionen:
   - SRF
   - BAG
   - UBS
   - Swiss Olympic
+  - Verband
 gesetze_vorlagen: []
 these: >-
-  Der SRF-Podcast über Krisenkommunikation ist ein Beispiel für
-  Zweitviktimisierung und eine Umkehrung der journalistischen Verantwortung.
+  SRF produziert nach der von ihm selbst ausgelösten Entlassung Fischers einen
+  Podcast, der die Krise als Naturphänomen rahmt, die eigene Rolle als Auslöser
+  unsichtbar macht und das Opfer nachträglich fachmännisch seziert, während
+  Institutionen wie BAG und UBS von vergleichbarer Kritik verschont bleiben.
 zusammenfassung: >-
-  Der Artikel kritisiert einen SRF-Podcast, in dem eine PR-Expertin analysiert,
-  wie ein Opfer einer Recherche die Recherche besser hätte navigieren sollen.
-  Der Autor argumentiert, dass dies eine Zweitviktimisierung darstellt und die
-  journalistische Verantwortung umkehrt. Der Podcast wird als Beispiel für eine
-  unangemessene Berichterstattung und eine Verletzung der journalistischen Ethik
-  angesehen.
+  Der Artikel kritisiert einen SRF-Podcast, in dem PR-Expertin Claudia Jenni
+  analysiert, wie Fischer den Skandal besser hätte managen sollen. 9min.ch
+  argumentiert, dass SRF selbst den Skandal ausgelöst hat und im Podcast seine
+  eigene Rolle als Akteur ausblendet, während gleichzeitig Institutionen wie BAG
+  und UBS von ähnlicher Krisenkommunikationskritik ausgenommen werden. Dies wird
+  als Zweitviktimisierung und Umkehrung journalistischer Verantwortung bewertet.
 quelle_datum: ''
-quelle_format: ''
-quelle_sendung: ''
-quelle_redaktion: ''
+quelle_format: Podcast
+quelle_sendung: SRF News Podcast
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

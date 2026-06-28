@@ -6,51 +6,61 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHYTiklbkAAPLsd.jpg'
 tweetId: '2050848602189152411'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Gesellschaft
   - Demokratie
 tags:
-  - SRF
   - Krawallmacher
-  - Linke Gewalt
-  - Rechte Gewalt
+  - Framing
   - Asymmetrie
+  - Linksextremismus
   - Sprachwahl
-  - Politische Einordnung
+  - Konjunktiv
+  - Bildauswahl
+  - SRG-Initiative
 seo:
   description: >-
     Zur SRF-Berichterstattung «Ausschreitungen in der Zürcher Innenstadt», 3.
     Mai 2026, 09:25 Uhr Ein dreissig Zeilen kurzer Online-Artikel. Vier Bilder.
     Drei…
 themen:
-  - Medienkritik
-  - Politische Berichterstattung
-  - Sprache und Politik
-kritisiertes_medium: SRF
-kritisierter_beitrag: Ausschreitungen in der Zürcher Innenstadt
+  - Sprachasymmetrie bei SRF
+  - Berichterstattung über linksextreme Gewalt
+  - Polizeiberichterstattung
+  - Redaktionelle Einordnung politischer Akteure
+  - Vertrauensverlust in öffentlich-rechtliche Medien
+kritisiertes_medium: SRF News
+kritisierter_beitrag: 'Krawallmacher unterwegs: Ausschreitungen in der Zürcher Innenstadt'
 kritisierter_autor: ''
 kritik_typ:
   - Framing
   - Auslassung
-  - Selektion
+  - Asymmetrie
 personen: []
 institutionen:
   - SRF
   - Stadtpolizei Zürich
-gesetze_vorlagen: []
+  - Junge SVP
+  - SRG
+gesetze_vorlagen:
+  - SRG-Initiativen
 these: >-
-  Die SRF-Berichterstattung über linke Gewalt ist asymmetrisch und verharmlost
-  die Vorgänge durch die Wahl von milden Begriffen wie 'Krawallmacher'
+  SRF verwendet systematisch eine mildere, entpolitisierende Sprache bei
+  linksextremer Gewalt als bei rechter Gewalt und erodiert damit das Vertrauen
+  in den öffentlich-rechtlichen Sender.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRF-Berichterstattung über linke Gewalt in Zürich
-  als asymmetrisch und verharmlosend. Die Verwendung von Begriffen wie
-  'Krawallmacher' und die Auslassung von politischen Einordnungen werden als
-  Beispiele für diese Asymmetrie genannt. Der Artikel argumentiert, dass diese
-  Berichterstattung das Vertrauen in den gebührenfinanzierten Sender untergräbt.
+  Der Artikel analysiert einen 30 Zeilen kurzen SRF-Online-Beitrag über Krawalle
+  in Zürich und zeigt auf, dass SRF die Täter als «Krawallmacher» bezeichnet,
+  die politische Verortung (linksradikal, autonom, antikapitalistisch)
+  vollständig weglässt und den Polizeieinsatz mit Konjunktiv («soll»)
+  distanziert darstellt. Diese Sprachasymmetrie wird als konsistentes Muster der
+  SRF-Berichterstattung über Jahre gedeutet, das strukturell aus der homogenen
+  sozialen Zusammensetzung der Redaktionen resultiere und das Vertrauen in die
+  SRG messbar untergrabe.
 quelle_datum: '2026-05-03'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: 9min.ch
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

@@ -12,11 +12,11 @@ categories:
 tags:
   - Cassis
   - Bilateralen III
-  - EU-Vertragspaket
-  - Strohmann-Argumentation
+  - EU-Vertrag
   - Psychologisierung
+  - Strohmann
   - Abschottung
-  - Unionsbürgerrichtlinie
+  - Zuwanderung
   - Wohlstand
 seo:
   description: >-
@@ -24,11 +24,11 @@ seo:
     6. Mai 2026 Aussenminister Ignazio Cassis hält vor einem
     Wirtschaftspublikum…
 themen:
-  - EU-Vertragspaket Bilateralen III
-  - Rhetorische Strategien in der EU-Debatte
-  - Psychologisierung politischer Kritik
-  - Zuwanderung und demografisches Wachstum
-  - Volksabstimmungsvorbereitung
+  - Bilateralen III / EU-Vertragspaket
+  - Rhetorische Psychologisierung politischer Kritik
+  - Zuwanderung und Demografie
+  - Strohmann-Argumentation in der EU-Debatte
+  - Vorabstimmungskampagne des Bundesrates
 kritisiertes_medium: Bundesrat
 kritisierter_beitrag: Rede «Die Schweiz in der Welt» vor der Mittwochsgesellschaft in Cham
 kritisierter_autor: Ignazio Cassis
@@ -39,32 +39,33 @@ kritik_typ:
 personen:
   - Ignazio Cassis
   - Tobias Straumann
-  - Maslow
 institutionen:
   - Bundesrat
   - EDA
   - EU
   - Mittwochsgesellschaft
-  - Club of Rome
   - SVP
+  - Club of Rome
 gesetze_vorlagen:
-  - EU-Vertragspaket Bilateralen III
-  - Unionsbürgerrichtlinie
+  - Bilateralen III
+  - EU-Vertragspaket
   - 10-Millionen-Initiative
+  - Unionsbürgerrichtlinie
   - Volksvotum 2014
+  - Lieferkettengesetz
 these: >-
   Cassis nutzt eine scheinbar philosophische Rede als verdeckte Vorabkampagne
-  für das EU-Vertragspaket, indem er materielle Kritik psychologisiert,
-  Zuwanderung mit Wohlstand verkoppelt und einen Strohmann «Abschottung»
-  aufbaut, um die eigentliche Debatte zu umgehen.
+  für das EU-Vertragspaket, indem er berechtigte Sorgen der Bevölkerung
+  psychologisiert, eine Strohmann-Debatte um «Abschottung» konstruiert und
+  wesentliche Sachfragen ausblendet.
 zusammenfassung: >-
-  Der Artikel analysiert eine Rede von Bundesrat Ignazio Cassis vom 6. Mai 2026
-  vor der Mittwochsgesellschaft in Cham. 9min.ch legt dar, dass die scheinbar
-  kulturell-philosophische Rede tatsächlich eine verdeckte Vorabkampagne für das
-  EU-Vertragspaket darstellt. Die Kritik richtet sich gegen fünf rhetorische
-  Operationen: Psychologisierung von Bürgerbedenken, Verkoppelung von
-  Zuwanderung und Wohlstand, Strohmann-Argumentation mit «Abschottung»,
-  unkritische EU-Darstellung sowie Auslassung aller konkreten Vertragsfragen.
+  Der Artikel analysiert eine Rede von Bundesrat Cassis vom 6. Mai 2026 als
+  verdeckte Vorabkampagne für das EU-Vertragspaket. 9min.ch kritisiert, dass
+  Cassis empirische Sorgen der Bevölkerung (Mietpreise, Krankenkassenprämien,
+  Demografie) als psychologische Wohlstandsverwöhnung umdeutet, eine rhetorische
+  Kette aus Zuwanderung, Wachstum und Wohlstand konstruiert und einen Strohmann
+  «Abschottung» einführt, während konkrete Sachfragen zur
+  Unionsbürgerrichtlinie, zum Ständemehr und zum Votum 2014 ausgeblendet werden.
 quelle_datum: '2026-05-06'
 quelle_format: Online-Artikel
 quelle_sendung: ''

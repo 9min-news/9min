@@ -6,58 +6,71 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HGQw2ItaAAAhn2W.jpg'
 tweetId: '2045813952781713657'
 categories:
-  - Medienrecht
-  - Gesellschaft
+  - SRF/SRG
   - Demokratie
+  - Medienrecht
 tags:
-  - SRF
+  - Accountability Laundering
+  - Rechenschaftstheater
   - Patrick Fischer
-  - Bundesräte
-  - BAG
-  - Pharmakonzerne
-  - Medienrecht
-  - Demokratie
+  - BAG-Verträge
+  - Zertifikatsregime
+  - Ausgewogenheit
+  - Celio-Standard
+  - Medienasymmetrie
 seo:
   description: >-
     Warum die Strafe für den Kleinen die Schuld des Grossen reinwäscht Es gibt
     ein Muster in der Art, wie moderne Institutionen Rechenschaft ablegen. Es…
 themen:
-  - Accountability Laundering
+  - COVID-Aufarbeitung
+  - Medienasymmetrie
   - Rechenschaftspflicht
-  - Medienkritik
+  - direkte Demokratie
+  - RTVG-Ausgewogenheitspflicht
 kritisiertes_medium: SRF
-kritisierter_beitrag: ''
+kritisierter_beitrag: Neun Artikel über Patrick Fischer innerhalb von 89 Stunden
 kritisierter_autor: ''
 kritik_typ:
-  - Framing
+  - Asymmetrie
   - Auslassung
-  - Kontextmangel
+  - Selektion
 personen:
   - Patrick Fischer
   - Enrico Celio
+  - Boris Johnson
+  - Nicola Sturgeon
   - Ursula von der Leyen
+  - Von Salis
 institutionen:
   - SRF
-  - Bundesrat
   - BAG
-  - Pharmakonzerne
+  - Bundesrat
+  - IOC
+  - Pfizer
+  - EU
+  - Bundesverwaltungsgericht
+  - Parlament
 gesetze_vorlagen:
   - RTVG
+  - COVID-Massnahmen
+  - Zertifikatsregime
 these: >-
-  Die Medien in der Schweiz, insbesondere der SRF, betreiben 'Accountability
-  Laundering', indem sie Rechenschaft von kleinen Personen einfordern, um die
-  Schuld der Mächtigen zu reinwaschen.
+  SRF betreibt Accountability Laundering, indem es an einem kleinen Akteur
+  (Patrick Fischer) Rechenschaftsjournalismus performt, während es die wahren
+  Entscheidungsträger der COVID-Massnahmen unbehelligt lässt und so die
+  Informationsgrundlage der direkten Demokratie verzerrt.
 zusammenfassung: >-
-  Der Artikel kritisiert die Medien in der Schweiz, insbesondere den SRF, für
-  ihre Art, Rechenschaft abzulegen. Anhand des Falls Patrick Fischer wird
-  gezeigt, wie die Medien Rechenschaft von kleinen Personen einfordern, um die
-  Schuld der Mächtigen zu reinwaschen. Der Artikel argumentiert, dass dies ein
-  Problem für die Demokratie und die Rechenschaftspflicht in der Schweiz
-  darstellt.
+  Der Artikel analysiert die SRF-Berichterstattung über Patrick Fischer als
+  Fallstudie für institutionelles Accountability Laundering: Neun Artikel über
+  den Eishockeytrainer stehen zwei Artikeln über geschwärzte
+  BAG-Milliardenverträge gegenüber. Diese Asymmetrie ersetze echte Rechenschaft
+  durch Performance und schädige die direkte Demokratie, deren Funktionieren
+  eine ausgewogene Informationsgrundlage voraussetze, die das RTVG verlange.
 quelle_datum: ''
-quelle_format: ''
+quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: ''
+quelle_redaktion: SRF
 kritik_schwere: 3
 ---
 

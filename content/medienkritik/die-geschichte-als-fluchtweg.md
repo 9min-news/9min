@@ -6,26 +6,27 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HKkCAaVXQAAVZwq.jpg'
 tweetId: '2065184301444895229'
 categories:
-  - Gesellschaft
-  - Zensur/Meinungsfreiheit
+  - SRF/SRG
+  - Migration
+  - Medienrecht
 tags:
+  - Framing
+  - Troubles
+  - Belfast
+  - Migration
+  - Historisierung
+  - Auslassung
   - SRF
   - News Plus
-  - Nordirland
-  - Belfast
-  - The Troubles
-  - Migration
-  - Gewalt
-  - Medienkritik
 seo:
   description: >-
     Dieser SRF-Beitrag ist ein Erklärstück aus dem Podcast-Format «News Plus»:
     Die Krawalle von Belfast werden mit der Historikerin und Friedensforscherin…
 themen:
-  - Medienkritik
-  - Nordirlandkonflikt
-  - Migration
-  - Gewalt
+  - Nordirlandkonflikt als Framing
+  - Migrationspolitik als Ursache
+  - Historisierung aktueller Gewalt
+  - Verantwortung und Vorhersagbarkeit
 kritisiertes_medium: SRF News
 kritisierter_beitrag: 'Stadt von ‹The Troubles›: Belfast und die Gewalt'
 kritisierter_autor: ''
@@ -36,26 +37,36 @@ kritik_typ:
 personen:
   - Corinna Hauswedell
   - Peter Stäuber
+  - Micheál Martin
+  - David Cameron
+  - O'Neill
 institutionen:
   - SRF
+  - SRF 4 News
+  - News Plus
   - CDU
-gesetze_vorlagen: []
+  - IRA
+gesetze_vorlagen:
+  - Brexit-Votum
+  - CDU-Zuwanderungs-Beschluss 2002
 these: >-
-  Der SRF-Beitrag über die Krawalle in Belfast verwendet eine historische
-  Perspektive, um die aktuellen Probleme zu vermeiden und die Verantwortung der
-  Politik zu verschleiern.
+  Der SRF-Beitrag rahmt die Belfast-Krawalle von 2026 als Fortsetzung des
+  Nordirlandkonflikts, obwohl die eigene Expertin diese Analogie explizit
+  dementiert, und blendet damit die eigentliche migrationspolitische Ursache
+  sowie ihre seit 2002 dokumentierte Vorhersagbarkeit aus.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag über die Krawalle in Belfast, weil er
-  die aktuellen Probleme durch eine historische Perspektive vermeidet und die
-  Verantwortung der Politik verschleiert. Der Beitrag verwendet eine Expertin,
-  die selbst sagt, dass die aktuellen Zustände nichts mit dem Nordirlandkonflikt
-  zu tun haben, aber die Redaktion baut die Troubles-Kulisse trotzdem um sie
-  herum. Der Artikel fordert eine ehrliche Berichterstattung, die beide Härten
-  bringt, anstatt nur die eine Seite zu zeigen.
+  Der 9min-Artikel kritisiert einen SRF-News-Plus-Beitrag, der die
+  Belfast-Krawalle durch die Brille des historischen Nordirlandkonflikts rahmt,
+  obwohl die zitierte Expertin Corinna Hauswedell diesen Zusammenhang
+  ausdrücklich dementiert. Durch diese Historisierung und Regionalisierung werde
+  die eigentliche Ursache — zwanzig Jahre migrationspolitischen Versagens gegen
+  den Bevölkerungswillen — unsichtbar gemacht. Der Beitrag lege weder die Tat,
+  noch den Asylweg des Täters, noch die Vorhersagbarkeit der Entwicklung dar und
+  leiste so eine Entlastung der Gegenwart.
 quelle_datum: '2026-06-11'
-quelle_format: Online-Artikel
+quelle_format: Podcast
 quelle_sendung: News Plus
-quelle_redaktion: SRF News
+quelle_redaktion: SRF 4 News
 kritik_schwere: 3
 ---
 

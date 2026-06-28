@@ -7,33 +7,37 @@ coverImage: 'https://pbs.twimg.com/media/HHnB8jhWoAQ2A72.jpg'
 tweetId: '2051885206525604206'
 categories:
   - Migration
-  - Demokratie
-  - Medienrecht
+  - Abstimmungen
+  - Wirtschaft
 tags:
   - NZZ
   - Einbürgerung
-  - Migration
-  - Bevölkerungsentwicklung
+  - Ausländeranteil
+  - Migrationshintergrund
+  - 10-Millionen-Initiative
   - Demografie
-  - Statistik
-  - Schweiz
+  - Framing
+  - Datenanalyse
 seo:
   description: >-
     Zur Datenanalyse «Seit Beginn der Personenfreizügigkeit sind über 800 000
     Ausländer in der Schweiz eingebürgert worden. Zum Glück», NZZ vom 31.
     Oktober…
 themen:
-  - Einbürgerung
-  - Bevölkerungsentwicklung
-  - Migration und Integration
+  - Einbürgerungsstatistik
+  - Migrationshintergrund vs. Ausländeranteil
+  - 10-Millionen-Initiative
+  - demografische Transformation
+  - Personenfreizügigkeit
 kritisiertes_medium: NZZ
 kritisierter_beitrag: >-
   Seit Beginn der Personenfreizügigkeit sind über 800 000 Ausländer in der
   Schweiz eingebürgert worden. Zum Glück
-kritisierter_autor: ''
+kritisierter_autor: 'Matthias Benz, Florian Seliger, Ida Götz'
 kritik_typ:
   - Framing
   - Auslassung
+  - Selektion
 personen:
   - Matthias Benz
   - Florian Seliger
@@ -43,22 +47,25 @@ institutionen:
   - Bundesamt für Statistik
   - SVP
 gesetze_vorlagen:
-  - 10-Millionen-Initiative
+  - 10-Millionen-Initiative (Nachhaltigkeitsinitiative)
+  - Personenfreizügigkeit
 these: >-
-  Die NZZ-Analyse über Einbürgerungen in der Schweiz liefert wertvolle Zahlen,
-  aber die Wertung und Interpretation der Daten sind nicht neutral und dienen
-  einer bestimmten politischen Agenda.
+  Die NZZ-Datenanalyse liefert faktisch korrekte Zahlen, rahmt diese aber mit
+  einer einseitigen Wertung ("Zum Glück") und lässt wesentliche Kontexte wie
+  Migrationshintergrund, alternative Lesarten und den Bezug zur
+  10-Millionen-Initiative aus.
 zusammenfassung: >-
-  Der Artikel analysiert eine Datenanalyse der NZZ über Einbürgerungen in der
-  Schweiz und kritisiert die Wertung und Interpretation der Daten. Die Analyse
-  zeigt, dass die Einbürgerungen den Ausländeranteil in der Schweiz dämpfen,
-  aber die demografische Realität nicht verändern. Der Artikel argumentiert,
-  dass die NZZ-Analyse eine bestimmte politische Agenda verfolgt und die Daten
-  nicht neutral präsentiert.
+  Die 9min-Analyse bescheinigt der NZZ-Datenanalyse zu Einbürgerungen und
+  Ausländeranteil faktische Korrektheit, kritisiert aber die redaktionelle
+  Wertung im Titel ("Zum Glück") als politische Position im Format Datenanalyse.
+  Wesentliche Kontexte wie der Migrationshintergrund (rund 40 Prozent statt 27
+  Prozent Ausländeranteil), die Alternativlesart einer Krise einheimischer
+  Reproduktion und der unausgesprochene Bezug zur 10-Millionen-Initiative würden
+  ausgeblendet, wodurch der Migrationspfad als alternativlos erscheine.
 quelle_datum: '2024-10-31'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: NZZ
+quelle_redaktion: ''
 kritik_schwere: 2
 ---
 

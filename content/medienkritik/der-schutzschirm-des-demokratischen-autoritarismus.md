@@ -6,30 +6,30 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HGpeLT9WMAA22Fg.jpg'
 tweetId: '2047552578083328348'
 categories:
+  - SRF/SRG
   - Demokratie
-  - Medienrecht
-  - Zensur/Meinungsfreiheit
+  - EU/Aussenpolitik
 tags:
-  - SRF
-  - Echo der Zeit
+  - Framing
+  - Verfassungsschutz
   - AfD
-  - Rechtsextremismus
-  - Demokratie
-  - Parlamentsreform
-  - Medienkritik
-  - Zensur
+  - Magdeburg
+  - Echo der Zeit
+  - Behördenpropaganda
+  - Demokratiebegriff
+  - SVP-Vergleich
 seo:
   description: >-
     Zum SRF-Beitrag «Parlament in Magdeburg macht sich resilienter gegen AfD»
     vom 23. April 2026 Fünf Minuten im «Echo der Zeit», mit O-Ton aus dem
     Landtag,…
 themen:
-  - AfD
-  - Parlamentsreform
-  - Demokratie
-  - Rechtsextremismus
-  - Medienkritik
-kritisiertes_medium: SRF
+  - Verfassungsschutz-Einstufungen
+  - Präventive Parlamentsreformen
+  - AfD-Berichterstattung
+  - Demokratietheorie
+  - Schweizer Konkordanzmodell
+kritisiertes_medium: SRF Echo der Zeit
 kritisierter_beitrag: Parlament in Magdeburg macht sich resilienter gegen AfD
 kritisierter_autor: ''
 kritik_typ:
@@ -42,24 +42,30 @@ personen:
 institutionen:
   - SRF
   - Verfassungsschutz
+  - AfD
+  - CDU
+  - Uni Halle
   - Bundesverfassungsgericht
-  - Landtag
+  - SVP
+  - Landtag Sachsen-Anhalt
 gesetze_vorlagen: []
 these: >-
-  Der SRF-Beitrag über die Parlamentsreform in Magdeburg gegen die AfD ist ein
-  Beispiel für eine einseitige Berichterstattung, die die Interessen der
-  etablierten Parteien widerspiegelt.
+  Der SRF-Beitrag übernimmt unkritisch den deutschen publizistischen Konsens zur
+  AfD und blendet demokratietheoretische Kernfragen, die Rechtsnatur der
+  Verfassungsschutz-Einstufung sowie den Schweizer Gegenpol vollständig aus.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag über die Parlamentsreform in Magdeburg
-  gegen die AfD als einseitig und parteiisch. Der Beitrag übernimmt die Sprache
-  der etablierten Parteien und stellt die strukturellen Fragen nicht. Die Kritik
-  richtet sich gegen die mangelnde Distanz und die unzureichende Einordnung des
-  Themas.
+  Der Artikel analysiert einen SRF-Echo-der-Zeit-Beitrag über Parlamentsreformen
+  in Sachsen-Anhalt, die sich gegen die AfD richten. Kritisiert wird, dass der
+  Beitrag die Sprache der etablierten Parteien übernimmt, den Verfassungsschutz
+  als neutralen Gewährsmann behandelt, demokratietheoretische Fragen nicht
+  stellt und den Schweizer Vergleich zur SVP sowie internationale Vergleiche
+  ausblendet. Die präventive Entkopplung einer wahlstarken Oppositionspartei
+  werde als Demokratieschutz gerahmt, ohne die Ambivalenz zu thematisieren.
 quelle_datum: '2026-04-23'
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
-kritik_schwere: 2
+kritik_schwere: 3
 ---
 
 *Zum SRF-Beitrag *[«Parlament in Magdeburg macht sich resilienter gegen AfD»](https://www.srf.ch/news/international/sachsen-anhalt-parlament-in-magdeburg-macht-sich-resilienter-gegen-afd)* vom 23. April 2026*

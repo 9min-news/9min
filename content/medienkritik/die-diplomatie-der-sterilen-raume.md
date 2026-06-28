@@ -7,17 +7,17 @@ coverImage: 'https://pbs.twimg.com/media/HIqoIUzW0AAo_us.jpg'
 tweetId: '2056641113692197074'
 categories:
   - EU/Aussenpolitik
+  - Sicherheitspolitik
   - Gesellschaft
-  - Demokratie
 tags:
   - WHO
   - Bundesrat
-  - Baume-Schneider
   - Medienmitteilung
   - Diplomatie
   - Pandemieabkommen
+  - Patente
   - Standortförderung
-  - Genf
+  - Desinformation
 seo:
   description: >-
     Wie der Bundesrat die tiefste Krise der WHO in einen bürokratischen Erfolg
@@ -26,13 +26,12 @@ themen:
   - WHO-Krise und Vertrauensverlust
   - Pandemieabkommen und Patentstreit
   - Standortförderung Internationales Genf
-  - Desinformationsbegriff als Wahrheitsmonopol
-  - Multilaterale Diplomatie und Entpolitisierung
-kritisiertes_medium: EDI
+  - Behördenkommunikation und Entpolitisierung
+kritisiertes_medium: Bundesrat
 kritisierter_beitrag: >-
   Bundesrätin Elisabeth Baume-Schneider hat die Weltgesundheitsversammlung
   eröffnet
-kritisierter_autor: ''
+kritisierter_autor: Elisabeth Baume-Schneider
 kritik_typ:
   - Auslassung
   - Framing
@@ -41,28 +40,26 @@ personen:
   - Elisabeth Baume-Schneider
 institutionen:
   - WHO
-  - EDI
   - Bundesrat
-  - Internationales Genf
+  - EDI
   - USA
   - Argentinien
   - China
+  - Internationales Genf
 gesetze_vorlagen:
   - WHO-Pandemieabkommen
-  - Anhang zum Pandemieabkommen
 these: >-
   Die Medienmitteilung des Bundesrates zur WHO-Weltgesundheitsversammlung
-  blendet die geopolitische Krise der Organisation systematisch aus und
-  degradiert den globalen Machtkampf um Patente und Souveränität zur
-  bürokratischen Standortförderung für Genf.
+  blendet die geopolitische Krise der Organisation aus, entpolitisiert sie zur
+  «technischen Instanz» und dient primär der Standortförderung Genfs.
 zusammenfassung: >-
-  Der Artikel kritisiert die Medienmitteilung des EDI zur Eröffnung der
-  Weltgesundheitsversammlung als systematische Ausblendung der tiefen
-  Vertrauenskrise der WHO. Der Bundesrat verschweige die Ursachen des
-  Budgetrückgangs, deute das Scheitern des Pandemieabkommens als harmlose
-  Fristverlängerung um und stilisiere die hochpolitische Organisation als
-  neutrale «technische Instanz». Letztlich diene die Verteidigung der WHO primär
-  der Standortförderung des Internationalen Genf.
+  Der Artikel kritisiert die Medienmitteilung des EDI vom 18. Mai 2026 als
+  diplomatische Echokammer, die die tiefe Vertrauenskrise der WHO verschweigt,
+  das Scheitern des Pandemieabkommens als «Verlängerung» verharmlost und die
+  hochpolitische Organisation als neutrale «technische Instanz» darstellt. Die
+  Schweiz nutze die Kommunikation zur Standortförderung Genfs und baue ein
+  gefährliches Wahrheitsmonopol gegen «Desinformation» auf, statt die drängenden
+  Reformfragen zu stellen.
 quelle_datum: '2026-05-18'
 quelle_format: Online-Artikel
 quelle_sendung: ''

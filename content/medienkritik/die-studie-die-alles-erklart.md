@@ -6,16 +6,18 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HILG3J7XcAApzm4.jpg'
 tweetId: '2054423115480871362'
 categories:
-  - Gesellschaft
+  - SRF/SRG
   - Wirtschaft
-  - Medienrecht
+  - Gesellschaft
 tags:
-  - SRF
   - Unisanté
-  - Studie
-  - Kosten-Wirkungs-Verhältnis
-  - Gesundheitswesen
-  - Reform
+  - Psychotherapie
+  - Krankenkassenprämien
+  - Meta-Analyse
+  - Framing
+  - Asymmetrie
+  - Investitionsnarrativ
+  - Mittelstand
 seo:
   description: >-
     Zum SRF-Beitrag «Studie: Höhere Krankenkassen-Kosten lohnen sich», 12. Mai
@@ -23,15 +25,17 @@ seo:
     Unisanté…
 themen:
   - Gesundheitskosten
-  - Psychotherapie
+  - Psychotherapie-Reform 2022
+  - Meta-Analyse-Methodik
   - Krankenkassenprämien
-kritisiertes_medium: SRF
+  - Wissenschaftskommunikation
+kritisiertes_medium: SRF News
 kritisierter_beitrag: 'Studie: Höhere Krankenkassen-Kosten lohnen sich'
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
   - Framing
-  - Kontextmangel
+  - Selektion
 personen:
   - Mauricio Avendano
   - Philippe Nantermod
@@ -39,18 +43,23 @@ institutionen:
   - SRF
   - Unisanté
   - FDP
-gesetze_vorlagen: []
+  - Comparis
+gesetze_vorlagen:
+  - Psychotherapie-Reform 2022
 these: >-
-  Die Studie, die die Kostensteigerung für Psychotherapie rechtfertigt, ist
-  methodisch fragwürdig und dient als Legitimation für politische
-  Entscheidungen.
+  SRF nutzt eine methodisch fragwürdige Unisanté-Meta-Analyse mit nur einer
+  Schweizer Studie, um die durch die Psychotherapie-Reform verursachten
+  Kostensteigerungen als Investition zu legitimieren und kritische Gegenstimmen
+  asymmetrisch abzufertigen.
 zusammenfassung: >-
-  Der Artikel kritisiert einen SRF-Beitrag, der eine Studie präsentiert, die die
-  Kostensteigerung für Psychotherapie rechtfertigt. Die Studie wird als
-  methodisch fragwürdig und als Legitimation für politische Entscheidungen
-  angesehen. Der Artikel argumentiert, dass die Studie nicht die spezifische
-  Schweizer Reform evaluiert, sondern eine generelle Aussage über Psychotherapie
-  macht.
+  Der 9min-Artikel kritisiert einen SRF-Beitrag, der eine Unisanté-Studie zur
+  Kosteneffizienz von Psychotherapie unkritisch als Rechtfertigung der
+  75-prozentigen Kostensteigerung seit der Reform 2022 präsentiert. Bemängelt
+  werden die methodische Übertragung von 137 ausländischen Studien auf das
+  Schweizer System, die fehlende Differenzierung zwischen Umverteilung und
+  echter Ersparnis, die asymmetrische Behandlung des Kritikers Nantermod
+  gegenüber dem Studienautor Avendano sowie die Einbettung in eine
+  Tageskomposition, die Kostensteigerungen als Investitionen normalisiert.
 quelle_datum: '2026-05-12'
 quelle_format: Online-Artikel
 quelle_sendung: ''

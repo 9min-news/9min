@@ -8,17 +8,17 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHxsWh-XQAEJlU0.jpg'
 tweetId: '2052634945193926757'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Klima/Energie
 tags:
-  - SRF
-  - GLAMOS
   - Gletscher
-  - Schnee
+  - Schneemessung
+  - Variabilität
+  - Framing
+  - GLAMOS
+  - Referenzperiode
+  - Blockgletscher
   - Klima
-  - Wissenschaft
-  - Journalismus
-  - Medienkritik
 seo:
   description: >-
     Zur SRF-Berichterstattung «Wenig Schnee auf Schweizer Gletschern», 8. Mai
@@ -26,33 +26,39 @@ seo:
     Schweizer…
 themen:
   - Gletscherschmelze
-  - Klimawandel
-  - Medienkritik
+  - Klimaberichterstattung
+  - Datenvisualisierung
+  - Referenzperioden
   - Wissenschaftsjournalismus
-kritisiertes_medium: SRF
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Wenig Schnee auf Schweizer Gletschern
 kritisierter_autor: ''
 kritik_typ:
   - Framing
   - Auslassung
-  - Fehlinformation
+  - Kontextmangel
 personen:
   - Matthias Huss
 institutionen:
   - SRF
   - GLAMOS
-gesetze_vorlagen: []
+  - Klima-Seniorinnen
+  - EGMR
+gesetze_vorlagen:
+  - Klima-Seniorinnen-Urteil (EGMR 2024)
 these: >-
-  Die SRF-Berichterstattung über die GLAMOS-Frühjahrsmessung ist einseitig und
-  dramatisiert die Situation, ohne die Variabilität der Daten zu
-  berücksichtigen.
+  SRF dramatisiert eine einzelne saisonale Schneemessung zu einer
+  Niedergangsgeschichte, während die eigene Grafik hohe Jahresvariabilität zeigt
+  und der aktuelle Wert im negativen Mittelfeld liegt.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRF-Berichterstattung über die
-  GLAMOS-Frühjahrsmessung, die die Situation der Gletscherschmelze dramatisiert
-  und die Variabilität der Daten nicht berücksichtigt. Die Grafik, die SRF
-  publiziert, zeigt eine andere Geschichte als der Text, nämlich eine Geschichte
-  starker Schwankungen mit guten und schlechten Jahren. Der Artikel fordert eine
-  ausgewogenere Berichterstattung, die die Komplexität der Daten berücksichtigt.
+  9min.ch kritisiert, dass der SRF-Artikel zur GLAMOS-Frühjahrsmessung eine
+  Dramatisierung betreibt, die nicht mit der im selben Artikel publizierten
+  Grafik übereinstimmt. Die Grafik zeige eine hohe Jahresvariabilität mit Werten
+  zwischen +32 und −33 Prozent und einen aktuellen Wert im negativen Mittelfeld,
+  während der Text einen linearen Niedergang suggeriere. Zudem fehle die
+  Einordnung der Referenzperiode, die Differenzierung zwischen Wetter und Klima
+  sowie zwischen Block- und Eisgletschern, und es werde ausschliesslich Matthias
+  Huss als Quelle zitiert.
 quelle_datum: '2026-05-08'
 quelle_format: Online-Artikel
 quelle_sendung: ''

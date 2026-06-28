@@ -6,28 +6,31 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJj6adGW4AMDHmZ.jpg'
 tweetId: '2060673104708301230'
 categories:
+  - SRF/SRG
   - Demokratie
-  - Medienrecht
-  - Zensur/Meinungsfreiheit
+  - Abstimmungen
 tags:
-  - SRF
   - Georg Lutz
   - Daniel Jositsch
   - SP
-  - Demokratie
-  - Medienkritik
-  - Politische Berichterstattung
+  - Nichtnomination
+  - Expertenrolle
+  - Polarisierung
+  - sozialliberal
+  - linksliberal
 seo:
   description: >-
     Georg Lutz ist Professor für Politologie. Er wird von SRF als Experte
     befragt, um die Nichtnomination von Daniel Jositsch «einzuordnen». Das tut
     er. Aber…
 themen:
-  - Medienkritik
-  - Politische Berichterstattung
-  - Demokratische Legitimität
-kritisiertes_medium: SRF
-kritisierter_beitrag: '«Die SP war schon immer links, früher gab es nur mehr Abweichler»'
+  - SP-Nichtnomination von Daniel Jositsch
+  - Rolle von Experten im öffentlichen Rundfunk
+  - Polarisierung als Mobilisierungsstrategie
+  - Demokratische Legitimität von Parteientscheiden
+  - Historische Einordnung der SP-Ausrichtung
+kritisiertes_medium: SRF News
+kritisierter_beitrag: '‹Die SP war schon immer links, früher gab es nur mehr Abweichler›'
 kritisierter_autor: Georg Lutz
 kritik_typ:
   - Framing
@@ -37,21 +40,33 @@ personen:
   - Georg Lutz
   - Daniel Jositsch
   - Jacqueline Badran
+  - Hermann Greulich
+  - Max Weber
+  - Hans-Peter Tschudi
+  - Willi Ritschard
+  - Ruth Dreifuss
 institutionen:
   - SRF
   - SP
+  - FDP
+  - EGMR
+  - UNRWA
+  - Bundesverfassung
+  - Parlament
 gesetze_vorlagen: []
 these: >-
-  Die SRF-Berichterstattung über die Nichtnomination von Daniel Jositsch durch
-  die SP normalisiert die ideologische Reinheit und verschweigt die
-  demokratischen Fragen.
+  SRF und Experte Georg Lutz normalisieren durch strategisches Framing und
+  fehlende Demokratiefragen die ideologische Säuberung der SP gegenüber ihrem
+  populärsten Politiker Jositsch.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRF-Berichterstattung über die Nichtnomination von
-  Daniel Jositsch durch die SP. Der Politologe Georg Lutz wird als Experte
-  befragt, aber seine Antworten normalisieren die ideologische Reinheit und
-  verschweigen die demokratischen Fragen. Die Berichterstattung konzentriert
-  sich auf die Persönlichkeit und die Positionen von Jositsch, anstatt die
-  demokratischen Implikationen der Entscheidung zu hinterfragen.
+  Der Artikel kritisiert den SRF-Beitrag zur Nichtnomination von Daniel Jositsch
+  durch die SP und die Einordnung durch Politologieprofessor Georg Lutz. SRF und
+  Lutz würden den Vorgang als innerparteiliches Strategieproblem darstellen,
+  statt die demokratische Legitimitätsfrage zu stellen, ob 109 Delegierte über
+  die Köpfe von 237'000 Wählern hinweg entscheiden dürfen. Zudem werde durch
+  Begriffsverschiebung von 'sozialliberal' zu 'linksliberal' und durch
+  historische Glättung der SP-Entwicklung ein Framing betrieben, das den
+  Ausschluss plausibilisiere.
 quelle_datum: '2026-05-29'
 quelle_format: Online-Artikel
 quelle_sendung: ''

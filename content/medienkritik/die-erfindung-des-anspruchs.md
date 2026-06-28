@@ -6,30 +6,35 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIqqpHrWYAA3njg.jpg'
 tweetId: '2056643909485212131'
 categories:
-  - Gesellschaft
+  - SRF/SRG
+  - Migration
   - Wirtschaft
 tags:
-  - SRF
-  - Sozialstaat
-  - Flüchtlinge
-  - Ukraine
-  - Asylsozialhilfe
-  - Medienkritik
+  - Status S
+  - Sozialhilfe
+  - Ukraine-Flüchtlinge
+  - Framing
+  - Selektion
+  - Sozialindustrie
+  - Steuerzahler
+  - Bundesrat
 seo:
   description: >-
     Wie SRF einen Leistungsausbau zum Besitzstand erklärt — und den Schutz der
     Steuerzahler zum Angriff auf Kinder umdeutet Zum SRF-Beitrag «Kantone…
 themen:
-  - Sozialhilfe
-  - Flüchtlingspolitik
-  - Medienberichterstattung
-kritisiertes_medium: SRF
+  - Sozialhilfe für Ukraine-Flüchtlinge
+  - Status S und temporärer Schutz
+  - Framing von Leistungsausbau als Besitzstand
+  - Einseitige Quellenwahl bei SRF
+  - Steuerzahlerbelastung durch Sozialstaatsausbau
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Kantone befürchten wegen Ukraine-Flüchtlingen hohe Mehrkosten
 kritisierter_autor: ''
 kritik_typ:
   - Framing
-  - Fehlinformation
   - Selektion
+  - Auslassung
 personen:
   - Beat Jans
   - Markus Kaufmann
@@ -37,21 +42,27 @@ personen:
   - Tobias Fritschi
 institutionen:
   - SRF
+  - Skos
+  - Schweizerische Flüchtlingshilfe (SFH)
+  - Berner Fachhochschule
   - Bundesrat
-  - Schweizerische Konferenz für Sozialhilfe
-  - Schweizerische Flüchtlingshilfe
+  - Kantone
+  - Gemeinden
 gesetze_vorlagen:
-  - Asylgesetz
+  - Status S
 these: >-
-  Der SRF-Beitrag über die Sozialhilfe für Ukraine-Flüchtlinge ist tendenziös
-  und irreführend.
+  SRF framet den Stop eines automatischen Sozialhilfe-Ausbaus als Enteignung von
+  Flüchtlingen, verschweigt den temporären Charakter des Status S und überlässt
+  die Deutungshoheit einseitig der Sozialindustrie.
 zusammenfassung: >-
-  Der Artikel kritisiert die Berichterstattung des SRF über die Sozialhilfe für
-  Ukraine-Flüchtlinge. Der SRF-Beitrag wird als tendenziös und irreführend
-  bezeichnet, da er den Verzicht auf eine Leistungserhöhung als Enteignung
-  umdeutet und die 300 Millionen Franken Mehrkosten für die Steuerzahler mit dem
-  Argument wegwischt, dass sonst die Kinder nicht mehr in den Fussballverein
-  könnten.
+  Der 9min-Artikel kritisiert, dass SRF die Verhinderung eines automatischen
+  Übergangs von 50'000 Ukraine-Flüchtlingen in die reguläre Sozialhilfe als 'auf
+  Kosten der Geflüchteten' framet und damit einen Leistungsausbau zum
+  Besitzstand umdeutet. SRF verschweige den temporären, rückkehrorientierten
+  Charakter des Status S und beziehe nur Stimmen aus der Sozialindustrie (Skos,
+  SFH, Sozialprofessor), während bürgerliche Finanzpolitiker oder
+  Migrationskritiker fehlen. Die Debatte werde durch emotionale Argumente wie
+  den Fussballverein für Kinder manipulativ verzerrt.
 quelle_datum: '2026-05-18'
 quelle_format: Online-Artikel
 quelle_sendung: ''

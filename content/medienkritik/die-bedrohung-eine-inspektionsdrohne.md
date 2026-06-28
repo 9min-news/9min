@@ -6,58 +6,66 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HEvG_6IbUAAkm4O.jpg'
 tweetId: '2038943888400875602'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Sicherheitspolitik
 tags:
-  - SRF
-  - Drohnen
-  - Cyberangriffe
+  - DDoS
+  - Swissgrid
+  - Drohne
+  - Nachrichtendienst
   - Russland
   - China
-  - Sicherheitspolitik
-  - Medienkritik
+  - kritische Infrastruktur
+  - Cyberangriffe
 seo:
   description: >-
     SRF berichtet am 28. März über «Die Schweiz im Visier des hybriden
     russischen Kriegs». Der Titel ist gross. Der Beleg ist kleiner. Der Beitrag
     arbeitet…
 themen:
-  - Medienkritik
-  - Sicherheitsbedrohungen
-  - Hybrider Krieg
+  - Hybride Kriegsführung
+  - Sicherheitsberichterstattung
+  - Quellenkritik
+  - Bedrohungsnarrativ
 kritisiertes_medium: SRF
 kritisierter_beitrag: Die Schweiz im Visier des hybriden russischen Kriegs
-kritisierter_autor: ''
+kritisierter_autor: Françoise Weilhammer & Xavier Nicol
 kritik_typ:
-  - Framing
-  - Fehlinformation
+  - Selektion
+  - Auslassung
   - Kontextmangel
 personen:
   - Françoise Weilhammer
   - Xavier Nicol
+  - Mezzi
+  - Kaufmann
 institutionen:
   - SRF
-  - RTS
-  - Regierungsrat Kanton Aargau
-  - Swissgrid AG
-  - Europol
+  - Swissgrid
   - Nachrichtendienst des Bundes
+  - Europol
+  - Regierungsrat Kanton Aargau
+  - Polizei
+  - Armee
 gesetze_vorlagen: []
 these: >-
-  Der SRF-Beitrag über die Bedrohung durch den hybriden russischen Krieg ist
-  durch ungenaue Informationen und fehlende Einordnung gekennzeichnet.
+  SRF verdichtet verschiedenartige Phänomene zu einem Bedrohungsbild des
+  «hybriden russischen Kriegs», ohne Gewicht, Charakter und Evidenzgrad sauber
+  zu trennen und ohne die entlastende Stellungnahme von Swissgrid einzubeziehen.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag über die Bedrohung durch den hybriden
-  russischen Krieg, da er ungenaue Informationen und fehlende Einordnung
-  aufweist. Der Beitrag arbeitet fast ausschließlich mit Stimmen aus dem
-  Sicherheitsapparat und seinem Umfeld, ohne Gegenstimmen zu berücksichtigen.
-  Die Zahlen und Fakten werden nicht ausreichend einordnet, um ein klares Bild
-  der Bedrohung zu vermitteln.
+  Der Artikel kritisiert den SRF-Beitrag vom 28. März 2026, weil er fast
+  ausschliesslich mit Stimmen aus dem Sicherheitsapparat arbeitet, Gegenstimmen
+  fehlen und die entlastende Stellungnahme von Swissgrid zum Drohnenvorfall bei
+  Laufenburg weggelassen wird. Zudem werden Zahlen ohne Einordnung präsentiert
+  und unterschiedlich gewichtete Phänomene wie DDoS-Störungen,
+  nachrichtendienstliche Aktivität und ungeklärte Drohnenvorfälle unter dem
+  Sammelbegriff «hybrider Krieg» zu einem geschlossenen Bedrohungsgefühl
+  verdichtet.
 quelle_datum: '2026-03-28'
 quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
-kritik_schwere: 2
+kritik_schwere: 3
 ---
 
 SRF berichtet am 28. März über [«Die Schweiz im Visier des hybriden russischen Kriegs»](https://www.srf.ch/news/dialog/sicherheit-die-schweiz-im-visier-des-hybriden-russischen-kriegs). Der Titel ist gross. Der Beleg ist kleiner.

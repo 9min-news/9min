@@ -6,51 +6,61 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIlGxefW4AAgbOH.jpg'
 tweetId: '2056253444734795817'
 categories:
-  - Medienrecht
   - Migration
-  - Gesellschaft
+  - Demokratie
+  - SRF/SRG
 tags:
   - Familiennachzug
-  - Migration
-  - Integration
-  - Tages-Anzeiger
-  - Statistik
-  - Soziologie
+  - Heiratsmigration
+  - Kettenmigration
+  - Integrationskosten
+  - Statistik ohne Soziologie
   - SVP
   - Asylbereich
+  - Diaspora
 seo:
   description: >-
     Wie der Tages-Anzeiger die Familiennachzugs-Debatte entschärft — indem er
     die entscheidende Frage nach der Qualität der Migration durch die Quantität…
 themen:
   - Familiennachzug
-  - Migration
-  - Integration
+  - Heiratsmigration
+  - Migrationsstatistik
+  - Integrationskosten
+  - Kettenmigration
 kritisiertes_medium: Tages-Anzeiger
 kritisierter_beitrag: Wie viele Menschen kommen wirklich via Familiennachzug in die Schweiz?
 kritisierter_autor: ''
 kritik_typ:
-  - Auslassung
   - Framing
+  - Auslassung
   - Kontextmangel
 personen:
   - Thomas Matter
 institutionen:
   - Tages-Anzeiger
-  - Staatssekretariat für Migration (SEM)
+  - Staatssekretariat für Migration
+  - SRF
   - SVP
+  - EU
 gesetze_vorlagen:
-  - EU-Recht
+  - 10-Millionen-Initiative
+  - SVP-Vorschläge zum Familiennachzug
+  - EU-Recht zum Familiennachzug
 these: >-
-  Der Tages-Anzeiger entschärft die Familiennachzugs-Debatte, indem er die
-  entscheidende Frage nach der Qualität der Migration durch die Quantität
-  ersetzt.
+  Der Tages-Anzeiger ersetzt die entscheidende Frage nach der Qualität der
+  Migration durch die Quantität und beruhigt so eine Debatte, die soziologisch
+  aufgeklärt werden müsste.
 zusammenfassung: >-
-  Der Artikel kritisiert den Tages-Anzeiger für seine Berichterstattung über den
-  Familiennachzug. Der Tages-Anzeiger habe die entscheidende Frage nach der
-  Qualität der Migration nicht gestellt und sich stattdessen auf die Quantität
-  konzentriert. Der Artikel argumentiert, dass die Statistik ohne Soziologie die
-  Debatte verzerrt und die Leser nicht aufklärt.
+  9min.ch kritisiert einen exklusiven Datenbeitrag des Tages-Anzeigers zum
+  Familiennachzug, weil er zwar Köpfe zähle, aber die soziologische Qualität der
+  Migration ignoriere. Der Beitrag lenke auf den kleinen Asylbereich ab,
+  verkenne den Multiplikatoreffekt der Nachzugsquote von 45–73 Prozent,
+  beschreibe Heiratsmigration ohne ihre integrationspolitischen Konsequenzen zu
+  benennen und nenne 50'000 Nachzüge pro Jahr fälschlich «begrenzt». Die
+  Grammatik der Beruhigung verzerrre die Debatte um die 10-Millionen-Initiative
+  und die SVP-Vorschläge, statt sie mit Daten zu Integrationskosten,
+  Erwerbsquoten und Sozialhilfeabhängigkeit zu qualifizieren.
 quelle_datum: '2026-05-18'
 quelle_format: Online-Artikel
 quelle_sendung: ''

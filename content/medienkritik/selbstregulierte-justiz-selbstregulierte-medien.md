@@ -6,64 +6,85 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHs_KxMW8AEsCtC.jpg'
 tweetId: '2052303714501698024'
 categories:
-  - Medienrecht
-  - Gesellschaft
+  - SRF/SRG
   - Demokratie
+  - Gesellschaft
 tags:
   - SRF
   - Weltwoche
   - Bundesgericht
-  - Selbstregulierung
-  - Medienkritik
-  - Justizskandal
   - Donzallaz
-  - van de Graaf
+  - Verwaltungskommission
+  - Selbstregulierung
+  - Behördenpropaganda
+  - Revisionsgrund
 seo:
   description: >-
     Zur SRF-Berichterstattung «Bundesrichter können trotz Fehler nicht entlassen
     werden», 1. Mai 2026 — und zur Aufdeckung der «Weltwoche» Was SRF berichtet…
 themen:
-  - Selbstregulierung
-  - Medienkritik
-  - Justizskandal
-kritisiertes_medium: SRF
+  - Bundesgerichtsaffäre Donzallaz/van de Graaf
+  - Medienberichterstattung und Aufdeckungsjournalismus
+  - Justizaufsicht und Selbstregulierung
+  - Institutionelle Befangenheit am Bundesgericht
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Bundesrichter können trotz Fehler nicht entlassen werden
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
+  - Behördenpropaganda
   - Framing
-  - Kontextmangel
 personen:
   - Yves Donzallaz
   - Beatrice van de Graaf
   - Christoph Mörgeli
+  - Thomas Stadelmann
+  - Benjamin Schindler
+  - Lorenz Langer
   - Pascal Schmid
   - Leo Müller
   - Jessica Jaccoud
+  - Karl Spühler
+  - Niklaus Oberholzer
+  - Hansjörg Seiler
 institutionen:
   - SRF
-  - Weltwoche
   - Bundesgericht
-  - Verwaltungskommission
+  - Weltwoche
+  - Verwaltungskommission des Bundesgerichts
+  - Bundesstrafgericht
+  - Bundesverwaltungsgericht
+  - Europäischer Gerichtshof für Menschenrechte
+  - SVP
+  - Mitte
+  - SP
+  - EU
+  - UBS
 gesetze_vorlagen:
-  - Bundesgerichtsgesetz
+  - Bundesgerichtsgesetz Art. 8
+  - Bundesgerichtsgesetz Art. 121
+  - Ausschaffungsinitiative
+  - Masseneinwanderungsinitiative
+  - Personenfreizügigkeitsabkommen
+  - EMRK
 these: >-
-  Die SRF-Berichterstattung über den Justizskandal um Bundesrichter Yves
-  Donzallaz und Beatrice van de Graaf ist unkritisch und übernimmt die
-  Selbstauskunft des Bundesgerichts ohne externe Überprüfung.
+  SRF neutralisiert durch selektive Übernahme offiziell bestätigter Fakten und
+  Auslassung der institutionellen Substanz eine Staatsaffäre zu einer harmlosen
+  Reformdebatte.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRF-Berichterstattung über den Justizskandal um
-  Bundesrichter Yves Donzallaz und Beatrice van de Graaf. Die
-  SRF-Berichterstattung übernimmt die Selbstauskunft des Bundesgerichts ohne
-  externe Überprüfung und konzentriert sich auf die Reformdebatte, anstatt die
-  konkreten Fakten und institutionellen Folgen des Skandals aufzudecken. Im
-  Gegensatz dazu liefert die Weltwoche eine detaillierte Recherche, die die
-  politische Dimension und die journalistischen Zweifel an der Selbstauskunft
-  des Gerichts aufnimmt.
+  Der Artikel analysiert die SRF-Berichterstattung über eine verbotene
+  Liebesbeziehung am Bundesgericht und vergleicht sie mit der
+  Weltwoche-Recherche von Christoph Mörgeli. Während die Weltwoche Namen,
+  Funktionen, juristische Einordnung und institutionelle Folgen dokumentiert,
+  übernimmt SRF nur die offizielle Selbstauskunft des Bundesgerichts und lässt
+  wesentliche Fakten wie die Verwaltungskommissions-Mehrheit, die
+  Stadelmann-Sanktion und die Revisionsproblematik weg. Die Kritik zeigt, dass
+  SRF die externe Überprüfung der Behördenkommunikation unterlässt und die
+  Affäre zu einer abstrakten Reformdebatte umdeutet.
 quelle_datum: '2026-05-01'
-quelle_format: Online-Artikel
-quelle_sendung: ''
-quelle_redaktion: ''
+quelle_format: Broadcast
+quelle_sendung: Rendez-vous / Tagesschau
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

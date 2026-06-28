@@ -6,58 +6,65 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHifVhwWMAEn4jR.jpg'
 tweetId: '2051564850577371364'
 categories:
+  - SRF/SRG
+  - Migration
   - Gesellschaft
-  - Migration
 tags:
-  - SRF
   - Echo der Zeit
-  - Gymnasium Hofwil
-  - Migration
-  - Gewalt an Frauen
-  - Medienkritik
-  - Schweiz
+  - Hofwil
+  - Gymnasium
+  - Selektion
+  - Repräsentativität
+  - Migrationsanteil
+  - SVP-Initiative
+  - Filterblase
 seo:
   description: >-
     Ergänzung zum Artikel «Drei Gymnasiastinnen, ein politischer Auftrag» zu
     «Wie drei Gymnasiastinnen über Gewalt an Frauen denken» vom Echo der Zeit,
     3. Mai…
 themen:
-  - Schulwahl
-  - Gewalt an Frauen
-  - Migration
-  - Medienkritik
-kritisiertes_medium: SRF
-kritisierter_beitrag: 'Drei Gymnasiastinnen, ein politischer Auftrag'
+  - Repräsentativität der Quellenwahl
+  - Selektive Schulrealität vs. Volksschulrealität
+  - Gewalt gegen Frauen und kulturelle Faktoren
+  - Filterblasen in der Berichterstattung
+  - Politischer Kontext der Migrationsdebatte
+kritisiertes_medium: SRF Echo der Zeit
+kritisierter_beitrag: Wie drei Gymnasiastinnen über Gewalt an Frauen denken
 kritisierter_autor: ''
 kritik_typ:
-  - Auslassung
-  - Framing
   - Selektion
+  - Framing
+  - Kontextmangel
 personen:
   - Ayda
   - Clio
   - Selina
 institutionen:
   - SRF
+  - Echo der Zeit
   - Gymnasium Hofwil
+  - SVP
+  - Volksschulen Stadt Zürich
 gesetze_vorlagen:
   - SVP-Initiative gegen die 10-Millionen-Schweiz
 these: >-
-  Der SRF-Beitrag konstruiert eine unrepräsentative Realität, indem er drei
-  Schülerinnen aus einer selektiven Schule auswählt, um die Botschaft zu
-  transportieren, dass kulturelle Faktoren bei der Gewalt gegen Frauen kein
-  Thema seien.
+  SRF wählt gezielt Schülerinnen aus einer privilegierten, selektiven
+  Bildungsinstitution aus, um eine politisch gewünschte Botschaft zu
+  transportieren, die der Realität in Schweizer Volksschulen widerspricht.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag, der drei Schülerinnen aus dem
-  Gymnasium Hofwil auswählt, um über Gewalt an Frauen zu sprechen. Der Autor
-  argumentiert, dass diese Schule nicht repräsentativ für die Schweizer Realität
-  sei und dass die Auswahl der Stimmen tendenziös sei. Der Beitrag wird als
-  Konstruktion einer unrepräsentativen Realität gesehen, die die Probleme von
-  Migration und Gewalt an Frauen ignoriert.
+  Der Artikel kritisiert, dass SRF im Echo der Zeit drei Gymnasiastinnen aus dem
+  selektiven Gymnasium Hofwil als Stimmen der Schweizer Jugend präsentiert,
+  obwohl deren Lebenswelt nicht repräsentativ ist. Die Auswahl werde genutzt, um
+  kulturelle Faktoren bei Gewalt gegen Frauen als 'politisches Narrativ'
+  abzutun, während Volksschulen mit hohem Migrationsanteil andere Realitäten
+  erleben. Die Schulwahl selbst wird als Teil der politischen Konstruktion
+  gedeutet, die im Kontext der Debatte um die SVP-Initiative gegen die
+  10-Millionen-Schweiz eine migrationsfreundliche Position stütze.
 quelle_datum: '2026-05-03'
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
-quelle_redaktion: SRF
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

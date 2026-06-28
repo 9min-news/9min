@@ -6,17 +6,18 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIGPXsaXcAA_led.jpg'
 tweetId: '2054080671673471196'
 categories:
-  - Gesellschaft
+  - SRF/SRG
   - Wirtschaft
-  - Medienrecht
+  - Gesellschaft
 tags:
-  - SRF
   - Comparis
-  - Krankenkassen
-  - Prämien
-  - Gesundheitskosten
-  - Medienkritik
-  - Journalismus
+  - Felix Schneuwly
+  - Kostenwahrheit
+  - Prämienanstieg
+  - Interessenkonflikt
+  - Framing
+  - Kumulative Belastung
+  - Resignationspädagogik
 seo:
   description: >-
     Zum SRF-Beitrag «Comparis-Prognose: Anstieg der Krankenkassenprämien flacht
@@ -25,33 +26,42 @@ seo:
 themen:
   - Krankenkassenprämien
   - Gesundheitskosten
-  - Medienkritik
-kritisiertes_medium: SRF
+  - Interessenkonflikte in der Berichterstattung
+  - Mittelstandsbelastung
+  - Comparis als Quelle
+kritisiertes_medium: SRF News
 kritisierter_beitrag: 'Comparis-Prognose: Anstieg der Krankenkassenprämien flacht ab'
 kritisierter_autor: ''
 kritik_typ:
+  - Interessenkonflikt
   - Framing
   - Auslassung
-  - Kontextmangel
 personen:
   - Felix Schneuwly
 institutionen:
   - SRF
   - Comparis
-gesetze_vorlagen: []
+  - EFK
+  - Bundesasylzentren
+  - Krankenkassen
+  - Spitex
+  - Pharmaindustrie
+  - Parlament
+  - Kantone
+gesetze_vorlagen:
+  - Pflegeinitiative
 these: >-
-  Der SRF-Beitrag über die Comparis-Prognose zur Krankenkassenprämienentwicklung
-  ist kritikwürdig, da er die Interessenlage des Vergleichsdienstes nicht
-  offengelegt und die kumulative Rechnung der Prämiensteigerung nicht
-  thematisiert.
+  SRF transportiert unkritisch eine Comparis-Pressemitteilung als Prognose,
+  verschweigt den kommerziellen Interessenkonflikt des Vergleichsdienstes und
+  rahmt kumulative Prämienerhöhungen von über 30 Prozent als «Bewegung in
+  Richtung Kostenwahrheit».
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag über die Comparis-Prognose zur
-  Krankenkassenprämienentwicklung. Der Beitrag wird als oberflächlich und
-  folgenlos bezeichnet, da er die Interessenlage des Vergleichsdienstes nicht
-  offengelegt und die kumulative Rechnung der Prämiensteigerung nicht
-  thematisiert. Der Artikel argumentiert, dass die Berichterstattung des SRF die
-  Verbindungen zwischen den Themen nicht zieht und die Fragen, warum die Prämien
-  steigen, wer profitiert und wer entscheidet, nicht stellt.
+  Der Artikel kritisiert, dass SRF eine Comparis-Pressemitteilung zur
+  Prämienerhöhung 2027 unkritisch übernimmt, ohne die kommerziellen Interessen
+  des Vergleichsdienstes offenzulegen. Die kumulative Belastung von über 30
+  Prozent in fünf Jahren werde ebenso ausgeblendet wie strukturelle Ursachen und
+  politische Verantwortlichkeiten. Die Berichterstattung funktioniere als
+  Beruhigung und Resignationspädagogik statt als Analyse.
 quelle_datum: '2026-05-12'
 quelle_format: Online-Artikel
 quelle_sendung: ''

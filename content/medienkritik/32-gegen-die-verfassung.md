@@ -6,31 +6,31 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HGbORdmXkAAYARU.jpg'
 tweetId: '2046550147471937574'
 categories:
+  - Abstimmungen
+  - SRF/SRG
   - Demokratie
-  - Medienrecht
-  - Zensur/Meinungsfreiheit
 tags:
-  - E-ID
-  - Abstimmung
   - Bundesgericht
-  - Verfassungswidrigkeit
-  - Medien
-  - Demokratie
-  - Transparenz
+  - E-ID
+  - Swisscom
   - Kampagnenfinanzierung
+  - Verfassungswidrigkeit
+  - Behördenpropaganda
+  - Transparenzregeln
+  - Abstimmungsdemokratie
 seo:
   description: >-
     Zum SRF-Beitrag «E-ID-Abstimmung muss nicht wiederholt werden» vom 21. April
     2026 Am Morgen war noch offen, wie das Bundesgericht entscheiden würde. Am…
 themen:
-  - E-ID-Abstimmung
-  - Bundesgerichtsurteil
-  - Verfassungswidrigkeit
-  - Medienzuwendungen
-  - Abstimmungsdemokratie
-kritisiertes_medium: SRF
+  - Bundesgerichtsurteil E-ID
+  - Kampagnenfinanzierung
+  - Verfassungswidrigkeit Swisscom-Spende
+  - Medienzuwendungen Ringier/TX Group
+  - Freiwilligkeit der E-ID
+kritisiertes_medium: SRF News
 kritisierter_beitrag: E-ID-Abstimmung muss nicht wiederholt werden
-kritisierter_autor: ''
+kritisierter_autor: Sibilla Bondolfi
 kritik_typ:
   - Auslassung
   - Framing
@@ -38,30 +38,30 @@ kritik_typ:
 personen:
   - Sibilla Bondolfi
 institutionen:
-  - Bundesgericht
   - SRF
+  - Bundesgericht
   - Swisscom
   - Ringier
   - TX Group
 gesetze_vorlagen:
-  - Verfassung
+  - E-ID-Abstimmung
 these: >-
-  Das Bundesgerichtsurteil zur E-ID-Abstimmung ist ein Beispiel für eine
-  fehlende Transparenz und eine Verletzung der Verfassung, die durch die Medien
-  nicht ausreichend thematisiert wird.
+  Der SRF-Beitrag meldet das Bundesgerichtsurteil korrekt, versteckt aber die
+  zentrale Sensation — dass zwei Richter die Swisscom-Spende als
+  verfassungswidrig einstuften — in einer Infobox, statt sie zur Schlagzeile zu
+  machen.
 zusammenfassung: >-
-  Das Bundesgericht hat entschieden, dass die E-ID-Abstimmung nicht wiederholt
-  werden muss, obwohl zwei Richter die Swisscom-Spende für verfassungswidrig
-  hielten. Der SRF-Beitrag meldet dies korrekt, aber ohne die Bedeutung des
-  Urteils ausreichend zu thematisieren. Die Abstimmungsdemokratie in der Schweiz
-  ist durch solche Urteile gefährdet, da bundesnahe Betriebe und Medienhäuser
-  sich in Abstimmungskämpfe einmischen können, ohne rechtliche Konsequenzen zu
-  befürchten.
+  9min.ch kritisiert den SRF-Beitrag zum Bundesgerichtsurteil zur
+  E-ID-Abstimmung vom 21. April 2026. Der Beitrag melde das Ergebnis korrekt,
+  verberge aber die verfassungsrechtliche Brisanz: Zwei von fünf Bundesrichtern
+  stuften die Swisscom-Spende als verfassungswidrig ein, was jedoch nur in einer
+  Infobox erwähnt werde. Zudem fehle eine kritische Auseinandersetzung mit den
+  Versprechen der Freiwilligkeit und Kostenlosigkeit der E-ID.
 quelle_datum: '2026-04-21'
 quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
-kritik_schwere: 2
+kritik_schwere: 3
 ---
 
 *Zum SRF-Beitrag *[«E-ID-Abstimmung muss nicht wiederholt werden»](https://www.srf.ch/news/schweiz/digitale-identitaetskarte-e-id-abstimmung-muss-nicht-wiederholt-werden) *vom 21. April 2026*

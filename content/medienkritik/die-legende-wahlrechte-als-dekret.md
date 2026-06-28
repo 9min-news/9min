@@ -6,57 +6,59 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HEzMjJFWMAA_XbT.jpg'
 tweetId: '2039229866835312992'
 categories:
-  - Medienrecht
+  - SRF/SRG
+  - EU/Aussenpolitik
   - Demokratie
 tags:
-  - Wahlen
-  - USA
+  - Briefwahl
+  - Wahlrecht
   - Trump
-  - Briefwahl-Regeln
-  - Dekret
-  - Medien
-  - Journalismus
-  - Kritik
+  - USA
+  - Framing
+  - Legende
+  - Infobox
+  - Föderalismus
 seo:
   description: >-
     Der Dachzeiler fragt: «Faire Wahlen in den USA?» Der Text kennt die Antwort
     bereits: Nein. Trump «verschärft». Trump «behauptet». Trump habe «keine…
 themen:
-  - Wahlrechte
-  - Briefwahl
-  - Medienkritik
-  - Journalismus
+  - Briefwahl-Regeln USA
+  - Medienframing Wahlrecht
+  - Föderalismus und Wahlorganisation
+  - Trump-Dekret Einordnung
 kritisiertes_medium: SRF
 kritisierter_beitrag: Trump verschärft Briefwahl-Regeln per Dekret
 kritisierter_autor: ''
 kritik_typ:
   - Framing
   - Auslassung
-  - Einordnungsfehler
+  - Selektion
 personen:
   - Trump
 institutionen:
   - SRF
-  - Bundesstaaten
-  - US-Regierung
+  - Bundesstaaten USA
 gesetze_vorlagen:
-  - Bundesgesetz über die politischen Rechte (BPR)
-  - US Constitution
+  - Bundesgesetz über die politischen Rechte (BPR) Art. 5
+  - US Constitution Art. I §4 (Elections Clause)
 these: >-
-  Der SRF-Beitrag über Trumps Briefwahl-Regeln per Dekret ist durch methodische
-  Mängel und eine einseitige Darstellung gekennzeichnet.
+  SRF macht aus einer umstrittenen institutionellen Frage über Briefwahl-Regeln
+  eine erledigte Erzählung, indem es Fakten und Narrative vermischt, den
+  Schweizer Vergleich auslässt und nur eine Seite zu Wort kommen lässt.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag über Trumps Briefwahl-Regeln per Dekret
-  und bemängelt die einseitige Darstellung und methodische Mängel. Der Beitrag
-  wird als Beispiel für eine unzureichende journalistische Aufarbeitung von
-  komplexen Themen genannt. Die Kritik konzentriert sich auf die Auslassung
-  wichtiger Informationen, die einseitige Auswahl von Stimmen und die mangelnde
-  Distanz zum Material.
+  Der Artikel kritisiert einen SRF-Beitrag zu Trumps Briefwahl-Dekret, der die
+  Debatte durch das Redaktionswort «Legende» vorentscheide und dokumentierte
+  Unregelmässigkeiten, verschärfte Regeln nach 2020 sowie den föderalen
+  Streitstand auslasse. Ein Vergleich mit Schweizer Verwaltungsroutine fehle
+  bewusst, da er die Dramatik beschädigen würde. Zudem kämen nur Gegner des
+  Dekrets zu Wort, während legitime Argumente für engere Registrierung
+  ausgeblendet bleiben.
 quelle_datum: '2026-04-01'
 quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
-kritik_schwere: 2
+kritik_schwere: 3
 ---
 
 Der Dachzeiler fragt: «Faire Wahlen in den USA?» Der Text kennt die Antwort bereits: Nein.

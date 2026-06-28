@@ -8,35 +8,34 @@ tweetId: '2059588401196576974'
 categories:
   - SRF/SRG
   - Gesellschaft
-  - Demokratie
+  - Medienrecht
 tags:
   - virtuelle Vergewaltigung
   - digitale Gewalt
-  - Sprachrevolution
   - Deepfakes
   - Christian Ulmen
+  - Sprachrevolution
+  - Rubrikwahl
   - Unschuldsvermutung
-  - Begriffsentwertung
-  - Rubriksetzung
+  - Boulevardjournalismus
 seo:
   description: >-
     Vor einigen Tagen wurde gezeigt, wie SRF mit dem Oxymoron «digitale Gewalt»
     den Begriff der Gewalt entwertet, um den Ruf nach staatlichen
     Beratungsstellen…
 themen:
-  - Sprachkritik und Begriffsinflation
-  - Digitale Gewalt und Deepfakes
-  - Vorverurteilung und Unschuldsvermutung
-  - Boulevardjournalismus vs. Gesellschaftsberichterstattung
-kritisiertes_medium: SRF Kultur
-kritisierter_beitrag: >-
-  Verdacht auf häusliche Gewalt: Staatsanwaltschaft ermittelt gegen Christian
-  Ulmen
+  - Sprachmanipulation durch Medien
+  - Begriffsinflation bei Gewalt- und Sexualstraftaten
+  - Vorverurteilung im Promi-Fall
+  - Rubrikwahl als Framing-Instrument
+  - Boulevardjournalismus mit Gesellschafts-Feigenblatt
+kritisiertes_medium: SRF
+kritisierter_beitrag: Staatsanwaltschaft ermittelt gegen Christian Ulmen
 kritisierter_autor: ''
 kritik_typ:
   - Framing
   - Auslassung
-  - Kontextmangel
+  - Einordnungsfehler
 personen:
   - Christian Ulmen
 institutionen:
@@ -45,24 +44,22 @@ institutionen:
   - Staatsanwaltschaft Potsdam
 gesetze_vorlagen: []
 these: >-
-  SRF übernimmt den Begriff «virtuelle Vergewaltigung» unkritisch und betreibt
-  damit eine Sprachrevolution, die den Begriff der Vergewaltigung entwertet,
-  Opfer echter Gewalt verharmlost und eine Ausweitung des staatlichen Mandats
-  vorantreibt.
+  SRF betreibt durch die unkritische Übernahme des Begriffs «virtuelle
+  Vergewaltigung» eine Sprachrevolution, die Vergewaltigung entwertet, echte
+  Opfer verharmlost und die Logik staatlicher Ausweitung vorantreibt.
 zusammenfassung: >-
-  Der Artikel kritisiert, dass SRF in einem Beitrag über den deutschen
-  Schauspieler Christian Ulmen den Begriff «virtuelle Vergewaltigung» ohne
-  Anführungszeichen oder Distanz verwendet und damit eine sprachliche Eskalation
-  fortsetzt, die mit dem Oxymoron «digitale Gewalt» begann. Zudem wird
-  bemängelt, dass der Beitrag die Verteidigung Ulmens auslässt, die
-  Unschuldsvermutung nicht erwähnt und einen Einzelfall unter der Rubrik
-  «Gesellschaft & Religion» zum gesellschaftlichen Phänomen aufwertet. Der Autor
-  sieht darin Boulevardjournalismus mit Gesellschafts-Feigenblatt und eine
-  unkritierte Sprachrevolution zugunsten staatlicher Ausweitung.
+  Der 9min-Artikel kritisiert einen SRF-Beitrag über den deutschen Schauspieler
+  Christian Ulmen, der den Begriff «virtuelle Vergewaltigung» für KI-generierte
+  Deepfake-Videos ohne Distanzierung übernimmt. SRF platziert den Beitrag in der
+  Rubrik «Gesellschaft & Religion» statt als Kriminalbericht, nennt keine
+  Verteidigung oder Unschuldsvermutung und liefert keine Gegenstimmen zur
+  umstrittenen Begriffsbildung. 9min sieht darin eine Fortsetzung der zuvor
+  kritisierten «digitalen Gewalt»-Rhetorik, die den Weg für weitere staatliche
+  Regulierung und Strafausweitung bereitet.
 quelle_datum: '2026-05-27'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: SRF Kultur
+quelle_redaktion: Kultur - Gesellschaft & Religion
 kritik_schwere: 3
 ---
 

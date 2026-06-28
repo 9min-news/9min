@@ -6,54 +6,79 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HFPB3RfW8AAm2IE.jpg'
 tweetId: '2041188256704848219'
 categories:
+  - SRF/SRG
   - Demokratie
-  - Medienrecht
+  - Migration
   - EU/Aussenpolitik
 tags:
-  - Masseneinwanderungsinitiative
-  - Ausschaffungsinitiative
-  - Zweitwohnungsinitiative
-  - Alpeninitiative
+  - Volkswillen
+  - Verwässerung
+  - Parlament
   - SRF
-  - Adrian Vatter
-  - Demokratiemüdigkeit
+  - Auslassung
+  - Bilaterale
+  - Stellenmeldepflicht
+  - Verfassungsartikel 121a
 seo:
   description: >-
     Am 6. April 2026 publiziert @srfnews einen Beitrag mit dem Titel «Wie ist
     das genau mit den nicht-umgesetzten Initiativen?» Der Politologe Adrian
     Vatter…
 themen:
-  - Direkte Demokratie
-  - Volksinitiativen
-  - Umsetzung von Initiativen
-  - Schweizer Politik
-kritisiertes_medium: SRF
+  - Nicht-Umsetzung von Volksinitiativen
+  - Masseneinwanderungsinitiative
+  - Direkte Demokratie und Volkswillen
+  - Bilaterale Beziehungen EU
+  - Verfassungsgerichtsbarkeit
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Wie ist das genau mit den nicht-umgesetzten Initiativen?
 kritisierter_autor: Adrian Vatter
 kritik_typ:
   - Auslassung
   - Framing
+  - Selektion
 personen:
   - Adrian Vatter
+  - Ivo Scherrer
+  - Isabel Schuler
 institutionen:
   - SRF
   - Universität Bern
-  - Schweizer Parlament
+  - Parlament
+  - Bundesrat
+  - EU
+  - Pro Futuris
+  - SGG
+  - SVP
+  - Regionales Arbeitsvermittlungszentrum
 gesetze_vorlagen:
   - Masseneinwanderungsinitiative
   - Ausschaffungsinitiative
+  - Durchsetzungsinitiative
   - Zweitwohnungsinitiative
   - Alpeninitiative
+  - Konzernverantwortungsinitiative
+  - Klimafonds-Initiative
+  - 10-Millionen-Initiative
+  - Art. 121a BV
+  - AIG
+  - Bilaterale Verträge I
+  - Personenfreizügigkeitsabkommen
+  - EU-Richtlinie CSDDD
 these: >-
-  Die Schweizer Demokratie ist so gebaut, dass Volksinitiativen oft nicht
-  umgesetzt werden, weil das Parlament andere Interessen priorisiert.
+  SRF lässt in einem Beitrag über nicht-umgesetzte Initiativen das prominenteste
+  Beispiel, die Masseneinwanderungsinitiative, bewusst weg, weil deren
+  Nicht-Umsetzung die SVP-These stützen würde, dass das Parlament den
+  Volkswillen EU-Interessen unterordnet.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag über nicht-umgesetzte Initiativen, weil
-  er die Masseneinwanderungsinitiative nicht erwähnt. Der Autor argumentiert,
-  dass dies ein Beispiel für die Entmachtung des Souveräns ist, weil das
-  Parlament die Initiative nicht umgesetzt hat, obwohl sie angenommen wurde. Der
-  Artikel fordert mehr Transparenz und Verantwortung von den politischen
-  Institutionen.
+  Der 9min-Artikel kritisiert einen SRF-Beitrag, in dem Politologe Adrian Vatter
+  die Nicht-Umsetzung von Volksinitiativen als 'eingeplant' bezeichnet. SRF
+  nennt drei Beispiele verwässerter Initiativen, lässt aber die
+  Masseneinwanderungsinitiative weg, bei der das Parlament 2016 den klaren
+  Verfassungsartikel durch eine Stellenmeldepflicht ersetzte, um die Bilateralen
+  mit der EU zu schützen. Der Autor sieht darin eine redaktionelle Entscheidung,
+  um die SVP-These nicht zu validieren, und warnt vor einer Erosion des
+  Vertrauens in die direkte Demokratie.
 quelle_datum: '2026-04-06'
 quelle_format: Online-Artikel
 quelle_sendung: ''

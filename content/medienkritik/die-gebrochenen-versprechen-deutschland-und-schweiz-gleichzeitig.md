@@ -10,63 +10,66 @@ categories:
   - Demokratie
   - EU/Aussenpolitik
 tags:
-  - Personenfreizügigkeit
-  - Masseneinwanderungsinitiative
-  - Verfassungsbruch
-  - 10-Millionen-Initiative
   - Wortbruch
+  - Verfassungsbruch
+  - Masseneinwanderungsinitiative
+  - Personenfreizügigkeit
   - Selbstregulierung
   - Kontingente
-  - Bilateralen
+  - 10-Millionen-Initiative
+  - Volksentscheid
 seo:
   description: >-
     Im Mai 2002 warnte das CDU/CSU-Wahlprogramm, verstärkte Zuwanderung würde
     «den inneren Frieden gefährden und radikalen Kräften Vorschub leisten».…
 themen:
-  - Migrationspolitik
-  - Verfassungsauftrag und Volksentscheid
-  - Bilaterale Verträge
-  - Bevölkerungswachstum
-  - Wortbruch in der Politik
+  - Gebrochene Versprechen in der Migrationspolitik
+  - Nicht-Umsetzung der Masseneinwanderungsinitiative
+  - Personenfreizügigkeit und Zuwanderungsvolumen
+  - Nachhaltigkeitsinitiative als Konsequenz
+  - Vergleich Deutschland/Schweiz
 kritisiertes_medium: Parlament
-kritisierter_beitrag: Beschluss zur Stellenmeldepflicht statt Kontingenten (Dezember 2016)
+kritisierter_beitrag: >-
+  Nicht-Umsetzung der Masseneinwanderungsinitiative (Verfassungsartikel 121a)
+  durch Stellenmeldepflicht statt Kontingenten
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
-  - Behördenpropaganda
   - Framing
+  - Behördenpropaganda
 personen:
   - Angela Merkel
 institutionen:
   - CDU
   - CSU
-  - SVP
-  - EU
+  - AfD
   - Bundesrat
   - Economiesuisse
+  - SVP
   - Parlament
-  - AfD
+  - EU
   - Brüssel
+  - Arbeitsämter
 gesetze_vorlagen:
-  - Personenfreizügigkeitsabkommen
+  - Freizügigkeitsabkommen
   - Masseneinwanderungsinitiative
   - Verfassungsartikel 121a
-  - Begrenzungsinitiative
-  - Nachhaltigkeitsinitiative (Keine 10-Millionen-Schweiz)
+  - Begrenzungsinitiative 2020
+  - Nachhaltigkeitsinitiative
+  - CDU-Wahlprogramm 2002
+  - Stellenmeldepflicht
 these: >-
   Die 10-Millionen-Initiative ist die logische Konsequenz aus zwei Jahrzehnten
-  gebrochener Zusagen, bei denen das Schweizer Parlament einen
-  Verfassungsauftrag und Volksentscheid zugunsten der Bilateralen ignorierte.
+  gebrochener Zusagen in der Schweizer Migrationspolitik, bei denen das
+  Parlament einen Verfassungsauftrag des Volkes ignorierte.
 zusammenfassung: >-
-  Der Artikel vergleicht den Wortbruch der CDU von 2002 mit dem Schweizer
-  Versprechen der selbstregulierenden Zuwanderung ab 2002 und zeigt auf, dass
-  beide Versprechen gebrochen wurden. Er kritisiert, dass das Schweizer
-  Parlament den Verfassungsauftrag der Masseneinwanderungsinitiative von 2014
-  nie umsetzte und stattdessen die Aussenbeziehungen zur EU über den Willen der
-  Stimmbürger stellte. Die Nachhaltigkeitsinitiative wird als direkte Folge
-  dieses Verfassungsbruchs und des tiefen Misstrauens der Bevölkerung gegenüber
-  der politischen Führung interpretiert.
-quelle_datum: '2016-12-01'
+  Der Artikel vergleicht gebrochenen Versprechen in Deutschland (CDU-Programm
+  2002, Merkels 2015) und der Schweiz (Freizügigkeitsabkommen 2002). Er
+  kritisiert, dass das Schweizer Parlament den Verfassungsauftrag der
+  Masseneinwanderungsinitiative von 2014 nie umsetzte und das 2020-Votum als
+  Generalabsolution umdeutete. Die Nachhaltigkeitsinitiative wird als Folge des
+  Vertrauensverlusts in die politische Steuerungsfähigkeit interpretiert.
+quelle_datum: '2014-02-09'
 quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: ''

@@ -6,32 +6,34 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HI1hRVqXkAADepS.jpg'
 tweetId: '2057416911793561845'
 categories:
-  - Gesellschaft
-  - Medienrecht
+  - SRF/SRG
   - Wirtschaft
+  - Gesellschaft
 tags:
-  - Gesundheit
-  - Medien
-  - Kritik
-  - Patienten
-  - Expertensystem
-  - Freiheit
-  - Eigenverantwortung
+  - Gesundheitsmarkt
+  - Vorsorgeuntersuchungen
+  - SRF-Kritik
+  - Leitlinien
+  - Patientenfreiheit
+  - OECD-Zahl
+  - Falsch positive Befunde
+  - Systemkritik
 seo:
   description: >-
     Wie SRF den «Gesundheitsmarkt» kritisiert, ohne das System zu hinterfragen –
     und die Freiheit des Einzelnen dem Diktat der Leitlinie unterordnet Zum…
 themen:
-  - Gesundheitsmarkt
-  - Medienkritik
-  - Patientenrechte
-kritisiertes_medium: SRF
-kritisierter_beitrag: Zweifel am Nutzen vieler Vorsorgeuntersuchungen
+  - Gesundheitswesen und Vorsorgeuntersuchungen
+  - Markt vs. Regulierungsversagen
+  - Patientenautonomie vs. Leitliniendiktat
+  - Expertenautorität in der Gesundheitsberichterstattung
+kritisiertes_medium: SRF News
+kritisierter_beitrag: 'Gesundheit als Geschäft: Zweifel am Nutzen vieler Vorsorgeuntersuchungen'
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
   - Framing
-  - Kontextmangel
+  - Selektion
 personen:
   - Nicolas Rodondi
   - Sophie Lelorain
@@ -42,21 +44,25 @@ institutionen:
   - OECD
   - Smarter Medicine
   - Unisanté
+  - Krebsligen
 gesetze_vorlagen: []
 these: >-
-  Der SRF-Beitrag kritisiert den Gesundheitsmarkt, ohne das System zu
-  hinterfragen und die Freiheit des Einzelnen zu berücksichtigen.
+  SRF kritisiert den «Gesundheitsmarkt» als Symptom, ohne das zugrundeliegende
+  Regulierungsversagen zu thematisieren, und unterordnet die Freiheit des
+  mündigen Patienten dem Diktat medizinischer Leitlinien.
 zusammenfassung: >-
-  Der Artikel analysiert einen SRF-Beitrag, der den Gesundheitsmarkt kritisiert,
-  aber dabei die Freiheit des Einzelnen und die Eigenverantwortung der Patienten
-  nicht berücksichtigt. Der Beitrag wird als unvollständig und einseitig
-  kritisiert, da er die Expertenmeinung überbetont und die Patientenperspektive
-  vernachlässigt.
+  Der 9min-Artikel kritisiert einen SRF-Beitrag über unnötige
+  Vorsorgeuntersuchungen, der den «Gesundheitsmarkt» anklagt, ohne das
+  regulierte System zu hinterfragen, das ihn hervorbringt. SRF übernehme die
+  OECD-Zahl von 20% nutzloser Behandlungen unkritisch, frage nicht, wer «Nutzen»
+  definiert, und zitiere ausschliesslich Experten – nie Patienten. Die Freiheit
+  des Einzelnen, eigenverantwortlich über Gesundheitsrisiken zu entscheiden,
+  werde ausgeblendet.
 quelle_datum: '2026-05-21'
 quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
-kritik_schwere: 2
+kritik_schwere: 3
 ---
 
 *Wie SRF den «Gesundheitsmarkt» kritisiert, ohne das System zu hinterfragen – und die Freiheit des Einzelnen dem Diktat der Leitlinie unterordnet*

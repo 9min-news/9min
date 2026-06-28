@@ -6,32 +6,34 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIoI49wWUAEPQfO.jpg'
 tweetId: '2056465978997805497'
 categories:
-  - Medienrecht
+  - SRF/SRG
+  - EU/Aussenpolitik
   - Gesellschaft
-  - Wirtschaft
 tags:
-  - SRF
   - WHO
-  - Kritik
-  - Medien
-  - Gesundheit
-  - Politik
-  - Wissenschaft
+  - SRF
+  - Unschuldsvermutung
+  - Politisierung
+  - China
+  - Trump
+  - Tedros
+  - Gates Foundation
 seo:
   description: >-
     Wie SRF die WHO als technisches Opfer darstellt — und verschweigt, dass die
     Krise der Organisation nicht das Werk von Populisten ist, sondern die…
 themen:
-  - WHO-Kritik
-  - Medienberichterstattung
-  - Gesundheitspolitik
-kritisiertes_medium: SRF
+  - WHO-Krise und Vertrauensverlust
+  - Politisierung der WHO
+  - Medienkritik an SRF
+  - Finanzierung der WHO durch private Stiftungen
+kritisiertes_medium: SRF News
 kritisierter_beitrag: 'Wichtiger als je zuvor, aber arg geschwächt'
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
   - Framing
-  - Kontextmangel
+  - Behördenpropaganda
 personen:
   - Tedros
   - Mia Mottley
@@ -39,22 +41,28 @@ personen:
 institutionen:
   - WHO
   - SRF
-  - UNO
+  - USA
+  - Argentinien
+  - China
+  - Taiwan
   - Bill & Melinda Gates Foundation
   - Gavi
+  - UNO
 gesetze_vorlagen:
   - Pandemievertrag
 these: >-
-  Die WHO ist nicht nur Opfer von politischen Launen, sondern auch selbst
-  politisiert und hat Vertrauen verspielt durch ihre Handlungen während der
-  Pandemie.
+  SRF stilisiert die WHO zum unschuldigen technischen Opfer des Populismus und
+  verschweigt dabei, dass die Krise der Organisation die Konsequenz ihres
+  eigenen politischen Handelns, ihrer Nähe zu China und ihrer Abhängigkeit von
+  privaten Spendern ist.
 zusammenfassung: >-
-  Der Artikel kritisiert die Berichterstattung des SRF über die WHO und ihre
-  Krise. Der SRF stellt die WHO als Opfer von politischen Launen dar, ohne ihre
-  eigene politische Rolle und ihre Fehler während der Pandemie zu thematisieren.
-  Die Kritik konzentriert sich auf die Auslassung wichtiger Informationen und
-  die Framing der WHO als technische Organisation, obwohl sie tatsächlich
-  politische Entscheidungen trifft.
+  Der Artikel kritisiert den SRF-Beitrag zur WHO-Jahresversammlung als
+  einseitige Darstellung, die die WHO als rein technische, unpolitische
+  Organisation inszeniert und sie gegen Kritik immunisiert. SRF verschweige die
+  eigene Politisierung der WHO, ihre Versäumnisse bei Covid-19, die Gründe des
+  US-Austritts und die Abhängigkeit von privaten Stiftungen wie der Gates
+  Foundation. Damit erzeuge SRF eine Theologie der Unschuldsvermutung, die
+  Kritik an der WHO als Angriff auf die Wissenschaft diskreditiere.
 quelle_datum: '2026-05-18'
 quelle_format: Online-Artikel
 quelle_sendung: ''

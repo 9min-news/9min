@@ -6,56 +6,73 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HGqd-XyWcAArRDR.jpg'
 tweetId: '2047622758423461915'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Demokratie
+  - Zensur/Meinungsfreiheit
 tags:
-  - SRF
-  - Medienanalyse
-  - Journalistische Unabhängigkeit
-  - Demokratie
-  - Medienrecht
-  - Kritik an öffentlich-rechtlichen Medien
+  - Echo der Zeit
+  - Framing
+  - Verfassungsauftrag
+  - Ausgewogenheit
+  - Haltungskommunikation
+  - Sachsen-Anhalt
+  - Interessenkonflikt
+  - Prä-Framing
 seo:
   description: >-
     Wie SRF einen verfassungsrechtlich strittigen Vorgang als demokratische
     Selbstverständlichkeit verkauft Eine Satz-für-Satz-Analyse des…
 themen:
-  - Medienkritik
-  - Journalismus
-  - Demokratie und Medien
-kritisiertes_medium: SRF
+  - Verfassungsänderung Sachsen-Anhalt
+  - AfD-Berichterstattung
+  - Service-public-Auftrag
+  - Haltungsjournalismus
+  - Demokratietheorie
+kritisiertes_medium: SRF Echo der Zeit
 kritisierter_beitrag: Parlament in Magdeburg macht sich resilienter gegen AfD
 kritisierter_autor: ''
 kritik_typ:
   - Framing
   - Auslassung
-  - Fehlinformation
+  - Selektion
 personen:
-  - Marcel Lewandowsky
-  - Oliver Kirchner
   - Andreas Schumann
+  - Oliver Kirchner
+  - Marcel Lewandowsky
   - Jürgen Treutler
+  - Christoph Möllers
+  - Oliver Lepsius
+  - Dietrich Murswiek
+  - Kim Lane Scheppele
 institutionen:
   - SRF
   - SRG
+  - AfD
+  - CDU
   - Landtag Sachsen-Anhalt
+  - Verfassungsschutz
   - Uni Halle
+  - ZEIT
+  - EU
 gesetze_vorlagen:
   - Landesverfassung Sachsen-Anhalt
+  - Parlamentsregeln Sachsen-Anhalt
+  - SRG-Konzession
 these: >-
-  Der SRF-Beitrag über die Parlamentsreform in Sachsen-Anhalt erfüllt den
-  Verfassungsauftrag zur Ausgewogenheit nicht und ist ein Beispiel für
-  Haltungskommunikation mit öffentlich-rechtlicher Autorität.
+  Der SRF-Beitrag verkauft einen verfassungsrechtlich strittigen Vorgang als
+  demokratische Selbstverständlichkeit und erfüllt damit den Verfassungsauftrag
+  zur Ausgewogenheit nicht.
 zusammenfassung: >-
-  Der Artikel analysiert einen SRF-Beitrag über die Parlamentsreform in
-  Sachsen-Anhalt und kritisiert die einseitige Darstellung und die mangelnde
-  Ausgewogenheit. Der Beitrag wird als Beispiel für Haltungskommunikation mit
-  öffentlich-rechtlicher Autorität bezeichnet, die den Verfassungsauftrag zur
-  Ausgewogenheit verletzt. Die Analyse zeigt, wie der Beitrag durch Titel,
-  Einstieg, Zitate und Schluss eine bestimmte Deutung aufdrängt und kritische
-  Nachfragen vermeidet.
+  Der Artikel analysiert Satz für Satz einen Echo-der-Zeit-Beitrag über eine
+  Verfassungsänderung in Sachsen-Anhalt, die sich gegen die AfD richtet. Er
+  zeigt auf, dass der Beitrag durch Framing, einseitige Quellenwahl, Auslassung
+  kritischer Perspektiven und einen versteckten Interessenkonflikt des
+  öffentlich-rechtlichen Rundfunks keine ausgewogene Berichterstattung liefert,
+  sondern Haltungskommunikation mit journalistischen Formen. Die Analyse
+  identifiziert strukturelle Muster der SRG-Berichterstattung, die den
+  Verfassungsauftrag zur freien Meinungsbildung verletzen.
 quelle_datum: '2026-04-23'
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3

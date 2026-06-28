@@ -6,58 +6,63 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HGFWd96W0AA2AZC.jpg'
 tweetId: '2045010952530137096'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Gesellschaft
+  - Demokratie
 tags:
-  - SRF
-  - Fischer
+  - Framing
+  - Assoziationskette
   - Aaron Rodgers
+  - BAG-Verträge
   - Transparenz
-  - Medienkritik
-  - Covid-Zertifikat
-  - Sport
-  - Recherche
+  - Zertifikatsregime
+  - redaktionelle Selektion
+  - Modernaverträge
 seo:
   description: >-
     Zwei Tage nach der Freistellung legt SRF nach. Ein Folgeartikel, der den
     Fall Fischer in einen grösseren Kontext stellt. Eine Chronik der «fehlenden…
 themen:
-  - Medienkritik
-  - Transparenz im Sport
-  - Covid-Zertifikatspflicht
-  - Recherche und Berichterstattung
+  - Covid-Zertifikat Fischer
+  - SRF-Berichterstattung Sport
+  - BAG-Impfstoffverträge
+  - Redaktionelle Aufmerksamkeitssteuerung
+  - Asymmetrie Medienberichterstattung
 kritisiertes_medium: SRF
-kritisierter_beitrag: ''
+kritisierter_beitrag: Warum Aaron Rodgers plötzlich in Zürich auftaucht
 kritisierter_autor: ''
 kritik_typ:
   - Framing
-  - Selektion
-  - Kontextmangel
+  - Auslassung
+  - Asymmetrie
 personen:
   - Aaron Rodgers
+  - Breel Embolo
+  - Markus Anfang
   - Fischer
 institutionen:
   - SRF
   - BAG
-gesetze_vorlagen:
-  - Covid-Zertifikatspflicht
+  - Moderna
+gesetze_vorlagen: []
 these: >-
-  Die SRF berichtet selektiv und framing-basiert über den Fall Fischer und die
-  Covid-Zertifikatspflicht, um das Zertifikatsregime zu legitimieren und die
-  dahinterstehende Beschaffungspraxis nicht in Frage zu stellen.
+  SRF verteilt Aufmerksamkeit asymmetrisch: Ein Eishockeytrainer mit gefälschtem
+  Covid-Zertifikat wird durch internationale Vergleichsfälle moralisch überhöht,
+  während die gerichtlich erzwungene Freigabe von BAG-Milliardenverträgen zur
+  Impfstoffbeschaffung ignoriert wird.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRF für ihre Berichterstattung über den Fall
-  Fischer und die Covid-Zertifikatspflicht. Die SRF stellt den Fall in einen
-  grösseren Kontext und vergleicht ihn mit internationalen Fällen, um die
-  Transparenz im Sport zu thematisieren. Der Artikel argumentiert jedoch, dass
-  dies eine selektive und framing-basierte Berichterstattung ist, die das
-  Zertifikatsregime legitimiert und die dahinterstehende Beschaffungspraxis
-  nicht in Frage stellt. Im Gegensatz dazu wird die Berichterstattung über die
-  Milliardenverträge für Impfstoffe als unzureichend kritisiert.
+  9min.ch kritisiert, dass SRF den Fall Fischer (gefälschtes Covid-Zertifikat)
+  durch Assoziation mit internationalen Sport-Transparenzfällen wie Aaron
+  Rodgers framing-mässig überhöht, obwohl die Sachverhalte nicht vergleichbar
+  sind. Gleichzeitig habe SRF die gerichtlich erzwungene Freigabe der
+  BAG-Impfstoffverträge (knapp 1 Milliarde Dollar an Moderna) nicht weiter
+  thematisiert. Die Kritik richtet sich gegen die redaktionelle
+  Aufmerksamkeitssteuerung: unerbittlich nach unten gegenüber dem Einzelnen,
+  höflich nach oben gegenüber der Institution.
 quelle_datum: ''
-quelle_format: ''
+quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: ''
+quelle_redaktion: SRF Sport
 kritik_schwere: 3
 ---
 

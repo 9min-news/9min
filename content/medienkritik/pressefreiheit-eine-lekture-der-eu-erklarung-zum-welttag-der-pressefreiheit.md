@@ -10,14 +10,14 @@ categories:
   - Zensur/Meinungsfreiheit
   - Medienrecht
 tags:
-  - Pressefreiheit
+  - Welttag der Pressefreiheit
   - EU-Erklärung
   - selektive Empörung
   - Asymmetrie
-  - Assange
   - Gaza
+  - Israel
   - Russland
-  - Whistleblower
+  - Assange
 seo:
   description: >-
     Schauen wir die Erklärung der EU vom 2. Mai 2026 zum World Press Freedom Day
@@ -25,55 +25,57 @@ seo:
 themen:
   - Pressefreiheit
   - selektive Empörung
-  - EU-Wertepolitik
-  - Israel/Gaza-Konflikt
+  - EU-Aussenpolitik
+  - Gaza-Konflikt und Medienberichterstattung
   - Whistleblower-Schutz
 kritisiertes_medium: EU-Rat
 kritisierter_beitrag: >-
-  World Press Freedom Day 2026 – Statement by the High Representative on behalf
+  World Press Freedom Day 2026: Statement by the High Representative on behalf
   of the European Union
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
   - Asymmetrie
-  - Behördenpropaganda
+  - Framing
 personen:
   - Julian Assange
   - Manning
   - Snowden
-  - Modi
   - Khashoggi
+  - Modi
 institutionen:
   - EU-Rat
   - Committee to Protect Journalists
   - Hamas
   - Russia Today
   - Sputnik
+  - SRF
+  - NZZ
+  - Tamedia
   - ARD
   - BBC
   - Le Monde
-  - NZZ
   - El País
-  - SRF
-  - Tamedia
   - Weltwoche
   - WOZ
 gesetze_vorlagen:
   - Digital Services Act
   - European Media Freedom Act
-  - Halbierungsinitiative
-  - eID
 these: >-
   Die EU-Erklärung zum Welttag der Pressefreiheit instrumentalisiert
-  Pressefreiheit als politisches Werkzeug, indem sie unbequeme Aggressoren beim
-  Namen nennt und bequeme verschweigt.
+  Pressefreiheit durch selektive Anwendung, indem sie unliebsame Aggressoren
+  beim Namen nennt, verbündete Täter verschweigt und eigene
+  Pressefreiheitsdefizite ausblendet.
 zusammenfassung: >-
-  Der Artikel analysiert die Erklärung des EU-Rates zum Welttag der
-  Pressefreiheit 2026 und kritisiert die selektive Empörung: Russland wird als
-  Aggressor benannt, Israel bei Gaza jedoch sprachlich verschwiegen. Zudem
-  blendet die Erklärung EU-interne Pressefreiheitsdefizite wie Medienverbote,
-  den Fall Assange und Whistleblower-Verfolgung aus. Die Erklärung sei
-  Konsensdokument und Selbstinszenierung而非 ehrliche Reflexion.
+  Der Artikel analysiert die EU-Erklärung vom 2. Mai 2026 zum Welttag der
+  Pressefreiheit und zeigt eine systematische Asymmetrie auf: Russland wird als
+  Aggressor benannt, während Israel als Täter von Journalisten in Gaza
+  sprachlich verschwindet. Zudem werden EU-interne Massnahmen (Russia
+  Today-Verbot, Digital Services Act), Pressefreiheitsdefizite in
+  Mitgliedstaaten, der Fall Assange und die Whistleblower-Verfolgung
+  ausgeblendet. Die Erklärung fungiere als Konsensdokument, das die EU als
+  Hüterin der Pressefreiheit inszeniere, während sie den Begriff politisch
+  instrumentalisieren.
 quelle_datum: '2026-05-02'
 quelle_format: Online-Artikel
 quelle_sendung: ''

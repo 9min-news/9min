@@ -6,54 +6,62 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJd0S_tW8AAY15X.jpg'
 tweetId: '2060243706393825503'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Sicherheitspolitik
-  - Zensur/Meinungsfreiheit
+  - Migration
 tags:
   - SRF
   - Jérôme Endrass
-  - Forensische Psychologie
-  - Terrorismus
-  - Psychiatrie
-  - Sicherheitspolitik
-  - Medienkritik
+  - Forensik
+  - Islamismus
+  - Winterthur
+  - Systemversagen
+  - Behördenentlastung
+  - Werther-Effekt
 seo:
   description: >-
     SRF bringt einen Forensiker ins Studio. Jérôme Endrass, Professor für
     Forensische Psychologie. Er soll erklären, was schiefgelaufen ist. Und er
     erklärt…
 themen:
-  - Medienkritik
-  - Terrorismus
-  - Psychiatrie
-kritisiertes_medium: SRF
-kritisierter_beitrag: Interview mit Jérôme Endrass
-kritisierter_autor: ''
+  - Islamismus und psychiatrische Unterbringung
+  - Behördenversagen bei bekannten Sicherheitsrisiken
+  - Expertenrolle in der Medienberichterstattung
+  - Datenschutz vs. Sicherheit
+  - Messerangriff Winterthur
+kritisiertes_medium: SRF News
+kritisierter_beitrag: Sind Täter mit psychiatrischen Problemen die grösste Gefahr?
+kritisierter_autor: Jérôme Endrass
 kritik_typ:
   - Framing
   - Auslassung
-  - Fehlinformation
+  - Behördenpropaganda
 personen:
   - Jérôme Endrass
 institutionen:
   - SRF
+  - Kantonspolizei Zürich
   - SEM
   - EJPD
-  - Parlament
   - Bundesrat
+  - Parlament
+  - An'Nur-Moschee
+  - Nachrichtendienste
 gesetze_vorlagen:
-  - Artikel 42
+  - Fürsorgerische Unterbringung (FU)
+  - Artikel 42 Bürgerrechtsentzug
 these: >-
-  Der Experte Jérôme Endrass entlastet das System und die Behörden, indem er die
-  Schuld auf die Akutsituation und den fehlenden Informationsaustausch schiebt.
+  SRF nutzt einen Forensiker, um das Systemversagen beim Winterthurer
+  Messerangriff als unvermeidliches Durch-die-Maschen-Fallen darzustellen und
+  dabei die islamistische Ideologie sowie die Verantwortlichen zu verschweigen.
 zusammenfassung: >-
-  Der Artikel kritisiert das Interview mit Jérôme Endrass auf SRF, in dem er die
-  Schuld für den Terroranschlag in Winterthur auf die Akutsituation und den
-  fehlenden Informationsaustausch schiebt, anstatt die Verantwortung bei den
-  Behörden und dem System zu suchen. Der Artikel argumentiert, dass Endrass die
-  halbe Wahrheit sagt, indem er die Probleme benennt, aber nicht die Ursachen
-  und Lösungen. Der Artikel wirft SRF vor, das System zu entlasten und die
-  Debatte zu verzerren.
+  Der Artikel kritisiert, dass SRF in einem Interview mit Forensiker Jérôme
+  Endrass den Messerangriff in Winterthur primär als psychiatrisches Problem
+  rahmt und die islamistische Ideologie des seit acht Jahren bekannten Täters
+  ausblendet. Endrass erkläre das System, klage aber niemanden an — Behörden,
+  SEM und politische Entscheidungen würden nicht verantwortlich gemacht. 9min.ch
+  sieht darin eine gezielte Behördenentlastung durch Experten-PR, die den
+  demokratischen Diskurs über Sicherheitspolitik verzerrt.
 quelle_datum: '2026-05-29'
 quelle_format: Online-Artikel
 quelle_sendung: ''

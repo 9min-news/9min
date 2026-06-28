@@ -6,52 +6,60 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHNn9m4WEAA88we.jpg'
 tweetId: '2050096620486750214'
 categories:
+  - Migration
   - Wirtschaft
-  - Gesellschaft
-  - Demokratie
+  - Abstimmungen
 tags:
   - economiesuisse
-  - SP
-  - SVP
-  - Migration
-  - Löhne
-  - Demografie
-  - Wirtschaftspolitik
+  - stark+vernetzt
+  - Chaos-Initiative
   - Kampagnenkoordination
+  - Personenfreizügigkeit
+  - Lohnfrage
+  - Astroturfing
+  - SVP-Initiative
 seo:
   description: >-
     Zum economiesuisse-Beitrag «Ein Bevölkerungsdeckel ist keine Lösung für die
     Schweiz» vom 30. April 2026 Die Verschmelzung der Diskurse Der Beitrag von…
 themen:
-  - Wirtschaftspolitik
-  - Migration
-  - Bevölkerungswachstum
+  - Wirtschaftsverband-Kommunikation
+  - Migrationspolitik
+  - Abstimmungskampagne
+  - Demografie und AHV
   - Lohnpolitik
-  - Demografie
 kritisiertes_medium: economiesuisse
 kritisierter_beitrag: Ein Bevölkerungsdeckel ist keine Lösung für die Schweiz
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
   - Framing
-  - Kontextmangel
-personen: []
+  - Interessenkonflikt
+personen:
+  - Miriam
 institutionen:
   - economiesuisse
-  - SP
+  - stark+vernetzt
   - SVP
-gesetze_vorlagen: []
+  - SP
+  - Grüne
+  - AHV
+gesetze_vorlagen:
+  - SVP-Initiative «Keine 10-Millionen-Schweiz»
+  - Personenfreizügigkeit
 these: >-
-  Der Beitrag von economiesuisse ist ein Beispiel für Kampagnenkoordination und
-  Auslassung wichtiger Informationen in der Wirtschaftspolitik.
+  economiesuisse betreibt koordinierte Kampagnenkommunikation statt sachlicher
+  Argumentation und blendet die zentrale Lohnfrage sowie die demografischen
+  Langzeiteffekte der Zuwanderung bewusst aus.
 zusammenfassung: >-
-  Der Artikel kritisiert den Beitrag von economiesuisse, in dem die
-  Notwendigkeit eines Bevölkerungsdeckels für die Schweiz in Frage gestellt
-  wird. Der Autor argumentiert, dass der Beitrag Auslassungen und Framing
-  enthält und dass die Wirtschaftspolitik der Schweiz von einer einseitigen
-  Kommunikation geprägt ist, die die negativen Effekte der Migration und der
-  Lohndämpfung ignoriert. Der Artikel fordert eine ehrlichere und
-  differenziertere Diskussion über die Wirtschaftspolitik in der Schweiz.
+  Der 9min.ch-Artikel analysiert einen economiesuisse-Beitrag zur
+  SVP-Bevölkerungsinitiative und deckt auf, dass dieser in Sprache,
+  Argumentation und Methode praktisch identisch mit der Allianz stark+vernetzt
+  ist – ein Indiz für Kampagnenkoordination. Kritisiert werden die Auslassung
+  der Lohnfrage, das demografische Pyramidenscheme-Argument, die Vermischung von
+  Asyl und Personenfreizügigkeit sowie der belehrende Plauderton. Der Beitrag
+  sei Werbung, keine Information, und trage zum Vertrauensverlust der Wirtschaft
+  in der Bevölkerung bei.
 quelle_datum: '2026-04-30'
 quelle_format: Online-Artikel
 quelle_sendung: ''

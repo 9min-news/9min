@@ -6,15 +6,18 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHoSzLbXQAQvrXQ.jpg'
 tweetId: '2051973456564998403'
 categories:
+  - SRF/SRG
   - EU/Aussenpolitik
+  - Migration
   - Demokratie
-  - Medienrecht
 tags:
-  - SRF
-  - Verfassungsbestimmung
-  - Ständemehr
-  - Unionsbürgerrichtlinie
-  - Schubert-Praxis
+  - SRF-Kritik
+  - Auslassung
+  - Verfassungsrecht
+  - parlamentarische Initiative
+  - SPK-S
+  - Personenfreizügigkeit
+  - Volksvotum 2014
   - Souveränitätsklausel
 seo:
   description: >-
@@ -22,35 +25,53 @@ seo:
     mit der EU», 6. Mai 2026 — und zum tatsächlichen Wortlaut der
     parlamentarischen…
 themen:
-  - EU-Vertragspaket
-  - Verfassungsänderung
-  - Schweizerische EU-Debatte
-kritisiertes_medium: SRF
+  - EU-Vertragspaket Bilaterale III
+  - Ständemehr und Verfassungsänderung
+  - Masseneinwanderungsinitiative 2014
+  - Unionsbürgerrichtlinie
+  - Schubert-Praxis und Souveränität
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Kommission will Ständemehr bei neuen Verträgen mit der EU
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
-  - Framing
   - Kontextmangel
+  - Selektion
 personen:
   - Stefan Schmid
 institutionen:
   - SRF
   - Staatspolitische Kommission des Ständerats
   - Nationalrat
+  - Bundesgericht
+  - EU
+  - SVP
+  - SP
+  - Gewerkschaften
+  - FDP
+  - Mitte-Parteien
 gesetze_vorlagen:
-  - Bundesverfassung
-  - Unionsbürgerrichtlinie
+  - Masseneinwanderungsinitiative 2014
+  - Art. 121a BV
+  - EU-Vertragspaket (Bilaterale III)
+  - Unionsbürgerrichtlinie (2004/38/EG)
+  - parlamentarische Initiative SPK-S
+  - EMRK
 these: >-
-  Die SRF-Berichterstattung über die Verfassungsänderung im Zusammenhang mit dem
-  EU-Vertragspaket ist unvollständig und irreführend.
+  Die SRF-Berichterstattung reduziert eine politisch weitreichende
+  Verfassungsänderung auf prozedurale Routine und lässt systematisch jene drei
+  substantiellen Elemente weg, die für die demokratische Bewertung durch die
+  Bürger nötig wären.
 zusammenfassung: >-
-  Die SRF-Berichterstattung über die Verfassungsänderung im Zusammenhang mit dem
-  EU-Vertragspaket ist unvollständig und irreführend. Die Berichterstattung
-  konzentriert sich auf prozedurale Aspekte und lässt wichtige substantielle
-  Elemente wie die Aussetzung der Masseneinwanderungsinitiative, die
-  Unionsbürgerrichtlinie und die Schubert-Praxis unerwähnt. Dies kann die
-  demokratische Debatte über das EU-Vertragspaket beeinträchtigen.
+  Der Artikel kritisiert, dass die SRF-Meldung zur parlamentarischen Initiative
+  der SPK-S nur das prozedurale Ständemehr erwähnt, aber drei zentrale
+  inhaltliche Elemente vollständig auslässt: die Aussetzung der Sperrklausel der
+  Masseneinwanderungsinitiative von 2014, die Nennung der Unionsbürgerrichtlinie
+  als konkreten Konfliktpunkt und die Kodifizierung der Schubert-Praxis als
+  Souveränitätsventil. Zudem wird nur ein Experte (Stefan Schmid) namentlich
+  genannt, während die Gegenseite anonym bleibt. Die Kritik sieht darin eine
+  systematische Entpolitisierung, die Bürger an der demokratischen Bewertung
+  hindert.
 quelle_datum: '2026-05-06'
 quelle_format: Online-Artikel
 quelle_sendung: ''

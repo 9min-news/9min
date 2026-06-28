@@ -6,32 +6,40 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HEujp8laIAAy7PP.jpg'
 tweetId: '2038903240033460695'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Migration
-  - Sicherheitspolitik
+  - Gesellschaft
 tags:
   - SRF
-  - Medienkritik
-  - Terroranschlag
-  - Migration
+  - Redaktionelle Auswahl
+  - Terroranschlag Bielefeld
+  - Wolf Hamburg
   - Islamismus
-  - Behördenversagen
+  - Deepfake
+  - Auslassung
+  - Nachrichtenwert
 seo:
   description: >-
     Am 31. März 2026 berichtet SRF, dass in Hamburg ein Wolf eine Frau gebissen
     hat. Acht Sätze. Eine Karte. Ein Foto der Binnenalster bei Nacht. Das Tier…
 themen:
-  - Medienberichterstattung
-  - Terrorismus
-  - Migration und Integration
+  - Redaktionelle Auswahlkriterien
+  - Islamismus-Berichterstattung
+  - Nachrichtenwert
+  - Terroranschlag Bielefeld
+  - Medienasymmetrie
 kritisiertes_medium: SRF
-kritisierter_beitrag: Wolf beisst in Hamburg eine Frau – mitten im Einkaufsgebiet
-kritisierter_autor: ''
+kritisierter_beitrag: >-
+  Wolf beisst in Hamburg eine Frau – mitten im Einkaufsgebiet; Enthüllungen
+  haben Schockwelle durch Deutschland geschickt
+kritisierter_autor: Simone Fatzer
 kritik_typ:
   - Auslassung
   - Selektion
+  - Asymmetrie
 personen:
   - Collien Fernandes
+  - Simone Fatzer
 institutionen:
   - SRF
   - Bundesanwaltschaft
@@ -39,19 +47,21 @@ institutionen:
 gesetze_vorlagen:
   - Deepfake-Gesetzgebung
 these: >-
-  Die Auswahl der berichteten Nachrichten durch SRF definiert ihr Weltbild und
-  wirft Fragen über ihre redaktionellen Kriterien auf.
+  SRF selektiert deutsche Nachrichten nach ideologischer Kompatibilität und
+  lässt unliebsame Themen wie islamistischen Terror weg, während emotional
+  mobilisierende oder kuriose Geschichten bevorzugt werden.
 zusammenfassung: >-
-  Der Artikel kritisiert die Auswahl der Nachrichten durch SRF, insbesondere die
-  Berichterstattung über einen Wolf, der eine Frau in Hamburg gebissen hat, im
-  Vergleich zu einem islamistischen Terroranschlag in Bielefeld, der nicht
-  berichtet wurde. Der Autor argumentiert, dass die Auswahl der Nachrichten die
-  politische Relevanz und die mögliche Instrumentalisierung durch bestimmte
-  Gruppen berücksichtigen sollte.
+  Der Artikel kritisiert, dass SRF über einen Wolf in Hamburg und einen
+  Deepfake-Fall ausführlich berichtet, aber einen islamistischen Messerangriff
+  in Bielefeld mit schwerverletzten Opfern und laufendem Prozess ignoriert.
+  Diese selektive Auswahl wird als redaktionelle Voreingenommenheit gedeutet,
+  bei der unbequeme Themen wie Migration, Islamismus und Behördenversagen
+  vermieden werden. Die Auslassung wird als mächtigste redaktionelle
+  Entscheidung interpretiert, die das Weltbild des Mediums definiere.
 quelle_datum: '2026-03-31'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: SRF
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

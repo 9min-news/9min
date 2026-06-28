@@ -8,56 +8,57 @@ tweetId: '2060712773642813811'
 categories:
   - EU/Aussenpolitik
   - Wirtschaft
-  - Gesellschaft
+  - SRF/SRG
 tags:
-  - EU
-  - Schweiz
   - Stahlzölle
   - Bilaterale
-  - Wirtschaft
+  - Swissmem
+  - EU-Protektionismus
   - Souveränität
+  - SRF
+  - Martin Hirzel
   - Hegemon
-  - Partner
 seo:
   description: >-
     Martin Hirzel, Präsident von Swissmem, sagt: «Das ist nicht, was man von
     einem Partner erwartet.» Er spricht über die EU. Über die Verdoppelung der…
 themen:
-  - EU-Schweiz-Beziehungen
-  - Stahlzölle
-  - Bilaterale Abkommen
-  - Wirtschaftliche Abhängigkeit
+  - EU-Stahlzölle
+  - Bilaterale Verträge
+  - Schweizer Industrie
   - Souveränität
-kritisiertes_medium: SRF
-kritisierter_beitrag: '«Hoch frustrierend und nicht, was man von einem Partner erwartet»'
+  - EU-Protektionismus
+kritisiertes_medium: SRF News
+kritisierter_beitrag: '‹Hoch frustrierend und nicht, was man von einem Partner erwartet›'
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
-  - Framing
   - Kontextmangel
+  - Framing
 personen:
   - Martin Hirzel
 institutionen:
   - SRF
+  - Swissmem
   - EU
-  - Schweizer Industrie
+  - USA
 gesetze_vorlagen:
-  - Bilaterale Abkommen
+  - Bilaterale Verträge
 these: >-
-  Die EU verhält sich nicht wie ein Partner der Schweiz, sondern wie ein
-  Hegemon, der die Regeln diktiert und die Schweiz in eine Abhängigkeit führt.
+  SRF berichtet über die Krise der Schweizer Industrie durch EU-Stahlzölle,
+  stellt aber nicht die grundlegende Frage nach dem Partnerschaftscharakter der
+  Bilateralen und der Souveränität der Schweiz.
 zusammenfassung: >-
-  Der Artikel kritisiert die Berichterstattung des SRF über die
-  EU-Schweiz-Beziehungen und die Stahlzölle. Der Präsident von Swissmem, Martin
-  Hirzel, äußert sich frustriert über die EU-Politik, aber das SRF zieht nicht
-  die Konsequenzen und benennt die Krise der Beziehung nicht. Die Schweiz ist
-  abhängig von der EU und hat keine Verhandlungsposition, was die Frage
-  aufwirft, ob die Bilateralen noch das richtige Modell sind.
+  Der Artikel kritisiert, dass SRF Martin Hirzels Klagen über verdoppelte
+  EU-Stahlzölle unkommentiert stehen lässt, ohne nach Konsequenzen für die
+  Bilateralen oder die Schweizer Souveränität zu fragen. 9min.ch argumentiert,
+  die EU verhalte sich als Hegemon而非Partner, und SRF versage darin, diese
+  Realität zu benennen und die entscheidenden Fragen zu stellen.
 quelle_datum: '2026-05-29'
 quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
-kritik_schwere: 3
+kritik_schwere: 2
 ---
 
 *Martin Hirzel, Präsident von Swissmem, sagt: «Das ist nicht, was man von einem Partner erwartet.» Er spricht über die EU. Über die Verdoppelung der Stahlzölle von 25 auf 50 Prozent. Über die Abschottung des Binnenmarkts. Über die existenzielle Bedrohung für die Schweizer Industrie. Was er nicht sagt: Was das für die Bilateralen bedeutet. Was das für die Souveränität bedeutet. Was das für die Frage bedeutet, ob die Schweiz überhaupt einen Partner hat — oder nur einen Hegemon, der die Regeln diktiert. Und SRF fragt nicht nach. SRF lässt Hirzel klagen — ohne die Konsequenzen zu ziehen. Ohne die Frage zu stellen, die sich aufdrängt: Wenn die EU so handelt, warum sollten wir uns ihr weiter annähern?*

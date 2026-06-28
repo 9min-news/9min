@@ -6,58 +6,67 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJtRmvWX0AIGnve.jpg'
 tweetId: '2061331594929926259'
 categories:
-  - Gesellschaft
+  - SRF/SRG
+  - Abstimmungen
   - Wirtschaft
-  - Demokratie
 tags:
   - AHV
-  - Rente
   - Mehrwertsteuer
   - Lohnabzüge
-  - Finanzierung
-  - Politik
-  - Wirtschaft
+  - Steuerzahler
+  - Sommersession
+  - Bauernverband
+  - Umverteilung
+  - befristete Steuern
 seo:
   description: >-
     «Wer bezahlt die 13. AHV-Rente?» So lautet die Überschrift. Es ist eine
     vernünftige Frage, und SRF beantwortet sie sachlich: Mehrwertsteuer rauf,
     oder…
 themen:
-  - AHV-Rente
-  - Mehrwertsteuer
-  - Lohnabzüge
-  - Finanzierung
-kritisiertes_medium: SRF
+  - 13. AHV-Rente Finanzierung
+  - Sommersession 2026 Steuerlast
+  - Befristete Steuern Historie
+  - Bauernverband-Subventionen als Schweigegeld
+  - Kumulierte Bürgerbelastung
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Highlights der Sommersession – Wer bezahlt die 13. AHV-Rente?
 kritisierter_autor: ''
 kritik_typ:
+  - Auslassung
   - Framing
   - Kontextmangel
-  - Interessenkonflikt
 personen: []
 institutionen:
   - SRF
   - Bundesrat
+  - Parlament
   - Bauernverband
+  - Grüne
+  - AHV
+  - Armee
 gesetze_vorlagen:
-  - AHV-Rente
+  - 13. AHV-Rente
+  - Individualbesteuerung
+  - Freihandelsabkommen
+  - Kernenergie-Vorlage
 these: >-
-  Der SRF-Beitrag zur Finanzierung der 13. AHV-Rente ist ein Beispiel für eine
-  unzureichende Berichterstattung, die die Perspektive des Bürgers
-  vernachlässigt und stattdessen die Interessen des Staates und der Politik in
-  den Vordergrund stellt.
+  SRF stellt die Finanzierungsdebatte der Sommersession als technokratisches
+  Verfahrenspuzzle dar, verschweigt die kumulierte Steuerlast für den Bürger und
+  übernimmt unkritisch die Perspektive des verteilenden Apparats statt die des
+  zahlenden Bürgers.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag zur Finanzierung der 13. AHV-Rente, da
-  er die Perspektive des Bürgers vernachlässigt und stattdessen die Interessen
-  des Staates und der Politik in den Vordergrund stellt. Der Beitrag wird als
-  Beispiel für eine unzureichende Berichterstattung angesehen, die die
-  tatsächlichen Auswirkungen der Finanzierung auf den Bürger nicht ausreichend
-  thematisiert.
+  Der 9min-Artikel kritisiert einen SRF-Beitrag zur Sommersession 2026, der fünf
+  Finanzierungsgeschäfte einzeln darstellt, ohne ihre kumulierte Last für den
+  Steuerzahler zu benennen. SRF übernehme die Perspektive des Kassenwarts und
+  frage nie, wem das Geld genommen wird und mit welchem Recht. Besonders das
+  Wort 'befristet' bei Steuererhöhungen werde ohne historischen Kontext
+  unkritisch übernommen.
 quelle_datum: '2026-06-01'
 quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
-kritik_schwere: 3
+kritik_schwere: 2
 ---
 
 *«Wer bezahlt die 13. AHV-Rente?» So lautet die Überschrift. Es ist eine vernünftige Frage, und SRF beantwortet sie sachlich: Mehrwertsteuer rauf, oder Lohnabzüge rauf, oder beides. Aber lesen Sie die Frage noch einmal. «Wer bezahlt?» Die Antwort steht in jedem der fünf vorgestellten Geschäfte schon fest, bevor sie ausgesprochen wird — und sie lautet immer gleich: Sie. Der Bürger. Die Arbeiterin. Der Konsument. Was als nüchterne Vorschau auf die Sommersession daherkommt, ist in Wahrheit eine Aufzählung von fünf verschiedenen Wegen, in dieselbe Tasche zu greifen — und die einzige Frage, die das Parlament zu verhandeln scheint, ist nicht ob, sondern wie tief und mit welchem Instrument.*

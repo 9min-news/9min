@@ -6,53 +6,66 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HI3cEOGXQAE_ThU.jpg'
 tweetId: '2057543744413368629'
 categories:
+  - SRF/SRG
   - Klima/Energie
-  - Medienrecht
   - Demokratie
 tags:
   - Klimaziele
-  - SRF
+  - CO₂-Gesetz
+  - Volksabstimmung 2021
   - Auslandszertifikate
+  - Pariser Abkommen
   - Treibstoffbranche
-  - Demokratie
-  - Klimawandel
-  - Medienberichterstattung
+  - Wissenschaftskritik
+  - Dogma
 seo:
   description: >-
     Wie SRF die Klimaziele zum Dogma erhebt, die Frage nach ihrer
     Realisierbarkeit verschweigt, den demokratischen Willen des Voluses übergeht
     und die…
 themen:
-  - Klimapolitik
-  - Medienkritik
-  - Demokratische Entscheidungsfindung
-kritisiertes_medium: SRF
+  - Klimaziele als Dogma
+  - Demokratische Legitimation der Klimapolitik
+  - Auslandszertifikate vs. Inlandsreduktionen
+  - Wissenschaftlicher Konsens und Klimaforschung
+  - Kosten der Klimapolitik
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Wie die Schweiz ihre Klimaziele aufs Spiel setzt
 kritisierter_autor: ''
 kritik_typ:
-  - Framing
   - Auslassung
-  - Fehlinformation
+  - Framing
+  - Kontextmangel
 personen:
-  - Delia Berner
   - Albert Rösti
+  - Delia Berner
 institutionen:
   - SRF
-  - Alliance Sud
   - Erdölvereinigung
+  - Auto-Schweiz
+  - Swissoil
+  - Alliance Sud
   - Bundesamt für Umwelt
+  - Parlament
 gesetze_vorlagen:
   - CO₂-Gesetz
   - Pariser Abkommen
+  - Kyoto-Protokoll
 these: >-
-  Die SRF-Berichterstattung über die Klimapolitik ist einseitig und verschweigt
-  wichtige Aspekte wie die Demokratie und die Kosten der Alternative.
+  SRF erhebt die Klimaziele zum unverrückbaren Dogma, verschweigt die Frage nach
+  ihrer Realisierbarkeit, ignoriert den demokratischen Willen des Volkes und
+  präsentiert die Treibstoffbranche als Sündenbock, ohne die grundlegenden
+  Prämissen der Klimapolitik zu hinterfragen.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRF-Berichterstattung über die Klimapolitik als
-  einseitig und dogmatisch. Die Berichterstattung verschweigt wichtige Aspekte
-  wie die Demokratie und die Kosten der Alternative. Der Artikel fordert eine
-  differenziertere Berichterstattung, die die Komplexität der Klimapolitik
-  abbildet.
+  Der Artikel kritisiert den SRF-Beitrag zur Schweizer Klimapolitik als
+  einseitige Darstellung, die Klimaziele als Dogma setzt, ohne deren
+  Realisierbarkeit oder demokratische Legitimation zu hinterfragen. SRF
+  verschweige die Volksabstimmung vom 13. Juni 2021 als demokratische
+  Entscheidung, verstecke die Wertlosigkeit von 84% der Kyoto-Zertifikate in
+  einer Box und nenne nicht die Kosten der Alternative. Die Kritik richtet sich
+  gegen die Übernahme des wissenschaftlichen Konsenses als unhinterfragbare
+  Prämisse und die Framing der Demokratie als Hindernis statt als legitimen
+  Willensausdruck.
 quelle_datum: '2026-05-20'
 quelle_format: Online-Artikel
 quelle_sendung: ''

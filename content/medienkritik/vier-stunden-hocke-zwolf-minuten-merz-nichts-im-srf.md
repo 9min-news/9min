@@ -6,56 +6,97 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHYJ3omaMAA9gvf.jpg'
 tweetId: '2050837562344812583'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Demokratie
   - Gesellschaft
 tags:
-  - SRF
-  - Spiegel
-  - Björn Höcke
-  - Friedrich Merz
-  - Podcast
-  - Langformat
-  - Kritische Distanz
+  - Asymmetrie
+  - Lange Form
+  - Höcke-Podcast
+  - Merz-Spiegel-Interview
+  - SRF-Interviewführung
+  - Beat Jans
+  - Gatekeeper
+  - Medienmündigkeit
 seo:
   description: >-
     Zur Beobachtung von Filipp Piatov über die zwei Interviews einer Woche.
     Nichts davon kommt im SRF vor, auch wenn beide Interviews und die Struktur
     der…
 themen:
-  - Medienkritik
-  - Politische Berichterstattung
-  - Asymmetrie in der Medienberichterstattung
+  - Asymmetrische Befragungspraxis
+  - Lange vs. kurze Interviewformate
+  - Medienkrise und Vertrauensverlust
+  - Podcast-Wandel und Gatekeeper-Verlust
+  - SRF-Berichterstattung über eigene Strukturprobleme
 kritisiertes_medium: SRF
 kritisierter_beitrag: ''
 kritisierter_autor: ''
 kritik_typ:
   - Asymmetrie
-  - Framing
   - Auslassung
+  - Behördenpropaganda
 personen:
-  - Björn Höcke
-  - Friedrich Merz
   - Filipp Piatov
+  - Friedrich Merz
+  - Björn Höcke
+  - Ademir Mustic
+  - Stefan Homburg
+  - Babette Dre
+  - Best Wolf
+  - Joe Rogan
+  - Donald Trump
+  - Anne Will
+  - Robert Habeck
+  - Saskia Esken
+  - Sahra Wagenknecht
+  - Alice Weidel
+  - Elon Musk
+  - Markus Söder
+  - Ueli Maurer
+  - Albert Rösti
+  - Thomas Aeschi
+  - Alain Berset
+  - Simonetta Sommaruga
+  - Beat Jans
 institutionen:
   - SRF
+  - SRF Arena
   - Spiegel
+  - Bild
+  - Wall Street Journal
   - ARD
+  - ZEIT
+  - FAZ
+  - AfD
+  - CDU
+  - Grüne
+  - SPD
+  - Die Linke
+  - SVP
+  - SP
+  - Institut für Öffentliche Finanzen Hannover
+  - CNN
+  - Hotel Matze
+  - Weltwoche Daily
 gesetze_vorlagen: []
 these: >-
-  Die klassischen Medien haben ihre Glaubwürdigkeitsbasis durch asymmetrische
-  Berichterstattung untergraben.
+  SRF übt eine strukturell asymmetrische Befragungspraxis (SVP härter als SP)
+  und thematisiert weder diese Asymmetrie noch die Piatov-Beobachtung, was das
+  Publikum in alternative Formate treibt.
 zusammenfassung: >-
-  Der Artikel diskutiert die Asymmetrie in der Medienberichterstattung und wie
-  dies die Glaubwürdigkeit der klassischen Medien untergräbt. Er zeigt auf, dass
-  Politiker wie Björn Höcke sich in Langformaten wie Podcasts präsentieren
-  können, während klassische Medien wie der Spiegel und die SRF asymmetrisch
-  berichten. Die Autoren argumentieren, dass dies zu einer Polarisierung der
-  Gesellschaft führt und die Mediendemokratie gefährdet.
+  Der Artikel analysiert Filipp Piatovs Beobachtung, dass Höcke in einem
+  4,5-Stunden-Podcast souverän wirkte, während Merz in einem
+  12-Minuten-Spiegel-Interview scheiterte, und überträgt dies auf die Schweiz.
+  Er kritisiert, dass SRF über diese strukturelle Verschiebung nicht berichtet
+  und selbst eine asymmetrische Befragungspraxis pflegt, bei der SVP-Politiker
+  härter konfrontiert werden als SP-Politiker. Die Beat-Jans-Geschichte wird als
+  Symptom genannt, dass SRF die eigene redaktionelle Disposition nicht
+  reflektiert.
 quelle_datum: ''
 quelle_format: ''
 quelle_sendung: ''
-quelle_redaktion: ''
+quelle_redaktion: SRF
 kritik_schwere: 3
 ---
 

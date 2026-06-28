@@ -6,58 +6,64 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIlEqiIWQAA3-vn.jpg'
 tweetId: '2056250236054446149'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Wirtschaft
-  - Gesellschaft
+  - EU/Aussenpolitik
 tags:
+  - Framing
+  - Negativität
   - Silicon Valley
   - Tech-Bosse
   - Daten-Kraken
-  - Medienberichterstattung
-  - Negativität
-  - Abhängigkeit
-  - Europa
-  - USA
+  - Startup-Emigration
+  - Medienverantwortung
+  - Bestätigungsfrage
 seo:
   description: >-
     Wie SRF die Diagnose stellt und die Therapie verweigert — und dabei beweist,
     was es bestreitet Zum SRF-Beitrag «Journalistin: 'Viele US-Städte streben…
 themen:
-  - Technologie
-  - Innovation
-  - Medienkritik
-  - Wirtschaftsentwicklung
-  - Europäische Abhängigkeit
-kritisiertes_medium: SRF
-kritisierter_beitrag: Tech-Bosse und Daten-Kraken
+  - Medienframing
+  - Technologieberichterstattung
+  - Silicon Valley
+  - Europa-Abhängigkeit
+  - Startup-Migration
+kritisiertes_medium: SRF News
+kritisierter_beitrag: >-
+  Tech-Bosse und Daten-Kraken — Journalistin: 'Viele US-Städte streben nach
+  einem Silicon-Valley'
 kritisierter_autor: ''
 kritik_typ:
   - Framing
   - Selektion
-  - Kontextmangel
+  - Auslassung
 personen:
   - Marie-Astrid Langer
 institutionen:
   - SRF
   - Silicon Valley
+  - Europa
+  - USA
+  - US-Tech-Konzerne
 gesetze_vorlagen: []
 these: >-
-  SRF dominiert die negative Seite in seiner Berichterstattung über das Silicon
-  Valley und trägt damit zur Abhängigkeit Europas von US-Tech-Konzernen bei.
+  SRF beweist durch seine negative Framing des Silicon Valley genau jene
+  Diagnose, die die interviewte Journalistin stellt — dass Europas negative
+  Technologieberichterstattung zur Abhängigkeit von den USA führt.
 zusammenfassung: >-
-  Der Artikel kritisiert die Berichterstattung von SRF über das Silicon Valley,
-  indem er argumentiert, dass SRF die negative Seite dominiert und damit zur
-  Abhängigkeit Europas von US-Tech-Konzernen beiträgt. Die Journalistin
-  Marie-Astrid Langer wird zitiert, die sagt, dass Europa die negative Seite
-  dominiert und dass dies dazu führt, dass Startups den Kontinent verlassen. Der
-  Artikel argumentiert, dass SRFs Berichterstattung Teil des Problems ist und
-  dass die Medien eine Verantwortung haben, die positive Seite der Technologie
-  zu sehen und Innovation zu fördern.
+  Der Artikel analysiert einen SRF-Beitrag über das Silicon Valley, dessen Titel
+  und Einleitung eine negative Rahmung ('Tech-Bosse', 'Daten-Kraken') vorgeben,
+  während die interviewte Journalistin Marie-Astrid Langer eine nuancierte Sicht
+  liefert. Langer diagnostiziert, dass Europas Dominanz der negativen Sichtweise
+  Startups zur Emigration treibt und die Abhängigkeit von US-Tech-Konzernen
+  erhöht. 9min.ch argumentiert, dass SRF durch sein Framing, seine
+  Bestätigungsfrage und das Verschlucken der Nuance genau diese Diagnose selbst
+  reproduziert.
 quelle_datum: '2026-05-18'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: SRF News
-kritik_schwere: 3
+quelle_redaktion: SRF News Wirtschaft
+kritik_schwere: 2
 ---
 
 *Wie SRF die Diagnose stellt und die Therapie verweigert — und dabei beweist, was es bestreitet*

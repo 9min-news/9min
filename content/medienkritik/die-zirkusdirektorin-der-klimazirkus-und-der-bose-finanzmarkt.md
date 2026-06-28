@@ -6,17 +6,17 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHnAXQsWsAgHCA-.jpg'
 tweetId: '2051882651426881858'
 categories:
+  - SRF/SRG
   - Wirtschaft
-  - Gesellschaft
-  - Medienrecht
+  - Klima/Energie
 tags:
   - Kate Raworth
-  - SRF
   - Rendez-vous
-  - Klimazirkus
-  - Finanzmarkt
-  - Ökonomie
-  - Nachhaltigkeit
+  - Autoritätssuggestion
+  - Quellenprüfung
+  - Allegorie
+  - Degrowth
+  - Finanzmarkt-Framing
 seo:
   description: >-
     Zur SRF-Sendung «Rendez-vous» vom 5. Mai 2026: «‹Donut-Ökonomie› soll
@@ -24,39 +24,43 @@ seo:
     im…
 themen:
   - Donut-Ökonomie
-  - Klimawandel
-  - Nachhaltigkeit
-  - Finanzmarkt
-  - Ökonomie
+  - Wissenschaftsjournalismus
+  - Postwachstumstheorie
+  - Medienasymmetrie bei Denkschulen
 kritisiertes_medium: SRF
-kritisierter_beitrag: Donut-Ökonomie soll Gesellschaft radikal verändern
+kritisierter_beitrag: ‹Donut-Ökonomie› soll Gesellschaft radikal verändern
 kritisierter_autor: Klaus Ammann
 kritik_typ:
-  - Framing
+  - Autoritätsargument
   - Auslassung
-  - Kontextmangel
+  - Framing
 personen:
   - Kate Raworth
   - Klaus Ammann
 institutionen:
   - SRF
-  - Oxford-Universität
+  - Universität Oxford
   - Universität Amsterdam
+  - Environmental Change Institute
+  - WWF
+  - Credit Suisse
+  - Oxfam
 gesetze_vorlagen: []
 these: >-
-  Der SRF-Beitrag über die Donut-Ökonomie ist zu einseitig und suggeriert eine
-  Autorität, die in der fachlichen Substanz weniger eindeutig ist.
+  SRF referiert eine ideologisch positionierte Performance als ökonomischen
+  Beitrag, ohne akademische Einbettung, Quellenprüfung oder journalistische
+  Distanz zu wahren.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag über die Donut-Ökonomie, weil er zu
-  einseitig und unkritisch ist. Der Beitrag suggeriert eine Autorität, die in
-  der fachlichen Substanz weniger eindeutig ist, und übernimmt die moralisch
-  aufgeladene Allegorie der Show ohne kritische Auseinandersetzung. Die Kritik
-  bemängelt auch die mangelnde Quellenprüfung und die ungenaue Darstellung der
-  akademischen Statur der Vortragenden.
+  Der Artikel analysiert einen SRF-«Rendez-vous»-Beitrag über Kate Raworths
+  Donut-Ökonomie-Performance. Er registriert fünf Punkte: überschätzte
+  akademische Autorität Raworths, ungeprüft übernomme Zahlen, unkritisch
+  übernommen moralische Allegorie, namenlose Restkritik am Schluss sowie
+  Asymmetrie in der Behandlung wirtschaftlicher Denkschulen. Der Befund:
+  legitimier Berichtsstoff, aber defizitäre journalistische Form.
 quelle_datum: '2026-05-05'
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: Rendez-vous
-quelle_redaktion: SRF
+quelle_redaktion: SRF News
 kritik_schwere: 2
 ---
 

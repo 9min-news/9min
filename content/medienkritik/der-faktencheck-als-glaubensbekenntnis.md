@@ -6,53 +6,73 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHjXUP-XEAIexVM.jpg'
 tweetId: '2051627903540953271'
 categories:
+  - Abstimmungen
+  - Migration
   - Medienrecht
-  - Zensur/Meinungsfreiheit
-  - Demokratie
 tags:
   - Faktencheck
   - Operation Libero
   - SVP
   - Zuwanderung
-  - Wahlkampf
-  - Propaganda
-  - Medienkritik
+  - Kriminalitätsstatistik
+  - Selektion
+  - Auslassung
+  - Abstimmungskampf
 seo:
   description: >-
     Zum Operation Libero "Faktencheck" auf die SVP-Abstimmungszeitung
     «Zuwanderung: Daten – Fakten – Hintergründe» Es ist eine alte rhetorische
     Übung: Man…
 themen:
-  - Faktencheck
-  - Operation Libero
-  - SVP-Abstimmungszeitung
-  - Zuwanderung
+  - Faktencheck als rhetorisches Instrument
+  - Selektive Statistikführung bei Zuwanderungs- und Kriminalitätsdaten
+  - Auslassung unbequemer Daten in politischen Gegenreden
+  - Abstimmungskampf zur Zuwanderungsinitiative 2026
 kritisiertes_medium: Operation Libero
-kritisierter_beitrag: Faktencheck zur SVP-Abstimmungszeitung
+kritisierter_beitrag: >-
+  Faktencheck zur SVP-Abstimmungszeitung «Zuwanderung: Daten – Fakten –
+  Hintergründe»
 kritisierter_autor: ''
 kritik_typ:
-  - Framing
-  - Fehlinformation
+  - Auslassung
   - Selektion
+  - Framing
 personen:
   - Frank Urbaniok
+  - Urs Mühle
 institutionen:
   - Operation Libero
   - SVP
   - Bundesamt für Statistik
+  - EU
+  - EFTA
+  - Stanford
+  - Bristol
+  - OECD
 gesetze_vorlagen:
+  - SVP-Zuwanderungsinitiative
+  - Bilaterale I
+  - Bilaterale II
+  - Bilaterale III
   - Genfer Flüchtlingskonvention
-  - Europäische Menschenrechtskonvention
+  - EMRK
   - UNO-Kinderrechtskonvention
+  - revidiertes Sexualstrafrecht 2024
 these: >-
-  Der Faktencheck von Operation Libero ist nicht objektiv und enthält
-  Fehlinformationen und Selektionen.
+  Der «Faktencheck» von Operation Libero ist keine neutrale Wahrheitsprüfung,
+  sondern eine politische Replik, die selbst selektiv Statistik führt, unbequeme
+  Daten auslässt und mit der Etikette «Faktencheck» Pseudo-Objektivität
+  inszeniert.
 zusammenfassung: >-
-  Der Artikel analysiert den Faktencheck von Operation Libero zur
-  SVP-Abstimmungszeitung und kritisiert die Methode und die Ergebnisse. Der
-  Faktencheck wird als nicht objektiv und mit Fehlinformationen und Selektionen
-  angesehen. Der Artikel fordert eine ehrliche und transparente Information der
-  Öffentlichkeit.
+  Der 9min-Artikel analysiert den Faktencheck von Operation Libero zur
+  SVP-Abstimmungszeitung und attestisiert ihm einerseits berechtigte
+  Korrekturen, wirft ihm aber andererseits selektive Statistikführung,
+  Auslassung unbequemer Daten (Urbaniok, 72% Gefängnisinsassen,
+  Tatverdächtigenraten) und ideologische Nachbearbeitung vor. Kernkritik: Ein
+  Text, der sich «Faktencheck» nennt, aber wie eine politische Gegenrede
+  funktioniert, entwertet den Begriff und schadet dem demokratischen Diskurs,
+  weil Leser eine vermeintlich objektive Korrektur lesen, tatsächlich aber eine
+  zweite parteiische Position.
 quelle_datum: '2026-05-04'
 quelle_format: Online-Artikel
 quelle_sendung: ''

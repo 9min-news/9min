@@ -6,54 +6,60 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HJZXEhOWwAY4Nkt.jpg'
 tweetId: '2059929819370914242'
 categories:
+  - SRF/SRG
+  - Migration
   - Gesellschaft
-  - Demokratie
 tags:
   - SRF
-  - Medienmanipulation
-  - Terroranschlag
   - Winterthur
+  - Messerangriff
   - Allahu Akbar
-  - Schweizer Staatsbürger
-  - Migration
-  - Integration
+  - Auslassung
+  - Framing
+  - Normalisierung
+  - redaktionelle Linie
 seo:
   description: >-
     Ein Mann sticht am Bahnhof Winterthur auf vier Passanten ein. Drei werden
     verletzt, einer schwer. Der Täter ruft «Allahu Akbar». Es ist 8:30 Uhr
     morgens,…
 themen:
-  - Medienkritik
-  - Berichterstattung
-  - Terrorismus
-  - Islamismus
-  - Schweizer Politik
-kritisiertes_medium: SRF
+  - Berichterstattung über Gewalttaten
+  - Islamismus in Medien
+  - redaktionelle Selektion
+  - Normalisierung durch Minimalisierung
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Unbekannter greift Mann am Bahnhof Winterthur an
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
   - Framing
-  - Kontextmangel
+  - Selektion
 personen: []
 institutionen:
   - SRF
   - Kantonspolizei Zürich
+  - Nau
+  - Focus
+  - Merkur
+  - Berliner Zeitung
 gesetze_vorlagen: []
 these: >-
-  Die SRF-Berichterstattung über den Terroranschlag in Winterthur ist lückenhaft
-  und manipulativ, um ein bestimmtes Narrativ zu unterstützen.
+  SRF berichtet bei Gewalttaten mit möglichem islamistischen Hintergrund
+  systematisch minimal und lässt zentrale Fakten wie den Allahu-Akbar-Ruf und
+  die tatsächliche Opferzahl weg, um ein Narrativ zu stützen.
 zusammenfassung: >-
-  Der Artikel kritisiert die Berichterstattung des SRF über den Terroranschlag
-  in Winterthur, bei dem ein Mann vier Passanten angriff und 'Allahu Akbar'
-  rief. Der SRF-Bericht ist sehr knapp und lässt wichtige Details wie den Ruf
-  'Allahu Akbar' und die Anzahl der Verletzten aus. Im Gegensatz dazu berichten
-  andere Medien, wie ein deutsches Wochenmagazin und ein Schweizer
-  Online-Portal, ausführlicher und schneller über die Tat.
+  Der Artikel kritisiert die SRF-Berichterstattung über einen Messerangriff am
+  Bahnhof Winterthur, bei dem ein Täter auf vier Passanten einstach und 'Allahu
+  Akbar' rief. SRF erwähnte nur ein Opfer, liess den Allahu-Akbar-Ruf weg und
+  beschränkte sich auf vier Sätze, während deutsche Medien und das Schweizer
+  Portal Nau die wesentlichen Fakten schneller und vollständiger lieferten. Der
+  Autor sieht darin eine bewusste redaktionelle Strategie der Normalisierung
+  durch Minimalisierung.
 quelle_datum: '2026-05-28'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: ''
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

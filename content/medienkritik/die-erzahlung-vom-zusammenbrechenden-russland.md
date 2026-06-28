@@ -6,54 +6,63 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HI0pmfZWEAAaxg7.jpg'
 tweetId: '2057346534589538608'
 categories:
-  - Wirtschaft
-  - Gesellschaft
-  - Medienrecht
+  - SRF/SRG
+  - EU/Aussenpolitik
+  - Sicherheitspolitik
 tags:
-  - Russland
-  - Wirtschaft
-  - Krieg
-  - Rekrutierung
   - Sanktionen
-  - Medienkritik
+  - Russland
+  - Kriegswirtschaft
+  - Ölpreise
+  - Rekrutierung
+  - Auslassung
+  - Narrativ
+  - Selektion
 seo:
   description: >-
     Wie SRF Wirtschaftskrise und Kriegsrekrutierung verknüpft — und dabei die
     unbequemen Fragen vermeidet Zum Beitrag von Calum MacKenzie: «Wie der Krieg…
 themen:
-  - Russland
-  - Wirtschaftskrise
-  - Kriegsrekrutierung
-  - Sanktionen
-kritisiertes_medium: SRF
-kritisierter_beitrag: Wie der Krieg Russland ärmer macht
+  - Sanktionspolitik gegen Russland
+  - Russische Kriegswirtschaft
+  - Medienberichterstattung Ukraine-Krieg
+  - Wirtschaftliche Anpassung Russlands
+  - Rekrutierung und Armut
+kritisiertes_medium: SRF News
+kritisierter_beitrag: 'Trotz hohem Ölpreis: Wie der Krieg Russland ärmer macht'
 kritisierter_autor: Calum MacKenzie
 kritik_typ:
   - Auslassung
+  - Selektion
   - Framing
-  - Kontextmangel
 personen:
   - Calum MacKenzie
   - Ingvar Kamprad
+  - Sergei
 institutionen:
   - SRF
   - Ikea
-gesetze_vorlagen: []
+  - Russische Armee
+gesetze_vorlagen:
+  - Sanktionen gegen Russland
 these: >-
-  Der Artikel von SRF über die Wirtschaftskrise in Russland ist durch Auslassung
-  und Framing gekennzeichnet und vermeidet unbequeme Fragen.
+  SRF berichtet selektiv über die russische Wirtschaftskrise und verschweigt
+  wesentliche Gegenfakten, um die Erzählung vom zusammenbrechenden Russland und
+  der wirksamen Sanktionspolitik aufrechtzuerhalten.
 zusammenfassung: >-
-  Der Artikel beschreibt die Wirtschaftskrise in Russland und die Rekrutierung
-  von Männern für den Krieg, aber vermeidet es, die unbequemen Fragen zu
-  stellen, wie z.B. ob die Sanktionen wirken und ob die Krise tief genug ist, um
-  den Krieg zu beenden. Der Artikel ist durch Auslassung und Framing
-  gekennzeichnet und vermittelt ein unvollständiges Bild der Situation in
-  Russland.
+  Der 9min.ch-Artikel kritisiert den SRF-Beitrag von Calum MacKenzie als
+  handwerklich solide, aber unvollständig: Zwar würden Verzweiflung und Armut in
+  Russland realistisch gezeigt, jedoch wesentliche Gegenfakten fehlen — das
+  Wachstum der Rüstungsindustrie, funktionierende Öl- und Gasexporte nach Asien,
+  die laufende Rekrutierung und die wirtschaftliche Anpassung. Diese
+  Auslassungen stützten die Erzählung, dass Sanktionen wirken und Russland kurz
+  vor dem Zusammenbruch stehe, ohne die unbequeme Frage zu stellen, ob die Krise
+  tief genug sei, um den Krieg zu beenden.
 quelle_datum: '2026-05-21'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: SRF Wirtschaft
-kritik_schwere: 2
+quelle_redaktion: SRF News International
+kritik_schwere: 3
 ---
 
 *Wie SRF Wirtschaftskrise und Kriegsrekrutierung verknüpft — und dabei die unbequemen Fragen vermeidet

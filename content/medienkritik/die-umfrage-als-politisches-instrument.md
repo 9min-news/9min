@@ -6,54 +6,66 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHxW4sWXUAYwWYm.jpg'
 tweetId: '2052611184281477391'
 categories:
-  - Medienrecht
-  - Demokratie
-  - Wirtschaft
-tags:
-  - SRF
-  - Umfrage
+  - SRF/SRG
+  - Abstimmungen
   - Migration
-  - Politik
-  - Medien
-  - Demokratie
-  - Wirtschaft
+tags:
+  - SRG-Umfrage
+  - GFS Bern
+  - Selbstselektion
+  - Opt-in-Verfahren
+  - Tabu-Framing
+  - SVP-Zuschreibung
+  - Auftragsabhängigkeit
+  - Abstimmungskampf
 seo:
   description: >-
     Zur SRF-Berichterstattung «1. SRG-Umfrage: Spannung bei ‹Keine
     10-Mio-Schweiz› – Ja zum Zivildienstgesetz», 8. Mai 2026 Was berichtet wird
     SRF…
 themen:
-  - Umfragen
-  - Politische Berichterstattung
-  - Migration
-kritisiertes_medium: SRF
+  - Umfragemethodik
+  - Abstimmungsberichterstattung
+  - Interessenkonflikt bei demoskopischer Forschung
+  - Framing migrationskritischer Positionen
+  - Politische Wirkung von Umfragen
+kritisiertes_medium: SRF News
 kritisierter_beitrag: '1. SRG-Umfrage: Spannung bei ‹Keine 10-Mio-Schweiz› – Ja zum Zivildienstgesetz'
 kritisierter_autor: ''
 kritik_typ:
   - Framing
-  - Selektion
-  - Kontextmangel
+  - Auslassung
+  - Interessenkonflikt
 personen:
   - Lukas Golder
 institutionen:
   - SRF
   - SRG
   - GFS Bern
+  - SVP
+  - SP
+  - Grüne
+  - Bundesrat
+  - Tamedia
+  - Ringier
 gesetze_vorlagen:
+  - Initiative «Keine 10-Mio-Schweiz»
   - Zivildienstgesetz
-  - Keine 10-Mio-Schweiz-Initiative
 these: >-
-  Die SRF-Berichterstattung über die Umfrage zur Initiative 'Keine
-  10-Mio-Schweiz' ist methodisch problematisch und interpretativ tendenziös.
+  Die SRF-Umfrage kombiniert eine methodisch problematische Stichprobe mit einer
+  interpretativen Einordnung, die migrationskritische Positionen systematisch
+  als SVP-Phänomen und psychologisches Tabu-Relikt kodiert und so die
+  tatsächlichen Mehrheitsverhältnisse strukturell verzerrt.
 zusammenfassung: >-
-  Die SRF-Berichterstattung über die Umfrage zur Initiative 'Keine
-  10-Mio-Schweiz' wird kritisiert, da sie methodisch problematisch und
-  interpretativ tendenziös ist. Die Umfrage kombiniert eine kleine
-  repräsentative Stichprobe mit einer grossen selbstselektierten
-  Online-Komponente und wird von einem Institut durchgeführt, das wirtschaftlich
-  von der SRG abhängt. Die Berichterstattung kodiert migrationskritische
-  Positionen systematisch als SVP-Phänomen und erklärt sie psychologisch als
-  Tabu-Erosion.
+  Der Artikel kritisiert die SRF-Berichterstattung über die erste
+  SRG-Abstimmungsumfrage vom 8. Mai 2026. Beanstandet werden die methodische
+  Vermischung von 501 telefonisch repräsentativ Befragten mit 18'721
+  selbstrekrutierten Online-Teilnehmenden, die wirtschaftliche Abhängigkeit von
+  GFS Bern von der SRG sowie die Asymmetrie in der Einordnung, die 47 Prozent
+  Ja-Stimmen als «SVP-Umfeld» markiert, während die Nein-Seite als breite
+  Allianz erscheint. Die psychologische Deutung Golders («Tabu-Erosion») werde
+  als selbstverständlich präsentiert, ohne alternative Sach-Erklärungen
+  anzubieten.
 quelle_datum: '2026-05-08'
 quelle_format: Online-Artikel
 quelle_sendung: ''

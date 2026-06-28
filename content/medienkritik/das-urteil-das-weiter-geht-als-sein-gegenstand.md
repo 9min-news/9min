@@ -7,56 +7,75 @@ coverImage: 'https://pbs.twimg.com/media/HGfnYXkXMAAXEZm.jpg'
 tweetId: '2046859073350443410'
 categories:
   - EU/Aussenpolitik
-  - Medienrecht
-  - Demokratie
+  - SRF/SRG
+  - Gesellschaft
 tags:
   - EuGH
-  - Ungarn
-  - LGBTQI
+  - Artikel 2 EUV
   - Grundwerte
-  - EU-Recht
-  - Medienkritik
+  - Justiziabilität
+  - Souveränität
+  - Orbán
+  - Jugendschutz
+  - Kompetenzausweitung
 seo:
   description: >-
     Zum SRF-Beitrag «Ungarn verstösst mit Anti-LGBTQI-Gesetz gegen
     EU-Grundwerte» vom 20. April 2026 Der Europäische Gerichtshof hat
     entschieden: Ungarns…
 themen:
-  - Europäischer Gerichtshof
-  - Ungarn
-  - LGBTQI-Rechte
-  - Grundwerte der EU
-kritisiertes_medium: SRF
+  - EuGH-Urteil zu Ungarn
+  - Justiziabilität von EU-Grundwerten
+  - LGBTQI-Gesetzgebung Ungarn
+  - Medienberichterstattung über EU-Recht
+  - Schweiz-EU-Verhältnis
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Ungarn verstösst mit Anti-LGBTQI-Gesetz gegen EU-Grundwerte
 kritisierter_autor: ''
 kritik_typ:
+  - Kontextmangel
   - Auslassung
   - Framing
-  - Kontextmangel
 personen:
   - Viktor Orbán
 institutionen:
-  - Europäischer Gerichtshof
   - SRF
+  - EuGH
   - EU
+  - Ungarn
+  - Polen
+  - Slowakei
+  - Italien
+  - Grossbritannien
+  - Deutschland
+  - Brüssel
+  - Budapest
 gesetze_vorlagen:
-  - Artikel 2 des EU-Vertrags
+  - Artikel 2 EU-Vertrag
+  - ungarisches Anti-LGBTQI-Gesetz 2021
+  - Section 28 (UK)
+  - deutsches Selbstbestimmungsgesetz
+  - spanisches Transgender-Gesetz
+  - Artikel-7-Verfahren
 these: >-
-  Der SRF-Beitrag präsentiert das Urteil des Europäischen Gerichtshofs als
-  Selbstverständlichkeit, ohne die juristischen und politischen Implikationen
-  ausreichend zu diskutieren.
+  Der SRF-Beitrag präsentiert ein verfassungsrechtlich bahnbrechendes
+  EuGH-Urteil als Selbstverständlichkeit und blendet die juristische Tragweite,
+  die inhaltliche Differenzierung des ungarischen Gesetzes sowie die
+  Souveränitäts- und Schweiz-Implikationen systematisch aus.
 zusammenfassung: >-
-  Der Europäische Gerichtshof hat entschieden, dass Ungarns Gesetz von 2021
-  gegen EU-Recht verstösst. Der SRF-Beitrag berichtet über das Urteil, ohne die
-  tiefere Bedeutung und die politischen Implikationen ausreichend zu
-  diskutieren. Die Entscheidung des EuGH hat weitreichende Folgen für die EU und
-  ihre Mitgliedstaaten, insbesondere in Bezug auf die Grundwerte der EU und die
-  Kompetenzverteilung zwischen der EU und den Mitgliedstaaten.
+  9min.ch kritisiert die SRF-Berichterstattung über das erste EuGH-Urteil, das
+  einen Verstoss gegen die EU-Grundwerte gemäss Artikel 2 EUV feststellt. Der
+  Beitrag lasse die juristische Premiere der Justiziabilität von Grundwerten
+  ebenso unerörtert wie den konkreten Inhalt des ungarischen
+  Jugendschutzgesetzes, den politischen Kontext des EU-Orbán-Konflikts und die
+  verfassungsrechtliche Kompetenzverschiebung. Für die Schweiz sei die
+  Implikation für eine künftige institutionelle Anbindung an die EU relevant,
+  werde aber vom SRF nicht thematisiert.
 quelle_datum: '2026-04-20'
 quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
-kritik_schwere: 2
+kritik_schwere: 3
 ---
 
 *Zum SRF-Beitrag *[«Ungarn verstösst mit Anti-LGBTQI-Gesetz gegen EU-Grundwerte»](https://www.srf.ch/news/gesellschaft/europaeischer-gerichtshof-ungarn-verstoesst-mit-anti-lgbtqi-gesetz-gegen-eu-grundwerte)* vom 20. April 2026*

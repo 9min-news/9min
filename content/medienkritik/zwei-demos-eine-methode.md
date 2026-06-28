@@ -7,61 +7,77 @@ coverImage: 'https://pbs.twimg.com/media/HIBN7uRXcAAvvHt.jpg'
 tweetId: '2053727156711104803'
 categories:
   - Medienrecht
-  - Zensur/Meinungsfreiheit
   - Demokratie
+  - EU/Aussenpolitik
 tags:
-  - Ladina Triaca
-  - NZZ am Sonntag
-  - Journalistische Methode
   - Vernetzungsanalyse
-  - Politische Sache
-  - Abstimmungsdebatte
+  - Asymmetrie
+  - Positionsjournalismus
+  - Abstimmungskampf
+  - Protestkultur
+  - Recherchequalität
+  - NZZ am Sonntag
+  - Ladina Triaca
 seo:
   description: >-
     Zu zwei Reportagen von Ladina Triaca: «Wir tragen oben Dunkel, Regenhose und
     dunkle Schuhe» (NZZaS, 18. Oktober 2025) und «Rimoldi rief — und seine…
 themen:
-  - Journalismus
-  - Politische Berichterstattung
-  - Extremismus
-  - Demonstrationen
-  - Medienkritik
+  - Journalistische Methode der Vernetzungsanalyse
+  - Asymmetrie in der Berichterstattung
+  - EU-Vertragspaket-Abstimmung
+  - Positionsjournalismus im Abstimmungskampf
 kritisiertes_medium: NZZ am Sonntag
-kritisierter_beitrag: 'Zwei Demos, eine Methode'
+kritisierter_beitrag: >-
+  «Wir tragen oben Dunkel, Regenhose und dunkle Schuhe» (18.10.2025) und
+  «Rimoldi rief — und seine rechten Freunde kamen» (10.05.2026)
 kritisierter_autor: Ladina Triaca
 kritik_typ:
   - Auslassung
-  - Framing
   - Asymmetrie
+  - Framing
 personen:
   - Ladina Triaca
-  - Andrea Stauffacher
   - Nicolas Rimoldi
   - Oskar Freysinger
   - Petar Petrov
+  - Andrea Stauffacher
+  - Hannes Boos
 institutionen:
   - NZZ am Sonntag
   - Revolutionärer Aufbau
   - Bewegung für den Sozialismus
+  - Zäme stah international
+  - Klimastreik
   - Mass-voll
   - Junge Tat
+  - SVP
+  - Vazrazhdane
+  - Watermelon University
 gesetze_vorlagen:
   - EU-Vertragspaket
+  - Budapester Erklärung
 these: >-
-  Die journalistische Methode von Ladina Triaca ist asymmetrisch und dient einer
-  kohärenten redaktionellen Linie gegen Linksradikalismus und rechte
-  Randgruppen.
+  Die NZZ am Sonntag wendet dieselbe journalistische Methode der
+  Vernetzungsanalyse auf zwei Demonstrationen an, produziert dabei aber
+  asymmetrische Resultate: substanzielle Recherche zu realen linksradikalen
+  Gefahren im einen Fall, abstimmungspolitisches Positionsjournalismus mit
+  dünner Substanz im anderen.
 zusammenfassung: >-
-  Der Artikel analysiert zwei Reportagen von Ladina Triaca und zeigt, dass ihre
-  Methode asymmetrisch ist und je nach politischer Sache unterschiedliche
-  Resultate produziert. Die Methode konzentriert sich auf das Milieu der
-  Protestierenden und nicht auf die politische Sache selbst. Der Artikel
-  kritisiert die journalistische Praxis und die politische Konsequenz, die aus
-  der Berichterstattung gezogen wird.
-quelle_datum: '2026-05-27'
-quelle_format: Online-Artikel
+  Der Artikel vergleicht zwei Reportagen von Ladina Triaca in der NZZaS, die
+  beide dieselbe Methode der Vernetzungsanalyse anwenden, aber auf
+  unterschiedliche Faktenlagen treffen. Während der Oktober-Artikel
+  substanzielle Recherche zu linksradikalen Gruppen mit Terror-Sympathien und
+  Gewaltbereitschaft liefert, produziert der Mai-Artikel fünf Wochen vor der
+  EU-Vertragspaket-Abstimmung ein dünneres Stück, das eine rechte
+  Randveranstaltung als repräsentativ für den Widerstand suggeriert. Die Kritik
+  richtet sich gegen die asymmetrische Behandlung, die Auslassung der
+  politischen Sachfrage und die unterschiedliche politische Konsequenz
+  (Verbotsforderung vs. Wegfotografieren).
+quelle_datum: '2026-05-10'
+quelle_format: Print
 quelle_sendung: ''
-quelle_redaktion: 9min.ch
+quelle_redaktion: NZZ am Sonntag
 kritik_schwere: 3
 ---
 

@@ -6,33 +6,36 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HGLxlNxaYAAWFUa.jpg'
 tweetId: '2045462916611108896'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Gesellschaft
-  - Wirtschaft
+  - Demokratie
 tags:
-  - SRF
-  - Impfstoffe
-  - Haftungsrisiken
-  - Krisenbeschaffung
-  - Mainstream
-  - Medienkritik
+  - News Plus
+  - Haftungsfrage
+  - BAG
+  - Moderna
+  - Impfschäden
+  - Steuerzahler
+  - Mainstream-Framing
+  - Behördenpropaganda
 seo:
   description: >-
     Und da ist sie endlich. Die Haftungsfrage, auf die wir seit Tagen warten.
     Elf Minuten und siebenundfünfzig Sekunden bei «News Plus». Man könnte
     denken:…
 themen:
-  - Impfschäden
-  - Haftungsklausel
-  - Krisenkommunikation
+  - Covid-Impfschäden
+  - Pharma-Haftung
+  - Krisenbeschaffung
+  - Behördenkommunikation
   - Medienkritik
 kritisiertes_medium: SRF
-kritisierter_beitrag: News Plus-Podcast
+kritisierter_beitrag: 'Covid-Impfschäden: Weshalb die Pharma bei der Haftung entlastet wurde'
 kritisierter_autor: ''
 kritik_typ:
+  - Behördenpropaganda
   - Auslassung
   - Framing
-  - Kontextmangel
 personen:
   - Irène Dietschi
   - Sven Zaugg
@@ -40,20 +43,27 @@ institutionen:
   - SRF
   - BAG
   - Swissmedic
+  - Moderna
+  - Bund
+  - EU
 gesetze_vorlagen: []
 these: >-
-  Der SRF-Podcast entschärft die Haftungsklausel für Impfschäden, indem er die
-  Problematik durch Expertenmeinungen und Normalisierungen relativiert.
+  SRF nennt die Haftungsfrage bei Covid-Impfstoffen zwar, entschärft sie aber
+  systematisch durch Behördenpropaganda, Framing und Auslassungen, sodass
+  institutionelle Konsequenzen verdampfen.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Podcast für seine Darstellung der
-  Haftungsklausel für Impfschäden. Der Podcast benennt die Klausel, aber
-  entschärft sie sofort durch Expertenmeinungen und Normalisierungen. Der
-  Artikel argumentiert, dass der Podcast die Problematik nicht ausreichend
-  thematisiert und stattdessen die Perspektive der Institutionen übernimmt.
+  Der 9min-Artikel analysiert den SRF-Podcast 'News Plus' zur Haftungsfrage bei
+  Covid-Impfstoffen. Er zeigt auf, wie SRF die zentrale Tatsache (Staat
+  übernimmt Haftung, Hersteller entlastet) zwar nennt, sie aber durch drei
+  Entschärfungsmanöver — Wissenschaftsredaktorin relativiert Nebenwirkungen,
+  Wirtschaftsredaktor normalisiert als 'internationalen Mainstream',
+  BAG-Begründung wird wörtlich übernommen — systematisch einhegt. Konkrete
+  Anschlussfragen zu Entschädigungszahlen und zur Fortschreibung der Klausel in
+  späteren Beschaffungen werden nicht gestellt.
 quelle_datum: ''
-quelle_format: Online-Artikel
+quelle_format: Podcast
 quelle_sendung: News Plus
-quelle_redaktion: SRF
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

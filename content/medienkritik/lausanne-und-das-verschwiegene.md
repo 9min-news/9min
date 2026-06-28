@@ -6,56 +6,66 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HILNCO5XcAA9Et6.jpg'
 tweetId: '2054429840040698329'
 categories:
-  - Medienrecht
+  - SRF/SRG
+  - Migration
   - Gesellschaft
-  - Migration
 tags:
-  - Sozialhilfebetrug
-  - Drogenhandel
-  - Lausanne
   - SRF
-  - Medienkritik
-  - Migration
-  - Diaspora
+  - Lausanne
+  - Sozialhilfebetrug
+  - Diaspora-Netzwerke
+  - Minnesota
+  - Kalifornien
+  - Auslassung
+  - Selbstzensur
 seo:
   description: >-
     Zum SRF-Beitrag «Polizeiaktion in Lausanne führt zu über 180
     Strafverfolgungen», 12. Mai 2026 Was berichtet wird Roman Fillinger
     berichtet über eine…
 themen:
-  - Sozialbetrug
-  - Diaspora-Strukturen
-  - Medienberichterstattung
-kritisiertes_medium: SRF
+  - Sozialhilfebetrug durch organisierte Strukturen
+  - Redaktionelle Auslassung bei SRF
+  - Diaspora-organisierter Sozialbetrug im internationalen Vergleich
+  - Kontrollversagen von Sozialdiensten
+  - Berichterstattung über Migration und Kriminalität
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Polizeiaktion in Lausanne führt zu über 180 Strafverfolgungen
 kritisierter_autor: Roman Fillinger
 kritik_typ:
   - Auslassung
   - Kontextmangel
+  - Framing
 personen:
   - Roman Fillinger
-  - Hildbrand
   - Kaltenrieder
+  - Hildbrand
 institutionen:
   - SRF
   - Waadtländer Polizei
+  - FBI
   - Sozialdienste
+  - Generalstaatsanwaltschaft Waadt
 gesetze_vorlagen: []
 these: >-
-  Der SRF-Beitrag über die Polizeiaktion in Lausanne ist ein Beispiel für eine
-  Berichterstattung, die das Sichtbare benennt, aber das Unsichtbare unbenannt
-  lässt.
+  SRF berichtet zwar korrekt über den Lausanner Fall, lässt aber systematisch
+  strukturelle Fragen und internationale Parallelen zu Diaspora-organisiertem
+  Sozialbetrug weg, was zu einer sanitisierten Berichterstattung führt, die dem
+  demokratischen Diskurs schadet.
 zusammenfassung: >-
-  Der Artikel kritisiert den SRF-Beitrag über die Polizeiaktion in Lausanne,
-  weil er die strukturellen Fragen und internationalen Parallelen zum
-  Sozialbetrug durch Diaspora-Strukturen nicht thematisiert. Der Beitrag wird
-  als Beispiel für eine Berichterstattung gesehen, die ihre Leser für unmündig
-  hält und keine mündige Öffentlichkeit schafft.
+  Der 9min-Artikel analysiert einen SRF-Beitrag über eine Polizeiaktion in
+  Lausanne, bei der 1,9 Millionen Franken Sozialhilfebetrug durch eritreische
+  Diaspora-Strukturen aufgedeckt wurden. Er kritisiert, dass SRF zwar Fakten
+  nennt, aber weder strukturelle Folgefragen stellt noch internationale
+  Parallelen zu ähnlichen Skandalen in Minnesota und Kalifornien zieht. Diese
+  systematische Auslassung wird als redaktionelle Selbstzensur interpretiert,
+  die strukturelle Probleme verschweigt und die Wissensaufspaltung in der
+  Gesellschaft fördert.
 quelle_datum: '2026-05-12'
 quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
-kritik_schwere: 2
+kritik_schwere: 3
 ---
 
 *Zum SRF-Beitrag *[«Polizeiaktion in Lausanne führt zu über 180 Strafverfolgungen»](https://www.srf.ch/news/schweiz/grossoperation-der-polizei-polizeiaktion-in-lausanne-fuehrt-zu-ueber-180-strafverfolgungen)*, 12. Mai 2026*

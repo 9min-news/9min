@@ -6,52 +6,61 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HIjIBe9XYAAoSin.jpg'
 tweetId: '2056115138906685905'
 categories:
-  - Medienrecht
+  - SRF/SRG
   - Gesellschaft
-  - Demokratie
+  - Medienrecht
 tags:
   - SRF
+  - Verdingkinder
+  - COVID-Massnahmen
+  - RKI-Protokolle
+  - Uniproteste
   - Aufarbeitung
-  - Vergangenheit
-  - Gegenwart
   - Transparenz
-  - Rechenschaftspflicht
-  - Medienkritik
+  - Bundesgericht
 seo:
   description: >-
     Warum SRF die Aufarbeitung der Vergangenheit feiert — und die Aufarbeitung
     der Gegenwart vor Bundesgericht bekämpft Zum SRF-Beitrag «Das Leid und die…
 themen:
-  - Aufarbeitung der Vergangenheit
-  - Medienkritik
-  - Transparenz und Rechenschaftspflicht
-kritisiertes_medium: SRF
+  - Aufarbeitung von Zwangsmassnahmen
+  - COVID-Massnahmen und Transparenz
+  - Medienberichterstattung und Asymmetrie
+  - Bundesgerichtsverfahren zu Informationszugang
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Das Leid und die Scham hallen lange nach
 kritisierter_autor: ''
 kritik_typ:
+  - Asymmetrie
   - Auslassung
   - Framing
-  - Interessenkonflikt
 personen:
   - Theresa Rohr
   - Susanne Kuster
+  - Simonetta Sommaruga
 institutionen:
   - SRF
   - Bundesamt für Justiz
+  - Bundesgericht
+  - Bundesrat
+  - RKI
 gesetze_vorlagen: []
 these: >-
-  SRF feiert die Aufarbeitung der Vergangenheit, während es vor Bundesgericht
-  gegen die Aufarbeitung der Gegenwart kämpft.
+  SRF feiert die Aufarbeitung historischer Zwangsmassnahmen, blockiert aber vor
+  Bundesgericht aktiv die Aufarbeitung der COVID-Massnahmen und zeigt damit eine
+  strukturelle Asymmetrie zugunsten bequemer Vergangenheitsbewältigung.
 zusammenfassung: >-
-  Der Artikel kritisiert SRF für seine Berichterstattung über die Aufarbeitung
-  der Vergangenheit, während es gleichzeitig vor Bundesgericht gegen die
-  Aufarbeitung der Gegenwart kämpft. Der Autor argumentiert, dass SRF die Opfer
-  von gestern eine Stimme gibt, aber die Opfer von heute 40 Jahre warten müssen,
-  bis ihre Geschichten erzählt werden.
+  Der Artikel kritisiert, dass SRF die Aufarbeitung der Verdingkindergeschichte
+  würdevoll präsentiert, gleichzeitig aber in zwei Bundesgerichtsverfahren den
+  Zugang zu Informationen über COVID-Massnahmen und Uniproteste verweigert.
+  Diese Asymmetrie wird als Muster gedeutet, bei dem Medien und Staat die
+  Aufarbeitung der Gegenwart verschleppen, weil die Verantwortlichen noch im Amt
+  sind. Die 40-Jahre-Regel wird als ungeschriebenes Prinzip staatlicher
+  Schadensabwicklung identifiziert.
 quelle_datum: '2026-05-17'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: ''
+quelle_redaktion: SRF News
 kritik_schwere: 3
 ---
 

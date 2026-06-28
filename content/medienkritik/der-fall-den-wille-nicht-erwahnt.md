@@ -6,59 +6,68 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HHx7um0WoAMzaKy.jpg'
 tweetId: '2052651614477947192'
 categories:
-  - Medienrecht
-  - Gesellschaft
-  - Demokratie
+  - SRF/SRG
+  - Zensur/Meinungsfreiheit
 tags:
   - SRG
-  - SRF
+  - Susanne Wille
+  - NZZ
   - RKI-Protokolle
   - UBI
   - Bundesgericht
-  - Medienaufsicht
+  - Pandemie-Aufarbeitung
   - Vielfaltsgebot
-  - Sachgerechtigkeitsgebot
 seo:
   description: >-
     Ergänzung zur Lektüre des NZZ-Gastkommentars von Susanne Wille — der
     RKI-Fall vor Bundesgericht Was Wille auslässt In ihrem NZZ-Text spricht
     Susanne Wille…
 themen:
-  - Medienkritik
-  - Pandemie-Berichterstattung
-  - Service public
-kritisiertes_medium: SRF
-kritisierter_beitrag: ''
+  - SRG-Vertrauenskrise
+  - RKI-Protokolle
+  - Pandemie-Aufarbeitung
+  - Medienaufsicht
+  - UBI-Rüge
+kritisiertes_medium: NZZ
+kritisierter_beitrag: Mehr Phantasie für den Medienplatz Schweiz
 kritisierter_autor: Susanne Wille
 kritik_typ:
   - Auslassung
   - Framing
-  - Kontextmangel
 personen:
   - Susanne Wille
 institutionen:
+  - NZZ
   - SRG
   - SRF
   - UBI
   - Bundesgericht
-  - RKI
+  - Robert Koch-Institut
+  - Ombudsstelle SRF
+  - ARD
+  - ZDF
+  - Spiegel
+  - Süddeutsche Zeitung
+  - FAZ
+  - Multipolar
 gesetze_vorlagen:
-  - Vielfaltsgebot
-  - Sachgerechtigkeitsgebot
+  - Halbierungsinitiative
 these: >-
-  Die SRG hat durch ihre Auslassung der RKI-Protokolle ihre programmliche
-  Verantwortung verletzt und damit die Vertrauenskrise des Service public
-  verschärft.
+  Susanne Wille verschweigt in ihrem NZZ-Gastkommentar den hängigen
+  Bundesgerichtsfall zur SRG-Unterlassung der RKI-Protokoll-Berichterstattung
+  und stellt die Vertrauenskrise des Service public als rein extern verursacht
+  dar, obwohl eine UBI-Rüge ein strukturelles Versagen der SRG attestiert hat.
 zusammenfassung: >-
-  Der Artikel kritisiert die SRG für ihre Auslassung der RKI-Protokolle in ihrer
-  Berichterstattung. Die UBI hat festgestellt, dass die SRG damit das
-  Vielfaltsgebot verletzt hat. Der Artikel argumentiert, dass die SRG ihre
-  eigene Rolle in der Vertrauenskrise des Service public systematisch ausblendet
-  und stattdessen externe Faktoren für die Krise verantwortlich macht.
+  Der Artikel kritisiert Susanne Willes NZZ-Gastkommentar zur
+  SRG-Vertrauenskrise, weil er den hängigen Bundesgerichtsfall zur unterlassenen
+  Berichterstattung über die RKI-Protokolle verschweigt. Die UBI hatte im April
+  2025 eine Vielfaltsverletzung festgestellt, die SRG zieht vor Bundesgericht.
+  Der Autor sieht in Willes Auslassung eine strategische Selbstdarstellung der
+  SRG als reines Opfer externer Faktoren.
 quelle_datum: ''
-quelle_format: ''
+quelle_format: Print
 quelle_sendung: ''
-quelle_redaktion: ''
+quelle_redaktion: NZZ Meinung
 kritik_schwere: 3
 ---
 

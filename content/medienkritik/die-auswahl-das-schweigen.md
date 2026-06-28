@@ -6,53 +6,72 @@ type: medienkritik
 coverImage: 'https://pbs.twimg.com/media/HEuzHMvW8AApcof.jpg'
 tweetId: '2038920262721171816'
 categories:
-  - Medienrecht
-  - Gesellschaft
+  - SRF/SRG
+  - Migration
   - Demokratie
 tags:
-  - Asylrecht
-  - Kommunale Ausgaben
-  - Medienkritik
-  - SRF
   - Wattwil
+  - SRF
+  - Auslassung
+  - Asylkosten
+  - Lex Kirchberg
   - Toggenburg
+  - vorläufige Aufnahme
+  - Medienauswahl
 seo:
   description: >-
     Am 11. März 2026 präsentiert der Gemeindepräsident von Wattwil, Alois
     Gunzenreiner (Mitte), an der Vorgemeinde im Thurparksaal eine Zahl: Eine
     Familie mit…
 themen:
-  - Asylpolitik
-  - Medienberichterstattung
-  - Kommunale Finanzierung
+  - Asylkosten in Wattwil
+  - redaktionelle Auslassung
+  - Lex Kirchberg
+  - kommunale Finanzierung vorläufig Aufgenommener
+  - Medienauswahl als politische Steuerung
 kritisiertes_medium: SRF
-kritisierter_beitrag: ''
+kritisierter_beitrag: Wolf beisst in Hamburg eine Frau
 kritisierter_autor: ''
 kritik_typ:
   - Auslassung
+  - Asymmetrie
   - Selektion
 personen:
   - Alois Gunzenreiner
 institutionen:
   - SRF
-  - Gemeinde Wattwil
+  - SWI swissinfo.ch
   - SP Toggenburg
+  - Blick
+  - St. Galler Tagblatt
+  - Weltwoche
+  - Toggenburg24
+  - Linth24
+  - TVO
+  - Vaterland
+  - Gemeinde Wattwil
 gesetze_vorlagen:
   - Lex Kirchberg
 these: >-
-  Die SRF berichtet nicht über die hohen Asylkosten in Wattwil, obwohl dies ein
-  wichtiges Thema für die Schweizer Bevölkerung ist.
+  SRF lässt einen konkreten, politisch brisanten Fall hoher kommunaler
+  Asylkosten in Wattwil bewusst unerwähnt, während fast alle anderen
+  Deutschschweizer Medien darüber berichten, und verzerrt damit die öffentliche
+  Wahrnehmung eines demokratisch zentralen Themas.
 zusammenfassung: >-
-  Der Gemeindepräsident von Wattwil präsentiert die hohen Asylkosten für eine
-  Familie an einer öffentlichen Veranstaltung. Die meisten Medien berichten
-  darüber, aber die SRF nicht. Dies wirft Fragen über die Auswahl der Themen in
-  der Medienberichterstattung auf. Die Geschichte ist relevant für die nationale
-  Diskussion über die Asylpolitik und die kommunale Finanzierung.
-quelle_datum: '2026-03-11'
+  Der Artikel dokumentiert, dass der Gemeindepräsident von Wattwil an einer
+  Vorgemeinde Kosten von rund 400'000 Franken pro Jahr für eine vorläufig
+  aufgenommene Familie präsentierte, was von fast allen Deutschschweizer Medien
+  aufgegriffen wurde – ausser von SRF und SWI swissinfo.ch. 9min.ch kritisiert
+  diese Auslassung als bewusste redaktionelle Auswahl, die den Fall politisch
+  unsichtbar mache, während SRF im selben Monat irrelevante ausländische
+  Geschichten wie einen Wolfsbiss in Hamburg sende. Die Kritik richtet sich
+  gegen die Asymmetrie in der Themensetzung und die mangelnde Berichterstattung
+  über ein direkt demokratisch relevantes Schweizer Thema.
+quelle_datum: '2026-03-31'
 quelle_format: Online-Artikel
 quelle_sendung: ''
-quelle_redaktion: ''
-kritik_schwere: 2
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 Am 11. März 2026 präsentiert der Gemeindepräsident von Wattwil, Alois Gunzenreiner (Mitte), an der Vorgemeinde im Thurparksaal eine Zahl: Eine Familie mit vorläufiger Aufnahme: zwei Eltern, vier unmündige Kinder, 2023 über die Balkanroute eingereist. Die Familie kostet die Gemeinde rund 400'000 Franken pro Jahr. Sozialhilfe, Wohnkosten, Integrationsmassnahmen. Er nennt keine Namen. Er präsentiert eine kommunale Ausgabe an einer öffentlichen Veranstaltung über kommunale Ausgaben.
