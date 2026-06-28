@@ -18,21 +18,45 @@ export interface ArticleFrontmatter {
   date: string
   updated?: string
   status: 'draft' | 'published'
-  type: 'chronik' | 'analyse' | 'grundlage'
+  type: 'chronik' | 'analyse' | 'grundlage' | 'medienkritik'
   tags?: string[]
   themen?: string[]
+  categories?: string[]
   outlet?: string
   readingTime?: number
   coverImage?: string
+  tweetId?: string
+  seriesIndex?: number
+  series?: string
   related?: string[]
   audio?: AudioMeta
   seo?: { description?: string; canonical?: string }
   image?: { og?: string; alt?: string }
+  // Enrichment fields (written by scripts/enrich.ts)
+  kritisiertes_medium?: string
+  kritisierter_beitrag?: string
+  kritisierter_autor?: string
+  kritik_typ?: string[]
+  personen?: string[]
+  institutionen?: string[]
+  gesetze_vorlagen?: string[]
+  these?: string
+  zusammenfassung?: string
+  // Extended source attribution
+  quelle_url?: string
+  quelle_datum?: string
+  quelle_format?: string
+  quelle_sendung?: string
+  quelle_redaktion?: string
+  // Editorial
+  kritik_schwere?: 1 | 2 | 3
+  verwandte_artikel?: string[]
+  muster_id?: string
 }
 
 export interface Article {
   slug: string
-  type: 'chronik' | 'analyse' | 'grundlage'
+  type: 'chronik' | 'analyse' | 'grundlage' | 'medienkritik'
   frontmatter: ArticleFrontmatter
   content: string
 }
@@ -87,4 +111,43 @@ export function getArticle(slug: string): Article | null {
 
 export function getAllSlugs(): string[] {
   return getAllMarkdownFiles().map(f => f.slug)
+}
+
+export function getArticlesByCategory(category: string): Article[] {
+  return getAllArticles().filter(a =>
+    a.frontmatter.categories?.includes(category)
+  )
+}
+
+export function getAllCategories(): string[] {
+  const set = new Set<string>()
+  getAllArticles().forEach(a =>
+    a.frontmatter.categories?.forEach(c => set.add(c))
+  )
+  return Array.from(set).sort()
+}
+
+export function getAllKritikTypen(): string[] {
+  const set = new Set<string>()
+  getAllArticles().forEach(a =>
+    a.frontmatter.kritik_typ?.forEach(k => set.add(k))
+  )
+  return Array.from(set).sort()
+}
+
+export function getAllMedien(): string[] {
+  const set = new Set<string>()
+  getAllArticles().forEach(a => {
+    const m = a.frontmatter.kritisiertes_medium
+    if (m && m.length > 0) set.add(m)
+  })
+  return Array.from(set).sort()
+}
+
+export function getArticlesByKritikTyp(typ: string): Article[] {
+  return getAllArticles().filter(a => a.frontmatter.kritik_typ?.includes(typ))
+}
+
+export function getArticlesByMedium(medium: string): Article[] {
+  return getAllArticles().filter(a => a.frontmatter.kritisiertes_medium === medium)
 }

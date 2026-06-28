@@ -21,7 +21,13 @@ export async function POST(request: NextRequest) {
 
     // Buttondown embed returns 200 on success or 302 redirect
     if (res.ok || res.status === 302) {
-      return NextResponse.redirect(new URL('/danke', request.url), 303)
+      const response = NextResponse.redirect(new URL('/danke', request.url), 303)
+      response.cookies.set('9min_sub', '1', {
+        maxAge: 60 * 60 * 24 * 365,
+        path: '/',
+        sameSite: 'lax',
+      })
+      return response
     }
   } catch {
     // network error — fall through to error redirect

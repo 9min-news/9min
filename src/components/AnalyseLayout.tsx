@@ -3,6 +3,9 @@ import { Header } from './Header'
 import { Footer } from './Footer'
 import { ProgressBar } from './ProgressBar'
 import { NewsletterCTA } from './NewsletterCTA'
+import { InlineNewsletterCTA } from './InlineNewsletterCTA'
+import { ShareBar } from './ShareBar'
+import { BookmarkButton } from './BookmarkButton'
 import { ArticleCard } from './ArticleCard'
 import { mdxComponents } from './mdx'
 import { AudioPlayer } from './AudioPlayer'
@@ -17,6 +20,11 @@ interface AnalyseLayoutProps {
 export async function AnalyseLayout({ article }: AnalyseLayoutProps) {
   const { frontmatter, content, slug } = article
   const readingTime = frontmatter.readingTime ?? calculateReadingTime(content)
+
+  const splitAt = 5
+  const paragraphs = content.split(/\n\n+/)
+  const firstHalf = paragraphs.slice(0, splitAt).join('\n\n')
+  const secondHalf = paragraphs.slice(splitAt).join('\n\n')
 
   const relatedArticles = (frontmatter.related ?? [])
     .map(s => getArticle(s))
@@ -140,9 +148,17 @@ export async function AnalyseLayout({ article }: AnalyseLayoutProps) {
           <AudioPlayer audio={frontmatter.audio} style={{ margin: '0 0 40px' }} />
         )}
 
+        {/* Share + Bookmark */}
+        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '40px', gap: '12px', flexWrap: 'wrap' }}>
+          <ShareBar url={`https://9min.ch/${slug}`} title={frontmatter.title} />
+          <BookmarkButton slug={slug} />
+        </div>
+
         {/* Article body */}
         <div className="prose-9min" style={{ padding: 0 }}>
-          <MDXRemote source={content} components={mdxComponents} />
+          <MDXRemote source={firstHalf} components={mdxComponents} />
+          <InlineNewsletterCTA />
+          {secondHalf && <MDXRemote source={secondHalf} components={mdxComponents} />}
         </div>
 
         {/* Closing gold line */}

@@ -1,12 +1,19 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
-import { getAllArticles } from '@/lib/content'
+import { getAllArticles, getArticlesByType } from '@/lib/content'
 import { ArticleCard } from '@/components/ArticleCard'
 import { Header } from '@/components/Header'
 import { Footer } from '@/components/Footer'
 import { LogoMark } from '@/components/LogoMark'
 import { ComingSoonVideo } from '@/components/ComingSoonVideo'
 import { formatDate, getExcerpt } from '@/lib/utils'
+
+const TYPE_LABELS: Record<string, string> = {
+  chronik: 'Chronik',
+  analyse: 'Analyse',
+  grundlage: 'Grundlage',
+  medienkritik: 'Medienkritik',
+}
 
 export const metadata: Metadata = {
   title: '9min',
@@ -167,116 +174,188 @@ function ComingSoonPage() {
 // ---------------------------------------------------------------------------
 
 function MainPage() {
-  const articles = getAllArticles()
-  const [latest, ...rest] = articles
-  const nextFive = rest.slice(0, 5)
+  const recent = getAllArticles().slice(0, 6)
+  const grundlagen = getArticlesByType('grundlage').sort(
+    (a, b) => (a.frontmatter.seriesIndex ?? 99) - (b.frontmatter.seriesIndex ?? 99)
+  )
+  const [featured, ...feed] = recent
 
   return (
     <>
       <Header />
 
-      <main>
-        <div style={{ textAlign: 'center', padding: '60px 20px 40px' }}>
-          <p
-            style={{
-              fontFamily: "'GT Sectra', Georgia, serif",
-              fontStyle: 'italic',
-              fontSize: '18px',
-              color: '#4A5C4A',
-              margin: 0,
-            }}
-          >
+      <main style={{ maxWidth: '680px', margin: '0 auto', padding: '0 20px' }}>
+
+        {/* Hero tagline + search */}
+        <div style={{ padding: '56px 0 48px', textAlign: 'center' }}>
+          <p style={{
+            fontFamily: "'GT Sectra', Georgia, serif",
+            fontStyle: 'italic',
+            fontSize: 'clamp(17px, 3vw, 21px)',
+            color: '#4A5C4A',
+            margin: '0 0 36px',
+            lineHeight: 1.5,
+          }}>
             Die Abwesenheit ist die Nachricht.
           </p>
+          <Link
+            href="/suche"
+            style={{
+              display: 'inline-flex',
+              alignItems: 'center',
+              gap: '10px',
+              padding: '11px 20px',
+              border: '1px solid #D4D0C8',
+              borderRadius: '2px',
+              fontFamily: "'GT Sectra', Georgia, serif",
+              fontSize: '14px',
+              color: '#8A9C8A',
+              textDecoration: 'none',
+              transition: 'border-color 150ms ease',
+              minWidth: '260px',
+              justifyContent: 'flex-start',
+            }}
+            className="search-trigger"
+          >
+            <svg width="14" height="14" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+              <circle cx="6.5" cy="6.5" r="5" stroke="currentColor" strokeWidth="1.5"/>
+              <path d="M10.5 10.5L14 14" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round"/>
+            </svg>
+            Suchen…
+            <span style={{ marginLeft: 'auto', fontSize: '11px', letterSpacing: '0.1em', opacity: 0.6 }}>⌘K</span>
+          </Link>
         </div>
 
-        {latest && (
-          <div style={{ maxWidth: '680px', margin: '0 auto', padding: '0 20px' }}>
-            <article>
-              <Link href={`/${latest.slug}`} style={{ textDecoration: 'none', color: 'inherit' }}>
-                <span
-                  style={{
-                    display: 'block',
-                    fontFamily: "'GT Sectra', Georgia, serif",
-                    fontSize: '12px',
-                    letterSpacing: '0.2em',
-                    textTransform: 'uppercase',
-                    color: latest.type === 'chronik' ? '#4A5C4A' : '#D4A847',
-                    marginBottom: '12px',
-                  }}
-                >
-                  {latest.type === 'chronik' ? 'Chronik' : latest.type === 'analyse' ? 'Analyse' : 'Grundlage'}
+        {/* Featured latest */}
+        {featured && (
+          <>
+            <article style={{ marginBottom: '48px' }}>
+              <Link href={`/${featured.slug}`} style={{ textDecoration: 'none', color: 'inherit' }}>
+                <span style={{
+                  display: 'block',
+                  fontFamily: "'GT Sectra', Georgia, serif",
+                  fontSize: '11px',
+                  letterSpacing: '0.2em',
+                  textTransform: 'uppercase',
+                  color: featured.type === 'medienkritik' ? '#4A5C4A' : '#D4A847',
+                  marginBottom: '10px',
+                }}>
+                  {TYPE_LABELS[featured.type] ?? featured.type}
                 </span>
-                <h1
-                  style={{
-                    fontFamily: "'GT Sectra Display', Georgia, serif",
-                    fontWeight: 500,
-                    fontSize: 'clamp(28px, 5vw, 36px)',
-                    lineHeight: 1.2,
-                    color: '#1A2E1A',
-                    margin: '0 0 12px',
-                  }}
-                >
-                  {latest.frontmatter.title}
+                <h1 style={{
+                  fontFamily: "'GT Sectra Display', Georgia, serif",
+                  fontWeight: 500,
+                  fontSize: 'clamp(26px, 5vw, 34px)',
+                  lineHeight: 1.2,
+                  color: '#1A2E1A',
+                  margin: '0 0 10px',
+                }}>
+                  {featured.frontmatter.title}
                 </h1>
-                <time
-                  dateTime={latest.frontmatter.date}
-                  style={{
-                    fontFamily: "'GT Sectra', Georgia, serif",
-                    fontSize: '14px',
-                    color: '#8A9C8A',
-                    display: 'block',
-                    marginBottom: '20px',
-                  }}
-                >
-                  {formatDate(latest.frontmatter.date)}
+                <time dateTime={featured.frontmatter.date} style={{
+                  fontFamily: "'GT Sectra', Georgia, serif",
+                  fontSize: '13px',
+                  color: '#8A9C8A',
+                  display: 'block',
+                  marginBottom: '16px',
+                }}>
+                  {formatDate(featured.frontmatter.date)}
                 </time>
-                <p
-                  style={{
-                    fontFamily: "'GT Sectra', Georgia, serif",
-                    fontSize: '17px',
-                    lineHeight: 1.65,
-                    color: '#4A5C4A',
-                    margin: 0,
-                  }}
-                >
-                  {getExcerpt(latest.content, 280)}
+                <p style={{
+                  fontFamily: "'GT Sectra', Georgia, serif",
+                  fontSize: '17px',
+                  lineHeight: 1.65,
+                  color: '#4A5C4A',
+                  margin: 0,
+                }}>
+                  {getExcerpt(featured.content, 240)}
                 </p>
               </Link>
             </article>
 
-            <div
-              aria-hidden="true"
-              style={{
-                width: '40%', height: '1px',
-                background: '#D4A847',
-                margin: '48px auto',
-              }}
-            />
-          </div>
+            <div aria-hidden="true" style={{ width: '40%', height: '1px', background: '#D4A847', margin: '0 auto 48px' }} />
+          </>
         )}
 
-        {nextFive.length > 0 && (
-          <div style={{ maxWidth: '680px', margin: '0 auto', padding: '0 20px' }}>
-            <ul style={{ listStyle: 'none', padding: 0, margin: 0, display: 'flex', flexDirection: 'column', gap: '32px' }}>
-              {nextFive.map(article => (
+        {/* Zum Einstieg — Grundlagen */}
+        {grundlagen.length > 0 && (
+          <section style={{ marginBottom: '56px' }}>
+            <p style={{
+              fontFamily: "'GT Sectra', Georgia, serif",
+              fontSize: '11px',
+              letterSpacing: '0.2em',
+              textTransform: 'uppercase',
+              color: '#D4A847',
+              margin: '0 0 20px',
+            }}>
+              Zum Einstieg
+            </p>
+            <ul style={{ listStyle: 'none', padding: 0, margin: 0, display: 'flex', flexDirection: 'column', gap: '0' }}>
+              {grundlagen.map((a, i) => (
+                <li key={a.slug} style={{
+                  borderTop: i === 0 ? '1px solid #E8E4DC' : undefined,
+                  borderBottom: '1px solid #E8E4DC',
+                }}>
+                  <Link href={`/${a.slug}`} style={{
+                    display: 'flex',
+                    justifyContent: 'space-between',
+                    alignItems: 'baseline',
+                    gap: '16px',
+                    padding: '14px 0',
+                    textDecoration: 'none',
+                  }}>
+                    <span style={{
+                      fontFamily: "'GT Sectra Display', Georgia, serif",
+                      fontSize: '16px',
+                      color: '#1A2E1A',
+                      lineHeight: 1.3,
+                    }}>
+                      {a.frontmatter.title}
+                    </span>
+                    <time style={{ fontFamily: "'GT Sectra', Georgia, serif", fontSize: '12px', color: '#8A9C8A', whiteSpace: 'nowrap', flexShrink: 0 }}>
+                      {formatDate(a.frontmatter.date)}
+                    </time>
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
+
+        {/* Recent feed */}
+        {feed.length > 0 && (
+          <section style={{ marginBottom: '80px' }}>
+            <p style={{
+              fontFamily: "'GT Sectra', Georgia, serif",
+              fontSize: '11px',
+              letterSpacing: '0.2em',
+              textTransform: 'uppercase',
+              color: '#8A9C8A',
+              margin: '0 0 20px',
+            }}>
+              Zuletzt erschienen
+            </p>
+            <ul style={{ listStyle: 'none', padding: 0, margin: 0, display: 'flex', flexDirection: 'column', gap: '28px' }}>
+              {feed.map(article => (
                 <li key={article.slug}>
                   <ArticleCard article={article} />
                 </li>
               ))}
             </ul>
-          </div>
+            <div style={{ marginTop: '36px', textAlign: 'center' }}>
+              <Link href="/medienkritik" style={{
+                fontFamily: "'GT Sectra', Georgia, serif",
+                fontSize: '13px',
+                color: '#8A9C8A',
+                textDecoration: 'none',
+                letterSpacing: '0.05em',
+              }}>
+                Alle Beiträge →
+              </Link>
+            </div>
+          </section>
         )}
 
-        {articles.length === 0 && (
-          <div style={{ maxWidth: '680px', margin: '80px auto', padding: '0 20px', textAlign: 'center' }}>
-            <p style={{ fontFamily: "'GT Sectra', Georgia, serif", fontStyle: 'italic', color: '#8A9C8A', fontSize: '17px' }}>
-              Noch keine Artikel publiziert.
-            </p>
-          </div>
-        )}
-
-        <div style={{ height: '80px' }} />
       </main>
 
       <Footer />

@@ -8,11 +8,14 @@
     "start": "next start"
   },
   "dependencies": {
+    "fuse.js": "^7.3.0",
     "gray-matter": "^4.0.3",
+    "jose": "^6.2.3",
     "next": "^15.0.0",
     "next-mdx-remote": "^6.0.0",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "resend": "^6.12.3"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.0.0",
