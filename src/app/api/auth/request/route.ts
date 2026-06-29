@@ -3,10 +3,10 @@ import { Resend } from 'resend'
 import { signMagicToken } from '@/lib/auth'
 import { subscribeEmail } from '@/lib/buttondown'
 
-const resend = new Resend(process.env.RESEND_API_KEY)
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://9min.ch'
 
 export async function POST(request: NextRequest) {
+  const resend = new Resend(process.env.RESEND_API_KEY)
   const body = await request.json().catch(() => null)
   const email = typeof body?.email === 'string' ? body.email.trim().toLowerCase() : ''
 
