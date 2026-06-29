@@ -14,7 +14,7 @@ export interface SubscriberMeta {
 
 interface Subscriber {
   id: string
-  email: string
+  email_address: string
   metadata: Partial<SubscriberMeta>
 }
 
@@ -25,7 +25,9 @@ export async function getSubscriber(email: string): Promise<Subscriber | null> {
   })
   if (!res.ok) return null
   const data = await res.json()
-  const subscriber = data.results?.[0] ?? null
+  const subscriber = (data.results ?? []).find(
+    (s: Subscriber) => s.email_address === email
+  ) ?? null
   return subscriber
 }
 
