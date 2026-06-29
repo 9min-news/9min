@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { verifySession } from '@/lib/auth'
-import { getSubscriber, setMetadata, emptyMeta } from '@/lib/buttondown'
+import { getSubscriber, setMetadata, emptyMeta, subscribeEmail } from '@/lib/buttondown'
 
 export async function POST(request: NextRequest) {
   const token = request.cookies.get('9min_session')?.value
