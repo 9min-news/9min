@@ -21,7 +21,7 @@ interface Subscriber {
 export async function getSubscriber(email: string): Promise<Subscriber | null> {
   const res = await fetch(`${BD_API}/subscribers?email=${encodeURIComponent(email)}`, {
     headers: headers(),
-    next: { revalidate: 0 },
+    cache: 'no-store',
   })
   if (!res.ok) return null
   const data = await res.json()
@@ -48,7 +48,7 @@ export async function subscribeEmail(email: string): Promise<Subscriber | null> 
   const res = await fetch(`${BD_API}/subscribers`, {
     method: 'POST',
     headers: headers(),
-    body: JSON.stringify({ email }),
+    body: JSON.stringify({ email_address: email }),
   })
   if (!res.ok) return null
   return res.json() as Promise<Subscriber>
