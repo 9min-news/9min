@@ -13,7 +13,11 @@ export async function POST(request: NextRequest) {
   const slug = typeof body?.slug === 'string' ? body.slug : null
   if (!slug) return NextResponse.json({ ok: false, error: 'missing_slug' }, { status: 400 })
 
-  const subscriber = await getSubscriber(email)
+  let subscriber = await getSubscriber(email)
+  if (!subscriber) {
+    await subscribeEmail(email)
+    subscriber = await getSubscriber(email)
+  }
   if (!subscriber) return NextResponse.json({ ok: false, error: 'subscriber_not_found' }, { status: 404 })
 
   const meta = { ...emptyMeta(), ...subscriber.metadata }
