@@ -319,3 +319,19 @@ main {
   opacity: 0.3;
   transform-origin: 20px 20px;
 }
+
+/* ============================================================
+   9. RESPONSIVE / MOBILE NAV
+   ============================================================ */
+
+@media (max-width: 680px) {
+  header {
+    padding: 20px 24px !important;
+  }
+  .desktop-nav {
+    display: none !important;
+  }
+  .mobile-nav {
+    display: flex !important;
+  }
+}
