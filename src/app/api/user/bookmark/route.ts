@@ -28,7 +28,8 @@ export async function POST(request: NextRequest) {
     meta.bookmarks = [slug, ...meta.bookmarks]
   }
 
-  await setMetadata(subscriber.id, meta)
+  const saved = await setMetadata(subscriber.id, meta)
+  if (!saved) return NextResponse.json({ ok: false, error: 'save_failed' }, { status: 500 })
   return NextResponse.json({ ok: true, bookmarked: !isBookmarked, bookmarks: meta.bookmarks })
 }
 

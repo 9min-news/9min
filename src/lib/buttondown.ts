@@ -29,12 +29,17 @@ export async function getSubscriber(email: string): Promise<Subscriber | null> {
   return subscriber
 }
 
-export async function setMetadata(id: string, metadata: Partial<SubscriberMeta>) {
-  await fetch(`${BD_API}/subscribers/${id}`, {
+export async function setMetadata(id: string, metadata: Partial<SubscriberMeta>): Promise<boolean> {
+  const res = await fetch(`${BD_API}/subscribers/${id}`, {
     method: 'PATCH',
     headers: headers(),
     body: JSON.stringify({ metadata }),
   })
+  if (!res.ok) {
+    const body = await res.text().catch(() => '')
+    console.error(`Buttondown PATCH /subscribers/${id} failed ${res.status}: ${body}`)
+  }
+  return res.ok
 }
 
 export async function subscribeEmail(email: string): Promise<Subscriber | null> {
