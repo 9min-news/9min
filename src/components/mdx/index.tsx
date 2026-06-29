@@ -3,13 +3,17 @@ import { Blockquote } from './Blockquote'
 import { Chart } from './Chart'
 import { PullQuote } from '../PullQuote'
 
-// Component map passed to MDXRemote.
-// Maps HTML element names → custom components (override)
-// and custom component names → components (available in MDX).
+function ExternalLink({ href, children, ...props }: React.AnchorHTMLAttributes<HTMLAnchorElement>) {
+  const isExternal = href?.startsWith('http') || href?.startsWith('//')
+  if (isExternal) {
+    return <a href={href} target="_blank" rel="noopener noreferrer" {...props}>{children}</a>
+  }
+  return <a href={href} {...props}>{children}</a>
+}
+
 export const mdxComponents: MDXComponents = {
-  // Override default HTML elements
   blockquote: Blockquote,
-  // Custom components available in MDX content
+  a: ExternalLink,
   PullQuote,
   Chart,
 }

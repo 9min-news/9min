@@ -15,8 +15,7 @@ export async function POST(request: NextRequest) {
 
   let subscriber = await getSubscriber(email)
   if (!subscriber) {
-    await subscribeEmail(email)
-    subscriber = await getSubscriber(email)
+    subscriber = await subscribeEmail(email)
   }
   if (!subscriber) return NextResponse.json({ ok: false, error: 'subscriber_not_found' }, { status: 404 })
 

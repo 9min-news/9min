@@ -37,12 +37,14 @@ export async function setMetadata(id: string, metadata: Partial<SubscriberMeta>)
   })
 }
 
-export async function subscribeEmail(email: string) {
-  await fetch(`${BD_API}/subscribers`, {
+export async function subscribeEmail(email: string): Promise<Subscriber | null> {
+  const res = await fetch(`${BD_API}/subscribers`, {
     method: 'POST',
     headers: headers(),
     body: JSON.stringify({ email }),
   })
+  if (!res.ok) return null
+  return res.json() as Promise<Subscriber>
 }
 
 export function emptyMeta(): SubscriberMeta {
