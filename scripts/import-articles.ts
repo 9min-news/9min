@@ -12,7 +12,7 @@ import matter from 'gray-matter'
 
 const TWITTER_DIR = path.join(
   process.cwd(),
-  'twitter-2026-06-21-f56336be03af9dd9c8ca11295303003a760688bf24b8426f8a87f900e60de479',
+  'twitter-2026-08-08-f56336be03af9dd9c8ca11295303003a760688bf24b8426f8a87f900e60de479',
   'data'
 )
 const OUT_DIR = path.join(process.cwd(), 'content', 'medienkritik')
