@@ -19,7 +19,7 @@ Zum SRF-Beitrag [«Wenn im Abstimmungsbüchlein falsche Zahlen stehen»](https:/
 
 ## Was der Beitrag gut macht
 
-Die Fakten sind dokumentiert: Die Eidgenössische Finanzkontrolle (EFK) hat die Qualität der Bundesprognosen untersucht — bei drei von sieben Vorlagen Mängel festgestellt. Veraltete Zahlen, unzureichende Transparenz bei Unsicherheiten, Fokus auf finanzielle Kosten (59% der Botschaften, 30% der Erläuterungen) vs. Umwelt (<5%). Der Bundesrat begrüsst den Bericht — will die Umsetzung aber «im Rahmen bestehender Ressourcen». Der Hintergrund (Heiratsstrafe, AHV-Prognosen) wird erwähnt. Das ist die Grundlage — und SRF nennt sie sauber.
+Die Fakten sind dokumentiert: Die Eidgenössische Finanzkontrolle (EFK) hat die Qualität der Bundesprognosen untersucht — bei drei von sieben Vorlagen Mängel festgestellt. Veraltete Zahlen, unzureichende Transparenz bei Unsicherheiten, Fokus auf finanzielle Kosten (59% der Botschaften, 30% der Erläuterungen) vs. Umwelt (&lt;5%). Der Bundesrat begrüsst den Bericht — will die Umsetzung aber «im Rahmen bestehender Ressourcen». Der Hintergrund (Heiratsstrafe, AHV-Prognosen) wird erwähnt. Das ist die Grundlage — und SRF nennt sie sauber.
 
 ## Die drei von sieben Vorlagen: erwähnt, aber nicht benannt
 
@@ -65,7 +65,7 @@ Die Frage, die nicht gestellt wird: Wie sieht die aktuelle Praxis aus? Welche Vo
 
 Der Beitrag sagt: «59 Prozent der Botschaften respektive 30 Prozent der Abstimmungserläuterungen Prognosen zu finanziellen Kosten. Zum Vergleich: Auswirkungen auf die Umwelt wurden in weniger als fünf Prozent aller untersuchten Botschaften und Abstimmungserläuterungen prognostiert.»
 
-Das ist eine erstaunliche Asymmetrie: Kosten werden in 59% prognostiziert, Umwelt in <5%. Das heisst: Der Bund informiert die Stimmbürger umfassend über finanzielle Folgen — aber kaum über ökologische Folgen. Das ist ein demokratisches Problem — denn wer nur über Kosten informiert, aber nicht über Umwelt, der verzerrt die Abstimmungsgrundlage.
+Das ist eine erstaunliche Asymmetrie: Kosten werden in 59% prognostiziert, Umwelt in &lt;5%. Das heisst: Der Bund informiert die Stimmbürger umfassend über finanzielle Folgen — aber kaum über ökologische Folgen. Das ist ein demokratisches Problem — denn wer nur über Kosten informiert, aber nicht über Umwelt, der verzerrt die Abstimmungsgrundlage.
 
 Aber der Beitrag hinterfragt nicht: Warum ist das so? Ist es einfacher, Kosten zu prognostizieren als Umweltfolgen? Oder ist es eine politische Entscheidung, Kosten zu betonen und Umwelt zu vernachlässigen? Welche anderen Auswirkungen (Gesellschaft, Gesundheit, soziale Gerechtigkeit) werden wie oft prognostiziert?
 
