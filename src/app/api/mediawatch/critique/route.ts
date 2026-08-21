@@ -1,8 +1,8 @@
-import { NextRequest, NextResponse } from 'next/server'
+import type { NextRequest } from 'next/server'
 import { loadSystemPrompt, buildUserMessage } from '@/lib/mediawatch/critique'
 import { createDraft, updateDraft, getDraft } from '@/lib/mediawatch/draft'
 
-export const maxDuration = 60
+export const runtime = 'edge'
 
 export async function POST(req: NextRequest) {
   const body = await req.json()
@@ -19,11 +19,11 @@ export async function POST(req: NextRequest) {
   } = body
 
   if (!markdown || !quelle || !originalTitle) {
-    return NextResponse.json({ error: 'markdown, quelle und originalTitle sind erforderlich' }, { status: 400 })
+    return new Response(JSON.stringify({ error: 'markdown, quelle und originalTitle sind erforderlich' }), { status: 400, headers: { 'Content-Type': 'application/json' } })
   }
 
   const apiKey = process.env.VENICE_INFERENCE_KEY
-  if (!apiKey) return NextResponse.json({ error: 'VENICE_INFERENCE_KEY nicht gesetzt' }, { status: 500 })
+  if (!apiKey) return new Response(JSON.stringify({ error: 'VENICE_INFERENCE_KEY nicht gesetzt' }), { status: 500, headers: { 'Content-Type': 'application/json' } })
 
   const systemPrompt = loadSystemPrompt()
   const userMessage = buildUserMessage({ markdown, quelle, originalTitle, publishedTime: publishedTime ?? '', captions, related, kontext, schwerpunkt })

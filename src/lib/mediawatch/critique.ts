@@ -1,10 +1,7 @@
-import fs from 'fs'
-import path from 'path'
-
-const PROMPT_PATH = path.join(process.cwd(), 'src/lib/mediawatch/prompts/mediawatch-v3.md')
+import promptText from './prompts/mediawatch-v3.md'
 
 export function loadSystemPrompt(): string {
-  return fs.readFileSync(PROMPT_PATH, 'utf-8')
+  return promptText
 }
 
 export interface CritiqueInput {
