@@ -4,6 +4,63 @@ import { useState, useEffect, useCallback, useRef } from 'react'
 import type { Draft } from '@/lib/mediawatch/draft'
 import { buildXText } from '@/lib/mediawatch/utils'
 
+const C = {
+  green: '#1A2E1A',
+  greenLight: '#4A5C4A',
+  gold: '#D4A847',
+  paper: '#FAFAF7',
+  border: '#D4D0C8',
+  bg: '#F4F1EB',
+  white: '#fff',
+  red: '#dc2626',
+  yellow50: '#fefce8',
+  yellow300: '#fde047',
+  yellow800: '#854d0e',
+  yellow700: '#a16207',
+  gray50: '#f9fafb',
+}
+
+const S = {
+  input: {
+    border: `1px solid ${C.border}`,
+    borderRadius: '6px',
+    padding: '8px 12px',
+    fontSize: '14px',
+    color: C.green,
+    background: C.white,
+    outline: 'none',
+    width: '100%',
+    boxSizing: 'border-box' as const,
+    fontFamily: 'system-ui, sans-serif',
+  },
+  textarea: {
+    border: `1px solid ${C.border}`,
+    borderRadius: '6px',
+    padding: '8px 12px',
+    fontSize: '13px',
+    color: C.green,
+    background: C.white,
+    outline: 'none',
+    width: '100%',
+    boxSizing: 'border-box' as const,
+    resize: 'vertical' as const,
+    fontFamily: 'ui-monospace, "Cascadia Code", monospace',
+  },
+  btn: (color = C.green, disabled = false) => ({
+    background: disabled ? C.greenLight : color,
+    color: C.white,
+    border: 'none',
+    borderRadius: '6px',
+    padding: '9px 18px',
+    fontSize: '14px',
+    fontWeight: 500,
+    cursor: disabled ? 'default' : 'pointer',
+    opacity: disabled ? 0.6 : 1,
+    fontFamily: 'system-ui, sans-serif',
+  } as React.CSSProperties),
+  label: { display: 'block', fontSize: '11px', color: C.greenLight, marginBottom: '4px' } as React.CSSProperties,
+}
+
 type Stage = 'input' | 'meta' | 'review'
 type InputTab = 'url' | 'manual'
 
@@ -17,52 +74,50 @@ interface ExtractionResult {
 }
 
 function StatusBadge({ status }: { status: Draft['status'] }) {
-  const map: Record<Draft['status'], { label: string; cls: string }> = {
-    extracted: { label: 'Extrahiert', cls: 'bg-blue-100 text-blue-700' },
-    draft: { label: 'Entwurf', cls: 'bg-yellow-100 text-yellow-700' },
-    review: { label: 'Review', cls: 'bg-orange-100 text-orange-700' },
-    published: { label: 'Publiziert', cls: 'bg-green-100 text-green-700' },
-    discarded: { label: 'Verworfen', cls: 'bg-gray-100 text-gray-500' },
+  const map: Record<Draft['status'], { label: string; bg: string; color: string }> = {
+    extracted: { label: 'Extrahiert', bg: '#dbeafe', color: '#1d4ed8' },
+    draft: { label: 'Entwurf', bg: '#fef9c3', color: '#a16207' },
+    review: { label: 'Review', bg: '#ffedd5', color: '#c2410c' },
+    published: { label: 'Publiziert', bg: '#dcfce7', color: '#166534' },
+    discarded: { label: 'Verworfen', bg: '#f3f4f6', color: '#6b7280' },
   }
-  const { label, cls } = map[status] ?? map.draft
+  const { label, bg, color } = map[status] ?? map.draft
   return (
-    <span className={`text-xs px-2 py-0.5 rounded-full font-medium ${cls}`}>{label}</span>
+    <span style={{ fontSize: '11px', padding: '2px 8px', borderRadius: '999px', fontWeight: 500, background: bg, color, whiteSpace: 'nowrap' }}>
+      {label}
+    </span>
   )
 }
 
 function VerifyMarkers({ markdown }: { markdown: string }) {
-  const matches = [...markdown.matchAll(/\[VERIFIZIEREN\]/g)]
-  if (matches.length === 0) return null
+  const count = (markdown.match(/\[VERIFIZIEREN\]/g) ?? []).length
+  if (count === 0) return null
   return (
-    <div className="bg-yellow-50 border border-yellow-300 rounded p-3 mb-3">
-      <p className="text-yellow-800 font-medium text-sm mb-1">
-        {matches.length} offene Prüfstelle{matches.length > 1 ? 'n' : ''} [VERIFIZIEREN]
+    <div style={{ background: C.yellow50, border: `1px solid ${C.yellow300}`, borderRadius: '6px', padding: '10px 14px', marginBottom: '12px' }}>
+      <p style={{ color: C.yellow800, fontWeight: 600, fontSize: '13px', margin: '0 0 4px' }}>
+        {count} offene Prüfstelle{count > 1 ? 'n' : ''} [VERIFIZIEREN]
       </p>
-      <p className="text-yellow-700 text-xs">
-        Bitte alle markierten Stellen vor der Publikation prüfen und ersetzen.
+      <p style={{ color: C.yellow700, fontSize: '12px', margin: 0 }}>
+        Alle markierten Stellen vor der Publikation prüfen und ersetzen.
       </p>
     </div>
   )
 }
 
 export default function MediaWatchPage() {
-  // Stage management
   const [stage, setStage] = useState<Stage>('input')
   const [tab, setTab] = useState<InputTab>('url')
 
-  // Input fields
   const [url, setUrl] = useState('')
   const [manualText, setManualText] = useState('')
   const [manualQuelle, setManualQuelle] = useState('')
   const [manualTitel, setManualTitel] = useState('')
   const [manualDatum, setManualDatum] = useState('')
 
-  // Extraction result
   const [extraction, setExtraction] = useState<ExtractionResult | null>(null)
   const [extractError, setExtractError] = useState('')
   const [extracting, setExtracting] = useState(false)
 
-  // Meta fields (editable after extraction)
   const [metaQuelle, setMetaQuelle] = useState('')
   const [metaTitle, setMetaTitle] = useState('')
   const [metaDatum, setMetaDatum] = useState('')
@@ -70,30 +125,23 @@ export default function MediaWatchPage() {
   const [schwerpunkt, setSchwerpunkt] = useState('')
   const [showPreview, setShowPreview] = useState(false)
 
-  // Critique / draft
   const [generating, setGenerating] = useState(false)
   const [generateError, setGenerateError] = useState('')
   const [currentDraft, setCurrentDraft] = useState<Draft | null>(null)
 
-  // Review editor
   const [editTitle, setEditTitle] = useState('')
   const [editMarkdown, setEditMarkdown] = useState('')
   const [saving, setSaving] = useState(false)
   const saveTimeout = useRef<ReturnType<typeof setTimeout> | null>(null)
 
-  // Publish controls
   const [pubWeb, setPubWeb] = useState(true)
   const [pubX, setPubX] = useState(false)
   const [xText, setXText] = useState('')
   const [publishing, setPublishing] = useState(false)
   const [publishError, setPublishError] = useState('')
 
-  // Draft list
   const [drafts, setDrafts] = useState<Draft[]>([])
   const [loadingDrafts, setLoadingDrafts] = useState(false)
-
-  // X connected?
-  const [xConnected] = useState(false) // server-side env can't be read client-side
 
   const loadDrafts = useCallback(async () => {
     setLoadingDrafts(true)
@@ -107,7 +155,6 @@ export default function MediaWatchPage() {
 
   useEffect(() => { loadDrafts() }, [loadDrafts])
 
-  // Auto-save review edits with debounce
   useEffect(() => {
     if (!currentDraft || stage !== 'review') return
     if (saveTimeout.current) clearTimeout(saveTimeout.current)
@@ -126,11 +173,10 @@ export default function MediaWatchPage() {
     }, 1500)
   }, [editTitle, editMarkdown, currentDraft, stage])
 
-  // Rebuild X text when title or markdown changes
   useEffect(() => {
     if (!editTitle || !editMarkdown) return
-    const url = currentDraft?.publishedUrl ?? 'https://9min.ch/...'
-    setXText(buildXText(editTitle, editMarkdown, url))
+    const u = currentDraft?.publishedUrl ?? 'https://9min.ch/...'
+    setXText(buildXText(editTitle, editMarkdown, u))
   }, [editTitle, editMarkdown, currentDraft?.publishedUrl])
 
   async function handleExtract() {
@@ -157,14 +203,7 @@ export default function MediaWatchPage() {
   }
 
   function handleManualContinue() {
-    setExtraction({
-      title: manualTitel,
-      markdown: manualText,
-      captions: [],
-      related: [],
-      siteName: manualQuelle,
-      publishedTime: manualDatum,
-    })
+    setExtraction({ title: manualTitel, markdown: manualText, captions: [], related: [], siteName: manualQuelle, publishedTime: manualDatum })
     setMetaTitle(manualTitel)
     setMetaQuelle(manualQuelle)
     setMetaDatum(manualDatum)
@@ -216,7 +255,7 @@ export default function MediaWatchPage() {
   async function handlePublish() {
     if (!currentDraft) return
     if (!pubWeb && !pubX) { setPublishError('Mindestens ein Publikationsziel wählen.'); return }
-    if (!window.confirm(`Wirklich veröffentlichen?\n\nWebsite: ${pubWeb ? 'Ja' : 'Nein'}\nX: ${pubX ? 'Ja' : 'Nein'}`)) return
+    if (!window.confirm(`Wirklich veröffentlichen?\nWebsite: ${pubWeb ? 'Ja' : 'Nein'}\nX: ${pubX ? 'Ja' : 'Nein'}`)) return
     setPublishing(true)
     setPublishError('')
     try {
@@ -237,271 +276,281 @@ export default function MediaWatchPage() {
     }
   }
 
+  const tabStyle = (active: boolean) => ({
+    paddingBottom: '8px',
+    paddingLeft: '2px',
+    paddingRight: '2px',
+    fontSize: '13px',
+    fontWeight: active ? 600 : 400,
+    color: active ? C.green : C.greenLight,
+    background: 'none',
+    border: 'none',
+    borderBottom: `2px solid ${active ? C.green : 'transparent'}`,
+    cursor: 'pointer',
+    fontFamily: 'system-ui, sans-serif',
+  } as React.CSSProperties)
+
   const inputSection = (
-    <div className="space-y-4">
-      <div className="flex gap-2 border-b border-[var(--color-border)]">
-        {(['url', 'manual'] as InputTab[]).map(t => (
-          <button
-            key={t}
-            onClick={() => setTab(t)}
-            className={`pb-2 px-1 text-sm font-medium border-b-2 transition-colors ${tab === t ? 'border-[var(--color-tannengruen)] text-[var(--color-tannengruen)]' : 'border-transparent text-[var(--color-textgrau)]'}`}
-          >
-            {t === 'url' ? 'URL analysieren' : 'Text manuell einfügen'}
-          </button>
-        ))}
+    <div>
+      <div style={{ display: 'flex', gap: '16px', borderBottom: `1px solid ${C.border}`, marginBottom: '16px' }}>
+        <button style={tabStyle(tab === 'url')} onClick={() => setTab('url')}>URL analysieren</button>
+        <button style={tabStyle(tab === 'manual')} onClick={() => setTab('manual')}>Text manuell einfügen</button>
       </div>
 
       {tab === 'url' && (
-        <div className="space-y-3">
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
           <input
             type="url"
             value={url}
             onChange={e => setUrl(e.target.value)}
             placeholder="https://www.srf.ch/news/..."
-            className="w-full border border-[var(--color-border)] rounded px-4 py-3 text-[var(--color-tannengruen)] bg-white focus:outline-none focus:border-[var(--color-tannengruen)]"
+            style={S.input}
             onKeyDown={e => e.key === 'Enter' && handleExtract()}
           />
-          {extractError && <p className="text-red-600 text-sm">{extractError}</p>}
-          <button
-            onClick={handleExtract}
-            disabled={!url || extracting}
-            className="bg-[var(--color-tannengruen)] text-white px-6 py-2.5 rounded hover:opacity-90 disabled:opacity-50 transition-opacity"
-          >
-            {extracting ? 'Analysiere…' : 'Analysieren'}
-          </button>
+          {extractError && <p style={{ color: C.red, fontSize: '13px', margin: 0 }}>{extractError}</p>}
+          <div>
+            <button onClick={handleExtract} disabled={!url || extracting} style={S.btn(C.green, !url || extracting)}>
+              {extracting ? 'Analysiere…' : 'Analysieren'}
+            </button>
+          </div>
         </div>
       )}
 
       {tab === 'manual' && (
-        <div className="space-y-3">
-          <div className="grid grid-cols-3 gap-3">
-            <input value={manualQuelle} onChange={e => setManualQuelle(e.target.value)} placeholder="Quelle (z.B. SRF News)" className="border border-[var(--color-border)] rounded px-3 py-2 text-sm" />
-            <input value={manualTitel} onChange={e => setManualTitel(e.target.value)} placeholder="Originaltitel" className="border border-[var(--color-border)] rounded px-3 py-2 text-sm" />
-            <input type="date" value={manualDatum} onChange={e => setManualDatum(e.target.value)} className="border border-[var(--color-border)] rounded px-3 py-2 text-sm" />
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
+          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '10px' }}>
+            <input value={manualQuelle} onChange={e => setManualQuelle(e.target.value)} placeholder="Quelle (z.B. SRF News)" style={S.input} />
+            <input value={manualTitel} onChange={e => setManualTitel(e.target.value)} placeholder="Originaltitel" style={S.input} />
+            <input type="date" value={manualDatum} onChange={e => setManualDatum(e.target.value)} style={S.input} />
           </div>
           <textarea
             value={manualText}
             onChange={e => setManualText(e.target.value)}
             placeholder="Artikeltext hier einfügen…"
             rows={12}
-            className="w-full border border-[var(--color-border)] rounded px-4 py-3 text-sm font-mono resize-y"
+            style={S.textarea}
           />
-          <button
-            onClick={handleManualContinue}
-            disabled={!manualText || !manualQuelle || !manualTitel}
-            className="bg-[var(--color-tannengruen)] text-white px-6 py-2.5 rounded hover:opacity-90 disabled:opacity-50 transition-opacity"
-          >
-            Weiter
-          </button>
+          <div>
+            <button onClick={handleManualContinue} disabled={!manualText || !manualQuelle || !manualTitel} style={S.btn(C.green, !manualText || !manualQuelle || !manualTitel)}>
+              Weiter
+            </button>
+          </div>
         </div>
       )}
     </div>
   )
 
   const metaSection = extraction && (
-    <div className="space-y-5">
-      <div className="grid grid-cols-3 gap-3">
+    <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
+      <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '10px' }}>
         <div>
-          <label className="block text-xs text-[var(--color-textgrau)] mb-1">Quelle</label>
-          <input value={metaQuelle} onChange={e => setMetaQuelle(e.target.value)} className="w-full border border-[var(--color-border)] rounded px-3 py-2 text-sm" />
+          <label style={S.label}>Quelle</label>
+          <input value={metaQuelle} onChange={e => setMetaQuelle(e.target.value)} style={S.input} />
         </div>
         <div>
-          <label className="block text-xs text-[var(--color-textgrau)] mb-1">Originaltitel</label>
-          <input value={metaTitle} onChange={e => setMetaTitle(e.target.value)} className="w-full border border-[var(--color-border)] rounded px-3 py-2 text-sm" />
+          <label style={S.label}>Originaltitel</label>
+          <input value={metaTitle} onChange={e => setMetaTitle(e.target.value)} style={S.input} />
         </div>
         <div>
-          <label className="block text-xs text-[var(--color-textgrau)] mb-1">Datum</label>
-          <input type="date" value={metaDatum} onChange={e => setMetaDatum(e.target.value)} className="w-full border border-[var(--color-border)] rounded px-3 py-2 text-sm" />
+          <label style={S.label}>Datum</label>
+          <input type="date" value={metaDatum} onChange={e => setMetaDatum(e.target.value)} style={S.input} />
         </div>
       </div>
 
       <div>
-        <button onClick={() => setShowPreview(p => !p)} className="text-sm text-[var(--color-textgrau)] underline underline-offset-2">
+        <button onClick={() => setShowPreview(p => !p)} style={{ background: 'none', border: 'none', fontSize: '13px', color: C.greenLight, textDecoration: 'underline', cursor: 'pointer', padding: 0, fontFamily: 'system-ui, sans-serif' }}>
           {showPreview ? 'Vorschau ausblenden' : 'Extraktions-Vorschau anzeigen'}
         </button>
         {showPreview && (
-          <div className="mt-3 border border-[var(--color-border)] rounded p-4 space-y-3 text-sm">
+          <div style={{ marginTop: '10px', border: `1px solid ${C.border}`, borderRadius: '6px', padding: '14px', display: 'flex', flexDirection: 'column', gap: '12px' }}>
             <div>
-              <p className="text-xs text-[var(--color-textgrau)] mb-1">Artikeltext (Markdown)</p>
-              <pre className="text-xs bg-gray-50 p-3 rounded overflow-auto max-h-48 whitespace-pre-wrap">{extraction.markdown.slice(0, 1000)}{extraction.markdown.length > 1000 ? '\n…' : ''}</pre>
+              <p style={{ ...S.label, marginBottom: '6px' }}>Artikeltext (Markdown)</p>
+              <pre style={{ fontSize: '12px', background: C.gray50, padding: '10px', borderRadius: '4px', overflow: 'auto', maxHeight: '200px', whiteSpace: 'pre-wrap', margin: 0, fontFamily: 'ui-monospace, monospace' }}>
+                {extraction.markdown.slice(0, 1200)}{extraction.markdown.length > 1200 ? '\n…' : ''}
+              </pre>
             </div>
             {extraction.captions.length > 0 && (
               <div>
-                <p className="text-xs text-[var(--color-textgrau)] mb-1">Bildbeschriftungen</p>
-                <ul className="text-xs space-y-1">{extraction.captions.map((c, i) => <li key={i} className="text-gray-700">— {c}</li>)}</ul>
+                <p style={{ ...S.label, marginBottom: '4px' }}>Bildbeschriftungen</p>
+                {extraction.captions.map((c, i) => <p key={i} style={{ fontSize: '12px', margin: '2px 0', color: C.greenLight }}>— {c}</p>)}
               </div>
             )}
             {extraction.related.length > 0 && (
               <div>
-                <p className="text-xs text-[var(--color-textgrau)] mb-1">Verwandte Artikel</p>
-                <ul className="text-xs space-y-1">{extraction.related.map((r, i) => <li key={i} className="text-gray-700">— {r.text}</li>)}</ul>
+                <p style={{ ...S.label, marginBottom: '4px' }}>Verwandte Artikel</p>
+                {extraction.related.map((r, i) => <p key={i} style={{ fontSize: '12px', margin: '2px 0', color: C.greenLight }}>— {r.text}</p>)}
               </div>
             )}
           </div>
         )}
       </div>
 
-      <div className="grid grid-cols-2 gap-3">
+      <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '10px' }}>
         <div>
-          <label className="block text-xs text-[var(--color-textgrau)] mb-1">Kontext (optional)</label>
-          <textarea value={kontext} onChange={e => setKontext(e.target.value)} rows={3} placeholder="Verifizierte Hintergrundinformationen…" className="w-full border border-[var(--color-border)] rounded px-3 py-2 text-sm resize-none" />
+          <label style={S.label}>Kontext (optional)</label>
+          <textarea value={kontext} onChange={e => setKontext(e.target.value)} rows={3} placeholder="Verifizierte Hintergrundinformationen…" style={{ ...S.textarea, resize: 'none' }} />
         </div>
         <div>
-          <label className="block text-xs text-[var(--color-textgrau)] mb-1">Schwerpunkt (optional)</label>
-          <textarea value={schwerpunkt} onChange={e => setSchwerpunkt(e.target.value)} rows={3} placeholder="Worauf soll die Kritik besonders eingehen?" className="w-full border border-[var(--color-border)] rounded px-3 py-2 text-sm resize-none" />
+          <label style={S.label}>Schwerpunkt (optional)</label>
+          <textarea value={schwerpunkt} onChange={e => setSchwerpunkt(e.target.value)} rows={3} placeholder="Worauf soll die Kritik eingehen?" style={{ ...S.textarea, resize: 'none' }} />
         </div>
       </div>
 
-      {generateError && <p className="text-red-600 text-sm">{generateError}</p>}
-      <button
-        onClick={handleGenerateCritique}
-        disabled={generating}
-        className="bg-[var(--color-gold)] text-white px-6 py-2.5 rounded hover:opacity-90 disabled:opacity-50 transition-opacity font-medium"
-      >
-        {generating ? 'Kritik wird generiert… (ca. 60 s)' : 'Kritik generieren'}
-      </button>
+      {generateError && <p style={{ color: C.red, fontSize: '13px', margin: 0 }}>{generateError}</p>}
+      <div>
+        <button onClick={handleGenerateCritique} disabled={generating} style={S.btn(C.gold, generating)}>
+          {generating ? 'Kritik wird generiert… (ca. 60 s)' : 'Kritik generieren'}
+        </button>
+      </div>
     </div>
   )
 
   const reviewSection = currentDraft && (
-    <div className="space-y-4">
-      <div className="flex items-center justify-between">
-        <div className="flex items-center gap-2">
+    <div style={{ display: 'flex', flexDirection: 'column', gap: '14px' }}>
+      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
           <StatusBadge status={currentDraft.status} />
-          {saving && <span className="text-xs text-[var(--color-textgrau)]">Speichert…</span>}
+          {saving && <span style={{ fontSize: '12px', color: C.greenLight }}>Speichert…</span>}
         </div>
         {currentDraft.publishedUrl && (
-          <a href={currentDraft.publishedUrl} target="_blank" rel="noopener noreferrer" className="text-xs text-[var(--color-tannengruen)] underline">{currentDraft.publishedUrl}</a>
+          <a href={currentDraft.publishedUrl} target="_blank" rel="noopener noreferrer" style={{ fontSize: '12px', color: C.green }}>{currentDraft.publishedUrl}</a>
         )}
       </div>
 
       <div>
-        <label className="block text-xs text-[var(--color-textgrau)] mb-1">Titel</label>
-        <input
-          value={editTitle}
-          onChange={e => setEditTitle(e.target.value)}
-          className="w-full border border-[var(--color-border)] rounded px-3 py-2 font-medium text-[var(--color-tannengruen)]"
-        />
+        <label style={S.label}>Titel</label>
+        <input value={editTitle} onChange={e => setEditTitle(e.target.value)} style={{ ...S.input, fontWeight: 600, fontSize: '15px' }} />
       </div>
 
       <VerifyMarkers markdown={editMarkdown} />
 
-      <div className="grid grid-cols-2 gap-4">
+      <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '16px' }}>
         <div>
-          <label className="block text-xs text-[var(--color-textgrau)] mb-1">Markdown</label>
+          <label style={S.label}>Markdown</label>
           <textarea
             value={editMarkdown}
             onChange={e => setEditMarkdown(e.target.value)}
             rows={28}
-            className="w-full border border-[var(--color-border)] rounded px-3 py-2 text-sm font-mono resize-y"
+            style={S.textarea}
           />
         </div>
         <div>
-          <label className="block text-xs text-[var(--color-textgrau)] mb-1">Vorschau</label>
+          <label style={S.label}>Vorschau</label>
           <div
-            className="prose-9min border border-[var(--color-border)] rounded px-4 py-3 overflow-auto max-h-[672px] text-sm"
+            className="prose-9min"
+            style={{ border: `1px solid ${C.border}`, borderRadius: '6px', padding: '16px', overflow: 'auto', maxHeight: '672px', fontSize: '15px' }}
             dangerouslySetInnerHTML={{ __html: markdownToHtml(editMarkdown) }}
           />
         </div>
       </div>
 
       {/* Publish controls */}
-      <div className="border border-[var(--color-border)] rounded p-4 space-y-4">
-        <h3 className="font-medium text-[var(--color-tannengruen)]">Veröffentlichen</h3>
+      <div style={{ border: `1px solid ${C.border}`, borderRadius: '6px', padding: '16px', display: 'flex', flexDirection: 'column', gap: '14px' }}>
+        <p style={{ fontSize: '14px', fontWeight: 600, color: C.green, margin: 0 }}>Veröffentlichen</p>
 
-        <div className="flex gap-6">
-          <label className="flex items-center gap-2 cursor-pointer">
-            <input type="checkbox" checked={pubWeb} onChange={e => setPubWeb(e.target.checked)} className="w-4 h-4" />
-            <span className="text-sm">Website</span>
+        <div style={{ display: 'flex', gap: '24px' }}>
+          <label style={{ display: 'flex', alignItems: 'center', gap: '8px', cursor: 'pointer', fontSize: '14px' }}>
+            <input type="checkbox" checked={pubWeb} onChange={e => setPubWeb(e.target.checked)} style={{ width: '16px', height: '16px' }} />
+            Website
           </label>
-          <label className="flex items-center gap-2 cursor-pointer">
-            <input type="checkbox" checked={pubX} onChange={e => setPubX(e.target.checked)} className="w-4 h-4" />
-            <span className="text-sm">X (Twitter)</span>
+          <label style={{ display: 'flex', alignItems: 'center', gap: '8px', cursor: 'pointer', fontSize: '14px' }}>
+            <input type="checkbox" checked={pubX} onChange={e => setPubX(e.target.checked)} style={{ width: '16px', height: '16px' }} />
+            X (Twitter)
           </label>
         </div>
 
         {pubX && (
-          <div className="space-y-2">
-            {!xConnected && (
-              <a
-                href="/api/mediawatch/xauth"
-                className="inline-block text-sm text-[var(--color-tannengruen)] underline underline-offset-2"
-              >
-                X verbinden →
-              </a>
-            )}
+          <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
+            <a href="/api/mediawatch/xauth" style={{ fontSize: '13px', color: C.green }}>X verbinden →</a>
             <div>
-              <label className="block text-xs text-[var(--color-textgrau)] mb-1">
-                X-Text ({xText.length}/280)
-              </label>
+              <label style={S.label}>X-Text ({xText.length}/280)</label>
               <textarea
                 value={xText}
                 onChange={e => setXText(e.target.value.slice(0, 280))}
                 rows={3}
-                className={`w-full border rounded px-3 py-2 text-sm resize-none ${xText.length >= 280 ? 'border-red-400' : 'border-[var(--color-border)]'}`}
+                style={{ ...S.textarea, fontFamily: 'system-ui, sans-serif', borderColor: xText.length >= 280 ? C.red : C.border, resize: 'none' }}
               />
-              {xText.length >= 280 && <p className="text-red-500 text-xs">Zeichenlimit erreicht.</p>}
+              {xText.length >= 280 && <p style={{ color: C.red, fontSize: '12px', margin: '2px 0 0' }}>Zeichenlimit erreicht.</p>}
             </div>
           </div>
         )}
 
-        {publishError && <p className="text-red-600 text-sm">{publishError}</p>}
-
-        <button
-          onClick={handlePublish}
-          disabled={publishing || currentDraft.status === 'published'}
-          className="bg-[var(--color-tannengruen)] text-white px-6 py-2.5 rounded hover:opacity-90 disabled:opacity-50 transition-opacity font-medium"
-        >
-          {publishing ? 'Wird veröffentlicht…' : currentDraft.status === 'published' ? 'Bereits publiziert' : 'Veröffentlichen'}
-        </button>
+        {publishError && <p style={{ color: C.red, fontSize: '13px', margin: 0 }}>{publishError}</p>}
+        <div>
+          <button
+            onClick={handlePublish}
+            disabled={publishing || currentDraft.status === 'published'}
+            style={S.btn(C.green, publishing || currentDraft.status === 'published')}
+          >
+            {publishing ? 'Wird veröffentlicht…' : currentDraft.status === 'published' ? 'Bereits publiziert' : 'Veröffentlichen'}
+          </button>
+        </div>
       </div>
     </div>
   )
 
   return (
-    <div className="min-h-screen bg-[var(--color-bg-paper)] flex">
+    <div style={{ minHeight: '100vh', background: C.paper, display: 'flex', fontFamily: 'system-ui, -apple-system, sans-serif', fontSize: '14px', color: C.green }}>
       {/* Sidebar */}
-      <aside className="w-72 border-r border-[var(--color-border)] flex flex-col shrink-0">
-        <div className="p-4 border-b border-[var(--color-border)] flex items-center justify-between">
-          <h2 className="font-medium text-[var(--color-tannengruen)]">Media Watch</h2>
+      <aside style={{ width: '260px', borderRight: `1px solid ${C.border}`, display: 'flex', flexDirection: 'column', flexShrink: 0, background: C.white }}>
+        <div style={{ padding: '14px 16px', borderBottom: `1px solid ${C.border}`, display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+          <span style={{ fontWeight: 600, fontSize: '14px', color: C.green }}>Media Watch</span>
           <button
-            onClick={() => { setStage('input'); setCurrentDraft(null); setExtraction(null); setUrl(''); }}
-            className="text-xs text-[var(--color-textgrau)] hover:text-[var(--color-tannengruen)]"
+            onClick={() => { setStage('input'); setCurrentDraft(null); setExtraction(null); setUrl('') }}
+            style={{ fontSize: '12px', color: C.greenLight, background: 'none', border: 'none', cursor: 'pointer', fontFamily: 'system-ui, sans-serif' }}
           >
             + Neu
           </button>
         </div>
-        <div className="flex-1 overflow-y-auto">
-          {loadingDrafts && <p className="p-4 text-xs text-[var(--color-textgrau)]">Lädt…</p>}
+        <div style={{ flex: 1, overflowY: 'auto' }}>
+          {loadingDrafts && <p style={{ padding: '12px 16px', fontSize: '12px', color: C.greenLight }}>Lädt…</p>}
           {drafts.map(d => (
             <button
               key={d.id}
               onClick={() => openDraft(d)}
-              className={`w-full text-left p-3 border-b border-[var(--color-border)] hover:bg-gray-50 transition-colors ${currentDraft?.id === d.id ? 'bg-gray-50' : ''}`}
+              style={{
+                width: '100%',
+                textAlign: 'left',
+                padding: '10px 16px',
+                borderBottom: `1px solid ${C.border}`,
+                background: currentDraft?.id === d.id ? C.bg : 'transparent',
+                border: 'none',
+                borderBottomColor: C.border,
+                borderBottomWidth: '1px',
+                borderBottomStyle: 'solid',
+                cursor: 'pointer',
+                fontFamily: 'system-ui, sans-serif',
+              }}
             >
-              <div className="flex items-start justify-between gap-2 mb-1">
-                <span className="text-sm text-[var(--color-tannengruen)] font-medium line-clamp-2 leading-snug">{d.title || d.originalTitle}</span>
+              <div style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between', gap: '8px', marginBottom: '3px' }}>
+                <span style={{ fontSize: '12px', color: C.green, fontWeight: 500, lineHeight: 1.4, display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>
+                  {d.title || d.originalTitle}
+                </span>
                 <StatusBadge status={d.status} />
               </div>
-              <p className="text-xs text-[var(--color-textgrau)]">{d.quelle} · {new Date(d.updatedAt).toLocaleDateString('de-CH')}</p>
+              <p style={{ fontSize: '11px', color: C.greenLight, margin: 0 }}>{d.quelle} · {new Date(d.updatedAt).toLocaleDateString('de-CH')}</p>
             </button>
           ))}
         </div>
-        <div className="p-3 border-t border-[var(--color-border)]">
-          <form action="/api/mediawatch/auth" method="post" onSubmit={async e => { e.preventDefault(); await fetch('/api/mediawatch/auth', { method: 'DELETE' }); location.href = '/admin/mediawatch/login' }}>
-            <button type="submit" className="text-xs text-[var(--color-textgrau)] hover:text-[var(--color-tannengruen)]">Abmelden</button>
-          </form>
+        <div style={{ padding: '10px 16px', borderTop: `1px solid ${C.border}` }}>
+          <button
+            onClick={async () => { await fetch('/api/mediawatch/auth', { method: 'DELETE' }); location.href = '/admin/mediawatch/login' }}
+            style={{ fontSize: '12px', color: C.greenLight, background: 'none', border: 'none', cursor: 'pointer', fontFamily: 'system-ui, sans-serif' }}
+          >
+            Abmelden
+          </button>
         </div>
       </aside>
 
-      {/* Main */}
-      <main className="flex-1 overflow-y-auto p-8 max-w-4xl">
-        <div className="mb-6 flex gap-3 items-center text-sm text-[var(--color-textgrau)]">
-          <button onClick={() => setStage('input')} className={stage === 'input' ? 'text-[var(--color-tannengruen)] font-medium' : 'hover:text-[var(--color-tannengruen)]'}>Eingabe</button>
+      {/* Main content */}
+      <main style={{ flex: 1, overflowY: 'auto', padding: '32px', maxWidth: '960px' }}>
+        {/* Breadcrumb */}
+        <div style={{ display: 'flex', gap: '8px', alignItems: 'center', fontSize: '12px', color: C.greenLight, marginBottom: '24px' }}>
+          <button onClick={() => setStage('input')} style={{ background: 'none', border: 'none', cursor: 'pointer', color: stage === 'input' ? C.green : C.greenLight, fontWeight: stage === 'input' ? 600 : 400, fontFamily: 'system-ui, sans-serif', fontSize: '12px' }}>Eingabe</button>
           <span>›</span>
-          <button onClick={() => extraction && setStage('meta')} disabled={!extraction} className={`${stage === 'meta' ? 'text-[var(--color-tannengruen)] font-medium' : 'hover:text-[var(--color-tannengruen)]'} disabled:opacity-40`}>Metadaten &amp; Generierung</button>
+          <button onClick={() => extraction && setStage('meta')} disabled={!extraction} style={{ background: 'none', border: 'none', cursor: extraction ? 'pointer' : 'default', color: stage === 'meta' ? C.green : C.greenLight, fontWeight: stage === 'meta' ? 600 : 400, opacity: extraction ? 1 : 0.4, fontFamily: 'system-ui, sans-serif', fontSize: '12px' }}>Metadaten &amp; Generierung</button>
           <span>›</span>
-          <span className={stage === 'review' ? 'text-[var(--color-tannengruen)] font-medium' : 'opacity-40'}>Review</span>
+          <span style={{ color: stage === 'review' ? C.green : C.greenLight, fontWeight: stage === 'review' ? 600 : 400, opacity: stage === 'review' ? 1 : 0.4 }}>Review</span>
         </div>
 
         {stage === 'input' && inputSection}
@@ -512,7 +561,6 @@ export default function MediaWatchPage() {
   )
 }
 
-// Minimal markdown-to-HTML for the preview pane (no MDXRemote needed since we're client-side)
 function markdownToHtml(md: string): string {
   return md
     .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
@@ -524,8 +572,7 @@ function markdownToHtml(md: string): string {
     .replace(/^---$/gm, '<hr />')
     .replace(/\[VERIFIZIEREN\]/g, '<mark style="background:yellow;padding:1px 4px">[VERIFIZIEREN]</mark>')
     .replace(/\n\n/g, '</p><p>')
-    .replace(/^/, '<p>')
-    .replace(/$/, '</p>')
-    .replace(/<p><h/g, '<h').replace(/<\/h([123])><\/p>/g, '</h$1>')
+    .replace(/^/, '<p>').replace(/$/, '</p>')
+    .replace(/<p><(h[123]|hr)>/g, '<$1>').replace(/<\/(h[123])><\/p>/g, '</$1>')
     .replace(/<p><hr \/><\/p>/g, '<hr />')
 }

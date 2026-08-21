@@ -39,6 +39,7 @@
    ============================================================ */
 
 @import "tailwindcss";
+@source "../app/admin/**/*.{tsx,ts}";
 
 /* ============================================================
    3. DESIGN TOKENS (@theme — Tailwind 4 CSS-first config)
