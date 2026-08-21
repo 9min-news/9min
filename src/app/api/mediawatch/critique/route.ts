@@ -40,9 +40,10 @@ export async function POST(req: NextRequest) {
         const veniceRes = await fetch('https://api.venice.ai/api/v1/chat/completions', {
           method: 'POST',
           headers: { Authorization: `Bearer ${apiKey}`, 'Content-Type': 'application/json' },
+          signal: AbortSignal.timeout(25000),
           body: JSON.stringify({
             model: 'z-ai-glm-5-3',
-            max_tokens: 4000,
+            max_tokens: 1500,
             temperature: 0.6,
             stream: true,
             messages: [
@@ -85,6 +86,12 @@ export async function POST(req: NextRequest) {
               }
             } catch { /* ignore malformed SSE lines */ }
           }
+        }
+
+        if (!fullMarkdown.trim()) {
+          send({ error: 'Venice returned no content — check VENICE_INFERENCE_KEY and model name z-ai-glm-5-3 in Vercel env vars' })
+          controller.close()
+          return
         }
 
         // Extract title from first heading line
