@@ -16,7 +16,6 @@ export interface ExtractionResult {
 async function fetchHtml(url: string): Promise<string> {
   let res = await fetch(url, { headers: { 'User-Agent': CHROME_UA }, redirect: 'follow' })
   if (res.status === 403) {
-    // Retry with a slightly different UA
     res = await fetch(url, {
       headers: {
         'User-Agent': CHROME_UA,
@@ -33,17 +32,12 @@ async function fetchHtml(url: string): Promise<string> {
 
 export async function extractUrl(url: string): Promise<ExtractionResult> {
   const html = await fetchHtml(url)
-
-  // Use defuddle for main article content
-  // eslint-disable-next-line @typescript-eslint/no-require-imports
-  const { default: Defuddle } = await import('defuddle')
-  // defuddle works in browser but can work in Node via a DOM implementation
-  // We parse it ourselves using cheerio for the structured fields, and let
-  // turndown handle the HTML-to-markdown conversion of the main content.
-
   const $ = cheerio.load(html)
 
-  // Extract meta fields
+  // Remove noise elements before extraction
+  $('script, style, nav, header, footer, noscript, .ad, .advertisement, .cookie-banner').remove()
+
+  // Meta fields
   const title =
     $('meta[property="og:title"]').attr('content') ||
     $('meta[name="twitter:title"]').attr('content') ||
@@ -60,46 +54,21 @@ export async function extractUrl(url: string): Promise<ExtractionResult> {
     $('time[datetime]').first().attr('datetime') ||
     ''
 
-  // Try defuddle if available (it needs a DOM; attempt it with the html string)
-  let bodyHtml = ''
-  try {
-    // defuddle expects a Document — use it if JSDOM is available via defuddle's own bundling
-    const defuddleResult = await Defuddle.parse(html, { url })
-    if (defuddleResult?.content) {
-      bodyHtml = defuddleResult.content
-    }
-  } catch {
-    // fall through to cheerio extraction
-  }
-
-  if (!bodyHtml) {
-    // Fallback: pick the largest content block via cheerio
-    const candidates = ['article', 'main', '[role="main"]', '.article-body', '.content']
-    for (const sel of candidates) {
-      const el = $(sel).first()
-      if (el.length) {
-        bodyHtml = el.html() ?? ''
-        break
-      }
-    }
-    if (!bodyHtml) bodyHtml = $('body').html() ?? ''
-  }
-
-  // Captions from figcaptions
+  // Collect figcaptions before stripping them
   const captions: string[] = []
   $('figcaption').each((_, el) => {
     const text = $(el).text().trim()
     if (text) captions.push(text)
   })
 
-  // Related articles — look for common patterns
+  // Related articles
   const related: Array<{ text: string; url?: string }> = []
   const relatedSelectors = [
     '.related-articles a',
     '.mehr-zum-thema a',
     '[data-testid="related"] a',
-    '.teaser a',
     'aside a',
+    '.teaser a',
   ]
   const seen = new Set<string>()
   for (const sel of relatedSelectors) {
@@ -108,26 +77,35 @@ export async function extractUrl(url: string): Promise<ExtractionResult> {
       const href = $(el).attr('href')
       if (text && !seen.has(text)) {
         seen.add(text)
-        related.push({
-          text,
-          url: href ? new URL(href, url).href : undefined,
-        })
+        related.push({ text, url: href ? new URL(href, url).href : undefined })
       }
     })
     if (related.length >= 10) break
   }
 
-  // Convert body HTML to markdown
+  // Pick the best content element
+  const candidates = [
+    'article',
+    'main',
+    '[role="main"]',
+    '.article-body',
+    '.article-content',
+    '.content-article',
+    '.entry-content',
+    '.post-content',
+    '.content',
+  ]
+  let bodyHtml = ''
+  for (const sel of candidates) {
+    const el = $(sel).first()
+    if (el.length) { bodyHtml = el.html() ?? ''; break }
+  }
+  if (!bodyHtml) bodyHtml = $('body').html() ?? ''
+
+  // HTML → Markdown
   const td = new TurndownService({ headingStyle: 'atx', bulletListMarker: '-' })
-  td.remove(['script', 'style', 'nav', 'header', 'footer', 'noscript'])
+  td.remove(['script', 'style', 'nav', 'header', 'footer', 'noscript', 'aside', 'figure'])
   const markdown = td.turndown(bodyHtml)
 
-  return {
-    title: title.trim(),
-    markdown,
-    captions,
-    related,
-    siteName,
-    publishedTime,
-  }
+  return { title: title.trim(), markdown, captions, related, siteName, publishedTime }
 }
