@@ -29,7 +29,7 @@ function newId() {
 export async function createDraft(fields: Omit<Draft, 'id' | 'createdAt' | 'updatedAt'>): Promise<Draft> {
   const now = new Date().toISOString()
   const draft: Draft = { id: newId(), createdAt: now, updatedAt: now, ...fields }
-  await putFile(draftPath(draft.id), JSON.stringify(draft, null, 2), `mediawatch: create draft ${draft.id}`)
+  await putFile(draftPath(draft.id), JSON.stringify(draft, null, 2), `mediawatch: create draft ${draft.id} [skip ci]`)
   return draft
 }
 
@@ -44,14 +44,14 @@ export async function updateDraft(id: string, patch: Partial<Draft>): Promise<Dr
   if (!file) throw new Error(`Draft ${id} not found`)
   const current = JSON.parse(file.content) as Draft
   const updated: Draft = { ...current, ...patch, id, updatedAt: new Date().toISOString() }
-  await putFile(draftPath(id), JSON.stringify(updated, null, 2), `mediawatch: update draft ${id}`, file.sha)
+  await putFile(draftPath(id), JSON.stringify(updated, null, 2), `mediawatch: update draft ${id} [skip ci]`, file.sha)
   return updated
 }
 
 export async function deleteDraft(id: string): Promise<void> {
   const file = await getFile(draftPath(id))
   if (!file) return
-  await deleteFile(draftPath(id), file.sha, `mediawatch: delete draft ${id}`)
+  await deleteFile(draftPath(id), file.sha, `mediawatch: delete draft ${id} [skip ci]`)
 }
 
 export async function listDrafts(): Promise<Draft[]> {
