@@ -1,4 +1,4 @@
-import promptText from './prompts/mediawatch-v3.md'
+import promptText from './prompts/mediawatch-v3-text'
 
 export function loadSystemPrompt(): string {
   return promptText

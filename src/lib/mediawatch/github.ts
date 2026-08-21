@@ -1,5 +1,18 @@
 const BASE = 'https://api.github.com'
 
+function encodeBase64(str: string): string {
+  const bytes = new TextEncoder().encode(str)
+  let binary = ''
+  for (const b of bytes) binary += String.fromCharCode(b)
+  return btoa(binary)
+}
+
+function decodeBase64(b64: string): string {
+  const binary = atob(b64.replace(/\n/g, ''))
+  const bytes = Uint8Array.from(binary, c => c.charCodeAt(0))
+  return new TextDecoder().decode(bytes)
+}
+
 function headers() {
   const token = process.env.GITHUB_TOKEN
   if (!token) throw new Error('GITHUB_TOKEN not set')
@@ -31,7 +44,7 @@ export async function getFile(path: string): Promise<{ sha: string; content: str
   if (res.status === 404) return null
   if (!res.ok) throw new Error(`GitHub getFile ${path}: ${res.status}`)
   const data: GithubFileResponse = await res.json()
-  const content = Buffer.from(data.content, data.encoding as BufferEncoding).toString('utf-8')
+  const content = decodeBase64(data.content)
   return { sha: data.sha, content }
 }
 
@@ -43,7 +56,7 @@ export async function putFile(
 ): Promise<void> {
   const body: Record<string, string> = {
     message,
-    content: Buffer.from(content, 'utf-8').toString('base64'),
+    content: encodeBase64(content),
   }
   if (sha) body.sha = sha
   const res = await fetch(`${BASE}/repos/${repo()}/contents/${path}`, {
