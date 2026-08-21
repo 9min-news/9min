@@ -214,6 +214,11 @@ export default function MediaWatchPage() {
     if (!extraction) return
     setGenerating(true)
     setGenerateError('')
+    // Move to review immediately so the user sees text streaming in
+    setEditMarkdown('')
+    setEditTitle(metaTitle)
+    setStage('review')
+
     try {
       const res = await fetch('/api/mediawatch/critique', {
         method: 'POST',
@@ -231,13 +236,41 @@ export default function MediaWatchPage() {
           schwerpunkt: schwerpunkt || undefined,
         }),
       })
-      const data = await res.json()
-      if (!res.ok) { setGenerateError(data.error ?? 'Fehler'); return }
-      setCurrentDraft(data)
-      setEditTitle(data.title)
-      setEditMarkdown(data.markdown)
-      setStage('review')
-      loadDrafts()
+
+      if (!res.ok || !res.body) {
+        const data = await res.json().catch(() => ({ error: 'Fehler' }))
+        setGenerateError(data.error ?? 'Fehler')
+        return
+      }
+
+      // Read SSE stream — show chunks in real time, handle final draft
+      const reader = res.body.getReader()
+      const dec = new TextDecoder()
+      let buf = ''
+
+      while (true) {
+        const { done, value } = await reader.read()
+        if (done) break
+        buf += dec.decode(value, { stream: true })
+        const lines = buf.split('\n')
+        buf = lines.pop() ?? ''
+
+        for (const line of lines) {
+          if (!line.startsWith('data: ')) continue
+          try {
+            const event = JSON.parse(line.slice(6))
+            if (event.error) { setGenerateError(event.error); return }
+            if (event.chunk) {
+              setEditMarkdown(prev => prev + event.chunk)
+            }
+            if (event.done && event.draft) {
+              setCurrentDraft(event.draft)
+              setEditTitle(event.draft.title)
+              loadDrafts()
+            }
+          } catch { /* ignore parse errors */ }
+        }
+      }
     } catch (e) {
       setGenerateError(e instanceof Error ? e.message : 'Netzwerkfehler')
     } finally {

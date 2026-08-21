@@ -14,15 +14,17 @@ export interface ExtractionResult {
 }
 
 async function fetchHtml(url: string): Promise<string> {
-  let res = await fetch(url, { headers: { 'User-Agent': CHROME_UA }, redirect: 'follow' })
-  if (res.status === 403) {
+  const headers = {
+    'User-Agent': CHROME_UA,
+    Accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'Accept-Language': 'de-CH,de;q=0.9,en;q=0.8',
+    'Cache-Control': 'no-cache',
+  }
+  let res = await fetch(url, { headers, redirect: 'follow' })
+  if (res.status === 403 || res.status === 429) {
+    // Retry with slightly different headers
     res = await fetch(url, {
-      headers: {
-        'User-Agent': CHROME_UA,
-        Accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-        'Accept-Language': 'de-CH,de;q=0.9',
-        'Cache-Control': 'no-cache',
-      },
+      headers: { ...headers, Referer: 'https://www.google.com/' },
       redirect: 'follow',
     })
   }
@@ -32,29 +34,37 @@ async function fetchHtml(url: string): Promise<string> {
 
 export async function extractUrl(url: string): Promise<ExtractionResult> {
   const html = await fetchHtml(url)
+
+  // Run defuddle with linkedom for proper server-side DOM
+  // eslint-disable-next-line @typescript-eslint/no-require-imports
+  const { parseHTML } = require('linkedom') as { parseHTML: (html: string) => { document: Document } }
+  // eslint-disable-next-line @typescript-eslint/no-require-imports
+  const Defuddle = require('defuddle') as new (doc: Document, opts?: { url?: string }) => { parse(): { content: string; title: string; description: string; site: string; published: string } }
+
+  const { document } = parseHTML(html)
+  const defuddled = new Defuddle(document, { url }).parse()
+
+  // Use cheerio on the raw HTML for captions + related (defuddle strips these)
   const $ = cheerio.load(html)
 
-  // Remove noise elements before extraction
-  $('script, style, nav, header, footer, noscript, .ad, .advertisement, .cookie-banner').remove()
-
-  // Meta fields
   const title =
+    defuddled.title?.trim() ||
     $('meta[property="og:title"]').attr('content') ||
-    $('meta[name="twitter:title"]').attr('content') ||
-    $('title').text() ||
+    $('title').text().trim() ||
     ''
 
   const siteName =
+    defuddled.site ||
     $('meta[property="og:site_name"]').attr('content') ||
     new URL(url).hostname.replace(/^www\./, '')
 
   const publishedTime =
+    defuddled.published ||
     $('meta[property="article:published_time"]').attr('content') ||
-    $('meta[name="date"]').attr('content') ||
     $('time[datetime]').first().attr('datetime') ||
     ''
 
-  // Collect figcaptions before stripping them
+  // Captions from figcaptions (before defuddle strips them)
   const captions: string[] = []
   $('figcaption').each((_, el) => {
     const text = $(el).text().trim()
@@ -68,6 +78,7 @@ export async function extractUrl(url: string): Promise<ExtractionResult> {
     '.mehr-zum-thema a',
     '[data-testid="related"] a',
     'aside a',
+    '.teaser-ng a',
     '.teaser a',
   ]
   const seen = new Set<string>()
@@ -75,37 +86,26 @@ export async function extractUrl(url: string): Promise<ExtractionResult> {
     $(sel).each((_, el) => {
       const text = $(el).text().trim()
       const href = $(el).attr('href')
-      if (text && !seen.has(text)) {
+      if (text && text.length > 10 && !seen.has(text)) {
         seen.add(text)
-        related.push({ text, url: href ? new URL(href, url).href : undefined })
+        try {
+          related.push({ text, url: href ? new URL(href, url).href : undefined })
+        } catch {
+          related.push({ text })
+        }
       }
     })
     if (related.length >= 10) break
   }
 
-  // Pick the best content element
-  const candidates = [
-    'article',
-    'main',
-    '[role="main"]',
-    '.article-body',
-    '.article-content',
-    '.content-article',
-    '.entry-content',
-    '.post-content',
-    '.content',
-  ]
-  let bodyHtml = ''
-  for (const sel of candidates) {
-    const el = $(sel).first()
-    if (el.length) { bodyHtml = el.html() ?? ''; break }
-  }
-  if (!bodyHtml) bodyHtml = $('body').html() ?? ''
-
-  // HTML → Markdown
+  // Convert defuddle's cleaned HTML to markdown
   const td = new TurndownService({ headingStyle: 'atx', bulletListMarker: '-' })
-  td.remove(['script', 'style', 'nav', 'header', 'footer', 'noscript', 'aside', 'figure'])
-  const markdown = td.turndown(bodyHtml)
+  td.remove(['script', 'style', 'noscript'])
+  const markdown = td.turndown(defuddled.content || '')
 
-  return { title: title.trim(), markdown, captions, related, siteName, publishedTime }
+  if (!markdown.trim()) {
+    throw new Error('Kein Inhalt extrahiert — bitte URL prüfen oder Text manuell einfügen.')
+  }
+
+  return { title, markdown, captions, related, siteName, publishedTime }
 }

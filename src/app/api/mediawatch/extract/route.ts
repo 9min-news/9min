@@ -1,6 +1,8 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { extractUrl } from '@/lib/mediawatch/extract'
 
+export const maxDuration = 30
+
 export async function POST(req: NextRequest) {
   const { url } = await req.json()
   if (!url || typeof url !== 'string') {
