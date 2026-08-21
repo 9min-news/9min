@@ -438,17 +438,26 @@ export default function MediaWatchPage() {
     </div>
   )
 
-  const reviewSection = currentDraft && (
+  const reviewSection = (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '14px' }}>
-      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-        <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-          <StatusBadge status={currentDraft.status} />
-          {saving && <span style={{ fontSize: '12px', color: C.greenLight }}>Speichert…</span>}
+      {/* Draft status — only once saved */}
+      {currentDraft && (
+        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+            <StatusBadge status={currentDraft.status} />
+            {saving && <span style={{ fontSize: '12px', color: C.greenLight }}>Speichert…</span>}
+          </div>
+          {currentDraft.publishedUrl && (
+            <a href={currentDraft.publishedUrl} target="_blank" rel="noopener noreferrer" style={{ fontSize: '12px', color: C.green }}>{currentDraft.publishedUrl}</a>
+          )}
         </div>
-        {currentDraft.publishedUrl && (
-          <a href={currentDraft.publishedUrl} target="_blank" rel="noopener noreferrer" style={{ fontSize: '12px', color: C.green }}>{currentDraft.publishedUrl}</a>
-        )}
-      </div>
+      )}
+
+      {/* Streaming / error state */}
+      {generating && !editMarkdown && (
+        <p style={{ color: C.greenLight, fontSize: '13px', margin: 0 }}>Kritik wird generiert… (ca. 30–60 s)</p>
+      )}
+      {generateError && <p style={{ color: C.red, fontSize: '13px', margin: 0 }}>{generateError}</p>}
 
       <div>
         <label style={S.label}>Titel</label>
@@ -477,48 +486,50 @@ export default function MediaWatchPage() {
         </div>
       </div>
 
-      {/* Publish controls */}
-      <div style={{ border: `1px solid ${C.border}`, borderRadius: '6px', padding: '16px', display: 'flex', flexDirection: 'column', gap: '14px' }}>
-        <p style={{ fontSize: '14px', fontWeight: 600, color: C.green, margin: 0 }}>Veröffentlichen</p>
+      {/* Publish controls — only once we have a saved draft */}
+      {currentDraft && (
+        <div style={{ border: `1px solid ${C.border}`, borderRadius: '6px', padding: '16px', display: 'flex', flexDirection: 'column', gap: '14px' }}>
+          <p style={{ fontSize: '14px', fontWeight: 600, color: C.green, margin: 0 }}>Veröffentlichen</p>
 
-        <div style={{ display: 'flex', gap: '24px' }}>
-          <label style={{ display: 'flex', alignItems: 'center', gap: '8px', cursor: 'pointer', fontSize: '14px' }}>
-            <input type="checkbox" checked={pubWeb} onChange={e => setPubWeb(e.target.checked)} style={{ width: '16px', height: '16px' }} />
-            Website
-          </label>
-          <label style={{ display: 'flex', alignItems: 'center', gap: '8px', cursor: 'pointer', fontSize: '14px' }}>
-            <input type="checkbox" checked={pubX} onChange={e => setPubX(e.target.checked)} style={{ width: '16px', height: '16px' }} />
-            X (Twitter)
-          </label>
-        </div>
-
-        {pubX && (
-          <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
-            <a href="/api/mediawatch/xauth" style={{ fontSize: '13px', color: C.green }}>X verbinden →</a>
-            <div>
-              <label style={S.label}>X-Text ({xText.length}/280)</label>
-              <textarea
-                value={xText}
-                onChange={e => setXText(e.target.value.slice(0, 280))}
-                rows={3}
-                style={{ ...S.textarea, fontFamily: 'system-ui, sans-serif', borderColor: xText.length >= 280 ? C.red : C.border, resize: 'none' }}
-              />
-              {xText.length >= 280 && <p style={{ color: C.red, fontSize: '12px', margin: '2px 0 0' }}>Zeichenlimit erreicht.</p>}
-            </div>
+          <div style={{ display: 'flex', gap: '24px' }}>
+            <label style={{ display: 'flex', alignItems: 'center', gap: '8px', cursor: 'pointer', fontSize: '14px' }}>
+              <input type="checkbox" checked={pubWeb} onChange={e => setPubWeb(e.target.checked)} style={{ width: '16px', height: '16px' }} />
+              Website
+            </label>
+            <label style={{ display: 'flex', alignItems: 'center', gap: '8px', cursor: 'pointer', fontSize: '14px' }}>
+              <input type="checkbox" checked={pubX} onChange={e => setPubX(e.target.checked)} style={{ width: '16px', height: '16px' }} />
+              X (Twitter)
+            </label>
           </div>
-        )}
 
-        {publishError && <p style={{ color: C.red, fontSize: '13px', margin: 0 }}>{publishError}</p>}
-        <div>
-          <button
-            onClick={handlePublish}
-            disabled={publishing || currentDraft.status === 'published'}
-            style={S.btn(C.green, publishing || currentDraft.status === 'published')}
-          >
-            {publishing ? 'Wird veröffentlicht…' : currentDraft.status === 'published' ? 'Bereits publiziert' : 'Veröffentlichen'}
-          </button>
+          {pubX && (
+            <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
+              <a href="/api/mediawatch/xauth" style={{ fontSize: '13px', color: C.green }}>X verbinden →</a>
+              <div>
+                <label style={S.label}>X-Text ({xText.length}/280)</label>
+                <textarea
+                  value={xText}
+                  onChange={e => setXText(e.target.value.slice(0, 280))}
+                  rows={3}
+                  style={{ ...S.textarea, fontFamily: 'system-ui, sans-serif', borderColor: xText.length >= 280 ? C.red : C.border, resize: 'none' }}
+                />
+                {xText.length >= 280 && <p style={{ color: C.red, fontSize: '12px', margin: '2px 0 0' }}>Zeichenlimit erreicht.</p>}
+              </div>
+            </div>
+          )}
+
+          {publishError && <p style={{ color: C.red, fontSize: '13px', margin: 0 }}>{publishError}</p>}
+          <div>
+            <button
+              onClick={handlePublish}
+              disabled={publishing || currentDraft.status === 'published'}
+              style={S.btn(C.green, publishing || currentDraft.status === 'published')}
+            >
+              {publishing ? 'Wird veröffentlicht…' : currentDraft.status === 'published' ? 'Bereits publiziert' : 'Veröffentlichen'}
+            </button>
+          </div>
         </div>
-      </div>
+      )}
     </div>
   )
 

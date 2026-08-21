@@ -22,7 +22,6 @@ async function fetchHtml(url: string): Promise<string> {
   }
   let res = await fetch(url, { headers, redirect: 'follow' })
   if (res.status === 403 || res.status === 429) {
-    // Retry with slightly different headers
     res = await fetch(url, {
       headers: { ...headers, Referer: 'https://www.google.com/' },
       redirect: 'follow',
@@ -32,54 +31,90 @@ async function fetchHtml(url: string): Promise<string> {
   return res.text()
 }
 
+// Jina Reader handles JS-rendered pages and returns clean markdown
+async function extractWithJina(url: string): Promise<{ title: string; markdown: string } | null> {
+  try {
+    const res = await fetch(`https://r.jina.ai/${url}`, {
+      headers: { Accept: 'application/json', 'X-With-Images-Summary': 'false' },
+      signal: AbortSignal.timeout(12000),
+    })
+    if (!res.ok) return null
+    const data = await res.json() as { data?: { title?: string; content?: string } }
+    const markdown = data?.data?.content ?? ''
+    const title = data?.data?.title ?? ''
+    if (markdown.trim().length < 200) return null
+    return { title, markdown }
+  } catch {
+    return null
+  }
+}
+
+// Defuddle fallback for when Jina is unavailable
+async function extractWithDefuddle(html: string, url: string): Promise<{ title: string; markdown: string } | null> {
+  try {
+    // eslint-disable-next-line @typescript-eslint/no-require-imports
+    const { parseHTML } = require('linkedom') as { parseHTML: (html: string) => { document: Document } }
+    // eslint-disable-next-line @typescript-eslint/no-require-imports
+    const Defuddle = require('defuddle') as new (doc: Document, opts?: { url?: string }) => { parse(): { content: string; title: string; site: string; published: string } }
+    const { document } = parseHTML(html)
+    const defuddled = new Defuddle(document, { url }).parse()
+    const td = new TurndownService({ headingStyle: 'atx', bulletListMarker: '-' })
+    td.remove(['script', 'style', 'noscript'])
+    const markdown = td.turndown(defuddled.content || '')
+    if (!markdown.trim()) return null
+    return { title: defuddled.title ?? '', markdown }
+  } catch {
+    return null
+  }
+}
+
 export async function extractUrl(url: string): Promise<ExtractionResult> {
-  const html = await fetchHtml(url)
+  // Fetch HTML and run Jina in parallel
+  const [htmlResult, jinaResult] = await Promise.allSettled([
+    fetchHtml(url),
+    extractWithJina(url),
+  ])
 
-  // Run defuddle with linkedom for proper server-side DOM
-  // eslint-disable-next-line @typescript-eslint/no-require-imports
-  const { parseHTML } = require('linkedom') as { parseHTML: (html: string) => { document: Document } }
-  // eslint-disable-next-line @typescript-eslint/no-require-imports
-  const Defuddle = require('defuddle') as new (doc: Document, opts?: { url?: string }) => { parse(): { content: string; title: string; description: string; site: string; published: string } }
+  const html = htmlResult.status === 'fulfilled' ? htmlResult.value : ''
+  let extracted = jinaResult.status === 'fulfilled' ? jinaResult.value : null
 
-  const { document } = parseHTML(html)
-  const defuddled = new Defuddle(document, { url }).parse()
+  // Fall back to defuddle if Jina failed or returned too little
+  if (!extracted && html) {
+    extracted = await extractWithDefuddle(html, url)
+  }
 
-  // Use cheerio on the raw HTML for captions + related (defuddle strips these)
+  if (!extracted?.markdown.trim()) {
+    throw new Error('Kein Inhalt extrahiert — bitte URL prüfen oder Text manuell einfügen.')
+  }
+
+  // Use cheerio on raw HTML for metadata, captions, related
   const $ = cheerio.load(html)
 
   const title =
-    defuddled.title?.trim() ||
+    extracted.title ||
     $('meta[property="og:title"]').attr('content') ||
     $('title').text().trim() ||
     ''
 
   const siteName =
-    defuddled.site ||
     $('meta[property="og:site_name"]').attr('content') ||
     new URL(url).hostname.replace(/^www\./, '')
 
   const publishedTime =
-    defuddled.published ||
     $('meta[property="article:published_time"]').attr('content') ||
     $('time[datetime]').first().attr('datetime') ||
     ''
 
-  // Captions from figcaptions (before defuddle strips them)
   const captions: string[] = []
   $('figcaption').each((_, el) => {
     const text = $(el).text().trim()
     if (text) captions.push(text)
   })
 
-  // Related articles
   const related: Array<{ text: string; url?: string }> = []
   const relatedSelectors = [
-    '.related-articles a',
-    '.mehr-zum-thema a',
-    '[data-testid="related"] a',
-    'aside a',
-    '.teaser-ng a',
-    '.teaser a',
+    '.related-articles a', '.mehr-zum-thema a', '[data-testid="related"] a',
+    'aside a', '.teaser-ng a', '.teaser a',
   ]
   const seen = new Set<string>()
   for (const sel of relatedSelectors) {
@@ -98,14 +133,5 @@ export async function extractUrl(url: string): Promise<ExtractionResult> {
     if (related.length >= 10) break
   }
 
-  // Convert defuddle's cleaned HTML to markdown
-  const td = new TurndownService({ headingStyle: 'atx', bulletListMarker: '-' })
-  td.remove(['script', 'style', 'noscript'])
-  const markdown = td.turndown(defuddled.content || '')
-
-  if (!markdown.trim()) {
-    throw new Error('Kein Inhalt extrahiert — bitte URL prüfen oder Text manuell einfügen.')
-  }
-
-  return { title, markdown, captions, related, siteName, publishedTime }
+  return { title, markdown: extracted.markdown, captions, related, siteName, publishedTime }
 }
