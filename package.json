@@ -8,19 +8,25 @@
     "start": "next start"
   },
   "dependencies": {
+    "cheerio": "^1.2.0",
+    "defuddle": "^0.19.2",
     "fuse.js": "^7.3.0",
     "gray-matter": "^4.0.3",
     "jose": "^6.2.3",
+    "linkedom": "^0.18.13",
     "next": "^15.0.0",
     "next-mdx-remote": "^6.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "resend": "^6.12.3"
+    "resend": "^6.12.3",
+    "turndown": "^7.2.4",
+    "twitter-api-v2": "^1.29.1"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.0.0",
     "@types/node": "^22.0.0",
     "@types/react": "^19.0.0",
+    "@types/turndown": "^5.0.6",
     "tailwindcss": "^4.0.0",
     "typescript": "^5.0.0"
   }
