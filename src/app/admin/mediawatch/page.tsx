@@ -58,11 +58,39 @@ const S = {
     opacity: disabled ? 0.6 : 1,
     fontFamily: 'system-ui, sans-serif',
   } as React.CSSProperties),
+  btnOutline: (active = false) => ({
+    background: active ? C.bg : 'transparent',
+    color: C.greenLight,
+    border: `1px solid ${C.border}`,
+    borderRadius: '6px',
+    padding: '7px 14px',
+    fontSize: '13px',
+    fontWeight: 500,
+    cursor: 'pointer',
+    fontFamily: 'system-ui, sans-serif',
+  } as React.CSSProperties),
   label: { display: 'block', fontSize: '11px', color: C.greenLight, marginBottom: '4px' } as React.CSSProperties,
 }
 
+const PROSE_STYLES = `
+  .mw-prose { font-family: Georgia, 'Times New Roman', serif; color: #1A2E1A; line-height: 1.8; font-size: 17px; }
+  .mw-prose .mw-h1 { font-family: system-ui, -apple-system, sans-serif; font-size: 26px; font-weight: 700; line-height: 1.2; margin: 0 0 24px; letter-spacing: -0.3px; color: #1A2E1A; }
+  .mw-prose .mw-h2 { font-family: system-ui, -apple-system, sans-serif; font-size: 17px; font-weight: 600; margin: 36px 0 10px; border-top: 2px solid #D4A847; padding-top: 10px; color: #1A2E1A; letter-spacing: -0.1px; }
+  .mw-prose .mw-h3 { font-family: system-ui, -apple-system, sans-serif; font-size: 12px; font-weight: 600; margin: 28px 0 6px; text-transform: uppercase; letter-spacing: 0.8px; color: #4A5C4A; }
+  .mw-prose .mw-p { margin: 0 0 18px; }
+  .mw-prose .mw-p:last-child { margin-bottom: 0; }
+  .mw-prose .mw-hr { border: none; border-top: 1px solid #D4D0C8; margin: 32px 0; }
+  .mw-prose a { color: #1A2E1A; text-decoration: underline; text-decoration-color: #D4A847; text-underline-offset: 3px; }
+  .mw-prose strong { font-weight: 700; }
+  .mw-prose em { font-style: italic; }
+  .mw-prose .mw-verify { background: #fde047; color: #854d0e; padding: 1px 6px; border-radius: 3px; font-size: 0.82em; font-family: system-ui, sans-serif; font-weight: 700; letter-spacing: 0.2px; }
+  @keyframes mw-pulse { 0%,100%{opacity:1} 50%{opacity:0.2} }
+  .mw-dot { animation: mw-pulse 1.4s ease-in-out infinite; }
+`
+
 type Stage = 'input' | 'meta' | 'review'
 type InputTab = 'url' | 'manual'
+type ViewMode = 'read' | 'edit'
 
 interface ExtractionResult {
   title: string
@@ -93,7 +121,7 @@ function VerifyMarkers({ markdown }: { markdown: string }) {
   const count = (markdown.match(/\[VERIFIZIEREN\]/g) ?? []).length
   if (count === 0) return null
   return (
-    <div style={{ background: C.yellow50, border: `1px solid ${C.yellow300}`, borderRadius: '6px', padding: '10px 14px', marginBottom: '12px' }}>
+    <div style={{ background: C.yellow50, border: `1px solid ${C.yellow300}`, borderRadius: '6px', padding: '10px 14px' }}>
       <p style={{ color: C.yellow800, fontWeight: 600, fontSize: '13px', margin: '0 0 4px' }}>
         {count} offene Prüfstelle{count > 1 ? 'n' : ''} [VERIFIZIEREN]
       </p>
@@ -107,6 +135,8 @@ function VerifyMarkers({ markdown }: { markdown: string }) {
 export default function MediaWatchPage() {
   const [stage, setStage] = useState<Stage>('input')
   const [tab, setTab] = useState<InputTab>('url')
+  const [viewMode, setViewMode] = useState<ViewMode>('read')
+  const [copied, setCopied] = useState(false)
 
   const [url, setUrl] = useState('')
   const [manualText, setManualText] = useState('')
@@ -214,7 +244,8 @@ export default function MediaWatchPage() {
     if (!extraction) return
     setGenerating(true)
     setGenerateError('')
-    // Move to review immediately so the user sees text streaming in
+    setViewMode('read')
+    setCopied(false)
     setEditMarkdown('')
     setEditTitle(metaTitle)
     setStage('review')
@@ -243,7 +274,6 @@ export default function MediaWatchPage() {
         return
       }
 
-      // Read SSE stream — show chunks in real time, handle final draft
       const reader = res.body.getReader()
       const dec = new TextDecoder()
       let buf = ''
@@ -260,15 +290,13 @@ export default function MediaWatchPage() {
           try {
             const event = JSON.parse(line.slice(6))
             if (event.error) { setGenerateError(event.error); return }
-            if (event.chunk) {
-              setEditMarkdown(prev => prev + event.chunk)
-            }
+            if (event.chunk) setEditMarkdown(prev => prev + event.chunk)
             if (event.done && event.draft) {
               setCurrentDraft(event.draft)
               setEditTitle(event.draft.title)
               loadDrafts()
             }
-          } catch { /* ignore parse errors */ }
+          } catch { /* ignore malformed SSE lines */ }
         }
       }
     } catch (e) {
@@ -282,7 +310,24 @@ export default function MediaWatchPage() {
     setCurrentDraft(draft)
     setEditTitle(draft.title)
     setEditMarkdown(draft.markdown)
+    setViewMode('read')
+    setCopied(false)
     setStage('review')
+  }
+
+  async function handleCopy() {
+    try {
+      await navigator.clipboard.writeText(editMarkdown)
+    } catch {
+      const el = document.createElement('textarea')
+      el.value = editMarkdown
+      document.body.appendChild(el)
+      el.select()
+      document.execCommand('copy')
+      document.body.removeChild(el)
+    }
+    setCopied(true)
+    setTimeout(() => setCopied(false), 2000)
   }
 
   async function handlePublish() {
@@ -336,7 +381,7 @@ export default function MediaWatchPage() {
             type="url"
             value={url}
             onChange={e => setUrl(e.target.value)}
-            placeholder="https://www.srf.ch/news/..."
+            placeholder="https://www.srf.ch/news/…"
             style={S.input}
             onKeyDown={e => e.key === 'Enter' && handleExtract()}
           />
@@ -432,191 +477,252 @@ export default function MediaWatchPage() {
       {generateError && <p style={{ color: C.red, fontSize: '13px', margin: 0 }}>{generateError}</p>}
       <div>
         <button onClick={handleGenerateCritique} disabled={generating} style={S.btn(C.gold, generating)}>
-          {generating ? 'Kritik wird generiert… (ca. 60 s)' : 'Kritik generieren'}
+          {generating ? 'Generiert…' : 'Kritik generieren'}
         </button>
       </div>
     </div>
   )
 
-  const reviewSection = (
-    <div style={{ display: 'flex', flexDirection: 'column', gap: '14px' }}>
-      {/* Draft status — only once saved */}
-      {currentDraft && (
-        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-          <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-            <StatusBadge status={currentDraft.status} />
-            {saving && <span style={{ fontSize: '12px', color: C.greenLight }}>Speichert…</span>}
-          </div>
-          {currentDraft.publishedUrl && (
-            <a href={currentDraft.publishedUrl} target="_blank" rel="noopener noreferrer" style={{ fontSize: '12px', color: C.green }}>{currentDraft.publishedUrl}</a>
-          )}
-        </div>
-      )}
-
-      {/* Streaming / error state */}
-      {generating && !editMarkdown && (
-        <p style={{ color: C.greenLight, fontSize: '13px', margin: 0 }}>Kritik wird generiert… (ca. 30–60 s)</p>
-      )}
-      {generateError && <p style={{ color: C.red, fontSize: '13px', margin: 0 }}>{generateError}</p>}
-
-      <div>
-        <label style={S.label}>Titel</label>
-        <input value={editTitle} onChange={e => setEditTitle(e.target.value)} style={{ ...S.input, fontWeight: 600, fontSize: '15px' }} />
+  // Shared publish panel — shown in both read and edit view once draft is saved
+  const publishPanel = currentDraft && (
+    <div style={{ border: `1px solid ${C.border}`, borderRadius: '8px', padding: '20px', display: 'flex', flexDirection: 'column', gap: '14px', background: C.white, marginTop: '8px' }}>
+      <p style={{ fontSize: '14px', fontWeight: 600, color: C.green, margin: 0 }}>Veröffentlichen</p>
+      <div style={{ display: 'flex', gap: '24px' }}>
+        <label style={{ display: 'flex', alignItems: 'center', gap: '8px', cursor: 'pointer', fontSize: '14px', fontFamily: 'system-ui, sans-serif' }}>
+          <input type="checkbox" checked={pubWeb} onChange={e => setPubWeb(e.target.checked)} style={{ width: '16px', height: '16px' }} />
+          Website
+        </label>
+        <label style={{ display: 'flex', alignItems: 'center', gap: '8px', cursor: 'pointer', fontSize: '14px', fontFamily: 'system-ui, sans-serif' }}>
+          <input type="checkbox" checked={pubX} onChange={e => setPubX(e.target.checked)} style={{ width: '16px', height: '16px' }} />
+          X (Twitter)
+        </label>
       </div>
-
-      <VerifyMarkers markdown={editMarkdown} />
-
-      <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '16px' }}>
-        <div>
-          <label style={S.label}>Markdown</label>
-          <textarea
-            value={editMarkdown}
-            onChange={e => setEditMarkdown(e.target.value)}
-            rows={28}
-            style={S.textarea}
-          />
+      {pubX && (
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
+          <a href="/api/mediawatch/xauth" style={{ fontSize: '13px', color: C.green, fontFamily: 'system-ui, sans-serif' }}>X verbinden →</a>
+          <div>
+            <label style={S.label}>X-Text ({xText.length}/280)</label>
+            <textarea
+              value={xText}
+              onChange={e => setXText(e.target.value.slice(0, 280))}
+              rows={3}
+              style={{ ...S.textarea, fontFamily: 'system-ui, sans-serif', borderColor: xText.length >= 280 ? C.red : C.border, resize: 'none' }}
+            />
+            {xText.length >= 280 && <p style={{ color: C.red, fontSize: '12px', margin: '2px 0 0', fontFamily: 'system-ui, sans-serif' }}>Zeichenlimit erreicht.</p>}
+          </div>
         </div>
+      )}
+      {publishError && <p style={{ color: C.red, fontSize: '13px', margin: 0, fontFamily: 'system-ui, sans-serif' }}>{publishError}</p>}
+      <div>
+        <button
+          onClick={handlePublish}
+          disabled={publishing || currentDraft.status === 'published'}
+          style={S.btn(C.green, publishing || currentDraft.status === 'published')}
+        >
+          {publishing ? 'Wird veröffentlicht…' : currentDraft.status === 'published' ? 'Bereits publiziert' : 'Veröffentlichen'}
+        </button>
+      </div>
+    </div>
+  )
+
+  // Toolbar shown in both read and edit modes
+  const reviewToolbar = (
+    <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: '8px' }}>
+      <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+        {currentDraft && <StatusBadge status={currentDraft.status} />}
+        {saving && <span style={{ fontSize: '12px', color: C.greenLight, fontFamily: 'system-ui, sans-serif' }}>Speichert…</span>}
+        {currentDraft?.publishedUrl && (
+          <a href={currentDraft.publishedUrl} target="_blank" rel="noopener noreferrer"
+            style={{ fontSize: '12px', color: C.greenLight, textDecoration: 'none', fontFamily: 'system-ui, sans-serif' }}>
+            {currentDraft.publishedUrl}
+          </a>
+        )}
+      </div>
+      <div style={{ display: 'flex', gap: '8px' }}>
+        <button
+          onClick={handleCopy}
+          style={{
+            background: copied ? '#dcfce7' : C.bg,
+            color: copied ? '#166534' : C.greenLight,
+            border: `1px solid ${copied ? '#86efac' : C.border}`,
+            borderRadius: '6px', padding: '7px 14px',
+            fontSize: '13px', fontWeight: 500, cursor: 'pointer',
+            fontFamily: 'system-ui, sans-serif',
+          }}
+        >
+          {copied ? 'Kopiert! ✓' : 'Kopieren'}
+        </button>
+        {viewMode === 'read'
+          ? <button onClick={() => setViewMode('edit')} style={S.btnOutline()}>Bearbeiten</button>
+          : <button onClick={() => setViewMode('read')} style={S.btn(C.green)}>← Leseansicht</button>
+        }
+      </div>
+    </div>
+  )
+
+  const reviewSection = (
+    <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
+
+      {/* ── STREAMING VIEW ── */}
+      {generating && (
         <div>
-          <label style={S.label}>Vorschau</label>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '24px' }}>
+            <span className="mw-dot" style={{ display: 'inline-block', width: '8px', height: '8px', borderRadius: '50%', background: C.gold, flexShrink: 0 }} />
+            <span style={{ fontSize: '13px', color: C.greenLight, fontFamily: 'system-ui, sans-serif' }}>Kritik wird generiert…</span>
+          </div>
+          {generateError && <p style={{ color: C.red, fontSize: '13px', marginBottom: '16px', fontFamily: 'system-ui, sans-serif' }}>{generateError}</p>}
           <div
-            className="prose-9min"
-            style={{ border: `1px solid ${C.border}`, borderRadius: '6px', padding: '16px', overflow: 'auto', maxHeight: '672px', fontSize: '15px' }}
+            className="mw-prose"
+            style={{ maxWidth: '680px', minHeight: '120px' }}
             dangerouslySetInnerHTML={{ __html: markdownToHtml(editMarkdown) }}
           />
         </div>
-      </div>
+      )}
 
-      {/* Publish controls — only once we have a saved draft */}
-      {currentDraft && (
-        <div style={{ border: `1px solid ${C.border}`, borderRadius: '6px', padding: '16px', display: 'flex', flexDirection: 'column', gap: '14px' }}>
-          <p style={{ fontSize: '14px', fontWeight: 600, color: C.green, margin: 0 }}>Veröffentlichen</p>
-
-          <div style={{ display: 'flex', gap: '24px' }}>
-            <label style={{ display: 'flex', alignItems: 'center', gap: '8px', cursor: 'pointer', fontSize: '14px' }}>
-              <input type="checkbox" checked={pubWeb} onChange={e => setPubWeb(e.target.checked)} style={{ width: '16px', height: '16px' }} />
-              Website
-            </label>
-            <label style={{ display: 'flex', alignItems: 'center', gap: '8px', cursor: 'pointer', fontSize: '14px' }}>
-              <input type="checkbox" checked={pubX} onChange={e => setPubX(e.target.checked)} style={{ width: '16px', height: '16px' }} />
-              X (Twitter)
-            </label>
-          </div>
-
-          {pubX && (
-            <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
-              <a href="/api/mediawatch/xauth" style={{ fontSize: '13px', color: C.green }}>X verbinden →</a>
-              <div>
-                <label style={S.label}>X-Text ({xText.length}/280)</label>
-                <textarea
-                  value={xText}
-                  onChange={e => setXText(e.target.value.slice(0, 280))}
-                  rows={3}
-                  style={{ ...S.textarea, fontFamily: 'system-ui, sans-serif', borderColor: xText.length >= 280 ? C.red : C.border, resize: 'none' }}
-                />
-                {xText.length >= 280 && <p style={{ color: C.red, fontSize: '12px', margin: '2px 0 0' }}>Zeichenlimit erreicht.</p>}
-              </div>
-            </div>
-          )}
-
-          {publishError && <p style={{ color: C.red, fontSize: '13px', margin: 0 }}>{publishError}</p>}
-          <div>
-            <button
-              onClick={handlePublish}
-              disabled={publishing || currentDraft.status === 'published'}
-              style={S.btn(C.green, publishing || currentDraft.status === 'published')}
-            >
-              {publishing ? 'Wird veröffentlicht…' : currentDraft.status === 'published' ? 'Bereits publiziert' : 'Veröffentlichen'}
-            </button>
-          </div>
+      {/* ── READ VIEW ── */}
+      {!generating && viewMode === 'read' && (
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
+          {reviewToolbar}
+          {generateError && <p style={{ color: C.red, fontSize: '13px', margin: 0, fontFamily: 'system-ui, sans-serif' }}>{generateError}</p>}
+          <VerifyMarkers markdown={editMarkdown} />
+          <div
+            className="mw-prose"
+            style={{ maxWidth: '680px' }}
+            dangerouslySetInnerHTML={{ __html: markdownToHtml(editMarkdown) }}
+          />
+          {currentDraft && publishPanel}
         </div>
       )}
+
+      {/* ── EDIT VIEW ── */}
+      {!generating && viewMode === 'edit' && (
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
+          {reviewToolbar}
+          {generateError && <p style={{ color: C.red, fontSize: '13px', margin: 0, fontFamily: 'system-ui, sans-serif' }}>{generateError}</p>}
+          <div>
+            <label style={S.label}>Titel</label>
+            <input value={editTitle} onChange={e => setEditTitle(e.target.value)} style={{ ...S.input, fontWeight: 600, fontSize: '15px' }} />
+          </div>
+          <VerifyMarkers markdown={editMarkdown} />
+          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '16px' }}>
+            <div>
+              <label style={S.label}>Markdown</label>
+              <textarea value={editMarkdown} onChange={e => setEditMarkdown(e.target.value)} rows={28} style={S.textarea} />
+            </div>
+            <div>
+              <label style={S.label}>Vorschau</label>
+              <div
+                className="mw-prose"
+                style={{ border: `1px solid ${C.border}`, borderRadius: '6px', padding: '20px', overflow: 'auto', maxHeight: '672px' }}
+                dangerouslySetInnerHTML={{ __html: markdownToHtml(editMarkdown) }}
+              />
+            </div>
+          </div>
+          {currentDraft && publishPanel}
+        </div>
+      )}
+
     </div>
   )
 
   return (
-    <div style={{ minHeight: '100vh', background: C.paper, display: 'flex', fontFamily: 'system-ui, -apple-system, sans-serif', fontSize: '14px', color: C.green }}>
-      {/* Sidebar */}
-      <aside style={{ width: '260px', borderRight: `1px solid ${C.border}`, display: 'flex', flexDirection: 'column', flexShrink: 0, background: C.white }}>
-        <div style={{ padding: '14px 16px', borderBottom: `1px solid ${C.border}`, display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-          <span style={{ fontWeight: 600, fontSize: '14px', color: C.green }}>Media Watch</span>
-          <button
-            onClick={() => { setStage('input'); setCurrentDraft(null); setExtraction(null); setUrl('') }}
-            style={{ fontSize: '12px', color: C.greenLight, background: 'none', border: 'none', cursor: 'pointer', fontFamily: 'system-ui, sans-serif' }}
-          >
-            + Neu
-          </button>
-        </div>
-        <div style={{ flex: 1, overflowY: 'auto' }}>
-          {loadingDrafts && <p style={{ padding: '12px 16px', fontSize: '12px', color: C.greenLight }}>Lädt…</p>}
-          {drafts.map(d => (
+    <>
+      <style>{PROSE_STYLES}</style>
+      <div style={{ minHeight: '100vh', background: C.paper, display: 'flex', fontFamily: 'system-ui, -apple-system, sans-serif', fontSize: '14px', color: C.green }}>
+        {/* Sidebar */}
+        <aside style={{ width: '260px', borderRight: `1px solid ${C.border}`, display: 'flex', flexDirection: 'column', flexShrink: 0, background: C.white }}>
+          <div style={{ padding: '14px 16px', borderBottom: `1px solid ${C.border}`, display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+            <span style={{ fontWeight: 600, fontSize: '14px', color: C.green }}>Media Watch</span>
             <button
-              key={d.id}
-              onClick={() => openDraft(d)}
-              style={{
-                width: '100%',
-                textAlign: 'left',
-                padding: '10px 16px',
-                borderBottom: `1px solid ${C.border}`,
-                background: currentDraft?.id === d.id ? C.bg : 'transparent',
-                border: 'none',
-                borderBottomColor: C.border,
-                borderBottomWidth: '1px',
-                borderBottomStyle: 'solid',
-                cursor: 'pointer',
-                fontFamily: 'system-ui, sans-serif',
-              }}
+              onClick={() => { setStage('input'); setCurrentDraft(null); setExtraction(null); setUrl('') }}
+              style={{ fontSize: '12px', color: C.greenLight, background: 'none', border: 'none', cursor: 'pointer', fontFamily: 'system-ui, sans-serif' }}
             >
-              <div style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between', gap: '8px', marginBottom: '3px' }}>
-                <span style={{ fontSize: '12px', color: C.green, fontWeight: 500, lineHeight: 1.4, display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>
-                  {d.title || d.originalTitle}
-                </span>
-                <StatusBadge status={d.status} />
-              </div>
-              <p style={{ fontSize: '11px', color: C.greenLight, margin: 0 }}>{d.quelle} · {new Date(d.updatedAt).toLocaleDateString('de-CH')}</p>
+              + Neu
             </button>
-          ))}
-        </div>
-        <div style={{ padding: '10px 16px', borderTop: `1px solid ${C.border}` }}>
-          <button
-            onClick={async () => { await fetch('/api/mediawatch/auth', { method: 'DELETE' }); location.href = '/admin/mediawatch/login' }}
-            style={{ fontSize: '12px', color: C.greenLight, background: 'none', border: 'none', cursor: 'pointer', fontFamily: 'system-ui, sans-serif' }}
-          >
-            Abmelden
-          </button>
-        </div>
-      </aside>
+          </div>
+          <div style={{ flex: 1, overflowY: 'auto' }}>
+            {loadingDrafts && <p style={{ padding: '12px 16px', fontSize: '12px', color: C.greenLight }}>Lädt…</p>}
+            {drafts.map(d => (
+              <button
+                key={d.id}
+                onClick={() => openDraft(d)}
+                style={{
+                  width: '100%', textAlign: 'left', padding: '10px 16px',
+                  background: currentDraft?.id === d.id ? C.bg : 'transparent',
+                  border: 'none', borderBottom: `1px solid ${C.border}`,
+                  cursor: 'pointer', fontFamily: 'system-ui, sans-serif',
+                }}
+              >
+                <div style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between', gap: '8px', marginBottom: '3px' }}>
+                  <span style={{ fontSize: '12px', color: C.green, fontWeight: 500, lineHeight: 1.4, display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>
+                    {d.title || d.originalTitle}
+                  </span>
+                  <StatusBadge status={d.status} />
+                </div>
+                <p style={{ fontSize: '11px', color: C.greenLight, margin: 0 }}>{d.quelle} · {new Date(d.updatedAt).toLocaleDateString('de-CH')}</p>
+              </button>
+            ))}
+          </div>
+          <div style={{ padding: '10px 16px', borderTop: `1px solid ${C.border}` }}>
+            <button
+              onClick={async () => { await fetch('/api/mediawatch/auth', { method: 'DELETE' }); location.href = '/admin/mediawatch/login' }}
+              style={{ fontSize: '12px', color: C.greenLight, background: 'none', border: 'none', cursor: 'pointer', fontFamily: 'system-ui, sans-serif' }}
+            >
+              Abmelden
+            </button>
+          </div>
+        </aside>
 
-      {/* Main content */}
-      <main style={{ flex: 1, overflowY: 'auto', padding: '32px', maxWidth: '960px' }}>
-        {/* Breadcrumb */}
-        <div style={{ display: 'flex', gap: '8px', alignItems: 'center', fontSize: '12px', color: C.greenLight, marginBottom: '24px' }}>
-          <button onClick={() => setStage('input')} style={{ background: 'none', border: 'none', cursor: 'pointer', color: stage === 'input' ? C.green : C.greenLight, fontWeight: stage === 'input' ? 600 : 400, fontFamily: 'system-ui, sans-serif', fontSize: '12px' }}>Eingabe</button>
-          <span>›</span>
-          <button onClick={() => extraction && setStage('meta')} disabled={!extraction} style={{ background: 'none', border: 'none', cursor: extraction ? 'pointer' : 'default', color: stage === 'meta' ? C.green : C.greenLight, fontWeight: stage === 'meta' ? 600 : 400, opacity: extraction ? 1 : 0.4, fontFamily: 'system-ui, sans-serif', fontSize: '12px' }}>Metadaten &amp; Generierung</button>
-          <span>›</span>
-          <span style={{ color: stage === 'review' ? C.green : C.greenLight, fontWeight: stage === 'review' ? 600 : 400, opacity: stage === 'review' ? 1 : 0.4 }}>Review</span>
-        </div>
+        {/* Main */}
+        <main style={{ flex: 1, overflowY: 'auto', padding: '32px', maxWidth: '960px' }}>
+          <div style={{ display: 'flex', gap: '8px', alignItems: 'center', fontSize: '12px', color: C.greenLight, marginBottom: '24px' }}>
+            <button onClick={() => setStage('input')} style={{ background: 'none', border: 'none', cursor: 'pointer', color: stage === 'input' ? C.green : C.greenLight, fontWeight: stage === 'input' ? 600 : 400, fontFamily: 'system-ui, sans-serif', fontSize: '12px' }}>Eingabe</button>
+            <span>›</span>
+            <button onClick={() => extraction && setStage('meta')} disabled={!extraction} style={{ background: 'none', border: 'none', cursor: extraction ? 'pointer' : 'default', color: stage === 'meta' ? C.green : C.greenLight, fontWeight: stage === 'meta' ? 600 : 400, opacity: extraction ? 1 : 0.4, fontFamily: 'system-ui, sans-serif', fontSize: '12px' }}>Metadaten &amp; Generierung</button>
+            <span>›</span>
+            <span style={{ color: stage === 'review' ? C.green : C.greenLight, fontWeight: stage === 'review' ? 600 : 400, opacity: stage === 'review' ? 1 : 0.4 }}>Review</span>
+          </div>
 
-        {stage === 'input' && inputSection}
-        {stage === 'meta' && metaSection}
-        {stage === 'review' && reviewSection}
-      </main>
-    </div>
+          {stage === 'input' && inputSection}
+          {stage === 'meta' && metaSection}
+          {stage === 'review' && reviewSection}
+        </main>
+      </div>
+    </>
   )
 }
 
 function markdownToHtml(md: string): string {
-  return md
-    .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
-    .replace(/^## (.+)$/gm, '<h2>$1</h2>')
-    .replace(/^### (.+)$/gm, '<h3>$1</h3>')
-    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-    .replace(/\*(.+?)\*/g, '<em>$1</em>')
-    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener noreferrer">$1</a>')
-    .replace(/^---$/gm, '<hr />')
-    .replace(/\[VERIFIZIEREN\]/g, '<mark style="background:yellow;padding:1px 4px">[VERIFIZIEREN]</mark>')
-    .replace(/\n\n/g, '</p><p>')
-    .replace(/^/, '<p>').replace(/$/, '</p>')
-    .replace(/<p><(h[123]|hr)>/g, '<$1>').replace(/<\/(h[123])><\/p>/g, '</$1>')
-    .replace(/<p><hr \/><\/p>/g, '<hr />')
+  const escape = (s: string) =>
+    s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+
+  const inline = (s: string) =>
+    escape(s)
+      .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+      .replace(/\*(.+?)\*/g, '<em>$1</em>')
+      .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener noreferrer">$1</a>')
+      .replace(/\[VERIFIZIEREN\]/g, '<mark class="mw-verify">[VERIFIZIEREN]</mark>')
+
+  const lines = md.split('\n')
+  const out: string[] = []
+  let para: string[] = []
+
+  const flushPara = () => {
+    if (para.length) {
+      out.push(`<p class="mw-p">${para.join(' ')}</p>`)
+      para = []
+    }
+  }
+
+  for (const raw of lines) {
+    const line = raw.trimEnd()
+    if (line.startsWith('# '))        { flushPara(); out.push(`<h1 class="mw-h1">${inline(line.slice(2))}</h1>`) }
+    else if (line.startsWith('## '))  { flushPara(); out.push(`<h2 class="mw-h2">${inline(line.slice(3))}</h2>`) }
+    else if (line.startsWith('### ')) { flushPara(); out.push(`<h3 class="mw-h3">${inline(line.slice(4))}</h3>`) }
+    else if (line === '---')           { flushPara(); out.push('<hr class="mw-hr" />') }
+    else if (line === '')              { flushPara() }
+    else                               { para.push(inline(line)) }
+  }
+  flushPara()
+  return out.join('\n')
 }
