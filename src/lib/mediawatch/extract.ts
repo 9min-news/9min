@@ -43,7 +43,7 @@ async function extractWithJina(url: string): Promise<{ title: string; markdown: 
 
     const res = await fetch(`https://r.jina.ai/${url}`, {
       headers,
-      signal: AbortSignal.timeout(12000),
+      signal: AbortSignal.timeout(20000),
     })
     if (!res.ok) return null
     const data = await res.json() as { data?: { title?: string; content?: string } }
@@ -57,6 +57,7 @@ async function extractWithJina(url: string): Promise<{ title: string; markdown: 
 }
 
 // Extract article content from Next.js __NEXT_DATA__ JSON (embedded in SSR pages like SRF)
+// SRF uses Apollo GraphQL — state is a flat dict keyed "TypeName:id" with content fields
 function extractFromNextData(html: string): { title: string; markdown: string } | null {
   try {
     const $ = cheerio.load(html)
@@ -67,45 +68,61 @@ function extractFromNextData(html: string): { title: string; markdown: string } 
     const pageProps = data?.props?.pageProps
     if (!pageProps) return null
 
-    const NON_CONTENT_KEYS = new Set([
-      '__typename', 'id', 'url', 'href', 'src', 'alt', 'type', 'name', 'rel',
-      'target', 'className', 'style', 'query', 'buildId', 'locale', 'locales',
-      'defaultLocale', 'isPreview', 'isFallback', 'gip', 'gsp', 'gssp',
-      'scriptLoader', 'runtimeConfig', 'nextExport', 'autoExport', 'initialI18nStore',
-    ])
+    const td = new TurndownService({ headingStyle: 'atx', bulletListMarker: '-' })
+    td.remove(['script', 'style', 'noscript'])
 
     const chunks: string[] = []
     const seen = new Set<string>()
 
-    const td = new TurndownService({ headingStyle: 'atx', bulletListMarker: '-' })
-    td.remove(['script', 'style', 'noscript'])
+    function addText(s: string) {
+      const clean = s.includes('<') ? td.turndown(s).trim() : s.trim()
+      if (clean.length > 40 && !seen.has(clean)) { seen.add(clean); chunks.push(clean) }
+    }
 
-    function walk(node: unknown, depth = 0): void {
-      if (depth > 15 || node == null) return
-      if (typeof node === 'string') {
-        let s = node.trim()
-        if (s.length < 40) return
-        if (s.startsWith('http') || s.startsWith('/') || s.startsWith('{')) return
-        if (/^[a-z0-9_\-.]+$/i.test(s)) return
-        // If it's HTML, convert to markdown first (SRF stores article body as HTML)
-        if (s.includes('<') && s.includes('>')) {
-          s = td.turndown(s).trim()
-          if (s.length < 40) return
-        }
-        if (seen.has(s)) return
-        seen.add(s)
-        chunks.push(s)
-        return
-      }
-      if (Array.isArray(node)) { for (const item of node) walk(item, depth + 1); return }
-      if (typeof node === 'object') {
-        for (const [k, v] of Object.entries(node as Record<string, unknown>)) {
-          if (!NON_CONTENT_KEYS.has(k)) walk(v, depth + 1)
+    // Strategy 1: Apollo GraphQL flat cache (SRF pattern)
+    // Keys look like "Article:abc123", "Teaser:xyz", "Block:123" etc.
+    const CONTENT_FIELDS = ['body', 'text', 'content', 'lead', 'description', 'summary',
+      'html', 'richText', 'longText', 'intro', 'abstract', 'copy', 'freetext']
+
+    function extractFromApolloCache(obj: Record<string, unknown>) {
+      for (const [, value] of Object.entries(obj)) {
+        if (!value || typeof value !== 'object' || Array.isArray(value)) continue
+        const entry = value as Record<string, unknown>
+        for (const field of CONTENT_FIELDS) {
+          if (typeof entry[field] === 'string') addText(entry[field] as string)
         }
       }
     }
 
-    walk(pageProps)
+    // Look for Apollo state under common keys
+    for (const key of ['apolloState', 'initialApolloState', '__APOLLO_STATE__', 'apollo']) {
+      const apolloState = (pageProps as Record<string, unknown>)[key]
+      if (apolloState && typeof apolloState === 'object' && !Array.isArray(apolloState)) {
+        extractFromApolloCache(apolloState as Record<string, unknown>)
+      }
+    }
+
+    // Strategy 2: Generic deep walk for non-Apollo Next.js sites
+    if (chunks.length === 0) {
+      const NON_CONTENT_KEYS = new Set([
+        '__typename', 'id', 'url', 'href', 'src', 'alt', 'type', 'name', 'rel',
+        'target', 'className', 'style', 'query', 'buildId', 'locale', 'locales',
+        'defaultLocale', 'isPreview', 'isFallback', 'gip', 'gsp', 'gssp',
+        'scriptLoader', 'runtimeConfig', 'nextExport', 'autoExport', 'initialI18nStore',
+      ])
+
+      function walk(node: unknown, depth = 0): void {
+        if (depth > 12 || node == null) return
+        if (typeof node === 'string') { addText(node); return }
+        if (Array.isArray(node)) { for (const item of node) walk(item, depth + 1); return }
+        if (typeof node === 'object') {
+          for (const [k, v] of Object.entries(node as Record<string, unknown>)) {
+            if (!NON_CONTENT_KEYS.has(k)) walk(v, depth + 1)
+          }
+        }
+      }
+      walk(pageProps)
+    }
 
     const markdown = chunks.join('\n\n')
     if (markdown.length < 300) return null

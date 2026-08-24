@@ -43,7 +43,7 @@ export async function POST(req: NextRequest) {
           headers: { Authorization: `Bearer ${apiKey}`, 'Content-Type': 'application/json' },
           signal: AbortSignal.timeout(28000),
           body: JSON.stringify({
-            model: 'z-ai-glm-5-2',
+            model: 'z-ai-glm-5-3',
             max_tokens: 1100,
             temperature: 0.6,
             stream: true,
