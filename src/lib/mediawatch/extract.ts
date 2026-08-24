@@ -37,7 +37,6 @@ async function extractWithJina(url: string): Promise<{ title: string; markdown: 
     const headers: Record<string, string> = {
       Accept: 'application/json',
       'X-With-Images-Summary': 'false',
-      'X-Target-Selector': 'article, main, [class*="article-body"], [class*="article-content"]',
     }
     const jinaKey = process.env.JINA_API_KEY
     if (jinaKey) headers['Authorization'] = `Bearer ${jinaKey}`
@@ -51,6 +50,68 @@ async function extractWithJina(url: string): Promise<{ title: string; markdown: 
     const markdown = data?.data?.content ?? ''
     const title = data?.data?.title ?? ''
     if (markdown.trim().length < 200) return null
+    return { title, markdown }
+  } catch {
+    return null
+  }
+}
+
+// Extract article content from Next.js __NEXT_DATA__ JSON (embedded in SSR pages like SRF)
+function extractFromNextData(html: string): { title: string; markdown: string } | null {
+  try {
+    const $ = cheerio.load(html)
+    const raw = $('#__NEXT_DATA__').text()
+    if (!raw) return null
+
+    const data = JSON.parse(raw)
+    const pageProps = data?.props?.pageProps
+    if (!pageProps) return null
+
+    const NON_CONTENT_KEYS = new Set([
+      '__typename', 'id', 'url', 'href', 'src', 'alt', 'type', 'name', 'rel',
+      'target', 'className', 'style', 'query', 'buildId', 'locale', 'locales',
+      'defaultLocale', 'isPreview', 'isFallback', 'gip', 'gsp', 'gssp',
+      'scriptLoader', 'runtimeConfig', 'nextExport', 'autoExport', 'initialI18nStore',
+    ])
+
+    const chunks: string[] = []
+    const seen = new Set<string>()
+
+    function walk(node: unknown, depth = 0): void {
+      if (depth > 15 || node == null) return
+      if (typeof node === 'string') {
+        const s = node.trim()
+        if (
+          s.length > 60 &&
+          !seen.has(s) &&
+          !s.startsWith('http') &&
+          !s.startsWith('/') &&
+          !s.startsWith('{') &&
+          !/^[a-z0-9_\-.]+$/i.test(s) &&
+          !s.includes('</') // skip HTML tags stored as strings — handled separately
+        ) {
+          seen.add(s)
+          chunks.push(s)
+        }
+        return
+      }
+      if (Array.isArray(node)) { for (const item of node) walk(item, depth + 1); return }
+      if (typeof node === 'object') {
+        for (const [k, v] of Object.entries(node as Record<string, unknown>)) {
+          if (!NON_CONTENT_KEYS.has(k)) walk(v, depth + 1)
+        }
+      }
+    }
+
+    walk(pageProps)
+
+    const markdown = chunks.join('\n\n')
+    if (markdown.length < 300) return null
+
+    const title = typeof (pageProps as Record<string, unknown>)?.title === 'string'
+      ? (pageProps as Record<string, unknown>).title as string
+      : ''
+
     return { title, markdown }
   } catch {
     return null
@@ -86,18 +147,19 @@ export async function extractUrl(url: string): Promise<ExtractionResult> {
   const html = htmlResult.status === 'fulfilled' ? htmlResult.value : ''
   const jinaExtracted = jinaResult.status === 'fulfilled' ? jinaResult.value : null
 
-  // Always run defuddle on the raw HTML (SRF and other SSR sites have full content in static HTML)
-  const defuddleExtracted = html ? await extractWithDefuddle(html, url) : null
+  // Run defuddle and __NEXT_DATA__ extraction on raw HTML
+  const [defuddleExtracted, nextDataExtracted] = await Promise.all([
+    html ? extractWithDefuddle(html, url) : Promise.resolve(null),
+    html ? Promise.resolve(extractFromNextData(html)) : Promise.resolve(null),
+  ])
 
-  // Pick whichever gives more content — Jina can truncate on free tier
-  let extracted: { title: string; markdown: string } | null
-  if (jinaExtracted && defuddleExtracted) {
-    extracted = jinaExtracted.markdown.length >= defuddleExtracted.markdown.length
-      ? jinaExtracted
-      : defuddleExtracted
-  } else {
-    extracted = jinaExtracted ?? defuddleExtracted
-  }
+  // Pick whichever method gave the most content
+  const candidates = [jinaExtracted, defuddleExtracted, nextDataExtracted]
+    .filter((c): c is { title: string; markdown: string } => !!c?.markdown.trim())
+  const extracted = candidates.reduce<{ title: string; markdown: string } | null>(
+    (best, c) => (!best || c.markdown.length > best.markdown.length ? c : best),
+    null
+  )
 
   if (!extracted?.markdown.trim()) {
     throw new Error('Kein Inhalt extrahiert — bitte URL prüfen oder Text manuell einfügen.')
