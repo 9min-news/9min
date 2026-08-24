@@ -251,27 +251,47 @@ export default function MediaWatchPage() {
     setStage('review')
 
     try {
-      const critiqueUrl = process.env.NEXT_PUBLIC_CRITIQUE_URL ?? '/api/mediawatch/critique'
+      const supabaseUrl = process.env.NEXT_PUBLIC_CRITIQUE_URL
       const critiqueSecret = process.env.NEXT_PUBLIC_CRITIQUE_SECRET
-      const res = await fetch(critiqueUrl, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          ...(critiqueSecret ? { Authorization: `Bearer ${critiqueSecret}` } : {}),
-        },
-        body: JSON.stringify({
-          draftId: currentDraft?.id,
-          sourceUrl: url,
-          markdown: extraction.markdown,
-          quelle: metaQuelle,
-          originalTitle: metaTitle,
-          publishedTime: extraction.publishedTime,
-          captions: extraction.captions,
-          related: extraction.related,
-          kontext: kontext || undefined,
-          schwerpunkt: schwerpunkt || undefined,
-        }),
+      const bodyJson = JSON.stringify({
+        draftId: currentDraft?.id,
+        sourceUrl: url,
+        markdown: extraction.markdown,
+        quelle: metaQuelle,
+        originalTitle: metaTitle,
+        publishedTime: extraction.publishedTime,
+        captions: extraction.captions,
+        related: extraction.related,
+        kontext: kontext || undefined,
+        schwerpunkt: schwerpunkt || undefined,
       })
+
+      let res: Response
+      if (supabaseUrl) {
+        try {
+          res = await fetch(supabaseUrl, {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+              ...(critiqueSecret ? { Authorization: `Bearer ${critiqueSecret}` } : {}),
+            },
+            body: bodyJson,
+          })
+        } catch {
+          // Supabase not deployed yet — fall back to Vercel route
+          res = await fetch('/api/mediawatch/critique', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: bodyJson,
+          })
+        }
+      } else {
+        res = await fetch('/api/mediawatch/critique', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: bodyJson,
+        })
+      }
 
       if (!res.ok || !res.body) {
         const data = await res.json().catch(() => ({ error: 'Fehler' }))

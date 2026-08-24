@@ -77,22 +77,24 @@ function extractFromNextData(html: string): { title: string; markdown: string } 
     const chunks: string[] = []
     const seen = new Set<string>()
 
+    const td = new TurndownService({ headingStyle: 'atx', bulletListMarker: '-' })
+    td.remove(['script', 'style', 'noscript'])
+
     function walk(node: unknown, depth = 0): void {
       if (depth > 15 || node == null) return
       if (typeof node === 'string') {
-        const s = node.trim()
-        if (
-          s.length > 60 &&
-          !seen.has(s) &&
-          !s.startsWith('http') &&
-          !s.startsWith('/') &&
-          !s.startsWith('{') &&
-          !/^[a-z0-9_\-.]+$/i.test(s) &&
-          !s.includes('</') // skip HTML tags stored as strings — handled separately
-        ) {
-          seen.add(s)
-          chunks.push(s)
+        let s = node.trim()
+        if (s.length < 40) return
+        if (s.startsWith('http') || s.startsWith('/') || s.startsWith('{')) return
+        if (/^[a-z0-9_\-.]+$/i.test(s)) return
+        // If it's HTML, convert to markdown first (SRF stores article body as HTML)
+        if (s.includes('<') && s.includes('>')) {
+          s = td.turndown(s).trim()
+          if (s.length < 40) return
         }
+        if (seen.has(s)) return
+        seen.add(s)
+        chunks.push(s)
         return
       }
       if (Array.isArray(node)) { for (const item of node) walk(item, depth + 1); return }
