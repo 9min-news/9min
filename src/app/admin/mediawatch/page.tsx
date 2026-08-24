@@ -251,9 +251,14 @@ export default function MediaWatchPage() {
     setStage('review')
 
     try {
-      const res = await fetch('/api/mediawatch/critique', {
+      const critiqueUrl = process.env.NEXT_PUBLIC_CRITIQUE_URL ?? '/api/mediawatch/critique'
+      const critiqueSecret = process.env.NEXT_PUBLIC_CRITIQUE_SECRET
+      const res = await fetch(critiqueUrl, {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: {
+          'Content-Type': 'application/json',
+          ...(critiqueSecret ? { Authorization: `Bearer ${critiqueSecret}` } : {}),
+        },
         body: JSON.stringify({
           draftId: currentDraft?.id,
           sourceUrl: url,
