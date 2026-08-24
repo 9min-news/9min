@@ -34,8 +34,16 @@ async function fetchHtml(url: string): Promise<string> {
 // Jina Reader handles JS-rendered pages and returns clean markdown
 async function extractWithJina(url: string): Promise<{ title: string; markdown: string } | null> {
   try {
+    const headers: Record<string, string> = {
+      Accept: 'application/json',
+      'X-With-Images-Summary': 'false',
+      'X-Target-Selector': 'article, main, [class*="article-body"], [class*="article-content"]',
+    }
+    const jinaKey = process.env.JINA_API_KEY
+    if (jinaKey) headers['Authorization'] = `Bearer ${jinaKey}`
+
     const res = await fetch(`https://r.jina.ai/${url}`, {
-      headers: { Accept: 'application/json', 'X-With-Images-Summary': 'false' },
+      headers,
       signal: AbortSignal.timeout(12000),
     })
     if (!res.ok) return null
@@ -76,11 +84,19 @@ export async function extractUrl(url: string): Promise<ExtractionResult> {
   ])
 
   const html = htmlResult.status === 'fulfilled' ? htmlResult.value : ''
-  let extracted = jinaResult.status === 'fulfilled' ? jinaResult.value : null
+  const jinaExtracted = jinaResult.status === 'fulfilled' ? jinaResult.value : null
 
-  // Fall back to defuddle if Jina failed or returned too little
-  if (!extracted && html) {
-    extracted = await extractWithDefuddle(html, url)
+  // Always run defuddle on the raw HTML (SRF and other SSR sites have full content in static HTML)
+  const defuddleExtracted = html ? await extractWithDefuddle(html, url) : null
+
+  // Pick whichever gives more content — Jina can truncate on free tier
+  let extracted: { title: string; markdown: string } | null
+  if (jinaExtracted && defuddleExtracted) {
+    extracted = jinaExtracted.markdown.length >= defuddleExtracted.markdown.length
+      ? jinaExtracted
+      : defuddleExtracted
+  } else {
+    extracted = jinaExtracted ?? defuddleExtracted
   }
 
   if (!extracted?.markdown.trim()) {
