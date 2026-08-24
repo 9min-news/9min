@@ -306,6 +306,17 @@ export default function MediaWatchPage() {
     }
   }
 
+  async function handleDeleteDraft(id: string) {
+    if (!window.confirm('Entwurf löschen?')) return
+    await fetch(`/api/mediawatch/drafts/${id}`, { method: 'DELETE' })
+    setDrafts(prev => prev.filter(d => d.id !== id))
+    if (currentDraft?.id === id) {
+      setCurrentDraft(null)
+      setStage('input')
+      setExtraction(null)
+    }
+  }
+
   function openDraft(draft: Draft) {
     setCurrentDraft(draft)
     setEditTitle(draft.title)
@@ -643,24 +654,35 @@ export default function MediaWatchPage() {
           <div style={{ flex: 1, overflowY: 'auto' }}>
             {loadingDrafts && <p style={{ padding: '12px 16px', fontSize: '12px', color: C.greenLight }}>Lädt…</p>}
             {drafts.map(d => (
-              <button
-                key={d.id}
-                onClick={() => openDraft(d)}
-                style={{
-                  width: '100%', textAlign: 'left', padding: '10px 16px',
-                  background: currentDraft?.id === d.id ? C.bg : 'transparent',
-                  border: 'none', borderBottom: `1px solid ${C.border}`,
-                  cursor: 'pointer', fontFamily: 'system-ui, sans-serif',
-                }}
-              >
-                <div style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between', gap: '8px', marginBottom: '3px' }}>
-                  <span style={{ fontSize: '12px', color: C.green, fontWeight: 500, lineHeight: 1.4, display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>
-                    {d.title || d.originalTitle}
-                  </span>
-                  <StatusBadge status={d.status} />
-                </div>
-                <p style={{ fontSize: '11px', color: C.greenLight, margin: 0 }}>{d.quelle} · {new Date(d.updatedAt).toLocaleDateString('de-CH')}</p>
-              </button>
+              <div key={d.id} style={{ display: 'flex', alignItems: 'stretch', borderBottom: `1px solid ${C.border}`, background: currentDraft?.id === d.id ? C.bg : 'transparent' }}>
+                <button
+                  onClick={() => openDraft(d)}
+                  style={{
+                    flex: 1, textAlign: 'left', padding: '10px 16px',
+                    background: 'transparent', border: 'none',
+                    cursor: 'pointer', fontFamily: 'system-ui, sans-serif', minWidth: 0,
+                  }}
+                >
+                  <div style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between', gap: '8px', marginBottom: '3px' }}>
+                    <span style={{ fontSize: '12px', color: C.green, fontWeight: 500, lineHeight: 1.4, display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>
+                      {d.title || d.originalTitle}
+                    </span>
+                    <StatusBadge status={d.status} />
+                  </div>
+                  <p style={{ fontSize: '11px', color: C.greenLight, margin: 0 }}>{d.quelle} · {new Date(d.updatedAt).toLocaleDateString('de-CH')}</p>
+                </button>
+                <button
+                  onClick={() => handleDeleteDraft(d.id)}
+                  title="Löschen"
+                  style={{
+                    background: 'none', border: 'none', borderLeft: `1px solid ${C.border}`,
+                    cursor: 'pointer', color: C.greenLight, padding: '0 10px',
+                    fontSize: '16px', lineHeight: 1, flexShrink: 0,
+                  }}
+                >
+                  ×
+                </button>
+              </div>
             ))}
           </div>
           <div style={{ padding: '10px 16px', borderTop: `1px solid ${C.border}` }}>

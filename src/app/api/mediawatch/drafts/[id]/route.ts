@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { getDraft, updateDraft } from '@/lib/mediawatch/draft'
+import { getDraft, updateDraft, deleteDraft } from '@/lib/mediawatch/draft'
 
 export async function GET(_req: NextRequest, { params }: { params: Promise<{ id: string }> }) {
   const { id } = await params
@@ -19,5 +19,16 @@ export async function PATCH(req: NextRequest, { params }: { params: Promise<{ id
   } catch (err) {
     console.error('updateDraft error:', err)
     return NextResponse.json({ error: 'Fehler beim Speichern' }, { status: 500 })
+  }
+}
+
+export async function DELETE(_req: NextRequest, { params }: { params: Promise<{ id: string }> }) {
+  const { id } = await params
+  try {
+    await deleteDraft(id)
+    return new NextResponse(null, { status: 204 })
+  } catch (err) {
+    console.error('deleteDraft error:', err)
+    return NextResponse.json({ error: 'Fehler beim Löschen' }, { status: 500 })
   }
 }
