@@ -43,7 +43,7 @@ export async function POST(req: NextRequest) {
           headers: { Authorization: `Bearer ${apiKey}`, 'Content-Type': 'application/json' },
           signal: AbortSignal.timeout(28000),
           body: JSON.stringify({
-            model: 'z-ai-glm-5-3',
+            model: 'z-ai-glm-5-2',
             max_tokens: 1100,
             temperature: 0.6,
             stream: true,
@@ -56,13 +56,14 @@ export async function POST(req: NextRequest) {
 
         if (!veniceRes.ok || !veniceRes.body) {
           const err = await veniceRes.text()
-          send({ error: `Venice API ${veniceRes.status}: ${err.slice(0, 200)}` })
+          send({ error: `Venice API ${veniceRes.status}: ${err.slice(0, 300)}` })
           controller.close()
           return
         }
 
         // Accumulate full markdown as SSE chunks arrive
         let fullMarkdown = ''
+        let lastVeniceChunk = ''
         const reader = veniceRes.body.getReader()
         const dec = new TextDecoder()
         let buf = ''
@@ -78,6 +79,7 @@ export async function POST(req: NextRequest) {
             if (!line.startsWith('data: ')) continue
             const payload = line.slice(6).trim()
             if (payload === '[DONE]') continue
+            lastVeniceChunk = payload
             try {
               const chunk = JSON.parse(payload)
               const delta = chunk.choices?.[0]?.delta?.content
@@ -90,7 +92,7 @@ export async function POST(req: NextRequest) {
         }
 
         if (!fullMarkdown.trim()) {
-          send({ error: 'Venice returned no content — check VENICE_INFERENCE_KEY and model name z-ai-glm-5-3 in Vercel env vars. If timeouts persist, try model z-ai-glm-5-2.' })
+          send({ error: `Venice returned no content. Last SSE: ${lastVeniceChunk.slice(0, 200) || '(empty)'}` })
           controller.close()
           return
         }

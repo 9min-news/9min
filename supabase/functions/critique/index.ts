@@ -301,7 +301,7 @@ Deno.serve(async (req: Request) => {
           },
           signal: AbortSignal.timeout(55000),
           body: JSON.stringify({
-            model: 'z-ai-glm-5-3',
+            model: 'z-ai-glm-5-2',
             max_tokens: 1100,
             temperature: 0.6,
             stream: true,
@@ -320,6 +320,7 @@ Deno.serve(async (req: Request) => {
         }
 
         let fullMarkdown = ''
+        let lastVeniceChunk = ''
         const reader = veniceRes.body.getReader()
         const dec = new TextDecoder()
         let buf = ''
@@ -335,6 +336,7 @@ Deno.serve(async (req: Request) => {
             if (!line.startsWith('data: ')) continue
             const payload = line.slice(6).trim()
             if (payload === '[DONE]') continue
+            lastVeniceChunk = payload
             try {
               const chunk = JSON.parse(payload)
               const delta = chunk.choices?.[0]?.delta?.content
@@ -347,7 +349,7 @@ Deno.serve(async (req: Request) => {
         }
 
         if (!fullMarkdown.trim()) {
-          send({ error: 'Venice returned no content — check VENICE_INFERENCE_KEY and model name z-ai-glm-5-3' })
+          send({ error: `Venice returned no content. Last SSE: ${lastVeniceChunk.slice(0, 200) || '(empty)'}` })
           controller.close()
           return
         }
