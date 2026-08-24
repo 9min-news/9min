@@ -26,7 +26,8 @@ export async function POST(req: NextRequest) {
   if (!apiKey) return new Response(JSON.stringify({ error: 'VENICE_INFERENCE_KEY nicht gesetzt' }), { status: 500, headers: { 'Content-Type': 'application/json' } })
 
   const systemPrompt = loadSystemPrompt()
-  const userMessage = buildUserMessage({ markdown, quelle, originalTitle, publishedTime: publishedTime ?? '', captions, related, kontext, schwerpunkt })
+  const truncatedMarkdown = markdown.length > 5000 ? markdown.slice(0, 5000) + '\n\n[…]' : markdown
+  const userMessage = buildUserMessage({ markdown: truncatedMarkdown, quelle, originalTitle, publishedTime: publishedTime ?? '', captions, related, kontext, schwerpunkt })
 
   // Stream Venice response → client, save draft when complete
   const encoder = new TextEncoder()
@@ -40,10 +41,10 @@ export async function POST(req: NextRequest) {
         const veniceRes = await fetch('https://api.venice.ai/api/v1/chat/completions', {
           method: 'POST',
           headers: { Authorization: `Bearer ${apiKey}`, 'Content-Type': 'application/json' },
-          signal: AbortSignal.timeout(25000),
+          signal: AbortSignal.timeout(28000),
           body: JSON.stringify({
             model: 'z-ai-glm-5-3',
-            max_tokens: 1500,
+            max_tokens: 1100,
             temperature: 0.6,
             stream: true,
             messages: [
@@ -89,7 +90,7 @@ export async function POST(req: NextRequest) {
         }
 
         if (!fullMarkdown.trim()) {
-          send({ error: 'Venice returned no content — check VENICE_INFERENCE_KEY and model name z-ai-glm-5-3 in Vercel env vars' })
+          send({ error: 'Venice returned no content — check VENICE_INFERENCE_KEY and model name z-ai-glm-5-3 in Vercel env vars. If timeouts persist, try model z-ai-glm-5-2.' })
           controller.close()
           return
         }
