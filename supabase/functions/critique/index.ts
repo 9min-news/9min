@@ -305,6 +305,7 @@ Deno.serve(async (req: Request) => {
             max_tokens: 1100,
             temperature: 0.6,
             stream: true,
+            venice_parameters: { include_venice_system_prompt: false },
             messages: [
               { role: 'system', content: SYSTEM_PROMPT },
               { role: 'user', content: userMessage },

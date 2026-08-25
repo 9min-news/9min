@@ -47,6 +47,7 @@ export async function POST(req: NextRequest) {
             max_tokens: 1100,
             temperature: 0.6,
             stream: true,
+            venice_parameters: { include_venice_system_prompt: false },
             messages: [
               { role: 'system', content: systemPrompt },
               { role: 'user', content: userMessage },
