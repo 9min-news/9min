@@ -233,9 +233,11 @@ export default function MediaWatchPage() {
   }
 
   function handleManualContinue() {
-    setExtraction({ title: manualTitel, markdown: manualText, captions: [], related: [], siteName: manualQuelle, publishedTime: manualDatum })
-    setMetaTitle(manualTitel)
-    setMetaQuelle(manualQuelle)
+    const quelle = manualQuelle.trim() || 'Manuell'
+    const titel = manualTitel.trim() || manualText.trim().split('\n')[0].slice(0, 80)
+    setExtraction({ title: titel, markdown: manualText, captions: [], related: [], siteName: quelle, publishedTime: manualDatum })
+    setMetaTitle(titel)
+    setMetaQuelle(quelle)
     setMetaDatum(manualDatum)
     setStage('meta')
   }
@@ -431,21 +433,31 @@ export default function MediaWatchPage() {
       )}
 
       {tab === 'manual' && (
-        <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
-          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '10px' }}>
-            <input value={manualQuelle} onChange={e => setManualQuelle(e.target.value)} placeholder="Quelle (z.B. SRF News)" style={S.input} />
-            <input value={manualTitel} onChange={e => setManualTitel(e.target.value)} placeholder="Originaltitel" style={S.input} />
-            <input type="date" value={manualDatum} onChange={e => setManualDatum(e.target.value)} style={S.input} />
-          </div>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
           <textarea
             value={manualText}
             onChange={e => setManualText(e.target.value)}
-            placeholder="Artikeltext hier einfügen…"
-            rows={12}
-            style={S.textarea}
+            placeholder="Artikeltext hier einfügen — z.B. aus SRF News, NZZ, 20min…"
+            rows={14}
+            style={{ ...S.textarea, fontSize: '14px' }}
+            autoFocus
           />
+          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '10px' }}>
+            <div>
+              <label style={S.label}>Quelle <span style={{ fontStyle: 'italic' }}>(optional)</span></label>
+              <input value={manualQuelle} onChange={e => setManualQuelle(e.target.value)} placeholder="SRF News" style={S.input} />
+            </div>
+            <div>
+              <label style={S.label}>Originaltitel <span style={{ fontStyle: 'italic' }}>(optional)</span></label>
+              <input value={manualTitel} onChange={e => setManualTitel(e.target.value)} placeholder="Titel des Artikels" style={S.input} />
+            </div>
+            <div>
+              <label style={S.label}>Datum <span style={{ fontStyle: 'italic' }}>(optional)</span></label>
+              <input type="date" value={manualDatum} onChange={e => setManualDatum(e.target.value)} style={S.input} />
+            </div>
+          </div>
           <div>
-            <button onClick={handleManualContinue} disabled={!manualText || !manualQuelle || !manualTitel} style={S.btn(C.green, !manualText || !manualQuelle || !manualTitel)}>
+            <button onClick={handleManualContinue} disabled={!manualText.trim()} style={S.btn(C.green, !manualText.trim())}>
               Weiter
             </button>
           </div>
