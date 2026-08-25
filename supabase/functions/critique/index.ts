@@ -301,7 +301,7 @@ Deno.serve(async (req: Request) => {
           },
           signal: AbortSignal.timeout(55000),
           body: JSON.stringify({
-            model: 'z-ai-glm-5-turbo',
+            model: 'z-ai-glm-5-3',
             max_tokens: 1100,
             temperature: 0.6,
             stream: true,

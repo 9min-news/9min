@@ -140,9 +140,11 @@ export default function MediaWatchPage() {
 
   const [url, setUrl] = useState('')
   const [manualText, setManualText] = useState('')
+  const [manualUrl, setManualUrl] = useState('')
   const [manualQuelle, setManualQuelle] = useState('')
   const [manualTitel, setManualTitel] = useState('')
   const [manualDatum, setManualDatum] = useState('')
+  const [fetchingManualMeta, setFetchingManualMeta] = useState(false)
 
   const [extraction, setExtraction] = useState<ExtractionResult | null>(null)
   const [extractError, setExtractError] = useState('')
@@ -153,7 +155,7 @@ export default function MediaWatchPage() {
   const [metaDatum, setMetaDatum] = useState('')
   const [kontext, setKontext] = useState('')
   const [schwerpunkt, setSchwerpunkt] = useState('')
-  const [showPreview, setShowPreview] = useState(false)
+  const [showArticleText, setShowArticleText] = useState(false)
 
   const [generating, setGenerating] = useState(false)
   const [generateError, setGenerateError] = useState('')
@@ -235,11 +237,34 @@ export default function MediaWatchPage() {
   function handleManualContinue() {
     const quelle = manualQuelle.trim() || 'Manuell'
     const titel = manualTitel.trim() || manualText.trim().split('\n')[0].slice(0, 80)
+    if (manualUrl) setUrl(manualUrl)
     setExtraction({ title: titel, markdown: manualText, captions: [], related: [], siteName: quelle, publishedTime: manualDatum })
     setMetaTitle(titel)
     setMetaQuelle(quelle)
     setMetaDatum(manualDatum)
     setStage('meta')
+  }
+
+  async function handleFetchManualMeta() {
+    if (!manualUrl) return
+    setFetchingManualMeta(true)
+    try {
+      const res = await fetch('/api/mediawatch/extract', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ url: manualUrl }),
+      })
+      if (res.ok) {
+        const data = await res.json()
+        if (data.siteName && !manualQuelle) setManualQuelle(data.siteName)
+        if (data.title && !manualTitel) setManualTitel(data.title)
+        if (data.publishedTime && !manualDatum) {
+          try { setManualDatum(new Date(data.publishedTime).toISOString().slice(0, 10)) } catch { /* ignore */ }
+        }
+      }
+    } catch { /* ignore */ } finally {
+      setFetchingManualMeta(false)
+    }
   }
 
   async function handleGenerateCritique() {
@@ -434,11 +459,31 @@ export default function MediaWatchPage() {
 
       {tab === 'manual' && (
         <div style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
+          <div>
+            <label style={S.label}>URL <span style={{ fontStyle: 'italic' }}>(optional — füllt Metadaten automatisch aus)</span></label>
+            <div style={{ display: 'flex', gap: '8px' }}>
+              <input
+                type="url"
+                value={manualUrl}
+                onChange={e => setManualUrl(e.target.value)}
+                placeholder="https://www.srf.ch/news/…"
+                style={{ ...S.input, flex: 1 }}
+                onKeyDown={e => e.key === 'Enter' && handleFetchManualMeta()}
+              />
+              <button
+                onClick={handleFetchManualMeta}
+                disabled={!manualUrl || fetchingManualMeta}
+                style={{ ...S.btn(C.green, !manualUrl || fetchingManualMeta), whiteSpace: 'nowrap' }}
+              >
+                {fetchingManualMeta ? 'Lädt…' : 'Laden'}
+              </button>
+            </div>
+          </div>
           <textarea
             value={manualText}
             onChange={e => setManualText(e.target.value)}
             placeholder="Artikeltext hier einfügen — z.B. aus SRF News, NZZ, 20min…"
-            rows={14}
+            rows={12}
             style={{ ...S.textarea, fontSize: '14px' }}
             autoFocus
           />
@@ -484,27 +529,24 @@ export default function MediaWatchPage() {
       </div>
 
       <div>
-        <button onClick={() => setShowPreview(p => !p)} style={{ background: 'none', border: 'none', fontSize: '13px', color: C.greenLight, textDecoration: 'underline', cursor: 'pointer', padding: 0, fontFamily: 'system-ui, sans-serif' }}>
-          {showPreview ? 'Vorschau ausblenden' : 'Extraktions-Vorschau anzeigen'}
-        </button>
-        {showPreview && (
-          <div style={{ marginTop: '10px', border: `1px solid ${C.border}`, borderRadius: '6px', padding: '14px', display: 'flex', flexDirection: 'column', gap: '12px' }}>
-            <div>
-              <p style={{ ...S.label, marginBottom: '6px' }}>Artikeltext (Markdown)</p>
-              <pre style={{ fontSize: '12px', background: C.gray50, padding: '10px', borderRadius: '4px', overflow: 'auto', maxHeight: '200px', whiteSpace: 'pre-wrap', margin: 0, fontFamily: 'ui-monospace, monospace' }}>
-                {extraction.markdown.slice(0, 1200)}{extraction.markdown.length > 1200 ? '\n…' : ''}
-              </pre>
-            </div>
+        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '6px' }}>
+          <label style={S.label}>Artikeltext (bearbeitbar)</label>
+          <button onClick={() => setShowArticleText(p => !p)} style={{ background: 'none', border: 'none', fontSize: '11px', color: C.greenLight, textDecoration: 'underline', cursor: 'pointer', padding: 0, fontFamily: 'system-ui, sans-serif' }}>
+            {showArticleText ? 'Ausblenden' : 'Anzeigen / bearbeiten'}
+          </button>
+        </div>
+        {showArticleText && (
+          <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
+            <textarea
+              value={extraction.markdown}
+              onChange={e => setExtraction(prev => prev ? { ...prev, markdown: e.target.value } : prev)}
+              rows={10}
+              style={S.textarea}
+            />
             {extraction.captions.length > 0 && (
               <div>
                 <p style={{ ...S.label, marginBottom: '4px' }}>Bildbeschriftungen</p>
                 {extraction.captions.map((c, i) => <p key={i} style={{ fontSize: '12px', margin: '2px 0', color: C.greenLight }}>— {c}</p>)}
-              </div>
-            )}
-            {extraction.related.length > 0 && (
-              <div>
-                <p style={{ ...S.label, marginBottom: '4px' }}>Verwandte Artikel</p>
-                {extraction.related.map((r, i) => <p key={i} style={{ fontSize: '12px', margin: '2px 0', color: C.greenLight }}>— {r.text}</p>)}
               </div>
             )}
           </div>

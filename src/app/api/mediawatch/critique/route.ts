@@ -2,7 +2,7 @@ import type { NextRequest } from 'next/server'
 import { loadSystemPrompt, buildUserMessage } from '@/lib/mediawatch/critique'
 import { createDraft, updateDraft, getDraft } from '@/lib/mediawatch/draft'
 
-export const runtime = 'edge'
+export const maxDuration = 60
 
 export async function POST(req: NextRequest) {
   const body = await req.json()
@@ -41,9 +41,9 @@ export async function POST(req: NextRequest) {
         const veniceRes = await fetch('https://api.venice.ai/api/v1/chat/completions', {
           method: 'POST',
           headers: { Authorization: `Bearer ${apiKey}`, 'Content-Type': 'application/json' },
-          signal: AbortSignal.timeout(28000),
+          signal: AbortSignal.timeout(55000),
           body: JSON.stringify({
-            model: 'z-ai-glm-5-turbo',
+            model: 'z-ai-glm-5-3',
             max_tokens: 1100,
             temperature: 0.6,
             stream: true,
