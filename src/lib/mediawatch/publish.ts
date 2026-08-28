@@ -1,6 +1,6 @@
 import { putFile } from './github'
 import { Draft } from './draft'
-import { postTweet } from './xauth'
+import { postArticle } from './xauth'
 import { slugify, excerpt } from './utils'
 
 function yaml(value: string): string {
@@ -42,6 +42,7 @@ export async function publishWeb(draft: Draft): Promise<string> {
   return `https://9min.ch/${slug}`
 }
 
-export async function publishX(xText: string): Promise<string> {
-  return postTweet(xText)
+export async function publishX(title: string, markdown: string): Promise<string> {
+  const { tweetId } = await postArticle(title, markdown)
+  return tweetId
 }

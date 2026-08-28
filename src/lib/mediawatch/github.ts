@@ -14,8 +14,8 @@ function decodeBase64(b64: string): string {
 }
 
 function headers() {
-  const token = process.env.GITHUB_TOKEN
-  if (!token) throw new Error('GITHUB_TOKEN not set')
+  const token = process.env.GITHUB_TOKEN ?? process.env.GITHUB_PAT
+  if (!token) throw new Error('GITHUB_TOKEN (or GITHUB_PAT) not set')
   return {
     Authorization: `Bearer ${token}`,
     Accept: 'application/vnd.github+json',

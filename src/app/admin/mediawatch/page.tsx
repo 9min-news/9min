@@ -2,7 +2,6 @@
 
 import { useState, useEffect, useCallback, useRef } from 'react'
 import type { Draft } from '@/lib/mediawatch/draft'
-import { buildXText } from '@/lib/mediawatch/utils'
 
 const C = {
   green: '#1A2E1A',
@@ -168,7 +167,6 @@ export default function MediaWatchPage() {
 
   const [pubWeb, setPubWeb] = useState(true)
   const [pubX, setPubX] = useState(false)
-  const [xText, setXText] = useState('')
   const [publishing, setPublishing] = useState(false)
   const [publishError, setPublishError] = useState('')
 
@@ -205,13 +203,7 @@ export default function MediaWatchPage() {
     }, 1500)
   }, [editTitle, editMarkdown, currentDraft, stage])
 
-  useEffect(() => {
-    if (!editTitle || !editMarkdown) return
-    const u = currentDraft?.publishedUrl ?? 'https://9min.ch/...'
-    setXText(buildXText(editTitle, editMarkdown, u))
-  }, [editTitle, editMarkdown, currentDraft?.publishedUrl])
-
-  async function handleExtract() {
+async function handleExtract() {
     setExtracting(true)
     setExtractError('')
     try {
@@ -278,47 +270,22 @@ export default function MediaWatchPage() {
     setStage('review')
 
     try {
-      const supabaseUrl = process.env.NEXT_PUBLIC_CRITIQUE_URL
-      const critiqueSecret = process.env.NEXT_PUBLIC_CRITIQUE_SECRET
-      const bodyJson = JSON.stringify({
-        draftId: currentDraft?.id,
-        sourceUrl: url,
-        markdown: extraction.markdown,
-        quelle: metaQuelle,
-        originalTitle: metaTitle,
-        publishedTime: extraction.publishedTime,
-        captions: extraction.captions,
-        related: extraction.related,
-        kontext: kontext || undefined,
-        schwerpunkt: schwerpunkt || undefined,
+      const res = await fetch('/api/mediawatch/critique', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          draftId: currentDraft?.id,
+          sourceUrl: url,
+          markdown: extraction.markdown,
+          quelle: metaQuelle,
+          originalTitle: metaTitle,
+          publishedTime: extraction.publishedTime,
+          captions: extraction.captions,
+          related: extraction.related,
+          kontext: kontext || undefined,
+          schwerpunkt: schwerpunkt || undefined,
+        }),
       })
-
-      let res: Response
-      if (supabaseUrl) {
-        try {
-          res = await fetch(supabaseUrl, {
-            method: 'POST',
-            headers: {
-              'Content-Type': 'application/json',
-              ...(critiqueSecret ? { Authorization: `Bearer ${critiqueSecret}` } : {}),
-            },
-            body: bodyJson,
-          })
-        } catch {
-          // Supabase not deployed yet — fall back to Vercel route
-          res = await fetch('/api/mediawatch/critique', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: bodyJson,
-          })
-        }
-      } else {
-        res = await fetch('/api/mediawatch/critique', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: bodyJson,
-        })
-      }
 
       if (!res.ok || !res.body) {
         const data = await res.json().catch(() => ({ error: 'Fehler' }))
@@ -403,7 +370,7 @@ export default function MediaWatchPage() {
       const res = await fetch(`/api/mediawatch/drafts/${currentDraft.id}/publish`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ web: pubWeb, x: pubX, xText: pubX ? xText : undefined }),
+        body: JSON.stringify({ web: pubWeb, x: pubX }),
       })
       const data = await res.json()
       if (!res.ok) { setPublishError(data.error ?? 'Fehler'); return }
@@ -588,18 +555,11 @@ export default function MediaWatchPage() {
         </label>
       </div>
       {pubX && (
-        <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
-          <a href="/api/mediawatch/xauth" style={{ fontSize: '13px', color: C.green, fontFamily: 'system-ui, sans-serif' }}>X verbinden →</a>
-          <div>
-            <label style={S.label}>X-Text ({xText.length}/280)</label>
-            <textarea
-              value={xText}
-              onChange={e => setXText(e.target.value.slice(0, 280))}
-              rows={3}
-              style={{ ...S.textarea, fontFamily: 'system-ui, sans-serif', borderColor: xText.length >= 280 ? C.red : C.border, resize: 'none' }}
-            />
-            {xText.length >= 280 && <p style={{ color: C.red, fontSize: '12px', margin: '2px 0 0', fontFamily: 'system-ui, sans-serif' }}>Zeichenlimit erreicht.</p>}
-          </div>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '6px' }}>
+          <a href="/api/mediawatch/xauth" style={{ fontSize: '13px', color: C.green, fontFamily: 'system-ui, sans-serif' }}>X verbinden / neu verbinden →</a>
+          <p style={{ fontSize: '12px', color: C.greenLight, margin: 0, fontFamily: 'system-ui, sans-serif' }}>
+            Veröffentlicht die vollständige Kritik als X-Artikel (Note Tweet).
+          </p>
         </div>
       )}
       {publishError && <p style={{ color: C.red, fontSize: '13px', margin: 0, fontFamily: 'system-ui, sans-serif' }}>{publishError}</p>}

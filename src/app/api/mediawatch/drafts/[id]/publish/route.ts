@@ -4,7 +4,7 @@ import { publishWeb, publishX } from '@/lib/mediawatch/publish'
 
 export async function POST(req: NextRequest, { params }: { params: Promise<{ id: string }> }) {
   const { id } = await params
-  const { web, x, xText } = await req.json()
+  const { web, x } = await req.json()
 
   const draft = await getDraft(id)
   if (!draft) return NextResponse.json({ error: 'Nicht gefunden' }, { status: 404 })
@@ -19,8 +19,8 @@ export async function POST(req: NextRequest, { params }: { params: Promise<{ id:
     publishedUrl = await publishWeb(draft)
   }
 
-  if (x && xText) {
-    xPostId = await publishX(xText)
+  if (x) {
+    xPostId = await publishX(draft.title, draft.markdown)
   }
 
   const updated = await updateDraft(id, {
