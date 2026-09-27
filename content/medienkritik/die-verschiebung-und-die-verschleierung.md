@@ -1,14 +1,72 @@
 ---
 title: Die Verschiebung und die Verschleierung
-date: "2026-06-30"
+date: '2026-06-30'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMEYqC9WYAAlXyi.jpg"
-tweetId: "2071964447246070055"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMEYqC9WYAAlXyi.jpg'
+tweetId: '2071964447246070055'
+categories:
+  - Demokratie
+  - Wirtschaft
+  - Medienrecht
+tags:
+  - E-ID
+  - Pressemitteilung
+  - Stenografie
+  - Swisscom
+  - Bundesgericht
+  - Transparenzregeln
+  - Kontextverlust
+  - Verschleierung
 seo:
-  description: "Dieser SRF-Beitrag über die Verschiebung der E-ID ist ein Lehrstück in Behörden-Stenografie: Eine Pressemitteilung des Bundesamtes für Justiz wird 1:1…"
+  description: >-
+    Dieser SRF-Beitrag über die Verschiebung der E-ID ist ein Lehrstück in
+    Behörden-Stenografie: Eine Pressemitteilung des Bundesamtes für Justiz wird
+    1:1…
+themen:
+  - E-ID-Verschiebung
+  - Behördenkommunikation als Journalismus
+  - Swisscom-Spende und Bundesgerichtsurteil
+  - Transparenz bei Abstimmungskampagnen
+  - KI-Begründung ohne Substanz
+kritisiertes_medium: SRF 4 News
+kritisierter_beitrag: Die Einführung der E-ID verzögert sich
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Behördenpropaganda
+  - Kontextmangel
+personen: []
+institutionen:
+  - SRF 4 News
+  - Bundesamt für Justiz
+  - Bundesgericht
+  - Swisscom
+  - Bund
+  - Gemeinden
+  - Kantone
+gesetze_vorlagen:
+  - E-ID-Vorlage
+  - Transparenzregeln bei Abstimmungskampagnen
+these: >-
+  Der SRF-Beitrag über die E-ID-Verschiebung übernimmt eine Pressemitteilung des
+  Bundesamts für Justiz 1:1 ohne kritische Prüfung und verschweigt die
+  belastende Vorgeschichte (Swisscom-Spende, Bundesgerichtsurteil, Verstösse
+  gegen Transparenzregeln).
+zusammenfassung: >-
+  9min.ch kritisiert einen SRF-Beitrag zur Verschiebung der E-ID als reine
+  Behörden-Stenografie. Der Beitrag übernehme eine Pressemitteilung des
+  Bundesamts für Justiz ungeprüft, ohne die demokratische Vorgeschichte
+  (Swisscom-Spende, Bundesgerichtsurteil mit 3:2-Entscheidung,
+  Transparenzverstösse) zu erwähnen. Die KI-Begründung werde ohne konkrete
+  Bedrohungsszenarien übernommen, Sicherheitsversprechen nicht spezifiziert, die
+  Arbeitsgruppe nicht benannt, Kosten nicht thematisiert und die Perspektive der
+  Gemeinden ignoriert.
+quelle_datum: '2026-06-30'
+quelle_format: Online-Artikel
+quelle_sendung: SRF 4 News
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *Dieser SRF-Beitrag über die Verschiebung der E-ID ist ein Lehrstück in Behörden-Stenografie: Eine Pressemitteilung des Bundesamtes für Justiz wird 1:1 übernommen, ohne eine einzige kritische Frage. Die Verschiebung wird als technisches Problem (KI, Deepfakes, Sicherheit) präsentiert — ohne Kontext, ohne Vorgeschichte, ohne Kosten, ohne politische Dimension. Das ist keine Berichterstattung — das ist ein Pressespiegel mit Redaktions-Siegel. Und das Schlimmste: Die gesamte Vorgeschichte der E-ID — der Abstimmungskampf, die Swisscom-Spende, das Bundesgericht-Urteil, die Verstösse gegen Transparenzregeln — wird mit keinem Wort erwähnt. Als ob die E-ID aus dem Nichts kommt.*

@@ -1,14 +1,68 @@
 ---
-title: "Die Steuer, die gerecht sein soll"
-date: "2026-07-06"
+title: 'Die Steuer, die gerecht sein soll'
+date: '2026-07-06'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMhzWd6WkAAzMjF.jpg"
-tweetId: "2074034536980037805"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMhzWd6WkAAzMjF.jpg'
+tweetId: '2074034536980037805'
+categories:
+  - SRF/SRG
+  - Wirtschaft
+  - EU/Aussenpolitik
+tags:
+  - Swissinfo
+  - Tax Justice Network
+  - Framing
+  - Bankgeheimnis
+  - Advocacy
+  - Steuerhinterziehung
+  - Financial Secrecy Index
+  - NGO-Pressemitteilung
 seo:
-  description: Swissinfo veröffentlicht einen Gastkommentar des Tax Justice Network — und rahmt ihn als Analyse. Zwei Aktivisten einer Advocacy-Organisation erklären die…
+  description: >-
+    Swissinfo veröffentlicht einen Gastkommentar des Tax Justice Network — und
+    rahmt ihn als Analyse. Zwei Aktivisten einer Advocacy-Organisation erklären
+    die…
+themen:
+  - Steuerpolitik und Informationsaustausch
+  - Bankgeheimnis als Schutzmechanismus
+  - NGO-Advocacy in Medien
+  - FIAT-Geldsystem und Plutokratie
+  - Koloniale Schuld-Zuschreibung
+kritisiertes_medium: Swissinfo
+kritisierter_beitrag: Bei der Transparenz ihres Finanzsystems bleibt die Schweiz minimalistisch
+kritisierter_autor: 'Andres Knobel, Bob Michel'
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Kontextmangel
+personen:
+  - Andres Knobel
+  - Bob Michel
+institutionen:
+  - Swissinfo
+  - Tax Justice Network
+  - UN
+  - Schweizer Staat
+  - Zentralbanken
+gesetze_vorlagen:
+  - UN-Rahmenübereinkommen über internationale Steuerzusammenarbeit
+  - Bankgeheimnis
+these: >-
+  Swissinfo veröffentlicht eine NGO-Advocacy als Analyse und übernimmt
+  unkritisch deren Framing, ohne grundlegende Prämissen zu hinterfragen.
+zusammenfassung: >-
+  Der Artikel kritisiert Swissinfo für die Veröffentlichung eines Gastkommentars
+  des Tax Justice Network als vermeintliche Analyse. Bemängelt wird, dass
+  zentrale Gegenfragen fehlen – zur Legitimität von Steuern, zur historischen
+  Schutzfunktion des Bankgeheimnisses, zum FIAT-Geldsystem als Ursache von
+  Ungleichheit und zur Legitimität der fordernden Herkunftsländer-Regierungen.
+  Der Beitrag sei keine Analyse, sondern NGO-Advocacy mit Swissinfo-Siegel.
+quelle_datum: '2026-07-06'
+quelle_format: Online-Artikel
+quelle_sendung: ''
+quelle_redaktion: Swissinfo
+kritik_schwere: 2
 ---
 
 *Swissinfo veröffentlicht einen Gastkommentar des Tax Justice Network — und rahmt ihn als Analyse. Zwei Aktivisten einer Advocacy-Organisation erklären die Schweiz zum Sündenbock des globalen Finanzsystems, fordern mehr Informationsaustausch, mehr Transparenz, mehr Steuererhebung — und niemand fragt, ob das System, das sie verteidigen, legitim ist. Dass Steuern keine Gerechtigkeit sind, sondern Extraktion. Dass das FIAT-Geldsystem, das die Plutokratie erzeugt, die eigentliche Ursache der Ungleichheit ist. Dass Kapitalflucht oft Flucht vor ebenjenen Regierungen ist, die nun «Steuerinformationen» fordern. Dass das Bankgeheimnis nicht ein Wettbewerbsvorteil war, sondern ein Schutzmechanismus — historisch gewachsen aus der Erfahrung, dass Staaten ihren Bürgern das Vermögen stehlen. All das kommt nicht vor. Der Beitrag ist eine Pressemitteilung einer NGO, als Meinung deklariert — und als solche unkenntlich.*

@@ -1,14 +1,95 @@
 ---
 title: Post aus Zimmerwald
-date: "2026-05-09"
+date: '2026-05-09'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HH2wkCkWEAAAOwO.jpg"
-tweetId: "2052991812386660636"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HH2wkCkWEAAAOwO.jpg'
+tweetId: '2052991812386660636'
+categories:
+  - Zensur/Meinungsfreiheit
+  - Sicherheitspolitik
+  - Wirtschaft
+tags:
+  - Massenüberwachung
+  - Vorratsdatenspeicherung
+  - DNS-Sperre
+  - Swisscom
+  - Init7
+  - ZEO
+  - Infrastrukturarchitektur
+  - Rechtsstaatslücke
 seo:
-  description: "Dreizehn Jahre, vier Runden und die Frage, warum immer derselbe Nein sagt «Es geht mir gegen den Strich, dass ich als Unternehmer zum Hilfspolizisten und…"
+  description: >-
+    Dreizehn Jahre, vier Runden und die Frage, warum immer derselbe Nein sagt
+    «Es geht mir gegen den Strich, dass ich als Unternehmer zum Hilfspolizisten
+    und…
+themen:
+  - Staatliche Überwachung
+  - DNS-Sperren und Rechtsstaat
+  - Telekommunikations-Marktmacht
+  - Verhältnismässigkeit und Grundrechte
+kritisiertes_medium: Bundesrat
+kritisierter_beitrag: ''
+kritisierter_autor: ''
+kritik_typ:
+  - Behördenpropaganda
+  - Auslassung
+  - Kontextmangel
+personen:
+  - Fredy Künzler
+  - Andreas Brunner
+  - Olaf Swantee
+  - Urs Schäppi
+  - Simon Osterwalder
+  - Konrad Jeker
+  - Till Hirsekorn
+  - Harry Stitzel
+  - Pascal Schumacher
+institutionen:
+  - Init7
+  - ZEO
+  - Swisscom
+  - Sunrise
+  - Salt
+  - UPC
+  - Suissedigital
+  - Bundesrat
+  - Bundesgericht
+  - Wettbewerbskommission
+  - Nationalrat
+  - Verkehrskommission
+  - StopBüPF-Referendumskomitee
+  - Digitale Gesellschaft Schweiz
+  - ISOC Switzerland Chapter
+  - Tages-Anzeiger
+  - SRF
+  - Republik
+gesetze_vorlagen:
+  - BÜPF
+  - NDG
+  - Fernmeldegesetz
+  - Art. 263 StPO
+  - Vorratsdatenspeicherung
+these: >-
+  Staat und mehrheitlich bundeseigene Swisscom behandeln die
+  Infrastrukturarchitektur der Telekommunikation als Verhandlungsmasse, während
+  einzelne Akteure wie Fredy Künzler seit 13 Jahren allein Widerstand leisten —
+  ein Muster, das eine strukturelle Schwäche des schweizerischen Rechtsstaats
+  aufdeckt.
+zusammenfassung: >-
+  Der Artikel rekonstruiert 13 Jahre Widerstand von Init7-Gründer Fredy Künzler
+  gegen staatliche Überwachungsausweitung (BÜPF, NDG, ZEO-Fragebogen,
+  DNS-Sperren) und Swisscom-Marktmacht (Glasfaserarchitektur). Er zeigt ein
+  wiederkehrendes Muster: Dominante Akteure dehnen Befugnisse über ihren
+  Wortlaut hinaus, die Branche schweigt, nur Künzler klagt. Kritisiert wird
+  insbesondere, dass der Bundesrat nachweislich über ZEO-Aktivitäten im Inland
+  gelogen habe und dass Strafverfolgungsbehörden DNS-Sperren ohne gesetzliche
+  Grundlage anordnen.
+quelle_datum: ''
+quelle_format: ''
+quelle_sendung: ''
+quelle_redaktion: ''
+kritik_schwere: 3
 ---
 
 ## Dreizehn Jahre, vier Runden und die Frage, warum immer derselbe Nein sagt

@@ -1,14 +1,66 @@
 ---
-title: "Die Kinder, die als Schutzschild dienen"
-date: "2026-08-04"
+title: 'Die Kinder, die als Schutzschild dienen'
+date: '2026-08-04'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HO4rDm6XoAANc7U.jpg"
-tweetId: "2084651127656611855"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HO4rDm6XoAANc7U.jpg'
+tweetId: '2084651127656611855'
+categories:
+  - Migration
+  - SRF/SRG
+tags:
+  - Ceuta
+  - Marokko
+  - Spanien
+  - RTS
+  - SRF dialog
+  - Framing
+  - Auslassung
+  - Pull-Faktor
 seo:
-  description: "RTS berichtet über unbegleitete Minderjährige in Ceuta und rahmt sie als emotionale Krise. Kinder allein, Soldaten mit gebrochenem Herzen, Einheimische,…"
+  description: >-
+    RTS berichtet über unbegleitete Minderjährige in Ceuta und rahmt sie als
+    emotionale Krise. Kinder allein, Soldaten mit gebrochenem Herzen,
+    Einheimische,…
+themen:
+  - Migrationskrise Ceuta
+  - Unbegleitete Minderjährige
+  - Medienframing
+  - Asylrecht als Pull-Faktor
+kritisiertes_medium: RTS
+kritisierter_beitrag: Geflohene Kinder allein in Ceuta – Zentren bereits voll
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Kontextmangel
+personen: []
+institutionen:
+  - RTS
+  - SRF
+  - SRF dialog
+  - spanische Behörden
+  - EU
+  - Marokko
+  - spanische Regierung
+gesetze_vorlagen:
+  - Spanisches Recht zur Nicht-Zurückweisung unbegleiteter Minderjähriger
+these: >-
+  RTS nutzt unbegleitete Kinder als emotionale Linse für die Ceuta-Krise und
+  verschweigt bewusst das System, das die Alleinreise als Strategie produziert.
+zusammenfassung: >-
+  9min.ch kritisiert einen RTS-Beitrag über unbegleitete Minderjährige in Ceuta
+  als reine Empathie-Reportage, die wesentliche Fakten auslässt: 58'000
+  flankierende junge Männer, 72 Ertrunkene und den rechtlichen Pull-Faktor des
+  spanischen Nicht-Zurückweisungsrechts. Zudem werde die politische Debatte
+  einseitig gegen die Rechte gerahmt. Die Analyse moniert, dass die Alleinreise
+  als Strategie, das Gesetz als Anreizmechanismus und die Verantwortungsfragen
+  für die Toten gar nicht thematisiert würden.
+quelle_datum: '2026-08-04'
+quelle_format: Online-Artikel
+quelle_sendung: SRF dialog
+quelle_redaktion: RTS
+kritik_schwere: 3
 ---
 
 *RTS berichtet über unbegleitete Minderjährige in Ceuta und rahmt sie als emotionale Krise. Kinder allein, Soldaten mit gebrochenem Herzen, Einheimische, die helfen wollen. Was nicht vorkommt: die Frage, warum Kinder allein schwimmen, der rechtliche Anreiz, der Unmündige zur Einreise nutzt. Was nicht vorkommt: die 60'000 jungen Männer, die die Minderjährigen flankieren, und die 72 Toten. Der Beitrag ist eine Empathie-Reportage, die das System hinter der Tragödie verschweigt.*

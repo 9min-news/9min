@@ -1,14 +1,82 @@
 ---
-title: "Das 3x3 der CH – Teil II: Die Schweiz, die sie uns hinterlassen"
-date: "2026-06-25"
+title: 'Das 3x3 der CH – Teil II: Die Schweiz, die sie uns hinterlassen'
+date: '2026-06-25'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HLrpVzsWQAAuKBR.jpg"
-tweetId: "2070226829307523182"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HLrpVzsWQAAuKBR.jpg'
+tweetId: '2070226829307523182'
+categories:
+  - Demokratie
+  - EU/Aussenpolitik
+  - Migration
+tags:
+  - Bundesrat
+  - Subsidiarität
+  - Eigenverantwortung
+  - Souveränität
+  - Rahmenabkommen
+  - Bilateral III
+  - Systemkritik
+  - Zentralisierung
 seo:
-  description: "Drei Bundesräte. Drei Departemente. Dieselbe Richtung. Im letzten Beitrag wurde über drei Bundesrätinnen geschrieben, die drei Grundpfeiler der Schweiz…"
+  description: >-
+    Drei Bundesräte. Drei Departemente. Dieselbe Richtung. Im letzten Beitrag
+    wurde über drei Bundesrätinnen geschrieben, die drei Grundpfeiler der
+    Schweiz…
+themen:
+  - Zentralisierung der Staatsgewalt
+  - COVID-Politik und Subsidiarität
+  - Migrationssteuerung und Volkswille
+  - EU-Integration und Souveränität
+  - Proporzprinzip in der Bundesratswahl
+kritisiertes_medium: Bundesrat
+kritisierter_beitrag: 'Amtszeiten von Alain Berset (EDI), Beat Jans (EJPD) und Ignazio Cassis (EDA)'
+kritisierter_autor: 'Alain Berset, Beat Jans, Ignazio Cassis'
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Behördenpropaganda
+personen:
+  - Alain Berset
+  - Beat Jans
+  - Ignazio Cassis
+  - Karin Keller-Sutter
+  - Micheline Calmy-Rey
+  - Eveline Widmer-Schlumpf
+  - Viola Amherd
+institutionen:
+  - Bundesrat
+  - EDI
+  - EJPD
+  - EDA
+  - Europarat
+  - EU
+  - SP
+  - FDP
+  - BDP
+  - Mitte
+  - Ringier
+gesetze_vorlagen:
+  - Masseneinwanderungsinitiative
+  - Institutionelles Rahmenabkommen
+  - Bilateral III
+  - Bilateral I
+these: >-
+  Eine gesamte politische Klasse baut seit 25 Jahren die Schweizer Grundsätze
+  Subsidiarität, Eigenverantwortung und Souveränität ab, ohne je ein Mandat
+  dafür erhalten zu haben.
+zusammenfassung: >-
+  Der Artikel analysiert die Amtszeiten von Berset, Jans und Cassis als
+  Beispiele eines systematischen Abbaus Schweizer Grundsätze. Berset habe
+  mittels COVID-Politik die Zentralisierung vorangetrieben, Jans sei bei der
+  Umsetzung des Zuwasserungswillens überfordert, und Cassis habe die
+  Souveränität zugunsten der EU-Integration aufgegeben. Alle drei zeigten
+  dasselbe Muster: Anpassung werde belohnt, Eigenständigkeit bestraft.
+quelle_datum: ''
+quelle_format: ''
+quelle_sendung: ''
+quelle_redaktion: ''
+kritik_schwere: 3
 ---
 
 *Drei Bundesräte. Drei Departemente. Dieselbe Richtung.*

@@ -1,14 +1,77 @@
 ---
-title: "Der Aufpreis, der als Erfolg gefeiert wird"
-date: "2026-07-07"
+title: 'Der Aufpreis, der als Erfolg gefeiert wird'
+date: '2026-07-07'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMooEg5WUAA81Kg.jpg"
-tweetId: "2074514790165135732"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMooEg5WUAA81Kg.jpg'
+tweetId: '2074514790165135732'
+categories:
+  - SRF/SRG
+  - Sicherheitspolitik
+  - Wirtschaft
+tags:
+  - F-35
+  - Offset-Geschäfte
+  - Armasuisse
+  - Lockheed Martin
+  - Rheinmetall
+  - IBM
+  - EPFL
+  - Framing
 seo:
-  description: "SRF berichtet über die Offset-Geschäfte zur F-35-Beschaffung — und rahmt sie als Erfolg. Armasuisse und Lockheed Martin präsentieren gemeinsam, wie die…"
+  description: >-
+    SRF berichtet über die Offset-Geschäfte zur F-35-Beschaffung — und rahmt sie
+    als Erfolg. Armasuisse und Lockheed Martin präsentieren gemeinsam, wie die…
+themen:
+  - F-35-Beschaffung
+  - Offset-Geschäfte
+  - Rüstungsindustrie-Subvention
+  - Pressemitteilungsjournalismus
+kritisiertes_medium: SRF News
+kritisierter_beitrag: Armasuisse präzisiert Kompensationsgeschäfte mit Lockheed Martin
+kritisierter_autor: Tobias Gasser
+kritik_typ:
+  - Framing
+  - Behördenpropaganda
+  - Auslassung
+personen:
+  - Tobias Gasser
+  - Patrick Nyfeler
+institutionen:
+  - SRF
+  - Armasuisse
+  - Lockheed Martin
+  - Rheinmetall
+  - IBM
+  - EPFL
+  - Ruag
+  - OECD
+  - Weltbank
+  - Bund
+gesetze_vorlagen:
+  - F-35-Beschaffung
+  - Offset-Vereinbarung F-35
+these: >-
+  SRF gibt eine gemeinsame Pressekonferenz von Armasuisse und Lockheed Martin
+  als Berichterstattung weiter und rahmt die Offset-Geschäfte als Erfolg,
+  während die eigene Kritik an den versteckten Mehrkosten von 700 bis 800
+  Millionen US-Dollar in einen Kommentarkasten verbannt wird.
+zusammenfassung: >-
+  Der Artikel kritisiert, dass SRF eine gemeinsame Präsentation von Armasuisse
+  und Lockheed Martin zu den Offset-Geschäften der F-35-Beschaffung als
+  Erfolgsstory verbreitet, ohne wesentliche Fragen zu stellen: nach den
+  tatsächlichen Mehrkosten, den Empfängern der drei Milliarden, der
+  Verteilungslogik, der demokratischen Legitimation und der internationalen
+  Forschung zur Wirksamkeit von Offset-Geschäften. Die Kritik des SRF-eigenen
+  Fachredaktors Tobias Gasser wird in einen separaten Kasten verbannt und
+  berührt den Haupttext nicht, der die Pressemitteilung des Rüstungskonzerns
+  referiert. Der Beitrag sei keine Rüstungsberichterstattung, sondern eine
+  Pressemitteilung mit Kommentarkasten.
+quelle_datum: '2026-07-07'
+quelle_format: Online-Artikel
+quelle_sendung: SRF 4 News
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF berichtet über die Offset-Geschäfte zur F-35-Beschaffung — und rahmt sie als Erfolg. Armasuisse und Lockheed Martin präsentieren gemeinsam, wie die Kompensationsgeschäfte die vorgegebenen Ziele übertreffen. Der SRF-eigene Fachredaktor liefert die Kritik im Nebenraum: 700 bis 800 Millionen US-Dollar versteckter Aufpreis für die Steuerzahler. Aber der Haupttext referiert die Pressekonferenz von Hersteller und Behörde — und fragt nicht, ob das System, das er beschreibt, funktioniert. Die Overfulfilment-Story ist die Pressemitteilung eines Rüstungskonzerns — und SRF gibt sie weiter.*

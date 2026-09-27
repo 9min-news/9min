@@ -1,14 +1,69 @@
 ---
-title: "Der Terror, der als Jugenddelikt verschwindet"
-date: "2026-07-30"
+title: 'Der Terror, der als Jugenddelikt verschwindet'
+date: '2026-07-30'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HOeLp9xXAAAXyYU.jpg"
-tweetId: "2082786914688532675"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HOeLp9xXAAAXyYU.jpg'
+tweetId: '2082786914688532675'
+categories:
+  - SRF/SRG
+  - Sicherheitspolitik
+  - Gesellschaft
+tags:
+  - Framing
+  - Terroranschlag
+  - Jugendstrafrecht
+  - IS
+  - Antisemitismus
+  - Opferperspektive
+  - Gerichtsstenografie
+  - Staatsbürgerschaft
 seo:
-  description: "SRF meldet, dass der Jugendliche, der in Zürich einen orthodoxen Juden lebensgefährlich niedergestochen hatte, in Berufung geht. Das Jugendgericht…"
+  description: >-
+    SRF meldet, dass der Jugendliche, der in Zürich einen orthodoxen Juden
+    lebensgefährlich niedergestochen hatte, in Berufung geht. Das Jugendgericht…
+themen:
+  - Antisemitismus in der Schweiz
+  - Islamistische Radikalisierung
+  - Jugendstrafrecht bei Terrorismus
+  - Terrorberichterstattung
+  - Opferperspektive
+kritisiertes_medium: SRF News
+kritisierter_beitrag: Jugendlicher Messerstecher zieht Urteil weiter
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Kontextmangel
+personen:
+  - Der Täter (15-jähriger Schweizer mit tunesischen Wurzeln)
+  - Das Opfer (orthodoxer Jude)
+institutionen:
+  - SRF News
+  - Jugendgericht Dielsdorf
+  - Islamischer Staat
+  - Jüdische Gemeinde Zürich
+gesetze_vorlagen: []
+these: >-
+  SRF reduziert einen ideologisch motivierten Terroranschlag auf ein
+  Jugenddelikt, betreibt Gerichtsstenografie ohne Kontext und lässt die
+  drängendsten Fragen nach Strafmass, Staatsbürgerschaft, Radikalisierung und
+  Opferschicksal ungestellt.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert die SRF-Berichterstattung über das Berufungsurteil
+  gegen den Zürcher Jugendlichen, der einen orthodoxen Juden lebensgefährlich
+  verletzt hatte und sich zum IS bekannte. 9min wirft SRF vor, durch Begriffe
+  wie «Jugendlicher» und «Messerstecher» die ideologische Dimension der Tat zu
+  tilgen, das Höchststrafenurteil unkritisch als Abschluss statt als Beginn der
+  Debatte zu präsentieren und wesentliche Kontextfragen zu Radikalisierung,
+  Netzwerken, Staatsbürgerschaft und Opferschicksal vollständig auszulassen. Der
+  Beitrag sei keine Terrorberichterstattung, sondern Gerichtsstenografie ohne
+  Kontext.
+quelle_datum: '2026-07-30'
+quelle_format: Online-Artikel
+quelle_sendung: ''
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF meldet, dass der Jugendliche, der in Zürich einen orthodoxen Juden lebensgefährlich niedergestochen hatte, in Berufung geht. Das Jugendgericht Dielsdorf hat ihn zu einem Jahr Gefängnis verurteilt, der Höchststrafe für einen 15-Jährigen. SRF referiert den Urteilsspruch als Verwaltungsnote. Was nicht vorkommt: die Frage, ob ein Jahr für mehrfachen versuchten Mord und Terrorismus angemessen ist. Was nicht vorkommt: die Frage, ob ein IS-Anhänger Schweizer bleiben sollte. Was nicht vorkommt: das Opfer. Der Beitrag ist eine Justizmeldung, die einen Terroranschlag als Jugenddelikt behandelt.*

@@ -1,14 +1,66 @@
 ---
-title: "Die Erfolgsgeschichte, die keinen Arbeitsplatz hat"
-date: "2026-07-28"
+title: 'Die Erfolgsgeschichte, die keinen Arbeitsplatz hat'
+date: '2026-07-28'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HOUMR0MW4AAT9hp.jpg"
-tweetId: "2082084051557781986"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HOUMR0MW4AAT9hp.jpg'
+tweetId: '2082084051557781986'
+categories:
+  - SRF/SRG
+  - Migration
+  - Gesellschaft
+tags:
+  - SRF
+  - Framing
+  - Auslassung
+  - Flüchtling
+  - Integration
+  - Lehrabschluss
+  - Kostenfrage
+  - Einzelfall
 seo:
-  description: "SRF porträtiert einen afghanischen Flüchtling, der nach acht Jahren in der Schweiz seine Lehre als Küchenangestellter abschliesst. Der Beitrag rahmt ihn…"
+  description: >-
+    SRF porträtiert einen afghanischen Flüchtling, der nach acht Jahren in der
+    Schweiz seine Lehre als Küchenangestellter abschliesst. Der Beitrag rahmt
+    ihn…
+themen:
+  - Integrationsberichterstattung
+  - Asylsystem-Kosten
+  - Erfolgsgeschichte-Framing
+  - Arbeitsmarktintegration
+  - Statistische Einordnung
+kritisiertes_medium: SRF
+kritisierter_beitrag: Von der Flucht aus Afghanistan zum erfolgreichen Lehrabschluss
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Kontextmangel
+personen:
+  - Noor Mohammad Nek Mohammad
+  - Tobias Minder
+institutionen:
+  - SRF
+  - Bundesasylzentrum
+gesetze_vorlagen: []
+these: >-
+  SRF nutzt eine persönliche Erfolgsgeschichte als Alibi für das Asyl- und
+  Integrationssystem, ohne die systemischen Kosten, die ökonomische Realität und
+  die statistische Einordnung zu prüfen.
+zusammenfassung: >-
+  Der Artikel kritisiert einen SRF-Beitrag des Regionaljournals Zentralschweiz
+  über einen afghanischen Flüchtling, der nach acht Jahren in der Schweiz eine
+  zweijährige Lehre abschliesst, danach aber keine feste Anstellung findet.
+  9min.ch moniert, dass SRF die Kosten der acht Jahre Aufenthalt, die fehlende
+  Übernahme im Betrieb und die statistische Erfolgsquote bei afghanischen
+  Flüchtlingen ausblendet. Die Erfolgsgeschichte diene als unkritisches Alibi
+  für das System, ohne dessen Wirtschaftlichkeit und Skalierbarkeit zu
+  hinterfragen.
+quelle_datum: '2026-07-24'
+quelle_format: Broadcast
+quelle_sendung: Regionaljournal Zentralschweiz
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF porträtiert einen afghanischen Flüchtling, der nach acht Jahren in der Schweiz seine Lehre als Küchenangestellter abschliesst. Der Beitrag rahmt ihn als Beweis für gelungene Integration. Dass der Betrieb, der ihn ausbildete, ihn nach der Lehre nicht übernimmt, weil es keine freie Stelle gibt, wird als Nebensatz abgetan. Dass acht Jahre für eine zweijährige Lehre vergingen, wird nicht hinterfragt. Der Beitrag ist eine Wohlfühlstory, die die Kosten, die Systemrealität und die ökonomische Logik der Migration ausblendet.*

@@ -1,14 +1,68 @@
 ---
 title: Die Brutalität der einen Seite
-date: "2026-08-05"
+date: '2026-08-05'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HO-avOFWcAApoQs.jpg"
-tweetId: "2085055372583379100"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HO-avOFWcAApoQs.jpg'
+tweetId: '2085055372583379100'
+categories:
+  - SRF/SRG
+  - Sicherheitspolitik
+  - EU/Aussenpolitik
+tags:
+  - SRF
+  - Ukraine
+  - Russland
+  - Kriegsberichterstattung
+  - Framing
+  - Auslassung
+  - Zivilisten
+  - Zermürbungsstrategie
 seo:
-  description: "SRF erklärt, warum Russlands Luftangriffe tödlicher werden, und rahmt den Krieg als einseitige russische Zermürbungsstrategie. Russland bombardiere zivile…"
+  description: >-
+    SRF erklärt, warum Russlands Luftangriffe tödlicher werden, und rahmt den
+    Krieg als einseitige russische Zermürbungsstrategie. Russland bombardiere
+    zivile…
+themen:
+  - Ukraine-Krieg
+  - Einseitige Kriegsberichterstattung
+  - Zivile Opfer auf beiden Seiten
+  - Zermürbungsstrategie
+  - Schweizer Kriegsunterstützung
+kritisiertes_medium: SRF News
+kritisierter_beitrag: Warum Russlands Luftangriffe wieder tödlicher werden
+kritisierter_autor: Sofia Fässler
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Selektion
+personen:
+  - Sofia Fässler
+  - Georg Häsler
+  - Rebecca Barth
+institutionen:
+  - SRF
+  - ARD
+  - Schweizer Armee
+gesetze_vorlagen: []
+these: >-
+  SRF halbiert die Kriegsrealität, indem es nur russische Angriffe auf
+  ukrainische Zivilisten thematisiert und ukrainische Angriffe auf russische
+  Zivilisten sowie die Schweizer Kriegsunterstützung vollständig ausblendet.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert einen SRF-Beitrag, der russische Luftangriffe auf
+  ukrainische Zivilisten als einseitige Zermürbungsstrategie darstellt, aber
+  ukrainische Drohnenangriffe auf russische Wohngebiete mit getöteten Zivilisten
+  sowie die ukrainische Zermürbungsstrategie verschweigt. Zudem fehle die
+  Kontextualisierung der Schweizer Milliardenunterstützung und die Quellenwahl
+  sei einseitig, da alle zitierten Stimmen von der ukrainischen Seite kämen. Die
+  Kritik bemängelt, dass der Beitrag keine Kriegsanalyse sei, sondern ein
+  einseitiger Lagebericht ohne Kontext.
+quelle_datum: '2026-08-05'
+quelle_format: Online-Artikel
+quelle_sendung: ''
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF erklärt, warum Russlands Luftangriffe tödlicher werden, und rahmt den Krieg als einseitige russische Zermürbungsstrategie. Russland bombardiere zivile Ziele, um die ukrainische Bevölkerung zu brechen. Was nicht vorkommt: dass die Ukraine ebenfalls russische Zivilisten angreift; die ukrainischen Drohnenangriffe auf russische Wohngebiete und die getöteten Zivilisten in Russland. Der Beitrag ist eine Kriegsanalyse, die die Kriegsrealität halbiert — und damit nicht erklärt, warum der Krieg eskaliert, sondern nur, warum eine Seite leidet.*

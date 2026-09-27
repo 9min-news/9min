@@ -1,14 +1,67 @@
 ---
 title: SRF will berichten – aber nur links
-date: "2026-07-17"
+date: '2026-07-17'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HNalh7DWgAIHRGJ.jpg"
-tweetId: "2078030345438462425"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HNalh7DWgAIHRGJ.jpg'
+tweetId: '2078030345438462425'
+categories:
+  - SRF/SRG
+  - Sicherheitspolitik
+  - EU/Aussenpolitik
+tags:
+  - Framing
+  - Selektion
+  - Auslassung
+  - Kontextmangel
+  - SRF
+  - Terrorismus
+  - USA
+  - Schweiz
 seo:
-  description: SRF berichtet über eine internationale Konferenz zur Bekämpfung linksextremen Terrorismus — und rahmt sie als parteipolitisches Manöver. «USA wollen…
+  description: >-
+    SRF berichtet über eine internationale Konferenz zur Bekämpfung
+    linksextremen Terrorismus — und rahmt sie als parteipolitisches Manöver.
+    «USA wollen…
+themen:
+  - Linksextremismus
+  - Terrorismusbekämpfung
+  - SRF-Berichterstattung
+  - Schweizer Aussenpolitik
+  - Antifa
+kritisiertes_medium: SRF News
+kritisierter_beitrag: USA wollen Terrorismus bekämpfen – aber nur den linken
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Selektion
+  - Auslassung
+personen:
+  - Marco Rubio
+  - Donald Trump
+institutionen:
+  - SRF
+  - Trump-Regierung
+  - EDA
+  - Antifa
+  - Antifa-Ost
+gesetze_vorlagen: []
+these: >-
+  SRF rahmt eine internationale Konferenz zur Bekämpfung linksextremen
+  Terrorismus als parteipolitisches Manöver der USA, ohne den Gegenstand der
+  Konferenz mit Zahlen, Fällen oder Expertenstimmen zu untersuchen.
+zusammenfassung: >-
+  Der 9min.ch-Artikel analysiert einen SRF-Beitrag über eine US-geführte
+  Konferenz gegen linksextremen Terrorismus und wirft SRF systematisches Framing
+  vor. Der Titel setze bereits den Vorwurf der Selektivität, anonyme «Kritiker»
+  würden als Konsens präsentiert, und linksextremer Terrorismus bleibe eine
+  Behauptung ohne Zahlen oder Opfer. Die Schweiz werde als moralische Instanz
+  gerahmt, ohne dass der «ganzheitliche Ansatz» in der Praxis geprüft werde.
+quelle_datum: '2026-07-16'
+quelle_format: Online-Artikel
+quelle_sendung: SRF 4 News
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF berichtet über eine internationale Konferenz zur Bekämpfung linksextremen Terrorismus — und rahmt sie als parteipolitisches Manöver. «USA wollen Terrorismus bekämpfen – aber nur den linken», lautet der Titel, und das «aber» ist das Wort, das den Vorwurf vor der Analyse liefert. Was nicht vorkommt: eine einzige Stimme, die den Fokus auf linksextremen Terrorismus unterstützt. Was nicht vorkommt: die Frage, ob linksextremer Terrorismus tatsächlich ein wachsendes Problem ist — mit Zahlen, mit Fällen, mit Befunden. Was nicht vorkommt: die Frage, ob die Schweizer «ganzheitliche» Strategie tatsächlich funktioniert — oder ob sie eine Formel ist, die unterschwellige Prioritäten verdeckt. Der Beitrag ist eine Warnung vor einer Konferenz — nicht eine Berichterstattung über eine Konferenz.*

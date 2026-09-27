@@ -1,14 +1,69 @@
 ---
-title: "Das Heim, das kein Gefängnis ist"
-date: "2026-08-04"
+title: 'Das Heim, das kein Gefängnis ist'
+date: '2026-08-04'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HO418cJXsAAoBP4.jpg"
-tweetId: "2084663240819155212"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HO418cJXsAAoBP4.jpg'
+tweetId: '2084663240819155212'
+categories:
+  - SRF/SRG
+  - Sicherheitspolitik
+  - Gesellschaft
+tags:
+  - Massnahmenzentrum Uitikon
+  - Jugendkriminalität
+  - Ausbruch
+  - SRF
+  - Framing
+  - Behördensprache
+  - Opfer
+  - Herkunft
 seo:
-  description: "SRF berichtet über erneute Ausbrüche aus dem Massnahmenzentrum Uitikon und rahmt sie als Sicherheitsproblem. Ein Jugendlicher entwich, bedrohte Tage…"
+  description: >-
+    SRF berichtet über erneute Ausbrüche aus dem Massnahmenzentrum Uitikon und
+    rahmt sie als Sicherheitsproblem. Ein Jugendlicher entwich, bedrohte Tage…
+themen:
+  - Strafvollzug Jugendlicher
+  - Massnahmenzentrum Uitikon
+  - Ausbrüche und Wiederholungstaten
+  - Opferschutz
+  - Medienframing von Gewalttaten
+kritisiertes_medium: SRF Regionaljournal Zürich Schaffhausen
+kritisierter_beitrag: Erneuter Ausbruch eines jungen Kriminellen wirft Fragen auf
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Behördenpropaganda
+personen:
+  - Jérôme Endrass
+  - Daniel Wäfler
+  - Sabine Arnold
+institutionen:
+  - SRF
+  - Massnahmenzentrum Uitikon
+  - Zürcher Justizvollzug
+  - SVP
+  - Grüne
+  - Kommission
+gesetze_vorlagen: []
+these: >-
+  SRF rahmt Ausbrüche und Gewalt im Massnahmenzentrum Uitikon als technisches
+  Problem, übernimmt die behördliche Sprachregelung ungeprüft und stellt keine
+  wesentlichen System-, Opfer-, Herkunfts- oder Kostenfragen.
+zusammenfassung: >-
+  Der 9min.ch-Artikel kritisiert einen SRF-Beitrag zum Massnahmenzentrum
+  Uitikon, in dem schwere Straftäter in einem als «Heim» bezeichneten Vollzug
+  untergebracht sind. Die Kritik listet auf, was im SRF-Beitrag fehlt: die
+  Systemfrage, das Opfer, die Herkunft der Täter, die Kosten und eine echte
+  politische Debatte. SRF werde damit zu einer Verwaltungsnote, die
+  Behördensprache unkritisch übernehme und demokratische Auseinandersetzung
+  verhindere.
+quelle_datum: '2026-08-04'
+quelle_format: Broadcast
+quelle_sendung: Regionaljournal Zürich Schaffhausen
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF berichtet über erneute Ausbrüche aus dem Massnahmenzentrum Uitikon und rahmt sie als Sicherheitsproblem. Ein Jugendlicher entwich, bedrohte Tage später einen Sicherheitsmann mit einem Messer. Ein anderer Jugendlicher verletzte den Sicherheitschef so schwer, dass er invalid wurde. Was nicht vorkommt: die Frage, ob das System funktioniert. Was nicht vorkommt: die Frage, ob jemand, der einen Mann invalid schlägt, in einem «Heim» sein sollte. Was nicht vorkommt: die Opfer. Was nicht vorkommt: die Herkunft der Täter. Was nicht vorkommt: die Frage, ob die Schweiz zu lasch ist. Der Beitrag ist eine Verwaltungsnote über ein System, das niemand hinterfragt.*

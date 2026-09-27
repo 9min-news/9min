@@ -1,14 +1,84 @@
 ---
-title: "Der SRF-Journalist, der Trump-Illusionen hat"
-date: "2026-06-30"
+title: 'Der SRF-Journalist, der Trump-Illusionen hat'
+date: '2026-06-30'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMDejzmWYAA7yvi.jpg"
-tweetId: "2071900748149936362"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMDejzmWYAA7yvi.jpg'
+tweetId: '2071900748149936362'
+categories:
+  - SRF/SRG
+  - Wirtschaft
+  - EU/Aussenpolitik
+tags:
+  - SRF
+  - Damian Rast
+  - Trump
+  - Zölle
+  - Bestätigungsjournalismus
+  - Framing
+  - Wirtschaftsanalyse
+  - USA-Schweiz
 seo:
-  description: "Dieser SRF-Beitrag von Damian Rast über die Zollverhandlungen zwischen der Schweiz und den USA ist ein Lehrstück in Bestätigungsjournalismus: Der Redaktor…"
+  description: >-
+    Dieser SRF-Beitrag von Damian Rast über die Zollverhandlungen zwischen der
+    Schweiz und den USA ist ein Lehrstück in Bestätigungsjournalismus: Der
+    Redaktor…
+themen:
+  - Zollverhandlungen Schweiz-USA
+  - Wirtschaftsberichterstattung
+  - US-Handelspolitik unter Trump
+  - Bestätigungsjournalismus
+  - Präsidentielle Machtbefugnisse
+kritisiertes_medium: SRF News
+kritisierter_beitrag: Schweiz darf sich keine Illusionen machen
+kritisierter_autor: Damian Rast
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Kontextmangel
+personen:
+  - Damian Rast
+  - Donald Trump
+  - Guy Parmelin
+  - Joe Biden
+  - Barack Obama
+  - George W. Bush
+  - Ronald Reagan
+  - Jerome Cook
+institutionen:
+  - SRF
+  - Supreme Court
+  - US-Kongress
+  - WTO
+  - EU
+  - Fed
+gesetze_vorlagen:
+  - Absichtserklärung Schweiz-USA November 2025
+  - Section 301
+  - Section 232
+  - USMCA
+  - NAFTA
+  - Iran-Abkommen
+  - Pariser Klimaabkommen
+  - Art. 93 BV
+these: >-
+  Der SRF-Beitrag von Damian Rast präsentiert politische Meinungen über Trumps
+  Unzuverlässigkeit als Analyse, ohne die zentralen Behauptungen juristisch,
+  historisch oder ökonomisch zu belegen.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert einen SRF-Beitrag von Damian Rast zu den
+  Zollverhandlungen zwischen Schweiz und USA als Bestätigungsjournalismus. Die
+  zentralen Behauptungen — «auf die USA ist kein Verlass» und «Trump tut, was er
+  will» — würden als Fakten präsentiert, ohne belegt zu werden, während
+  juristische Grenzen präsidentieller Macht, historische Vergleiche, Schweizer
+  Wirtschaftsstimmen und die US-Perspektive komplett fehlten. Das Ergebnis sei
+  Trump-Skepsis im Gewand der Wirtschaftsberichterstattung statt einer echten
+  Analyse.
+quelle_datum: '2026-06-30'
+quelle_format: Online-Artikel
+quelle_sendung: HeuteMorgen
+quelle_redaktion: SRF News Wirtschaft
+kritik_schwere: 2
 ---
 
 *Dieser SRF-Beitrag von Damian Rast über die Zollverhandlungen zwischen der Schweiz und den USA ist ein Lehrstück in Bestätigungsjournalismus: Der Redaktor weiss von Anfang an, was die Story ist — auf die USA ist kein Verlass, Trump tut, was er will — und er arrangiert die Fakten so, dass sie diese Story stützen. Was nicht in die Story passt, wird weggelassen. Was die Story stützt, wird behauptet. Was die Story komplizieren würde, wird nicht gefragt. Das Ergebnis ist ein Beitrag, der klingt wie eine Analyse, aber keine ist — denn eine Analyse prüft ihre eigenen Behauptungen, und dieser Beitrag prüft nichts.*

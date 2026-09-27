@@ -1,14 +1,75 @@
 ---
-title: "Der Fürsprecher, der die Frage ersetzt"
-date: "2026-07-28"
+title: 'Der Fürsprecher, der die Frage ersetzt'
+date: '2026-07-28'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HOVk_C3WwAIespb.jpg"
-tweetId: "2082181479136718850"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HOVk_C3WwAIespb.jpg'
+tweetId: '2082181479136718850'
+categories:
+  - SRF/SRG
+  - EU/Aussenpolitik
+  - Sicherheitspolitik
+tags:
+  - Framing
+  - Selenski
+  - Trump
+  - Lindsey Graham
+  - Laura Loomer
+  - Sanktionen
+  - Echo der Zeit
+  - Auslassung
 seo:
-  description: "SRF berichtet über Selenskis Besuch im Weissen Haus und rahmt ihn als Beziehungsfrage. Der ukrainische Präsident brauchte Lindsey Graham als Fürsprecher,…"
+  description: >-
+    SRF berichtet über Selenskis Besuch im Weissen Haus und rahmt ihn als
+    Beziehungsfrage. Der ukrainische Präsident brauchte Lindsey Graham als
+    Fürsprecher,…
+themen:
+  - SRF-Berichterstattung über Selenski-Trump-Treffen
+  - Framing in der Auslandberichterstattung
+  - Ukraine-Krieg und US-Politik
+  - Schweizer Rolle im Ukraine-Krieg
+  - Sanktionspolitik
+kritisiertes_medium: SRF
+kritisierter_beitrag: Selenski hofft auf ein Umdenken im Weissen Haus
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Kontextmangel
+personen:
+  - Selenski
+  - Trump
+  - Lindsey Graham
+  - Laura Loomer
+institutionen:
+  - SRF
+  - Weisses Haus
+  - US-Kongress
+  - Ukraine
+  - Russland
+  - Schweiz
+  - Maga-Lager
+  - Republikaner
+gesetze_vorlagen:
+  - Sanktionspaket (Graham im US-Kongress)
+these: >-
+  SRF rahmt ein geopolitisches Verhandlungstreffen als personales
+  Beziehungsporträt und lässt wesentliche Fragen nach Verhandlungsergebnissen,
+  amerikanischen Interessen, Sanktionsinhalten und der Schweizer Milliardenrolle
+  unbeantwortet.
+zusammenfassung: >-
+  Der 9min.ch-Artikel kritisiert einen SRF-Echo-der-Zeit-Beitrag über Selenskis
+  Besuch im Weissen Haus. Der Beitrag werde als Beziehungsstory gerahmt statt
+  als geopolitische Analyse; konkrete Verhandlungsergebnisse, Inhalte des
+  Sanktionspakets, die amerikanische Interessenslage und die Schweizer
+  Unterstützung von über fünf Milliarden Franken kämen nicht vor. Lindsey
+  Grahams Rolle und Laura Loomers Kehrtwende würden als narrative Ersatzfiguren
+  verwendet, die strukturelle Fragen ersetzen.
+quelle_datum: '2026-07-28'
+quelle_format: Broadcast
+quelle_sendung: Echo der Zeit
+quelle_redaktion: SRF News
+kritik_schwere: 2
 ---
 
 *SRF berichtet über Selenskis Besuch im Weissen Haus und rahmt ihn als Beziehungsfrage. Der ukrainische Präsident brauchte Lindsey Graham als Fürsprecher, nun muss er selbst überzeugen. Was nicht vorkommt: die Frage, ob die Ukraine den Krieg gewinnen kann. Was nicht vorkommt: die Frage, was die USA für ihr Geld bekommen. Was nicht vorkommt: die Schweizer fünf Milliarden, die in denselben Krieg fliessen. Der Beitrag ist ein Porträt eines Treffens, ohne das Treffen zu analysieren.*

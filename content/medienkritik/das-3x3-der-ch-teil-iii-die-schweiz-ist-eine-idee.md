@@ -1,14 +1,71 @@
 ---
-title: "Das 3x3 der CH – Teil III: Die Schweiz ist eine Idee"
-date: "2026-06-26"
+title: 'Das 3x3 der CH – Teil III: Die Schweiz ist eine Idee'
+date: '2026-06-26'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HLrqb05WsAAjSB9.jpg"
-tweetId: "2070388108999184792"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HLrqb05WsAAjSB9.jpg'
+tweetId: '2070388108999184792'
+categories:
+  - Demokratie
+  - EU/Aussenpolitik
+  - SNB/Geldpolitik
+tags:
+  - Schweiz
+  - Souveränität
+  - Neutralität
+  - Subsidiarität
+  - Direkte Demokratie
+  - Goldverkäufe
+  - Bankgeheimnis
+  - Eigenverantwortung
 seo:
-  description: "Die Schweiz ist eine Idee Und diese Idee stirbt, wenn niemand sie vertritt. In den letzten zwei Beiträgen wurden sechs Namen genannt. Sechs Bundesräte,…"
+  description: >-
+    Die Schweiz ist eine Idee Und diese Idee stirbt, wenn niemand sie vertritt.
+    In den letzten zwei Beiträgen wurden sechs Namen genannt. Sechs Bundesräte,…
+themen:
+  - Erosion schweizer Grundsätze
+  - Subsidiarität und Zentralisierung
+  - Bewaffnete Neutralität
+  - Goldverkäufe und Geldpolitik
+  - EU-Einfluss auf Schweizer Politik
+kritisiertes_medium: Bundesrat
+kritisierter_beitrag: 'Das 3x3 der CH – Teil III: Die Schweiz ist eine Idee'
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Behördenpropaganda
+  - Kontextmangel
+personen:
+  - Micheline Calmy-Rey
+institutionen:
+  - Bundesrat
+  - SNB
+  - Parlament
+  - EU
+  - NATO
+  - BRICS
+gesetze_vorlagen:
+  - Masseneinwanderungsinitiative
+  - Gold-Initiative
+  - Bilateral III
+  - eID
+these: >-
+  Die Schweiz hat in 25 Jahren ihre identitätsstiftenden Grundsätze durch eine
+  technokratische, EU-orientierte politische Klasse aufgegeben und muss diese
+  als ihre grösste Stärke zurückgewinnen.
+zusammenfassung: >-
+  Der Beitrag analysiert die schleichende Erosion der Schweizer Grundpfeiler –
+  Subsidiarität, direkte Demokratie, bewaffnete Neutralität, hartes Geld,
+  Privatsphäre und Eigenverantwortung – über 25 Jahre. Er kritisiert eine
+  politische Klasse, die die Schweiz als Verwaltungsapparat statt als Idee
+  versteht und EU-Kategorien über Schweizer Grundsätze stellt. Gleichzeitig
+  mahnt er die Bürger, in der direkten Demokratie ihre Verantwortung
+  wahrzunehmen, bevor die Grundsätze in schlechten Zeiten endgültig fehlen.
+quelle_datum: ''
+quelle_format: Online-Artikel
+quelle_sendung: ''
+quelle_redaktion: 9min.ch
+kritik_schwere: 2
 ---
 
 **Die Schweiz ist eine Idee***

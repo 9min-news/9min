@@ -1,14 +1,69 @@
 ---
-title: "Die Forschung, die als Propaganda gerahmt wird"
-date: "2026-07-29"
+title: 'Die Forschung, die als Propaganda gerahmt wird'
+date: '2026-07-29'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HOX8sXCWkAIpHgL.jpg"
-tweetId: "2082348359738667385"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HOX8sXCWkAIpHgL.jpg'
+tweetId: '2082348359738667385'
+categories:
+  - SRF/SRG
+  - Wirtschaft
+  - Medienrecht
+tags:
+  - Finanzausgleich
+  - Kanton Zug
+  - IWP
+  - Sponsoring
+  - Propaganda-Vorwurf
+  - Pro-Kopf-Zahl
+  - Interessenkonflikt
+  - He-said-she-said
 seo:
-  description: "SRF berichtet über den Kanton Zug, der ein Forschungszentrum zum Nationalen Finanzausgleich mitfinanziert, und rahmt es als Kauf von Wissenschaft. Ein…"
+  description: >-
+    SRF berichtet über den Kanton Zug, der ein Forschungszentrum zum Nationalen
+    Finanzausgleich mitfinanziert, und rahmt es als Kauf von Wissenschaft. Ein…
+themen:
+  - Nationaler Finanzausgleich
+  - Forschungsförderung
+  - Wissenschaftsberichterstattung
+  - Medienrahmung
+kritisiertes_medium: SRF Tagesschau
+kritisierter_beitrag: Kanton Zug sponsert umstrittene Forschung zum Finanzausgleich
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Selektion
+personen:
+  - Marius Brülhart
+  - Heinz Tännler
+institutionen:
+  - SRF
+  - IWP
+  - Universität Luzern
+  - Universität Lausanne
+  - Kanton Zug
+gesetze_vorlagen:
+  - Nationaler Finanzausgleich (NFA)
+these: >-
+  SRF rahmt die legitime Forschungsförderung des Kantons Zug als Propaganda,
+  lässt wesentliche Kontextinformationen wie Pro-Kopf-Zahlen und
+  Interessenkonflikte des zitierten Experten weg und hinterfragt den
+  Finanzausgleich selbst nicht.
+zusammenfassung: >-
+  Der Artikel kritisiert den SRF-Beitrag über die IWP-Förderung durch den Kanton
+  Zug als einseitig und kontextarm. SRF rahme die 3,8 Millionen Franken
+  Forschungsförderung als 'Sponsoring' und 'umstritten', während die Relation
+  zur 467-Millionen-Franken-Jahreszahlung unerwähnt bleibt und der als neutral
+  präsentierte Ökonom Brülhart trotz eigener Interessenbindung nicht auf seinen
+  Propaganda-Vorwurf geprüft wird. Die Funktionsweise des Finanzausgleichs
+  selbst werde nicht hinterfragt, obwohl dies der eigentliche
+  Forschungsgegenstand sei.
+quelle_datum: '2026-07-27'
+quelle_format: Broadcast
+quelle_sendung: Tagesschau
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF berichtet über den Kanton Zug, der ein Forschungszentrum zum Nationalen Finanzausgleich mitfinanziert, und rahmt es als Kauf von Wissenschaft. Ein Ökonom darf das IWP als «propagandistisch» bezeichnen, ungeprüft. Was nicht vorkommt: die Frage, ob 467 Millionen Franken Nettozahlung pro Jahr ein legitimes Interesse an Forschung begründen. Was nicht vorkommt: die Frage, ob der Finanzausgleich selbst funktioniert. Was nicht vorkommt: die Pro-Kopf-Zahl, die das Ausmass der Umverteilung sichtbar macht. Der Beitrag ist ein Interview mit einem Kritiker, der als neutraler Experte auftritt.*

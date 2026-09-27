@@ -1,14 +1,65 @@
 ---
-title: "Klimapropaganda auf Pump – für 1,5 Mrd CHF jährlich"
-date: "2026-07-30"
+title: 'Klimapropaganda auf Pump – für 1,5 Mrd CHF jährlich'
+date: '2026-07-30'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HOeOKhPWQAA8HIl.jpg"
-tweetId: "2082790148995989520"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HOeOKhPWQAA8HIl.jpg'
+tweetId: '2082790148995989520'
+categories:
+  - SRF/SRG
+  - Klima/Energie
+tags:
+  - Erdüberlastungstag
+  - Global Footprint Network
+  - WWF
+  - Framing
+  - Methodik
+  - Interessenkonflikt
+  - Pressemitteilung
+  - SRF
 seo:
-  description: "SRF meldet den Erdüberlastungstag und rahmt ihn als wissenschaftlichen Befund. Die Menschheit lebe «auf Pump», brauche 1,73 Erden, die Schweiz 2,8. Was…"
+  description: >-
+    SRF meldet den Erdüberlastungstag und rahmt ihn als wissenschaftlichen
+    Befund. Die Menschheit lebe «auf Pump», brauche 1,73 Erden, die Schweiz 2,8.
+    Was…
+themen:
+  - Erdüberlastungstag
+  - Wissenschaftsberichterstattung
+  - Advocacy-Organisationen als Quellen
+  - Klimakommunikation
+  - Methodik der Metrik
+kritisiertes_medium: SRF News
+kritisierter_beitrag: Ab heute lebt die Menschheit auf Pump
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Behördenpropaganda
+personen:
+  - Björn Schulz
+institutionen:
+  - SRF
+  - Global Footprint Network
+  - WWF
+  - WWF Deutschland
+gesetze_vorlagen: []
+these: >-
+  SRF gibt eine Pressemitteilung des WWF bzw. einer Advocacy-Organisation als
+  wissenschaftlichen Befund weiter, ohne Methodik, Interessenkonflikte oder
+  wirtschaftlichen Kontext zu hinterfragen.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert einen SRF-Beitrag zum Erdüberlastungstag, der die
+  Zahlen des Global Footprint Network und Aussagen des WWF unkritisch als
+  wissenschaftliche Befunde präsentiert. Methodik, Interessenkonflikte der
+  Quellen, die Instabilität der Metrik durch Datenupdates und der
+  wirtschaftliche Kontext des Schweizer Konsums werden nicht thematisiert. Der
+  Beitrag wird als Pressemitteilung mit SRF-Siegel charakterisiert, nicht als
+  Wissenschaftsberichterstattung.
+quelle_datum: '2026-07-30'
+quelle_format: Online-Artikel
+quelle_sendung: ''
+quelle_redaktion: SRF 4 News
+kritik_schwere: 3
 ---
 
 *SRF meldet den Erdüberlastungstag und rahmt ihn als wissenschaftlichen Befund. Die Menschheit lebe «auf Pump», brauche 1,73 Erden, die Schweiz 2,8. Was nicht vorkommt: die Frage, wer diese Zahlen berechnet. Was nicht vorkommt: die Methodik hinter einer Metrik, die eine Advocacy-Organisation erfand. Was nicht vorkommt: die Frage, ob der Erdüberlastungstag eine Messgrösse oder ein Kommunikationsinstrument ist. Der Beitrag ist eine Pressemitteilung des WWF, ungeprüft weitergegeben.*

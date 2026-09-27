@@ -1,14 +1,88 @@
 ---
 title: Der Freitagsprofessor
-date: "2026-04-17"
+date: '2026-04-17'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HGGxZayaAAAP6Zz.jpg"
-tweetId: "2045111516316287149"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HGGxZayaAAAP6Zz.jpg'
+tweetId: '2045111516316287149'
+categories:
+  - SRF/SRG
+  - Zensur/Meinungsfreiheit
+  - Demokratie
+tags:
+  - Jean Rudolf von Salis
+  - Weltchronik
+  - Beromünster
+  - 531 kHz
+  - Vorsichtige Würde
+  - Celio-Richtlinien
+  - Vorzensur
+  - Holocaust-Auslassung
 seo:
-  description: "Der Freitagsprofessor Fünfzehn Minuten, die einen Kontinent nicht losliessen — und das Schweigen im Signal «Den heute Jungen gewidmet, damit sie wissen,…"
+  description: >-
+    Der Freitagsprofessor Fünfzehn Minuten, die einen Kontinent nicht losliessen
+    — und das Schweigen im Signal «Den heute Jungen gewidmet, damit sie wissen,…
+themen:
+  - Weltchronik von Salis als Massstab
+  - SRF-Auslassungen 2026
+  - Celio-Richtlinien 1940
+  - Holocaust-Schweigen im Signal
+  - Öffentlich-rechtlicher Rundfunkstandard
+kritisiertes_medium: SRF
+kritisierter_beitrag: ''
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Selektion
+personen:
+  - Jean Rudolf von Salis
+  - Enrico Celio
+  - Marcel Pilet-Golaz
+  - Herbert von Moos
+  - Hans Delbrück
+  - Winston Churchill
+  - Adolf Hitler
+  - Joseph Goebbels
+  - Josef Stalin
+  - Franklin D. Roosevelt
+institutionen:
+  - SRF
+  - SRG
+  - Radio Beromünster
+  - Bundesrat
+  - Eidgenössisches Politisches Departement
+  - BBC
+  - Radio Moskau
+  - Völkischer Beobachter
+  - Gestapo
+  - Historisches Lexikon der Schweiz
+  - Schweizerisches Bundesarchiv
+  - SRG-Archiv
+  - Orell Füssli
+  - geschichtlich-schweiz.ch
+gesetze_vorlagen:
+  - Celio-Richtlinien für den Rundfunk (20. Juli 1940)
+  - Vorzensur-Praxis Weltchronik
+these: >-
+  Das SRF verletzt 2026 in völliger Freiheit den Standard der «vorsichtigen
+  Würde», den Bundesrat Celio 1940 unter existenzieller Bedrohung definierte,
+  indem es durch systematische Auslassungen, Framing und einseitige Quellenwahl
+  den Fragehorizont der Bürger verengt statt sie mündig zu informieren.
+zusammenfassung: >-
+  Der Artikel vergleicht Jean Rudolf von Salis' Weltchronik (1940–1945) mit der
+  heutigen SRF-Berichterstattung und zeigt, dass von Salis unter militärischer
+  Vorzensur einen higher Standard registrierender Sachlichkeit einhielt als das
+  SRF heute in völliger Freiheit. Die zentrale Kritik: Während von Salis'
+  Schweigen äusseren Zwängen geschuldet war, entstehen die Auslassungen des SRF
+  bei COVID, Klima, Migration und Ukraine aus innerem Konsens und
+  Bequemlichkeit. Der Celio-Standard «vorsichtige Würde» wird als Massstab
+  formuliert, an dem das heutige SRF messbar scheitert.
+quelle_datum: ''
+quelle_format: ''
+quelle_sendung: ''
+quelle_redaktion: ''
+kritik_schwere: 3
 ---
 
 Der Freitagsprofessor

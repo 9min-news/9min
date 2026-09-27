@@ -1,14 +1,67 @@
 ---
-title: "Die Heimat, die keine Prinzipien hat"
-date: "2026-08-01"
+title: 'Die Heimat, die keine Prinzipien hat'
+date: '2026-08-01'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HOoPsLuWAAAp0LN.jpg"
-tweetId: "2083495063175172581"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HOoPsLuWAAAp0LN.jpg'
+tweetId: '2083495063175172581'
+categories:
+  - Demokratie
+  - EU/Aussenpolitik
+  - Migration
+tags:
+  - Bundesfeierrede
+  - Neutralität
+  - Souveränität
+  - Migration
+  - direkte Demokratie
+  - Framing
+  - Auslassung
+  - Beat Jans
 seo:
-  description: Bundesrat Beat Jans hält eine Bundesfeierrede in Therwil und rahmt die Schweiz als Geschichte der Offenheit und Vielfalt. Die Zahl 99 wird zum Symbol für…
+  description: >-
+    Bundesrat Beat Jans hält eine Bundesfeierrede in Therwil und rahmt die
+    Schweiz als Geschichte der Offenheit und Vielfalt. Die Zahl 99 wird zum
+    Symbol für…
+themen:
+  - Neutralität in Bundesfeierrede
+  - Auslassung von Migrationskosten
+  - Direkte Demokratie und politische Klasse
+  - Nationale Souveränität vs. EU-Integration
+  - Framing der Schweizer Identität
+kritisiertes_medium: Bundesrat
+kritisierter_beitrag: Bundesfeierrede in Therwil
+kritisierter_autor: Beat Jans
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Kontextmangel
+personen:
+  - Beat Jans
+institutionen:
+  - Bundesrat
+  - EJPD
+  - EU
+  - Parlament
+gesetze_vorlagen:
+  - bilateraler Weg
+these: >-
+  Beat Jans rahmt die Schweiz in seiner Bundesfeierrede als grenzenlosen
+  Container und verschweigt systematisch die Prinzipien, die die Schweiz
+  prägten: Neutralität, Souveränität, geordnete Migration und direkte
+  Demokratie.
+zusammenfassung: >-
+  Der Artikel analysiert die Bundesfeierrede von Bundesrat Beat Jans in Therwil
+  vom 31.07.2026 und kritisiert, dass zentrale aussen- und innenpolitische
+  Prinzipien der Schweiz ausgespart bleiben. Die Rede rahme die Schweiz als
+  offene Werkstatt, lasse aber Neutralität, Migrationskosten,
+  Demokratieentfremdung und Subsidiarität weg. Der Autor deutet die Rede als
+  verschleierten Abschied von Schweizer Grundprinzipien.
+quelle_datum: '2026-07-31'
+quelle_format: Online-Artikel
+quelle_sendung: ''
+quelle_redaktion: EJPD
+kritik_schwere: 3
 ---
 
 *Bundesrat Beat Jans hält eine Bundesfeierrede in Therwil und rahmt die Schweiz als Geschichte der Offenheit und Vielfalt. Die Zahl 99 wird zum Symbol für ständige Erweiterung. Was nicht vorkommt: die Grundsätze, die diese Offenheit erst möglich machten. Was nicht vorkommt: die Neutralität. Was nicht vorkommt: die Kosten der Migration. Die Rede ist ein Festtagsvortrag, der die Schweiz zu einem reinen Verwaltungsapparat ohne Grenzen umdeutet.*

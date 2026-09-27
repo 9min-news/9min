@@ -1,14 +1,68 @@
 ---
 title: Der «gewalttätige Nihilismus»
-date: "2026-07-19"
+date: '2026-07-19'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HNmXTKBWgAAnCG8.jpg"
-tweetId: "2078886722499162572"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HNmXTKBWgAAnCG8.jpg'
+tweetId: '2078886722499162572'
+categories:
+  - SRF/SRG
+  - Gesellschaft
+  - Sicherheitspolitik
+tags:
+  - Gewalttätiger Nihilismus
+  - Framing
+  - Radikalisierung
+  - Jugend
+  - Internet
+  - Amokläufe
+  - Prävention
+  - Behördenpropaganda
 seo:
-  description: "SRF berichtet über «gewalttätigen Nihilismus» — und rahmt ihn als neue Bedrohung, die aus dem Internet kommt. «Neue Form der Radikalisierung», «sich…"
+  description: >-
+    SRF berichtet über «gewalttätigen Nihilismus» — und rahmt ihn als neue
+    Bedrohung, die aus dem Internet kommt. «Neue Form der Radikalisierung»,
+    «sich…
+themen:
+  - Medien-Framing von Jugendgewalt
+  - Nihilismus als gesellschaftliches Symptom
+  - Internet als Sündenbock
+  - Medien-Selbstkritik bei Amok-Berichterstattung
+  - Prävention und Grundrechte
+kritisiertes_medium: SRF
+kritisierter_beitrag: Gewalttätiger Nihilismus alarmiert die Schweiz
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Kontextmangel
+personen:
+  - Géraldine Casutt
+  - Ahmed Ajil
+institutionen:
+  - SRF
+  - RTS
+  - Fachstelle für Radikalisierungsprävention des Kantons Waadt
+  - Universität Luzern
+gesetze_vorlagen: []
+these: >-
+  SRF rahmt gewalttätigen Nihilismus als neue Bedrohung, ohne historischen
+  Kontext, ohne Schweizer Fälle, ohne Ursachenanalyse und ohne Selbstkritik an
+  der eigenen Amok-Berichterstattung.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert, dass SRF das Phänomen des 'gewalttätigen
+  Nihilismus' als neu und bedrohlich rahmt, obwohl gewalt ohne Ideologie
+  historisch dokumentiert ist (Columbine, Erfurt, Winnenden). SRF nenne keine
+  Schweizer Fälle, obwohl die Schweiz als betroffen dargestellt wird, benenne
+  keine gesellschaftlichen Ursachen und hinterfrage die eigene Rolle bei der
+  Verherrlichung von Amoktäuern durch Medienberichterstattung nicht. Experten
+  würden als Autoritäten zitiert, ohne den institutionellen Rahmen ihrer
+  Diagnosen zu hinterfragen.
+quelle_datum: '2026-07-15'
+quelle_format: Broadcast
+quelle_sendung: La Matinale
+quelle_redaktion: SRF News
+kritik_schwere: 2
 ---
 
 *SRF berichtet über «gewalttätigen Nihilismus» — und rahmt ihn als neue Bedrohung, die aus dem Internet kommt. «Neue Form der Radikalisierung», «sich ausbreitende neue Form des Extremismus», «neu entstehende Bedrohung» — das sind die Formulierungen, die ein Phänomen als neu markieren, um es dann zu erklären, ohne die Ursachen zu benennen. Was nicht vorkommt: die Frage, was diese Jugendlichen nihilistisch macht. Was nicht vorkommt: die Frage, welche Gesellschaft Jugendliche produziert, die keinen Sinn finden — und in Gewalt flüchten. Was nicht vorkommt: die Frage, ob der Nihilismus ein Symptom ist — und nicht die Krankheit. Was nicht vorkommt: die Schweizer Fälle — der Artikel zeigt ein Symbolbild aus Malmö, nennt kanadische Einstufungen, zitiert eine Waadtländer Fachstelle — aber kein einziger Schweizer Fall wird benannt. Was nicht vorkommt: die Rolle der Medien selbst — die Verherrlichung von Amokläufern durch die Berichterstattung, die SRF selbst betreibt. Der Beitrag ist Warnung ohne Diagnose — und die Diagnose wäre die Frage, was eine Gesellschaft produziert, die ihre Jugendlichen nihilistisch macht.*

@@ -1,14 +1,105 @@
 ---
-title: "Rosinenpickerei, Teil Zwei (EU)"
-date: "2026-05-09"
+title: 'Rosinenpickerei, Teil Zwei (EU)'
+date: '2026-05-09'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HH4UFUmWMAEudx_.jpg"
-tweetId: "2053114638225600673"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HH4UFUmWMAEudx_.jpg'
+tweetId: '2053114638225600673'
+categories:
+  - EU/Aussenpolitik
+  - Demokratie
+tags:
+  - Rosinenpickerei
+  - EU
+  - differenzierte Integration
+  - Doppelstandard
+  - Opt-out
+  - Brexit
+  - Schengen
+  - Dublin-Verordnung
 seo:
-  description: "Wer den Vorwurf erhebt — und was er selbst tut Im ersten Teil wurde dargelegt, dass «Rosinenpickerei» die Grundform jeder vernünftigen Wahl ist. Niemand…"
+  description: >-
+    Wer den Vorwurf erhebt — und was er selbst tut Im ersten Teil wurde
+    dargelegt, dass «Rosinenpickerei» die Grundform jeder vernünftigen Wahl ist.
+    Niemand…
+themen:
+  - EU-Verhandlungsstrategie
+  - Differenzierte Integration
+  - Asymmetrie in der EU-Politik
+  - Selektive Aussenpolitik
+  - Schweiz-EU-Verhältnis
+kritisiertes_medium: EU
+kritisierter_beitrag: Vorwurf der Rosinenpickerei gegenüber der Schweiz
+kritisierter_autor: ''
+kritik_typ:
+  - Asymmetrie
+  - Framing
+  - Behördenpropaganda
+personen: []
+institutionen:
+  - EU
+  - EU-Kommission
+  - Brüssel
+  - Eurogruppe
+  - PESCO
+  - Schengen-Raum
+  - EU-Mitgliedstaaten
+  - Dänemark
+  - Irland
+  - Schweden
+  - Polen
+  - Tschechien
+  - Ungarn
+  - Rumänien
+  - Bulgarien
+  - Norwegen
+  - Liechtenstein
+  - Andorra
+  - Monaco
+  - San Marino
+  - Türkei
+  - Ukraine
+  - Moldau
+  - Georgien
+  - Vereinigtes Königreich
+  - Nordirland
+  - Deutschland
+  - Frankreich
+  - Österreich
+  - Italien
+gesetze_vorlagen:
+  - AEUV Art. 63
+  - Dublin-Verordnung
+  - Asyl- und Migrationsmanagement-Verordnung (AMMR)
+  - Stabilitäts- und Wachstumspakt
+  - Maastricht-Kriterien
+  - Temporary Crisis and Transition Framework (TCTF)
+  - METSAF
+  - Northern Ireland Protocol
+  - Windsor Framework
+  - Trade and Cooperation Agreement
+  - Gemeinsame Agrarpolitik
+these: >-
+  Der EU-Vorwurf der Rosinenpickerei gegen die Schweiz ist eine asymmetrische
+  Rhetorik, da die EU selbst permanent selektive Integration betreibt und diese
+  intern als Flexibilität naturalisiert, während sie das identische Vorgehen
+  extern als moralischen Defekt skandalisiert.
+zusammenfassung: >-
+  Der Artikel argumentiert, dass die EU den Schweiz-Vorwurf der Rosinenpickerei
+  selbst in vielfältiger Form praktiziert — intern durch Opt-outs und
+  differenzierte Integration (Dänemark, Irland, Schweden), extern durch
+  massgeschneiderte Abkommen (Norwegen, Brexit, Nordirland), bei Grundfreiheiten
+  durch asymmetrische Anwendung und in Krisenzeiten durch Aussetzung eigener
+  Regeln (Schengen, Dublin, Stabilitätspakt, Beihilfekontrolle). Die Verfasser
+  sehen darin einen Doppelstandard: selektives Vorgehen wird beim eigenen Haus
+  als Pragmatismus legitimiert, bei der Schweiz aber als illegitim deklariert.
+  Die Schweiz habe dasselbe Recht auf selektive Integration wie alle anderen
+  Akteure.
+quelle_datum: ''
+quelle_format: ''
+quelle_sendung: ''
+quelle_redaktion: ''
+kritik_schwere: 3
 ---
 
 *Wer den Vorwurf erhebt — und was er selbst tut*

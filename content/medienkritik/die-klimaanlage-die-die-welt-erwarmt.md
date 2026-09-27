@@ -1,14 +1,69 @@
 ---
-title: "Die Klimaanlage, die die Welt erwärmt"
-date: "2026-06-27"
+title: 'Die Klimaanlage, die die Welt erwärmt'
+date: '2026-06-27'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HL0lD2lXQAA7HZf.jpg"
-tweetId: "2070852168563802367"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HL0lD2lXQAA7HZf.jpg'
+tweetId: '2070852168563802367'
+categories:
+  - SRF/SRG
+  - Klima/Energie
+  - Gesellschaft
+tags:
+  - Hitzetote
+  - Altersheime
+  - Klimaanlagen
+  - Energiestiftung
+  - Framing
+  - Gesundheitsdaten
+  - Advocacy
+  - Priorisierung
 seo:
-  description: "Dieser SRF-Beitrag über Klimaanlagen in Altersheimen ist ein kleines Lehrstück darüber, wie eine komplexe Frage durch falsche Gewichtung simplifiziert…"
+  description: >-
+    Dieser SRF-Beitrag über Klimaanlagen in Altersheimen ist ein kleines
+    Lehrstück darüber, wie eine komplexe Frage durch falsche Gewichtung
+    simplifiziert…
+themen:
+  - Hitzeschutz in Altersheimen
+  - Klimaanlagen-Diskussion
+  - Gesundheitsdaten vs. Energieeffizienz
+  - Hitzesterblichkeit bei älteren Menschen
+kritisiertes_medium: SRF News
+kritisierter_beitrag: Braucht es mehr Klimaanlagen in Altersheimen?
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Interessenkonflikt
+personen:
+  - Léonore Hälg
+  - Patrick Hässig
+institutionen:
+  - SRF
+  - Energiestiftung
+  - BAG
+  - Acherhof Schwyz
+  - Nationalrat
+gesetze_vorlagen:
+  - Art. 93 BV
+these: >-
+  Der SRF-Beitrag beantwortet eine Gesundheitsfrage als Energiefrage und
+  verfehlt damit seine eigene Leitfrage, weil er die
+  Energiesteuerungsperspektive über die Gesundheitsperspektive stellt.
+zusammenfassung: >-
+  Der 9min.ch-Artikel kritisiert einen SRF-Rendez-vous-Beitrag vom 26.06.2026
+  über Klimaanlagen in Altersheimen. Beanstandet wird, dass die zentrale
+  Gesundheitsfrage nach Hitzesterblichkeit undWirksamkeit von Klimaanlagen ohne
+  empirische Daten bleibt, während eine Energiestiftungs-Expertin als scheinbar
+  neutrale Stimme das letzte Wort erhält — ohne Markierung ihres
+  institutionellen Interessenkonflikts. Zudem fehlen Kostenfrage,
+  internationaler Vergleich, Betroffenenstimmen, medizinische Expertise und eine
+  BAG-Stellungnahme.
+quelle_datum: '2026-06-26'
+quelle_format: Broadcast
+quelle_sendung: Rendez-vous
+quelle_redaktion: SRF News
+kritik_schwere: 2
 ---
 
 *Dieser SRF-Beitrag über Klimaanlagen in Altersheimen ist ein kleines Lehrstück darüber, wie eine komplexe Frage durch falsche Gewichtung simplifiziert wird. Die naheliegendste Frage — wie viele Menschen in Schweizer Altersheimen tatsächlich an Hitze sterben — wird nicht gestellt. Die naheliegendste Gegenfrage — ob der Wärmeausstoss einer Heim-Klimaanlage im Vergleich zu urbaner Hitzeinsel, Verkehr und Industrie jemals relevant sein wird — wird ebenfalls nicht gestellt. Stattdessen bekommt eine Energiestiftungs-Expertin das letzte Wort mit der Aussage, Klimaanlagen seien «nicht wirklich sinnvoll» — und niemand widerspricht. Das Stück ist nicht falsch, aber es verfehlt seine eigene Leitfrage, weil es die Energiesteuerungsperspektive über die Gesundheitsperspektive stellt.*

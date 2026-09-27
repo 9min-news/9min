@@ -1,14 +1,67 @@
 ---
-title: "Die Desinformation, welche die Realität ersetzt"
-date: "2026-08-05"
+title: 'Die Desinformation, welche die Realität ersetzt'
+date: '2026-08-05'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HO8McVMXEAAZ9M2.jpg"
-tweetId: "2084899066081640749"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HO8McVMXEAAZ9M2.jpg'
+tweetId: '2084899066081640749'
+categories:
+  - Migration
+  - EU/Aussenpolitik
+  - SRF/SRG
+tags:
+  - Desinformation
+  - Framing
+  - Migration
+  - Ukraine-Flüchtlinge
+  - Polen
+  - SRF
+  - Wolhynien
+  - Sonderstatus
 seo:
-  description: RTS und SRF berichten über zunehmende Gewalt gegen ukrainische Flüchtlinge in Polen und rahmen sie als Produkt russischer Desinformation und…
+  description: >-
+    RTS und SRF berichten über zunehmende Gewalt gegen ukrainische Flüchtlinge
+    in Polen und rahmen sie als Produkt russischer Desinformation und…
+themen:
+  - Migration und Flüchtlingspolitik
+  - russische Desinformation
+  - SRF-Berichterstattung
+  - polnisch-ukrainische Beziehungen
+  - historisches Trauma Wolhynien
+kritisiertes_medium: SRF
+kritisierter_beitrag: 'Polen: Gewalt gegen Geflüchtete aus der Ukraine nimmt zu'
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Kontextmangel
+personen:
+  - Karol Nawrocki
+institutionen:
+  - SRF
+  - RTS
+  - polnische Regierung
+  - Russland
+gesetze_vorlagen:
+  - Sonderstatus für ukrainische Zugewanderte (Polen)
+these: >-
+  SRF rahmt hausgemachte soziale Spannungen in Polen als Produkt russischer
+  Desinformation und blendet reale Ursachen wie die Belastung durch eine Million
+  Flüchtlinge, die Streichung des Sonderstatus und das historische Trauma von
+  Wolhynien aus.
+zusammenfassung: >-
+  Der 9min.ch-Artikel kritisiert den SRF-Beitrag über Gewalt gegen ukrainische
+  Flüchtlinge in Polen, weil dieser die Übergriffe als Folge russischer
+  Desinformation darstelle, ohne reale sozioökonomische Faktoren zu prüfen.
+  Ausgelassen würden die demografische Belastung durch eine Million Flüchtlinge,
+  die Bedeutung der Abschaffung des Sonderstatus, das historische Trauma des
+  Wolhynien-Massakers und die Identität der Täter. Die Kritik sieht darin eine
+  geopolitische Entschuldigung, die hausgemachte Probleme ausblendet.
+quelle_datum: '2026-08-05'
+quelle_format: Online-Artikel
+quelle_sendung: SRF dialog
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *RTS und SRF berichten über zunehmende Gewalt gegen ukrainische Flüchtlinge in Polen und rahmen sie als Produkt russischer Desinformation und rechtskonservativer Hetze. Ein ukrainischer Akzent führt zu Übergriffen, ein historisches Massaker wird in sozialen Medien instrumentalisiert. Was nicht vorkommt: die Frage, ob eine Million Flüchtlinge auf ein Land der Grösse Polens wirtschaftliche und soziale Spannungen erzeugen, die ganz ohne russische Hilfe entstehen. Was nicht vorkommt: die Streichung des Sonderstatus als reale Ursache für Frustration. Der Beitrag ist eine geopolitische Deutung, die die hausgemachten Probleme ausblendet.*

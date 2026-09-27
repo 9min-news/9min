@@ -1,14 +1,69 @@
 ---
 title: Das SRF Interviewchen mit dem SRG-Präsidenten
-date: "2026-07-02"
+date: '2026-07-02'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMN9ykBXgAAlmVY.jpg"
-tweetId: "2072638846081106272"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMN9ykBXgAAlmVY.jpg'
+tweetId: '2072638846081106272'
+categories:
+  - SRF/SRG
+  - Billag/Gebühren
+  - Medienrecht
+tags:
+  - SRF
+  - SRG
+  - Jean-Michel Cina
+  - Nicole Krättli
+  - PR-Interview
+  - Binnenblick
+  - Interessenkonflikt
+  - Selbstbefragung
 seo:
-  description: "Dieser SRF-interview mit SRG-Präsident Jean-Michel Cina ist ein Lehrstück in Selbstbefragung: Ein öffentlich-rechtlicher Sender interviewt seinen eigenen…"
+  description: >-
+    Dieser SRF-interview mit SRG-Präsident Jean-Michel Cina ist ein Lehrstück in
+    Selbstbefragung: Ein öffentlich-rechtlicher Sender interviewt seinen
+    eigenen…
+themen:
+  - SRG-Interview als PR-Mitteilung
+  - Interessenkonflikt bei SRF-Selbstbefragung
+  - Fehlende kritische Nachfragen im SRG-Umbau
+  - Gebührenfinanzierung und Transparenz
+  - Medienethik und Binnenperspektive
+kritisiertes_medium: SRF
+kritisierter_beitrag: 'SRG im Umbruch: Jean-Michel Cina über Umbau, Druck und Zukunft'
+kritisierter_autor: Nicole Krättli
+kritik_typ:
+  - Auslassung
+  - Behördenpropaganda
+  - Interessenkonflikt
+personen:
+  - Jean-Michel Cina
+  - Nicole Krättli
+institutionen:
+  - SRF
+  - SRG
+  - Bundesrat
+gesetze_vorlagen:
+  - Halbierungsinitiative
+  - No Billag
+  - Konzession ab 2029
+these: >-
+  SRF interviewt seinen eigenen Verwaltungsratspräsidenten ohne eine einzige
+  kritische Nachfrage und produziert so keine journalismus, sondern eine
+  PR-Mitteilung in Dialogform.
+zusammenfassung: >-
+  Der Artikel kritisiert ein SRF-Interview mit SRG-Präsident Cina als reine
+  PR-Mitteilung in Dialogform. Die Interviewerin Nicole Krättli stelle keine
+  einzige unbequeme Frage zu Sparmassnahmen, Vollprogramm, Linkslastigkeit,
+  Gehältern, Management-Verantwortung oder zum Interessenkonflikt der
+  Selbstbefragung. Das Grundproblem sei, dass ein öffentlich-rechtlicher Sender
+  seinen eigenen Verwaltungsratspräsidenten interviewt und dabei kritische
+  Distanz komplett fehlt.
+quelle_datum: '2026-06-23'
+quelle_format: Broadcast
+quelle_sendung: SRF Magazin
+quelle_redaktion: SRF
+kritik_schwere: 3
 ---
 
 *Dieser SRF-interview mit SRG-Präsident Jean-Michel Cina ist ein Lehrstück in Selbstbefragung: Ein öffentlich-rechtlicher Sender interviewt seinen eigenen Verwaltungsratspräsidenten — und stellt keine einzige Frage, die ihn unbequem wäre. Cina darf erzählen, was er will: dass die SRG ein «Vollprogramm» braucht, dass sie «glaubwürdig» ist, dass die Trägerschaft «wichtig» ist, dass der Druck «enorm» ist. Die Interviewerin Nicole Krättli nickt, fragt nach, lässt ihn reden — und widerspricht nie. Das Ergebnis ist kein Interview. Das Ergebnis ist eine PR-Mitteilung in Dialogform.*

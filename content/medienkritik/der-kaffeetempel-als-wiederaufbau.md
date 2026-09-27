@@ -1,14 +1,77 @@
 ---
 title: Der Kaffeetempel als Wiederaufbau
-date: "2026-06-28"
+date: '2026-06-28'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HL4ryKnWoAAbG3D.jpg"
-tweetId: "2071141269066092819"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HL4ryKnWoAAbG3D.jpg'
+tweetId: '2071141269066092819'
+categories:
+  - SRF/SRG
+  - EU/Aussenpolitik
+  - Wirtschaft
+tags:
+  - EU-Fonds
+  - Italien
+  - Confindustria
+  - LUISS
+  - Wiederaufbau
+  - Kaffeetempel
+  - Positivberichterstattung
+  - EU-Schulden
 seo:
-  description: Dieser SRF-Beitrag über Italiens Verwendung der EU-Corona-Milliarden ist ein Lehrstück in wohlfeiler Positivberichterstattung. Das Leitbeispiel ist die…
+  description: >-
+    Dieser SRF-Beitrag über Italiens Verwendung der EU-Corona-Milliarden ist ein
+    Lehrstück in wohlfeiler Positivberichterstattung. Das Leitbeispiel ist die…
+themen:
+  - EU-Corona-Wiederaufbaufonds
+  - Italiens Verwendung der EU-Milliarden
+  - Positivberichterstattung
+  - Expertenauswahl und Interessenkonflikte
+  - Schulden- und Korruptionsfrage
+kritisiertes_medium: SRF News
+kritisierter_beitrag: Italiens gemischte Bilanz mit den Corona-Milliarden
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Selektion
+  - Framing
+personen:
+  - Tiziana Pescosolido
+  - Luciano Monti
+institutionen:
+  - SRF
+  - SRF News
+  - Echo der Zeit
+  - EU
+  - NextGenerationEU
+  - Confindustria
+  - LUISS-Universität
+  - Villa Ada
+  - Corte dei Conti
+  - Transparency International Italia
+gesetze_vorlagen:
+  - Art. 93 BV
+  - NextGenerationEU-Fonds
+these: >-
+  Der SRF-Beitrag präsentiert eine vorgefertigte Erfolgsstory über Italiens
+  EU-Corona-Milliarden, indem er zentrale kritische Fragen — Schulden,
+  Korruption, Nord-Süd-Gefälle, Reformtiefe — systematisch ausspart und als
+  einzigen Experten einen Professor einer Confindustria-nahen Universität
+  auftreten lässt.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert einen SRF-Beitrag zu Italiens Verwendung der
+  EU-Corona-Milliarden, der zwar handwerklich sauber und visuell ansprechend
+  sei, aber durch selektive Expertenauswahl, kosmetische Kritik als Alibi und
+  systematische Auslassungen (EU-Schulden, Korruptions-/Mafia-Risiken,
+  Nord-Süd-Gefälle) eine positive Gesamtbewertung erzeuge, die die Faktenlage
+  nicht hergibt. Das Leitbeispiel eines restaurierten königlichen Kaffeetempels
+  stehe emblematisch für eine Berichterstattung, die Heritage-Sanierung als
+  Wiederaufbau-Investition darstelle.
+quelle_datum: '2026-06-24'
+quelle_format: Broadcast
+quelle_sendung: Echo der Zeit
+quelle_redaktion: SRF News
+kritik_schwere: 2
 ---
 
 *Dieser SRF-Beitrag über Italiens Verwendung der EU-Corona-Milliarden ist ein Lehrstück in wohlfeiler Positivberichterstattung. Das Leitbeispiel ist die Restaurierung eines königlichen Kaffeetempels in einem römischen Park — ein hübsches Bild, aber kaum das, was der Wiederaufbaufonds eigentlich sollte: Italien digitaler, produktiver und widerstandsfähiger machen. Die «gemischte Bilanz» der Schlagzeile entpuppt sich als kosmetische Einschränkung: Ein Ziel nicht ganz erreicht, beim Personal zu wenig investiert — aber insgesamt «ein Erfolg». Der einzige Experte ist ein Professor der Privatuniversität der italienischen Industriellenvereinigung Confindustria, also einer Institution, die strukturell für EU-Investitionsgelder und gegen Sparpolitik positioniert ist. Niemand fragt nach den Schulden, die hinter den 200 Milliarden stehen. Niemand fragt nach Mafia- und Korruptionsrisiken bei 300'000 Projekten. Niemand fragt, ob eine restaurierte Parkanlage in Rom wirklich das ist, wofür die europäischen Steuerzahlerinnen und Steuerzahler haften sollten. Der Beitrag ist keine Falschdarstellung — aber er ist eine Einladung an das Publikum, eine vorgefertigte Erfolgsstory zu konsumieren, ohne die Werkzeuge zu bekommen, sie zu prüfen.*

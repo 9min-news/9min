@@ -1,14 +1,96 @@
 ---
-title: "Das Fauci-Tagebuch: Wenn die Wissenschaft der Botschaft weicht"
-date: "2026-08-06"
+title: 'Das Fauci-Tagebuch: Wenn die Wissenschaft der Botschaft weicht'
+date: '2026-08-06'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HPD5GaAW8AEO8Nh.jpg"
-tweetId: "2085440557753503902"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HPD5GaAW8AEO8Nh.jpg'
+tweetId: '2085440557753503902'
+categories:
+  - SRF/SRG
+  - Gesellschaft
+  - Demokratie
+tags:
+  - Fauci-Tagebuch
+  - RKI-Files
+  - SRF
+  - Auslassung
+  - COVID-Politik
+  - Wissenschaftsmessaging
+  - Demokratie
+  - Feindsender-Test
 seo:
-  description: Am 29. Juli 2026 verweigerte Anthony Fauci vor dem US-Senat die Aussage. Er berief sich auf den Fifth Amendment. Wenige Tage zuvor hatte Senator Rand Paul…
+  description: >-
+    Am 29. Juli 2026 verweigerte Anthony Fauci vor dem US-Senat die Aussage. Er
+    berief sich auf den Fifth Amendment. Wenige Tage zuvor hatte Senator Rand
+    Paul…
+themen:
+  - COVID-Wissenschaftskommunikation
+  - Medienauslassung
+  - Institutionelle Transparenz
+  - Direkte Demokratie
+  - Behörden-Messaging
+kritisiertes_medium: SRF
+kritisierter_beitrag: ''
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Behördenpropaganda
+  - Asymmetrie
+personen:
+  - Anthony Fauci
+  - Rand Paul
+  - Jeff Zients
+  - Jeremy Farrar
+  - Zheng-Li Shi
+  - Lena Sun
+  - Robert Califf
+  - Rick Koup
+  - John Beigel
+  - Peter Marks
+  - Ron Klain
+  - John Moore
+  - Paul Offit
+  - Drew Weissman
+  - Paul Schreyer
+  - Von Salis
+institutionen:
+  - SRF
+  - US-Senat
+  - Robert Koch-Institut
+  - Weisses Haus
+  - FDA
+  - NIH
+  - WHO
+  - CIA
+  - FBI
+  - BAG
+  - STIKO
+  - EKIF
+  - EMA
+  - CDC
+  - Brownstone Institute
+  - Multipolar
+  - Washington Post
+  - CNN
+gesetze_vorlagen:
+  - Fifth Amendment
+these: >-
+  SRF schweigt bewusst zum Fauci-Tagebuch und den RKI-Files und bedient damit
+  institutionelle Machtinteressen statt demokratische Aufklärung in der direkten
+  Demokratie.
+zusammenfassung: >-
+  Der Artikel analysiert Anthony Faucis privates Tagebuch, das eine konsistente
+  Lücke zwischen privatem Wissen und öffentlichem Messaging zeigt, und
+  kritisiert SRF dafür, weder über dieses noch über die RKI-Files berichtet zu
+  haben. Das Schweigen wird als editorialer Akt gedeutet, der institutionelle
+  Autoritäten schützt und in einer direkten Demokratie den Informationsraum der
+  Bürger verwaltet. Der Autor argumentiert, dass dies die demokratische Funktion
+  des öffentlich-rechtlichen Senders untergräbt.
+quelle_datum: '2026-07-29'
+quelle_format: Online-Artikel
+quelle_sendung: ''
+quelle_redaktion: SRF
+kritik_schwere: 3
 ---
 
 Am 29. Juli 2026 verweigerte Anthony Fauci vor dem US-Senat die Aussage. Er berief sich auf den Fifth Amendment. Wenige Tage zuvor hatte Senator Rand Paul das private Tagebuch Faucis veröffentlicht — 1'141 Seiten, vom 30. Dezember 2019 bis zum 17. Dezember 2022. Das Dokument ist frei zugänglich.

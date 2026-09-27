@@ -1,14 +1,70 @@
 ---
-title: "Das Gewissen, das als Argument dient"
-date: "2026-07-30"
+title: 'Das Gewissen, das als Argument dient'
+date: '2026-07-30'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HOeJEIMWcAE1mSw.jpg"
-tweetId: "2082784067150368769"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HOeJEIMWcAE1mSw.jpg'
+tweetId: '2082784067150368769'
+categories:
+  - Klima/Energie
+  - SRF/SRG
+  - Wirtschaft
+tags:
+  - Framing
+  - moralische Anklage
+  - Flugverkehr
+  - Klimakrise
+  - Subvention
+  - Chicago-Abkommen
+  - Kontextmangel
+  - Auslassung
 seo:
-  description: "SRF berichtet über Rekord-Passagierzahlen am Flughafen Zürich und rahmt das Fliegen als moralisches Versagen. Die Frage lautet nicht: Warum fliegen die…"
+  description: >-
+    SRF berichtet über Rekord-Passagierzahlen am Flughafen Zürich und rahmt das
+    Fliegen als moralisches Versagen. Die Frage lautet nicht: Warum fliegen die…
+themen:
+  - Moralisches Framing in der Klimaberichterstattung
+  - Schweizer Flugverkehr im globalen Emissionskontext
+  - Kerosinsteuer und Chicago-Abkommen
+  - Rolle von Experten in der Berichterstattung
+  - Wirtschaftliche Funktion des Flugverkehrs
+kritisiertes_medium: SRF
+kritisierter_beitrag: 'Boom am Flughafen: Fliegen wir trotz Klimakrise ohne Gewissen?'
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Kontextmangel
+personen:
+  - Catherine Hartmann
+  - Lisa Mazzone
+  - Christian Wasserfallen
+institutionen:
+  - SRF
+  - ZHAW
+  - Flughafen Zürich
+  - FDP
+gesetze_vorlagen:
+  - Chicago-Abkommen 1944
+  - Flugticket-Abgabe
+  - CO₂-Abgabe auf Kerosin
+these: >-
+  SRF rahmt den Schweizer Flugverkehr als moralisches Versagen und lässt globale
+  Emissionskontexte, internationale Regelungen und wirtschaftliche Argumente
+  systematisch weg.
+zusammenfassung: >-
+  Der Artikel kritisiert den SRF-Beitrag als moralische Anklage statt sachliche
+  Klimaberichterstattung. SRF nutze eine Psychologin zur Pathologisierung des
+  Flugverhaltens, präsentiere die 12%-Zahl ohne globalen Massstab und übernehme
+  Mazzones Subventionsbehauptung ungeprüft, ohne das Chicago-Abkommen zu
+  erwähnen. Wasserfallen werde als Strohmann mit nur einem schwachen
+  Gegenargument inszeniert, während wirtschaftliche Funktion und globale
+  Rekordzahlen komplett fehlen.
+quelle_datum: '2026-07-29'
+quelle_format: Broadcast
+quelle_sendung: Echo der Zeit
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF berichtet über Rekord-Passagierzahlen am Flughafen Zürich und rahmt das Fliegen als moralisches Versagen. Die Frage lautet nicht: Warum fliegen die Menschen? Sondern: Warum fliegen sie trotz besseren Wissens? Das Framing steht fest: Fliegen ist falsch, wer fliegt, hat ein Gewissensproblem. Was nicht vorkommt: die Frage, ob der Schweizer Flugverkehr klimatisch relevant ist. Was nicht vorkommt: die wirtschaftliche Funktion des Fliegens für eine Exportnation. Was nicht vorkommt: die globalen Emissionen, die zeigen, dass die Schweiz auch bei null Flügen das Klima nicht rettet. Der Beitrag ist eine moralische Anklage mit psychologischem Anstrich.*

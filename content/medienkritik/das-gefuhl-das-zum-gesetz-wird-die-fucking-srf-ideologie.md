@@ -1,14 +1,68 @@
 ---
-title: "Das Gefühl, das zum Gesetz wird: Die «fucking» SRF Ideologie"
-date: "2026-07-28"
+title: 'Das Gefühl, das zum Gesetz wird: Die «fucking» SRF Ideologie'
+date: '2026-07-28'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HOVS6t7WkAAplNn.jpg"
-tweetId: "2082161822178627742"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HOVS6t7WkAAplNn.jpg'
+tweetId: '2082161822178627742'
+categories:
+  - SRF/SRG
+  - Gesellschaft
+  - Medienrecht
+tags:
+  - Geschlechtsidentität
+  - Trans-Identität
+  - Detransition
+  - Pubertätsblocker
+  - Kindermedien
+  - SRF Kids
+  - Ideologie
+  - Sprachleitfaden
 seo:
-  description: SRF Kids veröffentlicht einen Leitfaden zur Geschlechtsidentität für Kinder. Der Beitrag rahmt Geschlechtervielfalt als Selbstverständlichkeit und…
+  description: >-
+    SRF Kids veröffentlicht einen Leitfaden zur Geschlechtsidentität für Kinder.
+    Der Beitrag rahmt Geschlechtervielfalt als Selbstverständlichkeit und…
+themen:
+  - Geschlechtsidentität bei Kindern
+  - Medizinische Behandlung Minderjähriger
+  - Öffentlich-rechtliche Kindermedien
+  - Sprachpolitik
+  - Pädagogische Verantwortung
+kritisiertes_medium: SRF Kids
+kritisierter_beitrag: Wer bin ich?
+kritisierter_autor: Sara Siccoli
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Selektion
+personen:
+  - Sara Siccoli
+  - Nala
+institutionen:
+  - SRF Kids
+  - SRF
+  - Cass Review
+  - Schulsozialarbeit
+gesetze_vorlagen: []
+these: >-
+  SRF Kids nutzt eine öffentlich-rechtliche Kinderplattform, um eine umstrittene
+  ideologische Position zur Geschlechtsidentität als pädagogische
+  Selbstverständlichkeit zu präsentieren, ohne die medizinische Debatte,
+  internationale Entwicklungen oder alternative Perspektiven zu erwähnen.
+zusammenfassung: >-
+  Der Artikel kritisiert den SRF Kids-Beitrag «Wer bin ich?» zur
+  Geschlechtsidentität, weil er Geschlechtervielfalt als Normalzustand rahmt,
+  das Gefühl zur Autorität erklärt und biologisches Geschlecht als «Zuweisung
+  bei der Geburt» darstellt. Wesentliche Aspekte fehlen: die internationale
+  medizinische Debatte über Pubertätsblocker, Detransition, die Rolle der Eltern
+  als primäre Instanz und alternative wissenschaftliche Perspektiven. 9min.ch
+  sieht darin keine Kinderaufklärung, sondern Ideologie mit Kinderstempel,
+  finanziert durch öffentliche Gelder.
+quelle_datum: '2026-07-21'
+quelle_format: Online-Artikel
+quelle_sendung: ''
+quelle_redaktion: SRF Kids
+kritik_schwere: 3
 ---
 
 *SRF Kids veröffentlicht einen Leitfaden zur Geschlechtsidentität für Kinder. Der Beitrag rahmt Geschlechtervielfalt als Selbstverständlichkeit und biologisches Geschlecht als eine Zuordnung, die «bei der Geburt» entschieden wird. Was nicht vorkommt: die medizinische Debatte. Die Frage, ob Kinder reif genug sind, über ihre Identität zu entscheiden. Die Länder, die sich von der Behandlung Minderjähriger zurückziehen. Die Detransition. Der Beitrag ist ein pädagogischer Text, der eine ideologische Position als Kindermaterial verpackt — finanziert von 1,5 Milliarden Franken öffentlichen Geldes.*

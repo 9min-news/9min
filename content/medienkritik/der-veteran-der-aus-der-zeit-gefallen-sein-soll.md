@@ -1,14 +1,69 @@
 ---
-title: "Der Veteran, der aus der Zeit gefallen sein soll"
-date: "2026-08-02"
+title: 'Der Veteran, der aus der Zeit gefallen sein soll'
+date: '2026-08-02'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HOtNb3YWsAAeW3z.jpg"
-tweetId: "2083844411981533490"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HOtNb3YWsAAeW3z.jpg'
+tweetId: '2083844411981533490'
+categories:
+  - Abstimmungen
+  - EU/Aussenpolitik
+  - SRF/SRG
+tags:
+  - Christoph Blocher
+  - Neutralitätsinitiative
+  - Framing
+  - SRF
+  - Echo der Zeit
+  - EU-Sanktionen
+  - Neutralität
+  - Abstimmungskampf
 seo:
-  description: "SRF porträtiert Christoph Blocher an der Lancierung der Neutralitätsinitiative und rahmt ihn als alternden Politiker, der vielleicht seinen letzten Kampf…"
+  description: >-
+    SRF porträtiert Christoph Blocher an der Lancierung der
+    Neutralitätsinitiative und rahmt ihn als alternden Politiker, der vielleicht
+    seinen letzten Kampf…
+themen:
+  - Neutralitätsinitiative
+  - Sanktionspolitik
+  - Neutralitätsrecht
+  - Abstimmungsberichterstattung
+  - Medien-Framing
+kritisiertes_medium: SRF News
+kritisierter_beitrag: Christoph Blocher ‹Die Neutralität schützt uns vor dem Krieg›
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Kontextmangel
+personen:
+  - Christoph Blocher
+  - Donald Trump
+institutionen:
+  - SRF
+  - EU
+  - UNO-Sicherheitsrat
+  - Bundesrat
+gesetze_vorlagen:
+  - Neutralitätsinitiative
+these: >-
+  SRF rahmt eine verfassungspolitische Initiative als Biografie eines alternden
+  Politikers und lässt den Initiativinhalt, die historische Neutralitätspraxis
+  und die rechtliche Prüfung des EU-Sanktionsbruchs weg.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert einen SRF-Beitrag vom 1. August 2026 in der
+  Sendung Echo der Zeit, der Christoph Blocher anlässlich der Lancierung der
+  Neutralitätsinitiative porträtiert. SRF lasse den Wortlaut der Initiative, die
+  historische Praxis der Schweiz bei Sanktionen ohne UNO-Mandat und die
+  rechtliche Prüfung des Bruchs von 2022 unerwähnt und rahme Blocher stattdessen
+  als alternden Veteranen in einer letzten Schlacht. Zudem diene der Slogan als
+  Trump-Kontamination, Umfragen würden ohne Quelle zitiert und die Gegnerschaft
+  verschwinde in einer Box.
+quelle_datum: '2026-08-01'
+quelle_format: Broadcast
+quelle_sendung: Echo der Zeit
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF porträtiert Christoph Blocher an der Lancierung der Neutralitätsinitiative und rahmt ihn als alternden Politiker, der vielleicht seinen letzten Kampf führt. «Aus der Zeit gefallen?» fragt der Beitrag — und beantwortet die Frage, bevor sie gestellt ist. Was nicht vorkommt: der Wortlaut der Initiative. Was nicht vorkommt: die rechtliche Frage, ob EU-Sanktionen ohne UNO-Mandat die Neutralität verletzen. Was nicht vorkommt: die historische Praxis, die Blocher fordert. Der Beitrag ist ein Personenporträt, das eine verfassungspolitische Initiative zur Biografie eines alten Mannes macht.*

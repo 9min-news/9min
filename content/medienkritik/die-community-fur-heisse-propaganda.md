@@ -1,14 +1,68 @@
 ---
 title: Die Community für heisse Propaganda
-date: "2026-07-16"
+date: '2026-07-16'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HNVx00hXkAAjSyZ.jpg"
-tweetId: "2077691971246710912"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HNVx00hXkAAjSyZ.jpg'
+tweetId: '2077691971246710912'
+categories:
+  - SRF/SRG
+  - Klima/Energie
+  - Gesellschaft
+tags:
+  - Framing
+  - Selbstselektion
+  - Community-Umfrage
+  - Hitzefrei
+  - Volkswillen-Konstruktion
+  - Advocacy
+  - zirkuläre Berichterstattung
+  - einseitige Quellenwahl
 seo:
-  description: "SRF berichtet über Hitzefrei — und rahmt es als Community-Debatte. «Zwei Drittel der dialog-Community wünschen sich hitzefrei», lautet der Befund. Was…"
+  description: >-
+    SRF berichtet über Hitzefrei — und rahmt es als Community-Debatte. «Zwei
+    Drittel der dialog-Community wünschen sich hitzefrei», lautet der Befund.
+    Was…
+themen:
+  - Hitzefrei-Debatte im SRF
+  - Selbstselektierte Community-Umfrage als Volkswillen
+  - Wirtschaftsperspektive fehlt
+  - Framing durch Titel und Stimmenauswahl
+  - SRF dialog-Plattform Methodik
+kritisiertes_medium: SRF
+kritisierter_beitrag: 'Hitzefrei: ‹Bei 35 Grad lernt und arbeitet niemand mehr richtig›'
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Selektion
+  - Auslassung
+personen:
+  - Hanspeter Peterhans
+  - Jonas Büchi
+  - Débattrice Apaisée
+institutionen:
+  - SRF
+  - WHO
+  - Arbeitgeberverband
+gesetze_vorlagen:
+  - CO₂-Gesetz
+these: >-
+  SRF inszeniert eine Hitzefrei-Debatte durch eine selbstselektierte
+  Community-Umfrage, die als Volkswillen gerahmt wird, während wirtschaftliche
+  und kritische Perspektiven systematisch ausgespart bleiben.
+zusammenfassung: >-
+  Der 9min.ch-Artikel kritisiert einen SRF dialog-Beitrag über Hitzefrei, der
+  eine nicht-repräsentative Umfrage unter selbstselektierten Plattform-Usern als
+  Volkswillen darstellt. Die Kritik zeigt, dass vier Pro-Stimmen ausführlich
+  zitiert werden, während die einzige Contra-Stimme verkürzt bleibt, die
+  Wirtschaftsperspektive vollständig fehlt und Hitzetod-Zahlen ohne Kontext
+  präsentiert werden. Der Beitrag sei Advocacy mit Community-Format, nicht
+  Berichterstattung über eine Debatte.
+quelle_datum: '2026-07-16'
+quelle_format: Online-Artikel
+quelle_sendung: dialog
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF berichtet über Hitzefrei — und rahmt es als Community-Debatte. «Zwei Drittel der dialog-Community wünschen sich hitzefrei», lautet der Befund. Was nicht vorkommt: dass die «dialog»-Community eine selbstselektierte Gruppe ist, die sich auf der SRF-Plattform registriert hat — keine repräsentative Stichprobe, keine Bevölkerung, kein Volk. Was nicht vorkommt: eine einzige Stimme aus der Wirtschaft — kein Arbeitgeberverband, kein KMU, kein Ökonom, niemand, der rechnet, was Hitzefrei kostet. Was nicht vorkommt: die Frage, ob SRF hier über eine Debatte berichtet — oder eine Debatte inszeniert, indem es die eigenen User als Quelle zitiert. Der Beitrag ist Advocacy mit Community-Format — und die Community ist das Deckmäntelchen.*

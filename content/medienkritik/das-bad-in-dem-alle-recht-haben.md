@@ -1,14 +1,69 @@
 ---
-title: "Das Bad, in dem alle recht haben"
-date: "2026-06-29"
+title: 'Das Bad, in dem alle recht haben'
+date: '2026-06-29'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HL_2YYPXUAAw5RW.jpg"
-tweetId: "2071645700195066301"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HL_2YYPXUAAw5RW.jpg'
+tweetId: '2071645700195066301'
+categories:
+  - SRF/SRG
+  - Gesellschaft
+  - Demokratie
+tags:
+  - Konfliktvermeidung
+  - Transfrau
+  - Marzilibad
+  - Polizeiberichterstattung
+  - Selbstidentifikation
+  - FKK-Frauenbereich
+  - He-said-she-said
+  - Pressemitteilungsjournalismus
 seo:
-  description: "Dieser SRF-Beitrag über den Polizeieinsatz gegen eine trans Frau im Berner Marzilibad ist ein Lehrstück in konfliktvermeidendem Journalismus: Eine Story…"
+  description: >-
+    Dieser SRF-Beitrag über den Polizeieinsatz gegen eine trans Frau im Berner
+    Marzilibad ist ein Lehrstück in konfliktvermeidendem Journalismus: Eine
+    Story…
+themen:
+  - Transgender-Zugang zu Frauenräumen
+  - Konfliktvermeidungsjournalismus
+  - Polizeieinsatz und Verhältnismässigkeit
+  - Städtische Zugangsregelungen für Nacktbereiche
+kritisiertes_medium: SRF
+kritisierter_beitrag: Berner Polizei führt trans Frau aus dem Marzilibad
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Kontextmangel
+  - Behördenpropaganda
+personen: []
+institutionen:
+  - SRF
+  - Stadt Bern
+  - Polizei Bern
+  - Marzilibad
+  - Keystone-SDA
+gesetze_vorlagen:
+  - Art. 93 BV
+these: >-
+  Der SRF-Beitrag reduziert einen zentralen gesellschaftlichen Konflikt über den
+  Zugang trans Frauen zu frauen-separierten Nacktbereichen auf ein
+  Managementproblem, indem er ausschliesslich offizielle Stellungnahmen
+  ungeprüft wiedergibt und keine der beteiligten Parteien befragt oder
+  konfrontiert.
+zusammenfassung: >-
+  Der Artikel kritisiert einen SRF-Beitrag über einen Polizeieinsatz gegen eine
+  trans Frau im Berner Marzilibad als konfliktvermeidenden Journalismus. Keine
+  der zentralen Akteure — gestörte Frauen, solidarische Frauen, trans Frau,
+  Polizei — werde befragt oder konfrontiert; stattdessen werde eine
+  Aneinanderreihung offizieller Communiqués ungeprüft präsentiert. Der
+  eigentliche Konflikt zwischen Selbstidentifikation und körperlichen Merkmalen
+  in frauen-separierten Nacktbereichen werde nicht thematisiert, die politische
+  Dimension ausgeblendet.
+quelle_datum: '2026-06-29'
+quelle_format: Broadcast
+quelle_sendung: Regionaljournal Bern Freiburg Wallis
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *Dieser SRF-Beitrag über den Polizeieinsatz gegen eine trans Frau im Berner Marzilibad ist ein Lehrstück in konfliktvermeidendem Journalismus: Eine Story über einen Nacktbereich, eine Geschlechtsfrage, einen Polizeieinsatz mit Handschellen, eine Spitalnacht und eine städtische Entschuldigung wird so erzählt, dass am Ende alle recht haben — ausser der Polizei, die zwar erwähnt, aber nicht befragt wird. Die Frauen, die sich gestört fühlten, kommen als Stimme nicht vor. Die Frauen, die sich solidarisierten, kommen als Stimme nicht vor. Die trans Frau kommt als Stimme nicht vor. Die Stadt Bern kommt mit einer Pressemitteilung vor. Das Umfeld der trans Frau kommt mit einer Mitteilung vor. Die Polizei kommt mit einem Communiqué vor. Niemand wird befragt. Niemand wird konfrontiert. Der Beitrag ist eine Aneinanderreihung von offiziellen Stellungnahmen, die keine der zentralen Fragen beantwortet: Wer hat hier recht? Wer hat hier Unrecht? Und was bedeutet das für die Frage, wer Zugang zu einem frauen-separierten Nacktbereich hat?*

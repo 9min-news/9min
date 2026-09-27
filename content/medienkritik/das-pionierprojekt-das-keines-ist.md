@@ -1,14 +1,73 @@
 ---
-title: "Das Pionierprojekt, das keines ist"
-date: "2026-06-29"
+title: 'Das Pionierprojekt, das keines ist'
+date: '2026-06-29'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HL-STg8WMAArBBc.jpg"
-tweetId: "2071535300606648478"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HL-STg8WMAArBBc.jpg'
+tweetId: '2071535300606648478'
+categories:
+  - SRF/SRG
+  - Klima/Energie
+  - Wirtschaft
+tags:
+  - Solarpanels
+  - Bahngleise
+  - PR-Übernahme
+  - Start-up
+  - Sun-Ways
+  - Hochrechnung
+  - Kosten
+  - Energiepolitik
 seo:
-  description: "Dieser Swissinfo-Beitrag über das Bahn-Solar-Projekt in Buttes NE ist ein Fallbeispiel für Innovationsjournalismus, der die Grenze zwischen…"
+  description: >-
+    Dieser Swissinfo-Beitrag über das Bahn-Solar-Projekt in Buttes NE ist ein
+    Fallbeispiel für Innovationsjournalismus, der die Grenze zwischen…
+themen:
+  - Innovationsjournalismus vs. PR
+  - Bahn-Solar-Technologie
+  - Wirtschaftlichkeit erneuerbarer Energien
+  - Quellenprüfung in der Berichterstattung
+  - Schweizer Energiepolitik
+kritisiertes_medium: Swissinfo
+kritisierter_beitrag: 'Solarenergie zwischen Bahngleisen: Erste positive Bilanz'
+kritisierter_autor: Luigi Jorio
+kritik_typ:
+  - Auslassung
+  - Selektion
+  - Framing
+personen:
+  - Joseph Scuderi
+  - Luigi Jorio
+  - Julien Pouget
+institutionen:
+  - Swissinfo
+  - SRG
+  - Sun-Ways
+  - SNCF
+  - RFI
+  - Schweizerische Agentur für Innovationsförderung
+  - Fachhochschule Westschweiz
+  - TransN
+gesetze_vorlagen: []
+these: >-
+  Ein Swissinfo-Beitrag präsentiert eine kommerzielle Innovation als
+  journalistische Story, ohne die wirtschaftliche Dimension zu hinterfragen, und
+  gibt dem Start-up-Gründer eine PR-Bühne ohne unabhängige Gegenperspektive.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert einen Swissinfo-Beitrag über ein
+  Bahn-Solar-Pilotprojekt in Buttes NE, das als Pionierprojekt und Exportchance
+  gefeiert wird, während die Zahlen marginal, die Kosten fehlen, die
+  Hochrechnung auf das ganze Schienennetz statistisch unwissenschaftlich und die
+  positive Bilanz nach einem von drei Jahren verfrüht ist. Die Hauptquelle ist
+  der Start-up-Gründer Joseph Scuderi selbst, dessen Aussagen ungeprüft
+  übernommen werden, während unabhängige Experten, Kostenvergleiche und die
+  Relevanz für die Schweizer Energiepolitik vollständig fehlen. Der Beitrag
+  verwischt damit die Grenze zwischen Berichterstattung und PR.
+quelle_datum: '2026-06-29'
+quelle_format: Online-Artikel
+quelle_sendung: ''
+quelle_redaktion: Swissinfo
+kritik_schwere: 2
 ---
 
 *Dieser Swissinfo-Beitrag über das Bahn-Solar-Projekt in Buttes NE ist ein Fallbeispiel für Innovationsjournalismus, der die Grenze zwischen Berichterstattung und PR-Zusammenarbeit verwischt. Ein Start-up installiert Solarpanels auf 100 Metern Bahngleis, produziert Strom für drei bis vier Haushalte — und bekommt dafür einen landesweiten Medienauftritt, der die Technologie als Weltpremiere, als Pionierleistung und als Exportchance feiert. Die Zahlen sind marginal, die Kosten fehlen, die Skalierbarkeit ist ungeprüft, und die «positive Bilanz» wird nach einem Jahr gezogen, obwohl das Pilotprojekt auf drei Jahre angelegt ist. Der Beitrag liest sich wie eine Pressemitteilung von Sun-Ways — und das ist kein Zufall, denn die Quelle ist Joseph Scuderi, der Gründer des Start-ups. Er liefert die Zahlen, die Bewertungen, die Prognosen. Der Journalist fragt nicht nach. Das Ergebnis ist ein Beitrag, der eine kommerzielle Bewerbung als journalistische Story tarnt.*

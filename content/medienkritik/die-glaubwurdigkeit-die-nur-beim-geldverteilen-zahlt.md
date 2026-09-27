@@ -1,14 +1,74 @@
 ---
-title: "Die Glaubwürdigkeit, die nur beim Geldverteilen zählt"
-date: "2026-07-06"
+title: 'Die Glaubwürdigkeit, die nur beim Geldverteilen zählt'
+date: '2026-07-06'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMkUKksXAAAzmAA.jpg"
-tweetId: "2074211298129203397"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMkUKksXAAAzmAA.jpg'
+tweetId: '2074211298129203397'
+categories:
+  - SRF/SRG
+  - EU/Aussenpolitik
+  - Wirtschaft
+tags:
+  - Framing
+  - Glaubwürdigkeit
+  - Entwicklungshilfe
+  - Lobbying
+  - SRF
+  - Echo der Zeit
+  - Asymmetrie
+  - Selektivität
 seo:
-  description: "SRF berichtet über einen Appell von 27 Stiftungen gegen Kürzungen bei der Entwicklungszusammenarbeit — und übernimmt deren Rahmung: Es gehe um «die…"
+  description: >-
+    SRF berichtet über einen Appell von 27 Stiftungen gegen Kürzungen bei der
+    Entwicklungszusammenarbeit — und übernimmt deren Rahmung: Es gehe um «die…
+themen:
+  - Entwicklungszusammenarbeit
+  - Glaubwürdigkeitsargument
+  - Medien-Framing
+  - Lobbying in der Entwicklungshilfe
+  - Kürzungsdebatte
+kritisiertes_medium: SRF
+kritisierter_beitrag: Appell an den Bundesrat in Sachen Entwicklungszusammenarbeit
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Selektion
+personen:
+  - Fritz Brugger
+  - Andrea Studer
+  - Ignazio Cassis
+institutionen:
+  - SRF
+  - Echo der Zeit
+  - Bundesrat
+  - ETH
+  - Zürich
+  - Swiss Re
+  - Finanzkontrolle
+  - Stiftungen
+gesetze_vorlagen: []
+these: >-
+  SRF übernimmt das Glaubwürdigkeits-Framing eines Stiftungs-Appells unkritisch
+  und verstärkt so einen Lobbybrief als moralischen Appell, ohne die Asymmetrie
+  des Arguments, die Interessenlage der Unterzeichner und die Wirkungsfrage zu
+  prüfen.
+zusammenfassung: >-
+  Der Artikel kritisiert, dass SRF in einem Echo-der-Zeit-Beitrag das
+  Glaubwürdigkeits-Framing eines Stiftungs-Appells gegen Kürzungen bei der
+  Entwicklungshilfe übernimmt, ohne dessen Selektivität zu hinterfragen. Die
+  Interessenlage der Unterzeichner, darunter Versicherungskonzerne, wird nur
+  halb aufgedeckt, die Wirkungsfrage abgebrochen und die Gegenseite auf einen
+  Halbsatz reduziert. Die grösste Auslassung: Die Glaubwürdigkeit der Schweiz
+  wurde von denselben Kreisen nie bemüht, als Bankgeheimnis, Neutralität und
+  Subsidiarität fielen — erst jetzt, wo es um Zahlungen geht, an denen die
+  Absender hängen.
+quelle_datum: '2026-07-06'
+quelle_format: Broadcast
+quelle_sendung: Echo der Zeit
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF berichtet über einen Appell von 27 Stiftungen gegen Kürzungen bei der Entwicklungszusammenarbeit — und übernimmt deren Rahmung: Es gehe um «die Glaubwürdigkeit der Schweiz». Der Beitrag lässt Stiftungen, einen ETH-Ökonomen und die Finanzkontrolle sprechen. Was er nicht fragt: Warum die Glaubwürdigkeit der Schweiz ausgerechnet an der Entwicklungshilfe hängen soll — nachdem das Land in den letzten fünfzehn Jahren das Bankgeheimnis aufgegeben, die Neutralität relativiert und Prinzip um Prinzip preisgegeben hat, ohne dass dieselben Stimmen die Glaubwürdigkeit beschworen hätten. Die Selektivität des Arguments ist der Befund — und sie bleibt unbenannt.*

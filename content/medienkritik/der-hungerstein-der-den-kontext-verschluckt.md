@@ -1,14 +1,62 @@
 ---
-title: "Der Hungerstein, der den Kontext verschluckt"
-date: "2026-08-07"
+title: 'Der Hungerstein, der den Kontext verschluckt'
+date: '2026-08-07'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HPINVc8XoAAjDUc.jpg"
-tweetId: "2085744252231811308"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HPINVc8XoAAjDUc.jpg'
+tweetId: '2085744252231811308'
+categories:
+  - SRF/SRG
+  - Klima/Energie
+tags:
+  - Hungersteine
+  - Dürre
+  - Klimavariabilität
+  - Framing
+  - Kontextmangel
+  - Niedrigwasser
+  - Bildergalerie
+  - Alarmismus
 seo:
-  description: "SRF publiziert eine Bildergalerie von historischen Artefakten, die wegen Niedrigwasser sichtbar werden. Schiffswracks, Mammutzähne, Hungersteine. Das…"
+  description: >-
+    SRF publiziert eine Bildergalerie von historischen Artefakten, die wegen
+    Niedrigwasser sichtbar werden. Schiffswracks, Mammutzähne, Hungersteine.
+    Das…
+themen:
+  - Klima-Dürre-Berichterstattung
+  - Historischer Kontext
+  - Niedrigwasser
+  - Hungersteine
+  - Krisen-Framing
+kritisiertes_medium: SRF News
+kritisierter_beitrag: Niedrigwasser macht Vergangenes sichtbar
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Kontextmangel
+  - Auslassung
+personen: []
+institutionen:
+  - SRF
+  - SRF News
+gesetze_vorlagen: []
+these: >-
+  SRF nutzt historische Artefakte wie Hungersteine als Requisiten für
+  Krisen-Alarmismus, ohne deren historischen Kontext zu liefern, der die These
+  der beispiellosen Krise widerlegen würde.
+zusammenfassung: >-
+  Der Artikel kritisiert eine SRF-Bildergalerie über bei Niedrigwasser sichtbar
+  gewordene historische Artefakte wie Hungersteine und Schiffswracks. SRF
+  liefere keinen historischen Kontext, keine Pegelstandsvergleiche und stelle
+  keine Fragen zur historischen Klimavariabilität. Die Bildergalerie werde so zu
+  visuellem Krisen-Framing ohne journalistische Einordnung, obwohl die
+  eingravierten Jahreszahlen auf den Hungersteinen gerade belegen, dass extreme
+  Dürren historische Naturereignisse sind.
+quelle_datum: '2026-08-07'
+quelle_format: Online-Artikel
+quelle_sendung: ''
+quelle_redaktion: Gesellschaft
+kritik_schwere: 2
 ---
 
 *SRF publiziert eine Bildergalerie von historischen Artefakten, die wegen Niedrigwasser sichtbar werden. Schiffswracks, Mammutzähne, Hungersteine. Das Framing impliziert eine beispiellose Krise, die die Vergangenheit freilegt. Was nicht vorkommt: der historische Kontext der Hungersteine, die beweisen, dass solche Dürren zyklisch sind. Was nicht vorkommt: die Frage, ob das Wasser schon tiefer stand. Der Beitrag ist eine visuelle Montage, die Geschichte für Alarmismus nutzt, ohne zu verstehen, was diese Geschichte sagt.*

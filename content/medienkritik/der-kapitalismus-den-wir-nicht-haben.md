@@ -1,14 +1,73 @@
 ---
-title: "Der Kapitalismus, den wir nicht haben"
-date: "2026-05-25"
+title: 'Der Kapitalismus, den wir nicht haben'
+date: '2026-05-25'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HJJzUTSXIAAVIrI.jpg"
-tweetId: "2058835888734396530"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HJJzUTSXIAAVIrI.jpg'
+tweetId: '2058835888734396530'
+categories:
+  - Wirtschaft
+  - Gesellschaft
+  - Demokratie
+tags:
+  - Geldsozialismus
+  - Crony Capitalism
+  - Fiatgeld
+  - Notenbankpolitik
+  - Cantillon-Effekt
+  - Roland Baader
+  - Milton Friedman
+  - Credit Suisse
 seo:
-  description: "9min zu 9min — Teil 2 der Serie. Über ein System, das den falschen Namen trägt — und warum diese Verwechslung politisch produktiv und intellektuell ruinös…"
+  description: >-
+    9min zu 9min — Teil 2 der Serie. Über ein System, das den falschen Namen
+    trägt — und warum diese Verwechslung politisch produktiv und intellektuell
+    ruinös…
+themen:
+  - Wirtschaftssystemanalyse
+  - Geldpolitik und Notenbanken
+  - Kapitalismuskritik und Begriffsverwirrung
+  - Bankenrettung und Sozialisierung von Verlusten
+  - Inflation als Umverteilung
+kritisiertes_medium: 9min.ch
+kritisierter_beitrag: 'Der Kapitalismus, den wir nicht haben'
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Kontextmangel
+  - Auslassung
+personen:
+  - Roland Baader
+  - Milton Friedman
+  - Richard Cantillon
+  - John Maynard Keynes
+  - Friedrich Hayek
+institutionen:
+  - SNB
+  - UBS
+  - Credit Suisse
+  - Bundesrat
+  - Parlament
+gesetze_vorlagen:
+  - Bundesverfassung (Goldmindestdeckung bis 1999)
+these: >-
+  Die Diagnose «Kapitalismus» als Verursacher gesellschaftlicher Probleme ist
+  falsch, da das tatsächlich existierende System ein hybrider Geldsozialismus
+  ist, dessen Probleme auf nicht-kapitalistischen Strukturen beruhen.
+zusammenfassung: >-
+  Der Artikel argumentiert, dass westliche Wirtschaftssysteme fälschlich als
+  «Kapitalismus» bezeichnet werden, obwohl es sich um einen hybriden
+  Geldsozialismus mit sozialisierten Risiken und privatisierten Gewinnen
+  handelt. Die verbreitete Kapitalismuskritik verfehlt ihr Ziel, weil sie die
+  tatsächlichen Verursacher — Notenbanker, Politiker, Regulierer — unter einem
+  falschen Etikett unsichtbar macht. Eine präzise Diagnose würde die
+  Verantwortlichkeiten konkret adressierbar machen und Voraussetzung für
+  wirksame Reformen schaffen.
+quelle_datum: ''
+quelle_format: Online-Artikel
+quelle_sendung: ''
+quelle_redaktion: 9min.ch
+kritik_schwere: 2
 ---
 
 *9min zu 9min — Teil 2 der Serie. Über ein System, das den falschen Namen trägt — und warum diese Verwechslung politisch produktiv und intellektuell ruinös ist.*

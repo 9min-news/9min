@@ -1,14 +1,78 @@
 ---
-title: "Der Parteitag, der nur als Störung existiert"
-date: "2026-07-04"
+title: 'Der Parteitag, der nur als Störung existiert'
+date: '2026-07-04'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMZN6O5WYAAv9ou.jpg"
-tweetId: "2073431053109264597"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMZN6O5WYAAv9ou.jpg'
+tweetId: '2073431053109264597'
+categories:
+  - SRF/SRG
+  - Gesellschaft
+  - Demokratie
+tags:
+  - Framing
+  - Protestzentrierung
+  - AfD-Parteitag
+  - Erfurt
+  - Auslassung
+  - Kontextmangel
+  - Wählerperspektive
+  - Demokratiefragen
 seo:
-  description: "Dieser SRF-Beitrag über den AfD-Bundesparteitag in Erfurt ist ein Lehrstück in Protest-zentrierter Berichterstattung: Eine demokratisch gewählte Partei…"
+  description: >-
+    Dieser SRF-Beitrag über den AfD-Bundesparteitag in Erfurt ist ein Lehrstück
+    in Protest-zentrierter Berichterstattung: Eine demokratisch gewählte Partei…
+themen:
+  - AfD-Bundesparteitag Erfurt
+  - Protest- vs. Politikberichterstattung
+  - Framing demokratischer Akteure
+  - Demokratie-theoretische Einordnung von Protest
+  - Wahlanalyse Landtagswahlen
+kritisiertes_medium: SRF News
+kritisierter_beitrag: 'Trotz Protesten und Blockaden: AfD hält den Parteitag ab'
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Kontextmangel
+personen:
+  - Tino Chrupalla
+  - Alice Weidel
+  - Sahra Wagenknecht
+institutionen:
+  - SRF
+  - AfD
+  - Polizei
+  - Verwaltungsgericht Weimar
+  - Oberverwaltungsgericht
+  - Bundestag
+  - Europaparlament
+  - Landtage
+  - Gewerkschaften
+  - Bundesländer
+gesetze_vorlagen:
+  - Landtagswahlen Sachsen-Anhalt
+  - Landtagswahlen Mecklenburg-Vorpommern
+these: >-
+  SRF rahmt einen demokratisch gewählten Parteitag als Protest-Ereignis und
+  blendet die parteiinterne Politik, Strategie, Delegierten- und
+  Wählerperspektive weitgehend aus — übrig bleibt Protest-Stenografie statt
+  Politikberichterstattung.
+zusammenfassung: >-
+  Der Artikel kritisiert einen SRF-Beitrag zum AfD-Bundesparteitag in Erfurt,
+  weil dieser den Parteitag primär als Anlass für Proteste darstelle und fast
+  alle politischen Inhalte auslasse: nur drei Kampfsätze aus den Reden, keine
+  Delegiertenstimmen, keine Wählerperspektive, keine Analyse der Wahlergebnisse,
+  der Landtagswahlen oder der Strategie. Gewalt, Autobahn-Sperrung und
+  Rechtsstreit würden erwähnt, aber nicht eingeordnet; die
+  demokratie-theoretische Frage, ob Proteste den Parteitag einer gewählten
+  Partei legitim verhindern dürfen, werde gar nicht gestellt. 9min spricht von
+  Protest-Stenografie mit SRF-Siegel statt von Politikberichterstattung.
+quelle_datum: '2026-07-04'
+quelle_format: Online-Artikel
+quelle_sendung: ''
+quelle_redaktion: SRF News
+kritik_schwere: 2
 ---
 
 *Dieser SRF-Beitrag über den AfD-Bundesparteitag in Erfurt ist ein Lehrstück in Protest-zentrierter Berichterstattung: Eine demokratisch gewählte Partei hält ihren Parteitag ab — und SRF berichtet primär über diejenigen, die den Parteitag verhindern wollen. Die AfD kommt vor als Anlass für Protest, nicht als politischer Akteur mit Inhalten. Was im Saal gesagt wurde, ausser drei Sätzen, fehlt. Was die Partei plant, fehlt. Was die Delegierten denken, fehlt. Was die Wähler erwarten, fehlt. Dafür erfahren wir, dass 20'000 Menschen durch Erfurt zogen, dass Sitzblockaden stattfanden, dass die Autobahn gesperrt wurde, dass Pyrotechnik flog und dass die Polizei Pferde und Wasserwerfer bereithielt. Der Beitrag klingt wie Politikberichterstattung, aber er ist keine — denn Politikberichterstattung berichtet über Politik, und dieser Beitrag berichtet über Logistik.*

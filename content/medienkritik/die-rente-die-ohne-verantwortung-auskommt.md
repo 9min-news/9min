@@ -1,14 +1,78 @@
 ---
-title: "Die Rente, die ohne Verantwortung auskommt"
-date: "2026-08-06"
+title: 'Die Rente, die ohne Verantwortung auskommt'
+date: '2026-08-06'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HPDeF0TX0AAFoHq.jpg"
-tweetId: "2085410962123669624"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HPDeF0TX0AAFoHq.jpg'
+tweetId: '2085410962123669624'
+categories:
+  - SRF/SRG
+  - Wirtschaft
+  - Gesellschaft
+tags:
+  - AHV
+  - Pensionskassen
+  - Demografie
+  - 13. Rente
+  - VZ Vermögenszentrum
+  - Interessenkonflikt
+  - Framing
+  - Vertrauensverlust
 seo:
-  description: SRF berichtet über eine Studie des VZ Vermögenszentrums zum Vertrauen in die Altersvorsorge und rahmt den Vertrauensverlust bei der AHV als…
+  description: >-
+    SRF berichtet über eine Studie des VZ Vermögenszentrums zum Vertrauen in die
+    Altersvorsorge und rahmt den Vertrauensverlust bei der AHV als…
+themen:
+  - AHV-Vertrauenskrise
+  - 13. Rente Finanzierung
+  - Demografie und Migration
+  - Pensionskassen-Lage
+  - Finanzmarkt-PR
+kritisiertes_medium: SRF 4 News
+kritisierter_beitrag: Vertrauen der Bevölkerung in die AHV nimmt ab
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Interessenkonflikt
+personen:
+  - Pierre-Yves Maillard
+  - Flavia Wasserfallen
+  - Samuel Bendahan
+  - Mattea Meyer
+  - Cédric Wermuth
+institutionen:
+  - SRF
+  - VZ Vermögenszentrum
+  - AHV
+  - Pensionskassen
+  - SP
+  - Grüne
+  - Schweizerischer Gewerkschaftsbund
+  - Parlament
+  - Nationalbank
+gesetze_vorlagen:
+  - 13. Rente
+these: >-
+  SRF nutzt eine kommerzielle Studie des VZ Vermögenszentrums, um den
+  Vertrauensverlust in die AHV als psychologisches Problem zu rahmen, während
+  Demografie, politische Verantwortungslosigkeit bei der 13. Rente und der
+  kommerzielle Interessenkonflikt der Quelle ausgeblendet werden.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert einen SRF-4-News-Beitrag, der eine Studie des VZ
+  Vermögenszentrums zum Vertrauen in die AHV als neutral präsentiert, obwohl das
+  VZ kommerziell von der Distanzierung der AHV profitiert. SRF rahme den
+  Vertrauensverlust als psychologisches Stimmungsbild, ohne die demografische
+  Ursache der AHV-Krise, die offizielle Migrations-Rettungsstrategie, die
+  unfundierte 13. Rente als politisches Versagen und die Lücken der
+  Pensionskassen hinter einem Börsenboom zu thematisieren. Die Politiker, die
+  vor der Abstimmung die Finanzierung der 13. Rente verharmlost hätten und
+  danach keine Lösung lieferten, würden nicht konfrontiert.
+quelle_datum: '2026-08-06'
+quelle_format: Online-Artikel
+quelle_sendung: SRF 4 News
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF berichtet über eine Studie des VZ Vermögenszentrums zum Vertrauen in die Altersvorsorge und rahmt den Vertrauensverlust bei der AHV als psychologisches Problem. Die AHV sei politisch umstritten, die Pensionskassen profitierten von hohen Zinsen. Was nicht vorkommt: die Demografie als Ursache des AHV-Drucks. Was nicht vorkommt: die Frage, ob eine 13. Rente ohne Finanzierung politische Verantwortungslosigkeit ist. Was nicht vorkommt: der kommerzielle Interessenkonflikt der Studienautoren. Was nicht vorkommt: die Politiker, die vor der Abstimmung beteuerten, die Finanzierung sei kein Problem, und nach der Abstimmung keine Lösung lieferten. Der Beitrag ist eine Finanzmarkt-PR, die als Sozialpolitik-Analyse deklariert wird.*

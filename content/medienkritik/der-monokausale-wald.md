@@ -1,14 +1,66 @@
 ---
 title: Der monokausale Wald
-date: "2026-07-06"
+date: '2026-07-06'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMhiY1bW4AAJg9Y.jpg"
-tweetId: "2074016287580160421"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMhiY1bW4AAJg9Y.jpg'
+tweetId: '2074016287580160421'
+categories:
+  - SRF/SRG
+  - Klima/Energie
+  - Wirtschaft
+tags:
+  - Framing
+  - Auslassung
+  - Waldgesetz
+  - Klimawandel
+  - Notfällung
+  - Haftung
+  - Eigentumsstruktur
+  - Regionaljournal
 seo:
-  description: "SRF berichtet über Notfällungen im Baselbiet — und rahmt das Waldsterben als reine Klimafolge. Die Temperatur steigt, die Buchen sterben, die Förster…"
+  description: >-
+    SRF berichtet über Notfällungen im Baselbiet — und rahmt das Waldsterben als
+    reine Klimafolge. Die Temperatur steigt, die Buchen sterben, die Förster…
+themen:
+  - Waldsterben und Notfällung
+  - Medien-Framing des Klimawandels
+  - Waldgesetz und Eigentumsstrukturen
+  - Haftung und Finanzierung der Waldpflege
+  - Monokausale Ursachendarstellung
+kritisiertes_medium: SRF
+kritisierter_beitrag: Sonnenbrand bei Bäumen – wann braucht es die Notfällung?
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Kontextmangel
+personen:
+  - Niggi Bärtschi
+  - Reto Hänni
+institutionen:
+  - SRF
+  - Regionaljournal Basel Baselland
+  - Kanton Baselland
+gesetze_vorlagen:
+  - Waldgesetz
+these: >-
+  SRF rahmt das Waldsterben als reine Klimafolge und blendet aus, wie Gesetze,
+  Eigentumsstrukturen und Bewirtschaftungsvorgaben die Notfällungen
+  mitbestimmen.
+zusammenfassung: >-
+  Der 9min.ch-Artikel kritisiert den SRF-Beitrag über Notfällungen im Baselbiet
+  als monokausale Darstellung, die den Klimawandel als alleinige Ursache
+  präsentiert und rechtliche sowie ökonomische Rahmenbedingungen ignoriert.
+  Waldgesetz, Eigentumsstrukturen, Haftung, Finanzierung und der Konflikt um
+  Rodungen werden nicht analysiert. Dadurch bleibt unverständlich, warum
+  Notfällungen überhaupt umstritten sind und inwiefern regulatorische Vorgaben
+  präventive Pflege erschweren könnten.
+quelle_datum: '2026-06-30'
+quelle_format: Broadcast
+quelle_sendung: Regionaljournal Basel Baselland
+quelle_redaktion: Regionaljournal Basel Baselland
+kritik_schwere: 3
 ---
 
 *SRF berichtet über Notfällungen im Baselbiet — und rahmt das Waldsterben als reine Klimafolge. Die Temperatur steigt, die Buchen sterben, die Förster fällen. Welche Gesetze, welche Bewirtschaftungsvorgaben, welche Eigentumsverhältnisse die Handlungsspielräume der Förster bestimmen, kommt nicht vor. Der Wald existiert in diesem Beitrag als Natur, nicht als rechtliches und ökonomisches Objekt — und genau deshalb bleibt unerklärlich, warum Notfällungen überhaupt umstritten sind.*

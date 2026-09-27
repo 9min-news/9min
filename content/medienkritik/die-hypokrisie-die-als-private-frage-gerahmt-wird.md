@@ -1,14 +1,79 @@
 ---
-title: "Die Hypokrisie, die als private Frage gerahmt wird"
-date: "2026-07-19"
+title: 'Die Hypokrisie, die als private Frage gerahmt wird'
+date: '2026-07-19'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HNmOq1wXUAEqJFo.jpg"
-tweetId: "2078849113437925692"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HNmOq1wXUAEqJFo.jpg'
+tweetId: '2078849113437925692'
+categories:
+  - SRF/SRG
+  - Gesellschaft
+  - Demokratie
+tags:
+  - SRF
+  - Leihmutterschaft
+  - Jens Spahn
+  - CDU
+  - Heuchelei
+  - Framing
+  - Rücktritt
+  - Moral
 seo:
-  description: "SRF berichtet über die Nachfolge von Jens Spahn als Fraktionschef der Union — und rahmt die Leihmutterschaftsaffäre als Persönlichkeitsproblem, das gelöst…"
+  description: >-
+    SRF berichtet über die Nachfolge von Jens Spahn als Fraktionschef der Union
+    — und rahmt die Leihmutterschaftsaffäre als Persönlichkeitsproblem, das
+    gelöst…
+themen:
+  - Leihmutterschaftsaffäre Spahn
+  - CDU-Moral und Glaubwürdigkeit
+  - Medien-Framing als Managementstory
+  - Politiker-Hypokrisie
+  - Fehlende Schweizer Perspektive
+kritisiertes_medium: SRF News
+kritisierter_beitrag: Merz will ‹relativ bald› Vorschlag für neuen Fraktionschef machen
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Selektion
+personen:
+  - Jens Spahn
+  - Friedrich Merz
+  - Thorsten Frei
+  - Carsten Linnemann
+  - Alexander Dobrindt
+  - Günter Krings
+  - Nina Warken
+  - Daniel Peters
+  - Hoffmann
+institutionen:
+  - SRF
+  - CDU
+  - CSU
+  - Union
+  - Bundestag
+  - Deutsche Presse-Agentur
+  - SPD
+  - Grüne
+  - FDP
+gesetze_vorlagen: []
+these: >-
+  SRF rahmt Spahns Rücktritt als ausreichende Managementlösung und verschweigt
+  die Heuchelei eines Politikers, der öffentlich gegen Leihmutterschaft war und
+  sie privat nutzte.
+zusammenfassung: >-
+  Der Artikel kritisiert, dass SRF die Spahn-Leihmutterschaftsaffäre als
+  abgeschlossenes Personalproblem rahmt und die moralische Hypokrisie weder
+  benennt noch das widersprüchliche Spahn-Zitat von 2015 erwähnt. Zudem fehle
+  die Perspektive der Surrogatmutter, die Schweizer Dimension und kritische
+  Stimmen ausserhalb der CDU/CSU. Die Berichterstattung reduziere die Affäre auf
+  Nachfolgediskussionen und lasse die Substanzfrage nach der moralischen
+  Glaubwürdigkeit der CDU unbeantwortet.
+quelle_datum: '2026-07-18'
+quelle_format: Online-Artikel
+quelle_sendung: Tagesschau
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF berichtet über die Nachfolge von Jens Spahn als Fraktionschef der Union — und rahmt die Leihmutterschaftsaffäre als Persönlichkeitsproblem, das gelöst wurde. «Merz will relativ bald Vorschlag machen», lautet der Titel, und der Beitrag fokussiert sich auf die Namen der potenziellen Nachfolger. Was nicht vorkommt: die Frage, warum ein Politiker, der jahrelang gegen Leihmutterschaft war und sie für unvereinbar mit christlichen Werten erklärte, jetzt plötzlich davon profitiert — und zurücktritt, nicht weil er seine Meinung geändert hat, sondern weil er erwischt wurde. Was nicht vorkommt: die Frage, ob ein Mann, der die moralische Autorität einer Partei verletzt hat, die diese Autorität als Kern ihrer Identität nutzt, überhaupt einen Rücktritt verdient hat — oder ob er ausgepfiffen werden sollte. Was nicht vorkommt: die Frage, ob die CDU, die sich als Partei der christlichen Werte positioniert, ihre moralische Glaubwürdigkeit überhaupt noch hat, wenn ihr Fraktionschef privat macht, was er öffentlich verurteilt. Der Beitrag ist Personalberichterstattung ohne Moral — und die Moral ist die Substanz, die fehlt.*

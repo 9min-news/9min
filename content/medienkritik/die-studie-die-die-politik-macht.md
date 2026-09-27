@@ -1,14 +1,79 @@
 ---
-title: "Die Studie, die die Politik macht"
-date: "2026-06-29"
+title: 'Die Studie, die die Politik macht'
+date: '2026-06-29'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HL-cz91XkAANIqu.jpg"
-tweetId: "2071546183458144365"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HL-cz91XkAANIqu.jpg'
+tweetId: '2071546183458144365'
+categories:
+  - SRF/SRG
+  - Klima/Energie
+  - Wirtschaft
+tags:
+  - AKW
+  - ETH
+  - PSI
+  - Studie
+  - Wirtschaftlichkeit
+  - Winterstromlücke
+  - Wissenschaftsjournalismus
+  - Systemkosten
 seo:
-  description: "Dieser SRF-Beitrag über eine ETH/PSI-Studie zur Wirtschaftlichkeit neuer Atomkraftwerke ist ein Beispiel für Wissenschaftsberichterstattung, die sich als…"
+  description: >-
+    Dieser SRF-Beitrag über eine ETH/PSI-Studie zur Wirtschaftlichkeit neuer
+    Atomkraftwerke ist ein Beispiel für Wissenschaftsberichterstattung, die sich
+    als…
+themen:
+  - Wissenschaftsberichterstattung
+  - Atomenergiepolitik
+  - Wirtschaftlichkeit neuer AKW
+  - Systemkosten Energie
+  - Netto-Null-Strategie
+kritisiertes_medium: SRF News
+kritisierter_beitrag: 'Studie: Neue AKW lohnen sich nur mit staatlicher Unterstützung'
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Kontextmangel
+  - Selektion
+personen:
+  - Andreas Pautz
+institutionen:
+  - SRF
+  - ETH Zürich
+  - PSI
+  - Parlament
+  - Energiedepartement
+  - IEA
+  - MIT
+  - IAEA
+  - Energy Science Center ETH
+gesetze_vorlagen:
+  - AKW-Neubauverbot
+  - Art. 93 BV
+  - KEV-Förderung
+these: >-
+  Der SRF-Beitrag präsentiert eine politisch wirkungsvolle ETH/PSI-Studie als
+  neutrale Fakten, ohne deren strittige Modellannahmen, das politische Timing,
+  die institutionelle Ausrichtung der Autoren oder die Systemkosten der
+  Alternative zu hinterfragen, und lenkt damit die Debatte in eine Richtung,
+  ohne diese Lenkung zu markieren.
+zusammenfassung: >-
+  Der 9min.ch-Artikel analysiert einen SRF-Beitrag über eine ETH/PSI-Studie zur
+  Wirtschaftlichkeit neuer Atomkraftwerke, die elf Tage nach Aufhebung des
+  AKW-Neubauverbots durch das Parlament erschien. Er kritisiert, dass der
+  Beitrag die Studienzahlen korrekt wiedergibt, aber weder die Annahmen prüft
+  (europäische Baukosten als Massstab, ignorierte günstigere Kosten in
+  Südkorea/China), noch die Systemkosten der Alternative ohne AKW benennt, noch
+  die asymmetrische Argumentation bei staatlicher Unterstützung hinterfragt. Die
+  institutionelle Ausrichtung von ETH und PSI zugunsten erneuerbarer Energien
+  wird ebenso wenig reflektiert wie der Kapazitätsfaktor-Unterschied oder
+  internationale Vergleichsstudien.
+quelle_datum: '2026-06-29'
+quelle_format: Online-Artikel
+quelle_sendung: SRF 4 News
+quelle_redaktion: SRF News
+kritik_schwere: 2
 ---
 
 *Dieser SRF-Beitrag über eine ETH/PSI-Studie zur Wirtschaftlichkeit neuer Atomkraftwerke ist ein Beispiel für Wissenschaftsberichterstattung, die sich als neutral geriert, aber eine politische Wirkung erzeugt. Die Studie kommt zum Schluss: Neue AKW lohnen sich nur mit staatlicher Unterstützung, die Schweiz braucht sie für Netto-Null nicht, und bei europäischen Baukosten verschwinden sie aus dem kostenoptimalen Energiemix. Der Beitrag gibt das wieder — ohne die Annahmen der Studie zu prüfen, ohne die Systemkosten der Alternative zu benennen, ohne die Frage zu stellen, ob die ETH und das PSI die richtigen Institutionen für eine unparteiliche Analyse sind, und ohne zu thematisieren, dass die Studie exakt zum politisch heiklen Zeitpunkt erscheint, an dem das Parlament das AKW-Neubauverbot aufgehoben hat. Das Ergebnis ist ein Beitrag, der eine wissenschaftliche Studie als Fakten präsentiert, obwohl sie auf Modellannahmen beruht, die strittig sind — und der damit die Atomausstieg-Position stärkt, ohne sie als Position zu markieren.*

@@ -1,14 +1,74 @@
 ---
-title: "Die 10'000 Pfund und die Kosten, die SRF verschweigt"
-date: "2026-07-02"
+title: 'Die 10''000 Pfund und die Kosten, die SRF verschweigt'
+date: '2026-07-02'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMNp4cqXgAA3fut.jpg"
-tweetId: "2072616707286270293"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMNp4cqXgAA3fut.jpg'
+tweetId: '2072616707286270293'
+categories:
+  - SRF/SRG
+  - Migration
+tags:
+  - SRF
+  - Asylpolitik
+  - Grossbritannien
+  - Kostenerstattung
+  - Framing
+  - Auslassung
+  - Regierungskommunikation
+  - Asylkosten
 seo:
-  description: "Dieser SRF-Beitrag über die britische Asylpolitik-Verschärfung ist ein Lehrstück in politischer Stenografie: Eine Regierung kündigt eine Massnahme an, SRF…"
+  description: >-
+    Dieser SRF-Beitrag über die britische Asylpolitik-Verschärfung ist ein
+    Lehrstück in politischer Stenografie: Eine Regierung kündigt eine Massnahme
+    an, SRF…
+themen:
+  - Asylpolitik Grossbritannien
+  - Kostentransparenz im Asylwesen
+  - Regierungskommunikation als Journalismus
+  - Medienkritik
+kritisiertes_medium: SRF News
+kritisierter_beitrag: Grossbritannien verschärft Asylpolitik
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Kontextmangel
+personen:
+  - Shabana Mahmood
+  - Keir Starmer
+  - Chris Philp
+  - Madeleine Sumption
+  - Zoe Dexter
+institutionen:
+  - SRF
+  - SRF 4 News
+  - Reform UK
+  - Labour
+  - Tories
+  - University of Oxford
+  - Helen Bamber Foundation
+  - Britisches Parlament
+gesetze_vorlagen:
+  - Genfer Flüchtlingskonvention
+  - Europäische Menschenrechtskonvention
+these: >-
+  SRF meldet die britische Asylpolitik-Verschärfung als Regierungskommunikation,
+  ohne die zentrale Frage nach den tatsächlichen Asylkosten zu stellen, und
+  verfehlt damit den Kern der Story.
+zusammenfassung: >-
+  Der Artikel kritisiert, dass der SRF-Beitrag zur britischen
+  Asylpolitik-Verschärfung die Massnahme lediglich meldet, ohne die zentralen
+  Kostenfragen zu stellen. SRF übernehme das Framing der Regierung ungeprüft und
+  verschweige wesentliche Kontexte wie die tatsächlichen Asylkosten, das
+  Arbeitsverbots-Paradox, die Situation abgewiesener Asylsuchender und den
+  internationalen Vergleich. Der Beitrag sei damit Regierungskommunikation mit
+  SRF-Siegel statt unabhängiger Journalismus.
+quelle_datum: '2026-07-01'
+quelle_format: Online-Artikel
+quelle_sendung: SRF 4 News
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *Dieser SRF-Beitrag über die britische Asylpolitik-Verschärfung ist ein Lehrstück in politischer Stenografie: Eine Regierung kündigt eine Massnahme an, SRF notiert sie — ohne die zentrale Frage zu stellen: Wie viel kostet ein Asylverfahren in Grossbritannien tatsächlich, und welchen Bruchteil decken 10'000 Pfund? Die Antwort lautet: einen winzigen. Die britischen Asylkosten pro Person liegen bei zigtausend Pfund — 10'000 Pfund sind ein Tropfen auf den heissen Stein. Das heisst: Die Massnahme ist keine Kostenrückgewinnung, sie ist eine symbolische Strafsteuer auf Asyl. Aber SRF stellt diese Frage nicht — und damit verfehlt der Beitrag den Kern der Story. Schlimmer noch: SRF übernimmt das Framing «nur 10 Prozent sind Asylsuchende» — als ob Asylsuchende nicht disproportional kostspielig wären. Und SRF verschweigt, was jeder weiss: dass abgewiesene Asylsuchende Grossbritannien nicht verlassen — genau wie in der Schweiz.*

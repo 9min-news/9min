@@ -1,14 +1,74 @@
 ---
-title: "Die Verschmelzung, die niemand hinterfragt"
-date: "2026-08-03"
+title: 'Die Verschmelzung, die niemand hinterfragt'
+date: '2026-08-03'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HO0SL4xXkAAV_zf.jpg"
-tweetId: "2084342569807298809"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HO0SL4xXkAAV_zf.jpg'
+tweetId: '2084342569807298809'
+categories:
+  - SRF/SRG
+  - EU/Aussenpolitik
+  - Sicherheitspolitik
+tags:
+  - Framing
+  - Ein-Quellen-Journalismus
+  - Eskalationsnarrativ
+  - Sanktionen
+  - Rüstungsprofiteure
+  - Verschmelzungsthese
+  - Monolog
+  - Schweizer Milliarden
 seo:
-  description: "SRF erklärt, warum sich der Ukraine- und der Irankrieg zunehmend verknüpfen — und rahmt die Entwicklung als naturgesetzliche Eskalation. Immer mehr…"
+  description: >-
+    SRF erklärt, warum sich der Ukraine- und der Irankrieg zunehmend verknüpfen
+    — und rahmt die Entwicklung als naturgesetzliche Eskalation. Immer mehr…
+themen:
+  - Kriegsberichterstattung Ukraine/Iran
+  - Eskalationsnarrativ
+  - Rüstungsindustrie als Profiteur
+  - Sanktionen als Kriegsursache
+  - Schweizer Vermittlerrolle
+kritisiertes_medium: SRF News
+kritisierter_beitrag: Drohen der Ukraine- und der Irankrieg zu verschmelzen?
+kritisierter_autor: Fredy Gsteiger
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Selektion
+personen:
+  - Fredy Gsteiger
+  - Donald Trump
+institutionen:
+  - SRF
+  - USA
+  - Russland
+  - Iran
+  - China
+  - Nordkorea
+  - Schweiz
+  - Lockheed Martin
+  - Raytheon
+  - Rheinmetall
+  - BAE Systems
+gesetze_vorlagen: []
+these: >-
+  SRF rahmt die Verschmelzung von Ukraine- und Irankrieg als naturgesetzliche
+  Eskalation, ohne westliche Sanktionen als Ursache, Rüstungsprofiteure,
+  Diplomatiegeschichte und Schweizer Milliarden zu thematisieren, und nutzt
+  dabei nur den eigenen Korrespondenten als einzige Quelle.
+zusammenfassung: >-
+  Der Artikel kritisiert einen SRF-Beitrag in der «Echo der Zeit», in dem
+  diplomatischer Korrespondent Fredy Gsteiger die Verschmelzung von Ukraine- und
+  Irankrieg diagnostiziert, ohne Ursachen (westliche Sanktionen), Profiteure
+  (Rüstungsindustrie), historische Diplomatieversuche, Schweizer Zahlungen und
+  Gegenstimmen zu thematisieren. Die Analyse wird als einseitiger Monolog ohne
+  unabhängige Quellen geführt. Die Schweizer Milliarden und die eigene
+  Vermittlerrolle der Schweiz werden vollständig ausgeblendet.
+quelle_datum: '2026-08-03'
+quelle_format: Broadcast
+quelle_sendung: Echo der Zeit
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF erklärt, warum sich der Ukraine- und der Irankrieg zunehmend verknüpfen — und rahmt die Entwicklung als naturgesetzliche Eskalation. Immer mehr Akteure, immer mehr Länder, immer mehr Krieg. Was nicht vorkommt: die Frage, ob die Verknüpfung ein Resultat westlicher Politik ist. Was nicht vorkommt: die Frage, wer von der Eskalation profitiert. Was nicht vorkommt: die Schweizer Milliarden, die in einen der beiden Kriege fliessen. Was nicht vorkommt: eine einzige Gegenstimme. Der Beitrag ist ein Monolog eines Korrespondenten, der als Analyse deklariert wird.*

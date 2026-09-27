@@ -1,14 +1,68 @@
 ---
-title: "Der Moralprediger, der als Autorität gerahmt wird"
-date: "2026-07-19"
+title: 'Der Moralprediger, der als Autorität gerahmt wird'
+date: '2026-07-19'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HNmS8PwXMAAvYfO.jpg"
-tweetId: "2078854287573364937"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HNmS8PwXMAAvYfO.jpg'
+tweetId: '2078854287573364937'
+categories:
+  - SRF/SRG
+  - Gesellschaft
+  - Demokratie
+tags:
+  - SRF
+  - Alain Berset
+  - Europarat
+  - FIFA
+  - Framing
+  - Covid-Bilanz
+  - Autoritätenberichterstattung
+  - Glücksspielpolitik
 seo:
-  description: SRF berichtet über Alain Bersets Kritik an der FIFA — und rahmt den Europarat-Generalsekretär als moralische Instanz. «Scharfe Kritik von Alain Berset an…
+  description: >-
+    SRF berichtet über Alain Bersets Kritik an der FIFA — und rahmt den
+    Europarat-Generalsekretär als moralische Instanz. «Scharfe Kritik von Alain
+    Berset an…
+themen:
+  - SRF-Framing von Alain Berset als moralische Instanz
+  - Verschweigen der Covid-Bilanz
+  - Europarat als unhinterfragte Autorität
+  - Schweizer Glücksspielpolitik als Kontext
+  - Einseitige Quellenwahl bei SRF
+kritisiertes_medium: SRF News
+kritisierter_beitrag: Scharfe Kritik von Alain Berset an der Fifa – Reform gefordert
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Selektion
+personen:
+  - Alain Berset
+institutionen:
+  - SRF
+  - Europarat
+  - FIFA
+  - Bundesrat
+  - Swisslos
+gesetze_vorlagen:
+  - Covid-Massnahmen
+  - Legalierung Online-Glücksspiel 2019
+these: >-
+  SRF rahmt Alain Berset als moralische Autorität in der FIFA-Kritik, ohne seine
+  Covid-Bilanz, die Schweizer Glücksspielpolitik oder Kritikerstimmen zu
+  erwähnen.
+zusammenfassung: >-
+  9min.ch kritisiert einen SRF-Beitrag, der Alain Berset als Generalsekretär des
+  Europarats und moralische Instanz präsentiert, der der FIFA Integrität und
+  Regeltreue vorwirft. Der Beitrag verschweige Bersets Covid-Bilanz als
+  Innenminister, die Schweizer Glücksspielpolitik ab 2019, die Rolle des
+  Europarats während Covid sowie jegliche Gegenstimmen. SRF betreibe damit
+  Autoritätenberichterstattung ohne Kontext.
+quelle_datum: '2026-07-19'
+quelle_format: Online-Artikel
+quelle_sendung: SRF 4 News
+quelle_redaktion: SRF News International
+kritik_schwere: 3
 ---
 
 *SRF berichtet über Alain Bersets Kritik an der FIFA — und rahmt den Europarat-Generalsekretär als moralische Instanz. «Scharfe Kritik von Alain Berset an der Fifa», lautet der Titel, und der alt Bundesrat wird als Mann präsentiert, der für Integrität, Regeln und Glaubwürdigkeit steht. Was nicht vorkommt: Bersets eigene Bilanz. Was nicht vorkommt: die Covid-Politik, die er als Innenminister verantwortete — Lockdowns, Zertifikatspflicht, Impfdruck, Grundrechtseinschränkungen, die der Bundesrat unter seiner Führung verhängte und die später teilweise gerichtlich korrigiert wurden. Was nicht vorkommt: die Frage, ob ein Politiker, der während einer Krise die Regeln bog, die Grundrechte einschränkte und die Wissenschaft selektiv instrumentalisierte, die moralische Autorität hat, der FIFA «Integrität» vorzuschreiben. Was nicht vorkommt: die Erkenntnis, dass der Fussball nur ein Symptom ist — und dass das eigentliche Problem der Prinzipienverlust in der Politik ist, dessen perfektes Beispiel Berset selbst ist. Der Beitrag ist Autoritätenberichterstattung ohne Kontext — und der Kontext ist die Covid-Bilanz, die SRF verschweigt.*

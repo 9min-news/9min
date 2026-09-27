@@ -1,14 +1,67 @@
 ---
-title: "Die Loyalität, die als Einbahnstrasse gerahmt wird"
-date: "2026-08-05"
+title: 'Die Loyalität, die als Einbahnstrasse gerahmt wird'
+date: '2026-08-05'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HO8B7HjXkAA_Ukn.jpg"
-tweetId: "2084886704817603020"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HO8B7HjXkAA_Ukn.jpg'
+tweetId: '2084886704817603020'
+categories:
+  - SRF/SRG
+  - EU/Aussenpolitik
+  - Demokratie
+tags:
+  - SRF
+  - Echo der Zeit
+  - Trump
+  - Jeanine Pirro
+  - Reflecting Pool
+  - Framing
+  - Auslassung
+  - Innenministerium
 seo:
-  description: "SRF erzählt die Saga um den «Reflecting Pool» und rahmt sie als Komödie über Trumps Narzissmus. Ein blauer Pool, Algen, eine loyale Staatsanwältin, die…"
+  description: >-
+    SRF erzählt die Saga um den «Reflecting Pool» und rahmt sie als Komödie über
+    Trumps Narzissmus. Ein blauer Pool, Algen, eine loyale Staatsanwältin, die…
+themen:
+  - Medienframing
+  - US-Justiz
+  - Regierungsversagen
+  - Trump-Politik
+  - Institutioneller Konflikt
+kritisiertes_medium: SRF
+kritisierter_beitrag: Loyale Staatsanwältin fällt wegen Pool-Debakel in Trumps Ungnade
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Kontextmangel
+personen:
+  - Trump
+  - Jeanine Pirro
+institutionen:
+  - SRF
+  - Department of the Interior
+  - US Park Police
+  - Weißes Haus
+  - Fox News
+gesetze_vorlagen: []
+these: >-
+  SRF rahmt eine institutionelle Krise als Trump-Satire und verschweigt die
+  zentralen Akteure — Innenministerium, Bundesrichter, Auftragnehmer — die den
+  Fall eigentlich bestimmen.
+zusammenfassung: >-
+  Der Artikel kritisiert den SRF-Beitrag über das Reflecting-Pool-Debakel als
+  Trump-Satire, die wesentliche institutionelle Fakten auslässt: Pirros
+  Beschuldigung des Innenministeriums der Beweisrückhaltung, den Druck eines
+  Bundesrichters, den verantwortlichen Auftragnehmer Atlantic Industrial
+  Coatings und Trumps Entscheidung, Pirro nicht zu entlassen. SRF reduziere eine
+  komplexe Justizgeschichte auf ein Loyalitäts-Narrativ ohne institutionelle
+  Tiefe.
+quelle_datum: '2026-08-04'
+quelle_format: Broadcast
+quelle_sendung: Echo der Zeit
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF erzählt die Saga um den «Reflecting Pool» und rahmt sie als Komödie über Trumps Narzissmus. Ein blauer Pool, Algen, eine loyale Staatsanwältin, die versagt. Was nicht vorkommt: Pirros Begründung, das Innenministerium habe Beweise zurückgehalten. Was nicht vorkommt: der Bundesrichter, der Druck ausübte. Was nicht vorkommt: der Auftragnehmer, der die Renovation verpfuschte. Was nicht vorkommt: dass Trump Pirro nicht feuerte. Der Beitrag ist eine Trump-Satire, die die institutionelle Dimension verschweigt.*

@@ -1,14 +1,68 @@
 ---
 title: Die Dragqueen als Aussenpolitik
-date: "2026-06-28"
+date: '2026-06-28'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HL6UnHbWsAEUCFY.jpg"
-tweetId: "2071256319919559089"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HL6UnHbWsAEUCFY.jpg'
+tweetId: '2071256319919559089'
+categories:
+  - SRF/SRG
+  - EU/Aussenpolitik
+  - Gesellschaft
+tags:
+  - Dragqueen
+  - China
+  - Repression
+  - SRF
+  - Echo der Zeit
+  - Pride Month
+  - Community-Konstruktion
+  - Auftragskritik
 seo:
-  description: Dieser SRF-Beitrag über eine Schweizer Dragqueen auf China-Tour ist ein Grenzfall des öffentlich-rechtlichen Auftrags — und das nicht nur wegen des…
+  description: >-
+    Dieser SRF-Beitrag über eine Schweizer Dragqueen auf China-Tour ist ein
+    Grenzfall des öffentlich-rechtlichen Auftrags — und das nicht nur wegen des…
+themen:
+  - SRF-Auftragsrelevanz
+  - LGBTQ-Berichterstattung über China
+  - Pride-Month-Kalenderlogik
+  - Community-Konstruktion in Medien
+  - Schweizer Aussenpolitik gegenüber China
+kritisiertes_medium: SRF News
+kritisierter_beitrag: Schweizer Dragqueen trifft auf chinesische Repression
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Einordnungsfehler
+personen:
+  - Daniel Hellmann
+institutionen:
+  - SRF
+  - Echo der Zeit
+  - SRF News
+  - Stadt Zürich
+  - chinesische Regierung
+gesetze_vorlagen:
+  - Art. 93 BV
+these: >-
+  Der SRF-Beitrag macht aus einer marginalen persönlichen Tournee-Anekdote eine
+  politische Repressionsreportage, konstruiert eine homogene "queere Community",
+  die real nicht existiert, und überschreitet dabei die Grenzen des
+  öffentlich-rechtlichen Auftrags.
+zusammenfassung: >-
+  9min.ch kritisiert einen Echo-der-Zeit-Beitrag des SRF über eine Schweizer
+  Dragqueen auf China-Tournee als Grenzfall des öffentlich-rechtlichen Auftrags.
+  Der Beitrag konstruiere aus einer persönlichen Anekdote eine politische
+  Reportage über chinesische Repression, ohne empirische Skalierung, ohne
+  historische Einordnung und ohne die Schweizer Aussenpolitik-Perspektive. Zudem
+  werde eine heterogene Gruppe von Individuen zu einer fingierten "Community"
+  zusammengefasst, die Opfernarrative bedient.
+quelle_datum: '2026-06-23'
+quelle_format: Broadcast
+quelle_sendung: Echo der Zeit
+quelle_redaktion: SRF News
+kritik_schwere: 2
 ---
 
 *Dieser SRF-Beitrag über eine Schweizer Dragqueen auf China-Tour ist ein Grenzfall des öffentlich-rechtlichen Auftrags — und das nicht nur wegen des Framing. Das Thema selbst ist marginal: Eine Schweizer Künstlerin tourt durch China, kassiert Absagen, findet Ersatzlokale, tritt schliesslich auf. Das ist eine persönliche Experience-Story, kein politischer Befund. Dass aus dieser Anekdote eine Reportage über «chinesische Repression» gemacht wird, ist eine Redaktionsentscheidung, die mehr über den Schweizer Feiertagskalender verrät als über die Lage in China. Und die «queere Community», die hier bemüht wird, existiert als einheitliche Grösse gar nicht — es ist ein heterogenes Konglomerat von Individuen mit unterschiedlichen Interessen, Lebensentwürfen und politischen Positionen, das von SRF zu einer kollektiven Opfernarrative zusammengefasst wird, weil das besser ins Bild passt.*

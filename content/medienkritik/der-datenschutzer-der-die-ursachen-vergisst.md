@@ -1,14 +1,72 @@
 ---
-title: "Der Datenschützer, der die Ursachen vergisst"
-date: "2026-07-05"
+title: 'Der Datenschützer, der die Ursachen vergisst'
+date: '2026-07-05'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMeN_gKXwAA8YYv.jpg"
-tweetId: "2073782345509818465"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMeN_gKXwAA8YYv.jpg'
+tweetId: '2073782345509818465'
+categories:
+  - SRF/SRG
+  - Demokratie
+  - Gesellschaft
+tags:
+  - Datenschutz
+  - Überwachung
+  - EDÖB
+  - Öffentlichkeitsprinzip
+  - Bestätigungsinterview
+  - Framing
+  - BÜPF
+  - Gesetzeskontext
 seo:
-  description: "SRF führt den EDÖB Adrian Lobsiger durch ein Interview, das Datenschutz als individuelles Anliegen und technisches Problem rahmt — nicht als…"
+  description: >-
+    SRF führt den EDÖB Adrian Lobsiger durch ein Interview, das Datenschutz als
+    individuelles Anliegen und technisches Problem rahmt — nicht als…
+themen:
+  - Datenschutz
+  - Überwachungsgesetze
+  - Öffentlichkeitsprinzip
+  - Behördenkontrolle
+  - KI-Regulierung
+kritisiertes_medium: SRF News
+kritisierter_beitrag: Oberster Datenschützer über KI
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Behördenpropaganda
+personen:
+  - Adrian Lobsiger
+  - Karin Keller-Sutter
+institutionen:
+  - SRF
+  - EDÖB
+  - Bund
+  - Bundesrat
+  - Meta
+  - Nachrichtendienst
+gesetze_vorlagen:
+  - Nachrichtendienstgesetz
+  - BÜPF
+  - Bundesgesetz über die polizeiliche Zusammenarbeit
+  - revDSG
+these: >-
+  SRF rahmt das EDÖB-Interview als individuelles und technisches Problem,
+  während die strukturellen Ursachen — Überwachungsgesetze und der Staat als
+  grösster Datensammler — unerwähnt bleiben.
+zusammenfassung: >-
+  9min analysiert das SRF-Tagesgespräch mit EDÖB Lobsiger als
+  Bestätigungsinterview, das Datenschutz als Bürgerbewusstseins- und
+  Technologieproblem rahmt. Die Verdopplung der Meldungen werde Lobsigers Lesart
+  folgend als «Verlangen der Bevölkerung» gedeutet, während gesetzliche Ursachen
+  (BÜPF, NDG, revDSG) und staatliche Datensammlung systematisch ausgespart
+  bleiben. SRF frage nicht nach konkreten Gesetzen, Ausnahmen oder Mustern der
+  Geheimhaltung und lasse den Amtsträger ungeprüft klagen.
+quelle_datum: '2026-06-30'
+quelle_format: Broadcast
+quelle_sendung: Tagesgespräch
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF führt den EDÖB Adrian Lobsiger durch ein Interview, das Datenschutz als individuelles Anliegen und technisches Problem rahmt — nicht als strukturelles. Die Verdopplung der Meldungen wird als «Verlangen der Bevölkerung» gedeutet, KI als Meta-Brille, Regierungsgeheimnis als Einzelfall. Dass der Bund in den letzten Jahren ein Gesetz nach dem anderen verabschiedet hat, das Datenerhebung ausweitet und Privatsphäre belastet, kommt nicht vor. Der Beitrag ist ein Bestätigungsinterview — der Amtsträger darf klagen, ohne dass der Interviewer nach den Ursachen fragt.*

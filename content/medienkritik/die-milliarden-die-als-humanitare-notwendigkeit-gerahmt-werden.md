@@ -1,14 +1,69 @@
 ---
-title: "Die Milliarden, die als humanitäre Notwendigkeit gerahmt werden"
-date: "2026-08-05"
+title: 'Die Milliarden, die als humanitäre Notwendigkeit gerahmt werden'
+date: '2026-08-05'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HO8ENgVW8AAXOkz.jpg"
-tweetId: "2084889935140491418"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HO8ENgVW8AAXOkz.jpg'
+tweetId: '2084889935140491418'
+categories:
+  - SRF/SRG
+  - EU/Aussenpolitik
+  - Demokratie
+tags:
+  - Pay-for-Slay
+  - Palästinensische Autonomiebehörde
+  - EU-Hilfe
+  - Terrorfinanzierung
+  - Hamas
+  - Zwei-Staaten-Lösung
+  - Mahmoud Abbas
+  - Echo der Zeit
 seo:
-  description: "SRF erklärt, warum die EU Milliarden an die Palästinensische Autonomiebehörde zahlt, und rahmt die Zahlungen als humanitäre Pflicht. Ohne das Geld wäre…"
+  description: >-
+    SRF erklärt, warum die EU Milliarden an die Palästinensische
+    Autonomiebehörde zahlt, und rahmt die Zahlungen als humanitäre Pflicht. Ohne
+    das Geld wäre…
+themen:
+  - EU-Zahlungen an Palästinensische Autonomiebehörde
+  - Terrorfinanzierung (Pay-for-Slay)
+  - Demokratie/Legitimation der PA
+  - Korruption in der PA
+  - Schweizer Entwicklungshilfe
+kritisiertes_medium: SRF
+kritisierter_beitrag: 'Palästina: Warum die EU Milliarden bezahlt'
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Kontextmangel
+personen:
+  - Mahmoud Abbas
+institutionen:
+  - SRF
+  - EU
+  - EU-Kommission
+  - Palästinensische Autonomiebehörde
+  - Hamas
+  - Israel
+gesetze_vorlagen: []
+these: >-
+  Der SRF-Beitrag rahmt EU-Milliardenzahlungen an die Palästinensische
+  Autonomiebehörde als humanitäre Notwendigkeit und verschweigt systematisch die
+  Terrorfinanzierung, fehlende demokratische Legitimation, Korruption und den
+  Hamas-Kontext.
+zusammenfassung: >-
+  Der Artikel kritisiert den SRF-Beitrag in der Sendung Echo der Zeit, der
+  EU-Zahlungen von 1,6 Milliarden Euro an die Palästinensische Autonomiebehörde
+  als humanitäre Pflicht darstelle. SRF stelle die dokumentierte
+  Terrorfinanzierung (Pay-for-Slay) als israelische Behauptung dar, erwähne
+  nicht, dass die PA seit 2006 nicht gewählt wurde, untersuche die Korruption
+  nicht, lasse die Hamas als Faktor fehlen und verschweige Schweizer Zahlungen.
+  Der Beitrag sei eine Erklärung ohne Systemanalyse.
+quelle_datum: '2026-08-05'
+quelle_format: Broadcast
+quelle_sendung: Echo der Zeit
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF erklärt, warum die EU Milliarden an die Palästinensische Autonomiebehörde zahlt, und rahmt die Zahlungen als humanitäre Pflicht. Ohne das Geld wäre die Behörde bankrott. Was nicht vorkommt: die Frage, ob die EU eine korrupte Behörde finanziert, die Terroristen Gehälter zahlt. Was nicht vorkommt: die fehlende demokratische Legitimation der Autonomiebehörde. Was nicht vorkommt: die Schweizer Zahlungen, und die Frage, was mit den Milliarden passiert, wenn die Behörde kollabiert. Der Beitrag ist eine Erklärung, die das System hinter den Zahlungen verschweigt.*

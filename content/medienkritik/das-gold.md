@@ -1,14 +1,77 @@
 ---
 title: Das Gold
-date: "2026-05-10"
+date: '2026-05-10'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HH9HvICXIAMoBLM.jpg"
-tweetId: "2053440980263583928"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HH9HvICXIAMoBLM.jpg'
+tweetId: '2053440980263583928'
+categories:
+  - SNB/Geldpolitik
+  - Demokratie
+  - EU/Aussenpolitik
+tags:
+  - Goldverkauf
+  - SNB
+  - Souveränität
+  - Bundesverfassung
+  - Washingtoner Abkommen
+  - Goldinitiative
+  - Währungsreserve
+  - Zentralbankbilanz
 seo:
-  description: "Der erste Zacken entfernt Am 18. April 1999 stimmte das Schweizer Volk einer neuen Bundesverfassung zu. Es war eine Totalrevision, die erste seit 1874.…"
+  description: >-
+    Der erste Zacken entfernt Am 18. April 1999 stimmte das Schweizer Volk einer
+    neuen Bundesverfassung zu. Es war eine Totalrevision, die erste seit 1874.…
+themen:
+  - Schweizer Goldpolitik
+  - SNB-Goldverkauf 2000-2008
+  - Währungsidentität und Souveränität
+  - Goldinitiative 2014
+  - Zentralbankbilanz und Fremdwährungsabhängigkeit
+kritisiertes_medium: SNB
+kritisierter_beitrag: ''
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Behördenpropaganda
+personen:
+  - Lawrence Summers
+  - Alan Greenspan
+institutionen:
+  - Schweizerische Nationalbank
+  - Bundesrat
+  - Schweizerische Volkspartei
+  - Bank of England
+  - Internationaler Währungsfonds
+  - Federal Reserve
+  - EU
+  - SEC
+gesetze_vorlagen:
+  - Bundesverfassung 1999
+  - Nationalbankgesetz
+  - Washingtoner Goldabkommen
+  - Volksinitiative «Rettet unser Schweizer Gold»
+  - EU-Sanktionen gegen Russland 2022
+these: >-
+  Die Schweiz hat durch den koordinierten Goldverkauf 2000-2008 und die
+  Ablehnung der Gold-Initiative 2014 ihre währungspolitische Souveränität
+  strukturell eingebüsst und sich in eine Abhängigkeit vom papierbasierten
+  internationalen Finanzsystem manövriert, aus der eine Rückkehr zum Gold
+  praktisch unmöglich geworden ist.
+zusammenfassung: >-
+  Der Artikel rekonstruiert, wie die Goldbindung des Frankens 1999 in einer
+  Verfassungstotalrevision versteckt gestrichen wurde, worauf die SNB 1.550
+  Tonnen Gold für rund 27 Milliarden Franken verkaufte — heute ein Wert jenseits
+  von 230 Milliarden. Er kritisiert, dass die Souveränitätsimplikationen nie
+  öffentlich debattiert wurden, die Goldinitiative 2014 als technische statt als
+  Souveränitätsfrage gerahmt wurde und die SNB heute zur Gefangenen ihrer
+  eigenen, auf Fremdwährungsanlagen basierenden Bilanzstruktur geworden sei.
+quelle_datum: ''
+quelle_format: ''
+quelle_sendung: ''
+quelle_redaktion: ''
+kritik_schwere: 3
 ---
 
 ## Der erste Zacken entfernt

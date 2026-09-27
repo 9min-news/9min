@@ -1,14 +1,65 @@
 ---
-title: "Der Knirpsschirm, der den importierten Krieg verdeckt"
-date: "2026-08-07"
+title: 'Der Knirpsschirm, der den importierten Krieg verdeckt'
+date: '2026-08-07'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HPIJ8-FWAAA59Uz.jpg"
-tweetId: "2085740724247499064"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HPIJ8-FWAAA59Uz.jpg'
+tweetId: '2085740724247499064'
+categories:
+  - SRF/SRG
+  - Migration
+  - Gesellschaft
+tags:
+  - SRF
+  - Basel
+  - Kinderfest
+  - Kurdisch-türkischer Konflikt
+  - Framing
+  - Landesverweis
+  - Gerichtsstenografie
+  - Gewaltverharmlosung
 seo:
-  description: SRF berichtet über die Verurteilung von elf Männern wegen des Angriffs auf ein türkisches Kinderfest in Basel und rahmt das Ereignis als…
+  description: >-
+    SRF berichtet über die Verurteilung von elf Männern wegen des Angriffs auf
+    ein türkisches Kinderfest in Basel und rahmt das Ereignis als…
+themen:
+  - Gerichtsberichterstattung
+  - Importierte Konflikte
+  - Landesverweis
+  - Strafzumessung
+  - Medien-Framing
+kritisiertes_medium: SRF
+kritisierter_beitrag: 'Gewalt am türkischen Kinderfest in Basel: Elf Männer verurteilt'
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - False Equivalence
+personen: []
+institutionen:
+  - SRF
+  - Strafgericht Basel-Stadt
+  - Regionaljournal Basel Baselland
+gesetze_vorlagen: []
+these: >-
+  SRF rahmt einen Mobangriff auf ein türkisches Kinderfest als bilateralen
+  kurdisch-türkischen Konflikt, verharmlost die Gewalt, ignoriert die
+  Opferperspektive und stellt keine kritischen Fragen zu Landesverweis,
+  Strafzumessung und importierten Konflikten.
+zusammenfassung: >-
+  Der Artikel kritisiert die SRF-Berichterstattung über die Verurteilung von elf
+  Männern nach einem Angriff auf ein türkisches Kinderfest in Basel. SRF
+  übernehme unkritisch das Framing des Gerichts als 'kurdisch-türkischer
+  Konflikt', verharmlose die Gewalt als 'Ausschreitungen', konstruiere eine
+  moralische Äquivalenz zwischen Angreifern und Festbesuchern und klammere
+  zentrale Fragen zu Landesverweis, Strafzumessung und Opferperspektive aus. Die
+  Berichterstattung funktioniere als Gerichtsstenografie, die den importierten
+  Krieg als lokales Randereignis verkleide.
+quelle_datum: '2026-08-07'
+quelle_format: Broadcast
+quelle_sendung: Regionaljournal Basel Baselland
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF berichtet über die Verurteilung von elf Männern wegen des Angriffs auf ein türkisches Kinderfest in Basel und rahmt das Ereignis als «kurdisch-türkischen Konflikt». Ein Knirpsschirm, ein Fussballtritt gegen den Kopf, bedingte Freiheitsstrafen, kein Landesverweis. Der Beitrag referiert den Richterspruch, ohne zu fragen, warum ausländische Konflikte auf Schweizer Strassen ausgetragen werden, warum elf gewalttätige Männer in der Schweiz bleiben und ob bedingte Strafen für einen Mob, der ein Kinderfest angreift, angemessen sind. Er ist eine Gerichtsstenografie, die einen importierten Krieg als lokales Randereignis verkleidet.*

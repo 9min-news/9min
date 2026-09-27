@@ -1,14 +1,75 @@
 ---
-title: "Die Schlappe, die keine ist"
-date: "2026-06-29"
+title: 'Die Schlappe, die keine ist'
+date: '2026-06-29'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HL_yyZ6XMAAUeBI.jpg"
-tweetId: "2071641648644411619"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HL_yyZ6XMAAUeBI.jpg'
+tweetId: '2071641648644411619'
+categories:
+  - SRF/SRG
+  - Demokratie
+tags:
+  - Supreme Court
+  - Trump
+  - FTC-Entscheid
+  - Humphrey-Doktrin
+  - Framing
+  - Verfassungsrecht
+  - Gewaltenteilung
+  - Unabhängige Bundesbehörden
 seo:
-  description: "Dieser SRF-Beitrag über mehrere Supreme-Court-Entscheide im Verhältnis zu Trump ist ein Lehrstück in politischem Framing: Drei Niederlagen werden in den…"
+  description: >-
+    Dieser SRF-Beitrag über mehrere Supreme-Court-Entscheide im Verhältnis zu
+    Trump ist ein Lehrstück in politischem Framing: Drei Niederlagen werden in
+    den…
+themen:
+  - Supreme-Court-Berichterstattung
+  - Verfassungsrechtliche Analyse
+  - Politisches Framing
+  - Gerichtsjournalismus
+  - Gewaltenteilung in den USA
+kritisiertes_medium: SRF News
+kritisierter_beitrag: Mehrere Schlappen für Trump vor dem Supreme Court
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Kontextmangel
+personen:
+  - Trump
+  - Lisa Cook
+  - Roberts
+institutionen:
+  - SRF News
+  - Supreme Court
+  - FTC
+  - Fed
+  - SEC
+  - CFTC
+  - NLRB
+  - FCC
+  - Consumer Financial Protection Bureau
+gesetze_vorlagen:
+  - Humphrey's Executor v. United States (1935)
+  - Art. 93 BV
+these: >-
+  SRF rahmt vier Supreme-Court-Entscheide als Trump-Niederlagen, obwohl der
+  strukturell wichtigste Entscheid (FTC) ein verfassungspolitischer Erdrutsch zu
+  Trumps Gunsten ist und in einer Box versteckt wird.
+zusammenfassung: >-
+  Der SRF-Beitrag hebt drei Niederlagen Trumps im Titel und Lead hervor,
+  versteckt aber den konsequenzellsten FTC-Entscheid, der die 90-jährige
+  Humphrey-Doktrin kippt und die präsidentielle Entlassungsmacht über
+  unabhängige Bundesbehörden massiv ausweitet, in einer Box am Ende. Wesentliche
+  Analysen zum rechtlichen Zusammenhang zwischen Cook- und FTC-Entscheid, zu
+  Dissens-Meinungen, zu Konsequenzen für andere Behörden sowie Gegenstimmen
+  fehlen vollständig. Cooks politische Behauptung zur Motivation ihrer
+  Entlassung wird ungeprüft zitiert.
+quelle_datum: '2026-06-29'
+quelle_format: Online-Artikel
+quelle_sendung: ''
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *Dieser SRF-Beitrag über mehrere Supreme-Court-Entscheide im Verhältnis zu Trump ist ein Lehrstück in politischem Framing: Drei Niederlagen werden in den Titel und den Lead gehoben, der eine Sieg — der strukturell wichtigste und konsequenzellste aller vier Entscheide — wird in einer Box am Ende des Beitrags versteckt. Das ist kein Zufall, sondern eine redaktionelle Entscheidung: «Schlappen für Trump» ist die Story, die SRF erzählen will. Die Story, die tatsächlich passiert ist, ist eine andere: Der Supreme Court hat die Befugnisse des Präsidenten über unabhängige Bundesbehörden massiv ausgeweitet — ein Urteil, das die amerikanische Verfassungsordnung strukturell verändert und das Verhältnis zwischen Exekutive und unabhängigen Institutionen neu definiert. Aber das steht im Box-Format am Ende, als Fussnote zu einer Story, die eigentlich von Trumps Niederlagen handelt. Wer den Beitrag liest, weiss, dass Trump dreimal verloren hat. Wer wissen will, was er gewonnen hat und was das bedeutet, muss bis zur letzten Box durchhalten — und bekommt dort keine Analyse, sondern einen knappen Faktenabriss.*

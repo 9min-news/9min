@@ -1,14 +1,82 @@
 ---
-title: "Das 3x3 der CH – Teil I: Die Schweiz, die sie uns wünschen"
-date: "2026-06-25"
+title: "Das 3x3 der CH –\_Teil I: Die Schweiz, die sie uns wünschen"
+date: '2026-06-25'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HLpAeo-W4AA0zZp.jpg"
-tweetId: "2070074573253398921"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HLpAeo-W4AA0zZp.jpg'
+tweetId: '2070074573253398921'
+categories:
+  - EU/Aussenpolitik
+  - Sicherheitspolitik
+  - Wirtschaft
+tags:
+  - Calmy-Rey
+  - Widmer-Schlumpf
+  - Amherd
+  - Neutralität
+  - Bankgeheimnis
+  - Goldinitiative
+  - EU-Sanktionen
+  - Souveränität
 seo:
-  description: "Drei Bundesrätinnen. Drei Pfeiler. Drei Trümmerfelder. 2014 veröffentlichte Micheline Calmy-Rey ein Buch: «Die Schweiz, die ich uns wünsche.» Nicht die…"
+  description: >-
+    Drei Bundesrätinnen. Drei Pfeiler. Drei Trümmerfelder. 2014 veröffentlichte
+    Micheline Calmy-Rey ein Buch: «Die Schweiz, die ich uns wünsche.» Nicht die…
+themen:
+  - Neutralitätspolitik
+  - Bankgeheimnis und Finanzsouveränität
+  - Goldreserven und Geldpolitik
+  - Bewaffnete Neutralität
+  - Bundesratspolitik
+kritisiertes_medium: Bundesrat
+kritisierter_beitrag: >-
+  Die Schweiz, die ich uns wünsche (Buch von Micheline Calmy-Rey, 2014) und
+  politische Entscheidungen dreier Bundesrätinnen
+kritisierter_autor: Micheline Calmy-Rey
+kritik_typ:
+  - Framing
+  - Behördenpropaganda
+  - Auslassung
+personen:
+  - Micheline Calmy-Rey
+  - Eveline Widmer-Schlumpf
+  - Viola Amherd
+  - Christoph Blocher
+institutionen:
+  - Bundesrat
+  - EDA
+  - EFD
+  - VBS
+  - SNB
+  - SVP
+  - BDP
+  - SP
+  - Die Mitte
+  - EU
+  - USA
+  - NATO
+  - UBS
+gesetze_vorlagen:
+  - Gold-Initiative
+  - EU-Sanktionen gegen Russland
+  - Automatischer Informationsaustausch
+these: >-
+  Drei Bundesrätinnen haben aus Überzeugung, aber mit verheerenden Folgen drei
+  Grundpfeiler der Schweiz – Neutralität, finanzielle Souveränität und
+  bewaffnete Verteidigung – systematisch abgetragen.
+zusammenfassung: >-
+  Der Artikel analysiert, wie drei Bundesrätinnen (Calmy-Rey, Widmer-Schlumpf,
+  Amherd) jeweils einen zentralen Pfeiler der Schweiz demontierten: die
+  Neutralität, das Bankgeheimnis und die bewaffnete Neutralität. Er
+  argumentiert, dass diese wohlmeinenden Entscheidungen das Fundament der
+  Schweiz zerstört haben, ohne dass das Volk je darüber abstimmen durfte. Der
+  Autor sieht darin ein Muster der schleichenden Selbstaufgabe Schweizer
+  Prinzipien.
+quelle_datum: '2014-01-01'
+quelle_format: Online-Artikel
+quelle_sendung: ''
+quelle_redaktion: 9min.ch
+kritik_schwere: 2
 ---
 
 *Drei Bundesrätinnen. Drei Pfeiler. Drei Trümmerfelder.*

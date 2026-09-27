@@ -1,14 +1,78 @@
 ---
 title: Das Misstrauen des SRF
-date: "2026-07-17"
+date: '2026-07-17'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HNahj6-WcAA64YM.jpg"
-tweetId: "2078026183225032914"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HNahj6-WcAA64YM.jpg'
+tweetId: '2078026183225032914'
+categories:
+  - SRF/SRG
+  - Demokratie
+  - EU/Aussenpolitik
+tags:
+  - Framing
+  - Auslassung
+  - Verschwörungsrahmung
+  - Geheimdienst-Dissens
+  - Sender-Boykott
+  - Wahlsicherheit
+  - Quellenkette
+  - Vorurteil vor Inhalt
 seo:
-  description: "SRF berichtet über eine Rede des US-Präsidenten — und rahmt sie als Wiederholung bekannter Lügen. «Trump sät Misstrauen an fairen US-Wahlen», lautet der…"
+  description: >-
+    SRF berichtet über eine Rede des US-Präsidenten — und rahmt sie als
+    Wiederholung bekannter Lügen. «Trump sät Misstrauen an fairen US-Wahlen»,
+    lautet der…
+themen:
+  - Medienframing US-Wahlen
+  - Geheimdienst-Dokumente und Wahlsicherheit
+  - Sender-Boykott bei Präsidentenrede
+  - US-China-Beziehung
+  - Midterm-Wahlkampfkontext
+kritisiertes_medium: SRF
+kritisierter_beitrag: Trump sät Misstrauen an fairen US-Wahlen – Vorwurf an China
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Selektion
+personen:
+  - Donald Trump
+  - Avril Haines
+  - John Ratcliffe
+  - Hakeem Jeffries
+  - Mark Warner
+  - Joe Gruters
+  - Xi Jinping
+institutionen:
+  - SRF
+  - ARD
+  - ABC
+  - NBC
+  - CNN
+  - RNC
+  - FBI
+  - CISA
+  - Director of National Intelligence
+gesetze_vorlagen: []
+these: >-
+  SRF liefert ein Urteil über Trumps Rede, ohne die deklassierten
+  Geheimdienst-Dokumente zu prüfen und ohne wesentliche Kontexte zu nennen, was
+  die Berichterstattung zu vorgefertigtem Framing macht.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert einen SRF-Beitrag vom 17.07.2026, der Trumps Rede
+  über Wahleinfluss als «Saat des Misstrauens» rahmt. SRF erwähne weder die
+  deklassierten Geheimdienst-Dokumente, die echte Sicherheitsrisiken
+  beschreiben, noch den Sender-Boykott grosser US-Sender, den
+  Geheimdienst-Dissens zwischen Haines und Ratcliffe, die anstehenden Midterms
+  oder Trumps China-Besuch im Mai 2026. Zudem zitiere SRF keine einzige weitere
+  Stimme und prüfe die Dokumente nicht selbst, sondern referiere sie über die
+  ARD. Der Beitrag sei damit ein Urteil ohne Untersuchung.
+quelle_datum: '2026-07-17'
+quelle_format: Broadcast
+quelle_sendung: SRF 4 News
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF berichtet über eine Rede des US-Präsidenten — und rahmt sie als Wiederholung bekannter Lügen. «Trump sät Misstrauen an fairen US-Wahlen», lautet der Titel, und der Beitrag liefert das Urteil vor dem Inhalt. Was nicht vorkommt: dass Trump deklassierte Geheimdienst-Dokumente veröffentlicht hat — und dass erste Analysen diese Dokumente als echt beschreiben, auch wenn sie keine Manipulation beweisen. Was nicht vorkommt: dass grosse US-Sender die Rede eines amtierenden Präsidenten nicht übertrugen — ein Vorgang, der in jeder Demokratie eine Meldung wert wäre. Was nicht vorkommt: die Frage, ob Wahlsysteme tatsächlich Sicherheitslücken haben — eine Frage, die unabhängig von Trumps Person gestellt werden könnte. Der Beitrag ist ein Urteil ohne Untersuchung — und die Untersuchung wäre der Inhalt der Dokumente, die SRF nicht prüft.*

@@ -1,14 +1,73 @@
 ---
 title: Die 19 Namhaften und die Wahrscheinlichkeit des Irrtums
-date: "2026-06-29"
+date: '2026-06-29'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMAD2oiWQAAmoer.jpg"
-tweetId: "2071660361863020962"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMAD2oiWQAAmoer.jpg'
+tweetId: '2071660361863020962'
+categories:
+  - SRF/SRG
+  - Klima/Energie
+  - Abstimmungen
+tags:
+  - AKW
+  - Energieprognosen
+  - ETH
+  - PSI
+  - Axpo
+  - Beznau
+  - Generation IV
+  - Baukosten
 seo:
-  description: "Die Frage ist nicht rhetorisch. Die Frage ist statistisch. Energieprognosen haben historisch eine Trefferquote, die einen zufriedenen Wetterfrosch nicht…"
+  description: >-
+    Die Frage ist nicht rhetorisch. Die Frage ist statistisch. Energieprognosen
+    haben historisch eine Trefferquote, die einen zufriedenen Wetterfrosch
+    nicht…
+themen:
+  - Kernenergie/AKW-Debatte
+  - Wissenschaftsberichterstattung
+  - Energieprognosen und Fehleranfälligkeit
+  - Interessenkonflikte bei Quellen
+  - Winterstromlücke
+kritisiertes_medium: SRF Echo der Zeit
+kritisierter_beitrag: Der hürdenreiche Weg hin zu neuen AKWs
+kritisierter_autor: Matthias Heim
+kritik_typ:
+  - Auslassung
+  - Autoritätsargument
+  - Interessenkonflikt
+personen:
+  - Matthias Heim
+institutionen:
+  - SRF
+  - ETH Zürich
+  - Paul Scherrer Institut
+  - Axpo
+  - Akademien der Wissenschaften Schweiz
+  - IEA
+  - IAEA
+  - X-energy
+  - Dow Chemical
+gesetze_vorlagen:
+  - Referendum zu neuen AKW
+these: >-
+  Der SRF-Beitrag präsentiert eine ETH/PSI-Studie als Autorität, ohne die
+  historisch schlechte Trefferquote von Energieprognosen, die kommerziellen
+  Interessen der Axpo und internationale Baukostenvergleiche zu thematisieren.
+zusammenfassung: >-
+  Der 9min-Artikel analysiert einen SRF-Echo-der-Zeit-Beitrag von Matthias Heim
+  über neue AKW. Er anerkennt, dass der Beitrag differenzierter ist als eine
+  frühere SRF-4-News-Meldung, kritisiert aber, dass die ETH/PSI-Studie als
+  Faktenlieferant gerahmt wird, ohne die systematische Fehleranfälligkeit von
+  Energieprognosen zu thematisieren. Zudem werden kommerzielle Interessen der
+  Axpo als Beznau-Betreiberin ausgeblendet, internationale Baukostendaten
+  ignoriert und die Systemkosten der Solar-Alternative sowie die quantifizierte
+  Winterstromlücke nicht geliefert.
+quelle_datum: '2026-06-29'
+quelle_format: Broadcast
+quelle_sendung: Echo der Zeit
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *Die Frage ist nicht rhetorisch. Die Frage ist statistisch. Energieprognosen haben historisch eine Trefferquote, die einen zufriedenen Wetterfrosch nicht erstaunen würde. Die IEA hat in jedem World Energy Outlook zwischen 2002 und 2020 die Solarstromkosten überschätzt — um Faktoren, nicht um Prozente. Die IAEA hat in jedem ihrer Annual Reports zwischen 2005 und 2020 die Zahl der weltweit neu in Betrieb genommenen Reaktoren überschätzt — um durchschnittlich 40 Prozent. Das PSI selbst hat in den Energieperspektiven 2035 (2007) den Schweizer Stromverbrauch bis 2035 um rund 15 Prozent überschätzt — weil es die Effizienzsteigerungen der Beleuchtung (LED) und der Geräte unterschätzte. Die ETH hat in denselben Perspektiven die Solarstromkosten bis 2035 auf 20 bis 30 Rappen pro kWh geschätzt — tatsächlich liegen sie heute bei 5 bis 10 Rappen. Das sind keine Einzelfälle. Das ist das systematische Muster von Energieprognosen: Sie überschätzen das Bekannte und unterschätzen das Neue. Wer also fragt, wie gross die Chance ist, dass die 19 namhaften Experten sich irren — die Frage ist nicht, ob, sondern worin.*

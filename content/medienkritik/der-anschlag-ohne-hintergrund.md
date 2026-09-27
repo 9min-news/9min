@@ -1,14 +1,72 @@
 ---
 title: Der Anschlag ohne Hintergrund
-date: "2026-07-03"
+date: '2026-07-03'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMTdHPHXsAAngI4.jpg"
-tweetId: "2073025117672595630"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMTdHPHXsAAngI4.jpg'
+tweetId: '2073025117672595630'
+categories:
+  - SRF/SRG
+  - EU/Aussenpolitik
+  - Sicherheitspolitik
+tags:
+  - Bombenanschlag Monaco
+  - Stenografie
+  - Kontextmangel
+  - Ukraine-Krieg
+  - Monaco-Bataillon
+  - Flüchtlingspolitik
+  - Geheimdienst
+  - Oligarch
 seo:
-  description: "Dieser SRF-Beitrag über den Bombenanschlag in Monaco ist ein Lehrstück in kriminalistischer Stenografie: Ein Sprengsatz explodiert vor einem Wohnhaus,…"
+  description: >-
+    Dieser SRF-Beitrag über den Bombenanschlag in Monaco ist ein Lehrstück in
+    kriminalistischer Stenografie: Ein Sprengsatz explodiert vor einem
+    Wohnhaus,…
+themen:
+  - Kriminalberichterstattung ohne Kontext
+  - Ukraine-Krieg und Oligarchen-Anschläge
+  - Flüchtlingspolitik und Sicherheitslage
+  - Geopolitische Dimension des Monaco-Anschlags
+kritisiertes_medium: SRF 4 News
+kritisierter_beitrag: 'Nach Bombenanschlag in Monaco: Spur führt nach Deutschland'
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Kontextmangel
+  - Einordnungsfehler
+personen:
+  - Wadym Jermolajew
+  - Anastasiia Berezovka
+  - Albert II.
+institutionen:
+  - SRF 4 News
+  - Staatsanwaltschaft
+  - LKA Hessen
+  - SBU
+  - FSB
+  - Interpol
+  - SPIEGEL
+gesetze_vorlagen: []
+these: >-
+  SRF meldet einen geopolitisch bedeutsamen Bombenanschlag auf einen
+  ukrainischen Oligarchen als reinen Kriminalfall und lässt sämtliche
+  entscheidenden Fragen nach Motiv, Täterin-Hintergrund,
+  Geheimdienstverbindungen und geopolitischer Bedeutung ungestellt.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert, dass SRF einen Bombenanschlag in Monaco auf den
+  ukrainischstämmigen Geschäftsmann Wadym Jermolajew als blosse Kriminalmeldung
+  behandle, ohne zentrale Kontexte zu erfragen oder einzuordnen. Insbesondere
+  fehle der Hinweis, dass die verdächtige Täterin Anastasiia Berezovka 2022 als
+  Kriegsflüchtling aus Luhansk nach Deutschland kam, dass das Opfer zur
+  sanktionierten «Monaco-Bataillon»-Gruppe gehört und dass die Komplexität des
+  Sprengsatzes auf professionelle Hintermänner deutet. Der Beitrag sei
+  «Stenografie mit SRF-Siegel» statt Kriminalberichterstattung.
+quelle_datum: '2026-07-03'
+quelle_format: Online-Artikel
+quelle_sendung: SRF 4 News
+quelle_redaktion: SRF News
+kritik_schwere: 2
 ---
 
 *Dieser SRF-Beitrag über den Bombenanschlag in Monaco ist ein Lehrstück in kriminalistischer Stenografie: Ein Sprengsatz explodiert vor einem Wohnhaus, drei Menschen werden verletzt, eine Verdächtige wird gesucht — und SRF meldet es wie einen Routinefall von Sachbeschädigung. Die zentralen Fragen werden nicht gestellt: Wer ist das Opfer wirklich? Wer ist die Täterin wirklich? Und: Was bedeutet es, wenn eine ukrainische «Kriegsflüchtige» aus Deutschland einen ukrainischen Oligarchen in Monaco bombardiert — im Jahr 2026, mitten in einem Krieg? Der Beitrag klingt wie Kriminalberichterstattung, aber er ist keine — denn Kriminalberichterstattung fragt nach Motiv, Kontext und Bedeutung, und dieser Beitrag fragt nach nichts.*

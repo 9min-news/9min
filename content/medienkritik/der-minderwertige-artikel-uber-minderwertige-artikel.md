@@ -1,14 +1,77 @@
 ---
 title: Der minderwertige Artikel über minderwertige Artikel
-date: "2026-07-02"
+date: '2026-07-02'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMNwetCXAAAZgtp.jpg"
-tweetId: "2072624078150566310"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMNwetCXAAAZgtp.jpg'
+tweetId: '2072624078150566310'
+categories:
+  - SRF/SRG
+  - Wirtschaft
+  - EU/Aussenpolitik
+tags:
+  - EU-Päcklizoll
+  - Protektionismus-Stenografie
+  - Framing
+  - Paketflut
+  - minderwertige Artikel
+  - Wirtschaftsberichterstattung
+  - Trumps Zölle
+  - Behördenpropaganda
 seo:
-  description: "Dieser SRF-Beitrag über den neuen EU-Päcklizoll ist ein Lehrstück in Protektionismus-Stenografie: Die EU erhebt einen Zoll von 3 Euro pro Artikelkategorie…"
+  description: >-
+    Dieser SRF-Beitrag über den neuen EU-Päcklizoll ist ein Lehrstück in
+    Protektionismus-Stenografie: Die EU erhebt einen Zoll von 3 Euro pro
+    Artikelkategorie…
+themen:
+  - EU-Päcklizoll
+  - SRF-Wirtschaftsberichterstattung
+  - Protektionismus vs. Freihandel
+  - WTO-Konformität
+  - Konsumentenperspektive
+kritisiertes_medium: SRF 3
+kritisierter_beitrag: Vom neuen EU-Päcklizoll sind auch Schweizer Exporteure betroffen
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Behördenpropaganda
+personen:
+  - von der Leyen
+  - Trump
+institutionen:
+  - SRF
+  - EU-Kommission
+  - WTO
+  - Schweizer Post
+  - SECO
+  - Bundesrat
+  - Temu
+  - Shein
+  - AliExpress
+gesetze_vorlagen:
+  - EU-Päcklizoll (EU-Verordnung)
+  - EU-weite Handhabungsgebühr
+  - Meistbegünstigungsprinzip (WTO)
+  - CE-Normen
+these: >-
+  Der SRF-Beitrag übernimmt unkritisch die protektionistische Framing-Sprache
+  der EU-Kommission und versagt bei der Prüfung der wirtschaftlichen,
+  juristischen und politischen Dimensionen des neuen EU-Päcklizolls.
+zusammenfassung: >-
+  Der 9min.ch-Artikel kritisiert einen SRF 3 Wirtschaft-Beitrag über den neuen
+  EU-Päcklizoll als reine Protektionismus-Stenografie, da das Framing der
+  EU-Kommission ('Paketflut', 'minderwertige Artikel') ungeprüft übernommen
+  werde. Wesentliche Aspekte wie die WTO-Konformität, die tatsächlichen Kosten
+  inklusive einer verschwiegenen Handhabungsgebühr, die Folgen für Konsumenten
+  und die Heuchelei der EU gegenüber Trumps Zöllen würden komplett ausgeblendet.
+  Der Beitrag gleiche somit einem EU-Communiqué mit SRF-Siegel, anstatt eine
+  kritische Wirtschaftsberichterstattung zu leisten.
+quelle_datum: '2026-07-01'
+quelle_format: Online-Artikel
+quelle_sendung: ''
+quelle_redaktion: SRF 3 Wirtschaft
+kritik_schwere: 3
 ---
 
 *Dieser SRF-Beitrag über den neuen EU-Päcklizoll ist ein Lehrstück in Protektionismus-Stenografie: Die EU erhebt einen Zoll von 3 Euro pro Artikelkategorie auf Pakete unter 150 Euro — und SRF berichtet das als selbstverständliche Massnahme gegen eine «Paketflut» mit «qualitativ minderwertigen Artikeln». Die zentralen Fragen werden nicht gestellt: Ist das legal (WTO?), wem nützt es (EU-Händlern?), wem schadet es (Konsumenten?), und was bedeutet es für Schweizer Exporteure (wie viele, wie viel, welche Produkte?). Und: Dieselbe EU, die Trumps Zölle als Schutzmassnahme bekämpft und als Bedrohung des Freihandels brandmarkt, erhebt nun selbst Zölle — und SRF erwähnt diesen Widerspruch mit keinem Wort. Der Beitrag liest sich wie ein Communiqué der EU-Kommission — ohne Prüfung, ohne Gegenperspektive, ohne wirtschaftliche Analyse.*

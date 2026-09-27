@@ -1,14 +1,64 @@
 ---
 title: Der Prophet und die ungeprüften Zahlen
-date: "2026-07-05"
+date: '2026-07-05'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMeLUcbWsAACqjP.jpg"
-tweetId: "2073779351615656348"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMeLUcbWsAACqjP.jpg'
+tweetId: '2073779351615656348'
+categories:
+  - SRF/SRG
+  - Klima/Energie
+  - Demokratie
+tags:
+  - SRF
+  - 10vor10
+  - Reto Knutti
+  - Klimawandel
+  - Hitzewelle
+  - Ungeprüfte Zahlen
+  - Bestätigungsritual
+  - Framing
 seo:
-  description: "SRF lädt Reto Knutti ein, die Hitzewelle einzuordnen — und liefert ein Bestätigungsritual statt eines Interviews. Der Forscher darf Zahlen nennen,…"
+  description: >-
+    SRF lädt Reto Knutti ein, die Hitzewelle einzuordnen — und liefert ein
+    Bestätigungsritual statt eines Interviews. Der Forscher darf Zahlen nennen,…
+themen:
+  - Klimaberichterstattung
+  - Experten-Interview
+  - Zahlenprüfung
+  - Klimapolitik Schweiz
+  - Kritiker-Delegitimierung
+kritisiertes_medium: SRF
+kritisierter_beitrag: 'Klimaforscher: ''Manchmal frage ich mich, was ich hier mache'''
+kritisierter_autor: Franziska Kohler
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Selektion
+personen:
+  - Reto Knutti
+  - Franziska Kohler
+institutionen:
+  - SRF
+  - 10vor10
+gesetze_vorlagen: []
+these: >-
+  SRF inszeniert ein Interview mit Klimaforscher Knutti als Bestätigungsritual
+  statt als journalistische Prüfung — Zahlen bleiben unbelegt, Kritiker werden
+  als psychologische Fälle abgetan, politische Kernfragen ausgeblendet.
+zusammenfassung: >-
+  9min.ch kritisiert den SRF-Beitrag in 10vor10 vom 30.06.2026, in dem
+  Klimaforscher Reto Knutti zur Hitzewelle befragt wird. Drei zentrale Zahlen
+  (Hitzetote, Produktionseinbussen, Verfünffachung der Hitzetage) würden ohne
+  Quellen oder Einordnung präsentiert, Kritik an Klimapolitik als
+  Identitätsproblem delegitimiert und politische Fragen nach Kosten-Nutzen,
+  Schweizer Emissionsanteil oder Kernenergie ausgeblendet. Die Interviewerin
+  agiere als Stichwortgeberin, nicht als Journalistin.
+quelle_datum: '2026-06-30'
+quelle_format: Broadcast
+quelle_sendung: 10vor10
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF lädt Reto Knutti ein, die Hitzewelle einzuordnen — und liefert ein Bestätigungsritual statt eines Interviews. Der Forscher darf Zahlen nennen, Kritiker diagnostizieren und sich als müden Mahner inszenieren. Geprüft wird nichts.*

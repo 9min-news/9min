@@ -1,14 +1,69 @@
 ---
-title: "Die Falschinformation, die als Ursache dient"
-date: "2026-08-03"
+title: 'Die Falschinformation, die als Ursache dient'
+date: '2026-08-03'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HOyVeAcXAAAuxTx.jpg"
-tweetId: "2084205102101938550"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HOyVeAcXAAAuxTx.jpg'
+tweetId: '2084205102101938550'
+categories:
+  - Migration
+  - SRF/SRG
+  - EU/Aussenpolitik
+tags:
+  - Ceuta
+  - Marokko
+  - Spanien
+  - EU-Aussengrenze
+  - Grenzsicherung
+  - Falschinformation
+  - Regierungserklärung
+  - Orchestrierung
 seo:
-  description: "SRF interviewt einen freien Journalisten vor Ort in Ceuta und rahmt die Krise als Kommunikationsproblem. Marokko sagt: Falschinformationen im Netz. SRF…"
+  description: >-
+    SRF interviewt einen freien Journalisten vor Ort in Ceuta und rahmt die
+    Krise als Kommunikationsproblem. Marokko sagt: Falschinformationen im Netz.
+    SRF…
+themen:
+  - Ceuta-Migrationskrise
+  - EU-Marokko-Grenzsicherungszahlungen
+  - SRF-Berichterstattung
+  - Spanien-Migrationspolitik
+  - Orchestrierungsthese Marokko
+kritisiertes_medium: SRF
+kritisierter_beitrag: Was Marokko zur Massenflucht in die spanische Exklave sagt
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Behördenpropaganda
+personen:
+  - Sánchez
+institutionen:
+  - SRF
+  - EU
+  - Marokko
+  - Spanien
+  - Grenzpolizei Marokko
+gesetze_vorlagen: []
+these: >-
+  SRF übernimmt die marokkanische Regierungserklärung als Erklärung der
+  Ceuta-Krise, ohne EU-Zahlungen an Marokko, Kritik von 22 EU-Regierungschefs an
+  Spaniens Migrationspolitik und die Orchestrierungsthese zu verfolgen.
+zusammenfassung: >-
+  9min.ch kritisiert einen SRF-Beitrag zur Migrationskrise in Ceuta, der die
+  marokkanische Regierungserklärung unkritisch als Ursache übernimmt und
+  wesentliche Kontexte auslässt: über 500 Millionen Euro EU-Zahlungen an Marokko
+  für Grenzsicherung, die Kritik von 22 EU-Regierungschefs an Spaniens
+  Migrationspolitik, die Legalisierung von 1,2 Millionen Migranten durch Spanien
+  und den Präzedenzfall von 2021. Der Beitrag wird als Stenografie der
+  marokkanischen Regierungserklärung mit Vor-Ort-Bestätigung charakterisiert,
+  der kritische Fragen nach Orchestrierung, finanziellen Interessen und
+  Verantwortung für Tote nicht stellt.
+quelle_datum: '2026-08-03'
+quelle_format: Broadcast
+quelle_sendung: SRF 4 News aktuell
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF interviewt einen freien Journalisten vor Ort in Ceuta und rahmt die Krise als Kommunikationsproblem. Marokko sagt: Falschinformationen im Netz. SRF übernimmt das als Erklärung. Was nicht vorkommt: die Hunderte Millionen Euro, die die EU Marokko für Grenzsicherung bezahlt. Was nicht vorkommt: die Frage, ob Marokko die Krise orchestrierte. Was nicht vorkommt: die 22 EU-Regierungschefs, die Spaniens Migrationspolitik kritisieren. Was nicht vorkommt: die Spanien-Legalisierung von 1,2 Millionen Migranten. Der Beitrag ist eine Reportage vor Ort, die die Ursachen vor Ort nicht sucht.*

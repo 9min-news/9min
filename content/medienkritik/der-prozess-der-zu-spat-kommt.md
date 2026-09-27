@@ -1,14 +1,78 @@
 ---
-title: "Der Prozess, der zu spät kommt"
-date: "2026-06-29"
+title: 'Der Prozess, der zu spät kommt'
+date: '2026-06-29'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HL9s3a_XsAAF9Wf.jpg"
-tweetId: "2071494068048175346"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HL9s3a_XsAAF9Wf.jpg'
+tweetId: '2071494068048175346'
+categories:
+  - SRF/SRG
+  - Sicherheitspolitik
+  - Migration
+tags:
+  - Messerangriff Zürich
+  - Jugendstrafrecht
+  - Verfahrensdauer
+  - Ausschaffung
+  - Nachrichtendienst
+  - IS-Propaganda
+  - Opferrechte
+  - Doppelbürgerschaft
 seo:
-  description: Dieser SRF-Beitrag über den bevorstehenden Prozess gegen den Zürcher Messerangreifer ist ein Lehrstück in behutsamer Berichterstattung. Die Fakten sind…
+  description: >-
+    Dieser SRF-Beitrag über den bevorstehenden Prozess gegen den Zürcher
+    Messerangreifer ist ein Lehrstück in behutsamer Berichterstattung. Die
+    Fakten sind…
+themen:
+  - Verfahrensdauer im Jugendstrafrecht
+  - Ausschaffung bei Doppelbürgerschaft
+  - Nachrichtendienstversagen bei Radikalisierungserkennung
+  - Antisemitische Gewalt und Terrorismus
+  - Jugendstrafrecht bei terrorismusnahen Taten
+kritisiertes_medium: SRF News
+kritisierter_beitrag: 'Prozess nach Messerangriff in Zürich: 17-Jähriger vor Gericht'
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Kontextmangel
+  - Selektion
+personen:
+  - Mario Fehr
+  - Jonathan Kreutner
+  - Davide Loss
+  - Marcel von Rütte
+institutionen:
+  - SRF
+  - SRF News
+  - 10 vor 10
+  - Schweizerischer Israelitischer Gemeindebund
+  - Nachrichtendienst
+  - Staatssekretariat für Migration
+  - Bundesrat
+gesetze_vorlagen:
+  - Jugendstrafrecht
+  - Opferhilfegesetz
+  - Art. 93 BV
+these: >-
+  Der SRF-Beitrag liefert korrekte Fakten zum bevorstehenden Prozess, lässt aber
+  die zentralen institutionellen Fragen nach Verfahrensdauer, Ausschaffung,
+  Nachrichtendienstversagen und Angemessenheit des Jugendstrafrechts bei
+  terrorismusnahen Taten vollständig unbeantwortet, weil er sie nicht stellt.
+zusammenfassung: >-
+  Der 9min-Artikel analysiert einen SRF-Vorbericht zum Prozess gegen den Zürcher
+  Messerangreifer vom März 2024. Er lobt die faktische Korrektheit und die
+  solide Einordnung des antisemitischen Kontexts, kritisiert aber, dass der
+  Beitrag zentrale Fragen auslässt: die 27-monatige Verfahrensdauer, die von
+  Mario Fehr geforderte Ausbürgerung, das mögliche Versagen des
+  Nachrichtendienstes, die Identität des unbekannten IS-Kontakts und die
+  Angemessenheit des Jugendstrafrechts bei terrorismusnahen Taten. Das Opfer
+  werde erwähnt, aber nicht selbst zu Wort kommen, und der Verteidiger werde
+  unkritisch zitiert.
+quelle_datum: '2026-06-26'
+quelle_format: Online-Artikel
+quelle_sendung: 10 vor 10
+quelle_redaktion: SRF News
+kritik_schwere: 2
 ---
 
 *Dieser SRF-Beitrag über den bevorstehenden Prozess gegen den Zürcher Messerangreifer ist ein Lehrstück in behutsamer Berichterstattung. Die Fakten sind korrekt, die Stimmenauswahl ist angemessen, die Einordnung des antisemitischen Kontexts ist solide. Aber der Beitrag stellt nicht die naheliegendste Frage: Warum dauert es über zwei Jahre, bis ein Täter vor Gericht kommt, der auf frischer Tat ertappt wurde, der ein Geständnis abgelegt hat, dessen Tat mit Video-Bekenntnis dokumentiert ist und bei dem die Anklageschrift seit Monaten vorliegt? Und er stellt die zweite naheliegende Frage nicht: Was passiert mit dem Täter nach der Strafe? Der Zürcher Sicherheitsdirektor Mario Fehr hatte unmittelbar nach der Tat die Ausbürgerung des tunesisch-schweizerischen Doppelbürgers gefordert — der Beitrag erwähnt das mit keinem Wort. Die Ausschaffungsfrage, die politisch zentral war und die SRF selbst in einem separaten Artikel behandelt hat, fehlt vollständig. Stattdessen liefert der Beitrag einen gut geschriebenen, aber unkritischen Vorbericht, der die institutionellen Fragen nach Verfahrensdauer, Nachrichtendienstversagen und Ausschaffung ebenso ausblendet wie die Frage nach der Angemessenheit des Jugendstrafrechts bei terrorismusnahen Taten.*

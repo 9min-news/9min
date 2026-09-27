@@ -1,14 +1,75 @@
 ---
-title: "Der Test, der bestanden wurde, und nie mehr passieren darf"
-date: "2026-08-04"
+title: 'Der Test, der bestanden wurde, und nie mehr passieren darf'
+date: '2026-08-04'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HO5iyL1XEAAQ_gX.jpg"
-tweetId: "2084712529415025063"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HO5iyL1XEAAQ_gX.jpg'
+tweetId: '2084712529415025063'
+categories:
+  - SRF/SRG
+  - Migration
+  - EU/Aussenpolitik
+tags:
+  - Beat Jans
+  - Echo der Zeit
+  - Interview
+  - Widerspruch
+  - Frontex
+  - Grenzkontrolle
+  - Meinungsfreiheit
+  - Behördenpropaganda
 seo:
-  description: "SRF interviewt Bundesrat Beat Jans zur Ceuta-Krise und rahmt ihn als Krisenmanager. Jans sagt: «So etwas darf nie mehr passieren» — und im selben Atemzug:…"
+  description: >-
+    SRF interviewt Bundesrat Beat Jans zur Ceuta-Krise und rahmt ihn als
+    Krisenmanager. Jans sagt: «So etwas darf nie mehr passieren» — und im selben
+    Atemzug:…
+themen:
+  - Ceuta-Krise
+  - Schengen-Funktionalität
+  - EU-Zahlungen an Marokko
+  - Überwachung sozialer Medien
+  - Drittstaatenabkommen
+kritisiertes_medium: SRF
+kritisierter_beitrag: 'Bundesrat Beat Jans zu Ceuta: «So etwas darf nie mehr passieren»'
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Behördenpropaganda
+personen:
+  - Beat Jans
+institutionen:
+  - SRF
+  - Bundesrat
+  - EU
+  - Frontex
+  - Marokko
+  - Spanien
+  - Italien
+  - Österreich
+  - Deutschland
+  - Frankreich
+  - Schengen
+gesetze_vorlagen:
+  - EU-Migrations- und Asylpakt
+  - Schengen-Abkommen
+  - Drittstaatenabkommen
+these: >-
+  Das SRF-Interview mit Bundesrat Jans zur Ceuta-Krise ist ein unkritisches
+  Regierungsinterview, das Widersprüche nicht auflöst, wesentliche Fakten
+  auslässt und den Bundesrat bedient statt konfrontiert.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert ein SRF-Interview mit Bundesrat Beat Jans zur
+  Ceuta-Krise, das Jans' Framing unkritisch übernimmt, statt seine Widersprüche
+  aufzulösen. Wesentliche Fakten wie EU-Zahlungen an Marokko, die tatsächliche
+  Frontex-Präsenz, Schengen-Brüche durch andere EU-Staaten und die Forderung
+  nach Überwachung sozialer Medien werden nicht hinterfragt. Der Beitrag sei
+  Behördenpropaganda statt Krisenberichterstattung.
+quelle_datum: '2026-08-04'
+quelle_format: Broadcast
+quelle_sendung: Echo der Zeit
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF interviewt Bundesrat Beat Jans zur Ceuta-Krise und rahmt ihn als Krisenmanager. Jans sagt: «So etwas darf nie mehr passieren» — und im selben Atemzug: «Schengen hat den Test bestanden.» 75 Tote, 72'000 Migranten, ein Test, der bestanden wurde. SRF fragt nicht, wie beides zusammenpasst. Die EU-Zahlungen an Marokko fehlen, die Frage, ob die Überwachung sozialer Medien legitim ist, wird nicht gestellt, das Versprechen von vor anderthalb Jahren wird nicht eingefordert. Der Beitrag ist ein Interview, das einen Bundesrat nicht konfrontiert, sondern bedient.*

@@ -1,14 +1,72 @@
 ---
-title: "Der Sommer, der zur politischen Veranstaltung wird - und zur Geldverteilmaschine"
-date: "2026-08-05"
+title: >-
+  Der Sommer, der zur politischen Veranstaltung wird - und zur
+  Geldverteilmaschine
+date: '2026-08-05'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HO-zqhOXwAA-_h9.jpg"
-tweetId: "2085082717704654940"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HO-zqhOXwAA-_h9.jpg'
+tweetId: '2085082717704654940'
+categories:
+  - SRF/SRG
+  - Wirtschaft
+  - Klima/Energie
+tags:
+  - SRF
+  - Krisenframing
+  - Behördenpropaganda
+  - Landwirtschaftshilfe
+  - Direktzahlungen
+  - Bauernverband
+  - Staatsversorgung
+  - Umverteilung
 seo:
-  description: "SRF meldet, dass der Bund der Landwirtschaft wegen Trockenheit hilft — und rahmt die Massnahmen als selbstverständliche Nothilfe. Zollfreie Importe, volle…"
+  description: >-
+    SRF meldet, dass der Bund der Landwirtschaft wegen Trockenheit hilft — und
+    rahmt die Massnahmen als selbstverständliche Nothilfe. Zollfreie Importe,
+    volle…
+themen:
+  - Staatliche Landwirtschaftshilfe bei Dürre
+  - Krisenframing in der Medienberichterstattung
+  - Kostenverschleierung staatlicher Massnahmen
+  - Lobbying-Verflechtung Bauernverband-Bund
+  - Suspendierung von Direktzahlungsbedingungen
+kritisiertes_medium: SRF News
+kritisierter_beitrag: Kurzfristige Massnahmen gegen zu wenig Gras – der Bund hilft
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Behördenpropaganda
+personen:
+  - Christian Hofer
+  - Marc Brodback
+  - Markus Ritter
+institutionen:
+  - SRF
+  - Bundesamt für Landwirtschaft
+  - Bauernverband
+  - Bund
+  - kantonale Bauernverbände beider Basel
+gesetze_vorlagen: []
+these: >-
+  SRF macht Wetterereignisse zu Krisen, die staatliche Massnahmen rechtfertigen,
+  ohne Kosten, historischen Massstab, institutionelle Verflechtungen oder die
+  prinzipielle Frage nach dem Staat als Akteur zu hinterfragen.
+zusammenfassung: >-
+  Der Artikel kritisiert SRF-Berichte über staatliche Hilfsmassnahmen für die
+  Landwirtschaft bei Dürre, die ein systematisches Muster aufzeigen: Wetter wird
+  zu Krise, Krise zu Forderung, Forderung zu staatlichem Geld. SRF übernehme
+  unkritisch die Aussage des BLW-Direktors, die Massnahmen verursachten keine
+  Kosten, frage nicht nach historischen Vergleichen und rahme den Bauernverband
+  als Partner statt als Lobbyist. Die Direktzahlungs-Suspendierung werde als
+  Wohltat statt als Standardaufhebung präsentiert, die Klimastrategie als Lösung
+  statt als Budgetposten.
+quelle_datum: '2026-08-05'
+quelle_format: Broadcast
+quelle_sendung: Tagesschau / Echo der Zeit
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF meldet, dass der Bund der Landwirtschaft wegen Trockenheit hilft — und rahmt die Massnahmen als selbstverständliche Nothilfe. Zollfreie Importe, volle Direktzahlungen trotz nicht erfüllten Bedingungen, Ernteversicherungs-Prämien, zinslose Darlehen. Was nicht vorkommt: die Frage, ob der Bund Geld verschenkt oder nur umverteilt. Die Frage, ob ein Bauernverband, der Massnahmen fordert, und ein Bundesamt, das sie liefert, ein Lobbying-Kreislauf sind. Was nicht vorkommt: der Zusammenhang mit dem Sommer, den SRF gleich zuvor zur politischen Krise erklärte. Der Beitrag ist der Abschluss eines Kreislaufs: Wetter → Krise → Forderung → Staat → Geld. Jede Krise endet mit mehr Staat. Keine Krise endet mit der Frage, ob der Staat der richtige Akteur ist.*

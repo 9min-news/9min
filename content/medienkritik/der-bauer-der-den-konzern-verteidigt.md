@@ -1,14 +1,69 @@
 ---
-title: "Der Bauer, der den Konzern verteidigt"
-date: "2026-06-27"
+title: 'Der Bauer, der den Konzern verteidigt'
+date: '2026-06-27'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HLz4BcmX0AALrVh.jpg"
-tweetId: "2070802687751287233"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HLz4BcmX0AALrVh.jpg'
+tweetId: '2070802687751287233'
+categories:
+  - SRF/SRG
+  - Wirtschaft
+  - Gesellschaft
+tags:
+  - Fenaco
+  - SRF-Tagesgespräch
+  - Michael Feitknecht
+  - Margen-Rhetorik
+  - Marktmacht
+  - Rudolf Strahm
+  - Auslandsexpansion
+  - Strohmann-Kritik
 seo:
-  description: Dieses SRF-Tagesgespräch mit Fenaco-Chef Michael Feitknecht ist ein freundliches Gespräch unter Bekannten. Der Gast darf seine Narrative ungeprüft…
+  description: >-
+    Dieses SRF-Tagesgespräch mit Fenaco-Chef Michael Feitknecht ist ein
+    freundliches Gespräch unter Bekannten. Der Gast darf seine Narrative
+    ungeprüft…
+themen:
+  - Agrarpolitik
+  - Marktmacht/Konzentration
+  - Interviewführung
+  - Versorgungssicherheit
+kritisiertes_medium: SRF News
+kritisierter_beitrag: 'Fenaco-Chef: ''Ertragssicherheit in der Schweiz nimmt stark ab'''
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Quotenfüllung
+  - Autoritätsargument
+personen:
+  - Michael Feitknecht
+  - Rudolf Strahm
+institutionen:
+  - Fenaco
+  - SRF
+  - Bauernverband
+  - Parlament
+  - Rolli-Pet Tiernahrung GmbH
+gesetze_vorlagen:
+  - Art. 93 BV
+these: >-
+  Ein SRF-Tagesgespräch mit Fenaco-Chef Feitknecht lässt die Narrative eines
+  einflussreichen Agrarmanagers ungeprüft stehen und verfehlt damit die
+  journalistische Rechenschaftspflicht gegenüber einem politisch einflussreichen
+  Milliardenkonzern.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert, dass ein SRF-Tagesgespräch mit Fenaco-Chef
+  Michael Feitknecht dessen Aussagen zu Versorgungssicherheit (42%), Margen
+  (1,5%) und Wachstumsstrategie in Nicht-Agrarbereichen nicht hinterfragt. Der
+  einzige Kritiker Rudolf Strahm werde als Strohmann präsentiert, unabhängige
+  Experten, Konsumentenstimmen oder Wettbewerbsexperten fehlten vollständig. Die
+  Interviewerin entfalte zwar Themen, fordere aber keine Rechenschaft im
+  journalistischen Sinne ein.
+quelle_datum: '2026-06-26'
+quelle_format: Broadcast
+quelle_sendung: Tagesgespräch
+quelle_redaktion: SRF News
+kritik_schwere: 2
 ---
 
 *Dieses SRF-Tagesgespräch mit Fenaco-Chef Michael Feitknecht ist ein freundliches Gespräch unter Bekannten. Der Gast darf seine Narrative ungeprüft entfalten: die bedrohte Versorgungssicherheit, die marginale Marge, die notwendige Grösse, das edle Engagement für den ländlichen Raum. Die Interviewerin stellt Fragen, aber sie bohrt nicht nach. Die 42-Prozent-Zahl wird nicht hinterfragt, die 1,5-Prozent-Marge nicht relativiert, das Wachstum in Telekom und Tierarztpraxen nicht als strategische Frage gestellt, und der einzige Kritiker — Rudolf Strahm — wird als Strohmann erwähnt, dessen Argumente niemand vorzutragen bereit ist. Das Format heisst Tagesgespräch, und es ist eines — aber kein journalistisches.*

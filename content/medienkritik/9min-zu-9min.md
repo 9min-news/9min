@@ -1,14 +1,72 @@
 ---
 title: 9min zu 9min
-date: "2026-05-13"
+date: '2026-05-13'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HIOMOrMXAAAGwca.jpg"
-tweetId: "2054640605888704816"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HIOMOrMXAAAGwca.jpg'
+tweetId: '2054640605888704816'
+categories:
+  - SRF/SRG
+  - Billag/Gebühren
+  - Medienrecht
+tags:
+  - Austrian School
+  - Mises
+  - Hayek
+  - Kalkulationsproblem
+  - Wissensproblem
+  - Radio Beromünster
+  - von Salis
+  - Konsenssender
 seo:
-  description: "Eine kurze Erklärung. Dank an 280+ Follower in ~1.5 Monaten. SRF predigt Transparenz. 9min lebt sie. Rückfragen jederzeit: hello@9min.ch Die Perspektive…"
+  description: >-
+    Eine kurze Erklärung. Dank an 280+ Follower in ~1.5 Monaten. SRF predigt
+    Transparenz. 9min lebt sie. Rückfragen jederzeit: hello@9min.ch Die
+    Perspektive…
+themen:
+  - Öffentlich-rechtlicher Rundfunk als Zentralplanung
+  - Österreichische Schule als Medientheorie
+  - Staatliche Neutralität vs. individuelle Perspektivität
+  - Feindsender-Konzept vs. Konsenssender
+  - Medienfinanzierung durch Zwangsabgaben
+kritisiertes_medium: SRF
+kritisierter_beitrag: ''
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Behördenpropaganda
+  - Einordnungsfehler
+personen:
+  - Jean Rudolf von Salis
+  - Ludwig von Mises
+  - Friedrich August von Hayek
+institutionen:
+  - SRF
+  - Radio Beromünster
+  - Deutsche Gesandtschaft Bern
+  - Schweizer Behörden
+gesetze_vorlagen:
+  - 335-Franken-Zwangsabgabe
+these: >-
+  9min.ch reklamiert eine auf der Österreichischen Schule basierende ökonomische
+  Perspektive als Grundlage für Medienkritik und kritisiert SRF strukturell als
+  'Konsenssender', der aufgrund fehlenden Markttests und des Hayekschen
+  Wissensproblems systematisch die Perspektive seiner Verwalter spiegelt statt
+  die Bedürfnisse der Öffentlichkeit.
+zusammenfassung: >-
+  In diesem meta-theoretischen Beitrag legt 9min.ch seine methodische
+  Grundannahme dar: eine auf der Österreichischen Schule (Mises'
+  Kalkulationsproblem, Hayeks Wissensproblem) basierende Medienkritik. SRF wird
+  als institutionell fehlgeleiteter 'Konsenssender' identifiziert, der nicht
+  mehr wie Radio Beromünster 1943 als Feindsender wirke, sondern die Parameter
+  der Macht akzeptiere. Die Kritik zielt nicht auf böswillige Akteure, sondern
+  auf die strukturelle Unvermeidbarkeit zentralplanerischer Medien ohne
+  Markttest.
+quelle_datum: ''
+quelle_format: Online-Artikel
+quelle_sendung: ''
+quelle_redaktion: ''
+kritik_schwere: 3
 ---
 
 *Eine kurze Erklärung. Dank an 280+ Follower in ~1.5 Monaten. SRF predigt Transparenz. 9min lebt sie. Rückfragen jederzeit: hello@9min.ch*

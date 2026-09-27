@@ -1,14 +1,66 @@
 ---
-title: "Der Hinweis, der alles sagt"
-date: "2026-07-06"
+title: 'Der Hinweis, der alles sagt'
+date: '2026-07-06'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMkF33jXEAEjzqM.jpg"
-tweetId: "2074195606331949061"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMkF33jXEAEjzqM.jpg'
+tweetId: '2074195606331949061'
+categories:
+  - SRF/SRG
+  - Gesellschaft
+  - Demokratie
+tags:
+  - Kinderschutz
+  - Statistik
+  - Nationalität
+  - Überforderung
+  - Framing
+  - Datenlücke
+  - SRF
+  - Auslassung
 seo:
-  description: "SRF meldet einen Höchststand bei Kindesmisshandlungen — 14,2 Prozent mehr Fälle, 2380 Opfer, ein toter Säugling. Der Beitrag referiert die Statistik der…"
+  description: >-
+    SRF meldet einen Höchststand bei Kindesmisshandlungen — 14,2 Prozent mehr
+    Fälle, 2380 Opfer, ein toter Säugling. Der Beitrag referiert die Statistik
+    der…
+themen:
+  - Kindesmisshandlungsstatistik
+  - Nationalitätenerfassung
+  - Ursachenanalyse
+  - Präventionspolitik
+  - Medienberichterstattung
+kritisiertes_medium: SRF News
+kritisierter_beitrag: Zahl der Kindesmisshandlungen steigt auf neuen Höchststand
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Behördenpropaganda
+personen: []
+institutionen:
+  - SRF
+  - Pädiatriegesellschaft
+  - Kinderkliniken
+  - SRF 4 News
+gesetze_vorlagen: []
+these: >-
+  SRF referiert eine Kinderschutzstatistik, deren zentrale Variable Nationalität
+  nicht erfasst wurde, ohne zu fragen, warum diese Variable fehlt, und liefert
+  damit eine Dramatisierung ohne Ursachenanalyse.
+zusammenfassung: >-
+  Der Artikel kritisiert einen SRF-Beitrag über steigende
+  Kindesmisshandlungszahlen, der im Hinweis-Kasten zugibt, dass die Nationalität
+  der Täter und Familien nicht erfasst wurde, ohne die Frage nach den Gründen
+  dieser Nicht-Erfassung zu stellen. SRF übernimmt das Framing «Überforderung»
+  als Erklärung, ohne Ursachenanalyse oder Nachfragen bei den Klinikern. Die
+  geforderte «gezielte Unterstützung» bleibt ohne erkennbare Zielgruppe, weil
+  die Statistik relevante Variablen wie Nationalität, soziale Lage oder
+  Bildungsstand nicht erhebt.
+quelle_datum: '2026-07-06'
+quelle_format: Online-Artikel
+quelle_sendung: SRF 4 News
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF meldet einen Höchststand bei Kindesmisshandlungen — 14,2 Prozent mehr Fälle, 2380 Opfer, ein toter Säugling. Der Beitrag referiert die Statistik der Kinderkliniken, nennt die Kategorien, zitiert die Pädiatriegesellschaft. Und dann, am Ende, ein Kasten mit einem einzigen Satz: «In der Kinderschutz-Statistik wurden die Nationalitäten der betroffenen Familien sowie der Täterinnen und Täter nicht erfasst.» Dieser Satz ist der bemerkenswerteste des Beitrags — denn er beantwortet eine Frage, die der Beitrag nie stellt, und dokumentiert eine Lücke, die niemand begründet.*

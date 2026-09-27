@@ -1,14 +1,71 @@
 ---
-title: "Die Kampagne, die niemand untersucht"
-date: "2026-07-16"
+title: 'Die Kampagne, die niemand untersucht'
+date: '2026-07-16'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HNVzx63X0AAj59v.jpg"
-tweetId: "2077694274867544364"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HNVzx63X0AAj59v.jpg'
+tweetId: '2077694274867544364'
+categories:
+  - SRF/SRG
+  - Demokratie
+  - Medienrecht
+tags:
+  - SRF
+  - Rendez-vous
+  - Julia Hänni
+  - Bundesrichter
+  - EGMR
+  - Klimaseniorinnen
+  - Plagiatsvorwürfe
+  - Behördenpropaganda
 seo:
-  description: "SRF berichtet über eine anonyme Kampagne gegen Bundesrichterin Julia Hänni — und rahmt sie als Angriff auf die Justiz. «Beispiellose Kampagne»,…"
+  description: >-
+    SRF berichtet über eine anonyme Kampagne gegen Bundesrichterin Julia Hänni —
+    und rahmt sie als Angriff auf die Justiz. «Beispiellose Kampagne»,…
+themen:
+  - Justizberichterstattung
+  - Framing von Richterkritik
+  - Plagiatsvorwürfe
+  - Unabhängigkeit vs. Immunität
+  - Klimaseniorinnen-Urteil
+kritisiertes_medium: SRF News
+kritisierter_beitrag: Beispiellose Kampagne gegen eine Richterkandidatin
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Behördenpropaganda
+personen:
+  - Julia Hänni
+  - Helen Keller
+institutionen:
+  - SRF
+  - Bundesamt für Justiz
+  - Bundesgericht
+  - EGMR
+  - Bundeskanzlei
+  - Die Mitte
+  - Universitäten
+  - Parlament
+gesetze_vorlagen: []
+these: >-
+  SRF übernimmt in seiner Berichterstattung über die Kampagne gegen Julia Hänni
+  die Deutung der Justizbehörden ungeprüft, ohne die Vorwürfe zu untersuchen,
+  die Quelle zu ermitteln oder legitime Kritik von Angriffen zu unterscheiden.
+zusammenfassung: >-
+  Der 9min-Artikel analysiert einen SRF-Rendez-vous-Beitrag über eine anonyme
+  Kampagne gegen Bundesrichterin Julia Hänni. Er zeigt auf, dass SRF das Framing
+  als 'beispiellose Kampagne' übernimmt, ohne zu untersuchen, wer dahintersteht,
+  was genau vorgeworfen wurde, ob die Prüfung durch das Bundesamt für Justiz
+  ausreichend war und ob Kritik an Richtern legitimer Teil demokratischer
+  Auseinandersetzung ist. Der Beitrag kritisiert zudem, dass Helen Keller als
+  neutrale Expertin präsentiert wird, ohne ihre institutionelle Interessenlage
+  als ehemalige EGMR-Richterin zu benennen.
+quelle_datum: '2026-07-15'
+quelle_format: Broadcast
+quelle_sendung: Rendez-vous
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF berichtet über eine anonyme Kampagne gegen Bundesrichterin Julia Hänni — und rahmt sie als Angriff auf die Justiz. «Beispiellose Kampagne», «Schmierenkampagne», «Haltlose Vorwürfe», «Diffamierungen» — das sind die Wörter, die der Beitrag wählt, bevor er eine einzige Frage gestellt hat. Was nicht vorkommt: wer hinter der Kampagne steht. Was nicht vorkommt: was genau Hänni plagiiert haben soll — und ob die Prüfung des Bundesamts für Justiz ausreichend war. Was nicht vorkommt: die Frage, ob Kritik an Richtern immer ein «Angriff auf die Institution» ist — oder ob Richter, die politische Urteile fällen, politische Kritik provozieren. Der Beitrag ist eine Verteidigung der Justiz als Opfer — ohne Untersuchung der Vorwürfe, die zur Verteidigung geführt haben.*

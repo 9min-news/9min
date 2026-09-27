@@ -1,14 +1,71 @@
 ---
-title: "Das Kind, das den Krieg unsichtbar macht"
-date: "2026-08-08"
+title: 'Das Kind, das den Krieg unsichtbar macht'
+date: '2026-08-08'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HPMScRFXAAEsp3M.jpg"
-tweetId: "2086035868108615919"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HPMScRFXAAEsp3M.jpg'
+tweetId: '2086035868108615919'
+categories:
+  - SRF/SRG
+  - EU/Aussenpolitik
+  - Gesellschaft
+tags:
+  - SRF
+  - 10vor10
+  - Nahost
+  - Hisbollah
+  - Libanon
+  - Kinder
+  - Framing
+  - Radikalisierung
 seo:
-  description: "SRF porträtiert drei Kinder im Libanon und rahmt den Nahost-Krieg als reines Leidensereignis. Zeichnen, Yoga, Traumata. Was nicht vorkommt: die Hisbollah.…"
+  description: >-
+    SRF porträtiert drei Kinder im Libanon und rahmt den Nahost-Krieg als reines
+    Leidensereignis. Zeichnen, Yoga, Traumata. Was nicht vorkommt: die
+    Hisbollah.…
+themen:
+  - Nahost-Krieg-Berichterstattung
+  - Hisbollah-Ausblendung
+  - Kindesleiden als Framing
+  - Radikalisierung in Europa
+  - Hilfsorganisation-Prüfung
+kritisiertes_medium: SRF News
+kritisierter_beitrag: 'Mayar (11): ‹Ich bete jeden Tag, dass der Krieg endet›'
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Selektion
+personen:
+  - Layla Mansour
+  - Abdul Ballout
+  - Mayar
+institutionen:
+  - SRF
+  - Hisbollah
+  - ISIS
+  - Children Connect Now
+  - Israel
+  - Schweiz
+  - Deutschland
+  - Berliner Polizei
+gesetze_vorlagen: []
+these: >-
+  SRF rahmt den Nahost-Krieg als reines Kindesleiden, blendet die Hisbollah als
+  Kriegsursache aus und verschleiert damit die politisch-militärischen
+  Zusammenhänge des Konflikts.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert einen SRF-10vor10-Beitrag, der drei libanesische
+  Kinder im Nahost-Krieg porträtiert. Moniert wird, dass die Hisbollah als
+  Kriegspartei fehlt, israelische Kinder unsichtbar bleiben, die
+  Hilfsorganisation ungeprüft bleibt, die Radikalisierung in Europa ausgeblendet
+  wird und die Schweizer Rolle unerwähnt bleibt. Der Beitrag sei eine
+  Empathie-Reportage, die den Krieg verschleiere statt zu erklären.
+quelle_datum: '2026-08-08'
+quelle_format: Broadcast
+quelle_sendung: 10vor10
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF porträtiert drei Kinder im Libanon und rahmt den Nahost-Krieg als reines Leidensereignis. Zeichnen, Yoga, Traumata. Was nicht vorkommt: die Hisbollah. Was nicht vorkommt: israelische Kinder unter Raketenbeschuss. Was nicht vorkommt: die Frage, warum die Kinder fliehen mussten. Was nicht vorkommt: wer die Hilfsorganisation finanziert. Der Beitrag ist eine Empathie-Reportage, die den Krieg von jeder Ursache befreit — und damit nicht erklärt, warum er nicht endet.*

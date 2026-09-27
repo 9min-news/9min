@@ -1,14 +1,87 @@
 ---
-title: "Die WM, die ohne Trump auskommt — SRF Spekulation"
-date: "2026-06-30"
+title: 'Die WM, die ohne Trump auskommt — SRF Spekulation'
+date: '2026-06-30'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMDcFTHW8AEYQI-.jpg"
-tweetId: "2071897829287592329"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMDcFTHW8AEYQI-.jpg'
+tweetId: '2071897829287592329'
+categories:
+  - SRF/SRG
+  - EU/Aussenpolitik
+  - Gesellschaft
+tags:
+  - SRF
+  - Trump
+  - Fussball-WM
+  - Spekulation
+  - Nicht-Ereignis
+  - Framing
+  - Buhruf-These
+  - Quellenmangel
 seo:
-  description: "Dieser SRF-Beitrag über Trumps Abwesenheit bei der Fussball-WM ist ein Lehrstück in erzwungenem Narrativ: Ein Nicht-Ereignis — der Präsident besucht keine…"
+  description: >-
+    Dieser SRF-Beitrag über Trumps Abwesenheit bei der Fussball-WM ist ein
+    Lehrstück in erzwungenem Narrativ: Ein Nicht-Ereignis — der Präsident
+    besucht keine…
+themen:
+  - Spekulation als Journalismus
+  - Trump-Berichterstattung
+  - Nicht-Ereignis als Story
+  - Quellenprüfung im Journalismus
+  - Selektiver historischer Vergleich
+kritisiertes_medium: SRF 4 News
+kritisierter_beitrag: 'Die WM läuft, der Präsident fehlt – bis jetzt'
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Selektion
+personen:
+  - Donald Trump
+  - Marco Rubio
+  - Robert F. Kennedy Jr.
+  - Gianni Infantino
+  - Federico de Jesus
+  - Bill Clinton
+  - Miguel de la Madrid
+  - Jorge Videla
+  - Francesco Cossiga
+  - Jacques Chirac
+  - Angela Merkel
+  - Joachim Gauck
+  - Dilma Rousseff
+  - Jacob Zuma
+  - Giorgio Napolitano
+institutionen:
+  - SRF 4 News
+  - FIFA
+  - BBC
+  - Weißes Haus
+  - G7
+  - USA-Regierung
+  - Taskforce
+gesetze_vorlagen:
+  - Art. 93 BV
+these: >-
+  SRF 4 News macht aus einem Nicht-Ereignis – Trumps Abwesenheit bei
+  WM-Vorrundenspielen – eine Spekulations-Story, in der die plausibelste
+  Erklärung (G7, Iran-Verhandlungen) durch unbewiesene Behauptungen über
+  Buhruf-Angst und unbelegte «Kritikerstimmen» überschrieben wird.
+zusammenfassung: >-
+  Der 9min.ch-Artikel kritisiert einen SRF-4-News-Beitrag, der Trumps
+  Abwesenheit bei WM-Vorrundenspielen thematisiert, obwohl der Beitrag selbst
+  die plausibelste Erklärung (G7-Gipfel, Iran-Verhandlungen) liefert. Statt
+  diese stehen zu lassen, spekuliert SRF über Buhruf-Angst, ohne die These zu
+  prüfen, nennt keine benennbaren «Kritiker», vergleicht selektiv mit anderen
+  Sportereignissen und liefert eine historische Bildergalerie, die
+  entgegenlaufende Fälle ausblendet. Die Folge: ein mit Spekulation gefüllter
+  Beitrag über die Abwesenheit eines Ereignisses, der journalistische
+  Grundanforderungen an Quellen- und Kontextprüfung verfehlt.
+quelle_datum: '2026-06-29'
+quelle_format: Online-Artikel
+quelle_sendung: SRF 4 News
+quelle_redaktion: SRF News International
+kritik_schwere: 2
 ---
 
 *Dieser SRF-Beitrag über Trumps Abwesenheit bei der Fussball-WM ist ein Lehrstück in erzwungenem Narrativ: Ein Nicht-Ereignis — der Präsident besucht keine Vorrundenspiele — wird zur Story gemacht, mit dem expliziten Ziel, eine «Trump-Show» zu dokumentieren, die ausgeblieben ist. Die Überschrift sagt es selbst: «Die von Kritikern befürchtete Trump-Show ist bei der WM bisher ausgeblieben.» Das ist die Story: Etwas, das Kritiker befürchtet haben, ist nicht passiert. Und daraus macht SRF 4 News einen Beitrag — über das, was nicht passiert ist, spekuliert über das, was noch passieren könnte, und impliziert, dass Trump aus Feigheit vor Buhrufen fernbleibt. Das ist nicht Journalismus über ein Ereignis. Das ist Journalismus über die Abwesenheit eines Ereignisses — und das ist problematisch, weil man über Abwesenheit alles behaupten kann, ohne dass es jemand widerlegen kann.*

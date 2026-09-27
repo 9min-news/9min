@@ -1,14 +1,73 @@
 ---
-title: "Die Krise, die zur Kulisse der Rechten degradiert wird"
-date: "2026-08-03"
+title: 'Die Krise, die zur Kulisse der Rechten degradiert wird'
+date: '2026-08-03'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HO0NQonWoAAlyos.jpg"
-tweetId: "2084336822377664609"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HO0NQonWoAAlyos.jpg'
+tweetId: '2084336822377664609'
+categories:
+  - Migration
+  - SRF/SRG
+tags:
+  - Ceuta
+  - Grenzkrise
+  - Vox
+  - Reform UK
+  - demografischer Wandel
+  - Framing
+  - Kohlenberger
+  - Stigmatisierung
 seo:
-  description: "SRF berichtet über den Sturm auf Ceuta und rahmt das Ereignis als PR-Kampagne rechter Kreise. Neonazis, gewählte Abgeordnete und britische Populisten…"
+  description: >-
+    SRF berichtet über den Sturm auf Ceuta und rahmt das Ereignis als
+    PR-Kampagne rechter Kreise. Neonazis, gewählte Abgeordnete und britische
+    Populisten…
+themen:
+  - Migrationsberichterstattung
+  - Grenzkrise Ceuta
+  - Framing rechter Opposition
+  - Demografischer Wandel durch Migration
+kritisiertes_medium: SRF News
+kritisierter_beitrag: Wie rechte Kreise die Krise in Ceuta instrumentalisieren
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - False Equivalence
+personen:
+  - Alvise Perez
+  - Thilo Sarrazin
+  - Judith Kohlenberger
+  - Matthias Strasser
+  - Pedro Sánchez
+institutionen:
+  - SRF
+  - Vox
+  - Nucleo Nacional
+  - Junge Tat
+  - Reform UK
+  - Europäisches Parlament
+  - EU
+  - Spanien
+gesetze_vorlagen: []
+these: >-
+  SRF rahmt die Grenzkrise in Ceuta als PR-Kampagne rechter Kreise, gleichmacht
+  gewählte Oppositionspolitiker mit Neonazis und blendet demografische Realität
+  sowie die spanische Migrationspolitik aus.
+zusammenfassung: >-
+  Der 9min.ch-Artikel kritisiert, dass SRF die Grenzkrise in Ceuta nicht als
+  Grenzkrise analysiert, sondern als Instrumentalisierung rechter Akteure
+  darstellt. Gewählte Oppositionspolitiker (Vox, Reform UK, Alvise Perez) werden
+  mit Neonazis gleichgemacht, die demografische Realität hinter dem Begriff
+  «Grosseraustausch» als Verschwörung abgetan, und die Advocacy-Expertin Judith
+  Kohlenberger als neutral präsentiert. Ursachen der Krise (Massenlegalisierung
+  durch Sánchez, EU-Zahlungen an Marokko) und die Erpressbarkeit der EU werden
+  ausgeblendet oder umgedeutet.
+quelle_datum: '2026-08-03'
+quelle_format: Online-Artikel
+quelle_sendung: ''
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF berichtet über den Sturm auf Ceuta und rahmt das Ereignis als PR-Kampagne rechter Kreise. Neonazis, gewählte Abgeordnete und britische Populisten werden in einen Topf geworfen. Was nicht vorkommt: die Unterscheidung zwischen Demokraten und Extremisten. Was nicht vorkommt: die demografische Realität, die hinter dem Begriff «Grosseraustausch» steht. Was nicht vorkommt: die Frage, ob es die Aufgabe von Oppositionspolitikern ist, Krisenorte zu besuchen. Der Beitrag ist eine moralische Panik über Rhetorik, die den Kollaps der Grenze ausblendet.*

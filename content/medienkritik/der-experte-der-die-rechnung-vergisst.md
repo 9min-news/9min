@@ -1,14 +1,73 @@
 ---
-title: "Der Experte, der die Rechnung vergisst"
-date: "2026-08-03"
+title: 'Der Experte, der die Rechnung vergisst'
+date: '2026-08-03'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HOxr1UlXcAAUQuP.jpg"
-tweetId: "2084159306388156799"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HOxr1UlXcAAUQuP.jpg'
+tweetId: '2084159306388156799'
+categories:
+  - SRF/SRG
+  - Migration
+  - EU/Aussenpolitik
+tags:
+  - Gerald Knaus
+  - ESI
+  - Advocacy
+  - Drittstaatenabkommen
+  - EU-Zahlungen an Marokko
+  - Ceuta-Krise
+  - Interessenkonflikt
+  - SRF Echo der Zeit
 seo:
-  description: "SRF interviewt Migrationsexperte Gerald Knaus zur Ceuta-Krise und rahmt ihn als neutralen Analyst. Knaus fordert «sichere Drittstaatenabkommen», sein…"
+  description: >-
+    SRF interviewt Migrationsexperte Gerald Knaus zur Ceuta-Krise und rahmt ihn
+    als neutralen Analyst. Knaus fordert «sichere Drittstaatenabkommen», sein…
+themen:
+  - Migrationspolitik
+  - EU-Aussengrenzen
+  - Interessenkonflikt in Medien
+  - Drittstaatenabkommen
+  - Marokko-EU-Beziehungen
+kritisiertes_medium: SRF
+kritisierter_beitrag: Die irreguläre Migration muss aussichtslos gemacht werden
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Interessenkonflikt
+personen:
+  - Gerald Knaus
+  - Ursula von der Leyen
+institutionen:
+  - SRF
+  - European Stability Initiative
+  - EU
+  - Spanien
+  - Marokko
+  - EU-Kommission
+gesetze_vorlagen:
+  - EU-Türkei-Deal
+  - NDICI-Instrument
+these: >-
+  SRF interviewt einen Advocacy-Vertreter als neutralen Experten und lässt ihn
+  seine eigene politische Lösung ungeprüft verkaufen, ohne EU-Zahlungen an
+  Marokko, systematische Zusammenhänge oder seinen Interessenkonflikt zu
+  thematisieren.
+zusammenfassung: >-
+  Der Artikel kritisiert, dass SRF in einem Echo-der-Zeit-Interview Gerald Knaus
+  als neutralen Migrationsexperten präsentiert, obwohl er Gründer der European
+  Stability Initiative und Architekt des EU-Türkei-Deals ist und ein
+  institutionelles Interesse an Drittstaatenabkommen hat. Der Beitrag
+  thematisiert weder die erheblichen EU- und spanischen Zahlungen an Marokko für
+  Grenzsicherung noch die Frage, ob Marokko die Krise nutzt, um mehr Geld zu
+  erpressen. Die Marokko-Strategie wird als Einzelfall statt als systematisches
+  Druckmittel gerahmt, und die Kritik von 22 EU-Regierungschefs an Spanien wird
+  ungeprüft als "faktenfrei" abgetan.
+quelle_datum: '2026-08-02'
+quelle_format: Broadcast
+quelle_sendung: Echo der Zeit
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF interviewt Migrationsexperte Gerald Knaus zur Ceuta-Krise und rahmt ihn als neutralen Analyst. Knaus fordert «sichere Drittstaatenabkommen», sein eigenes politisches Produkt. Was nicht vorkommt: die Hunderte Millionen Euro, die die EU und Spanien Marokko für Grenzsicherung bezahlen. Was nicht vorkommt: die Frage, ob Marokko die Krise nutzt, um mehr Geld zu erpressen. Was nicht vorkommt: Knaus' institutionelles Interesse an seiner eigenen Lösung. Der Beitrag ist ein Interview mit einem Advocacy-Vertreter, der als Experte auftritt, ohne dass eine einzige Frage an sein Geschäftsmodell gestellt wird.*

@@ -1,14 +1,73 @@
 ---
-title: "Die Streichung, die zur Notiz schrumpft"
-date: "2026-08-02"
+title: 'Die Streichung, die zur Notiz schrumpft'
+date: '2026-08-02'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HOuw2pGWYAASsax.jpg"
-tweetId: "2083953733491146818"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HOuw2pGWYAASsax.jpg'
+tweetId: '2083953733491146818'
+categories:
+  - SRF/SRG
+  - Klima/Energie
+  - Wirtschaft
+tags:
+  - SRF
+  - NZZ am Sonntag
+  - Keystone-SDA
+  - Albert Rösti
+  - Wald
+  - Klima
+  - Aggregation
+  - Parlamentsbeschluss
 seo:
-  description: "SRF meldet, dass Bundesrat Rösti die Mittel für klimatauglichen Wald streicht — und liefert vier Sätze. Die NZZ am Sonntag hat die Geschichte: ein…"
+  description: >-
+    SRF meldet, dass Bundesrat Rösti die Mittel für klimatauglichen Wald
+    streicht — und liefert vier Sätze. Die NZZ am Sonntag hat die Geschichte:
+    ein…
+themen:
+  - SRF-Aggregation statt Eigenrecherche
+  - Waldpolitik und Klimafolgen
+  - Parlamentsbeschlüsse vs. Bundesrat
+  - Schuldenbremse und Prioritätensetzung
+  - Qualität öffentlich-rechtlicher Journalismus
+kritisiertes_medium: SRF 4 News
+kritisierter_beitrag: Bundesrat Rösti streicht Mittel für klimatauglichen Wald
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Selektion
+  - Kontextmangel
+personen:
+  - Albert Rösti
+  - Daniel Fässler
+  - Lars Guggisberg
+  - Manser
+institutionen:
+  - SRF
+  - NZZ am Sonntag
+  - Keystone-SDA
+  - Bundesrat
+  - Parlament
+  - SVP
+gesetze_vorlagen:
+  - Waldgesetz
+these: >-
+  SRF betreibt keine eigene Recherche, sondern aggregiert eine NZZ-Story via
+  Keystone-SDA auf vier Sätze und lässt dabei Parlamentsbeschluss, Gegenstimme,
+  internationalen Vergleich, historischen Kontext und die Frage nach der
+  Staatsaufgabe vollständig weg.
+zusammenfassung: >-
+  Der 9min-Artikel vergleicht den SRF-Beitrag über Bundesrat Röstris Streichung
+  von Wald-Mitteln mit der zugrundeliegenden NZZ-am-Sonntag-Recherche. Er zeigt,
+  dass SRF keine eigene Recherche geleistet hat, sondern Keystone-SDA
+  zusammenfasste und dabei zentrale Elemente fehlen: der Parlamentsbeschluss von
+  2023, die Gegenstimme von SVP-Nationalrat Guggisberg, der Harz-Vergleich und
+  die historische Einordnung des Waldgesetzes. Die Kritik läuft auf den Vorwurf
+  hinaus, SRF sei ein reiner Verteiler ohne journalistische Wertschöpfung.
+quelle_datum: '2026-08-02'
+quelle_format: Online-Artikel
+quelle_sendung: SRF 4 News
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF meldet, dass Bundesrat Rösti die Mittel für klimatauglichen Wald streicht — und liefert vier Sätze. Die NZZ am Sonntag hat die Geschichte: ein Ständerat, der seine Bäume wässert, tote Fichten, ein Bundesrat, der Parlamentsbeschlüsse ignoriert, ein Harz-Vergleich, Förster in Ohnmacht, ein SVP-Nationalrat, der Waffen über Wald stellt. SRF hat davon gelesen — via Keystone-SDA — und einen Viertel daraus gemacht. Was nicht vorkommt: der politische Konflikt. Was nicht vorkommt: die Geschichte. Was nicht vorkommt: die Gegenstimme. Was nicht vorkommt: die Frage, ob ein Bundesrat Parlamentsbeschlüsse streichen darf. Der Beitrag ist ein Echo eines Echo eines Originals — und dokumentiert, wofür 1,5 Milliarden stehen.*

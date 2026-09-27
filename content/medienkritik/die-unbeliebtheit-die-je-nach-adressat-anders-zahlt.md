@@ -1,14 +1,71 @@
 ---
-title: "Die Unbeliebtheit, die je nach Adressat anders zählt"
-date: "2026-07-16"
+title: 'Die Unbeliebtheit, die je nach Adressat anders zählt'
+date: '2026-07-16'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HNVr1f_WQAA9TgX.jpg"
-tweetId: "2077685451536658574"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HNVr1f_WQAA9TgX.jpg'
+tweetId: '2077685451536658574'
+categories:
+  - SRF/SRG
+  - Gesellschaft
+  - EU/Aussenpolitik
+tags:
+  - Framing
+  - Doppelstandard
+  - Merz
+  - Trump
+  - Unbeliebtheit
+  - Echo der Zeit
+  - Sommerpressekonferenz
+  - Behördenpropaganda
 seo:
-  description: "SRF berichtet über Friedrich Merz' Sommerpressekonferenz — und rahmt sie als Persönlichkeitsstück. «Das beschäftigt mich», sagt Merz über seine…"
+  description: >-
+    SRF berichtet über Friedrich Merz' Sommerpressekonferenz — und rahmt sie als
+    Persönlichkeitsstück. «Das beschäftigt mich», sagt Merz über seine…
+themen:
+  - SRF-Framing von Merz vs. Trump
+  - Doppelstandard bei Unbeliebtheits-Narrativ
+  - Auslassung des Trump-Krachs
+  - AfD-Wachstum ohne Ursachenanalyse
+  - Sommerpressekonferenz als Stimmungsbild
+kritisiertes_medium: SRF Echo der Zeit
+kritisierter_beitrag: 'Merz zu eigener Unbeliebtheit: ‹Das beschäftigt mich›'
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Asymmetrie
+  - Auslassung
+personen:
+  - Friedrich Merz
+  - Donald Trump
+  - Angela Merkel
+institutionen:
+  - SRF
+  - AfD
+  - ICE
+  - Weisses Haus
+  - EU
+  - Reuters
+gesetze_vorlagen:
+  - Rentensystem
+  - Bürokratieabbau
+these: >-
+  SRF rahmt Merz' Unbeliebtheit als Persönlichkeitsfrage, während es am selben
+  Tag Trumps Unbeliebtheit als policy failure gerahmt — ein systematischer
+  Doppelstandard, der auf der eigenen Website sichtbar ist.
+zusammenfassung: >-
+  9min.ch analysiert zwei SRF-Beiträge vom 15. Juli 2026 und zeigt einen
+  Doppelstandard: Merz' 80-Prozent-Unzufriedenheit wird als
+  Kommunikationsproblem gerahmt, Trumps Unbeliebtheit als politisches Versagen.
+  Der grösste transatlantische Konflikt seit Jahrzehnten fehlt vollständig, die
+  Behauptung «wir haben geliefert» wird ungeprüft referiert, die AfD als
+  Bedrohung ohne Ursache dargestellt. Der Beitrag sei ein Stimmungsbild ohne
+  Massstab — mit Framing, das nicht miteinander kommuniziert.
+quelle_datum: '2026-07-15'
+quelle_format: Broadcast
+quelle_sendung: Echo der Zeit
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF berichtet über Friedrich Merz' Sommerpressekonferenz — und rahmt sie als Persönlichkeitsstück. «Das beschäftigt mich», sagt Merz über seine Unbeliebtheit, und SRF referiert es mit Wohlwollen. Am selben Tag veröffentlicht SRF einen Beitrag über Trumps Migrationspolitik — und rahmt sie als Boomerang, der den Präsidenten gefährlich werden könnte. Zwei Beiträge, zwei Politiker, zwei Unbeliebtheiten — und zwei Framings, die nicht miteinander kommunizieren. Was nicht vorkommt: der grösste transatlantische Krach seit Jahrzehnten. Was nicht vorkommt: die Frage, ob 80 Prozent Unzufriedenheit nach 14 Monaten mehr ist als ein Kommunikationsproblem. Was nicht vorkommt: der Vergleich, den SRF selbst nicht zieht — obwohl er auf der eigenen Website liegt. Der Beitrag ist ein Stimmungsbild ohne Massstab — und ohne den Skandal, der die Stimmung erklärt.*

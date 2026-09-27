@@ -1,14 +1,89 @@
 ---
 title: Das Bankgeheimnis
-date: "2026-05-10"
+date: '2026-05-10'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HH9pZzJWUAITImv.jpg"
-tweetId: "2053476107500863626"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HH9pZzJWUAITImv.jpg'
+tweetId: '2053476107500863626'
+categories:
+  - Wirtschaft
+  - Demokratie
+  - EU/Aussenpolitik
+tags:
+  - Bankgeheimnis
+  - Privatsphäre
+  - Steuertransparenz
+  - FATCA
+  - AIA
+  - Weissgeldstrategie
+  - USA
+  - Bundesrat
 seo:
-  description: "Der gläserne Tresor Im Jahr 1713 erliess der Grosse Rat von Genf eine Verordnung, die Bankiers verpflichtete, Register über ihre Kunden zu führen — und es…"
+  description: >-
+    Der gläserne Tresor Im Jahr 1713 erliess der Grosse Rat von Genf eine
+    Verordnung, die Bankiers verpflichtete, Register über ihre Kunden zu führen
+    — und es…
+themen:
+  - Bankgeheimnis
+  - Automatischer Informationsaustausch
+  - FATCA und US-Doppelstandards
+  - Demokratische Legitimation des AIA
+  - Weissgeldstrategie
+kritisiertes_medium: 9min.ch
+kritisierter_beitrag: ''
+kritisierter_autor: ''
+kritik_typ:
+  - Asymmetrie
+  - Behördenpropaganda
+  - Auslassung
+personen:
+  - Bradley Birkenfeld
+  - Lawrence Summers
+  - Alan Greenspan
+institutionen:
+  - UBS
+  - Credit Suisse
+  - Wegelin & Co.
+  - Bundesrat
+  - Schweizerische Nationalbank
+  - Eidgenössische Steuerverwaltung
+  - IRS
+  - US-Justizministerium
+  - OECD
+  - Tax Justice Network
+  - Schweizerische Bankiervereinigung
+  - SVP
+  - Bundesversammlung
+  - US-Kongress
+  - Grosser Rat von Genf
+gesetze_vorlagen:
+  - 'Bundesgesetz über die Banken und Sparkassen (1934, Art. 47)'
+  - 'Foreign Account Tax Compliance Act (FATCA, 2010)'
+  - >-
+    Bundesgesetz über den internationalen automatischen Informationsaustausch in
+    Steuersachen (AIAG, 2017)
+  - Common Reporting Standard (CRS/AIA)
+  - Rubik-Abkommen
+  - Nachrichtendienstgesetz (2016)
+  - E-ID-Vorlage
+these: >-
+  Die Abschaffung des Schweizer Bankgeheimnisses war keine demokratische
+  Entscheidung, sondern ein unter asymmetrischem internationalem Druck —
+  insbesondere durch die USA — erzwungener Substanzverlust, bei dem die USA
+  selbst die Transparenzstandards nicht einhalten, die sie anderen aufzwingen.
+zusammenfassung: >-
+  Der Artikel zeichnet die Geschichte des Schweizer Bankgeheimnisses von 1713
+  bis zur Gegenwart nach und argumentiert, dass dessen schrittweise Demontage
+  durch FATCA und den OECD-AIA nicht demokratisch legitimiert, sondern durch
+  ausländischen Druck erzwungen wurde. Kritisiert wird besonders die Asymmetrie:
+  Die USA haben Transparenz eingefordert, nehmen selbst nicht am CRS teil und
+  sind zur grössten Steueroase aufgestiegen. Eine Volksabstimmung über den AIA
+  fand nie statt, weil der institutionelle Konsens keine Debatte zuliess.
+quelle_datum: ''
+quelle_format: ''
+quelle_sendung: ''
+quelle_redaktion: ''
+kritik_schwere: 3
 ---
 
 ## Der gläserne Tresor

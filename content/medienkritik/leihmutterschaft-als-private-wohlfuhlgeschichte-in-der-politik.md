@@ -1,14 +1,65 @@
 ---
 title: Leihmutterschaft als private Wohlfühlgeschichte in der Politik
-date: "2026-07-20"
+date: '2026-07-20'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HNp233zWwAA3f3K.jpg"
-tweetId: "2079104898176594256"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HNp233zWwAA3f3K.jpg'
+tweetId: '2079104898176594256'
+categories:
+  - Gesellschaft
+  - Demokratie
+tags:
+  - Leihmutterschaft
+  - NZZ
+  - Framing
+  - Einseitige Berichterstattung
+  - Kommerzialisierung
+  - Frauenrechte
+  - Parteilinie
+  - Ethik
 seo:
-  description: "Die NZZ interviewt einen Schweizer Mitte-Politiker, der wie Jens Spahn eine Leihmutter engagierte — und rahmt ihn als entspannte Gegenstimme zur deutschen…"
+  description: >-
+    Die NZZ interviewt einen Schweizer Mitte-Politiker, der wie Jens Spahn eine
+    Leihmutter engagierte — und rahmt ihn als entspannte Gegenstimme zur
+    deutschen…
+themen:
+  - Leihmutterschaft
+  - Medien-Framing
+  - Kommerzialisierung des Körpers
+  - Parteidisziplin
+  - Kinderrechte
+kritisiertes_medium: NZZ
+kritisierter_beitrag: Der Umgang mit Leihmutterschaften sollte unverkrampfter werden
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Selektion
+personen:
+  - Mazur
+  - Jens Spahn
+institutionen:
+  - NZZ
+  - NZZ am Sonntag
+  - Mitte-Partei
+gesetze_vorlagen:
+  - Legalisierte Leihmutterschaft in der Schweiz
+these: >-
+  Die NZZ rahmt ein Interview mit einem Leihmutterschaft-Käufer als entspannte
+  Normalisierung, während die Perspektive der Leihmutter, ethische Grundfragen
+  und sämtliche Gegenstimmen vollständig fehlen.
+zusammenfassung: >-
+  9min.ch kritisiert ein NZZ-Interview mit Mitte-Politiker Mazur, der eine
+  US-Leihmutter engagierte, als einseitige Werbeanzeige für Leihmutterschaft.
+  Die Leihmutter komme nur als Projektionsfläche in Mazurs Erzählung vor,
+  ethische Fragen nach Kommerzialisierung, Kinderrechten und Parteidisziplin
+  würden nicht gestellt. Das Framing stelle Mazur als ehrlich dar, während die
+  ethisch problematische Handlung dieselbe bleibe wie bei Jens Spahn.
+quelle_datum: '2026-07-19'
+quelle_format: Print
+quelle_sendung: ''
+quelle_redaktion: NZZ am Sonntag
+kritik_schwere: 3
 ---
 
 *Die NZZ interviewt einen Schweizer Mitte-Politiker, der wie Jens Spahn eine Leihmutter engagierte — und rahmt ihn als entspannte Gegenstimme zur deutschen Moraldebatte. «Der Umgang mit Leihmutterschaften sollte unverkrampfter werden», lautet der Titel, und das Interview ist eine Einladung, das Thema zu normalisieren. Was nicht vorkommt: die Frau, die das Kind austrug — ihre Stimme, ihre Motivation, ihre Perspektive. Was nicht vorkommt: die Frage, ob Schwangerschaft eine Dienstleistung ist, die man kaufen kann — oder ob die Kommerzialisierung des weiblichen Körpers ein ethisches Problem darstellt, das sich nicht durch Verträge lösen lässt. Was nicht vorkommt: die Frage, ob ein Kind ein Recht auf eine Mutter hat — nicht auf zwei Väter, die eine Mutter engagierten, sondern auf die Frau, die es austrug und gebar. Was nicht vorkommt: die Frage, ob ein Politiker, der gegen das Gesetz seiner eigenen Partei handelt, Konsequenzen verdient — oder ob «Ehrlichkeit» ausreicht, wenn die Handlung dieselbe ist. Der Beitrag ist ein Interview ohne Gegeninterview — und das Gegeninterview wäre die Frage gewesen, was Leihmutterschaft eigentlich bedeutet: für die Frau, für das Kind, für eine Gesellschaft, die den Körper zur Ware macht.*

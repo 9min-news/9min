@@ -1,14 +1,74 @@
 ---
 title: Der stille Killer und die laute Statistik
-date: "2026-06-30"
+date: '2026-06-30'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMDXnQwWQAAlZxy.jpg"
-tweetId: "2071893026608173391"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMDXnQwWQAAlZxy.jpg'
+tweetId: '2071893026608173391'
+categories:
+  - SRF/SRG
+  - Klima/Energie
+  - Gesellschaft
+tags:
+  - Hitzetote
+  - Übersterblichkeit
+  - WHO
+  - Statistik
+  - Wissenschaftsjournalismus
+  - Kältetoten
+  - Ertrinkungstote
+  - Harvesting-Effekt
 seo:
-  description: "Dieser Tagesschau-Beitrag über die Hitzetoten in Europa ist ein Lehrstück in Zahlenmystik: Eine WHO-Zahl wird als Fakt präsentiert, ohne dass die Methodik…"
+  description: >-
+    Dieser Tagesschau-Beitrag über die Hitzetoten in Europa ist ein Lehrstück in
+    Zahlenmystik: Eine WHO-Zahl wird als Fakt präsentiert, ohne dass die
+    Methodik…
+themen:
+  - Hitzetote-Statistik
+  - Übersterblichkeit vs. hitzebedingte Todesfälle
+  - Wissenschaftsjournalismus
+  - Kältetoten-Vergleich
+  - Klimawandel-Attribution
+kritisiertes_medium: SRF Tagesschau
+kritisierter_beitrag: WHO meldet über 1300 Hitzetote in Europa
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Kontextmangel
+  - Autoritätsargument
+personen:
+  - Tedros Adhanom Ghebreyesus
+  - Martina Ragettli
+  - Gasparrini
+  - Zhao
+institutionen:
+  - WHO
+  - SRF
+  - Swiss TPH
+  - Bundesamt für Statistik
+  - französische Gesundheitsbehörde
+  - französisches Innenministerium
+gesetze_vorlagen:
+  - Art. 93 BV
+these: >-
+  Der SRF-Beitrag präsentiert WHO-Hitzetodzahlen als Fakt, ohne Methodik zu
+  hinterfragen, unterscheidet nicht zwischen Übersterblichkeit und
+  hitzebedingten Todesfällen und blendet zentrale Kontexte wie Kältetoten,
+  historische Vergleiche und Anpassungsfortschritte aus.
+zusammenfassung: >-
+  Die 9min.ch-Analyse kritisiert einen SRF-Tagesschau-Beitrag über Hitzetote in
+  Europa als statistisch vagen Wissenschaftsjournalismus. Hauptkritikpunkte sind
+  die fehlende Unterscheidung zwischen Hitzetoten, hitzebedingten Todesfällen
+  und Übersterblichkeit, die unkritische Übernahme der WHO-Zahl von 1300 Toten,
+  das Fehlen des Kältetoten-Vergleichs, die Auslassung des historischen Kontexts
+  (2003 vs. 2026) sowie die implizite, aber unbelegte Klimawandel-Attribution.
+  Der Beitrag gebe Dramatik ohne methodische Reflexion und sei eher Zahlen-PR
+  als Wissenschaftsjournalismus.
+quelle_datum: '2026-06-29'
+quelle_format: Broadcast
+quelle_sendung: Tagesschau
+quelle_redaktion: SRF News
+kritik_schwere: 2
 ---
 
 *Dieser Tagesschau-Beitrag über die Hitzetoten in Europa ist ein Lehrstück in Zahlenmystik: Eine WHO-Zahl wird als Fakt präsentiert, ohne dass die Methodik hinterfragt wird. «Über 1300 zusätzliche Todesfälle, die im Zusammenhang mit den hohen Temperaturen stehen» — das klingt präzise, aber es ist statistisch vage. Was heisst «im Zusammenhang»? Was heisst «zusätzlich»? Sind es Hitzetote oder Übersterblichkeit? Sind es Tote, die ohne Hitze nicht gestorben wären, oder Tote, die ein paar Wochen früher gestorben sind, als sie ohnehin gestorben wären? Die Unterscheidung ist wissenschaftlich zentral — und der Beitrag macht sie nicht. Er übernimmt die WHO-Zahl als Fakt und kleidet sie mit einer Bestatter-Anekdote und einer Epidemiologen-Stimme in Dramatik. Das ist nicht Falschberichterstattung — aber es ist Wissenschaftsjournalismus, der die epistemische Fragilität seiner eigenen Zahlen ausblendet.*

@@ -1,14 +1,77 @@
 ---
 title: Die Verpackung
-date: "2026-05-10"
+date: '2026-05-10'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HH8-rwuXMAMM3so.jpg"
-tweetId: "2053432182568284396"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HH8-rwuXMAMM3so.jpg'
+tweetId: '2053432182568284396'
+categories:
+  - Demokratie
+  - Wirtschaft
+  - EU/Aussenpolitik
+tags:
+  - Toblerone
+  - Mondelēz
+  - Swissness-Gesetz
+  - Matterhorn
+  - Shrinkflation
+  - Golddeckung
+  - Bankgeheimnis
+  - direkte Demokratie
 seo:
-  description: "Das Dreieck. Sie kennen die Form. Selbst wenn Sie den Namen nicht sofort parat haben, kennen Sie die Form. Die dreieckigen Zacken, aufgereiht wie eine…"
+  description: >-
+    Das Dreieck. Sie kennen die Form. Selbst wenn Sie den Namen nicht sofort
+    parat haben, kennen Sie die Form. Die dreieckigen Zacken, aufgereiht wie
+    eine…
+themen:
+  - Swissness und Schweizer Identität
+  - Unternehmensübernahmen und Schweizer Industriegut
+  - Verlust Schweizer Strukturmerkmale
+  - Swissness-Gesetzgebung
+  - Schweizer Souveränität
+kritisiertes_medium: 9min.ch
+kritisierter_beitrag: Die Verpackung (Teil 1 der Serie 'Der Swissness-Test')
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Kontextmangel
+  - Einordnungsfehler
+personen:
+  - Theodor Tobler
+  - Jean Tobler
+  - Emil Baumann
+  - Klaus J. Jacobs
+  - Albert Einstein
+institutionen:
+  - Mondelēz International
+  - Philip Morris
+  - Kraft Jacobs Suchard
+  - Interfood AG
+  - Tobler AG
+  - Suchard
+  - Eidgenössisches Amt für Geistiges Eigentum
+  - Jacobs Suchard AG
+gesetze_vorlagen:
+  - Swissness-Gesetzgebung
+  - Markenschutzgesetzgebung
+these: >-
+  Die Schweiz hat wie die Toblerone ihre wesentliche Substanz zugunsten globaler
+  Anpassung ausgehöhlt, während die äussere Symbolik erhalten blieb — ein
+  Swissness-Test sollte zeigen, ob die 'Zacken' der Schweizer Identität noch
+  stehen.
+zusammenfassung: >-
+  Der Artikel nutzt die Geschichte der Toblerone — von einem Berner
+  Familienbetrieb über mehrere Eigentümerwechsel bis hin zu Mondelēz
+  International — als Metapher für die Schweiz. Analog zur schrittweisen
+  Veränderung von Rezeptur, Herkunft und Symbolik der Schokolade untersucht die
+  Serie in vier Teilen, ob die Schweiz ihre strukturellen Kernmerkmale
+  (Golddeckung, Bankgeheimnis, Neutralität, Souveränität, Privatsphäre, direkte
+  Demokratie) noch erfüllt oder ob nur noch die Verpackung stimmt.
+quelle_datum: ''
+quelle_format: ''
+quelle_sendung: ''
+quelle_redaktion: ''
+kritik_schwere: 2
 ---
 
 Das Dreieck. Sie kennen die Form.

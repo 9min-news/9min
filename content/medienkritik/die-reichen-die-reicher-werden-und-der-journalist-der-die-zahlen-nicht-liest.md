@@ -1,14 +1,70 @@
 ---
-title: "Die Reichen, die reicher werden — und der Journalist, der die Zahlen nicht liest"
-date: "2026-06-30"
+title: >-
+  Die Reichen, die reicher werden — und der Journalist, der die Zahlen nicht
+  liest
+date: '2026-06-30'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMEWC9FW8AAnCMr.jpg"
-tweetId: "2071961560906355037"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMEWC9FW8AAnCMr.jpg'
+tweetId: '2071961560906355037'
+categories:
+  - SRF/SRG
+  - Wirtschaft
+  - Gesellschaft
+tags:
+  - UBS Global Wealth Report
+  - Bestätigungsjournalismus
+  - Interessenkonflikt
+  - Pensionskassen
+  - Kaufkraftparität
+  - Gini-Koeffizient
+  - Banken-PR
+  - Methodik
 seo:
-  description: "Dieser SRF-Beitrag über den UBS Global Wealth Report ist ein Lehrstück in Bestätigungsjournalismus: Die Story steht fest, bevor die Zahlen geprüft sind —…"
+  description: >-
+    Dieser SRF-Beitrag über den UBS Global Wealth Report ist ein Lehrstück in
+    Bestätigungsjournalismus: Die Story steht fest, bevor die Zahlen geprüft
+    sind —…
+themen:
+  - Vermögensverteilung und Ungleichheit
+  - Wirtschaftsjournalismus und Methodik
+  - Pensionskassen im internationalen Vergleich
+  - Geldpolitik als Treiber der Vermögensungleichheit
+kritisiertes_medium: SRF
+kritisierter_beitrag: Die Reichen sind nochmals viel reicher geworden
+kritisierter_autor: Sven Zaugg
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Interessenkonflikt
+personen:
+  - Sven Zaugg
+institutionen:
+  - SRF
+  - UBS
+  - SNB
+  - Fed
+  - EZB
+gesetze_vorlagen: []
+these: >-
+  Der SRF-Beitrag präsentiert UBS-Zahlen unkritisch als Wirtschaftsanalyse,
+  während die zentralen methodischen Fragen — Pensionskassen-Inklusion,
+  Kaufkraftparität, Gini-Verlauf über Zeit — nicht gestellt werden und eine
+  politische These als journalistische Analyse verkleidet wird.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert den SRF-Beitrag von Sven Zaugg zum UBS Global
+  Wealth Report als Bestätigungsjournalismus. Die UBS-Zahlen werden als Fakt
+  übernommen, ohne die Methodik zu prüfen — insbesondere die
+  Pensionskassen-Inklusion verzerrt den internationalen Vergleich, die
+  Dollar-Millionär-Zahl fehlt die Kaufkraftparität-Korrektur, und die These «die
+  Vermögensschere geht weiter auf» bleibt unbelegt. Die gesellschaftliche
+  Aussage wird als Analyse verkleidet, die Geldpolitik als zentraler Treiber der
+  Vermögensungleichheit fehlt vollständig.
+quelle_datum: '2026-06-30'
+quelle_format: Broadcast
+quelle_sendung: Rendez-vous
+quelle_redaktion: SRF News
+kritik_schwere: 2
 ---
 
 *Dieser SRF-Beitrag über den UBS Global Wealth Report ist ein Lehrstück in Bestätigungsjournalismus: Die Story steht fest, bevor die Zahlen geprüft sind — die Reichen werden reicher, die Schere geht auf, die Gesellschaft wird das nicht lange akzeptieren. Sven Zaugg liefert das Framing und nennt es Analyse. Was er nicht liefert: eine methodische Prüfung der Zahlen, die er zitiert. Die zentrale Frage — ob der Report überhaupt das misst, was SRF behauptet — wird nicht gestellt. Das Ergebnis ist ein Beitrag, der klingt wie Wirtschaftsanalyse, aber keine ist — denn eine Analyse prüft ihre Quellen, und dieser Beitrag prüft nichts.*

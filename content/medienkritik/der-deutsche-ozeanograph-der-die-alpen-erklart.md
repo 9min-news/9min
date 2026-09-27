@@ -1,14 +1,64 @@
 ---
-title: "Der deutsche Ozeanograph, der die Alpen erklärt"
-date: "2026-08-05"
+title: 'Der deutsche Ozeanograph, der die Alpen erklärt'
+date: '2026-08-05'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HO-uDNsWoAAPVYL.jpg"
-tweetId: "2085076769783042441"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HO-uDNsWoAAPVYL.jpg'
+tweetId: '2085076769783042441'
+categories:
+  - SRF/SRG
+  - Klima/Energie
+tags:
+  - Mojib Latif
+  - SRF
+  - Wasserknappheit
+  - Ozeanograph
+  - Wasserbilanz
+  - Expertenwahl
+  - Framing
+  - Bodensee
 seo:
-  description: "SRF interviewt den deutschen Klimaforscher Mojib Latif über Wasserknappheit und rahmt ihn als unfehlbaren Warner. Flüsse trocknen aus, der Bodensee sinkt.…"
+  description: >-
+    SRF interviewt den deutschen Klimaforscher Mojib Latif über Wasserknappheit
+    und rahmt ihn als unfehlbaren Warner. Flüsse trocknen aus, der Bodensee
+    sinkt.…
+themen:
+  - Wissenschaftsberichterstattung
+  - Wasserknappheit
+  - Expertenwahl
+  - Wasserbilanz Schweiz
+  - Klimakommunikation
+kritisiertes_medium: SRF
+kritisierter_beitrag: Wieso wir vorsichtiger mit Wasser umgehen sollten
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Selektion
+personen:
+  - Mojib Latif
+institutionen:
+  - SRF
+  - Helmholtz-Zentrum für Ozeanforschung Kiel
+  - Eawag
+  - WSL
+  - ETH
+gesetze_vorlagen: []
+these: >-
+  SRF interviewt einen deutschen Ozeanographen über Schweizer Gewässer und lässt
+  ihn ohne faktenbasierte Prüfung eine Wasserkrise konstruieren.
+zusammenfassung: >-
+  Der 9min.ch-Artikel kritisiert einen SRF-Beitrag, der den deutschen
+  Ozeanographen Mojib Latif zu Wasserknappheit befragt, ohne dessen vergangene
+  Prognosen zu prüfen, Schweizer Fachexperten einzubeziehen oder die Schweizer
+  Wasserbilanz darzustellen. Dem Beitrag fehlen historische Pegelstände,
+  konkrete Verbrauchszahlen und ein Vergleich mit Schweizer Hydrologen. Er wird
+  als Kriseninterview ohne journalistischen Kontext charakterisiert.
+quelle_datum: '2026-08-05'
+quelle_format: Broadcast
+quelle_sendung: Rendez-vous
+quelle_redaktion: SRF News
+kritik_schwere: 2
 ---
 
 *SRF interviewt den deutschen Klimaforscher Mojib Latif über Wasserknappheit und rahmt ihn als unfehlbaren Warner. Flüsse trocknen aus, der Bodensee sinkt. SRF fragt nicht nach Latifs vergangenen Prognosen, interviewt für Schweizer Binnengewässer einen deutschen Ozeanographen statt eines Schweizer Experten und prüft nicht die Schweizer Wasserbilanz. Der Beitrag ist ein Interview ohne journalistischen Instinkt.*

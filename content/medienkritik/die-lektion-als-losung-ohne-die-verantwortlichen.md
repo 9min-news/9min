@@ -1,14 +1,65 @@
 ---
-title: "Die Lektion als Lösung, ohne die Verantwortlichen"
-date: "2026-07-21"
+title: 'Die Lektion als Lösung, ohne die Verantwortlichen'
+date: '2026-07-21'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HNvD8wHW4AA5yXN.jpg"
-tweetId: "2079471119732494566"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HNvD8wHW4AA5yXN.jpg'
+tweetId: '2079471119732494566'
+categories:
+  - SRF/SRG
+  - Gesellschaft
+  - Demokratie
+tags:
+  - SRF
+  - BAG
+  - Anne Levy
+  - Bewohnerräte
+  - Corona
+  - Aufarbeitung
+  - Altersheim
+  - Verantwortung
 seo:
-  description: SRF berichtet über eine BAG-Empfehlung für Bewohnerräte in Alters- und Pflegeheimen — und rahmt sie als Lehre aus der Corona-Pandemie. «Im Kampf gegen…
+  description: >-
+    SRF berichtet über eine BAG-Empfehlung für Bewohnerräte in Alters- und
+    Pflegeheimen — und rahmt sie als Lehre aus der Corona-Pandemie. «Im Kampf
+    gegen…
+themen:
+  - BAG-Empfehlung Bewohnerräte
+  - Corona-Pandemie-Aufarbeitung
+  - Isolation von Heimbewohnern
+  - Verantwortung von Anne Levy
+  - Rechenschaftspflicht
+kritisiertes_medium: SRF News
+kritisierter_beitrag: 'BAG empfiehlt Alters- und Pflegeheimen, Bewohnerräte zu gründen'
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Behördenpropaganda
+personen:
+  - Anne Levy
+  - Sandra Staudacher
+institutionen:
+  - SRF
+  - BAG
+  - Fachhochschule Nordwestschweiz
+gesetze_vorlagen: []
+these: >-
+  SRF rahmt die BAG-Empfehlung für Bewohnerräte als Aufarbeitung der
+  Corona-Pandemie, ohne nach den Verantwortlichen für die damalige Isolation von
+  Heimbewohnern zu fragen.
+zusammenfassung: >-
+  Der 9min.ch-Artikel kritisiert einen SRF-Beitrag, der eine BAG-Empfehlung für
+  Bewohnerräte in Alters- und Pflegeheimen als Lehre aus der Corona-Pandemie
+  darstellt. Die Kritik: SRF erwähnt nicht, wer die Isolation anordnete, rahmt
+  BAG-Chefin Anne Levy als Lösungsanbieterin statt als Verantwortliche und
+  stellt keine Frage nach echter Rechenschaft. Die Aufarbeitung werde als
+  Fortschrittsstory ohne Abrechnung inszeniert.
+quelle_datum: '2026-07-21'
+quelle_format: Online-Artikel
+quelle_sendung: HeuteMorgen
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF berichtet über eine BAG-Empfehlung für Bewohnerräte in Alters- und Pflegeheimen — und rahmt sie als Lehre aus der Corona-Pandemie. «Im Kampf gegen Isolation», lautet der Titel, und die Empfehlung ist die Antwort auf ein Problem, das SRF als Folge von «Schutzmassnahmen» darstellt. Was nicht vorkommt: die Frage, wer diese «Schutzmassnahmen» anordnete. Was nicht vorkommt: die Frage, wer die Isolation der Heimbewohner verantwortete. Was nicht vorkommt: die Frage, ob Anne Levy, die heute Bewohnerräte empfiehlt, damals als BAG-Chefin dieselbe Isolation anordnete. Was nicht vorkommt: die Frage, ob Bewohnerräte eine echte Lösung sind — oder ob sie eine symbolische Geste sind, um von der eigentlichen Verantwortung abzulenken. Was nicht vorkommt: die Frage, ob Heime, die während Covid isolierten, jetzt plötzlich partizipativ werden können — oder ob die Strukturen, die Isolation ermöglichten, noch existieren. Der Beitrag ist Aufarbeitung ohne Rechenschaftspflicht — und die Rechenschaftspflicht wäre die Frage gewesen, wer die Isolation anordnete und wer dafür zur Verantwortung gezogen wird.*

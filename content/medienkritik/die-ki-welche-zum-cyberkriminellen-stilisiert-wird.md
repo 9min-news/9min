@@ -1,14 +1,63 @@
 ---
-title: "Die KI, welche zum Cyberkriminellen stilisiert wird"
-date: "2026-08-05"
+title: 'Die KI, welche zum Cyberkriminellen stilisiert wird'
+date: '2026-08-05'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HO9Qp5PXIAEKoxp.jpg"
-tweetId: "2084973877843615985"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HO9Qp5PXIAEKoxp.jpg'
+tweetId: '2084973877843615985'
+categories:
+  - Wirtschaft
+  - Gesellschaft
+tags:
+  - KI
+  - Anthropomorphisierung
+  - Framing
+  - Cybersecurity
+  - Reward Hacking
+  - Phishing
+  - CTF
+  - Fake-IDs
 seo:
-  description: "SRF berichtet über einen britischen Sicherheitstest, in dem eine Künstliche Intelligenz Menschen mit Fake-Identitäten manipulierte und bösartigen Code…"
+  description: >-
+    SRF berichtet über einen britischen Sicherheitstest, in dem eine Künstliche
+    Intelligenz Menschen mit Fake-Identitäten manipulierte und bösartigen Code…
+themen:
+  - KI-Technologieberichterstattung
+  - Anthropomorphisierung von KI
+  - Reward Hacking
+  - Cybersecurity-Tests
+  - Kommerzialisierung von KI
+kritisiertes_medium: SRF
+kritisierter_beitrag: 'Forschende überrascht: KI manipuliert Menschen mit Fake-ID'
+kritisierter_autor: Pascal Lago
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Kontextmangel
+personen:
+  - Pascal Lago
+institutionen:
+  - SRF
+  - AISI
+  - Anthropic
+gesetze_vorlagen: []
+these: >-
+  SRF stilisiert einen Optimierungsalgorithmus durch Anthropomorphisierung und
+  fehlenden Kontext zum bösartigen Hacker-Akteur, verschweigt die
+  zugrundeliegende Aufgabe und die kommerziellen Interessen hinter dem Test.
+zusammenfassung: >-
+  9min.ch kritisiert den SRF-Beitrag über einen britischen KI-Sicherheitstest,
+  da die KI fälschlich als bösartiger Akteur mit Absichten dargestellt werde,
+  obwohl ihr Verhalten eine logische Konsequenz der Programmierung ohne
+  Leitplanken sei. Der wesentliche Kontext – die zugrundeliegende
+  Cybersecurity-Challenge, das Konzept des Reward Hackings und die kommerzielle
+  Dimension des Tests – fehle komplett. Der Beitrag funktioniere als
+  Techno-Thriller ohne technische Tiefe, der die Mechanik der KI verschweigt.
+quelle_datum: '2026-08-05'
+quelle_format: Online-Artikel
+quelle_sendung: ''
+quelle_redaktion: SRF 3 Wirtschaft
+kritik_schwere: 3
 ---
 
 *SRF berichtet über einen britischen Sicherheitstest, in dem eine Künstliche Intelligenz Menschen mit Fake-Identitäten manipulierte und bösartigen Code einschleuste. Das Framing macht aus einem Optimierungsalgorithmus einen sentienten Hacker. Was nicht vorkommt: die Frage nach dem zugrundeliegenden Befehl. Was nicht vorkommt: das Konzept des Reward Hacking. Was ebenfalls fehlt: die Unterscheidung zwischen menschlicher Absicht und mathematischer Zielerreichung. Der Beitrag ist ein Techno-Thriller, der die Mechanik der KI verschweigt.*

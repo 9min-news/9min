@@ -1,14 +1,77 @@
 ---
 title: SRF macht Farage nieder
-date: "2026-07-07"
+date: '2026-07-07'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMpjkyMXQAECPVC.jpg"
-tweetId: "2074580079628394994"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMpjkyMXQAECPVC.jpg'
+tweetId: '2074580079628394994'
+categories:
+  - SRF/SRG
+  - EU/Aussenpolitik
+  - Demokratie
+tags:
+  - Farage
+  - Reform UK
+  - Framing
+  - Gegner-Zitate
+  - Spenden
+  - Rücktritt
+  - Nachwahl
+  - UK
 seo:
-  description: "SRF meldet Nigel Farages Rücktritt als Parlamentsabgeordneter — und rahmt ihn als Flucht. «Verzweifelter Stunt», «Ablenkungsmanöver», «breche unter dem…"
+  description: >-
+    SRF meldet Nigel Farages Rücktritt als Parlamentsabgeordneter — und rahmt
+    ihn als Flucht. «Verzweifelter Stunt», «Ablenkungsmanöver», «breche unter
+    dem…
+themen:
+  - Medien-Framing von Rücktritten
+  - Britische Parteienpolitik
+  - Spendenkultur im Parlament
+  - Quellenauswahl in der Auslandsberichterstattung
+kritisiertes_medium: SRF News
+kritisierter_beitrag: Nigel Farage legt Mandat nieder
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Selektion
+  - Kontextmangel
+personen:
+  - Nigel Farage
+  - Keir Starmer
+  - Andy Burnham
+  - Kemi Badenoch
+  - Zack Polanski
+  - George Cottrell
+institutionen:
+  - SRF
+  - Reform UK
+  - Labour Party
+  - Conservative Party
+  - Green Party
+  - House of Commons
+  - Beauftragter für parlamentarische Standards
+  - Sunday Times
+  - Guardian
+gesetze_vorlagen: []
+these: >-
+  SRF rahmt Farages Mandatsniederlegung als Flucht vor einem Ausschluss und
+  reproduziert ungeprüft die Zitate politischer Konkurrenten, statt die
+  demokratische Dimension einer Nachwahl, die Gründe für Reform UKs
+  Umfragevorsprung und den Kontext der britischen Spendenkultur zu analysieren.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert die SRF-Berichterstattung über Nigel Farages
+  Rücktritt als Unterhausabgeordneter als einseitige Stenografie politischer
+  Gegner-Zitate. SRF rahme den Rücktritt als Flucht vor einem
+  Untersuchungsverfahren, zitiere vier konkurrierende Parteivertreter ohne deren
+  Interessen zu benennen und lasse den Kontext der britischen Spendenkultur, die
+  Gründe für Reform UKs Umfragevorsprung sowie Farages Kostenübernahme für die
+  Nachwahl weitgehend unterbelichtet. Auch ein Vergleich mit Schweizer
+  Transparenzregeln fehle vollständig.
+quelle_datum: '2026-07-07'
+quelle_format: Online-Artikel
+quelle_sendung: SRF 4 News
+quelle_redaktion: SRF News
+kritik_schwere: 2
 ---
 
 *SRF meldet Nigel Farages Rücktritt als Parlamentsabgeordneter — und rahmt ihn als Flucht. «Verzweifelter Stunt», «Ablenkungsmanöver», «breche unter dem Druck zusammen» — drei Quotes von politischen Gegnern, die SRF ungeprüft in den Text stellt. Was nicht vorkommt: die Frage, ob ein Politiker, der sich dem Votum seiner Wähler erneut stellt, damit gerade nicht flieht. Was nicht vorkommt: die Frage, warum Reform UK führt — was die Wähler sehen, was SRF nicht sieht. Was nicht vorkommt: der Vergleich mit der britischen Spendenkultur insgesamt — sind Farages Zuwendungen ein Ausreisser oder die Norm? Der Beitrag ist eine Stenografie der Gegner-Zitate, verpackt als Berichterstattung.*

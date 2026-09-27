@@ -1,14 +1,74 @@
 ---
-title: "Die Gewalt, die nicht nach Weiss fragt"
-date: "2026-06-28"
+title: 'Die Gewalt, die nicht nach Weiss fragt'
+date: '2026-06-28'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HL6YrbVWcAAJ_Sx.jpg"
-tweetId: "2071260772986994735"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HL6YrbVWcAAJ_Sx.jpg'
+tweetId: '2071260772986994735'
+categories:
+  - SRF/SRG
+  - Migration
+  - EU/Aussenpolitik
+tags:
+  - Südafrika
+  - Tagesschau
+  - Xenophobie
+  - Farmmorde
+  - Landreform
+  - Trump-Flüchtlingspolitik
+  - Asymmetrie
+  - March on March
 seo:
-  description: "Dieser SRF-Beitrag über fremdenfeindliche Gewalt in Südafrika zeigt ein reales, eskalierendes Problem — und verpasst zugleich die grössere Story. Die…"
+  description: >-
+    Dieser SRF-Beitrag über fremdenfeindliche Gewalt in Südafrika zeigt ein
+    reales, eskalierendes Problem — und verpasst zugleich die grössere Story.
+    Die…
+themen:
+  - Südafrika-Krise
+  - Xenophobie und Migranten
+  - Weisse Farmer und Farmmorde
+  - Berichterstattungsmuster SRF
+kritisiertes_medium: SRF News
+kritisierter_beitrag: Tausende Migrantinnen und Migranten in Südafrika leben in Angst
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Kontextmangel
+  - Asymmetrie
+personen:
+  - Charles Mutenga
+  - Claudia Krugsmaker
+  - Charlie Roux
+  - Jacinta Ngobese-Zuma
+  - Julius Malema
+institutionen:
+  - SRF
+  - ANC
+  - EFF
+  - March on March
+  - Kopanang Africa Against Xenophobia
+  - Trump-Administration
+  - Bundesrat
+gesetze_vorlagen:
+  - Landreform ohne Entschädigung
+these: >-
+  Die SRF-Tagesschau reduziert die multiple Südafrika-Krise auf eine reine
+  Migrationsstory und blendet systematisch die weisse Dimension, den
+  post-Apartheid-Vertragsbruch und eigene frühere Berichterstattung aus.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert einen SRF-Tagesschau-Beitrag vom 26.06.2026 über
+  fremdenfeindliche Gewalt in Südafrika. Er anerkennt die dokumentierten Fakten
+  und authentischen Stimmen, moniert aber systematische Auslassungen: die weisse
+  Farmer-Frage, Landreform, EFF-Rhetorik, Trump-Flüchtlingspolitik und
+  Gegenbewegungen würden verschwiegen, obwohl ein verlinkter SRF-Artikel genau
+  diese Themen behandle. Die Kritik sieht ein Muster: afrikanische Migranten als
+  Opfer werden gezeigt, weisse Farmer als Opfer werden relativiert oder
+  ausgelassen.
+quelle_datum: '2026-06-26'
+quelle_format: Broadcast
+quelle_sendung: Tagesschau
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *Dieser SRF-Beitrag über fremdenfeindliche Gewalt in Südafrika zeigt ein reales, eskalierendes Problem — und verpasst zugleich die grössere Story. Die Tagesschau berichtet über «March on March», eine Bewegung, die illegale Migranten bis zum 30. Juni aus dem Land drängen will, über Mobangriffe, Tote und panische afrikanische Arbeitsmigranten. Das ist dokumentiert und relevant. Aber der Beitrag blendet aus, was die internationale Debatte um Südafrika eigentlich dominiert: die Frage, ob weisse Farmer gezielt ermordet werden, ob es einen Rassenkrieg gibt, ob die Trump-Administration recht hatte, als sie weisse «Geflüchtete» aus Südafrika aufnahm. Der verlinkte SRF-Beitrag vom Mai 2025 erwähnt genau das — aber die aktuelle Tagesschau schweigt dazu. Wer die Südafrika-Berichterstattung des SRF in den letzten zwei Jahren verfolgt, sieht ein Muster: Wenn afrikanische Migranten Opfer sind, wird berichtet; wenn weisse Farmer Opfer sind, wird relativiert oder geschwiegen. Das ist keine Verschwörung, aber es ist eine Schlagseite, die Fragen aufwirft.*

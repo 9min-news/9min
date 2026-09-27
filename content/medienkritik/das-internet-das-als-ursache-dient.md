@@ -1,14 +1,64 @@
 ---
-title: "Das Internet, das als Ursache dient"
-date: "2026-07-31"
+title: 'Das Internet, das als Ursache dient'
+date: '2026-07-31'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HOixO8rWcAA7OzH.jpg"
-tweetId: "2083109714225668453"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HOixO8rWcAA7OzH.jpg'
+tweetId: '2083109714225668453'
+categories:
+  - SRF/SRG
+  - Migration
+  - Sicherheitspolitik
+tags:
+  - Islamischer Staat
+  - Tiktok
+  - Radikalisierung
+  - Framing
+  - Auslassung
+  - Kontextmangel
+  - Islam
+  - 10vor10
 seo:
-  description: "SRF erklärt die Anziehungskraft des Islamischen Staates auf Jugendliche und rahmt sie als technologisches und psychologisches Problem. Tiktok,…"
+  description: >-
+    SRF erklärt die Anziehungskraft des Islamischen Staates auf Jugendliche und
+    rahmt sie als technologisches und psychologisches Problem. Tiktok,…
+themen:
+  - Islamismus-Radikalisierung
+  - Medienframing
+  - Migration und kultureller Hintergrund
+  - Terrorismus-Berichterstattung
+  - Schweizer Fallbeispiele
+kritisiertes_medium: SRF
+kritisierter_beitrag: Deshalb sprechen Jugendliche auf den ‹Islamischen Staat› an
+kritisierter_autor: Daniel Glaus
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Kontextmangel
+personen:
+  - Daniel Glaus
+institutionen:
+  - SRF
+  - Islamischer Staat
+  - Al Kaida
+gesetze_vorlagen: []
+these: >-
+  SRF rahmt die IS-Radikalisierung als technologisches Internet-Problem, um den
+  kulturellen und religiösen Kontext der Täter sowie Schweizer Fallbeispiele
+  auszublenden.
+zusammenfassung: >-
+  Der Artikel kritisiert einen SRF-10vor10-Beitrag, der die Anziehungskraft des
+  IS auf Jugendliche primär auf Tiktok-Algorithmen und psychische Lebenskrisen
+  zurückführt. SRF lasse den kulturellen Hintergrund der Täter, die Rolle
+  antiwestlicher und antisemitischer Milieus, Schweizer Fallbeispiele sowie die
+  theologischen Grundlagen im Islam unerwähnt. Diese Soziologie ohne Kontext
+  schone die Realität und verhindere eine sachgemässe Auseinandersetzung mit der
+  Bedrohung.
+quelle_datum: '2026-07-29'
+quelle_format: Broadcast
+quelle_sendung: 10vor10
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF erklärt die Anziehungskraft des Islamischen Staates auf Jugendliche und rahmt sie als technologisches und psychologisches Problem. Tiktok, Lebenskrisen, das Bedürfnis nach Sinn. Was nicht vorkommt: die Herkunft der Täter. Was nicht vorkommt: der kulturelle Hintergrund, in dem Judenhass und Homophobie normal sind. Was nicht vorkommt: die Schweizer Fälle, die das abstrakte Narrativ widerlegen. Der Beitrag ist eine Soziologie ohne Kontext, die das Internet zur Ursache macht, um die Realität zu schonen.*

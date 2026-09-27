@@ -1,14 +1,80 @@
 ---
 title: Die Gründung mit SRF-Spin und ohne Schweiz Bezug
-date: "2026-07-04"
+date: '2026-07-04'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMZSCazXwAAneOQ.jpg"
-tweetId: "2073435064948400490"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMZSCazXwAAneOQ.jpg'
+tweetId: '2073435064948400490'
+categories:
+  - SRF/SRG
+  - Demokratie
+  - Gesellschaft
+tags:
+  - Gründerväter
+  - Hagiografie
+  - Sklaverei
+  - 10vor10
+  - Trump-Framing
+  - Schweizer Demokratie
+  - Interview-Journalismus
+  - Accountability-Laundering
 seo:
-  description: "Dieser SRF-Beitrag zum 250. Jahrestag der US-Unabhängigkeit ist ein Lehrstück in hagiografischem Interview-Journalismus: Ein Historiker wird eingeladen,…"
+  description: >-
+    Dieser SRF-Beitrag zum 250. Jahrestag der US-Unabhängigkeit ist ein
+    Lehrstück in hagiografischem Interview-Journalismus: Ein Historiker wird
+    eingeladen,…
+themen:
+  - US-Gründerväter-Hagiografie
+  - Interview-Journalismus ohne Nachfragen
+  - Schweizer Demokratieblindheit
+  - Strukturdefizite US-Verfassung
+  - Asymmetrische Demokratiekritik
+kritisiertes_medium: SRF
+kritisierter_beitrag: 'Historiker: ''Die Gründerväter wären besorgt'''
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Autoritätsargument
+  - Asymmetrie
+personen:
+  - John A. Ragosta
+  - Thomas Jefferson
+  - James Madison
+  - George Washington
+  - Donald Trump
+  - Alain Berset
+  - Patrick Fischer
+institutionen:
+  - SRF
+  - 10vor10
+  - Bundesrat
+  - US-Supreme Court
+  - US-Senat
+  - Swisscom
+gesetze_vorlagen:
+  - US-Unabhängigkeitserklärung
+  - US-Verfassung 1787
+  - Schweizer Bundesverfassung 1848
+  - Citizens United
+  - E-ID-Vorlage
+these: >-
+  SRF reproduziert in einem Interview zum 250. Jahrestag der US-Unabhängigkeit
+  eine Historiker-Meinung unkritisch als historische Reflexion und kritisiert
+  die US-Demokratie, wendet denselben Massstab aber nie auf die Schweiz an.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert ein 10vor10-Interview mit dem Historiker John A.
+  Ragosta, in dem die US-Gründerväter als moralische Autoritäten präsentiert
+  werden, ohne dass der zentrale Widerspruch der Sklaverei, strukturelle
+  Verfassungsprobleme oder die Schweizer Demokratieprobleme thematisiert werden.
+  SRF stelle keine einzige kritische Nachfrage und lasse Ragostas Perspektive
+  als Jefferson-Biograf unkontestiert. Die Kritik richtet sich insbesondere
+  gegen die Asymmetrie: SRF kritisiere die US-Demokratie, ignoriere aber analoge
+  Schweizer Probleme systematisch.
+quelle_datum: '2026-07-03'
+quelle_format: Broadcast
+quelle_sendung: 10vor10
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *Dieser SRF-Beitrag zum 250. Jahrestag der US-Unabhängigkeit ist ein Lehrstück in hagiografischem Interview-Journalismus: Ein Historiker wird eingeladen, um die Gegenwart im Licht der Gründerväter zu deuten — und er deutet sie als Warnung, ohne dass der Interviewer eine einzige kritische Nachfrage stellt. Die Gründerväter werden als moralische Autoritäten präsentiert, ohne dass ihre Widersprüche erwähnt werden. Trump wird als Symptom gerahmt, ohne dass die strukturellen Ursachen analysiert werden. Und die Schweiz — die dieselben demokratischen Erosionserscheinungen zeigt — kommt mit keinem Wort vor. SRF kritisiert die US-Demokratie, aber nie die eigene. Der Beitrag klingt wie historische Reflexion, aber er ist keine — denn historische Reflexion prüft ihre Quellen, und dieser Beitrag prüft nichts. Er reproduziert eine Historiker-Meinung mit SRF-Siegel.*

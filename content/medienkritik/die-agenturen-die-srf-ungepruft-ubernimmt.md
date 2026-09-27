@@ -1,14 +1,74 @@
 ---
-title: "Die Agenturen, die SRF ungeprüft übernimmt"
-date: "2026-07-06"
+title: 'Die Agenturen, die SRF ungeprüft übernimmt'
+date: '2026-07-06'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMhtSMfXoAA8wf_.jpg"
-tweetId: "2074027808553099344"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMhtSMfXoAA8wf_.jpg'
+tweetId: '2074027808553099344'
+categories:
+  - SRF/SRG
+  - Wirtschaft
+  - Demokratie
+tags:
+  - Nachrichtenagenturen
+  - Agenturmaterial
+  - Medienkritik
+  - Öffentlich-rechtlich
+  - Qualitätsjournalismus
+  - Medienkonzentration
+  - Abhängigkeit
+  - Recherche
 seo:
-  description: "SRF veröffentlicht einen Überblick über Nachrichtenagenturen — und liefert ein Lexikon. Gründungsdaten, Mitarbeiterzahlen, Sprachen, Standorte. Was der…"
+  description: >-
+    SRF veröffentlicht einen Überblick über Nachrichtenagenturen — und liefert
+    ein Lexikon. Gründungsdaten, Mitarbeiterzahlen, Sprachen, Standorte. Was
+    der…
+themen:
+  - Nachrichtenagenturen
+  - Medienabhängigkeit
+  - Öffentlich-rechtlicher Journalismus
+  - Medienkonzentration
+  - Qualitätskontrolle
+kritisiertes_medium: SRF News
+kritisierter_beitrag: 'AP, Reuters, SDA: Diese Nachrichtenagenturen informieren die Welt'
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Kontextmangel
+personen: []
+institutionen:
+  - SRF
+  - AP
+  - Reuters
+  - Keystone-SDA
+  - dpa
+  - AFP
+  - Bloomberg
+  - NYT
+  - NZZ
+  - Blick
+  - Tages-Anzeiger
+  - The Athletic
+gesetze_vorlagen: []
+these: >-
+  SRF veröffentlicht einen Lexikonartikel über Nachrichtenagenturen, der die
+  eigene strukturelle Abhängigkeit von ungeprüft übernommenem Agenturmaterial
+  verschweigt und damit das Kernproblem des öffentlich-rechtlichen Journalismus
+  nicht thematisiert.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert einen SRF-Beitrag, der lediglich Fakten über
+  Nachrichtenagenturen auflistet, ohne die eigene Abhängigkeit von
+  Agenturmaterial zu thematisieren. Die wesentlichen Fragen nach
+  Qualitätskontrolle, Originalrecherche und den demokratischen Implikationen der
+  Medienkonzentration werden nicht gestellt. Damit liefert SRF mit 1,5
+  Milliarden Franken Budget einen Lexikonartikel, der die eigene strukturelle
+  Funktion als Verteiler statt Produzent von Nachrichten verschweigt.
+quelle_datum: '2026-06-30'
+quelle_format: Online-Artikel
+quelle_sendung: Rendez-vous
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF veröffentlicht einen Überblick über Nachrichtenagenturen — und liefert ein Lexikon. Gründungsdaten, Mitarbeiterzahlen, Sprachen, Standorte. Was der Beitrag nicht liefert: eine Analyse der Abhängigkeit. Dass SRF selbst Material von AP, Reuters, Keystone-SDA und dpa übernimmt, oft ungeprüft, oft ohne eigene Recherche, kommt nicht vor. Dass ein öffentlich-rechtlicher Sender mit 1,5 Milliarden Franken Jahresbudget ein Verzeichnis publiziert, das ein Chatbot in drei Sekunden generiert, ist der eigentliche Befund — aber er wird nicht gestellt.*

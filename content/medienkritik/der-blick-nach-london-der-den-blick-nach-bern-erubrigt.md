@@ -1,14 +1,73 @@
 ---
-title: "Der Blick nach London, der den Blick nach Bern erübrigt"
-date: "2026-07-16"
+title: 'Der Blick nach London, der den Blick nach Bern erübrigt'
+date: '2026-07-16'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HNWSNiDWsAAgFAG.jpg"
-tweetId: "2077728279952298278"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HNWSNiDWsAAgFAG.jpg'
+tweetId: '2077728279952298278'
+categories:
+  - SRF/SRG
+  - Gesellschaft
+  - Demokratie
+tags:
+  - Covid-19
+  - Untersuchungskommission
+  - SRF
+  - Auslandsberichterstattung
+  - Selbstentlastung
+  - RKI-Protokolle
+  - Bundesgericht
+  - VIP-Lane
 seo:
-  description: "SRF berichtet über die britische Covid-Untersuchungskommission — und rahmt sie als Lehrstück in staatlichem Versagen. 10 Milliarden Pfund verschwendet,…"
+  description: >-
+    SRF berichtet über die britische Covid-Untersuchungskommission — und rahmt
+    sie als Lehrstück in staatlichem Versagen. 10 Milliarden Pfund
+    verschwendet,…
+themen:
+  - Covid-Aufarbeitung
+  - Auslandsberichterstattung vs. Inlandberichterstattung
+  - Untersuchungskommissionen
+  - Pandemiepolitik
+  - RKI-Protokolle
+kritisiertes_medium: SRF 4 News
+kritisierter_beitrag: Grossbritannien war schlecht auf die Pandemie vorbereitet
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Selektion
+personen:
+  - Peter Stäuber
+institutionen:
+  - SRF
+  - SRF 4 News
+  - Covid-Untersuchungskommission Grossbritannien
+  - Robert Koch-Institut
+  - Bundesamt für Gesundheit
+  - Bundesgericht
+  - Schweizer Parlament
+  - WOZ
+  - Die Zeit
+gesetze_vorlagen:
+  - Parlamentarische Untersuchungskommission zur Covid-Politik (abgelehnt)
+these: >-
+  SRF betreibt mit dem Bericht über die britische Covid-Untersuchungskommission
+  Auslandsberichterstattung als Selbstentlastung, indem es britisches Versagen
+  aufarbeitet, während die Schweizer Covid-Politik nie untersucht wurde und die
+  RKI-Protokolle vor dem Bundesgericht liegen.
+zusammenfassung: >-
+  Der Artikel kritisiert einen SRF-Beitrag über die britische
+  Covid-Untersuchungskommission als Framing durch Themenwahl: SRF berichte über
+  britisches staatliches Versagen, erwähne aber nicht, dass die Schweiz keine
+  eigene Covid-Untersuchungskommission hat, keine Schweizer Zahlen nennt und die
+  RKI-Protokolle übergeht, die vor dem Bundesgericht verhandelt werden. Die
+  Auslandsberichterstattung diene als Selbstentlastung – der Blick nach London
+  erübrige den Blick nach Bern.
+quelle_datum: '2026-07-16'
+quelle_format: Broadcast
+quelle_sendung: SRF 4 News
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF berichtet über die britische Covid-Untersuchungskommission — und rahmt sie als Lehrstück in staatlichem Versagen. 10 Milliarden Pfund verschwendet, 20'000 Tote vermeidbar, VIP-Lanes für politische Freunde — das sind die Befunde, die SRF einem Korrespondenten entnimmt und referiert. Was nicht vorkommt: die Schweiz. Was nicht vorkommt: eine Schweizer Covid-Untersuchungskommission — die nicht existiert. Was nicht vorkommt: die RKI-Protokolle, die in Deutschland offenlegten, dass die interne Pandemiebewertung des Robert Koch-Instituts von der öffentlichen Kommunikation abwich — und die jetzt vor dem Bundesgericht verhandelt werden. Der Beitrag ist Auslandsberichterstattung als Selbstentlastung — der Blick nach London erübrigt den Blick nach Bern.*

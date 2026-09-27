@@ -1,14 +1,73 @@
 ---
-title: "Der Handwerker, der kein Politiker ist"
-date: "2026-07-28"
+title: 'Der Handwerker, der kein Politiker ist'
+date: '2026-07-28'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HOVmbe1WEAAXQ8w.jpg"
-tweetId: "2082183040655089749"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HOVmbe1WEAAXQ8w.jpg'
+tweetId: '2082183040655089749'
+categories:
+  - SRF/SRG
+  - EU/Aussenpolitik
+  - Demokratie
+tags:
+  - Friedrich Merz
+  - CDU
+  - SRF
+  - Rendez-vous
+  - Simone Fatzer
+  - Regierungskrise
+  - Framing
+  - Quellenlos
 seo:
-  description: "SRF analysiert die Regierungskrise von Friedrich Merz — und rahmt sie als persönliches Versagen. Der Kanzler fehle das «politische Handwerk», er komme…"
+  description: >-
+    SRF analysiert die Regierungskrise von Friedrich Merz — und rahmt sie als
+    persönliches Versagen. Der Kanzler fehle das «politische Handwerk», er
+    komme…
+themen:
+  - Regierungskrise Deutschland
+  - SRF-Auslandsberichterstattung
+  - Framing von Politikanalysen
+  - Korrespondenten-Monolog
+kritisiertes_medium: SRF News
+kritisierter_beitrag: Fehlt es Kanzler Merz am politischen Handwerk?
+kritisierter_autor: Simone Fatzer
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Selektion
+personen:
+  - Friedrich Merz
+  - Jens Spahn
+  - Simone Fatzer
+  - Angela Merkel
+  - Helmut Schmidt
+  - Olaf Scholz
+institutionen:
+  - SRF
+  - CDU
+  - SPD
+  - AfD
+  - Süddeutsche Zeitung
+  - CDU Rheinland-Pfalz
+  - CDU Bremen
+  - CDU Sachsen-Anhalt
+gesetze_vorlagen: []
+these: >-
+  SRF deklariert einen quellenlosen Korrespondenten-Monolog als Politikanalyse,
+  der die Regierungskrise um Merz personalisiert, ohne den Sachverhalt zu
+  rekonstruieren, Quellen zu zitieren oder strukturelle Faktoren zu benennen.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert einen SRF Rendez-vous-Beitrag zur deutschen
+  Regierungskrise um Kanzler Friedrich Merz. Die Korrespondentin Simone Fatzer
+  liefere ein reines Framing ohne Rekonstruktion des Sachverhalts, ohne
+  CDU-Quellen, ohne Merz-Stellungnahme und ohne strukturelle Analyse der
+  CDU-Probleme oder der AfD-Konkurrenz. Der Beitrag sei ein Monolog, der als
+  Analyse deklariert werde.
+quelle_datum: '2026-07-28'
+quelle_format: Broadcast
+quelle_sendung: Rendez-vous
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF analysiert die Regierungskrise von Friedrich Merz — und rahmt sie als persönliches Versagen. Der Kanzler fehle das «politische Handwerk», er komme «aus der Wirtschaft», er verstehe die Partei nicht. Was nicht vorkommt: die Frage, was Merz eigentlich tut. Welche Politik er vertritt. Ob die Krise ein Symptom ist für ein tieferes Problem der CDU. Was nicht vorkommt: eine einzige Stimme aus der CDU. Was nicht vorkommt: Merz selbst. Der Beitrag ist ein Monolog einer Korrespondentin, der als Analyse deklariert wird — ohne Quelle, ohne Gegenstimme, ohne Sachverhalt.*

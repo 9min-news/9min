@@ -1,14 +1,71 @@
 ---
-title: "Die Form, die man nicht zeichnen darf"
-date: "2026-05-15"
+title: 'Die Form, die man nicht zeichnen darf'
+date: '2026-05-15'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HIW07iKWIAAF3WW.jpg"
-tweetId: "2055248760406471115"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HIW07iKWIAAF3WW.jpg'
+tweetId: '2055248760406471115'
+categories:
+  - Zensur/Meinungsfreiheit
+  - Gesellschaft
+  - Medienrecht
+tags:
+  - Dreieck
+  - Hamas
+  - Hakenkreuz
+  - Hammer-und-Sichel
+  - Symbolkontamination
+  - Zensur
+  - Meinungsfreiheit
+  - Asymmetrie
 seo:
-  description: "Über die Aneignung von Symbolen, die Asymmetrie der Toten und wer das Recht hat, Geometrie zu kontaminieren 🔻🔻🔻 Jemand hat neulich gefragt, ob wir das…"
+  description: "Über die Aneignung von Symbolen, die Asymmetrie der Toten und wer das Recht hat, Geometrie zu kontaminieren \U0001F53B\U0001F53B\U0001F53B Jemand hat neulich gefragt, ob wir das…"
+themen:
+  - Symbolkontamination
+  - Asymmetrie der Verbrechensbewertung
+  - Zensur durch Plattformen
+  - Kulturelle Hegemonie bei Symbolen
+kritisiertes_medium: 9min.ch
+kritisierter_beitrag: ''
+kritisierter_autor: ''
+kritik_typ:
+  - Asymmetrie
+  - Framing
+  - Einordnungsfehler
+personen:
+  - Sartre
+  - Brecht
+  - Horkheimer
+  - Stalin
+  - Mao
+institutionen:
+  - Hamas
+  - Sowjetunion
+  - Naziregime
+  - Rote Khmer
+  - Plattformen
+  - Medienredaktionen
+gesetze_vorlagen:
+  - Hakenkreuzverbot Deutschland
+  - Hakenkreuzverbot Österreich
+these: >-
+  Die Kontamination von Symbolen durch schlechte Akteure ist eine Strategie
+  kultureller Hegemonie, der nicht durch Kapitulation begegnet werden darf,
+  sondern durch die Weigerung, Symbole aufzugeben.
+zusammenfassung: >-
+  Der Artikel verteidigt die Verwendung eines Dreiecks als visuelles Element von
+  9min gegen den Vorwurf, es sei ein Hamas-Symbol. Er kritisiert die
+  asymmetrische Behandlung von Hakenkreuz (verboten) und Hammer-und-Sichel
+  (erlaubt) als politische Entscheidung, die von Siegermächten und kulturellen
+  Verteidigern des Kommunismus getroffen wurde. Die Forderung, Symbole
+  aufzugeben, weil schlechte Organisationen sie verwenden, wird als Kapitulation
+  vor einer neuen Form der Zensur durch Plattformen und Medienredaktionen
+  betrachtet.
+quelle_datum: ''
+quelle_format: Online-Artikel
+quelle_sendung: ''
+quelle_redaktion: 9min.ch
+kritik_schwere: 2
 ---
 
 *Über die Aneignung von Symbolen, die Asymmetrie der Toten und wer das Recht hat, Geometrie zu kontaminieren*

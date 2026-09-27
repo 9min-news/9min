@@ -1,14 +1,74 @@
 ---
-title: "Das Haus, das die Nationalbank baute"
-date: "2026-04-01"
+title: 'Das Haus, das die Nationalbank baute'
+date: '2026-04-01'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HE1NP5BXIAEYxZQ.jpg"
-tweetId: "2039371201521353106"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HE1NP5BXIAEYxZQ.jpg'
+tweetId: '2039371201521353106'
+categories:
+  - SNB/Geldpolitik
+  - Wirtschaft
+  - Migration
+tags:
+  - SNB
+  - Negativzinsen
+  - Pensionskassen
+  - Immobilienpreise
+  - Tiefzinspolitik
+  - Referenzzinssatz
+  - Raumplanung
+  - Wohnungsmarkt
 seo:
-  description: "Die Schweizer Debatte über die Wohnungsnot folgt seit Jahren einem vertrauten Muster. Die eine Seite spricht über Zuwanderung, die andere über…"
+  description: >-
+    Die Schweizer Debatte über die Wohnungsnot folgt seit Jahren einem
+    vertrauten Muster. Die eine Seite spricht über Zuwanderung, die andere über…
+themen:
+  - Wohnungsnot
+  - Geldpolitik und Immobilien
+  - Mietkrise
+  - Zuwanderung und Wohnungsmarkt
+kritisiertes_medium: SRF
+kritisierter_beitrag: Viele Mietende zahlen mehr als 30 Prozent vom Einkommen für Miete
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Einordnungsfehler
+personen: []
+institutionen:
+  - SNB
+  - BFS
+  - SEM
+  - OBS
+  - BWO
+  - Swisscanto
+  - Mieterinnen- und Mieterverband
+  - Sotomo
+  - SRF
+  - Pensionskassen
+  - Versicherungen
+gesetze_vorlagen:
+  - Raumplanungsgesetz (Revision 2013)
+  - BVG-Mindestzinssatz
+  - Referenzzinssatz
+these: >-
+  Die Schweizer Wohnungsdebatte blendet die Rolle der SNB-Tiefzinspolitik als
+  zentralen Treiber der Immobilien- und Mietkrise systematisch aus und reduziert
+  das Problem einseitig auf Migration, Vermietermacht oder Mieterschutz.
+zusammenfassung: >-
+  Der Artikel argumentiert, dass die Schweizer Wohnungsnot nur durch das
+  Zusammenspiel mehrerer Faktoren erklärt werden kann: Geldpolitik mit jahrelang
+  künstlich tiefen Zinsen, die institutionelle Anleger in Immobilien drängte;
+  ein unelastisches Bausystem mit langsamen Bewilligungsverfahren und
+  restriktiver Raumplanung; sowie Zuwanderung auf einen bereits aufgeheizten
+  Markt. Die öffentliche und mediale Debatte ignoriert dabei weitgehend die
+  Rolle der SNB-Geldpolitik, obwohl ohne sie die Entstehung der Krise kaum zu
+  erklären ist.
+quelle_datum: '2026-03-31'
+quelle_format: Online-Artikel
+quelle_sendung: ''
+quelle_redaktion: SRF News
+kritik_schwere: 2
 ---
 
 Die Schweizer Debatte über die Wohnungsnot folgt seit Jahren einem vertrauten Muster. Die eine Seite spricht über Zuwanderung, die andere über renditegetriebene Vermieter, eine dritte über fehlenden gemeinnützigen Wohnbau. Alle drei Perspektiven erfassen einen Teil des Problems. Keine reicht für sich aus. Wer verstehen will, warum sich der Wohnungsmarkt in der Schweiz in den letzten fünfzehn Jahren so stark verschärft hat, muss einen Faktor ernster nehmen, als es in der politischen und medialen Debatte meist geschieht: die Geldpolitik.

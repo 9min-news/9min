@@ -1,14 +1,65 @@
 ---
 title: Der Klima-Frosch in Basel
-date: "2026-07-06"
+date: '2026-07-06'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMhkEAmXQAA_qXm.jpg"
-tweetId: "2074017333610217970"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMhkEAmXQAA_qXm.jpg'
+tweetId: '2074017333610217970'
+categories:
+  - SRF/SRG
+  - Klima/Energie
+  - Wirtschaft
+tags:
+  - Pressemitteilung
+  - Ausschlusslogik
+  - Chytridpilz
+  - Landwirtschaft
+  - Verallgemeinerung
+  - Methode
+  - SRF
+  - Grasfrosch
 seo:
-  description: "SRF meldet einen Bestandseinbruch beim Grasfrosch — und liefert eine Ursache: den Klimawandel. Dass ein Biologe am Bruderholz seit 1988 Laichballen zählt…"
+  description: >-
+    SRF meldet einen Bestandseinbruch beim Grasfrosch — und liefert eine
+    Ursache: den Klimawandel. Dass ein Biologe am Bruderholz seit 1988
+    Laichballen zählt…
+themen:
+  - Wissenschaftsberichterstattung
+  - Klimawandel-Zuschreibung
+  - Amphibienrückgang
+  - Ausschlusslogik
+  - Langzeitstudie
+kritisiertes_medium: SRF
+kritisierter_beitrag: Der Grasfrosch gerät in den tiefen Lagen unter Druck
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Behördenpropaganda
+  - Autoritätsargument
+personen:
+  - Urs Tester
+institutionen:
+  - SRF
+  - SRF 4 News
+  - Uni Basel
+gesetze_vorlagen: []
+these: >-
+  SRF reproduziert unkritisch eine wissenschaftliche Ausschlusslogik, die den
+  Klimawandel als alleinige Ursache des Grasfrosch-Rückgangs behauptet, ohne
+  alternative Faktoren wie Chytridpilz, Pestizide oder methodische Fragen zu
+  prüfen oder zu erwähnen.
+zusammenfassung: >-
+  9min.ch kritisiert, dass SRF eine Langzeitstudie der Uni Basel über den
+  Rückgang des Grasfroschs am Bruderholz als monokausale Klimawandel-Story
+  übernimmt, ohne den Chytridpilz, Pestizide, methodische Fragen oder die
+  Verallgemeinerung von einer einzigen Population auf die ganze Schweiz zu
+  hinterfragen. Der Beitrag werde als Pressemitteilung mit SRF-Siegel
+  präsentiert statt als kritische Wissenschaftsberichterstattung.
+quelle_datum: '2026-07-05'
+quelle_format: Online-Artikel
+quelle_sendung: SRF 4 News
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF meldet einen Bestandseinbruch beim Grasfrosch — und liefert eine Ursache: den Klimawandel. Dass ein Biologe am Bruderholz seit 1988 Laichballen zählt und einen Rückgang feststellt, ist ein Datum. Dass aus diesem Datum eine monokausale Erklärung wird, ist eine Entscheidung — des Forschers und des Mediums. Der Beitrag ist eine Pressemitteilung mit SRF-Siegel: Eine Studie wird referiert, ein Experte wird zitiert, eine Ursache wird behauptet. Geprüft wird nichts.*

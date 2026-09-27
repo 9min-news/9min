@@ -1,14 +1,70 @@
 ---
 title: Rosinenpickerei
-date: "2026-05-09"
+date: '2026-05-09'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HH4O1L2XgAAYYwK.jpg"
-tweetId: "2053099152968499245"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HH4O1L2XgAAYYwK.jpg'
+tweetId: '2053099152968499245'
+categories:
+  - EU/Aussenpolitik
+  - Medienrecht
+  - Demokratie
+tags:
+  - Rosinenpickerei
+  - Bilaterale
+  - EU
+  - Framing
+  - Selektion
+  - Rahmenvertrag
+  - Souveränität
+  - Rhetorik
 seo:
-  description: "Zur Karriere eines Vorwurfs Das Wort fällt regelmässig. In Bundesratsreden, in Leitartikeln, in Talkshows, in Diplomatengesprächen. Die Schweiz dürfe…"
+  description: >-
+    Zur Karriere eines Vorwurfs Das Wort fällt regelmässig. In Bundesratsreden,
+    in Leitartikeln, in Talkshows, in Diplomatengesprächen. Die Schweiz dürfe…
+themen:
+  - Rosinenpickerei-Vorwurf
+  - Bilaterale Verträge
+  - EU-Verhandlungsstrategie
+  - Rhetorische Framing
+  - Institutioneller Rahmenvertrag
+kritisiertes_medium: EU-Kommission
+kritisierter_beitrag: ''
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Behördenpropaganda
+  - Einordnungsfehler
+personen: []
+institutionen:
+  - EU
+  - Bundesrat
+  - NATO
+  - EWR
+  - EuGH
+gesetze_vorlagen:
+  - institutioneller Rahmenvertrag
+  - bilaterale Verträge
+  - dynamische Rechtsübernahme
+  - Personenfreizügigkeit
+these: >-
+  Der Vorwurf der «Rosinenpickerei» gegenüber der Schweiz ist kein sachliches
+  Argument, sondern eine rhetorische Strategie der EU, die strategische
+  Paketverpflichtung als moralische Forderung zu tarnen und Schweizer
+  Selektivität als Defekt zu pathologisieren.
+zusammenfassung: >-
+  Der Artikel analysiert den Begriff «Rosinenpickerei» als rhetorisches
+  Instrument, das Selektion — eine in allen Lebensbereichen akzeptierte Praxis —
+  im politischen Kontext moralisch abwertet. Er zeigt, dass der Vorwurf eine
+  strategische Funktion erfüllt: Er soll die Schweiz zwingen, Vertragspakete als
+  Ganzes zu akzeptieren, und kaschiert die Interessen der grösseren
+  Verhandlungspartei als ethische Forderung. Die Schweiz habe historisch immer
+  selektiv agiert, was kein Defekt, sondern Resultat vernünftiger Abwägung sei.
+quelle_datum: ''
+quelle_format: ''
+quelle_sendung: ''
+quelle_redaktion: ''
+kritik_schwere: 3
 ---
 
 *Zur Karriere eines Vorwurfs*

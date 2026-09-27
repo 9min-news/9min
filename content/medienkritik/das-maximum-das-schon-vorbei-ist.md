@@ -1,14 +1,69 @@
 ---
-title: "Das Maximum, das schon vorbei ist"
-date: "2026-07-07"
+title: 'Das Maximum, das schon vorbei ist'
+date: '2026-07-07'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMoDtz9W0AAEkGB.jpg"
-tweetId: "2074474794733433051"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMoDtz9W0AAEkGB.jpg'
+tweetId: '2074474794733433051'
+categories:
+  - SRF/SRG
+  - Sicherheitspolitik
+  - Migration
+tags:
+  - ISIS
+  - Jugendstrafrecht
+  - Gerichtsstenografie
+  - Ausbürgerung
+  - Antisemitismus
+  - Tunesische Wurzeln
+  - Märtyrer
+  - Synagogen-Angriff
 seo:
-  description: "SRF meldet das Urteil gegen den Jugendlichen, der 2024 in Zürich einen orthodoxen Juden lebensgefährlich niedergestochen hatte — und referiert es als…"
+  description: >-
+    SRF meldet das Urteil gegen den Jugendlichen, der 2024 in Zürich einen
+    orthodoxen Juden lebensgefährlich niedergestochen hatte — und referiert es
+    als…
+themen:
+  - Terrorismus-Berichterstattung
+  - Antisemitismus
+  - Jugendstrafrecht
+  - Staatsbürgerschaft/Ausbürgerung
+  - Opferschutz im Medien
+kritisiertes_medium: SRF
+kritisierter_beitrag: Ein Jahr Freiheitsstrafe für jugendlichen Messerstecher in Zürich
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Kontextmangel
+personen: []
+institutionen:
+  - SRF
+  - Regionaljournal Zürich Schaffhausen
+  - Islamischer Staat
+  - Schweizer Justiz
+  - Jüdische Gemeinde Zürich
+gesetze_vorlagen:
+  - Jugendstrafrecht
+these: >-
+  SRF referiert das Urteil gegen einen ISIS-inspirierten jugendlichen
+  Terroristen als reine Gerichtsstenografie und unterlässt jede kritische
+  Einordnung von Ideologie, Strafmass, Staatsbürgerschaftsfrage und
+  Opferschicksal.
+zusammenfassung: >-
+  9min.ch kritisiert den SRF-Beitrag zum Urteil gegen einen 15-jährigen
+  ISIS-Anhänger, der in Zürich einen orthodoxen Juden lebensgefährlich
+  niedergestochen hatte. SRF melde das Maximum des Jugendstrafrechts (ein Jahr)
+  ohne Angemessenheitsfrage, nenne tunesische Wurzeln ohne Frage nach
+  Ausbürgerungsmöglichkeiten und behandle das ISIS-Bekenntnis sowie den
+  Synagogen-Angriff als Fussnoten statt als Terrorismus-Einordnung. Das Opfer
+  bleibe eine Kategorie ohne Menschlichkeit, die Radikalisierung ein Halbsatz
+  ohne Umfeldanalyse.
+quelle_datum: '2026-07-07'
+quelle_format: Broadcast
+quelle_sendung: Regionaljournal Zürich Schaffhausen
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF meldet das Urteil gegen den Jugendlichen, der 2024 in Zürich einen orthodoxen Juden lebensgefährlich niedergestochen hatte — und referiert es als Justizmeldung. Ein Jahr Freiheitsstrafe, mehrfacher Mordversuch, ISIS-Bekenntnis, Livestream, geplanter Synagogen-Angriff, Märtyrer-Absicht. Das höchstmögliche Strafmass für einen 15-Jährigen. SRF nennt all das — und fragt nicht, ob das höchstmögliche Mass angemessen ist. SRF nennt die tunesischen Wurzeln — und fragt nicht, was sie bedeuten. SRF nennt das ISIS-Bekenntnis — und fragt nicht, was mit einem Staatsbürger passiert, der sich zum Islamischen Staat bekennt und Schweizer Juden töten will. Der Beitrag ist Stenografie eines Gerichtsentscheids, ohne eine einzige Frage an den Rahmen, in dem der Entscheid steht.*

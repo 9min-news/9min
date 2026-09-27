@@ -1,14 +1,74 @@
 ---
 title: Die SVP Lancierung ohne Kontext
-date: "2026-08-04"
+date: '2026-08-04'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HO4N2NBW8AE0ihn.jpg"
-tweetId: "2084618932682477928"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HO4N2NBW8AE0ihn.jpg'
+tweetId: '2084618932682477928'
+categories:
+  - Abstimmungen
+  - EU/Aussenpolitik
+  - Sicherheitspolitik
+tags:
+  - Neutralitätsinitiative
+  - SVP
+  - SRF
+  - Abstimmung
+  - Framing
+  - Wortlaut
+  - Sanktionen
+  - Vermittlerrolle
 seo:
-  description: "SRF meldet den Start der Ja-Kampagne zur Neutralitätsinitiative und rahmt sie als SVP-Projekt. Blocher und Rietiker werden genannt, die SVP als einzige…"
+  description: >-
+    SRF meldet den Start der Ja-Kampagne zur Neutralitätsinitiative und rahmt
+    sie als SVP-Projekt. Blocher und Rietiker werden genannt, die SVP als
+    einzige…
+themen:
+  - Neutralitätsinitiative
+  - Abstimmungsberichterstattung
+  - Sanktionspolitik
+  - Neutralitätspolitik
+  - NATO-Kooperation
+kritisiertes_medium: SRF
+kritisierter_beitrag: Ja-Komitee zur Neutralitätsinitiative steigt in Abstimmungskampf
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Kontextmangel
+personen:
+  - Christoph Blocher
+  - Stephan Rietiker
+  - Pascal Lottaz
+institutionen:
+  - SRF
+  - SVP
+  - Pro Schweiz
+  - Nato
+  - EU
+  - UNO
+  - SP
+gesetze_vorlagen:
+  - Neutralitätsinitiative
+  - Bundesverfassung Artikel 54a
+these: >-
+  SRF reduziert die verfassungspolitische Neutralitätsinitiative auf einen
+  SVP-Parteitag und verschweigt Wortlaut, politische Konsequenzen für Sanktions-
+  und NATO-Politik sowie die überparteiliche Unterstützung.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert einen SRF-Echo-der-Zeit-Beitrag zum Kampagnenstart
+  der Neutralitätsinitiative, weil dieser den Wortlaut der Initiative (Artikel
+  54a BV) nicht nennt, die zentralen politischen Konsequenzen für
+  Sanktionspraxis und NATO-Kooperation ausblendet und die überparteiliche
+  Trägerschaft verschweigt. SRF rahme die Initiative stattdessen als reines
+  SVP-Projekt und liefere nur eine administrative Meldung ohne inhaltliche
+  Auseinandersetzung. Die Abstimmungsberichterstattung ersetze Sachinformation
+  durch Terminkalender-Journalismus mit Parteietikett.
+quelle_datum: '2026-08-04'
+quelle_format: Broadcast
+quelle_sendung: Echo der Zeit
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF meldet den Start der Ja-Kampagne zur Neutralitätsinitiative und rahmt sie als SVP-Projekt. Blocher und Rietiker werden genannt, die SVP als einzige grosse Partei markiert. Was nicht vorkommt: der Wortlaut der Initiative. Was nicht vorkommt: die konkreten Forderungen, über die am 27. September abgestimmt wird. Was nicht vorkommt: die Frage, ob die Initiative ein Anliegen ist, das über die SVP hinausgeht. Der Beitrag ist eine Meldung ohne Inhalt, die eine verfassungspolitische Initiative auf einen Parteitag reduziert.*

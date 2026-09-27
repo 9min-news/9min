@@ -1,14 +1,66 @@
 ---
-title: "Das Wegsehen, das als Argument dient"
-date: "2026-07-28"
+title: 'Das Wegsehen, das als Argument dient'
+date: '2026-07-28'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HOV2uqfXEAAxSjg.jpg"
-tweetId: "2082200977218953275"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HOV2uqfXEAAxSjg.jpg'
+tweetId: '2082200977218953275'
+categories:
+  - SRF/SRG
+  - Migration
+  - EU/Aussenpolitik
+tags:
+  - UNHCR
+  - Barham Salih
+  - Echo der Zeit
+  - Behördenpropaganda
+  - Flüchtlinge
+  - Schweiz-Beiträge
+  - UN-Kritik
+  - Spendenaufruf
 seo:
-  description: "SRF interviewt den UNO-Hochkommissar für Flüchtlinge Barham Salih und rahmt ihn als moralische Autorität. Die UNHCR-Krise sei eine Krise der Geber, nicht…"
+  description: >-
+    SRF interviewt den UNO-Hochkommissar für Flüchtlinge Barham Salih und rahmt
+    ihn als moralische Autorität. Die UNHCR-Krise sei eine Krise der Geber,
+    nicht…
+themen:
+  - UNHCR-Krise
+  - UN-Institutionen-Kritik
+  - Schweizer Beiträge an UNHCR
+  - Flüchtlingslager-Geschäftsmodell
+  - Medienkritik SRF
+kritisiertes_medium: SRF News
+kritisierter_beitrag: 'UNO-Hochkommissar für Flüchtlinge: ‹Wegsehen ist kein Rezept›'
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Behördenpropaganda
+  - Framing
+personen:
+  - Barham Salih
+institutionen:
+  - SRF
+  - UNHCR
+  - UN Watch
+  - Echo der Zeit
+gesetze_vorlagen: []
+these: >-
+  SRF gibt einen UNHCR-Chef unkritisch als moralische Autorität wieder und lässt
+  Wesentliches weg – politische Biografie, UN-Kritik, Schweizer Beiträge,
+  Geschäftsmodell der Lager – womit der Beitrag zum Spendenaufruf ohne
+  journalistischen Instinkt wird.
+zusammenfassung: >-
+  9min.ch kritisiert einen SRF-Echo-der-Zeit-Beitrag, der UNHCR-Hochkommissar
+  Barham Salih interviewt, ohne dessen politische Vergangenheit als irakischer
+  Präsident, die Kritik an UN-Institutionen, die Schweizer Beiträge, die
+  Effizienz des UNHCR oder das Geschäftsmodell der Lager zu thematisieren. Der
+  Beitrag sei kein Journalismus, sondern ein unkritischer Spendenaufruf in
+  Interview-Form.
+quelle_datum: '2026-07-28'
+quelle_format: Broadcast
+quelle_sendung: Echo der Zeit
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF interviewt den UNO-Hochkommissar für Flüchtlinge Barham Salih und rahmt ihn als moralische Autorität. Die UNHCR-Krise sei eine Krise der Geber, nicht der Institution. Was nicht vorkommt: die Frage, ob das UNHCR selbst versagt. Was nicht vorkommt: Salih ist ein ehemaliger Präsident des Irak, ein Politiker, kein Humanist. Was nicht vorkommt: Kritik an UN-Institutionen, die seit Jahren dokumentiert ist. Was nicht vorkommt: die Schweizer Beiträge. Der Beitrag ist ein Interview ohne journalistischen Instinkt.*

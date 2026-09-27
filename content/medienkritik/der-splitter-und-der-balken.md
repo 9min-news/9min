@@ -1,14 +1,81 @@
 ---
 title: Der Splitter und der Balken
-date: "2026-06-29"
+date: '2026-06-29'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HL-J0IFXEAAhc8Z.jpg"
-tweetId: "2071525936298688732"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HL-J0IFXEAAhc8Z.jpg'
+tweetId: '2071525936298688732'
+categories:
+  - SRF/SRG
+  - Medienrecht
+  - EU/Aussenpolitik
+tags:
+  - N1
+  - CNN-Affiliation
+  - Euronews
+  - Alpac Capital
+  - Medienabhängigkeit
+  - Asymmetrie
+  - Unabhängigkeitsbegriff
+  - Vargas David
 seo:
-  description: "Dieser SRF-Beitrag über den Verkauf des serbischen TV-Senders N1 an einen Orban-Vertrauten ist ein klassisches Stück Auslandsberichterstattung: fern,…"
+  description: >-
+    Dieser SRF-Beitrag über den Verkauf des serbischen TV-Senders N1 an einen
+    Orban-Vertrauten ist ein klassisches Stück Auslandsberichterstattung: fern,…
+themen:
+  - Medienfreiheit Serbien
+  - Auslandsberichterstattung SRF
+  - Medienkonzentration Schweiz
+  - Orban-Medienstrategie
+  - SRG-Finanzierungsmonopol
+kritisiertes_medium: SRF News
+kritisierter_beitrag: 'Serbien: Letzte unabhängige Medien in Gefahr'
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Asymmetrie
+personen:
+  - Sanja Sovrlic
+  - Thomas Brey
+  - Pedro Vargas David
+  - Viktor Orban
+  - Aleksandar Vucic
+institutionen:
+  - SRF
+  - SRG SSR
+  - N1
+  - CNN
+  - Warner Bros. Discovery
+  - Turner Broadcasting Systems
+  - Alpac Capital
+  - Euronews
+  - Ringier
+  - TX Group
+  - Tamedia
+  - NZZ
+  - Reporter ohne Grenzen
+  - Bundesstelle für Kultur
+gesetze_vorlagen: []
+these: >-
+  Der SRF-Beitrag über Medienbedrohung in Serbien ist faktenkorrekt, produziert
+  aber eine asymmetrische Kritik, indem er den Begriff "unabhängig" unkritisch
+  verwendet, den Euronews-Präzedenzfall nicht einordnet und die Schweizer
+  Gegenfrage nach der eigenen SRG-Monopolstellung vollständig ausblendet.
+zusammenfassung: >-
+  9min.ch analysiert einen SRF-Echo-der-Zeit-Beitrag über den Verkauf des
+  serbischen Senders N1 an einen Orban-Vertrauten. Die Fakten seien korrekt,
+  aber der Beitrag verzerrt das Bild durch unkritische Verwendung des
+  Unabhängigkeitsbegriffs (N1 als CNN-affilierter Sender), fehlende Einordnung
+  des Euronews-Präzedenzfalls in den europäischen Kontext und vollständige
+  Ausblendung der Schweizer Medienlandschaftsprobleme. Die Kritik identifiziert
+  eine asymmetrische Berichterstattung: Der Splitter im serbischen Auge werde
+  scharf gezeichnet, der Balken im Schweizer Auge fehle.
+quelle_datum: '2026-06-27'
+quelle_format: Broadcast
+quelle_sendung: Echo der Zeit
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *Dieser SRF-Beitrag über den Verkauf des serbischen TV-Senders N1 an einen Orban-Vertrauten ist ein klassisches Stück Auslandsberichterstattung: fern, bedrohlich, eindeutig. Serbien ist eine «mediale Wüste», regierungskritische Medien werden zu «Terroristen» erklärt, die letzte unabhängige Stimme droht zu verstummen. Das ist alles korrekt dokumentiert — und es ist trotzdem nur halb die Story. Denn der Beitrag unterscheidet nicht zwischen «unabhängig» und «regierungskritisch»: N1 ist CNN-affiliert, also Teil eines westlichen Medienkonzerns, und das macht es nicht automatisch unabhängig — es macht es zu einem anderen Abhängigkeitsverhältnis. Der Verkauf an Alpac Capital wird als Orban-Infiltration gerahmt, aber die Frage, wer N1 vorher besass und welche redaktionellen Vorgaben damit verbunden waren, fehlt. Und der Beitrag stellt die naheliegendste Gegenfrage nicht: Wie steht es um die Medienfreiheit in der Schweiz? SRF berichtet über serbische Medienkonzentration, während es selbst Teil einer SRG ist, die mit rund 1,5 Milliarden Franken jährlich einen staatlich garantierten Finanzierungsmonopol geniesst, gegen den kein privater Sender konkurrieren kann. Der Splitter im serbischen Auge wird scharf gezeichnet — der Balken im Schweizer Auge fehlt.*

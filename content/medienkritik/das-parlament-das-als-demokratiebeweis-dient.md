@@ -1,14 +1,72 @@
 ---
-title: "Das Parlament, das als Demokratiebeweis dient"
-date: "2026-08-03"
+title: 'Das Parlament, das als Demokratiebeweis dient'
+date: '2026-08-03'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HOxn20_WkAAILnM.jpg"
-tweetId: "2084154954315350194"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HOxn20_WkAAILnM.jpg'
+tweetId: '2084154954315350194'
+categories:
+  - EU/Aussenpolitik
+  - SRF/SRG
+  - Demokratie
+tags:
+  - EU
+  - Brüssel
+  - Demokratiedefizit
+  - SRF
+  - Framing
+  - EU-Parlament
+  - EU-Kommission
+  - Rahmenabkommen
 seo:
-  description: "SRF lässt einen langjährigen Korrespondenten durch Brüssel spazieren und rahmt die EU als lebendiges, demokratisches und flexibles Projekt. Die Kommission…"
+  description: >-
+    SRF lässt einen langjährigen Korrespondenten durch Brüssel spazieren und
+    rahmt die EU als lebendiges, demokratisches und flexibles Projekt. Die
+    Kommission…
+themen:
+  - EU-Demokratiedefizit
+  - EU-Parlament und Initiativrecht
+  - EU-Schweiz-Beziehungen und Rahmenabkommen
+  - Framing der EU in Schweizer Medien
+  - EU-Kommission und demokratische Legitimation
+kritisiertes_medium: SRF News
+kritisierter_beitrag: 'Brüssel: Eine Reise durchs Machtzentrum der EU'
+kritisierter_autor: Charles Liebherr
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Behördenpropaganda
+personen:
+  - Charles Liebherr
+  - Robert Schuman
+institutionen:
+  - SRF
+  - EU
+  - EU-Kommission
+  - EU-Parlament
+  - Europäischer Gerichtshof
+  - Schweizer Botschaft Brüssel
+gesetze_vorlagen:
+  - Rahmenabkommen
+these: >-
+  SRF rahmt die EU als lebendiges, demokratisches und flexibles Projekt, indem
+  es zentrale Kritikpunkte wie das Demokratiedefizit der Kommission, das
+  fehlende Initiativrecht des Parlaments und die Starrheit gegenüber der Schweiz
+  systematisch auslässt.
+zusammenfassung: >-
+  Der 9min.ch-Artikel analysiert einen SRF-Tagesgespräch-Beitrag, in dem
+  pensionierter SRF-Korrespondent Charles Liebherr durch Brüssel führt und die
+  EU als vibranten Mikrokosmos porträtiert. Kritisiert wird, dass zentrale
+  Aspekte fehlen: das Demokratiedefizit der nicht gewählten Kommission mit ihrem
+  Gesetzgebungsmonopol, das fehlende Initiativrecht des EU-Parlaments, die
+  EU-Starrheit im Rahmenabkommen mit der Schweiz sowie der strukturelle Konflikt
+  zwischen EU-Rechtshomogenität und Schweizer direkter Demokratie. Der Beitrag
+  wird als nostalgischer Spaziergang ohne kritische Tiefe bewertet.
+quelle_datum: '2026-08-03'
+quelle_format: Broadcast
+quelle_sendung: Tagesgespräch
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF lässt einen langjährigen Korrespondenten durch Brüssel spazieren und rahmt die EU als lebendiges, demokratisches und flexibles Projekt. Die Kommission sei eine Verhandlungsmaschine, das Parlament werde unterschätzt, die Schweiz sei eine respektierte Aussenseiterin. Was nicht vorkommt: das Demokratiedefizit der EU. Was nicht vorkommt: die Starrheit der EU gegenüber der Schweiz. Was nicht vorkommt: die Frage, ob das EU-Parlament tatsächlich Gesetze macht oder nur abnickt. Der Beitrag ist ein nostalgisches Porträt, das die Machtstrukturen Brüssels verklärt.*

@@ -1,14 +1,74 @@
 ---
 title: Der SRF Framing-Betrug
-date: "2026-06-29"
+date: '2026-06-29'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HL_NWPOXMAAWlgz.jpg"
-tweetId: "2071600272707580046"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HL_NWPOXMAAWlgz.jpg'
+tweetId: '2071600272707580046'
+categories:
+  - SRF/SRG
+  - EU/Aussenpolitik
+tags:
+  - SRF
+  - Framing
+  - Russland
+  - Ukraine
+  - Kriegsbetrug
+  - IKRK
+  - Asymmetrie
+  - Rendez-vous
 seo:
-  description: "Dieser SRF-Beitrag über Betrug an russischen Soldatenfamilien ist ein Lehrstück in Framing: Ein universelles Phänomen — Kriegsbetrug an Angehörigen von…"
+  description: >-
+    Dieser SRF-Beitrag über Betrug an russischen Soldatenfamilien ist ein
+    Lehrstück in Framing: Ein universelles Phänomen — Kriegsbetrug an
+    Angehörigen von…
+themen:
+  - Russland-Ukraine-Krieg
+  - Medienframing
+  - Asymmetrische Berichterstattung
+  - Militärkorruption
+kritisiertes_medium: SRF News
+kritisierter_beitrag: 'Geldbetrug: Wenn russische ''Helden'' zu Opfern werden'
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Asymmetrie
+personen:
+  - Wilhelm Odde
+  - Lisa
+  - Pavel Durov
+  - Selenskyj
+institutionen:
+  - SRF
+  - IKRK
+  - IKRK Moskau
+  - IKRK Kiew
+  - Kreml
+  - Regionaler Aspekt
+  - Kyiv Independent
+  - Ukrainska Pravda
+  - SBU
+  - NATO
+  - US-Streitkräfte
+gesetze_vorlagen:
+  - Art. 93 BV
+these: >-
+  Der SRF-Beitrag instrumentalisiert das universelle Problem des Kriegsbetrugs
+  an Soldatenfamilien, um es als russisches Spezifikum darzustellen, und lässt
+  dabei die ukrainische Seite sowie historische Parallelen systematisch aus.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert einen SRF-Beitrag über Betrug an russischen
+  Soldatenfamilien. Obwohl die Fakten korrekt seien und die IKRK-Quelle explizit
+  von einem universellen Phänomen in allen Konflikten spreche, rahme SRF das
+  Problem als russische Besonderheit. Die ukrainische Seite des Betrugsproblems
+  fehle vollständig, historische Parallelen würden ignoriert und die Asymmetrie
+  der Darstellung verzerrer die Wahrnehmung.
+quelle_datum: '2026-06-29'
+quelle_format: Broadcast
+quelle_sendung: Rendez-vous
+quelle_redaktion: SRF News
+kritik_schwere: 2
 ---
 
 *Dieser SRF-Beitrag über Betrug an russischen Soldatenfamilien ist ein Lehrstück in Framing: Ein universelles Phänomen — Kriegsbetrug an Angehörigen von Vermissten und Gefangenen — wird als russisches Spezifikum gerahmt. Die Quelle, Wilhelm Odde vom IKRK, sagt explizit: «In allen Konflikten nutzten Betrüger die Angst von Angehörigen aus.» Der Beitrag zitiert das — und ignoriert es im nächsten Satz, um die russische Besonderheit zu betonen. Das Ergebnis ist eine Story, die den Eindruck erzeugt, russische Soldaten und ihre Familien seien besonders anfällig für Betrug, weil Russland korrupt sei, weil der Kreml hohe Soldatenlöhne zahle, weil russische Offiziere ihre eigenen Soldaten ausnehmen. Das mag alles zutreffen — aber es ist nicht die ganze Story, und es ist nicht die russische Story, die der Beitrag daraus macht. Es ist die universelle Story des Krieges, die hier für eine politische Aussage instrumentalisiert wird: Seht her, das ist Russland. So funktioniert das dort. Bei uns nicht.*

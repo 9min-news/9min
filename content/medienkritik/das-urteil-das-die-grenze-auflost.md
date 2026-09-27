@@ -1,14 +1,62 @@
 ---
-title: "Das Urteil, das die Grenze auflöst"
-date: "2026-07-30"
+title: 'Das Urteil, das die Grenze auflöst'
+date: '2026-07-30'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HOenbYPW4AABXMi.jpg"
-tweetId: "2082817475058565392"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HOenbYPW4AABXMi.jpg'
+tweetId: '2082817475058565392'
+categories:
+  - Migration
+  - SRF/SRG
+  - EU/Aussenpolitik
+tags:
+  - Ceuta
+  - Grenzzaun
+  - Gerichtsurteil
+  - Pull-Faktor
+  - Wirtschaftsmigration
+  - EU-Aussengrenze
+  - SRF
+  - Rendez-vous
 seo:
-  description: "SRF berichtet über Hunderte Migranten, die nach Ceuta schwimmen, und rahmt das Ereignis als logistische Überforderung einer spanischen Exklave. Die…"
+  description: >-
+    SRF berichtet über Hunderte Migranten, die nach Ceuta schwimmen, und rahmt
+    das Ereignis als logistische Überforderung einer spanischen Exklave. Die…
+themen:
+  - Grenzkrise Ceuta
+  - Gerichtsurteil als Pull-Faktor
+  - Herkunftsländer und Asylrecht
+  - EU-Verantwortung an Aussengrenzen
+kritisiertes_medium: SRF News
+kritisierter_beitrag: Hunderte Migranten schwimmen von Marokko nach Ceuta
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Kontextmangel
+personen: []
+institutionen:
+  - SRF
+  - Oberster Gericht in Madrid
+  - EU
+  - Spanische Regierung
+gesetze_vorlagen: []
+these: >-
+  SRF berichtet über eine Grenzkrise in Ceuta, ohne die Ursachen – ein
+  Gerichtsurteil als Pull-Faktor, sichere Herkunftsländer und die fehlende
+  EU-Verantwortung – zu analysieren.
+zusammenfassung: >-
+  Der Artikel kritisiert einen SRF-Beitrag zu Hunderten Migranten, die nach
+  Ceuta schwimmen, weil er wesentliche Fragen nicht stellt: warum ein
+  Gerichtsurteil Abschiebungen blockiert, ob dieses Urteil die Krise auslöste,
+  warum Migranten aus sicheren Herkunftsländern nicht abgeschoben werden und wo
+  die EU bleibt. SRF rahme die Grenzkrise als logistische Überforderung, statt
+  Ursachen und Verantwortliche zu benennen.
+quelle_datum: '2026-07-30'
+quelle_format: Broadcast
+quelle_sendung: Rendez-vous
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF berichtet über Hunderte Migranten, die nach Ceuta schwimmen, und rahmt das Ereignis als logistische Überforderung einer spanischen Exklave. Die Aufnahmezentren seien überlastet, die Menschen flüchteten um den Grenzzaun herum. Was nicht vorkommt: die Frage, warum Schwimmen legaler sein soll als Klettern. Was nicht vorkommt: die Herkunftsländer, die sicher sind. Was nicht vorkommt: die Verantwortung der Gerichte für den Pull-Faktor. Der Beitrag ist eine Grenzberichterstatterung ohne Grenzanalyse.*

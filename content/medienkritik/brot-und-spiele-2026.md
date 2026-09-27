@@ -1,14 +1,77 @@
 ---
 title: Brot und Spiele 2026
-date: "2026-07-05"
+date: '2026-07-05'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMccYWtW4AAdx4b.jpg"
-tweetId: "2073657815709667549"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMccYWtW4AAdx4b.jpg'
+tweetId: '2073657815709667549'
+categories:
+  - Wirtschaft
+  - Demokratie
+  - Gesellschaft
+tags:
+  - FIFA
+  - WM 2026
+  - Kommerzialisierung
+  - Extraktionsmaschine
+  - Brot und Spiele
+  - Aufmerksamkeitsökonomie
+  - SRF
+  - BAG
 seo:
-  description: "Die WM läuft. Seit dem 11. Juni rollt der Ball durch sechzehn Städte in drei Ländern, das grösste Turnier der FIFA-Geschichte, 48 Teams, ein…"
+  description: >-
+    Die WM läuft. Seit dem 11. Juni rollt der Ball durch sechzehn Städte in drei
+    Ländern, das grösste Turnier der FIFA-Geschichte, 48 Teams, ein…
+themen:
+  - WM 2026 und FIFA-Geschäftsmodell
+  - Kommerzialisierung des Sports
+  - Aufmerksamkeitsökonomie und politische Ablenkung
+  - Unbeachtete Schweizer Politikthemen
+  - Medien und Priorisierung
+kritisiertes_medium: FIFA
+kritisierter_beitrag: FIFA WM 2026 operatives Modell
+kritisierter_autor: ''
+kritik_typ:
+  - Behördenpropaganda
+  - Framing
+  - Auslassung
+personen:
+  - Madonna
+  - Shakira
+  - BTS
+  - Chris Martin
+  - Rahm Emanuel
+  - Juvenal
+institutionen:
+  - FIFA
+  - Global Citizen
+  - Coldplay
+  - BAG
+  - SRF
+  - Europäische Zentralbank
+  - EU
+gesetze_vorlagen:
+  - Finanzplatz-Initiative
+  - KI-Regulierung
+these: >-
+  Die FIFA betreibt mit der WM 2026 ein systematisches Extraktionsmodell, das
+  Kosten auf Städte und Steuerzahler externalisiert, während die
+  Aufmerksamkeitsökonomie wesentliche Schweizer und globale politische
+  Entscheidungen unsichtbar macht.
+zusammenfassung: >-
+  Der Artikel kritisiert das operative WM-2026-Modell der FIFA als
+  Franchise-System, bei dem die FIFA Einnahmen behält und Gaststädte die Kosten
+  tragen. Er zieht die strukturelle Parallele zu Juvenals 'Brot und Spiele' und
+  argumentiert, dass die Aufmerksamkeitsökonomie politische Substanzthemen
+  verdrängt. Aufgeführt werden unbeachtete Schweizer Themen wie
+  Bundesverwaltungswachstum, geschwärzte BAG-Verträge, die
+  Finanzplatz-Initiative, ein mögliches Euro-CBDC, KI-Regulierung und
+  demografische Alterung.
+quelle_datum: ''
+quelle_format: Online-Artikel
+quelle_sendung: ''
+quelle_redaktion: 9min.ch
+kritik_schwere: 3
 ---
 
 Die WM läuft. Seit dem 11. Juni rollt der Ball durch sechzehn Städte in drei Ländern, das grösste Turnier der FIFA-Geschichte, 48 Teams, ein Rekordzuschauerstand von 3,6 Millionen Menschen bereits nach zwei Wochen. Und während die Welt schaut, findet eine Operation statt, die man in ihrer Präzision bewundern müsste, wenn sie nicht so zynisch wäre.

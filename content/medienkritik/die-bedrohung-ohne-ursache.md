@@ -1,14 +1,71 @@
 ---
 title: Die Bedrohung ohne Ursache
-date: "2026-07-17"
+date: '2026-07-17'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HNafdcbW4AA2Atn.jpg"
-tweetId: "2078024443331273197"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HNafdcbW4AA2Atn.jpg'
+tweetId: '2078024443331273197'
+categories:
+  - SRF/SRG
+  - Demokratie
+  - EU/Aussenpolitik
+tags:
+  - SRF
+  - AfD
+  - Sachsen-Anhalt
+  - Framing
+  - Auslassung
+  - Verfassungsschutz
+  - Expertenperspektive
+  - 100-Tage-Programm
 seo:
-  description: "SRF berichtet über die AfD in Sachsen-Anhalt — und rahmt sie als Skandal mit Umfragewerten. Ein Satiriker sagt etwas Provokantes, die AfD präsentiert ein…"
+  description: >-
+    SRF berichtet über die AfD in Sachsen-Anhalt — und rahmt sie als Skandal mit
+    Umfragewerten. Ein Satiriker sagt etwas Provokantes, die AfD präsentiert
+    ein…
+themen:
+  - AfD-Berichterstattung
+  - Medienframing
+  - Verfassungsschutz-Einstufung
+  - Parteianalyse ohne Gegenstimme
+  - Wahlumfragen
+kritisiertes_medium: SRF 4 News
+kritisierter_beitrag: Kommt die AfD in Sachsen-Anhalt bald an die Macht?
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Interessenkonflikt
+personen:
+  - Uwe Steimle
+  - Frederik Schindler
+institutionen:
+  - SRF
+  - SRF 4 News
+  - AfD
+  - Verfassungsschutz
+  - Politico
+  - CDU
+  - SPD
+  - Grüne
+  - FDP
+gesetze_vorlagen: []
+these: >-
+  SRF rahmt die AfD in Sachsen-Anhalt als Bedrohung ohne Ursache — ohne
+  AfD-Stimme, ohne Erklärung der 41 Prozent und mit einem einseitigen Experten.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert einen SRF-Beitrag zur AfD in Sachsen-Anhalt als
+  Warnung ohne Untersuchung. SRF rahme einen Satiriker-Skandal als AfD-Position,
+  präsentiere ein 100-Tage-Programm als Alarmkatalog ohne Differenzierung,
+  interviewe einen Politico-Journalisten als neutralen Experten und erwähne 41
+  Prozent Umfragewert ohne Erklärung. Die AfD komme nicht zu Wort, der
+  Verfassungsschutz werde als neutrale Instanz gerahmt, und politische
+  Normalität werde als Verschwörung dargestellt.
+quelle_datum: '2026-07-16'
+quelle_format: Online-Artikel
+quelle_sendung: SRF 4 News
+quelle_redaktion: SRF News International
+kritik_schwere: 2
 ---
 
 *SRF berichtet über die AfD in Sachsen-Anhalt — und rahmt sie als Skandal mit Umfragewerten. Ein Satiriker sagt etwas Provokantes, die AfD präsentiert ein 100-Tage-Programm, und SRF kombiniert beides zum Bild einer Partei, die «an die Macht» will. Was nicht vorkommt: eine einzige AfD-Stimme im Text. Was nicht vorkommt: die Frage, was es bedeutet, wenn 41 Prozent der Wähler eine Partei wählen, die der Verfassungsschutz als «gesichert rechtsextrem» einstuft. Was nicht vorkommt: der Vergleich mit dem Merz-Beitrag vom Vortag — dort war die AfD eine «Bedrohung durch Demokratiefeinde», hier ist sie eine Partei mit 41 Prozent. Der Beitrag ist eine Warnung ohne Untersuchung — und die 41 Prozent sind der Befund, den niemand erklärt.*

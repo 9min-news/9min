@@ -1,14 +1,67 @@
 ---
 title: Die Heimat der Fragen
-date: "2026-07-02"
+date: '2026-07-02'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMN6OctXoAA8bxs.jpg"
-tweetId: "2072635077092147378"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMN6OctXoAA8bxs.jpg'
+tweetId: '2072635077092147378'
+categories:
+  - Migration
+  - Demokratie
+  - Gesellschaft
+tags:
+  - Abstimmungsanalyse
+  - Auslassung
+  - Bevölkerungswachstum
+  - Fachkräftemangel
+  - GLP
+  - Heimatliebe
+  - Jürg Grossen
+  - Zuwanderung
 seo:
-  description: "Jürg Grossen, GLP-Präsident, schreibt eine Kolumne über die gescheiterte 10-Millionen-Initiative. Er tut, was GLP-Politiker tun: Er erklärt den…"
+  description: >-
+    Jürg Grossen, GLP-Präsident, schreibt eine Kolumne über die gescheiterte
+    10-Millionen-Initiative. Er tut, was GLP-Politiker tun: Er erklärt den…
+themen:
+  - 10-Millionen-Initiative
+  - Bevölkerungswachstum
+  - Zuwanderungspolitik
+  - Wohnraumpolitik
+  - Landgemeinden vs. Städte
+kritisiertes_medium: Oberlandzeitung
+kritisierter_beitrag: Heimat heisst nicht Abschottung
+kritisierter_autor: Jürg Grossen
+kritik_typ:
+  - Auslassung
+  - Kontextmangel
+  - Framing
+personen:
+  - Jürg Grossen
+institutionen:
+  - GLP
+  - Oberlandzeitung
+  - Frutigen
+gesetze_vorlagen:
+  - 10-Millionen-Initiative
+these: >-
+  Grossens Kolumne dokumentiert das Abstimmungsresultat und liefert eine
+  wohlwollende Interpretation des Ja aus den Landgemeinden, ohne die zentrale
+  Frage zu stellen, wohin die Migranten sollen und ohne Zahlen, Ziele oder
+  Grenzen zu nennen.
+zusammenfassung: >-
+  9min.ch analysiert eine Kolumne von GLP-Präsident Jürg Grossen zur
+  gescheiterten 10-Millionen-Initiative. Grossen liefere eine saubere
+  Dokumentation des Abstimmungsresultats und eine wohlwollende Interpretation
+  des Ja aus den Landgemeinden, verschweige aber die naheliegendste Frage: Wohin
+  mit den Migranten, wenn die Städte Nein und die Landgemeinden Ja gesagt haben?
+  Zudem fehlten jegliche Zahlen, Ziele oder Grenzen für das von der GLP
+  akzeptierte Bevölkerungswachstum, die ökologische Dimension sei komplett
+  absent, und die Forderung nach «Konsequenz» bleibe leer.
+quelle_datum: '2026-06-29'
+quelle_format: Online-Artikel
+quelle_sendung: ''
+quelle_redaktion: ''
+kritik_schwere: 2
 ---
 
 *Jürg Grossen, GLP-Präsident, schreibt eine Kolumne über die gescheiterte 10-Millionen-Initiative. Er tut, was GLP-Politiker tun: Er erklärt den Landgemeinden, dass sie falsch gelegen haben — wohlwollend, verständnisvoll, aber letztlich herablassend. Er fordert «mehr Wohnraum», «bessere Vereinbarkeit», «Konsequenz gegenüber jenen, die unser Gastrecht missbrauchen» — aber er nennt keine Zahl, kein Ziel, keine Grenze. Und er verschweigt die naheliegendste Frage: Wenn die Städte Nein gesagt haben und die Landgemeinden Ja — wohin dann mit den Menschen, die kommen? Dürfen die Migranten in die Regionen ziehen, die für mehr als 10 Millionen gestimmt haben? Grossen erwähnt diesen Gedanken mit keinem Wort.*

@@ -1,14 +1,78 @@
 ---
-title: "Das Verfahren, das keines ist — und die Demokratie, die niemand fragt"
-date: "2026-07-02"
+title: 'Das Verfahren, das keines ist — und die Demokratie, die niemand fragt'
+date: '2026-07-02'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMNk1AwXUAAS8VV.jpg"
-tweetId: "2072611188811174207"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMNk1AwXUAAS8VV.jpg'
+tweetId: '2072611188811174207'
+categories:
+  - EU/Aussenpolitik
+  - Demokratie
+  - SRF/SRG
+tags:
+  - EU-Parlament
+  - AfD
+  - ESN
+  - Parteienfinanzierung
+  - Behördenpropaganda
+  - Framing
+  - Interessenkonflikt
+  - demokratische Legitimation
 seo:
-  description: "Dieser SRF-Beitrag über das EU-Parlamentsverfahren gegen die AfD-Europapartei ist ein Lehrstück in institutioneller Stenografie: Ein politisches Verfahren…"
+  description: >-
+    Dieser SRF-Beitrag über das EU-Parlamentsverfahren gegen die
+    AfD-Europapartei ist ein Lehrstück in institutioneller Stenografie: Ein
+    politisches Verfahren…
+themen:
+  - EU-Verfahren gegen AfD-Europapartei
+  - Parteienfinanzierung und demokratische Legitimation
+  - Berichterstattung über politische Verfahren gegen Opposition
+  - Framing behördlicher Einstufungen
+kritisiertes_medium: SRF News
+kritisierter_beitrag: EU-Parlament stimmt über Verfahren gegen AfD-Europapartei ab
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Behördenpropaganda
+personen:
+  - Roberta Metsola
+  - Éric Zemmour
+institutionen:
+  - SRF
+  - EU-Parlament
+  - AfD
+  - ESN
+  - Reconquête
+  - Wasraschdane
+  - S&D
+  - Renew
+  - Grüne
+  - Linke
+  - CDU/CSU
+  - Verwaltungsgericht Köln
+  - Aufsichtsbehörde für europäische politische Parteien
+gesetze_vorlagen: []
+these: >-
+  SRF rahmt ein politisches Verfahren gegen eine demokratisch gewählte Partei
+  als administrativen Vorgang und stellt keine Fragen zur demokratischen
+  Legitimation, zum Interessenkonflikt der unterzeichnenden Parteien und zur
+  rechtlichen Ungeklärtheit der Einstufung.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert einen SRF-Beitrag über das EU-Parlamentsverfahren
+  gegen die AfD-Europapartei ESN. SRF rahme ein politisches Verfahren als
+  administrative Routine, verschweige den Interessenkonflikt der
+  unterzeichnenden Parteien, die im Wettbewerb zur AfD stehen, und frage nicht
+  nach der demokratischen Legitimation einer Mehrheit, die einer Minderheit die
+  Finanzierung entzieht. Die Einstufung als gesichert rechtsextremistisch werde
+  trotz hängigem Verfahren als Fakt präsentiert, die AfD-Perspektive fehle
+  komplett, EU-Grundwerte und Gerichtsbeschluss würden zitiert aber nicht
+  erklärt.
+quelle_datum: '2026-07-01'
+quelle_format: Online-Artikel
+quelle_sendung: ''
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *Dieser SRF-Beitrag über das EU-Parlamentsverfahren gegen die AfD-Europapartei ist ein Lehrstück in institutioneller Stenografie: Ein politisches Verfahren gegen eine demokratisch gewählte Partei wird gemeldet — ohne dass die zentrale Frage gestellt wird: Darf ein Parlament die Finanzierung einer Partei entziehen, die das Volk in dasselbe Parlament gewählt hat? Die AfD wird als «gesichert rechtsextremistisch» etikettiert, ohne dass erwähnt wird, dass diese Einstufung juristisch angefochten ist und das Verfahren hängig ist. Die politischen Akteure, die das Verfahren vorantreiben, werden benannt — aber ihr Eigeninteresse wird nicht thematisiert. Das Ergebnis ist ein Beitrag, der klingt wie EU-Institutionsberichterstattung, aber keine ist — denn Berichterstattung prüft ihre Quellen, und dieser Beitrag prüft nichts.*

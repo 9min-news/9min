@@ -1,14 +1,69 @@
 ---
-title: "Die Gründung, die zur Lüge erklärt wird"
-date: "2026-08-01"
+title: 'Die Gründung, die zur Lüge erklärt wird'
+date: '2026-08-01'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HOpBmriWEAEwCvQ.jpg"
-tweetId: "2083548797813027276"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HOpBmriWEAEwCvQ.jpg'
+tweetId: '2083548797813027276'
+categories:
+  - SRF/SRG
+  - Gesellschaft
+  - Demokratie
+tags:
+  - SRF
+  - Satire
+  - Rütlischwurbel
+  - Gründungsmythos
+  - Tell
+  - Winkelried
+  - Multikulturalismus
+  - Nationalfeiertag
 seo:
-  description: "SRF veröffentlicht am 1. August eine satirische Kolumne, die die Schweizer Gründungsgeschichte als «Rütlischwurbel» und Lüge bezeichnet. Tell und…"
+  description: >-
+    SRF veröffentlicht am 1. August eine satirische Kolumne, die die Schweizer
+    Gründungsgeschichte als «Rütlischwurbel» und Lüge bezeichnet. Tell und…
+themen:
+  - Gründungsmythos
+  - Nationalfeiertag
+  - öffentlich-rechtlicher Auftrag
+  - institutionelle Dekonstruktion
+kritisiertes_medium: SRF
+kritisierter_beitrag: 'Rütlischwurbel: Gross seit 1291? Von wegen!'
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Einordnungsfehler
+  - Auslassung
+personen:
+  - Parmelin
+  - Schiller
+  - Tell
+  - Winkelried
+  - Trump
+institutionen:
+  - SRF
+  - SRF Zytlupe
+  - Bundesrat
+  - Fussball-Nati
+gesetze_vorlagen:
+  - Bundesbrief 1291
+these: >-
+  SRF nutzt am Nationalfeiertag eine Satire, um die Schweizer Gründungsmythen
+  als Lüge zu dekonstruieren und damit seinen öffentlich-rechtlichen Auftrag zum
+  Zusammenhalt zu verfehlen.
+zusammenfassung: >-
+  9min kritisiert eine SRF-Zytlupe-Satire vom 1. August 2026, die die Schweizer
+  Gründungsgeschichte als 'Rütlischwurbel' und Lüge bezeichnet und stattdessen
+  die Fussball-Nati als wahre Nation inszeniert. Der Artikel argumentiert, dass
+  SRF damit die Funktion von Gründungsmythen als narrative Werteverdichtungen
+  verkennt und institutionellen Selbsthass pflege, finanziert durch
+  Zwangsgebühren der Bürger. Die Satire spalte zudem, statt zu versöhnen, und
+  biete keine Antwort darauf, was einen Staat ohne Mythen zusammenhält.
+quelle_datum: '2026-08-01'
+quelle_format: Online-Artikel
+quelle_sendung: SRF Zytlupe
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF veröffentlicht am 1. August eine satirische Kolumne, die die Schweizer Gründungsgeschichte als «Rütlischwurbel» und Lüge bezeichnet. Tell und Winkelried seien Fiktionen, wahre Grösse liege im Multikulturalismus der Fussball-Nati. Die Fragen: Warum dekonstruiert ein öffentlich-rechtlicher Sender am Nationalfeiertag die nationale Identität? Was ist die Funktion des Gründungsmythos. Was soll diese Spaltung, die dem Autor unterläuft? Der Beitrag ist eine Satire, die das Fundament des Landes verhöhnt, das sie finanziert.*

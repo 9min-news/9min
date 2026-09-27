@@ -1,14 +1,75 @@
 ---
-title: "SRF, die 1,5 Milliarden und die Frage, wer eigentlich kontrolliert — eine Strukturanalyse"
-date: "2026-06-30"
+title: >-
+  SRF, die 1,5 Milliarden und die Frage, wer eigentlich kontrolliert — eine
+  Strukturanalyse
+date: '2026-06-30'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMD7EyTWYAAy3Nn.jpg"
-tweetId: "2071932153420521937"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMD7EyTWYAAy3Nn.jpg'
+tweetId: '2071932153420521937'
+categories:
+  - SRF/SRG
+  - Billag/Gebühren
+  - Demokratie
+tags:
+  - SRF
+  - SRG
+  - Medienabgabe
+  - redaktionelle Unabhängigkeit
+  - Ombudsstelle
+  - Presserat
+  - Aufsichtsrat
+  - Themensetzung
 seo:
-  description: "Das Sprechtraining-Thema ist ein Symptom, nicht die Krankheit. Die Krankheit ist: SRF hat rund 2900 Mitarbeitende, ein Budget von rund 1,5 Milliarden…"
+  description: >-
+    Das Sprechtraining-Thema ist ein Symptom, nicht die Krankheit. Die Krankheit
+    ist: SRF hat rund 2900 Mitarbeitende, ein Budget von rund 1,5 Milliarden…
+themen:
+  - SRG-Finanzierung und Kontrolle
+  - Redaktionelle Unabhängigkeit vs. Verantwortung
+  - Wirksamkeit der Aufsichtsorgane
+  - Themensetzung bei SRF
+  - UK-Grooming-Skandal-Berichterstattung
+kritisiertes_medium: SRF
+kritisierter_beitrag: ''
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Selektion
+  - Autoritätsargument
+personen:
+  - Trump
+institutionen:
+  - SRF
+  - SRG
+  - Ombudsstelle
+  - Presserat
+  - SRG-Aufsichtsrat
+  - Bundesrat
+  - Bundesgericht
+  - WHO
+  - ETH
+  - PSI
+  - RKI
+  - Tages-Anzeiger
+gesetze_vorlagen: []
+these: >-
+  SRF nutzt seine redaktionelle Unabhängigkeit als Schutzschild, um unbequeme
+  Themen zu ignorieren, während die drei Aufsichtsorgane keine wirksame
+  Sanktionsgewalt über die redaktionelle Themensetzung besitzen.
+zusammenfassung: >-
+  Die Strukturanalyse kritisiert, dass SRF mit 1,5 Milliarden Franken Budget und
+  2900 Mitarbeitenden weitgehend autonom über seine Themensetzung entscheidet,
+  ohne wirksame Kontrolle durch Ombudsstelle, Presserat oder SRG-Aufsichtsrat.
+  Der UK-Grooming-Skandal wird als Beispiel für die Ignorierung relevanter, aber
+  polarisierender Themen angeführt. Der Artikel fordert Transparenzpflicht,
+  externe Evaluation, Publikumsbeteiligung und Sanktionsmöglichkeiten bei
+  systematischen Mängeln.
+quelle_datum: ''
+quelle_format: ''
+quelle_sendung: ''
+quelle_redaktion: SRF
+kritik_schwere: 3
 ---
 
 *Das Sprechtraining-Thema ist ein Symptom, nicht die Krankheit. Die Krankheit ist: SRF hat rund 2900 Mitarbeitende, ein Budget von rund 1,5 Milliarden Franken pro Jahr, drei Aufsichtsorgane (Ombudsstelle, Presserat, SRG-Aufsichtsrat) — und trotzdem entscheidet es weitgehend autonom, was es berichtet und was nicht. Wer kontrolliert einen öffentlich-rechtlichen Sender, der seine redaktionelle Unabhängigkeit als Schutzschild gegen jede Kritik nutzt?*

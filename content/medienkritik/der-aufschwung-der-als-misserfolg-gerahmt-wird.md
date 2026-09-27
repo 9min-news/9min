@@ -1,14 +1,66 @@
 ---
-title: "Der Aufschwung, der als Misserfolg gerahmt wird"
-date: "2026-08-04"
+title: 'Der Aufschwung, der als Misserfolg gerahmt wird'
+date: '2026-08-04'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HO3QRUBXkAEwYR5.jpg"
-tweetId: "2084551233872794004"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HO3QRUBXkAEwYR5.jpg'
+tweetId: '2084551233872794004'
+categories:
+  - SRF/SRG
+  - Wirtschaft
+  - EU/Aussenpolitik
+tags:
+  - Argentinien
+  - Milei
+  - SRF
+  - Tagesschau
+  - Framing
+  - Wirtschaftswachstum
+  - Inflation
+  - Armut
 seo:
-  description: "SRF berichtet über Argentiniens Wirtschaftswachstum unter Milei und rahmt es als Krise. Die Wirtschaft wächst um 4,4 Prozent, das Kreditrating steigt, das…"
+  description: >-
+    SRF berichtet über Argentiniens Wirtschaftswachstum unter Milei und rahmt es
+    als Krise. Die Wirtschaft wächst um 4,4 Prozent, das Kreditrating steigt,
+    das…
+themen:
+  - Argentinien Wirtschaftspolitik unter Milei
+  - Medienframing von Wirtschaftswachstum
+  - Inflation und Armut in Argentinien
+  - Arbeitsmarkt und informelle Wirtschaft
+  - Expertenquote und Quellenauswahl
+kritisiertes_medium: SRF Tagesschau
+kritisierter_beitrag: 'Argentinien: Wenn Wachstum keine Arbeit schafft'
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Selektion
+personen:
+  - Milei
+  - Daniel Schteingart
+institutionen:
+  - SRF
+  - SRG
+  - Fundar
+gesetze_vorlagen: []
+these: >-
+  SRF rahmt Argentiniens Wirtschaftswachstum unter Milei als Misserfolg, indem
+  es die sinkende Armut, die gestoppte Inflation und den bankrotten
+  Ausgangspunkt Argentiniens verschweigt sowie einen regierungskritischen
+  Experten als neutral präsentiert.
+zusammenfassung: >-
+  Der 9min.ch-Artikel kritisiert einen SRF-Tagesschau-Beitrag vom 03.08.2026,
+  der Argentiniens Wirtschaftswachstum von 4,4 Prozent unter Präsident Milei als
+  Krise gerahmt habe. SRF verschweige, dass die Armut laut eigenem Bericht sank,
+  dass Milei die Inflation von über 200 Prozent einstellte und dass Argentinien
+  vor Milei wirtschaftlich kollabierte. Zudem werde der regierungskritische
+  Experte Daniel Schteingart vom Fundar-Institut als neutral präsentiert.
+quelle_datum: '2026-08-03'
+quelle_format: Broadcast
+quelle_sendung: Tagesschau
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF berichtet über Argentiniens Wirtschaftswachstum unter Milei und rahmt es als Krise. Die Wirtschaft wächst um 4,4 Prozent, das Kreditrating steigt, das Ausfallrisiko sinkt — aber der Beitrag fragt nicht, ob das ein Erfolg ist. Er fragt, wo die Jobs bleiben. Was nicht vorkommt: die Inflation, die Milei bändigte. Was nicht vorkommt: die Armut, die laut SRFs eigenem Archivbeitrag sank. Was nicht vorkommt: der Ausgangspunkt — ein Land, das vor Milei wirtschaftlich kollabierte. Der Beitrag ist eine Wachstumsstory, die das Wachstum als Problem gerahmt.*

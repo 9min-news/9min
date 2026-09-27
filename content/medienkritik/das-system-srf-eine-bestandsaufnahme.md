@@ -1,14 +1,84 @@
 ---
-title: "Das System SRF: Eine Bestandsaufnahme"
-date: "2026-07-26"
+title: 'Das System SRF: Eine Bestandsaufnahme'
+date: '2026-07-26'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HOJJqaEWoAAvi31.jpg"
-tweetId: "2081307020011991261"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HOJJqaEWoAAvi31.jpg'
+tweetId: '2081307020011991261'
+categories:
+  - SRF/SRG
+  - Demokratie
+  - Gesellschaft
+tags:
+  - SRF
+  - Framing
+  - Auslassung
+  - Selektion
+  - Autoritätsargument
+  - Medienkritik
+  - Bestandsaufnahme
+  - demokratischer Auftrag
 seo:
-  description: "Zwischen Ende März und Juli 2026 wurden über 250 Beiträge des Schweizer Radio und Fernsehens analysiert — Nachrichtenmeldungen, Tagesschau-Beiträge,…"
+  description: >-
+    Zwischen Ende März und Juli 2026 wurden über 250 Beiträge des Schweizer
+    Radio und Fernsehens analysiert — Nachrichtenmeldungen,
+    Tagesschau-Beiträge,…
+themen:
+  - SRF-Berichterstattung
+  - Systematische Auslassungsmuster
+  - Einseitige Quellenauswahl
+  - Fehlende Verantwortungsadressierung
+  - Medienkritik
+kritisiertes_medium: SRF
+kritisierter_beitrag: ''
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Selektion
+  - Framing
+personen:
+  - Reto Knutti
+  - Daniel de Roulet
+  - Donald Trump
+  - Elizabeth Warren
+  - Friedrich Merz
+  - Alain Berset
+  - Viktor Orban
+institutionen:
+  - SRF
+  - ETH
+  - PSI
+  - UBS
+  - BAG
+  - EFK
+  - WHO
+  - EGMR
+  - FIFA
+  - SDA
+  - Tages-Anzeiger
+  - Welthungerhilfe
+  - AfD
+  - SVP
+  - Lancet
+gesetze_vorlagen:
+  - Neutralitätsinitiative
+these: >-
+  SRF produziert durch systematische Auslassung, einseitige Quellenauswahl und
+  ungeprüfte Autoritätsübernahme kein Abbild der Realität, sondern ein Framing,
+  das den demokratischen Auftrag der Information verfehlt.
+zusammenfassung: >-
+  Die Bestandsaufnahme analysiert über 250 SRF-Beiträge aus März bis Juli 2026
+  und identifiziert acht wiederkehrende Muster: ungeprüfte Autoritätsübernahme,
+  einseitige Quellenwahl, Zahlen ohne Massstab, fehlende
+  Verantwortungsadressierung, Ausklammerung der Schweiz im Auslandsvergleich,
+  doppelte Moral, unkritische Studienverbreitung und fehlende Selbstkritik. Die
+  Kritik kommt zum Schluss, dass SRF referiert statt prüft und damit seinen
+  öffentlichen Auftrag systematisch verfehlt.
+quelle_datum: ''
+quelle_format: Broadcast
+quelle_sendung: ''
+quelle_redaktion: SRF
+kritik_schwere: 3
 ---
 
 *Zwischen Ende März und Juli 2026 wurden über 250 Beiträge des Schweizer Radio und Fernsehens analysiert — Nachrichtenmeldungen, Tagesschau-Beiträge, Interviews, Analysen und Faktenchecks —, ergänzt durch Vergleichsbeiträge weiterer Schweizer Leitmedien. Sämtliche analysierten Beiträge sind dokumentiert und im Archiv https://www.9min.ch/medienkritik einsehbar. Bei jedem Beitrag wurde dieselbe Frage gestellt: Was steht drin — und was fehlt? Das Ergebnis ist kein Katalog von Fehlern. Die einzelnen Beiträge sind nicht falsch — sie sind selektiv. Sie berichten, was ins Framing passt, und verschweigen, was es stört. Und die Auslassungen folgen Mustern, die über alle Ressorts hinweg wiederkehren: Klima, Migration, US-Politik, Justiz, Wissenschaft, Aussenpolitik.*

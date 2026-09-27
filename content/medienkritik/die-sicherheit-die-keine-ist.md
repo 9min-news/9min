@@ -1,14 +1,72 @@
 ---
-title: "Die Sicherheit, die keine ist"
-date: "2026-07-02"
+title: 'Die Sicherheit, die keine ist'
+date: '2026-07-02'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMNh2MlXAAAkGtb.jpg"
-tweetId: "2072607874363109580"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMNh2MlXAAAkGtb.jpg'
+tweetId: '2072607874363109580'
+categories:
+  - Gesellschaft
+tags:
+  - mRNA-Impfstoffe
+  - Lancet-Studie
+  - Tages-Anzeiger
+  - narrative Review
+  - Ioannidis
+  - Interessenkonflikte
+  - Myokarditis
+  - Bestätigungsjournalismus
 seo:
-  description: "Dieser Tages-Anzeiger-Beitrag über die Lancet-Studie zur mRNA-Impfstoffsicherheit ist ein Lehrstück in Bestätigungsjournalismus: Eine Übersichtsarbeit…"
+  description: >-
+    Dieser Tages-Anzeiger-Beitrag über die Lancet-Studie zur
+    mRNA-Impfstoffsicherheit ist ein Lehrstück in Bestätigungsjournalismus: Eine
+    Übersichtsarbeit…
+themen:
+  - mRNA-Impfstoffsicherheit
+  - Wissenschaftsjournalismus
+  - Bestätigungsjournalismus
+  - Pharmakovigilanz
+  - Skepsis-Framing
+kritisiertes_medium: Tages-Anzeiger
+kritisierter_beitrag: 'Grosse Analyse bestätigt: mRNA-Impfstoffe sind sicher und wirksam'
+kritisierter_autor: Felix Straumann
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Kontextmangel
+personen:
+  - Anna Blakney
+  - John Ioannidis
+  - Philip Tarr
+  - Felix Straumann
+  - Donald Trump
+institutionen:
+  - Tages-Anzeiger
+  - Lancet
+  - University of British Columbia
+  - Trump-Regierung
+  - VAERS
+  - EudraVigilance
+  - SwissMedic
+gesetze_vorlagen: []
+these: >-
+  Der Tages-Anzeiger-Beitrag reproduziert eine Lancet-Pressemitteilung als
+  Wissenschaftsjournalismus, ohne die zentrale methodische Frage zu prüfen, ob
+  eine narrative Review Sicherheit belegen kann, und rahmt berechtigte Skepsis
+  als irrational.
+zusammenfassung: >-
+  Der 9min.ch-Artikel analysiert einen Tages-Anzeiger-Beitrag von Felix
+  Straumann, der eine Lancet-Übersichtsarbeit zur mRNA-Impfstoffsicherheit als
+  endgültige Entlastung präsentiert. Die Kritik zeigt auf, dass der Beitrag die
+  methodische Kritik von John Ioannidis (narrative vs. systematische Review)
+  zwar zitiert, aber nicht verfolgt, Skepsis als emotionale Reaktion rahmt und
+  zentrale Fragen nach Langzeitfolgen, Untererfassung, Interessenkonflikten und
+  Patientenperspektiven vollständig auslässt.
+quelle_datum: '2026-07-01'
+quelle_format: Online-Artikel
+quelle_sendung: ''
+quelle_redaktion: ''
+kritik_schwere: 2
 ---
 
 *Dieser Tages-Anzeiger-Beitrag über die Lancet-Studie zur mRNA-Impfstoffsicherheit ist ein Lehrstück in Bestätigungsjournalismus: Eine Übersichtsarbeit wird als endgültige Entlastung präsentiert, Skepsis wird als irrational gerahmt, und die zentrale methodische Frage — ob eine Übersichtsarbeit, die keine systematische Review ist, überhaupt Aussagen über Sicherheit treffen kann — wird von einem der zitierten Experten selbst aufgeworfen, dann aber vom Journalisten fallengelassen. Der Beitrag klingt wie Wissenschaftsjournalismus, aber er ist keine — denn Wissenschaftsjournalismus prüft seine Quellen, und dieser Beitrag prüft nichts. Er reproduziert eine Pressemitteilung mit Experten-Zitat.*

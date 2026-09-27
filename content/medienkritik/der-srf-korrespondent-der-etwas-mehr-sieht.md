@@ -1,14 +1,80 @@
 ---
-title: "Der SRF Korrespondent, der etwas mehr sieht"
-date: "2026-06-29"
+title: 'Der SRF Korrespondent, der etwas mehr sieht'
+date: '2026-06-29'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HL_6h4HXwAAto8D.jpg"
-tweetId: "2071649865113760194"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HL_6h4HXwAAto8D.jpg'
+tweetId: '2071649865113760194'
+categories:
+  - SRF/SRG
+  - Demokratie
+tags:
+  - Echo der Zeit
+  - Andrea Christen
+  - Supreme Court
+  - FTC
+  - Humphrey-Doktrin
+  - Gewaltenteilung
+  - SRF-Vergleich
+  - Korrespondentenbericht
 seo:
-  description: "Dieser Echo-der-Zeit-Beitrag von USA-Korrespondent Andrea Christen ist das Gegengift zum SRF-4-News-Stück, das vor einer Stunde analysiert wurde.…"
+  description: >-
+    Dieser Echo-der-Zeit-Beitrag von USA-Korrespondent Andrea Christen ist das
+    Gegengift zum SRF-4-News-Stück, das vor einer Stunde analysiert wurde.…
+themen:
+  - Supreme Court Berichterstattung
+  - Gewaltenteilung in den USA
+  - FTC-Entscheid und Machtverschiebung
+  - Verfassungsrechtliche Einordnung
+  - Journalistische Qualität im Vergleich
+kritisiertes_medium: SRF News
+kritisierter_beitrag: Wo der Supreme Court Trump einhegt – und gewähren lässt
+kritisierter_autor: Andrea Christen
+kritik_typ:
+  - Auslassung
+  - Kontextmangel
+  - Einordnungsfehler
+personen:
+  - Andrea Christen
+  - Kevin Warsh
+  - Trump
+institutionen:
+  - SRF
+  - Echo der Zeit
+  - SRF News
+  - Supreme Court
+  - FTC
+  - Fed
+  - Kongress
+  - SEC
+  - CFTC
+  - NLRB
+  - FCC
+  - CFPB
+  - FEC
+  - SNB
+  - WEKO
+  - FINMA
+gesetze_vorlagen: []
+these: >-
+  Der Echo-der-Zeit-Beitrag von Andrea Christen ist deutlich besser als das
+  vergleichbare SRF-4-News-Stück, weil er den FTC-Entscheid korrekt als
+  strukturellen Machtwechsel einordnet, lässt aber juristische Tiefe vermissen.
+zusammenfassung: >-
+  Der Artikel lobt den Echo-der-Zeit-Beitrag von USA-Korrespondentin Andrea
+  Christen als journalistisch deutlich überlegen gegenüber dem SRF-4-News-Stück
+  zu denselben Supreme-Court-Entscheiden. Der Beitrag ordne den FTC-Entscheid
+  korrekt als Machtverschiebung vom Kongress zum Präsidenten ein, erkläre den
+  Zusammenhang zum Cook-Urteil und nenne die konservative Gerichtsmehrheit.
+  Kritisiert werden jedoch fehlende juristische Tiefe: Die Humphrey-Doktrin
+  werde nicht genannt, die Dissens-Meinung fehle, konkrete betroffene Behörden
+  bleiben ungenannt, und eine Schweizer Vergleichsdimension sei systematisch
+  absent.
+quelle_datum: '2026-06-29'
+quelle_format: Broadcast
+quelle_sendung: Echo der Zeit
+quelle_redaktion: SRF News
+kritik_schwere: 2
 ---
 
 *Dieser Echo-der-Zeit-Beitrag von USA-Korrespondent Andrea Christen ist das Gegengift zum SRF-4-News-Stück, das vor einer Stunde analysiert wurde. Dieselben vier Supreme-Court-Entscheide, derselbe Tag, dasselbe Haus — aber ein völlig anderes journalistisches Produkt. Hier wird der FTC-Entscheid nicht in einer Box versteckt, sondern als das behandelt, was er ist: ein struktureller Machtwechsel von Kongress zu Präsident. Hier wird der Zusammenhang zwischen Cook- und FTC-Entscheid erklärt: Die Fed ist eine Ausnahme, andere Behörden nicht. Hier wird die konservative Mehrheit des Gerichts benannt und eingeordnet. Hier werden andere Trump-Fälle erwähnt (Zölle, Einwanderung, Geburtstatsachenbürgerschaft), um ein Muster zu erkennen. Das ist nicht perfekt — aber es ist Journalismus, der versucht, das Ganze zu sehen, statt ein Framing durchzuziehen. Der Vergleich der beiden Beiträge zeigt, dass SRF zu besseren Berichterstattung fähig ist — wenn der Korrespondent vor Ort das Wort hat und nicht die Agentur-Zentrale den Lead schreibt.*

@@ -1,14 +1,70 @@
 ---
 title: Die leeren Lehren
-date: "2026-08-04"
+date: '2026-08-04'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HO4rux5WgAAx57A.jpg"
-tweetId: "2084652081734885479"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HO4rux5WgAAx57A.jpg'
+tweetId: '2084652081734885479'
+categories:
+  - SRF/SRG
+  - EU/Aussenpolitik
+  - Migration
+tags:
+  - Framing
+  - Auslassung
+  - Behördenpropaganda
+  - TikTok-These
+  - Marokko
+  - EU-Zahlungen
+  - Pressemitteilung
+  - Frühwarnsystem
 seo:
-  description: "SRF meldet die Lehren der EU-Innenminister aus der Ceuta-Krise und rahmt sie als technisches Kommunikationsproblem. Frühwarnsysteme,…"
+  description: >-
+    SRF meldet die Lehren der EU-Innenminister aus der Ceuta-Krise und rahmt sie
+    als technisches Kommunikationsproblem. Frühwarnsysteme,…
+themen:
+  - Ceuta-Krise
+  - EU-Migrationspolitik
+  - Behördenpropaganda in Medien
+  - Marokko als Erpressungsakteur
+  - Grenzsicherung und EU-Zahlungen
+kritisiertes_medium: SRF News
+kritisierter_beitrag: EU-Innenminister ziehen Lehren aus Ceuta-Krise
+kritisierter_autor: ''
+kritik_typ:
+  - Behördenpropaganda
+  - Auslassung
+  - Framing
+personen:
+  - Brunner
+  - Nuñez
+institutionen:
+  - SRF
+  - EU-Kommission
+  - EU-Innenminister
+  - Marokko
+  - Spanien
+  - Italien
+  - EU
+gesetze_vorlagen:
+  - Schengen
+  - Partnerschaftsabkommen EU-Marokko
+these: >-
+  SRF referiert eine EU-Pressemitteilung unkritisch als Krisenbewältigung und
+  tarnt Marokkos Erpressung, EU-Zahlungen und die Verantwortung für 75 Tote als
+  technisches Kommunikationsproblem.
+zusammenfassung: >-
+  9min.ch kritisiert den SRF-Beitrag zur Ceuta-Krise als weitgehend unkritische
+  Wiedergabe EU-amtlicher Rhetorik. Wesentliche Fakten fehlen: Marokkos bewusste
+  Grenzöffnung, über 500 Millionen Euro EU-Zahlungen an Marokko und die
+  politische Verantwortung für 75 ertrunkene Menschen. Die TikTok-These eines
+  EU-Kommissars wird als Fakt übernommen, die italienische Kritik an Spanien als
+  Spaltung gerahmt.
+quelle_datum: '2026-08-04'
+quelle_format: Online-Artikel
+quelle_sendung: SRF 4 News
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF meldet die Lehren der EU-Innenminister aus der Ceuta-Krise und rahmt sie als technisches Kommunikationsproblem. Frühwarnsysteme, Social-Media-Überwachung, ein Dank an Spanien. Was nicht vorkommt: die Frage, warum Marokko die Grenze öffnete. Was nicht vorkommt: die Hunderte Millionen Euro, die die EU für genau diese Grenzsicherung bereits bezahlt hat. Was nicht vorkommt: die 75 Toten als politische Verantwortung. Der Beitrag ist eine Pressemitteilung der EU-Kommission, die eine Erpressung als TikTok-Problem tarnt.*

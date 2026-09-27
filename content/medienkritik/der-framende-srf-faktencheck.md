@@ -1,14 +1,80 @@
 ---
 title: Der Framende «SRF-Faktencheck»
-date: "2026-07-04"
+date: '2026-07-04'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMZHHGOXoAAtkNj.jpg"
-tweetId: "2073423016600469952"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMZHHGOXoAAtkNj.jpg'
+tweetId: '2073423016600469952'
+categories:
+  - SRF/SRG
+  - Migration
+  - Gesellschaft
+tags:
+  - Faktencheck
+  - Deflektion
+  - Framing
+  - Grooming Gangs
+  - Kindesmissbrauch
+  - ethnische Dimension
+  - Behördenversagen
+  - Jay Report
 seo:
-  description: "Dieser SRF-Faktencheck zu den «Grooming Gangs» in Grossbritannien ist ein Lehrstück in Deflektionsjournalismus: Ein systematischer, jahrzehntelanger…"
+  description: >-
+    Dieser SRF-Faktencheck zu den «Grooming Gangs» in Grossbritannien ist ein
+    Lehrstück in Deflektionsjournalismus: Ein systematischer, jahrzehntelanger…
+themen:
+  - Grooming Gangs Grossbritannien
+  - Faktencheck-Framing als Deflektion
+  - Behördenversagen und politische Korrektheit
+  - Opferperspektive in Medienberichterstattung
+kritisiertes_medium: SRF News
+kritisierter_beitrag: '''Grooming Gangs'' – das steckt dahinter'
+kritisierter_autor: Melanie Kömle
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Kontextmangel
+personen:
+  - Melanie Kömle
+  - Rupert Lowe
+  - Elon Musk
+  - Lord Pearson of Rannoch
+  - Keir Starmer
+institutionen:
+  - SRF Netzwerk Faktencheck
+  - BBC
+  - House of Lords
+  - Restore Britain
+  - UKIP
+  - Jay Report
+  - Telford Report
+  - Oxford Report
+  - Rochdale Reports
+gesetze_vorlagen:
+  - Rape Gang Inquiry Report
+  - Jay Report (2014)
+  - Telford Report
+  - Oxford Report
+these: >-
+  Der SRF-Faktencheck zu den Grooming Gangs ist kein Faktencheck, sondern
+  Deflektionsjournalismus, der die Debatte über jahrzehntelangen systematischen
+  Kindesmissbrauch auf eine delegitimierte Zahl reduziert und dokumentierte
+  Fakten als politisch motiviert umdeutet.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert den SRF-Faktencheck zu den britischen Grooming
+  Gangs als systematisches Framing, das eine dokumentierte Misbrauchsdebatte
+  durch Reduktion auf die als Schätzung markierte Zahl 250'000 delegitimiert.
+  Wesentliche Fakten wie bestätigte Opferzahlen (Rotherham 1'400, Telford
+  1'000), Verurteilungen, Opfergeschichten, das dokumentierte jahrzehntelange
+  Behördenversagen und die ethnische Täterstruktur werden ausgeblendet oder als
+  politisch umgedeutet. Die Kritik attestiert SRF, die Opfer völlig absent zu
+  lassen und stattdessen Verbreiter wie Musk, Lowe und Pearson durch Assoziation
+  zu delegitimieren.
+quelle_datum: '2026-07-03'
+quelle_format: Online-Artikel
+quelle_sendung: SRF Faktencheck
+quelle_redaktion: SRF Netzwerk Faktencheck
+kritik_schwere: 3
 ---
 
 *Dieser SRF-Faktencheck zu den «Grooming Gangs» in Grossbritannien ist ein Lehrstück in Deflektionsjournalismus: Ein systematischer, jahrzehntelanger Missbrauchskandal — bestätigt durch offizielle Untersuchungen, Gerichtsurteile und Opferberichte — wird auf eine einzige Zahl reduziert, die dann als «Schätzung» delegitimiert wird. Die ethnische Dimension, die dokumentiert ist, wird als politisches Motiv umgedeutet. Die Frage, warum Behörden jahrzehntelang schwiegen, wird behauptet als nicht existent. Und die Opfer — die realen, namentlich bekannten, gerichtlich bestätigten Opfer — kommen nicht vor. Der Beitrag klingt wie Faktencheck, aber er ist keiner — denn ein Faktencheck prüft Behauptungen gegen Realität, und dieser Beitrag prüft eine Zahl gegen nichts.*

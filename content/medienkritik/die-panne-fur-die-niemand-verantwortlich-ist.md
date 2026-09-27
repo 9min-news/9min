@@ -1,14 +1,67 @@
 ---
-title: "Die Panne, für die niemand verantwortlich ist"
-date: "2026-07-09"
+title: 'Die Panne, für die niemand verantwortlich ist'
+date: '2026-07-09'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMyBazaWIAESENa.jpg"
-tweetId: "2075175861486072037"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMyBazaWIAESENa.jpg'
+tweetId: '2075175861486072037'
+categories:
+  - SRF/SRG
+  - Demokratie
+  - Wirtschaft
+tags:
+  - SRF
+  - EFK
+  - IT-Panne
+  - Bundesverwaltung
+  - Verantwortung
+  - Arbeitslosengelder
+  - Verwaltungsbericht
+  - Stenografie
 seo:
-  description: SRF meldet einen Bericht der Eidgenössischen Finanzkontrolle zu gescheiterten oder gefährdeten IT-Schlüsselprojekten der Bundesverwaltung — und referiert…
+  description: >-
+    SRF meldet einen Bericht der Eidgenössischen Finanzkontrolle zu
+    gescheiterten oder gefährdeten IT-Schlüsselprojekten der Bundesverwaltung —
+    und referiert…
+themen:
+  - IT-Schlüsselprojekte Bundesverwaltung
+  - Verantwortung in der Verwaltung
+  - EFK-Berichterstattung
+  - Arbeitslosengelder-Panne
+  - Bundeskanzlei-Kommunikation
+kritisiertes_medium: SRF News
+kritisierter_beitrag: 'Schlüsselprojekte im Fokus: EFK rüffelt Bundesverwaltung'
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Behördenpropaganda
+  - Framing
+personen: []
+institutionen:
+  - EFK
+  - Bundeskanzlei
+  - Seco
+  - Bundesverwaltung
+  - Bundesrat
+  - SRF
+  - Armee
+gesetze_vorlagen: []
+these: >-
+  SRF referiert einen EFK-Bericht zu gescheiterten IT-Projekten als folgenlose
+  Verwaltungsnote, ohne nach Verantwortlichen, Kosten oder Konsequenzen zu
+  fragen.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert, dass SRF einen EFK-Bericht über gescheiterte
+  IT-Schlüsselprojekte der Bundesverwaltung unkritisch als Stenografie
+  weitergibt. Weder werden verantwortliche Personen namentlich genannt, noch
+  konkrete Kosten oder Konsequenzen erfragt. Die Bundeskanzlei dürfe sich mit
+  unprüften Verteidigungsaussagen retten, während der zehnjährige Rhythmus
+  wiederkehrender EFK-Mängel nicht hinterfragt werde.
+quelle_datum: '2026-07-09'
+quelle_format: Online-Artikel
+quelle_sendung: SRF 4 News
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF meldet einen Bericht der Eidgenössischen Finanzkontrolle zu gescheiterten oder gefährdeten IT-Schlüsselprojekten der Bundesverwaltung — und referiert ihn als Verwaltungsnote. Die EFK rüffelt, die Bundeskanzlei erwidert «Ja, aber», die Schlagzeile nennt keine Namen, der Text nennt keine Namen, die Konsequenzen fehlen. Was nicht vorkommt: die Frage, wer verantwortlich ist. Wer leitet das Projekt zur Auszahlung der Arbeitslosengelder? Wer hat die Einführung des Zahlungssystems verantwortet, bei dem Anfang Jahr Menschen ihr Geld nicht erhielten? Wer hat seinen Job verloren, wer wurde versetzt, wer wurde zur Rechenschaft gezogen? Niemand — oder zumindest: SRF fragt nicht. Der Beitrag ist eine Stenografie eines Verwaltungsberichts, ohne eine einzige Frage an die Personen, die hinter den Projekten stehen.*

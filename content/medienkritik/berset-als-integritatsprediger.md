@@ -1,14 +1,74 @@
 ---
 title: Berset als Integritätsprediger
-date: "2026-07-20"
+date: '2026-07-20'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HNshOQxWIAAq0S9.jpg"
-tweetId: "2079292330537079255"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HNshOQxWIAAq0S9.jpg'
+tweetId: '2079292330537079255'
+categories:
+  - SRF/SRG
+  - Gesellschaft
+  - Demokratie
+tags:
+  - Alain Berset
+  - Europarat
+  - FIFA
+  - Covid-Politik
+  - selektive Moral
+  - Framing
+  - Autoritätenberichterstattung
+  - Sportwetten
 seo:
-  description: SRF berichtet über Alain Bersets Kritik an der FIFA — und rahmt den Europarat-Generalsekretär als Hüter der Integrität. «Wieso interveniert der Europarat…
+  description: >-
+    SRF berichtet über Alain Bersets Kritik an der FIFA — und rahmt den
+    Europarat-Generalsekretär als Hüter der Integrität. «Wieso interveniert der
+    Europarat…
+themen:
+  - SRF-Framing von Alain Berset
+  - Bersets Covid-Bilanz als Kontext
+  - selektive Moral bei FIFA und Politik
+  - Schweizer Glücksspielpolitik
+  - Europarat als Wächterinstanz
+kritisiertes_medium: SRF Echo der Zeit
+kritisierter_beitrag: Wieso interveniert der Europarat im Fussball?
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Selektion
+personen:
+  - Alain Berset
+  - Jules Boykoff
+  - Donald Trump
+  - Gianni Infantino
+  - Zryd
+  - Büchel
+institutionen:
+  - SRF
+  - Europarat
+  - FIFA
+  - Bundesrat
+  - Swisslos
+  - Schweizer Regierung
+gesetze_vorlagen:
+  - Legalisiierung Online-Glücksspiel 2019
+  - Covid-Massnahmen
+these: >-
+  SRF rahmt Berset als moralische Autorität, ohne seine Covid-Bilanz zu
+  erwähnen, und wendet den Begriff der 'selektiven Moral' nur auf FIFA/Trump an,
+  nicht auf Berset selbst.
+zusammenfassung: >-
+  Der Artikel kritisiert, dass SRF Berset als moralische Instanz präsentiert,
+  ohne dessen Covid-Politik und Grundrechtseinschränkungen zu thematisieren. Die
+  'selektive Moral' wird nur bei Trump/FIFA diagnostiziert, nicht bei Berset;
+  Schweizer Glücksspielpolitik und Europarat-Bilanz während Covid fehlen als
+  Kontext. Die Kritik diagnostiziert Autoritätenberichterstattung ohne
+  Selbstreflexion und einseitige Stimmenauswahl.
+quelle_datum: '2026-07-20'
+quelle_format: Broadcast
+quelle_sendung: Echo der Zeit
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF berichtet über Alain Bersets Kritik an der FIFA — und rahmt den Europarat-Generalsekretär als Hüter der Integrität. «Wieso interveniert der Europarat im Fussball?», lautet die Frage — und die Antwort ist: weil Berset es für nötig hält. Was nicht vorkommt: die Frage, ob Berset die moralische Autorität hat, Integrität einzufordern. Was nicht vorkommt: Bersets eigene Bilanz — die Covid-Politik, die er als Innenminister verantwortete, die Grundrechte einschränkte, Regeln bog und wissenschaftliche Dissens unterdrückte. Was nicht vorkommt: die Frage, ob ein Politiker, der während einer Krise Prinzipien aufgab, jetzt Prinzipien einfordern darf. Was nicht vorkommt: der Begriff «selektive Moral» — den SRF wörtlich zitiert, aber nur auf Trump anwendet, nicht auf Berset. Was nicht vorkommt: die Erkenntnis, dass der Fussball nur ein Symptom ist — und dass das eigentliche Problem der Prinzipienverlust der politischen Klasse ist, dessen perfektes Beispiel Berset selbst ist. Der Beitrag ist Autoritätenberichterstattung ohne Selbstreflexion — und die Selbstreflexion wäre die Frage gewesen, wer den Wächter wacht.*

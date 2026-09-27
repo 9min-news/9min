@@ -1,14 +1,70 @@
 ---
-title: "Das Elend, das als französisches Problem gerahmt wird"
-date: "2026-07-18"
+title: 'Das Elend, das als französisches Problem gerahmt wird'
+date: '2026-07-18'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HNf8PhpWsAAXKX9.jpg"
-tweetId: "2078407128901968093"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HNf8PhpWsAAXKX9.jpg'
+tweetId: '2078407128901968093'
+categories:
+  - SRF/SRG
+  - Migration
+  - Gesellschaft
+tags:
+  - Framing
+  - Auslassung
+  - Demografie
+  - Parallelgesellschaft
+  - Vereinsarbeit
+  - Prävention
+  - Marseille
+  - SRF
 seo:
-  description: "SRF berichtet über Marseille — und rahmt die Drogenkriminalität als französische Tragödie, die von tapferen Vereinen bekämpft wird. «Armut» ist die…"
+  description: >-
+    SRF berichtet über Marseille — und rahmt die Drogenkriminalität als
+    französische Tragödie, die von tapferen Vereinen bekämpft wird. «Armut» ist
+    die…
+themen:
+  - Drogenkriminalität in Marseille
+  - Migrations- und Integrationspolitik
+  - Parallelgesellschaften
+  - Medienframing in der Auslandsberichterstattung
+  - Schweizer Städte im Vergleich
+kritisiertes_medium: SRF
+kritisierter_beitrag: 'Marseille: Vereinsarbeit gegen die Drogenkriminalität'
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Kontextmangel
+personen:
+  - Mohammed Benmeddour
+  - Karim Lali
+  - Philippe Pujol
+institutionen:
+  - SRF
+  - Apis
+  - Echo der Zeit
+  - Jugendgericht Marseille
+gesetze_vorlagen: []
+these: >-
+  SRF rahmt die Drogenkriminalität in Marseille als französische Tragödie, die
+  durch Armut verursacht und durch Vereine gelöst wird, verschweigt aber
+  systematisch die Demografie der Problemquartiere, die Frage der gescheiterten
+  Integration und den Bezug zur Schweiz.
+zusammenfassung: >-
+  Der Artikel kritisiert einen SRF-Beitrag über Marseille, der die
+  Drogenkriminalität auf Armut reduziert und Vereinsarbeit als Lösung
+  präsentiert, ohne die demografische Zusammensetzung der Problemquartiere, die
+  Rolle der Migrations- und Integrationspolitik oder die Rekrutierung von
+  Teenagern als Auftragskiller zu thematisieren. Ebenso fehlt jeder Bezug zur
+  Schweiz, obwohl Schweizer Städte vergleichbare Muster aufweisen. Die Kritik
+  sieht darin eine moralische Übung anstelle sachlicher
+  Auslandsberichterstattung.
+quelle_datum: '2026-07-18'
+quelle_format: Broadcast
+quelle_sendung: Echo der Zeit
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF berichtet über Marseille — und rahmt die Drogenkriminalität als französische Tragödie, die von tapferen Vereinen bekämpft wird. «Armut» ist die Ursache, «Prävention» ist die Lösung, «Vereine» sind die Helden. Was nicht vorkommt: die Demografie der Quartiere — wer dort lebt, woher er kommt, welche Sprache er spricht, welche Kultur er vertritt. Was nicht vorkommt: die Frage, ob Frankreichs Migrations- und Integrationspolitik die Entstehung von Parallelgesellschaften begünstigt hat. Was nicht vorkommt: die Schweiz — obwohl Genf, Lausanne, Basel dieselben Muster zeigen, obwohl Schweizer Städte dieselben Demografien importieren, obwohl der Platzspitz 2.0 längst in Schweizer Bahnhöfen existiert. Der Beitrag ist Auslandsberichterstattung als moralische Übung — der Blick nach Marseille, damit niemand nach Zürich schaut.*

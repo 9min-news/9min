@@ -1,14 +1,66 @@
 ---
-title: "Der Brandstifter, der als Schriftsteller gewaschen wird"
-date: "2026-07-17"
+title: 'Der Brandstifter, der als Schriftsteller gewaschen wird'
+date: '2026-07-17'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HNb8bEwWYAA5MDu.jpg"
-tweetId: "2078125840001294583"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HNb8bEwWYAA5MDu.jpg'
+tweetId: '2078125840001294583'
+categories:
+  - SRF/SRG
+  - Gesellschaft
+  - Demokratie
+tags:
+  - Daniel de Roulet
+  - Brandstiftung
+  - Tagesgespräch
+  - Framing
+  - Linksextremismus
+  - Doppelstandards
+  - Axel Springer
+  - Sommerserie
 seo:
-  description: "SRF porträtiert Daniel de Roulet — und rahmt ihn als literarische Rebellen. «Immer noch wütend», lautet der Titel, und der Beitrag feiert einen Mann, der…"
+  description: >-
+    SRF porträtiert Daniel de Roulet — und rahmt ihn als literarische Rebellen.
+    «Immer noch wütend», lautet der Titel, und der Beitrag feiert einen Mann,
+    der…
+themen:
+  - Linksextreme Gewalt in Medien
+  - Doppelstandards bei Berichterstattung
+  - Framing von Kriminalität als Charakterzug
+  - Hagiografie ohne Gegenstimme
+kritisiertes_medium: SRF
+kritisierter_beitrag: 'Daniel de Roulet: ‹Immer noch wütend›'
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Asymmetrie
+personen:
+  - Daniel de Roulet
+  - Axel Springer
+institutionen:
+  - SRF
+  - Tagesgespräch
+  - Antifa
+gesetze_vorlagen: []
+these: >-
+  SRF porträtiert einen linksextremen Brandstifter als literarische Instanz und
+  minimiert seine Gewalttat als «militante Seite» — ein Framing, das bei
+  rechtsextremen Gewalttätern nie angewendet würde.
+zusammenfassung: >-
+  Der Artikel kritisiert SRFs Porträt von Daniel de Roulet in der Sommerserie
+  «25 Jahre Tagesgespräch», das einen Mann feiert, der 1975 das Chalet von Axel
+  Springer anzündete. SRF rahmt die Brandstiftung als «militante Seiten», nennt
+  de Roulet «immer noch wütend» und stellt keine kritischen Fragen — weder zur
+  Gewalttat noch zur Methode «Geschichte mit Fantasie». Zwei Tage zuvor hatte
+  SRF eine US-Konferenz zum linksextremen Terrorismus als parteipolitisches
+  Manöver gerahmt, hier feiert es einen linksextremen Gewalttäter — ein
+  asymmetrisches Muster.
+quelle_datum: '2026-07-16'
+quelle_format: Broadcast
+quelle_sendung: Tagesgespräch
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF porträtiert Daniel de Roulet — und rahmt ihn als literarische Rebellen. «Immer noch wütend», lautet der Titel, und der Beitrag feiert einen Mann, der 1975 ein Chalet niederbrannte, als intellektuelle Instanz. Was nicht vorkommt: das Wort «Terrorismus» — obwohl SRF zwei Tage zuvor eine internationale Konferenz zum linksextremen Terrorismus als parteipolitisches Manöver gerahmt hat. Was nicht vorkommt: die Frage, ob ein Brandstifter, der erst nach Ablauf der Verjährungsfrist bekannte, eine Würdigung verdient. Was nicht vorkommt: ein Vergleich mit der Berichterstattung über rechte Gewalttäter — die nie als «militante Seiten» entschuldigt werden. Der Beitrag ist eine Hagiografie ohne Gegenstimme — und die Hagiografie verdeckt, dass ihr Gegenstand ein Arsonist ist.*

@@ -1,14 +1,66 @@
 ---
-title: "Die Lockerung, die das Verbrechen verdeckt"
-date: "2026-08-08"
+title: 'Die Lockerung, die das Verbrechen verdeckt'
+date: '2026-08-08'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HPM9fxyWkAANSpA.jpg"
-tweetId: "2086078863784784000"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HPM9fxyWkAANSpA.jpg'
+tweetId: '2086078863784784000'
+categories:
+  - SRF/SRG
+  - Gesellschaft
+  - Sicherheitspolitik
+tags:
+  - SRF
+  - Zwangsmassnahmen
+  - Crans-Montana
+  - Moretti
+  - Framing
+  - Verwaltungsnote
+  - Opferunsichtbarkeit
+  - Justiz
 seo:
-  description: "SRF meldet die Verlängerung von Zwangsmassnahmen gegen das Ehepaar Moretti und rahmt den Beitrag als Verwaltungsnote. Ausreiseverbot, tägliche Meldung,…"
+  description: >-
+    SRF meldet die Verlängerung von Zwangsmassnahmen gegen das Ehepaar Moretti
+    und rahmt den Beitrag als Verwaltungsnote. Ausreiseverbot, tägliche
+    Meldung,…
+themen:
+  - Gerichtsberichterstattung
+  - Brand von Crans-Montana
+  - Zwangsmassnahmen
+  - Opferperspektive
+  - Justizeffizienz
+kritisiertes_medium: SRF
+kritisierter_beitrag: Massnahmen gegen Ehepaar Moretti um drei Monate verlängert
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Kontextmangel
+personen:
+  - Jacques Moretti
+  - Jessica Moretti
+institutionen:
+  - SRF
+  - Zwangsmassnahmengericht Kanton Wallis
+  - Walliser Polizei
+  - Staatsanwaltschaft Wallis
+gesetze_vorlagen: []
+these: >-
+  SRF rahmt die Verlängerung von Zwangsmassnahmen als administrative
+  Verwaltungsnote und blendet Opfer, Ermittlungsstand und Angemessenheitsfragen
+  vollständig aus.
+zusammenfassung: >-
+  9min.ch kritisiert einen SRF-Beitrag, der die Verlängerung der
+  Zwangsmassnahmen gegen das Ehepaar Moretti als Routinevorgang darstellt. SRF
+  erwähne keine Opfer, hinterfrage weder Ermittlungsfortschritt noch
+  Angemessenheit der Massnahmen und übernehme Lockerungsforderungen der
+  Beschuldigten unkritisch. Der Beitrag sei eine Verwaltungsnote ohne
+  menschliche Dimension.
+quelle_datum: '2026-08-08'
+quelle_format: Online-Artikel
+quelle_sendung: ''
+quelle_redaktion: SRF News
+kritik_schwere: 2
 ---
 
 *SRF meldet die Verlängerung von Zwangsmassnahmen gegen das Ehepaar Moretti und rahmt den Beitrag als Verwaltungsnote. Ausreiseverbot, tägliche Meldung, Kaution, Videoanruf statt Gängen zum Posten. Was nicht vorkommt: die Opfer. Was nicht vorkommt: die Frage, ob die Massnahmen angemessen sind. Was nicht vorkommt: der Stand der Ermittlungen. Was nicht vorkommt: die Frage, warum die Staatsanwaltschaft drei Monate mehr braucht. Der Beitrag ist eine Gerichtsnote, die eine Brandkatastrophe zur administrativen Routine macht.*

@@ -1,14 +1,72 @@
 ---
-title: "Das System, das als vorbildlich gerahmt wird — ohne dass jemand den Betrag prüft"
-date: "2026-07-18"
+title: >-
+  Das System, das als vorbildlich gerahmt wird — ohne dass jemand den Betrag
+  prüft
+date: '2026-07-18'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HNf5RJEXYAAZQfK.jpg"
-tweetId: "2078403908402131142"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HNf5RJEXYAAZQfK.jpg'
+tweetId: '2078403908402131142'
+categories:
+  - SRF/SRG
+  - Klima/Energie
+  - EU/Aussenpolitik
+tags:
+  - ETS
+  - Emissionshandel
+  - Kausalitätslücke
+  - Karussellbetrug
+  - Gratiszertifikate
+  - CDM
+  - Werbung für System
+  - Souveränitätsfrage
 seo:
-  description: SRF erklärt die Reform des EU-Emissionshandels — und rahmt das System als funktionierend. «In den letzten 20 Jahren ist der CO₂-Ausstoss der…
+  description: >-
+    SRF erklärt die Reform des EU-Emissionshandels — und rahmt das System als
+    funktionierend. «In den letzten 20 Jahren ist der CO₂-Ausstoss der…
+themen:
+  - EU-Emissionshandel
+  - Zertifikatebetrug
+  - Kausalitätsprüfung
+  - Schweizer ETS-Verknüpfung
+  - Medienframing
+kritisiertes_medium: SRF Tagesschau
+kritisierter_beitrag: 'Reform des EU-Emissionshandels: Die wichtigsten Antworten'
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Kontextmangel
+personen: []
+institutionen:
+  - SRF
+  - EU
+  - Europäische Volkspartei
+  - Grüne
+  - Deutsche Chemieindustrie
+  - Clean Development Mechanism
+  - Schweiz
+gesetze_vorlagen:
+  - EU-Emissionshandelsreform (ETS-Reform)
+these: >-
+  SRF rahmt das EU-Emissionshandelssystem als «vorbildlich», ohne dessen
+  Wirksamkeit kausal zu prüfen, die dokumentierte Betrugsgeschichte zu erwähnen
+  oder systemkritische Stimmen einzubeziehen, und produziert so eine Erklärung
+  ohne Untersuchung.
+zusammenfassung: >-
+  Der 9min.ch-Artikel kritisiert den SRF-Tagesschau-Beitrag zur
+  EU-Emissionshandelsreform als Erklärung ohne Untersuchung. SRF bezeichne das
+  ETS als «vorbildlich» und schreibe den Emissionsrückgang dem System zu, ohne
+  andere Faktoren wie Finanzkrise, Kohleausstieg oder Produktionsverlagerung zu
+  prüfen. Der Beitrag verschweige Zertifikatebetrug, Windfall-Profite, die
+  dokumentierte Anfälligkeit ausländischer Zertifikate und den
+  Subventionscharakter von Gratiszertifikaten, und zitiere nur Stimmen innerhalb
+  des Systemrahmens.
+quelle_datum: '2026-07-17'
+quelle_format: Broadcast
+quelle_sendung: Tagesschau
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF erklärt die Reform des EU-Emissionshandels — und rahmt das System als funktionierend. «In den letzten 20 Jahren ist der CO₂-Ausstoss der ETS-Unternehmen um rund die Hälfte gesunken – das System gilt deshalb als vorbildlich.» Das ist der Befund, der ohne Prüfung steht. Was nicht vorkommt: die Geschichte des Zertifikatebetrugs — Karussellbetrug im Wert von Milliarden, Phantom-Projekte, Doppelzählung, Windfall-Profite. Was nicht vorkommt: die Frage, ob der Rückgang der Emissionen auf das ETS zurückgeht — oder auf andere Faktoren. Was nicht vorkommt: die Tatsache, dass die EU jetzt ausländische Zertifikate zulassen will — genau jene Zertifikate, die in der Vergangenheit als besonders anfällig für Betrug dokumentiert wurden. Der Beitrag ist eine Erklärung ohne Untersuchung — und die Untersuchung wäre die Frage, ob das System funktioniert oder ob es eine Bühne ist.*

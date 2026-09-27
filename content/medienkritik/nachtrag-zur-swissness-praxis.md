@@ -1,14 +1,70 @@
 ---
 title: Nachtrag zur Swissness-Praxis
-date: "2026-05-10"
+date: '2026-05-10'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HH9tyLHXAAQ3bUO.jpg"
-tweetId: "2053481759841333262"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HH9tyLHXAAQ3bUO.jpg'
+tweetId: '2053481759841333262'
+categories:
+  - Wirtschaft
+  - Gesellschaft
+  - EU/Aussenpolitik
+tags:
+  - Swissness
+  - Schweizerkreuz
+  - 'On'
+  - Toblerone
+  - Mondelēz
+  - SNB
+  - Gold
+  - Ehrlichkeit
 seo:
-  description: Teil I Teil II Teil III Teil IV --- Das Kreuz bleibt Während diese Serie in Vorbereitung war — am 23. März 2026 — gab das Eidgenössische Institut für…
+  description: >-
+    Teil I Teil II Teil III Teil IV --- Das Kreuz bleibt Während diese Serie in
+    Vorbereitung war — am 23. März 2026 — gab das Eidgenössische Institut für…
+themen:
+  - Swissness-Praxis
+  - Schweizerkreuz als Marke
+  - Produktionsverlagerung und Identität
+  - SNB-Goldpolitik
+  - Substanz vs. Symbol
+kritisiertes_medium: Eidgenössisches Institut für Geistiges Eigentum
+kritisierter_beitrag: Lockerung der Swissness-Praxis
+kritisierter_autor: ''
+kritik_typ:
+  - Behördenpropaganda
+  - Framing
+  - Asymmetrie
+personen: []
+institutionen:
+  - Eidgenössisches Institut für Geistiges Eigentum
+  - Vereinigung Swissness Enforcement
+  - 'On'
+  - Mondelēz
+  - SNB
+  - EU
+gesetze_vorlagen:
+  - Swissness-Gesetz
+these: >-
+  Die Lockerung der Swissness-Praxis ist eine Kapitulation vor wirtschaftlichem
+  Einfluss, die das Schweizerkreuz vom physischen Herstellungsornach der
+  Entwicklung verlegt und damit ein Muster symbolischer Entleerung fortsetzt,
+  das auch Neutralität, Bankgeheimnis und Franken-Verankerung zeigt.
+zusammenfassung: >-
+  Der Artikel kritisiert, dass das Eidgenössische Institut für Geistiges
+  Eigentum am 23. März 2026 die Swissness-Praxis so gelockert hat, dass das
+  Schweizerkreuz künftig auch auf Produkten erscheinen darf, die in der Schweiz
+  entwickelt, aber in Asien gefertigt wurden. Er vergleicht dies mit dem Fall
+  Toblerone, bei dem das Matterhorn nach Produktionsverlagerung ehrlich von der
+  Verpackung verschwand. Er zieht eine Parallele zur Schweizer Entwicklung
+  insgesamt: überall wandert die Substanz, während das Symbol bleibt — bis
+  schliesslich das Symbol die Stelle der Substanz vertritt und zur reinen
+  Verpackung wird.
+quelle_datum: '2026-03-23'
+quelle_format: Online-Artikel
+quelle_sendung: ''
+quelle_redaktion: Eidgenössisches Institut für Geistiges Eigentum
+kritik_schwere: 3
 ---
 
 [Teil I](https://x.com/9min_news/status/2053432182568284396)

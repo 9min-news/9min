@@ -1,14 +1,68 @@
 ---
 title: Die «Expertin» als Tatsacheninstanz für TDS
-date: "2026-07-17"
+date: '2026-07-17'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HNcVbW-WMAAnEus.jpg"
-tweetId: "2078153369592479985"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HNcVbW-WMAAnEus.jpg'
+tweetId: '2078153369592479985'
+categories:
+  - SRF/SRG
+tags:
+  - Trump
+  - Midterms
+  - Christiane Lemke
+  - Autoritätsargument
+  - Geheimdienst-Einschätzung
+  - China-Vorwurf
+  - Gegeninterview fehlt
+  - Deklassifizierte Dokumente
 seo:
-  description: "SRF analysiert Trumps Rede — und rahmt sie als strategische Lüge. «Wird bei den Midterms alles mit rechten Dingen zugehen?», lautet der Titel, und die…"
+  description: >-
+    SRF analysiert Trumps Rede — und rahmt sie als strategische Lüge. «Wird bei
+    den Midterms alles mit rechten Dingen zugehen?», lautet der Titel, und die…
+themen:
+  - US-Wahlmanipulation
+  - Expertenpropaganda
+  - Medienframing
+  - Wahlmaschinensicherheit
+kritisiertes_medium: SRF
+kritisierter_beitrag: Wird bei den Midterms alles mit rechten Dingen zugehen?
+kritisierter_autor: Christiane Lemke
+kritik_typ:
+  - Autoritätsargument
+  - Selektion
+  - Auslassung
+personen:
+  - Christiane Lemke
+  - Donald Trump
+  - Avril Haines
+  - John Ratcliffe
+  - Joe Biden
+institutionen:
+  - SRF
+  - Director of National Intelligence
+  - US-Geheimdienste
+  - Republikanische Partei
+  - News Plus
+gesetze_vorlagen:
+  - Midterms 2026
+these: >-
+  SRF präsentiert eine politikwissenschaftliche Expertin als neutrale
+  Tatsacheninstanz für Geheimdienst-, Wahltechnik- und Cybersecurity-Fragen,
+  ohne deren fehlende Fachexpertise zu thematisieren, Gegenstimmen einzubinden
+  oder Trumps referenzierte Dokumente zu erwähnen.
+zusammenfassung: >-
+  Der 9min.ch-Artikel kritisiert einen SRF-News-Plus-Podcast, der Christiane
+  Lemke als Expertin interviewt und ihre Urteile zu US-Wahlmanipulation,
+  Geheimdienst-Erkenntnissen und Wahlmaschinen als Fakten gerahmt. Der Beitrag
+  lässt den Ratcliffe-Dissens, deklassifizierte Dokumente und jegliche
+  Gegenstimmen weg. Die Kritik sieht darin eine Struktur eines Interviews ohne
+  Gegeninterview, das als Analyse deklariert wird.
+quelle_datum: '2026-07-17'
+quelle_format: Podcast
+quelle_sendung: News Plus
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF analysiert Trumps Rede — und rahmt sie als strategische Lüge. «Wird bei den Midterms alles mit rechten Dingen zugehen?», lautet der Titel, und die Frage ist rhetorisch: Die Wahlen werden fair sein — Trump bezweifelt das nur, weil er Niederlage fürchtet. Was nicht vorkommt: eine Stimme, die Trumps Bedenken teilt oder auch nur ernst nimmt. Was nicht vorkommt: die deklassierten Dokumente, die Trump referenced — und die erste Analysen als echt beschrieben. Was nicht vorkommt: die Frage, ob die Expertin recht hat — oder ob sie eine Perspektive als Fakt präsentiert. Der Beitrag ist ein Interview ohne Gegeninterview — und die Expertin darf urteilen, ohne dass jemand ihre Urteile prüft.*

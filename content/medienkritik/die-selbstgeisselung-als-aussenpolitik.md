@@ -1,14 +1,81 @@
 ---
 title: Die Selbstgeisselung als Aussenpolitik
-date: "2026-06-27"
+date: '2026-06-27'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HL0YGz0XEAA_Zo2.jpg"
-tweetId: "2070837939299377482"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HL0YGz0XEAA_Zo2.jpg'
+tweetId: '2070837939299377482'
+categories:
+  - SRF/SRG
+  - Wirtschaft
+  - EU/Aussenpolitik
+tags:
+  - SWI swissinfo.ch
+  - Bankgeheimnis
+  - Framing
+  - Finanzplatz
+  - Schwarzgeld
+  - Tax Justice Network
+  - Falciani
+  - Transparenzregister
 seo:
-  description: "Dieser SWI-swissinfo.ch-Beitrag fragt, ob Schweizer Banken «immer noch ein Hort von Schwarzgeld» seien — und damit stellt er die falsche Frage. Nicht weil…"
+  description: >-
+    Dieser SWI-swissinfo.ch-Beitrag fragt, ob Schweizer Banken «immer noch ein
+    Hort von Schwarzgeld» seien — und damit stellt er die falsche Frage. Nicht
+    weil…
+themen:
+  - Schweizer Finanzplatz
+  - Bankgeheimnisaufgabe
+  - Schwarzgeld-Debatte
+  - internationale Finanzkritik
+  - Medienframing
+kritisiertes_medium: SWI swissinfo.ch
+kritisierter_beitrag: Sind Schweizer Banken immer noch ein Hort von Schwarzgeld?
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Selektion
+  - Kontextmangel
+personen:
+  - Maira Martini
+  - Hervé Falciani
+institutionen:
+  - SWI swissinfo.ch
+  - SRG
+  - OECD
+  - FATF
+  - Transparency International
+  - Tax Justice Network
+  - Alliance Sud
+  - EFJ
+  - FINMA
+  - Schweizer Bankiervereinigung
+  - Bund
+gesetze_vorlagen:
+  - Artikel 47 Bankengesetz
+  - FATCA
+  - CRS
+  - LETG (Bundesgesetz über die Transparenz rechtlicher Einheiten)
+  - GwG (Geldwäschereigesetz)
+these: >-
+  Der SWI-Beitrag legt durch asymmetrische Fragestellung der Schweiz eine
+  unbegrenzte Beweislast auf, unterschlägt die historische Tragweite der
+  Bankgeheimnisaufgabe und zitiert Advocacy-Organisationen als neutrale
+  Experten, wodurch er die Schweizer Reformleistungen systematisch
+  unterbewertet.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert einen SWI-swissinfo.ch-Beitrag zum Ruf Schweizer
+  Banken als Schwarzgeld-Hort. Obwohl die Faktenbasis des Beitrags breit sei,
+  rüge 9min die asymmetrische Leitfrage, die die Beweislast der Schweiz
+  aufbürde, den fehlenden historischen Kontext der Bankgeheimnisaufgabe, die
+  unkritische Übernahme des Tax Justice Network-Rankings und die einseitige
+  Verwendung von NGO-Stimmen als Experten. Die institutionelle Doppelrolle von
+  SWI als staatliches Auslandsmedium werde nicht reflektiert.
+quelle_datum: '2026-06-25'
+quelle_format: Online-Artikel
+quelle_sendung: ''
+quelle_redaktion: SWI swissinfo.ch
+kritik_schwere: 2
 ---
 
 *Dieser SWI-swissinfo.ch-Beitrag fragt, ob Schweizer Banken «immer noch ein Hort von Schwarzgeld» seien — und damit stellt er die falsche Frage. Nicht weil die Antwort einfach wäre, sondern weil die Frage selbst die Last umkehrt: Die Schweiz muss beweisen, dass sie sich geändert hat, statt dass der Artikel fragt, ob die internationale Kritik noch der Realität entspricht. Dabei hat die Schweiz in den letzten fünfzehn Jahren etwas aufgegeben, das nicht nur eine rechtliche Bestimmung war, sondern eine Gründungssäule ihres Finanzplatzes: das Bankgeheimnis. Sie hat den automatischen Informationsaustausch eingeführt, FATCA unterzeichnet, Milliardenstrafen gezahlt, Zehntausende Kundendaten herausgegeben, und führt 2026 ein Transparenzregister ein. Der Beitrag erwähnt all das — aber er rahmt es als unzureichend, ohne je zu fragen, was «ausreichend» überhaupt hiesse. Das Ergebnis ist ein Stück, das Regierungspropaganda nach aussen mit Selbstkritik nach innen verwechselt: SWI ist das staatliche Auslandsmedium der Schweiz, und es veröffentlicht einen Beitrag, der den eigenen Finanzplatz als problematisch darstellt — was diplomatisch klug sein mag, journalistisch aber eine einseitige Optik produziert.*

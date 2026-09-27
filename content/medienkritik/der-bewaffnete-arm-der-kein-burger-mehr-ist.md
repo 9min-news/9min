@@ -1,14 +1,69 @@
 ---
-title: "Der bewaffnete Arm, der kein Bürger mehr ist"
-date: "2026-07-28"
+title: 'Der bewaffnete Arm, der kein Bürger mehr ist'
+date: '2026-07-28'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HOUcZTNW8AAQXIN.jpg"
-tweetId: "2082101739486933376"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HOUcZTNW8AAQXIN.jpg'
+tweetId: '2082101739486933376'
+categories:
+  - SRF/SRG
+  - Migration
+  - Sicherheitspolitik
+tags:
+  - Gewaltmonopol
+  - B-Bewilligung
+  - Polizei Basel
+  - Staatsbürgerschaft
+  - Verfassungsrecht
+  - Personalmangel
+  - Loyalitätsfrage
+  - SRF-Framing
 seo:
-  description: "SRF meldet, dass Basel erstmals Polizisten mit einer B-Bewilligung einstellt. Der Beitrag rahmt dies als pragmatische Lösung eines Personalmangels. Der…"
+  description: >-
+    SRF meldet, dass Basel erstmals Polizisten mit einer B-Bewilligung
+    einstellt. Der Beitrag rahmt dies als pragmatische Lösung eines
+    Personalmangels. Der…
+themen:
+  - Gewaltmonopol und Staatsbürgerschaft
+  - Ausländische Polizisten mit B-Bewilligung
+  - Verfassungsrechtliche Fragen bei Polizeirekrutierung
+  - Personalmangel bei der Polizei
+kritisiertes_medium: SRF
+kritisierter_beitrag: 'Zum ersten Mal: Polizisten mit B-Bewilligung in Basel im Einsatz'
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Kontextmangel
+personen: []
+institutionen:
+  - SRF
+  - Basler Polizei
+  - Verband Schweizerischer Polizeibeamter
+  - Kanton Basel
+  - Kanton Baselland
+  - Kanton Obwalden
+gesetze_vorlagen:
+  - B-Bewilligung
+  - C-Bewilligung
+these: >-
+  SRF rahmt die erstmalige Einstellung von Polizisten mit B-Bewilligung als
+  bürokratische Personalmassnahme und stellt die verfassungsrechtliche Frage
+  nach der Delegation des staatlichen Gewaltmonopols an Nicht-Bürger nicht.
+zusammenfassung: >-
+  Der Artikel kritisiert einen SRF-Beitrag, der meldet, dass Basel erstmals vier
+  deutsche Polizisten mit B-Bewilligung einstellt. SRF rahme dies als
+  pragmatische Lösung eines Personalmangels, ohne die verfassungsrechtliche
+  Frage nach der Delegation des Gewaltmonopols an Nicht-Bürger zu stellen oder
+  die Ursachen des Mangels zu hinterfragen. Die Warnung des nationalen
+  Polizeiverbandes werde als blosse Verbandsmeinung abgetan, während die
+  deutsche Herkunft genutzt werde, um die Debatte über kulturelle Distanz und
+  Loyalitätskonflikte zu vermeiden.
+quelle_datum: '2026-07-27'
+quelle_format: Broadcast
+quelle_sendung: Regionaljournal Basel Baselland
+quelle_redaktion: SRF News
+kritik_schwere: 2
 ---
 
 *SRF meldet, dass Basel erstmals Polizisten mit einer B-Bewilligung einstellt. Der Beitrag rahmt dies als pragmatische Lösung eines Personalmangels. Der nationale Polizeiverband warnt, dass der bewaffnete Arm des Staates von Bürgern vertreten werden müsse. SRF referiert die Warnung und dismissiert sie als Meinungsverschiedenheit. Was nicht vorkommt: die verfassungsrechtliche Frage, ob der Staat sein Gewaltmonopol an Nicht-Bürger delegieren darf. Was nicht vorkommt: die Frage, warum der Staat keine Schweizer findet, die ihn schützen wollen. Der Beitrag ist eine Verwaltungsnote über ein Prinzip.*

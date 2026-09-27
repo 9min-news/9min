@@ -1,14 +1,70 @@
 ---
-title: "Die Kontrolle, die keine ist — und die Zahlen, die niemand prüft"
-date: "2026-07-02"
+title: 'Die Kontrolle, die keine ist — und die Zahlen, die niemand prüft'
+date: '2026-07-02'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMNrNNwXsAAtF2m.jpg"
-tweetId: "2072618186256552224"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMNrNNwXsAAtF2m.jpg'
+tweetId: '2072618186256552224'
+categories:
+  - Demokratie
+  - Abstimmungen
+  - SRF/SRG
+tags:
+  - EFK
+  - Abstimmungsbüchlein
+  - Prognosequalität
+  - Heiratsstrafe
+  - Bundesrat
+  - Kontrollbehörde
+  - Behördenpropaganda
+  - Stimmbürgerinformation
 seo:
-  description: "Dieser SRF-Beitrag über den EFK-Bericht zu fehlerhaften Bundesprognosen ist ein Lehrstück in Behörden-Stenografie: Eine Kontrollbehörde kritisiert eine…"
+  description: >-
+    Dieser SRF-Beitrag über den EFK-Bericht zu fehlerhaften Bundesprognosen ist
+    ein Lehrstück in Behörden-Stenografie: Eine Kontrollbehörde kritisiert eine…
+themen:
+  - EFK-Bericht zu Bundesprognosen
+  - Qualität von Abstimmungsunterlagen
+  - Behördenkontrolle und Unabhängigkeit
+  - Demokratische Legitimität bei fehlerhaften Prognosen
+kritisiertes_medium: SRF 4 News
+kritisierter_beitrag: Wenn im Abstimmungsbüchlein falsche Zahlen stehen
+kritisierter_autor: Michèle Scherer
+kritik_typ:
+  - Behördenpropaganda
+  - Auslassung
+  - Framing
+personen:
+  - Michèle Scherer
+institutionen:
+  - SRF
+  - SRF 4 News
+  - Eidgenössische Finanzkontrolle
+  - Bundesrat
+  - Bundesgericht
+  - Bundesämter
+gesetze_vorlagen:
+  - Abstimmung zur Abschaffung der Heiratsstrafe
+  - AHV-Prognosen
+these: >-
+  SRF übernimmt den EFK-Bericht zu fehlerhaften Bundesprognosen 1:1 ohne
+  Prüfung, Kontextualisierung oder Hinterfragung und verfehlt die zentrale
+  demokratische Frage, was fehlerhafte Abstimmungsgrundlagen für die Legitimität
+  von Volksabstimmungen bedeuten.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert den SRF-Beitrag als Behörden-Stenografie, der den
+  EFK-Bericht zu Mängeln bei Bundesprognosen zwar Fakten-getreu wiedergibt, aber
+  wesentliche Fragen auslässt: welche drei von sieben Vorlagen fehlerhaft waren,
+  wie der Heiratsstrafe-Rechenfehler entstand, wer verantwortlich ist und was
+  die Fehler demokratisch bedeuten. Die Bundesrats-Reaktion «im Rahmen
+  bestehender Ressourcen» wird als kooperativ gerahmt, obwohl sie de facto eine
+  Absage an die Empfehlungen bedeutet. Der Beitrag sei EFK-Kommunikation mit
+  SRF-Siegel, keine journalistische Kontrolle.
+quelle_datum: '2026-07-01'
+quelle_format: Online-Artikel
+quelle_sendung: SRF 4 News
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *Dieser SRF-Beitrag über den EFK-Bericht zu fehlerhaften Bundesprognosen ist ein Lehrstück in Behörden-Stenografie: Eine Kontrollbehörde kritisiert eine Bundesbehörde — und SRF notiert es. Die zentrale Frage — was bedeutet es für die Schweizer Demokratie, wenn Stimmbürger mit falschen Zahlen abstimmen — wird nicht gestellt. Die konkreten Mängel werden summarisch erwähnt, aber nicht spezifiziert. Die drei betroffenen Vorlagen werden nicht benannt. Die Empfehlungen werden zitiert, aber nicht geprüft. Die Reaktion des Bundesrats («im Rahmen bestehender Ressourcen») wird als kooperativ gerahmt — ohne zu fragen, was das bedeutet: nichts. Das ist keine Berichterstattung über eine Kontrollbehörde — das ist eine Pressemitteilung der Kontrollbehörde mit SRF-Siegel.*

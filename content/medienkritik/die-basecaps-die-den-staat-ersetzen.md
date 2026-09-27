@@ -1,14 +1,70 @@
 ---
-title: "Die Basecaps, die den Staat ersetzen"
-date: "2026-08-01"
+title: 'Die Basecaps, die den Staat ersetzen'
+date: '2026-08-01'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HOqN1sgWwAA7EWb.jpg"
-tweetId: "2083640758658076737"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HOqN1sgWwAA7EWb.jpg'
+tweetId: '2083640758658076737'
+categories:
+  - SRF/SRG
+  - Demokratie
+  - Gesellschaft
+tags:
+  - 1. August
+  - Rütli
+  - Framing
+  - Bundesräte
+  - Trachten
+  - Neutralität
+  - Subsidiarität
+  - Staatsgrundsätze
 seo:
-  description: "SRF berichtet über die 1.-August-Reden der Landesregierung und rahmt den Nationalfeiertag als Modenschau. Trachten, Regenschirme, rote Kappen. Was nicht…"
+  description: >-
+    SRF berichtet über die 1.-August-Reden der Landesregierung und rahmt den
+    Nationalfeiertag als Modenschau. Trachten, Regenschirme, rote Kappen. Was
+    nicht…
+themen:
+  - Nationalfeiertag-Berichterstattung
+  - Neutralität als Staatsprinzip
+  - Subsidiarität und Zentralismus
+  - Schweizer Gründungsmythos
+  - Medien und Regierungskommunikation
+kritisiertes_medium: SRF 4 News
+kritisierter_beitrag: 'Fahnen, Trachten und Käppi auf dem Rütli'
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Behördenpropaganda
+personen:
+  - Ignazio Cassis
+  - Albert Rösti
+  - Beat Jans
+  - Karin Keller-Sutter
+  - Guy Parmelin
+  - Donald Trump
+institutionen:
+  - SRF
+  - Bundesrat
+  - EU
+gesetze_vorlagen: []
+these: >-
+  SRF rahmt den 1. August als Modenschau und lässt wesentliche Fragen zu
+  Schweizer Staatsgrundsätzen unbeantwortet, wodurch der Beitrag zur
+  unkritischen Behördenpropaganda wird.
+zusammenfassung: >-
+  Der Artikel kritisiert den SRF-Beitrag zur Rütli-Feier als oberflächliche
+  Berichterstattung, die Bundesräte auf Kleidung und Accessoires reduziert. SRF
+  gebe Aussagen von Cassis zur Neutralität, Rösti zur Subsidiarität, Jans zur
+  Offenheit und Keller-Sutter zur Entscheidungsgeschwindigkeit kritiklos wieder,
+  ohne Widersprüche oder historischen Kontext zu benennen. Wesentliche Fragen
+  nach Neutralität, Subsidiarität und historischer Kontinuität würden gar nicht
+  erst gestellt.
+quelle_datum: '2026-08-01'
+quelle_format: Online-Artikel
+quelle_sendung: ''
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF berichtet über die 1.-August-Reden der Landesregierung und rahmt den Nationalfeiertag als Modenschau. Trachten, Regenschirme, rote Kappen. Was nicht vorkommt: die Frage, woraus der Staat besteht. Was nicht vorkommt: die Grundsätze, die die Schweiz tragen. Was nicht vorkommt: der Widerspruch zwischen zentraler Regierung und dezentraler Verantwortung. Der Beitrag ist ein Stilleben der Bundesräte, die das Fundament des Landes hinter Accessoires verstecken.*

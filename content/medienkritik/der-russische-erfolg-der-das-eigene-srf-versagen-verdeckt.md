@@ -1,14 +1,68 @@
 ---
-title: "Der russische Erfolg, der das eigene SRF Versagen verdeckt"
-date: "2026-08-03"
+title: 'Der russische Erfolg, der das eigene SRF Versagen verdeckt'
+date: '2026-08-03'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HOxiV3-W8AArioy.jpg"
-tweetId: "2084149012857319718"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HOxiV3-W8AArioy.jpg'
+tweetId: '2084149012857319718'
+categories:
+  - SRF/SRG
+  - Gesellschaft
+  - EU/Aussenpolitik
+tags:
+  - Framing
+  - Auslassung
+  - Selektion
+  - SRF
+  - Rendez-vous
+  - Russland
+  - Desinformation
+  - Vertrauenskrise
 seo:
-  description: "SRF interviewt einen Experten für russische Desinformation und rahmt diese als allmächtigen, erfolgreichen Angriff auf den Westen. Moskaus…"
+  description: >-
+    SRF interviewt einen Experten für russische Desinformation und rahmt diese
+    als allmächtigen, erfolgreichen Angriff auf den Westen. Moskaus…
+themen:
+  - Russische Desinformation
+  - Medienvertrauen
+  - Propaganda-Framing
+  - Populismus
+  - Westliche Fehlleistungen
+kritisiertes_medium: SRF
+kritisierter_beitrag: Russische Desinformation – ein erfolgreiches Rezept
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Selektion
+personen:
+  - Ilya Yablokov
+  - Donald Trump
+institutionen:
+  - SRF
+  - Kreml
+  - USA
+  - Russland
+  - AfD
+  - Reform UK
+gesetze_vorlagen: []
+these: >-
+  Der SRF-Beitrag externalisiert eine innere Krise westlicher Gesellschaften zum
+  Erfolg russischer Propaganda und blendet die eigenen Fehlleistungen von Medien
+  und Regierungen als Nährboden aus.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert einen SRF Rendez-vous-Beitrag, der russische
+  Desinformation als erfolgreiches, allmächtiges Instrument darstellt, ohne die
+  innerwestlichen Ursachen für die Empfänglichkeit der Bürger zu prüfen. Der
+  Experte Yablokov selbst nennt westliche Fehlleistungen als Auslöser, doch SRF
+  fragt nicht nach und präsentiert nur einseitig die russische Seite. Trumps
+  Abmeldung von Anti-Desinformations-Kampagnen wird als Kapitulation gerahmt,
+  ohne die Debatte über staatliche Wahrheitsdefinition zu erwähnen.
+quelle_datum: '2026-08-02'
+quelle_format: Broadcast
+quelle_sendung: Rendez-vous
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF interviewt einen Experten für russische Desinformation und rahmt diese als allmächtigen, erfolgreichen Angriff auf den Westen. Moskaus Propagandamaschine spalte Gesellschaften, befördere Populismus und beeinflusse Wahlergebnisse. Was nicht vorkommt: die Frage, warum westliche Bürger für diese Propaganda empfänglich sind. Was nicht vorkommt: die Fehlleistungen westlicher Medien und Regierungen, die der Experte selbst als Auslöser nennt. Was nicht vorkommt: der Verlust von Vertrauen in westliche Institutionen als eigenständiges Problem. Der Beitrag ist eine Warnung vor fremder Manipulation, die die eigene Verantwortung ausblendet.*

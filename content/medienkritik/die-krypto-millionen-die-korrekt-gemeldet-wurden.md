@@ -1,14 +1,77 @@
 ---
-title: "Die Krypto-Millionen, die korrekt gemeldet wurden"
-date: "2026-07-01"
+title: 'Die Krypto-Millionen, die korrekt gemeldet wurden'
+date: '2026-07-01'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMKx6BXXQAAAk7i.jpg"
-tweetId: "2072414428264349923"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMKx6BXXQAAAk7i.jpg'
+tweetId: '2072414428264349923'
+categories:
+  - SRF/SRG
+  - EU/Aussenpolitik
+  - Wirtschaft
+tags:
+  - Krypto
+  - Trump
+  - SRF
+  - Framing
+  - Korruptionsvorwurf
+  - Elizabeth Warren
+  - Interessenskonflikt
+  - Transparenz
 seo:
-  description: "Dieser SRF-Beitrag über Trumps Krypto-Einnahmen ist ein Lehrstück in Bestätigungs-Journalismus: Die Fakten stimmen — aber das Framing ist von Anfang an…"
+  description: >-
+    Dieser SRF-Beitrag über Trumps Krypto-Einnahmen ist ein Lehrstück in
+    Bestätigungs-Journalismus: Die Fakten stimmen — aber das Framing ist von
+    Anfang an…
+themen:
+  - Krypto-Einnahmen Trump
+  - Medien-Framing Korruptionsvorwurf
+  - Interessenskonflikt-Darstellung
+  - Transparenz durch Offenlegung
+kritisiertes_medium: SRF 4 News
+kritisierter_beitrag: Trump verdient am meisten Geld mit Krypto
+kritisierter_autor: Isabel Pfaff
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Selektion
+personen:
+  - Donald Trump
+  - Elizabeth Warren
+  - Isabel Pfaff
+  - Corey Frayer
+  - Jens Korte
+  - Joe Biden
+  - Barack Obama
+  - Bill Clinton
+  - Hunter Biden
+institutionen:
+  - SRF
+  - SRF 4 News
+  - Büro für Regierungsethik
+  - World Liberty Financial
+  - Weisses Haus
+  - Harvard University
+  - Travelers Insurance
+  - US-Börsenaufsicht
+  - Kongress
+gesetze_vorlagen: []
+these: >-
+  SRF rahmt Trumps korrekt offengelegte Krypto-Einnahmen als Korruption, ohne
+  Legalität, Transparenz-Akt, Gegenperspektiven oder Vergleich mit anderen
+  Politikern zu prüfen.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert einen SRF-4-News-Beitrag über Trumps
+  Krypto-Einnahmen als einseitiges Framing. Zwar seien die Fakten korrekt, doch
+  SRF präsentiere sie als Korruption, ohne die Legalität zu prüfen, die
+  Offenlegung als Transparenz-Akt zu werten, Gegenperspektiven einzuräumen oder
+  Elizabeth Warrens eigene finanzielle Verflechtungen zu thematisieren. Der
+  Beitrag sei 'Trump-Korruptions-PR mit Warren-Siegel und SRF-Stempel'.
+quelle_datum: '2026-07-01'
+quelle_format: Broadcast
+quelle_sendung: SRF 4 News
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *Dieser SRF-Beitrag über Trumps Krypto-Einnahmen ist ein Lehrstück in Bestätigungs-Journalismus: Die Fakten stimmen — aber das Framing ist von Anfang an festgelegt. Trump hat 1,4 Milliarden Dollar mit Krypto verdient. Das ist korrekt. Aber SRF rahmt es als Korruption, als Interessenskonflikt, als «Geld scheffeln» — ohne dass eine einzige Gegenperspektive zugelassen wird. Und SRF zitiert Elizabeth Warren als moralische Instanz — eine Senatorin, die selbst ein Vermögen im zweistelligen Millionenbereich angehäuft hat, deren Reichtum aus genau dem System stammt, das sie öffentlich bekämpft. Die zentrale Frage — ob es legal ist, ob andere Politiker dasselbe tun, ob die Offenlegung selbst ein Akt der Transparenz ist — wird nicht gestellt. Das Framing steht fest: Trump = korrupt, Krypto = Betrug, Amerika = desillusioniert. Wer wissen will, ob das juristisch und politisch korrekt ist, bekommt keine Antwort — weil die Fragen nicht gestellt wurden.*

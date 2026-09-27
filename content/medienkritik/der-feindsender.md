@@ -1,14 +1,86 @@
 ---
 title: Der Feindsender
-date: "2026-03-30"
+date: '2026-03-30'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HEqwMO9XAAAkb_O.jpg"
-tweetId: "2038703866171056272"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HEqwMO9XAAAkb_O.jpg'
+tweetId: '2038703866171056272'
+categories:
+  - SRF/SRG
+  - Billag/Gebühren
+  - Demokratie
+tags:
+  - Feindsender
+  - Konsenssender
+  - institutionelle Vereinnahmung
+  - Jean Rudolf von Salis
+  - Weltchronik
+  - Beromünster
+  - geistige Landesverteidigung
+  - RKI-Files
 seo:
-  description: "Am 8. März 2026 stimmte die Schweiz darüber ab, ob sie die Finanzierung jener Institution halbieren will, deren Empfang das Dritte Reich einst mit dem Tod…"
+  description: >-
+    Am 8. März 2026 stimmte die Schweiz darüber ab, ob sie die Finanzierung
+    jener Institution halbieren will, deren Empfang das Dritte Reich einst mit
+    dem Tod…
+themen:
+  - Institutionelle Vereinnahmung der SRG
+  - SRG-Geschichte vom Staatssender zum Konsenssender
+  - Abstimmung zur Rundfunkgebührensenkung 2026
+  - Medienfunktion in der direkten Demokratie
+  - Feindsender-Konzept und Unabhängigkeit
+kritisiertes_medium: SRF
+kritisierter_beitrag: ''
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Selektion
+  - Framing
+personen:
+  - Jean Rudolf von Salis
+  - Robert Haab
+  - Walther Hofer
+  - Hans Walder
+  - Roger Schawinski
+institutionen:
+  - SRG
+  - SRF
+  - Bundesrat
+  - Radio Beromünster
+  - ETH Zürich
+  - Universität Bern
+  - MeteoSchweiz
+  - Gestapo
+  - EU
+  - BGB
+  - Schweizerische Fernseh- und Radiovereinigung
+  - fög – Forschungszentrum Öffentlichkeit und Gesellschaft
+gesetze_vorlagen:
+  - Rundfunkgebühreninitiative 2026
+  - No Billag Initiative 2018
+  - Rundfunkgesetz 1975
+  - Rundfunkartikel Bundesverfassung 1984
+  - Rundfunkgesetz 1991
+these: >-
+  Die SRG hat ihre historische Funktion als unabhängiger Feindsender verloren
+  und ist zu einem Konsenssender des institutionellen Establishments geworden,
+  was ihren demokratischen Auftrag untergräbt — eine Frage, die bei der
+  Abstimmung vom 8. März 2026 von keiner Seite gestellt wurde.
+zusammenfassung: >-
+  Der Artikel zeichnet die Geschichte der SRG vom kontrollierten
+  Unterhaltungssender über die geistige Landesverteidigung im Zweiten Weltkrieg
+  bis zur erzwungenen Unabhängigkeit nach. Er kritisiert, dass das SRF heute den
+  institutionellen Konsens einer professionell-administrativen Klasse
+  widerspiegelt statt unabhängig zu informieren, belegt durch selektive
+  Expertenwahl, unzureichende Berichterstattung über die RKI-Files und fehlende
+  Differenzierung bei der Neutralitätsfrage 2022. Die Abstimmung zur
+  Gebührensenkung habe das eigentliche Problem der institutionellen
+  Vereinnahmung nicht adressiert.
+quelle_datum: ''
+quelle_format: ''
+quelle_sendung: ''
+quelle_redaktion: ''
+kritik_schwere: 3
 ---
 
 *Am 8. März 2026 stimmte die Schweiz darüber ab, ob sie die Finanzierung jener Institution halbieren will, deren Empfang das Dritte Reich einst mit dem Tod bestrafte. Sie sagte Nein. Beide Seiten der Debatte lagen falsch. Das eigentliche Problem ist jenes, das keine Seite benennen wollte — und das nach der Abstimmung unverändert weiterbesteht.*

@@ -1,14 +1,69 @@
 ---
-title: "Der Anschlag, der nur ein Sicherheitsproblem ist"
-date: "2026-07-28"
+title: 'Der Anschlag, der nur ein Sicherheitsproblem ist'
+date: '2026-07-28'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HOUHugLW0AA0Fya.jpg"
-tweetId: "2082079000097091870"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HOUHugLW0AA0Fya.jpg'
+tweetId: '2082079000097091870'
+categories:
+  - SRF/SRG
+  - Sicherheitspolitik
+  - Gesellschaft
+tags:
+  - CSD
+  - Berlin
+  - Winterthur
+  - Islamismus
+  - Framing
+  - Sicherheitslogistik
+  - Täterprofil
+  - Behördenversagen
 seo:
-  description: SRF meldet die Sicherheitslage nach dem Berliner CSD-Anschlag und rahmt einen islamistischen Terroranschlag als logistische Frage. Wie bereitet man sich…
+  description: >-
+    SRF meldet die Sicherheitslage nach dem Berliner CSD-Anschlag und rahmt
+    einen islamistischen Terroranschlag als logistische Frage. Wie bereitet man
+    sich…
+themen:
+  - Islamistischer Terrorismus
+  - Sicherheitsberichterstattung
+  - Framing von Anschlägen
+  - Queere Veranstaltungen als Zielscheibe
+kritisiertes_medium: SRF
+kritisierter_beitrag: 'Prides und Street Parade: Wie steht es um die Sicherheit?'
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Selektion
+personen:
+  - Alessandra Widmer
+  - Julia Müller
+  - Judith Hödl
+institutionen:
+  - SRF
+  - LOS Lesbenorganisation Schweiz
+  - Zurich Pride
+  - Stadtpolizei Zürich
+  - Tagesschau
+gesetze_vorlagen: []
+these: >-
+  SRF rahmt einen islamistischen Terroranschlag als Sicherheitslogistik und
+  eliminiert dabei Täter, Ideologie, Motiv und Behördenversagen aus der
+  Berichterstattung.
+zusammenfassung: >-
+  Der Artikel kritisiert, dass der SRF-Tagesschau-Beitrag nach dem Berliner
+  CSD-Anschlag die Sicherheitslage als logistische Frage darstellt, ohne nach
+  dem Täter, seiner Ideologie, seinem Motiv oder dem Behördenversagen zu fragen.
+  Der Täter werde nicht identifiziert, die islamistische Bedrohung queere
+  Veranstaltungen gegenüber nicht als Muster thematisiert, der
+  Winterthur-Anschlag vom 28.05.2026 nicht erwähnt und die Quellenwahl sei
+  einseitig. Dadurch entstehe eine Sicherheitsberichterstattung ohne
+  Bedrohungsanalyse.
+quelle_datum: '2026-07-27'
+quelle_format: Broadcast
+quelle_sendung: Tagesschau
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF meldet die Sicherheitslage nach dem Berliner CSD-Anschlag und rahmt einen islamistischen Terroranschlag als logistische Frage. Wie bereitet man sich in der Schweiz auf Risiken vor? Wer die Risiken verursacht, welche Ideologie dahinter steht, warum der Berliner Täter trotz Bekanntheit frei herumlief: all das kommt nicht vor. Der Beitrag ist eine Sicherheitsberichterstattung ohne Sicherheitsursache. Die Massnahmen werden diskutiert, die Bedrohung nicht.*

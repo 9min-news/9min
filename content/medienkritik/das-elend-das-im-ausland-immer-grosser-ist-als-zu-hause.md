@@ -1,14 +1,66 @@
 ---
-title: "Das Elend, das im Ausland immer grösser ist als zu Hause"
-date: "2026-07-18"
+title: 'Das Elend, das im Ausland immer grösser ist als zu Hause'
+date: '2026-07-18'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HNf1yGPWUAAS9ot.jpg"
-tweetId: "2078400105166594131"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HNf1yGPWUAAS9ot.jpg'
+tweetId: '2078400105166594131'
+categories:
+  - SRF/SRG
+  - Gesellschaft
+  - Wirtschaft
+tags:
+  - Framing
+  - Auslandsbericht
+  - moralische Selbstentlastung
+  - Vergleichslosigkeit
+  - Selektion
+  - Las Vegas
+  - Schweizer Kontext
+  - Glanz und Elend
 seo:
-  description: "SRF berichtet über Las Vegas — und rahmt die Stadt als Sündenbabel, das auf Kosten der Schwächsten prosperiert. «Glanz und Elend», «Stadt der Sünde»,…"
+  description: >-
+    SRF berichtet über Las Vegas — und rahmt die Stadt als Sündenbabel, das auf
+    Kosten der Schwächsten prosperiert. «Glanz und Elend», «Stadt der Sünde»,…
+themen:
+  - Auslandsberichterstattung ohne Schweizer Vergleich
+  - Framing durch moralisierende Titel
+  - Selektive Stimmenwahl
+  - Wohnungsnot und Obdachlosigkeit im Vergleich
+  - Spielsucht und Drogenpolitik
+kritisiertes_medium: SRF News
+kritisierter_beitrag: 'Las Vegas: Das Geschäft mit dem Glamour hat seinen Preis'
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Selektion
+personen:
+  - Louis Khaled
+  - Chris
+institutionen:
+  - SRF
+  - RTS
+  - Swisslos
+gesetze_vorlagen: []
+these: >-
+  SRF nutzt die Auslandsberichterstattung über Las Vegas als moralische
+  Selbstentlastung, indem es die Stadt als Sündenbabel gerahmt und durchgängig
+  Schweizer Vergleichszahlen zu Obdachlosigkeit, Wohnungsnot, Spielsucht,
+  Lobbying und Drogenpolitik weglässt.
+zusammenfassung: >-
+  9min.ch kritisiert den SRF-Beitrag über Las Vegas als systematisches Framing,
+  das US-amerikanische Probleme moralisch überhöht darstellt, ohne Schweizer
+  Vergleichszahlen zu nennen. Es fehlen Kontexte zur Schweizer Obdachlosigkeit,
+  Wohnungsnot, Spielsucht, Lobbying-Strukturen und Drogenpolitik. Zudem werden
+  ausschliesslich Opferstimmen zitiert, während keine Vertreter der Stadt zu
+  Wort kommen — Auslandsberichterstattung als moralische Selbstentlastung statt
+  Analyse.
+quelle_datum: '2026-07-17'
+quelle_format: Broadcast
+quelle_sendung: Temps présent
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF berichtet über Las Vegas — und rahmt die Stadt als Sündenbabel, das auf Kosten der Schwächsten prosperiert. «Glanz und Elend», «Stadt der Sünde», «Eldorado auf Kosten der Schwächsten» — das sind die Formulierungen, die eine Stadt moralisch verurteilen, bevor sie analysiert wird. Was nicht vorkommt: die Schweiz. Was nicht vorkommt: die Schweizer Wohnungsnot, die Schweizer Spielsucht, die Schweizer Obdachlosigkeit, die Schweizer Drogenpolitik. Was nicht vorkommt: die Frage, ob das Elend, das SRF in Nevada findet, auch in Bern, Zürich oder Genf existiert — und ob SRF es mit derselben Unerbittlichkeit benennen würde. Der Beitrag ist Auslandsberichterstattung als moralische Selbstentlastung — der Blick nach Nevada erübrigt den Blick nach Bern.*

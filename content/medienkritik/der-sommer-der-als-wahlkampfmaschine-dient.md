@@ -1,14 +1,76 @@
 ---
-title: "Der Sommer, der als Wahlkampfmaschine dient"
-date: "2026-08-03"
+title: 'Der Sommer, der als Wahlkampfmaschine dient'
+date: '2026-08-03'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HOxpFy8XsAAdKfI.jpg"
-tweetId: "2084156292591960180"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HOxpFy8XsAAdKfI.jpg'
+tweetId: '2084156292591960180'
+categories:
+  - SRF/SRG
+  - Klima/Energie
+  - Demokratie
+tags:
+  - Hitzesommer 2026
+  - Wahljahr 2027
+  - grüne Welle
+  - Michael Hermann
+  - Sotomo
+  - SP-Experte
+  - Themenkonjunktur
+  - Framing
 seo:
-  description: "SRF fragt, ob der Hitzesommer 2026 die Wahlen 2027 beeinflusst — und rahmt die Hitze als politisches Asset der Grünen. Ein Politgeograf erklärt, wie das…"
+  description: >-
+    SRF fragt, ob der Hitzesommer 2026 die Wahlen 2027 beeinflusst — und rahmt
+    die Hitze als politisches Asset der Grünen. Ein Politgeograf erklärt, wie
+    das…
+themen:
+  - Klimawandel als Wahlkampfthema
+  - Medienframing und Themenkonjunktur
+  - Experten-Rolle und Interessenkonflikt
+  - Wahlanalyse ohne Wahldaten
+  - Wählerverhalten und Wetter
+kritisiertes_medium: SRF Tagesschau
+kritisierter_beitrag: Welche Folgen hat der Hitzesommer für das Wahljahr 2027?
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Interessenkonflikt
+personen:
+  - Michael Hermann
+  - Samira Marti
+  - Lisa Mazzone
+  - Patrick Hässig
+  - Marcel Dettling
+institutionen:
+  - SRF
+  - Sotomo
+  - SP
+  - Grüne
+  - GLP
+  - SVP
+  - Nationalrat
+gesetze_vorlagen: []
+these: >-
+  SRF rahmt den Hitzesommer 2026 als Wahlkampffaktor für 2027, nutzt einen
+  SP-affinen Experten als neutralen Analysten und verschweigt zentrale Fakten
+  wie die grüne Wahlniederlage 2023, die Einordnung der Hitze und die Kosten der
+  geforderten Massnahmen.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert einen SRF-Tagesschau-Beitrag, der einen
+  Hitzesommer als Kausalität für Wahlergebnisse rahmt, ohne zu prüfen, ob dieser
+  Effekt empirisch belegt ist. Beanstandet wird, dass Michael Hermann (Sotomo,
+  SP-Mitglied) als neutraler Experte auftritt, ohne seine politische Verortung
+  genannt zu bekommen, dass die Nationalratswahlergebnisse 2023 mit den
+  Grünenverlusten fehlen und dass die Hitze historisch nicht eingeordnet wird.
+  Zudem werde die SVP als zynisch-getrieben markiert, die Wähler als
+  Reaktionsmaschinen gerahmt, die Kosten der Massnahmen ausgeblendet und die
+  eigene Medienrolle bei der Themenkonjunktur nicht reflektiert.
+quelle_datum: '2026-08-03'
+quelle_format: Broadcast
+quelle_sendung: Tagesschau
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF fragt, ob der Hitzesommer 2026 die Wahlen 2027 beeinflusst — und rahmt die Hitze als politisches Asset der Grünen. Ein Politgeograf erklärt, wie das Klima den Parteien nützt oder schadet. Was nicht vorkommt: die Frage, ob Wähler tatsächlich nach Hitze anders wählen. Was nicht vorkommt: die Frage, ob der Sommer 2026 aussergewöhnlich ist. Was nicht vorkommt: die Kosten der geforderten Massnahmen. Was nicht vorkommt: die Wahlergebnisse von 2023, die die grüne Welle schon wieder wegspülten. Der Beitrag ist eine Wahlanalyse ohne Wahldaten.*

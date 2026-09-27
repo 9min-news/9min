@@ -1,14 +1,67 @@
 ---
-title: "Die Niederlage, ohne den Sieg"
-date: "2026-06-30"
+title: 'Die Niederlage, ohne den Sieg'
+date: '2026-06-30'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMEoVtiX0AA298r.jpg"
-tweetId: "2071981789229277627"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMEoVtiX0AA298r.jpg'
+tweetId: '2071981789229277627'
+categories:
+  - SRF/SRG
+  - Migration
+  - Gesellschaft
+tags:
+  - Selektive Berichterstattung
+  - Framing
+  - Supreme Court
+  - Trump
+  - Geburtsortsprinzip
+  - SRF
+  - Verfassungsrecht
+  - Auslassung
 seo:
-  description: "Dieser SRF-Beitrag über den Supreme Court-Entscheid zum Geburtsortsprinzip ist ein Lehrstück in selektiver Berichterstattung: Trump verliert einen Fall —…"
+  description: >-
+    Dieser SRF-Beitrag über den Supreme Court-Entscheid zum Geburtsortsprinzip
+    ist ein Lehrstück in selektiver Berichterstattung: Trump verliert einen Fall
+    —…
+themen:
+  - Selektive Berichterstattung über Supreme Court
+  - Geburtsortsprinzip und US-Staatsbürgerschaft
+  - Framing von Trump als Verlierer
+  - Transgender-Sport-Entscheidung des Supreme Court
+kritisiertes_medium: SRF News
+kritisierter_beitrag: Supreme Court hält an US-Staatsbürgerschaft bei Geburt fest
+kritisierter_autor: ''
+kritik_typ:
+  - Selektion
+  - Framing
+  - Auslassung
+personen:
+  - Donald Trump
+  - Fed-Gouverneurin Cook
+institutionen:
+  - SRF
+  - SRF 4 News
+  - Supreme Court
+  - Kongress
+gesetze_vorlagen:
+  - 14. Verfassungszusatz
+  - Trumps Dekret zur Einschränkung des Geburtsortsprinzips
+these: >-
+  SRF berichtet selektiv über Trumps Niederlage vor dem Supreme Court und
+  ignoriert seinen Sieg am selben Tag, was ein systematisches Framing-Muster
+  darstellt, das Trump als Verlierer positioniert.
+zusammenfassung: >-
+  Der Artikel kritisiert, dass SRF zwar korrekt über Trumps Niederlage beim
+  Geburtsortsprinzip berichtet, jedoch seinen Sieg in der
+  Transgender-Sport-Entscheidung am selben Tag verschweigt. Zudem fehlen
+  Abstimmungszahlen, abweichende Meinungen, Trumps Gesamt-Bilanz vor dem Supreme
+  Court und der internationale Vergleich. Die Berichterstattung wird als
+  selektiv und framend eingeordnet, die Trump einseitig als Verlierer darstellt.
+quelle_datum: '2026-06-30'
+quelle_format: Online-Artikel
+quelle_sendung: SRF 4 News
+quelle_redaktion: SRF News
+kritik_schwere: 2
 ---
 
 *Dieser SRF-Beitrag über den Supreme Court-Entscheid zum Geburtsortsprinzip ist ein Lehrstück in selektiver Berichterstattung: Trump verliert einen Fall — und SRF ist zur Stelle. Trump gewinnt am gleichen Tag einen Fall — und SRF schweigt. Das ist kein Zufall. Das ist ein Framing-Muster: Trump wird als Verlierer präsentiert, seine Niederlagen werden gemeldet, seine Siege werden ignoriert. Der Beitrag selbst ist faktenkorrekt — aber er ist einseitig, weil er nur die Hälfte der Story erzählt. Und die Hälfte, die er erzählt, wird mit Framing versehen, das Trump als Verlierer positioniert — ohne den Kontext, dass der Supreme Court am selben Tag in einer anderen Frage Trump recht gegeben hat.*

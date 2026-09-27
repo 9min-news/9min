@@ -1,14 +1,70 @@
 ---
-title: "Der Gründungsmythos, der zur (Brauerei) Umfrage verkommt"
-date: "2026-08-01"
+title: 'Der Gründungsmythos, der zur (Brauerei) Umfrage verkommt'
+date: '2026-08-01'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HOoTBKXXwAAaKY_.jpg"
-tweetId: "2083498847410544859"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HOoTBKXXwAAaKY_.jpg'
+tweetId: '2083498847410544859'
+categories:
+  - SRF/SRG
+  - Gesellschaft
+  - Demokratie
+tags:
+  - Gründungsmythos
+  - Nationalfeiertag
+  - Bundesbrief
+  - Sonderbundskrieg
+  - Röstigraben
+  - Sotomo-Umfrage
+  - Feldschlösschen
+  - Geschichtsvermittlung
 seo:
-  description: "SRF berichtet über eine Umfrage zum Gründungszeitpunkt der Schweiz und rahmt sie als kulturelle Spaltung zwischen Mythos und Fakt. Was nicht vorkommt: die…"
+  description: >-
+    SRF berichtet über eine Umfrage zum Gründungszeitpunkt der Schweiz und rahmt
+    sie als kulturelle Spaltung zwischen Mythos und Fakt. Was nicht vorkommt:
+    die…
+themen:
+  - Schweizer Gründungsmythos
+  - Nationalfeiertag als politische Entscheidung
+  - Röstigraben-Framing
+  - Sonderbundskrieg als historischer Kontext
+  - Umfrage als Geschichtsersatz
+kritisiertes_medium: SRF Tagesschau
+kritisierter_beitrag: 1291 oder 1848 – die Schweiz ist sich uneinig
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Kontextmangel
+personen:
+  - Michael Hermann
+  - Wilhelm Tell
+institutionen:
+  - SRF
+  - Sotomo
+  - Feldschlösschen
+  - Bundesrat
+gesetze_vorlagen:
+  - Bundesbrief 1291
+  - Bundesverfassung 1848
+these: >-
+  SRF degradiert die bewusste staatspolitische Entscheidung für 1291 als
+  Nationalfeiertag zu einer Meinungs-Umfrage einer Brauerei und rahmt
+  historische Fakten als kulturelle Spaltung, ohne den historischen Kontext zu
+  liefern.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert einen SRF-Tagesschau-Beitrag, der eine von
+  Feldschlösschen in Auftrag gegebene Sotomo-Umfrage zum Schweizer
+  Gründungsdatum referiert. SRF rahme historische Fakten als
+  Meinungsverschiedenheit und konstruiere einen Röstigraben, ohne den
+  politischen Grund für die Wahl von 1291 als Nationalfeiertag zu erklären. Der
+  Sonderbundskrieg von 1847 als historische Belastung, die 1889 zur Wahl von
+  1291 führte, fehle vollständig.
+quelle_datum: '2026-07-31'
+quelle_format: Online-Artikel
+quelle_sendung: Tagesschau
+quelle_redaktion: SRF News
+kritik_schwere: 2
 ---
 
 *SRF berichtet über eine Umfrage zum Gründungszeitpunkt der Schweiz und rahmt sie als kulturelle Spaltung zwischen Mythos und Fakt. Was nicht vorkommt: die Frage, warum der Staat 1291 feiert, wenn die Mehrheit 1848 für das Gründungsjahr hält. Was nicht vorkommt: der historische Grund, warum 1291 überhaupt zum Nationalfeiertag erklärt wurde. Der Beitrag ist eine Umfrage-Auswertung, die politische Geschichte zur Trivia-Frage degradiert.*

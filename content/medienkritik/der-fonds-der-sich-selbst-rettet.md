@@ -1,14 +1,71 @@
 ---
-title: "Der Fonds, der sich selbst rettet"
-date: "2026-06-29"
+title: 'Der Fonds, der sich selbst rettet'
+date: '2026-06-29'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HL-NWJPXAAABizh.jpg"
-tweetId: "2071529808341651499"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HL-NWJPXAAABizh.jpg'
+tweetId: '2071529808341651499'
+categories:
+  - SRF/SRG
+  - Klima/Energie
+tags:
+  - Norwegischer Staatsfonds
+  - Klimarisiken
+  - Netto-Null-Pläne
+  - Greenwashing
+  - Öl-Förderung
+  - Stern-Nordhaus-Debatte
+  - CO2-Lagerung
+  - Interview-Kritik
 seo:
-  description: "Dieser SRF-Beitrag ist ein Interview, aber er funktioniert als Pressemitteilung. Christopher Wright, Chef Nachhaltigkeit beim norwegischen Staatsfonds,…"
+  description: >-
+    Dieser SRF-Beitrag ist ein Interview, aber er funktioniert als
+    Pressemitteilung. Christopher Wright, Chef Nachhaltigkeit beim norwegischen
+    Staatsfonds,…
+themen:
+  - Norwegischer Staatsfonds und Klimapolitik
+  - Journalistische Konfrontationspflicht
+  - Netto-Null-Pläne und Greenwashing-Risiko
+  - Norwegens fortgesetzte Öl-Förderung
+  - Klimaökonomische Debatte Stern-Nordhaus
+kritisiertes_medium: SRF News
+kritisierter_beitrag: 'Norwegischer Risiko-Chef: ''Gibt keine vergleichbaren Ereignisse'''
+kritisierter_autor: Klaus Ammann
+kritik_typ:
+  - Auslassung
+  - Behördenpropaganda
+  - Autoritätsargument
+personen:
+  - Christopher Wright
+  - Klaus Ammann
+  - Nicholas Stern
+  - William Nordhaus
+institutionen:
+  - Norwegischer Staatsfonds
+  - SRF
+  - Norwegisches Parlament
+  - Norwegisches Finanzministerium
+  - Net Zero Tracker
+gesetze_vorlagen:
+  - Pariser Klimaziele
+these: >-
+  Das SRF-Interview mit dem Nachhaltigkeitschef des norwegischen Staatsfonds
+  funktioniert als Pressemitteilung, weil der Interviewer die strukturellen
+  Widersprüche des Fonds, die wissenschaftliche Präzision zentraler Aussagen und
+  die Schweizer Bezugspunkte nicht hinterfragt.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert ein SRF-Interview mit Christopher Wright, dem
+  Nachhaltigkeitschef des norwegischen Staatsfonds, als nicht-konfrontativ.
+  Klaus Ammann lasse Wright unbefragt starke Behauptungen aufstellen, das
+  Paradox von Öl-Geld und Klimaverantwortung nicht entfalten und Norwegens
+  fortgesetzte Öl-Förderung sowie die Schweizer CO₂-Lagerungsverbindung
+  ausblenden. Das Ergebnis liest sich wie ein Image-Text, der den Fonds als
+  Vorreiter positioniert, ohne zu prüfen, ob der Titel verdient ist.
+quelle_datum: '2026-06-28'
+quelle_format: Broadcast
+quelle_sendung: Echo der Zeit
+quelle_redaktion: SRF News
+kritik_schwere: 2
 ---
 
 *Dieser SRF-Beitrag ist ein Interview, aber er funktioniert als Pressemitteilung. Christopher Wright, Chef Nachhaltigkeit beim norwegischen Staatsfonds, darf eine Story erzählen, die so rund ist, dass sie keine Fragen mehr zulässt: Der Fonds stammt aus Öl und Gas, investiert weltweit, erkennt Klimarisiken, drängt Unternehmen zu Emissionsreduktion — und profitiert langfristig, wenn die Welt sauberer wird. Das ist das Narrativ eines Fonds, der sich selbst als Lösung des Problems positioniert, das er mitverursacht hat. Der Interviewer Klaus Ammann fragt nicht nach den Widersprüchen, die aus diesem Narrativ entstehen. Er fragt nicht, warum Norwegen weiterhin Öl und Gas fördert und neue Felder erschliesst, während der Fonds Unternehmen zu Netto-Null-Plänen drängt. Er fragt nicht, ob die Netto-Null-Pläne, die der Fonds fordert, tatsächlich wirksam sind oder Greenwashing sind. Er fragt nicht, ob ein Fonds, der 1,5 Billionen Dollar verwaltet und an fast allen grossen Unternehmen beteiligt ist, nicht strukturell von dem System profitiert, das er zu verändern vorgibt. Das Interview ist ein Beispiel für Journalismus, der den Gast nicht konfrontiert, sondern ihm eine Bühne gibt — und das Ergebnis liest sich wie ein Image-Text des norwegischen Finanzministeriums.*

@@ -1,14 +1,92 @@
 ---
 title: Das Schweigen nach dem Bericht
-date: "2026-06-28"
+date: '2026-06-28'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HL7ASCjXoAA1SrH.jpg"
-tweetId: "2071304350115283063"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HL7ASCjXoAA1SrH.jpg'
+tweetId: '2071304350115283063'
+categories:
+  - SRF/SRG
+  - Gesellschaft
+  - Migration
+tags:
+  - Grooming Gangs
+  - SRF
+  - Auslassung
+  - Berichterstattungslücke
+  - Täter-Opfer-Struktur
+  - institutionelles Versagen
+  - Rassismusvorwürfe
+  - Elon Musk
 seo:
-  description: "SRF und die Grooming-Gangs-Untersuchung: Eine Chronologie des Wegschauens --- 1. Der letzte Bericht Am 17. Juni 2025 publizierte SRF seinen letzten und…"
+  description: >-
+    SRF und die Grooming-Gangs-Untersuchung: Eine Chronologie des Wegschauens
+    --- 1. Der letzte Bericht Am 17. Juni 2025 publizierte SRF seinen letzten
+    und…
+themen:
+  - Grooming-Gangs-Skandal UK
+  - Berichterstattungslücken SRF
+  - redaktionelle Selektion nach Täter-Opfer-Struktur
+  - Asymmetrie der Auslandsberichterstattung
+kritisiertes_medium: SRF
+kritisierter_beitrag: London will ‹Grooming Gangs›-Skandal neu untersuchen — die Gründe
+kritisierter_autor: Patrick Wülser
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Asymmetrie
+personen:
+  - Patrick Wülser
+  - Elon Musk
+  - Sarah Champion
+  - Baroness Casey
+  - Shabana Mahmood
+  - Baroness Anne Longfield
+  - Zoë Billingham
+  - Eleanor Kelly
+  - Rupert Lowe
+  - Keir Starmer
+  - Patrick Fischer
+institutionen:
+  - SRF
+  - UK-Regierung
+  - House of Commons
+  - Oldham Council
+  - IICSA
+  - Restore Britain
+  - NHS
+  - Whitehall
+  - Guardian
+  - BBC
+  - The Times
+  - Amnesty International
+  - WAV
+  - BAG
+gesetze_vorlagen: []
+these: >-
+  SRF hat den Grooming-Gangs-Skandal nach einem einzigen Beitrag vom 17. Juni
+  2025 über neun Monate hinweg ignoriert und dabei eine strukturelle Asymmetrie
+  offenbart, bei der Themen mit ethnisch oder religiös aufgeladener
+  Täterstruktur systematisch seltener weiterverfolgt werden.
+zusammenfassung: >-
+  Der Artikel dokumentiert, dass SRF nach seinem einzigen Beitrag zum
+  Grooming-Gangs-Skandal am 17. Juni 2025 neun Monate lang über alle relevanten
+  Entwicklungen — Casey-Bericht, Operation Beaconport, Kollaps des
+  Auswahlverfahrens, Lowe-Bericht, parlamentarische Debatte, Benennung der
+  ersten Untersuchungsstädte — geschwiegen hat. Diese Auslassung wird mit
+  anderen SRF-Berichterstattungen verglichen, namentlich dem Fall Patrick
+  Fischer (neun Artikel in einer Woche) und dem Messerangriff von Winterthur, wo
+  eine systematische Asymmetrie sichtbar wird: Bei Täterstrukturen ohne
+  ethnische Aufladung zeigt SRF kontinuierliche Präsenz, bei ethnisch-religiös
+  aufgeladenen Täterstrukturen zeigt SRF Zurückhaltung. Der ursprüngliche
+  SRF-Beitrag wird zudem für ein Framing kritisiert, das Elon Musk als Auslöser
+  der Untersuchung darstellt statt die Opfer und Aktivisten, die seit zwei
+  Jahrzehnten dafür gekämpft haben.
+quelle_datum: '2025-06-17'
+quelle_format: Online-Artikel
+quelle_sendung: ''
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 ## SRF und die Grooming-Gangs-Untersuchung: Eine Chronologie des Wegschauens

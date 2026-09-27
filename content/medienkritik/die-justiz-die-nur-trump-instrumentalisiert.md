@@ -1,14 +1,84 @@
 ---
-title: "Die Justiz, die nur Trump instrumentalisiert"
-date: "2026-07-07"
+title: 'Die Justiz, die nur Trump instrumentalisiert'
+date: '2026-07-07'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMpOT4kWgAAfvLA.jpg"
-tweetId: "2074556723986084056"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMpOT4kWgAAfvLA.jpg'
+tweetId: '2074556723986084056'
+categories:
+  - SRF/SRG
+tags:
+  - Framing
+  - Selektion
+  - Auslassung
+  - Trump
+  - Biden
+  - Begnadigungen
+  - Russland-Ermittlung
+  - Januar-6-Prozesse
 seo:
-  description: "SRF veröffentlicht eine Abrechnung mit Donald Trumps Justizpolitik — und rahmt sie als Analyse. Der Titel nennt «Würgegriff», «Vergeltung», «Waffe» — drei…"
+  description: >-
+    SRF veröffentlicht eine Abrechnung mit Donald Trumps Justizpolitik — und
+    rahmt sie als Analyse. Der Titel nennt «Würgegriff», «Vergeltung», «Waffe» —
+    drei…
+themen:
+  - US-Justizpolitik unter Trump
+  - Medienframing und Einseitigkeit
+  - Begnadigungspraxis im Vergleich
+  - Russland-Ermittlung und Justizinstrumentalisierung
+kritisiertes_medium: SRF
+kritisierter_beitrag: 'US-Justiz im Würgegriff — Trumps Vergeltung: Wie er die Justiz zur Waffe macht'
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Selektion
+  - Auslassung
+personen:
+  - Donald Trump
+  - Joe Biden
+  - Liz Oyer
+  - Gregg Nunziata
+  - Andrew Weissmann
+  - John Jones
+  - James Comey
+  - Eric Adams
+  - Anthony Fauci
+  - Mark Milley
+  - Robert Mueller
+  - Carter Page
+  - Richard Nixon
+  - Hillary Clinton
+  - Karin Keller-Sutter
+  - Didier Burkhalter
+institutionen:
+  - SRF
+  - FBI
+  - US-Justizministerium
+  - New York Times
+  - DNC
+  - Bundesanwaltschaft Schweiz
+  - EJPD
+  - January-6-Komitee
+gesetze_vorlagen: []
+these: >-
+  SRF präsentiert eine einseitige Anklageschrift gegen Trumps Justizpolitik als
+  Analyse, indem es ausschliesslich Trump-Kritiker zu Wort kommen lässt und
+  wesentliche Kontexte wie Biden-Begnadigungen, Missbräuche bei der
+  Russland-Ermittlung und Kritik an den Januar-6-Prozessen auslässt.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert einen SRF-Beitrag über Trumps Justizpolitik als
+  einseitige Anklageschrift mit Analyse-Format. SRF nutze durchgehend
+  Kampfbegriffe im Titel, zitiere ausschliesslich Trump-Kritiker und lasse
+  wesentliche Kontexte wie Bidens präventive Massenbegnadigungen, die
+  dokumentierten Missbräuche bei der Russland-Ermittlung sowie Kritik an den
+  Januar-6-Prozessen vollständig ausser acht. Zudem werde die Watergate-Norm als
+  unantastbarer Status quo präsentiert, ohne zu prüfen, ob sie vor Trump bereits
+  gebrochen worden sei, und die Schweizer Justizdimension fehle komplett.
+quelle_datum: '2026-07-07'
+quelle_format: Online-Artikel
+quelle_sendung: ''
+quelle_redaktion: SRF News
+kritik_schwere: 3
 ---
 
 *SRF veröffentlicht eine Abrechnung mit Donald Trumps Justizpolitik — und rahmt sie als Analyse. Der Titel nennt «Würgegriff», «Vergeltung», «Waffe» — drei Wörter, die nicht analysieren, sondern urteilen. Der Beitrag versammelt Kritiker: eine Biden-Beamtin, ein Never-Trump-Republikaner, ein ehemaliger Bundesstaatsanwalt, ein Ex-Richter. Was er nicht versammelt: jemanden, der Trumps Handeln verteidigt oder erklärt. Was er nicht thematisiert: die Instrumentalisierung der Justiz vor Trump — Russland-Ermittlungen, FISA-Missbrauch, Biden-Begnadigungen. Der Beitrag ist eine Anklageschrift mit Analyse-Format — und er verschweigt den Kontext, der sie relativieren würde.*

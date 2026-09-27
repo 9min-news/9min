@@ -1,14 +1,74 @@
 ---
-title: "Das Porträt und die Kanzlerin, deren Vermächtnis zusammenbricht"
-date: "2026-07-01"
+title: 'Das Porträt und die Kanzlerin, deren Vermächtnis zusammenbricht'
+date: '2026-07-01'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HMKxB9FXkAAo6PA.jpg"
-tweetId: "2072413759080128661"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HMKxB9FXkAAo6PA.jpg'
+tweetId: '2072413759080128661'
+categories:
+  - SRF/SRG
+  - Gesellschaft
+  - Demokratie
+tags:
+  - Merkel-Porträt
+  - Hagiographie
+  - Wir schaffen das
+  - Devotions-Journalismus
+  - Kunstwissenschaftler
+  - Merkel-Vermächtnis
+  - politische Einordnung
 seo:
-  description: "Dieser SRF-Beitrag über die Enthüllung von Angela Merkels offiziellem Porträt ist ein Lehrstück in Devotions-Journalismus: Ein Kunstwissenschaftler darf…"
+  description: >-
+    Dieser SRF-Beitrag über die Enthüllung von Angela Merkels offiziellem
+    Porträt ist ein Lehrstück in Devotions-Journalismus: Ein
+    Kunstwissenschaftler darf…
+themen:
+  - Merkel-Porträt
+  - Hagiographie im Kulturjournalismus
+  - Merkels politisches Erbe
+  - Kunstkritik vs. Devotions-Journalismus
+kritisiertes_medium: SRF Kultur
+kritisierter_beitrag: 'Man hat das Gefühl: Ja, wir schaffen das!'
+kritisierter_autor: Nikolaus Bernau
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Autoritätsargument
+personen:
+  - Angela Merkel
+  - Jérémie Queyras
+  - Nikolaus Bernau
+  - Königin Elisabeth
+  - Margaret Thatcher
+  - Donald Trump
+  - Wladimir Putin
+institutionen:
+  - SRF Kultur
+  - Bundeskanzleramt
+  - Bode-Museum
+  - AfD
+  - CDU
+  - EU
+gesetze_vorlagen: []
+these: >-
+  SRF Kultur stilisiert Angela Merkel in einem Porträt-Beitrag hagiographisch
+  zur unumstrittenen Ikone, übernimmt spekulative Thesen eines
+  Kunstwissenschaftlers unkritisch und blendet die historischen Konsequenzen
+  ihrer 16-jährigen Kanzlerschaft vollständig aus.
+zusammenfassung: >-
+  Der Artikel analysiert einen SRF Kultur-Beitrag über die Enthüllung von Angela
+  Merkels offiziellem Porträt als Lehrstück in Devotions-Journalismus. Die
+  spekulative kunsthistorische Interpretation von Nikolaus Bernau werde
+  ungetestet übernommen, während zentrale kritische Fragen zu Merkels
+  politischem Erbe — Flüchtlingskrise, Energiepolitik, Russland-Abhängigkeit,
+  AfD-Entstehung — gänzlich fehlten. Der berühmte Satz «Wir schaffen das» werde
+  als positives Resümee verwendet, ohne die umstrittene Politik dahinter zu
+  prüfen, was den Beitrag von Kulturberichterstattung zu Denkmalpflege machen.
+quelle_datum: '2026-07-01'
+quelle_format: Online-Artikel
+quelle_sendung: ''
+quelle_redaktion: SRF Kultur
+kritik_schwere: 3
 ---
 
 *Dieser SRF-Beitrag über die Enthüllung von Angela Merkels offiziellem Porträt ist ein Lehrstück in Devotions-Journalismus: Ein Kunstwissenschaftler darf ungetestete Thesen über ein Porträt verbreiten, eine Kanzlerin, deren politisches Erbe in Echtzeit zusammenbricht, wird zur Ikone stilisiert, und der berühmteste Satz der deutschen Nachkriegspolitik — «Wir schaffen das» — wird als positives Resümee verwendet, ohne dass eine einzige kritische Frage gestellt wird. Die zentrale Frage — was Merkel in 16 Jahren Kanzlerschaft tatsächlich hinterlassen hat — wird nicht gestellt, weil sie nicht gestellt werden darf. Das Framing steht fest: Merkel war Stabilität, Merkel war Autorität, Merkel war Optimismus. Wer sich ansieht, in welchem Zustand Deutschland 2026 tatsächlich ist, weiss: Das ist nicht Analyse, das ist Denkmalpflege.*

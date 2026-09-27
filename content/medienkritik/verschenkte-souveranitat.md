@@ -1,14 +1,87 @@
 ---
 title: Verschenkte Souveränität
-date: "2026-05-10"
+date: '2026-05-10'
 status: published
 type: medienkritik
-coverImage: "https://pbs.twimg.com/media/HH9sjjBXEAUvFEt.jpg"
-tweetId: "2053480050125611444"
-categories: []
-tags: []
+coverImage: 'https://pbs.twimg.com/media/HH9sjjBXEAUvFEt.jpg'
+tweetId: '2053480050125611444'
+categories:
+  - Demokratie
+  - EU/Aussenpolitik
+  - Sicherheitspolitik
+tags:
+  - Souveränität
+  - Neutralität
+  - Bundesrat
+  - Gaststaatgesetz
+  - Gavi
+  - Überwachung
+  - EU-Sanktionen
+  - E-ID
 seo:
-  description: Das Matterhorn entfernt Genf ist eine kleine Stadt mit einer übergrossen Mieterliste. Die Vereinten Nationen unterhalten dort ihren europäischen…
+  description: >-
+    Das Matterhorn entfernt Genf ist eine kleine Stadt mit einer übergrossen
+    Mieterliste. Die Vereinten Nationen unterhalten dort ihren europäischen…
+themen:
+  - Souveränitätsverlust durch exekutive Entscheidungen
+  - Aufgabe der Neutralität bei EU-Sanktionen
+  - Gaststaatgesetz und Immunitäten für nichtstaatliche Akteure
+  - Massenüberwachung und digitale Identität
+  - Demokratische Legitimation bei Souveränitätstransfers
+kritisiertes_medium: Bundesrat
+kritisierter_beitrag: >-
+  Serie von exekutiven Entscheidungen zur Souveränitätsübertragung
+  (Gaststaatgesetz-Anwendungen, EU-Sanktionsübernahme, NDG, nDSG, E-ID)
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Behördenpropaganda
+  - Kontextmangel
+personen:
+  - Bill Gates
+  - Edward Snowden
+institutionen:
+  - Bundesrat
+  - Vereinte Nationen
+  - Weltgesundheitsorganisation
+  - Welthandelsorganisation
+  - Internationales Komitee vom Roten Kreuz
+  - Gavi
+  - Bill & Melinda Gates Foundation
+  - Nachrichtendienst des Bundes
+  - NSA
+  - EU
+  - Weltbank
+  - UNICEF
+  - Mondelēz
+  - Bundesverwaltungsgericht
+gesetze_vorlagen:
+  - Gaststaatgesetz (SR 192.12)
+  - Nachrichtendienstgesetz (NDG)
+  - 'Revidiertes Bundesgesetz über den Datenschutz (nDSG, SR 235.1)'
+  - E-ID-Gesetz
+  - Swissness-Gesetz
+  - Goldinitiative
+these: >-
+  Die Schweiz hat über Jahrzehnte durch exekutive Einzelentscheidungen, die den
+  demokratischen Prozess umgingen oder nur eng gefasste Wahlmöglichkeiten boten,
+  substantielle Elemente ihrer Souveränität verschenkt, während die symbolische
+  Verpackung intakt blieb.
+zusammenfassung: >-
+  Der Artikel analysiert eine Serie von Souveränitätstransfers — Goldverkauf,
+  Bankgeheimnis, Gaststaatgesetz-Anwendungen auf nichtstaatliche Akteure wie
+  Gavi, Übernahme von EU-Sanktionen gegen Russland, Massenüberwachung,
+  EU-Harmonisierung des Datenschutzrechts und E-ID — als kumulatives Muster
+  schleichender Substanzentleerung. Kritisiert wird, dass die meisten
+  Entscheidungen exekutiv ohne Referendum oder mit eng gefassten Fragestellungen
+  getroffen wurden. Die Metapher des Matterhorns illustriert, dass die
+  symbolische Identität bleibt, die strukturellen Verpflichtungen jedoch Zacken
+  um Zacken entfernt wurden.
+quelle_datum: ''
+quelle_format: Online-Artikel
+quelle_sendung: ''
+quelle_redaktion: 9min.ch
+kritik_schwere: 3
 ---
 
 ## Das Matterhorn entfernt
