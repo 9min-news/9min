@@ -2,7 +2,7 @@
 title: 'SRFs Verfassungsauftrag: Eine Bestandsaufnahme'
 date: '2026-09-26'
 status: published
-type: analyse
+type: bericht
 categories:
   - SRF/SRG
   - Medienrecht

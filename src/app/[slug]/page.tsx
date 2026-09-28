@@ -64,6 +64,7 @@ export default async function ArticlePage(
     case 'chronik':
       return <ChronikLayout article={article} />
     case 'analyse':
+    case 'bericht':
       return <AnalyseLayout article={article} />
     case 'grundlage':
       return <GrundlageLayout article={article} />

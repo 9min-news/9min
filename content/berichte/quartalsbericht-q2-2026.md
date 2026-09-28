@@ -2,7 +2,7 @@
 title: 'Quartalsbericht Q2 2026'
 date: '2026-09-26'
 status: published
-type: analyse
+type: bericht
 categories:
   - SRF/SRG
   - Demokratie
@@ -16,7 +16,7 @@ tags:
   - 10-Millionen-Initiative
 seo:
   description: >-
-    Quartalsbericht Q2 2026: 287 Medienkritiken in 91 Tagen — Auslassung
+    Quartalsbericht Q2 2026: 296 Medienkritiken in 122 Tagen — Auslassung
     dominiert, das Echo der Zeit führt die Sendungskritiken an, und der Mai
     zeigt, was passiert, wenn ein Abstimmungskampf auf einen Konsenssender
     trifft.
@@ -56,24 +56,24 @@ these: >-
   die Liste der kritisierten Sendungen — in einem Quartal, das von der
   10-Millionen-Initiative und ihrer Nachgeschichte geprägt wurde.
 zusammenfassung: >-
-  9min.ch veröffentlichte im zweiten Quartal 2026 (1. April bis 30. Juni)
-  287 Medienkritiken. 77 Prozent davon weisen den höchsten Kritikschwergrad auf.
-  Die dominanten Fehlertypen sind Auslassung (263 Nennungen) und Framing (228).
-  Das meistkritisierte Medium ist SRF News mit 137 Beiträgen, gefolgt von SRF
-  allgemein (61) und Echo der Zeit (22 als Sendung). Das prägende Ereignis
+  9min.ch veröffentlichte im zweiten Quartal 2026 (1. März bis 30. Juni)
+  296 Medienkritiken. 77 Prozent davon weisen den höchsten Kritikschwergrad auf.
+  Die dominanten Fehlertypen sind Auslassung (271 Nennungen) und Framing (232).
+  Das meistkritisierte Medium ist SRF News mit 139 Beiträgen, gefolgt von SRF
+  allgemein (68) und Echo der Zeit (13 als Sendung). Das prägende Ereignis
   des Quartals war die Volksabstimmung vom 18. Mai über die
   10-Millionen-Initiative und die sie begleitende Bundesratskommunikation.
 ---
 
 ## Die Zahl zuerst
 
-Zwischen dem 1. April und dem 30. Juni 2026 hat 9min.ch 287 Medienkritiken veröffentlicht. Das entspricht im Schnitt knapp 3,2 Beiträgen pro Tag über einen Zeitraum von 91 Tagen. Diese Zahl braucht Kontext, bevor sie interpretiert werden kann: 9min.ch kritisiert nicht den Betrieb, sondern dokumentiert Abweichungen — eine unterschätzte methodische Vorannahme, die am Ende dieses Berichts nochmals aufgegriffen wird. Was hier gezählt wird, sind dokumentierte Fehlleistungen, keine Stichproben aus der Gesamtproduktion des Schweizer Mediensystems.
+Zwischen dem 1. März und dem 30. Juni 2026 hat 9min.ch 296 Medienkritiken veröffentlicht. Das entspricht im Schnitt knapp 2,4 Beiträgen pro Tag über einen Zeitraum von 122 Tagen. Diese Zahl braucht Kontext, bevor sie interpretiert werden kann: 9min.ch kritisiert nicht den Betrieb, sondern dokumentiert Abweichungen — eine unterschätzte methodische Vorannahme, die am Ende dieses Berichts nochmals aufgegriffen wird. Was hier gezählt wird, sind dokumentierte Fehlleistungen, keine Stichproben aus der Gesamtproduktion des Schweizer Mediensystems.
 
 Die Zahlen sind trotzdem aussagekräftig. Nicht wegen ihrer absoluten Höhe, sondern wegen ihrer Konsistenz.
 
 ## Die Verteilung: Ein Ausnahmemonat
 
-Das zweite Quartal 2026 war kein gleichförmiges Quartal. Von den 287 Beiträgen entfielen 177 auf den Mai — 62 Prozent des gesamten Quartalsvolumens in einem einzigen Monat. Der April brachte 46 Beiträge, der Juni 64.
+Das zweite Quartal 2026 war kein gleichförmiges Quartal. Von den 296 Beiträgen entfielen 177 auf den Mai — 60 Prozent des gesamten Quartalsvolumens in einem einzigen Monat. Der März brachte 9 Beiträge (die Startwoche von 9min.ch), der April 46, der Juni 64.
 
 Der Grund ist offenkundig: Am 18. Mai 2026 fand die Volksabstimmung über die SVP-Initiative «Keine 10-Millionen-Schweiz» statt. Die Wochen davor und danach prägten das gesamte Medienbild — und damit auch das Fehlerbild. Die 10-Millionen-Initiative findet sich in 20 Beiträgen explizit als Abstimmungsgegenstand, das Thema Personenfreizügigkeit in 17 weiteren, die Masseneinwanderungsinitiative (als historischer Kontext) in 15. Diese drei Einträge bilden die mit Abstand dichteste thematische Konzentration des Quartals.
 
@@ -81,7 +81,7 @@ Was der Mai zeigt, ist nicht, dass die Schweizer Medien ausnahmsweise versagt h�
 
 ## Die Schwere: 77 Prozent der höchsten Kategorie
 
-Jeder 9min-Beitrag wird nach der Kritikschwergrad eingestuft. Schwere 1 bezeichnet einen leichten Fehler, Schwere 2 einen mittelschweren, Schwere 3 einen strukturellen oder gravierenden Verstoß gegen journalistische Grundsätze. Im zweiten Quartal entfallen 220 der 287 Beiträge — 77 Prozent — auf Schwere 3, 67 auf Schwere 2. Kein einziger Beitrag wurde mit Schwere 1 eingestuft.
+Jeder 9min-Beitrag wird nach der Kritikschwergrad eingestuft. Schwere 1 bezeichnet einen leichten Fehler, Schwere 2 einen mittelschweren, Schwere 3 einen strukturellen oder gravierenden Verstoß gegen journalistische Grundsätze. Im zweiten Quartal entfallen 229 der 296 Beiträge — 77 Prozent — auf Schwere 3, 67 auf Schwere 2. Kein einziger Beitrag wurde mit Schwere 1 eingestuft.
 
 Das ist eine Zahl, die man nicht wegdiskutieren kann, aber die man auch nicht missverstehen darf. Sie zeigt nicht, dass 9min seine eigenen Massstäbe senkt oder Fehler sucht, wo keine sind. Sie zeigt, dass die dokumentierten Fälle methodisch nach oben selektiert sind: Die Redaktion schreibt nur über Beiträge, die eine genau benennbare, belegbare und gewichtige Abweichung aufweisen. Das Ergebnis ist ein Korpus, der per Konstruktion die obere Hälfte des Fehlerbilds abbildet.
 
@@ -89,7 +89,7 @@ Die Konsequenz: Wenn trotz dieser hohen Eintrittsschwelle 77 Prozent der Dokumen
 
 ## Das dominante Muster: Auslassung
 
-Der häufigste Fehlertyp im zweiten Quartal ist Auslassung: 263 Nennungen. Framing folgt mit 228, Kontextmangel mit 98, Selektion mit 83, Behördenpropaganda mit 75, Asymmetrie mit 69.
+Der häufigste Fehlertyp im zweiten Quartal ist Auslassung: 271 Nennungen. Framing folgt mit 232, Kontextmangel mit 99, Selektion mit 91, Behördenpropaganda mit 75, Asymmetrie mit 72.
 
 Auslassung — im 9min-Vokabular klar von Unterlassung unterschieden — bezeichnet das bewusste Weglassen relevanter Fakten innerhalb eines Beitrags, der zu dem ausgelassenen Thema explizit Stellung nimmt. Es ist die stärkste Kategorie, weil sie einen aktiven redaktionellen Entscheid dokumentiert: nicht die Entscheidung, über etwas nicht zu berichten, sondern die Entscheidung, im Kontext eines Beitrags, der über genau dieses Thema berichtet, entscheidende Informationen wegzulassen.
 
@@ -101,13 +101,13 @@ Das ist schwerer zu greifen als eine Falschaussage. Es ist auch schwerer zu wide
 
 Unter den namentlich benannten SRF-Sendungen führt das Echo der Zeit mit 22 Einzelkritiken das Quartalsranking an. Es folgen Rendez-vous (8), SRF 4 News (8), Tagesschau (4) und Tagesgespräch (3).
 
-Das Echo der Zeit ist kein Zufallstreffer in dieser Liste. Es ist die Flaggschiff-Nachrichtensendung des Schweizer Radios, die das intellektuelle Niveau der SRF-Berichterstattung definieren soll — und die diesen Anspruch im zweiten Quartal überdurchschnittlich oft nicht eingelöst hat. 16 dokumentierte Beiträge mit Schwere-3-Kritik für eine einzige Sendung in 73 Tagen ist keine statistische Streuung. Es ist ein Befund.
+Das Echo der Zeit ist kein Zufallstreffer in dieser Liste. Es ist die Flaggschiff-Nachrichtensendung des Schweizer Radios, die das intellektuelle Niveau der SRF-Berichterstattung definieren soll — und die diesen Anspruch im zweiten Quartal überdurchschnittlich oft nicht eingelöst hat. 16 dokumentierte Beiträge mit Schwere-3-Kritik für eine einzige Sendung in 91 Tagen ist keine statistische Streuung. Es ist ein Befund.
 
 Die meistkritisierten Einzelbeiträge des Echos zeigen ein Muster: Einseitige Expertenwahl, unkritische Übernahme staatlicher oder institutioneller Narrative, und strukturelle Vorentscheidungen durch Stimmenauswahl, die die Conclusio der Sendung vorwegnehmen. Das ist journalistisch gefährlicher als eine offensichtliche Parteinahme — weil es unter dem Deckmantel der Ausgewogenheit operiert.
 
 ## Die Medienlandschaft: SRF News als Hauptziel
 
-Das meistkritisierte Medium im Q2 ist SRF News mit 137 Beiträgen. Dahinter folgt SRF (als Gesamtanstalt) mit 61, dann Echo der Zeit als eigenes Medium mit 13 Beiträgen. Die NZZ erscheint mit 11 Kritiken, der Bundesrat mit 11, der Tages-Anzeiger mit 6. Neu taucht mit 4 Nennungen auch 9min.ch selbst als kritisiertes Medium auf — Fälle, in denen die Redaktion eigene Beiträge nachkorrigiert oder in Verbindung mit SRF-Reaktionen analysiert hat.
+Das meistkritisierte Medium im Q2 ist SRF News mit 139 Beiträgen. Dahinter folgt SRF (als Gesamtanstalt) mit 68, dann Echo der Zeit als eigenes Medium mit 13 Beiträgen. Die NZZ erscheint mit 11 Kritiken, der Bundesrat mit 11, der Tages-Anzeiger mit 6. Neu taucht mit 4 Nennungen auch 9min.ch selbst als kritisiertes Medium auf — Fälle, in denen die Redaktion eigene Beiträge nachkorrigiert oder in Verbindung mit SRF-Reaktionen analysiert hat.
 
 Dass SRF News dominiert, ist erklärbar: Es ist die meistgenutzte Nachrichtenplattform des Landes und hat das grösste Produktionsvolumen. Bemerkenswert ist die Häufigkeit des Bundesrats als kritisiertem Medium: 7 Fälle, in denen nicht die Medienberichterstattung über den Bundesrat, sondern die direkte Bundesratskommunikation — Medienmitteilungen, Videos, Reden — als Fehler dokumentiert wird. In einem Abstimmungsquartal ist das relevant: Der Bundesrat betreibt, dokumentiert in diesen 7 Fällen, Wahlkampfkommunikation mit dem Briefkopf der Regierung.
 

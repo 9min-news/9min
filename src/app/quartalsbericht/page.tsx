@@ -4,9 +4,19 @@ import { Header } from '@/components/Header'
 import { Footer } from '@/components/Footer'
 import rawMetadata from '@/data/metadata.json'
 
-export const metadata: Metadata = {
-  title: 'Quartalsbericht Q2 2026 — 9min',
-  description: 'Systematische Auswertung der 9min-Medienkritik: Fehlertypen, Themen und Strukturmuster im zweiten Quartal 2026.',
+export async function generateMetadata(
+  { searchParams }: { searchParams: Promise<{ q?: string }> }
+): Promise<Metadata> {
+  const { q } = await searchParams
+  const isQ2 = q === 'q2'
+  return {
+    title: isQ2
+      ? 'Quartalsbericht Q2 · März–Juni 2026 — 9min'
+      : 'Quartalsbericht Q3 · Juli–September 2026 — 9min',
+    description: isQ2
+      ? 'Systematische Auswertung der 9min-Medienkritik: Fehlertypen, Themen und Strukturmuster im zweiten Quartal 2026 (März–Juni).'
+      : 'Systematische Auswertung der 9min-Medienkritik: Fehlertypen, Themen und Strukturmuster im dritten Quartal 2026 (Juli–September).',
+  }
 }
 
 type Article = {
@@ -128,9 +138,20 @@ function SectionHeading({ children }: { children: React.ReactNode }) {
   )
 }
 
-export default function QuartalPage() {
+export default async function QuartalPage(
+  { searchParams }: { searchParams: Promise<{ q?: string }> }
+) {
+  const { q } = await searchParams
+  const isQ2 = q === 'q2'
   const all = rawMetadata as Article[]
-  const articles = all.filter(a => a.date >= '2026-04-01' && a.date <= '2026-06-30')
+  const articles = all.filter(a =>
+    isQ2
+      ? a.date >= '2026-03-01' && a.date <= '2026-06-30'
+      : a.date >= '2026-07-01' && a.date <= '2026-09-30'
+  )
+  const quarterLabel = isQ2 ? 'Q2 · März–Juni 2026' : 'Q3 · Juli–September 2026'
+  const quarterSlug = isQ2 ? 'quartalsbericht-q2-2026' : 'quartalsbericht-q3-2026'
+  const quarterDateRange = isQ2 ? 'März bis Juni 2026' : 'Juli bis September 2026'
 
   // ── Normalize medium names for display ───────────────────────────────────
   function normalizeMedium(m: string): string {
@@ -259,20 +280,71 @@ export default function QuartalPage() {
           letterSpacing: '-0.02em',
           lineHeight: 1.15,
         }}>
-          Q2 2026
+          {isQ2 ? 'Q2 2026' : 'Q3 2026'}
         </h1>
         <p style={{
           fontFamily: 'var(--font-body)',
           fontStyle: 'italic',
           fontSize: '17px',
           color: 'var(--color-textgrau)',
-          margin: '0 0 40px',
+          margin: '0 0 32px',
           lineHeight: 1.65,
         }}>
-          April bis Juni 2026 — {totalCount} Analysen, {distinctMedien} Medien erfasst.{' '}
+          {quarterDateRange} — {totalCount} Analysen, {distinctMedien} Medien erfasst.{' '}
           Eine systematische Auswertung: welche Fehlertypen dominieren, welche Themen
           dahinter stehen, wie 9min arbeitet.
         </p>
+
+        {/* Quarter navigation */}
+        <div style={{
+          display: 'flex',
+          gap: '0',
+          marginBottom: '24px',
+          border: '1px solid var(--color-border)',
+          borderRadius: '2px',
+          overflow: 'hidden',
+        }}>
+          {[
+            { label: '← Q2 · März–Juni', href: '?q=q2', active: isQ2 },
+            { label: 'Q3 · Juli–September →', href: '/quartalsbericht', active: !isQ2 },
+          ].map(({ label, href, active }) => (
+            <Link
+              key={label}
+              href={href}
+              style={{
+                flex: 1,
+                padding: '10px 16px',
+                fontFamily: 'var(--font-body)',
+                fontSize: '13px',
+                textAlign: 'center',
+                textDecoration: 'none',
+                background: active ? 'var(--color-tannengruen)' : 'var(--color-bg-paper)',
+                color: active ? '#fff' : 'var(--color-textgrau)',
+                transition: 'background 150ms ease',
+                borderRight: '1px solid var(--color-border)',
+              }}
+            >
+              {label}
+            </Link>
+          ))}
+        </div>
+
+        {/* Link to long-form article */}
+        <div style={{ marginBottom: '40px' }}>
+          <Link
+            href={`/${quarterSlug}`}
+            style={{
+              fontFamily: 'var(--font-body)',
+              fontSize: '13px',
+              color: 'var(--color-textgrau)',
+              textDecoration: 'none',
+              borderBottom: '1px solid var(--color-border)',
+              paddingBottom: '2px',
+            }}
+          >
+            Zum langen Bericht →
+          </Link>
+        </div>
 
         {/* Anchor nav */}
         <div style={{ display: 'flex', gap: '24px', borderTop: '1px solid var(--color-border)', paddingTop: '20px', marginBottom: '0' }}>
@@ -860,7 +932,7 @@ export default function QuartalPage() {
             },
             {
               title: 'Schwerestufen nach Massstab',
-              body: `Schwere 1 ist ein handwerklicher Fehler. Schwere 2 verzerrt das Bild. Schwere 3 schadet dem demokratischen Diskurs messbar. ${pctSchwere3}% der Analysen im Q2 erreichen Stufe 3 — nicht weil 9min dramatisiert, sondern weil die Fälle es sind.`,
+              body: `Schwere 1 ist ein handwerklicher Fehler. Schwere 2 verzerrt das Bild. Schwere 3 schadet dem demokratischen Diskurs messbar. ${pctSchwere3}% der Analysen im ${isQ2 ? 'Q2' : 'Q3'} erreichen Stufe 3 — nicht weil 9min dramatisiert, sondern weil die Fälle es sind.`,
             },
             {
               title: 'Keine Meinungsjournalismus-Falle',

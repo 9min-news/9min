@@ -18,7 +18,7 @@ export interface ArticleFrontmatter {
   date: string
   updated?: string
   status: 'draft' | 'published'
-  type: 'chronik' | 'analyse' | 'grundlage' | 'medienkritik'
+  type: 'chronik' | 'analyse' | 'grundlage' | 'medienkritik' | 'bericht'
   tags?: string[]
   themen?: string[]
   categories?: string[]
@@ -56,7 +56,7 @@ export interface ArticleFrontmatter {
 
 export interface Article {
   slug: string
-  type: 'chronik' | 'analyse' | 'grundlage' | 'medienkritik'
+  type: 'chronik' | 'analyse' | 'grundlage' | 'medienkritik' | 'bericht'
   frontmatter: ArticleFrontmatter
   content: string
 }

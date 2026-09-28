@@ -32,6 +32,21 @@ export function Footer() {
         >
           <li>
             <Link
+              href="/berichte"
+              style={{
+                fontFamily: "'GT Sectra', Georgia, serif",
+                fontSize: '14px',
+                color: '#8A9C8A',
+                textDecoration: 'none',
+                transition: 'color 200ms ease',
+              }}
+              className="footer-link"
+            >
+              Berichte
+            </Link>
+          </li>
+          <li>
+            <Link
               href="/archiv"
               style={{
                 fontFamily: "'GT Sectra', Georgia, serif",
