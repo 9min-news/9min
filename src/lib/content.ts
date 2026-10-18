@@ -11,6 +11,17 @@ export type AudioMeta = {
   recorded: string
 }
 
+export type VerfassungKriterium = { stufe: number; begruendung: string }
+export type Verfassung = {
+  gesamt: number
+  sachgerecht: VerfassungKriterium
+  vielfalt: VerfassungKriterium
+  meinungsbildung: VerfassungKriterium
+  ombudsstelle: 'aussichtsreich' | 'möglich' | 'unwahrscheinlich'
+  satz: string
+  at?: string
+}
+
 export interface ArticleFrontmatter {
   title: string
   subtitle?: string
@@ -50,6 +61,7 @@ export interface ArticleFrontmatter {
   quelle_redaktion?: string
   // Editorial
   kritik_schwere?: 1 | 2 | 3
+  verfassung?: Verfassung
   verwandte_artikel?: string[]
   muster_id?: string
 }

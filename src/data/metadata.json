@@ -1,5 +1,135 @@
 [
   {
+    "slug": "die-regel-die-zum-paradox-wird",
+    "title": "Die Regel, die zum Paradox wird",
+    "date": "2026-10-18",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/die-regel-die-zum-paradox-wird.webp",
+    "tweetId": "",
+    "readingTime": 6,
+    "categories": [
+      "SRF/SRG",
+      "Abstimmungen",
+      "Demokratie"
+    ],
+    "themen": [
+      "Polarisierungsthese",
+      "Volksinitiativen-Basisrate",
+      "Umfragemethodik",
+      "Interessenkonflikt SRG-Finanzierung",
+      "Bundesratsbeurteilung"
+    ],
+    "tags": [
+      "Basisrate",
+      "Messunschärfe",
+      "Fehlerbereich",
+      "Interessenkonflikt",
+      "Halbierungsinitiative",
+      "Wahlbarometer",
+      "Sotomo",
+      "Pandemiekontext"
+    ],
+    "kritisiertes_medium": "SRF News",
+    "kritisierter_beitrag": "Die politische Polarisierung in der Schweiz verschärft sich",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Interessenkonflikt",
+      "Framing"
+    ],
+    "personen": [],
+    "institutionen": [
+      "SRF",
+      "SRG",
+      "SVP",
+      "SP",
+      "FDP",
+      "Die Mitte",
+      "GLP",
+      "Grüne",
+      "Sotomo",
+      "Bundesrat"
+    ],
+    "gesetze_vorlagen": [
+      "Halbierungsinitiative",
+      "Initiative gegen eine 10-Millionen-Schweiz",
+      "Neutralitätsinitiative",
+      "Prämienentlastungsinitiative"
+    ],
+    "these": "Der SRF-Beitrag rahmt einen statistischen Normalfall als Polarisierungsparadox, indem er die Basisrate scheiternder Volksinitiativen verschweigt, Messunschärfen der Umfrage ignoriert und eine die SRG-Finanzierung betreffende Abstimmung ohne Interessenmarkierung als Beweisstück verwendet.",
+    "zusammenfassung": "Der 9min-Artikel analysiert einen SRF-Beitrag, der ein Polarisierungsparadox aus drei verlorenen SVP-Initiativen und Umfrageverschiebungen konstruiert. Die Kritik zeigt, dass die Basisrate scheiternder Initiativen fehlt, der Fehlerbereich der Umfrage nur dort angewandt wird, wo er Bewegungen neutralisiert, und die Halbierungsinitiative zur SRG-Finanzierung ohne Interessenmarkierung als neutraler Datenpunkt dient. Die Polarisierungsthese werde so durch methodische Auslassungen und einen unausgewiesenen Interessenkonflikt gestützt.",
+    "quelle_datum": "2026-10-16",
+    "quelle_format": "Online-Artikel",
+    "quelle_sendung": "SRF 4 News",
+    "quelle_redaktion": "Bundeshausredaktion",
+    "kritik_schwere": 3,
+    "muster_id": ""
+  },
+  {
+    "slug": "zu-klein-gezaehlt-zu-weich-beschrieben",
+    "title": "Zu klein gezählt, zu weich beschrieben",
+    "date": "2026-10-18",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/zu-klein-gezaehlt-zu-weich-beschrieben.webp",
+    "tweetId": "",
+    "readingTime": 6,
+    "categories": [
+      "SRF/SRG",
+      "Gesellschaft",
+      "EU/Aussenpolitik"
+    ],
+    "themen": [
+      "Protestberichterstattung",
+      "Frankreich-Proteste 2026",
+      "Gewaltdarstellung",
+      "Teilnehmerzahlen",
+      "Sparhaushalt"
+    ],
+    "tags": [
+      "Frankreich",
+      "Proteste",
+      "Gewalt",
+      "Casseurs",
+      "Teilnehmerzahlen",
+      "SRF",
+      "Framing",
+      "Regierungskommunikation"
+    ],
+    "kritisiertes_medium": "SRF 4 News",
+    "kritisierter_beitrag": "Schwere Ausschreitungen bei frankreichweiten Protesten",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Fehlinformation",
+      "Framing",
+      "Auslassung"
+    ],
+    "personen": [
+      "Laurent Nuñez",
+      "Emmanuel Macron",
+      "Sébastien Lecornu"
+    ],
+    "institutionen": [
+      "SRF",
+      "SRF 4 News",
+      "Innenministerium Frankreich",
+      "CGT",
+      "CNews",
+      "La France Insoumise",
+      "Regierung Frankreich"
+    ],
+    "gesetze_vorlagen": [
+      "Sparhaushalt 2027"
+    ],
+    "these": "Der SRF-Beitrag vermischt zwei verschiedene Vorgänge – eine breite Mobilisierung und eine kleinere, organisierte Zerstörung – zu einem verzerrten Gesamtbild, das die Demonstrantenzahl zu klein und die Gewalttäter zu diffus darstellt.",
+    "zusammenfassung": "9min.ch kritisiert einen SRF-Beitrag über Frankreich-Proteste, der eine Provinzzahl fälschlich als landesweit auswies und so den Massenprotest verkleinerte. Gleichzeitig blieben die Gewalttäter ('Casseurs') gesichtslos, während das Schulprotest-Anliegen als Rahmen diente, auf den die Zerstörung abfärbte. Wesentliche Kontexte – Sparhaushalt-Inhalte, Ausgang der Gelbwesten-Krise, Abendzahlen – fehlten, sodass ein verzerrter 'Durchschnittstumult' entstand.",
+    "quelle_datum": "2026-10-17",
+    "quelle_format": "Online-Artikel",
+    "quelle_sendung": "SRF 4 News",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": ""
+  },
+  {
     "slug": "die-antworten-welche-die-frage-nicht-kennen",
     "title": "Die Antworten, welche die Frage nicht kennen",
     "date": "2026-09-26",

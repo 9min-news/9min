@@ -8,6 +8,7 @@ import { ShareBar } from './ShareBar'
 import { BookmarkButton } from './BookmarkButton'
 import { ArticleCard } from './ArticleCard'
 import { mdxComponents } from './mdx'
+import { VerfassungBox } from './VerfassungBox'
 import { formatDate, calculateReadingTime } from '@/lib/utils'
 import { getAllArticles } from '@/lib/content'
 import { getAllMuster } from '@/lib/muster'
@@ -225,6 +226,8 @@ export async function MediakritikLayout({ article }: { article: Article }) {
           <InlineNewsletterCTA />
           {secondHalf && <MDXRemote source={secondHalf} components={mdxComponents} />}
         </div>
+
+        {frontmatter.verfassung && <VerfassungBox v={frontmatter.verfassung} />}
 
         {/* Closing gold line */}
         <div
