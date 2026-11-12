@@ -1,49 +1,116 @@
 ---
-title: Zwei Machtdemonstrationen, eine Macht
+title: 'Zwei Machtdemonstrationen, eine Macht'
 date: '2026-10-19'
 status: published
 type: medienkritik
 coverImage: /images/medienkritik/zwei-machtdemonstrationen-eine-macht.webp
 tweetId: ''
-categories: []
-tags: []
+categories:
+  - SRF/SRG
+  - EU/Aussenpolitik
+  - Sicherheitspolitik
+tags:
+  - Ukraine-Krieg
+  - Trump
+  - Selenski
+  - Starlink
+  - Framing
+  - Machtdemonstration
+  - Asymmetrie
+  - Energiewaffenruhe
 seo:
-  description: SRF 4 News rahmt die Abhängigkeit der Ukraine von den USA als Streit zweier gleich gereizter
-    Männer. Urheber der Waffenruhe und Starlink-Befund fehlen im Text.
+  description: >-
+    SRF 4 News rahmt die Abhängigkeit der Ukraine von den USA als Streit zweier
+    gleich gereizter Männer. Urheber der Waffenruhe und Starlink-Befund fehlen
+    im Text.
 kritisiertes_medium: SRF 4 News
 kritisierter_beitrag: Hat die Beziehung Trump-Selenski den Gefrierpunkt erreicht?
-quelle_url: https://www.srf.ch/news/international/ukraine/kritik-vom-us-praesidenten-hat-die-beziehung-trump-selenski-den-gefrierpunkt-erreicht
+quelle_url: >-
+  https://www.srf.ch/news/international/ukraine/kritik-vom-us-praesidenten-hat-die-beziehung-trump-selenski-den-gefrierpunkt-erreicht
 quelle_datum: '2026-10-16'
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 verfassung:
   gesamt: 2
   sachgerecht:
     stufe: 2
-    begruendung: Unter dem Zwischentitel «Drosselung» behauptet der Text im Indikativ, die USA hätten
-      Starlink «gezielt ausser Dienst setzen lassen». Dabei handelte es sich um eine Drosselung mit ungeklärter
-      Urheberschaft, und die Deutung als Warnung und Machtdemonstration stützt sich allein auf diese Prämisse.
-      Dass der Gesamtbefund eines verschlechterten Verhältnisses zutrifft und der Beitrag Ölpreise, Zwischenwahlen
-      und das Machtgefälle korrekt benennt, verhindert eine höhere Stufe.
+    begruendung: >-
+      Unter dem Zwischentitel «Drosselung» behauptet der Text im Indikativ, die
+      USA hätten Starlink «gezielt ausser Dienst setzen lassen». Dabei handelte
+      es sich um eine Drosselung mit ungeklärter Urheberschaft, und die Deutung
+      als Warnung und Machtdemonstration stützt sich allein auf diese Prämisse.
+      Dass der Gesamtbefund eines verschlechterten Verhältnisses zutrifft und
+      der Beitrag Ölpreise, Zwischenwahlen und das Machtgefälle korrekt benennt,
+      verhindert eine höhere Stufe.
   vielfalt:
     stufe: 1
-    begruendung: Es spricht nur der Korrespondent. Trump erhält ein wörtliches Zitat in der Bildlegende,
-      Selenskis Begründung für das Ende der Waffenruhe erscheint nur im Vorspann und wird im Korrespondententeil
-      durch Motive wie «Frust» und «Hochrisikostrategie» ersetzt. Für einen gekennzeichneten Einordnungsbeitrag
-      ausserhalb einer Schweizer Abstimmung bleibt dies ein Mangel in Nebenpunkten.
+    begruendung: >-
+      Es spricht nur der Korrespondent. Trump erhält ein wörtliches Zitat in der
+      Bildlegende, Selenskis Begründung für das Ende der Waffenruhe erscheint
+      nur im Vorspann und wird im Korrespondententeil durch Motive wie «Frust»
+      und «Hochrisikostrategie» ersetzt. Für einen gekennzeichneten
+      Einordnungsbeitrag ausserhalb einer Schweizer Abstimmung bleibt dies ein
+      Mangel in Nebenpunkten.
   meinungsbildung:
     stufe: 2
-    begruendung: Der Beitrag verschweigt, dass Trump die Energiewaffenruhe selbst verkündet hatte, prüft
-      den russischen Bruch der Waffenruhe nicht und lässt Trumps Forderung nach einer neuen ukrainischen
-      Führung weg. Der symmetrische Rahmen zweier «gereizter» Präsidenten und zweier «Machtdemonstrationen»
-      nimmt so die Lesart eines Paarstreits vorweg, obwohl der Text den «längeren Hebel» der USA selbst
-      benennt.
+    begruendung: >-
+      Der Beitrag verschweigt, dass Trump die Energiewaffenruhe selbst verkündet
+      hatte, prüft den russischen Bruch der Waffenruhe nicht und lässt Trumps
+      Forderung nach einer neuen ukrainischen Führung weg. Der symmetrische
+      Rahmen zweier «gereizter» Präsidenten und zweier «Machtdemonstrationen»
+      nimmt so die Lesart eines Paarstreits vorweg, obwohl der Text den
+      «längeren Hebel» der USA selbst benennt.
   ombudsstelle: möglich
-  satz: Der Beitrag stellt eine ungeklärte Starlink-Drosselung als gezielte amerikanische Abschaltung
-    dar, lässt den Urheber der gescheiterten Energiewaffenruhe weg und erzählt ein Abhängigkeitsverhältnis
-    als Streit zwischen zwei gleich gereizten Präsidenten.
+  satz: >-
+    Der Beitrag stellt eine ungeklärte Starlink-Drosselung als gezielte
+    amerikanische Abschaltung dar, lässt den Urheber der gescheiterten
+    Energiewaffenruhe weg und erzählt ein Abhängigkeitsverhältnis als Streit
+    zwischen zwei gleich gereizten Präsidenten.
   at: '2026-10-18'
+themen:
+  - Ukraine-Krieg-Berichterstattung
+  - Framing von Machtasymmetrien
+  - Trump-Selenski-Beziehung
+  - Energiewaffenruhe
+  - Starlink-Drosselung
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - False Equivalence
+personen:
+  - Trump
+  - Selenski
+  - Elon Musk
+  - Putin
+institutionen:
+  - SRF
+  - SRF 4 News
+  - USA
+  - Ukraine
+  - Russland
+  - Weißes Haus
+  - Moskau
+  - Kiew
+gesetze_vorlagen: []
+these: >-
+  Der SRF-Beitrag rahmt ein asymmetrisches Abhängigkeitsverhältnis als
+  symmetrischen Paarstreit und blendet dabei zentrale Fakten wie Trumps selbst
+  verkündete Waffenruhe, Russlands Verstösse dagegen und die ungeklärte
+  Urheberschaft der Starlink-Drosselung aus.
+zusammenfassung: >-
+  Der Artikel kritisiert einen SRF 4 News-Beitrag, der das Verhältnis zwischen
+  Trump und Selenski als persönliche Beziehungskrise zwischen zwei
+  gleichermassen gereizten Präsidenten darstellt. Wesentliche Kontexte fehlen:
+  Trump hatte die Energiewaffenruhe selbst ausgerufen, Russland verstieß
+  dagegen, die Starlink-Massnahme war eine Drosselung而非 Abschaltung mit
+  ungeklärter Urheberschaft, und Trumps Forderung nach einem Führungswechsel in
+  der Ukraine wird nicht erwähnt. Durch False Equivalence in der Wortwahl (beide
+  Handlungen als «Machtdemonstration», beide als «gereizt») wird die
+  tatsächliche Machtasymmetrie verdeckt, obwohl der Beitrag den Hebel selbst
+  benennt.
+kritik_schwere: 3
 ---
 
 *Der Titel stellt eine Temperaturfrage: «Hat die Beziehung Trump-Selenski den Gefrierpunkt erreicht?» Damit ist der Rahmen gesetzt, bevor der erste Fakt fällt: zwei Männer, ein Verhältnis, eine Abkühlung. Die Symmetrie reicht bis in die Wortwahl. Über die Starlink-Massnahme heisst es, es scheine sich «auch um eine Machtdemonstration zu handeln», über die ukrainischen Raffinerieangriffe: «Auch das kann man als Machtdemonstration interpretieren.» Unerwähnt bleibt, dass Trump die Energiewaffenruhe, vor deren Hintergrund er Selenski kritisiert, selbst verkündet hatte. Ebenso, dass Starlink gedrosselt und nicht abgeschaltet wurde und die Urheberschaft unbestätigt ist, und dass Trump forderte, die Ukraine solle sich eine neue Führung suchen.*

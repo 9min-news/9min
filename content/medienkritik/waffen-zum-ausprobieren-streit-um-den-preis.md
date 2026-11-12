@@ -1,18 +1,32 @@
 ---
-title: Waffen zum Ausprobieren, Streit um den Preis
+title: 'Waffen zum Ausprobieren, Streit um den Preis'
 date: '2026-10-19'
 status: published
 type: medienkritik
 coverImage: /images/medienkritik/waffen-zum-ausprobieren-streit-um-den-preis.webp
 tweetId: ''
-categories: []
-tags: []
+categories:
+  - SRF/SRG
+  - Sicherheitspolitik
+  - Demokratie
+tags:
+  - Olma
+  - Schweizer Armee
+  - Militärwerbung
+  - Kostenrechnung
+  - Bildlegenden
+  - Stimmenverteilung
+  - Interessenkonflikt
+  - Gamifizierung
 seo:
-  description: SRF macht aus der Grundsatzkritik an der Armeeschau an der Olma einen Streit um Kosten,
-    deren Rechnung ohne Personal und ohne den Neunjahresvergleich bleibt.
-kritisiertes_medium: Tagesschau
+  description: >-
+    SRF macht aus der Grundsatzkritik an der Armeeschau an der Olma einen Streit
+    um Kosten, deren Rechnung ohne Personal und ohne den Neunjahresvergleich
+    bleibt.
+kritisiertes_medium: SRF Tagesschau
 kritisierter_beitrag: Olmaauftritt der Schweizer Armee sorgt für Kritik
-quelle_url: https://www.srf.ch/news/schweiz/militaer-an-publikumsmesse-olmaauftritt-der-schweizer-armee-sorgt-fuer-kritik
+quelle_url: >-
+  https://www.srf.ch/news/schweiz/militaer-an-publikumsmesse-olmaauftritt-der-schweizer-armee-sorgt-fuer-kritik
 quelle_datum: '2026-10-14'
 quelle_format: Online-Artikel
 quelle_sendung: Tagesschau
@@ -21,28 +35,77 @@ verfassung:
   gesamt: 2
   sachgerecht:
     stufe: 2
-    begruendung: Der Beitrag verschweigt, dass die Armee erstmals seit neun Jahren wieder mit einer grossen
-      Sonderschau an der Olma auftritt, und lässt den «Balanceakt» damit als massvollen Rest erscheinen,
-      obwohl es eine Rückkehr ist. Zudem übernimmt der Einstieg die Selbstdarstellung der Armee in der
-      Stimme der Redaktion. Ein Fehler ist nicht belegt. Die Kostenzahl ist korrekt zugeschrieben und
-      als unvollständig markiert.
+    begruendung: >-
+      Der Beitrag verschweigt, dass die Armee erstmals seit neun Jahren wieder
+      mit einer grossen Sonderschau an der Olma auftritt, und lässt den
+      «Balanceakt» damit als massvollen Rest erscheinen, obwohl es eine Rückkehr
+      ist. Zudem übernimmt der Einstieg die Selbstdarstellung der Armee in der
+      Stimme der Redaktion. Ein Fehler ist nicht belegt. Die Kostenzahl ist
+      korrekt zugeschrieben und als unvollständig markiert.
   vielfalt:
     stufe: 1
-    begruendung: Für die Schau sprechen Brülisauer (zweimal), Roos, Götte und Bolt. Die Grundsatzkritik
-      hat mit Bullakaj nur eine Stimme, Gysi wird nur erwähnt, unabhängige Stimmen fehlen. Gemildert wird
-      dies durch das ausführliche wörtliche Zitat Bullakajs und den Dissens innerhalb der SVP zwischen
+    begruendung: >-
+      Für die Schau sprechen Brülisauer (zweimal), Roos, Götte und Bolt. Die
+      Grundsatzkritik hat mit Bullakaj nur eine Stimme, Gysi wird nur erwähnt,
+      unabhängige Stimmen fehlen. Gemildert wird dies durch das ausführliche
+      wörtliche Zitat Bullakajs und den Dissens innerhalb der SVP zwischen
       Gartmann und Götte.
   meinungsbildung:
     stufe: 2
-    begruendung: Der Beitrag verschiebt die Kritik an Verharmlosung und Zweck auf eine Budgetfrage und
-      liefert dafür nur die Sachkosten ohne die Kosten der 250 Dienstleistenden. Die SP-Kritik als «Militärwerbung»
-      fehlt, Göttes Satz über das Zeigen von Bedarf bleibt ungeprüft, und die Olma wird ohne Markierung
-      ihres Eigeninteresses als Dialogstifterin zitiert.
+    begruendung: >-
+      Der Beitrag verschiebt die Kritik an Verharmlosung und Zweck auf eine
+      Budgetfrage und liefert dafür nur die Sachkosten ohne die Kosten der 250
+      Dienstleistenden. Die SP-Kritik als «Militärwerbung» fehlt, Göttes Satz
+      über das Zeigen von Bedarf bleibt ungeprüft, und die Olma wird ohne
+      Markierung ihres Eigeninteresses als Dialogstifterin zitiert.
   ombudsstelle: möglich
-  satz: Der Beitrag verengt die Kritik am Armeeauftritt an der Olma auf einen Streit um die Kosten, liefert
-    dafür nur die halbe Rechnung und verschweigt, dass die Schau nach neun Jahren eine Rückkehr ist und
-    von der SP als Militärwerbung kritisiert wurde.
+  satz: >-
+    Der Beitrag verengt die Kritik am Armeeauftritt an der Olma auf einen Streit
+    um die Kosten, liefert dafür nur die halbe Rechnung und verschweigt, dass
+    die Schau nach neun Jahren eine Rückkehr ist und von der SP als
+    Militärwerbung kritisiert wurde.
   at: '2026-10-18'
+themen:
+  - Armeeauftritt an Publikumsmesse
+  - Militärwerbung vs. Information
+  - Kostentransparenz bei Bundesinstitutionen
+  - Gamifizierung von Waffen
+  - Asymmetrische Stimmenverteilung
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Selektion
+personen:
+  - Barbara Gysi
+  - Walter Gartmann
+  - Michael Götte
+  - Arbër Bullakaj
+  - Willy Brülisauer
+  - Benedikt Roos
+  - Christine Bolt
+institutionen:
+  - SRF Tagesschau
+  - Schweizer Armee
+  - Olma
+  - SP
+  - Parlament
+gesetze_vorlagen: []
+these: >-
+  Der SRF-Beitrag rahmt die Grundsatzkritik am Armeeauftritt als Budgetfrage,
+  verschweigt zentrale Kontextfakten wie die neunjährige Pause und die vorab
+  geäusserte SP-Kritik als Militärwerbung, liefert nur eine halbe Kostenrechnung
+  und verschiebt so die eigentliche Debatte über den Zweck der Schau ins
+  Unentscheidbare.
+zusammenfassung: >-
+  9min.ch analysiert einen SRF-Tagesschau-Beitrag über den Armeeauftritt an der
+  Olma 2026. Der Beitrag liefert zwar überprüfbare Grössen und zitiert Kritiker
+  ausführlich, verschweigt aber zentrale Rahmenfakten: die neunjährige Pause,
+  die SP-Kritik als Militärwerbung und die Personalkosten. Die Grundsatzkritik
+  an Waffen in Publikumshand wird in eine Budgetfrage verschoben, die
+  Stimmenverteilung ist asymmetrisch, und der Interessenkonflikt der Olma als
+  Gastgeberin bleibt unmarkiert.
+kritik_schwere: 3
 ---
 
 *Der Titel macht die Kritik zum Ereignis. Die Ausstellung selbst beschreibt der Beitrag in der Sprache der Ausstellerin. Schon der erste Satz übernimmt die Selbstdarstellung der Armee in der Stimme der Redaktion: Auf rund 2000 Quadratmetern zeige die Armee, «was Verteidigungsfähigkeit des Landes heute und in Zukunft heisst». Die Bildlegenden folgen dem Ton eines Messeprospekts. Ab der Mitte trägt eine einzige Zahl die Debatte: «rund 300'000 Franken – das Dienstpersonal nicht eingerechnet». Verschwiegen werden zwei Rahmenfakten. Die Armee tritt nach neun Jahren erstmals wieder mit einer grossen Sonderschau an der Olma auf, und die SP hatte diese Schau schon vorab als «Militärwerbung» bezeichnet.*

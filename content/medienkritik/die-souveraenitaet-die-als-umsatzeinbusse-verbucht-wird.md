@@ -1,18 +1,32 @@
 ---
-title: Die Souveränität, die als Umsatzeinbusse verbucht wird
+title: 'Die Souveränität, die als Umsatzeinbusse verbucht wird'
 date: '2026-10-19'
 status: published
 type: medienkritik
-coverImage: /images/medienkritik/die-souveraenitaet-die-als-umsatzeinbusse-verbucht-wird.webp
+coverImage: >-
+  /images/medienkritik/die-souveraenitaet-die-als-umsatzeinbusse-verbucht-wird.webp
 tweetId: ''
-categories: []
-tags: []
+categories:
+  - SRF/SRG
+  - Sicherheitspolitik
+tags:
+  - F-35A
+  - Ruag
+  - Souveränität
+  - Wartung
+  - Rigi-Projekt
+  - Framing
+  - Kostenrahmen
+  - Rüstung
 seo:
-  description: SRF misst die F-35A-Endmontage in Emmen am Ertrag der Ruag. Den selbst genannten Massstab,
-    die Unabhängigkeit der Armee, verfolgt der Beitrag nicht weiter.
-kritisiertes_medium: SRF 4 News
+  description: >-
+    SRF misst die F-35A-Endmontage in Emmen am Ertrag der Ruag. Den selbst
+    genannten Massstab, die Unabhängigkeit der Armee, verfolgt der Beitrag nicht
+    weiter.
+kritisiertes_medium: SRF
 kritisierter_beitrag: Finalisierung von F-35A bei der Ruag – Geschäft mit Fragezeichen
-quelle_url: https://www.srf.ch/news/schweiz/rigi-projekt-der-ruag-finalisierung-von-f-35a-bei-der-ruag-geschaeft-mit-fragezeichen
+quelle_url: >-
+  https://www.srf.ch/news/schweiz/rigi-projekt-der-ruag-finalisierung-von-f-35a-bei-der-ruag-geschaeft-mit-fragezeichen
 quelle_datum: '2026-10-15'
 quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
@@ -21,28 +35,74 @@ verfassung:
   gesamt: 2
   sachgerecht:
     stufe: 2
-    begruendung: Die einzige eigene Erklärung der Redaktion, der Grund dürfte «auch bei den hohen Kosten
-      der Ruag liegen», steht ohne Quelle, Zahl oder Gegenstimme und widerspricht der zitierten «Kosten-/Nutzen-Abwägung»
-      der Ruag, ohne dass der Beitrag dies auflöst. Zudem fehlt der bekannte Kostenrahmen der Gesamtbeschaffung;
-      gemildert wird der Befund durch das eigens eingeholte Eingeständnis zum «signifikanten Einnahmenverlust»
-      und die offengelegte Herkunft der technischen Angaben.
+    begruendung: >-
+      Die einzige eigene Erklärung der Redaktion, der Grund dürfte «auch bei den
+      hohen Kosten der Ruag liegen», steht ohne Quelle, Zahl oder Gegenstimme
+      und widerspricht der zitierten «Kosten-/Nutzen-Abwägung» der Ruag, ohne
+      dass der Beitrag dies auflöst. Zudem fehlt der bekannte Kostenrahmen der
+      Gesamtbeschaffung; gemildert wird der Befund durch das eigens eingeholte
+      Eingeständnis zum «signifikanten Einnahmenverlust» und die offengelegte
+      Herkunft der technischen Angaben.
   vielfalt:
     stufe: 2
-    begruendung: Zu Wort kommt allein die Ruag, mit Stellungnahme, Hintergrundgespräch und Antwort auf
-      Anfrage; Armasuisse, VBS oder unabhängige Fachleute fehlen in beiden Beiträgen. Die Perspektive
-      der Armee als Besteller wird nur im dritten Absatz benannt und danach nicht weiterverfolgt.
+    begruendung: >-
+      Zu Wort kommt allein die Ruag, mit Stellungnahme, Hintergrundgespräch und
+      Antwort auf Anfrage; Armasuisse, VBS oder unabhängige Fachleute fehlen in
+      beiden Beiträgen. Die Perspektive der Armee als Besteller wird nur im
+      dritten Absatz benannt und danach nicht weiterverfolgt.
   meinungsbildung:
     stufe: 2
-    begruendung: 'Die Reduktion von vier auf drei Jets erscheint ohne Bezugsgrösse: Weder die vom Bundesrat
-      wegen Mehrkosten auf rund 30 gesenkte Flottenzahl noch der Finanzrahmen von 6 Milliarden Franken
-      wird genannt, ebenso wenig, dass die Ruag dem Bund gehört. Die selbst formulierte Abhängigkeit von
-      ausländischen Triebwerkszentren wird unter «Wartung von F-35A bringt Ruag weniger ein» als Umsatzfrage
-      gerahmt, was das Urteil über die staatspolitische Dimension vorwegnimmt.'
+    begruendung: >-
+      Die Reduktion von vier auf drei Jets erscheint ohne Bezugsgrösse: Weder
+      die vom Bundesrat wegen Mehrkosten auf rund 30 gesenkte Flottenzahl noch
+      der Finanzrahmen von 6 Milliarden Franken wird genannt, ebenso wenig, dass
+      die Ruag dem Bund gehört. Die selbst formulierte Abhängigkeit von
+      ausländischen Triebwerkszentren wird unter «Wartung von F-35A bringt Ruag
+      weniger ein» als Umsatzfrage gerahmt, was das Urteil über die
+      staatspolitische Dimension vorwegnimmt.
   ombudsstelle: möglich
-  satz: Der Beitrag rahmt die Abhängigkeit der Luftwaffe von ausländischen Wartungszentren als Einnahmenproblem
-    der Ruag, begründet die Kürzung mit einer unbelegten Mutmassung und nennt nicht, dass die Gesamtflotte
-    selbst wegen Mehrkosten verkleinert wird.
+  satz: >-
+    Der Beitrag rahmt die Abhängigkeit der Luftwaffe von ausländischen
+    Wartungszentren als Einnahmenproblem der Ruag, begründet die Kürzung mit
+    einer unbelegten Mutmassung und nennt nicht, dass die Gesamtflotte selbst
+    wegen Mehrkosten verkleinert wird.
   at: '2026-10-18'
+themen:
+  - F-35A Beschaffung
+  - Inlandwartung und militärische Unabhängigkeit
+  - Rüstungsindustrie und Staatsunternehmen
+  - Medienframing von Sicherheitspolitik
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Kontextmangel
+personen: []
+institutionen:
+  - SRF
+  - SRF 4 News
+  - Ruag
+  - Armee
+  - Bundesrat
+  - VBS
+  - Armasuisse
+  - Luftwaffe
+gesetze_vorlagen:
+  - Rigi-Projekt
+  - F-35A Beschaffung
+these: >-
+  SRF rahmt eine staatspolitische Frage der militärischen Unabhängigkeit als
+  Geschäftsfrage der Ruag und verschweigt dabei den Gesamtkontext der
+  Flottenreduktion.
+zusammenfassung: >-
+  9min.ch kritisiert, dass SRF die Reduktion der in Emmen endmontierten F-35A
+  von vier auf drei Jets primär als Umsatzproblem der Ruag darstellt, obwohl der
+  Beitrag selbst das Kriterium der militärischen Unabhängigkeit formuliert. Der
+  Gesamtkontext der Flottenreduktion von ursprünglich 36 auf rund 30 Flugzeuge
+  wird in beiden SRF-Beiträgen nicht erwähnt. Eine redaktionelle Mutmassung zu
+  hohen Kosten der Ruag erscheint ohne Beleg und ohne Verweis darauf, dass die
+  Ruag dem Bund gehört.
+kritik_schwere: 2
 ---
 
 *SRF erzählt die Endmontage der Schweizer F-35A als Geschäftsfrage eines Unternehmens. Der Titel spricht vom «Geschäft mit Fragezeichen», ein Zwischentitel von der Wartung, die der Ruag «weniger ein» bringt. Dabei formuliert der Beitrag den anderen Massstab selbst. Die Inlandwartung der F/A-18 sei wichtig, damit die Armee «jederzeit einsatzbereit und nicht auf Serviceleistungen aus dem Ausland angewiesen ist». Weiterverfolgt wird danach nur die zweite Hälfte der Begründung, die «wichtige Einnahmequelle». Die Bezugsgrösse der Reduktion von vier auf drei Jets, also die Gesamtflotte, nennt keiner der beiden SRF-Beiträge dieses Tages. Die einzige eigene Erklärung der Redaktion ist eine Mutmassung ohne Beleg.*

@@ -1,50 +1,110 @@
 ---
-title: Das Geständnis, das die Bilanz ersetzt
+title: 'Das Geständnis, das die Bilanz ersetzt'
 date: '2026-10-19'
 status: published
 type: medienkritik
 coverImage: /images/medienkritik/das-gestaendnis-das-die-bilanz-ersetzt.webp
 tweetId: ''
-categories: []
-tags: []
+categories:
+  - SRF/SRG
+  - Wirtschaft
+  - Demokratie
+tags:
+  - Steuerfuss
+  - Wohlen
+  - SVP
+  - Wortbruch
+  - Framing
+  - Regionaljournal
+  - Auslassung
+  - Konversion als Beweis
 seo:
-  description: SRF rahmt den Wohler Steuerantrag als Naturgesetz und belegt es mit dem Seitenwechsel der
-    SVP. Wie viele Franken fehlen, nennt der Beitrag nicht.
-kritisiertes_medium: Regionaljournal Aargau Solothurn
+  description: >-
+    SRF rahmt den Wohler Steuerantrag als Naturgesetz und belegt es mit dem
+    Seitenwechsel der SVP. Wie viele Franken fehlen, nennt der Beitrag nicht.
+kritisiertes_medium: SRF Regionaljournal Aargau Solothurn
 kritisierter_beitrag: Wenn die Gegner der Steuererhöhung die Steuern erhöhen müssen
-quelle_url: https://www.srf.ch/news/schweiz/gemeindebudget-wohlen-wenn-die-gegner-der-steuererhoehung-die-steuern-erhoehen-muessen
+quelle_url: >-
+  https://www.srf.ch/news/schweiz/gemeindebudget-wohlen-wenn-die-gegner-der-steuererhoehung-die-steuern-erhoehen-muessen
 quelle_datum: '2026-10-13'
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: Regionaljournal Aargau Solothurn
-quelle_redaktion: SRF News
+quelle_redaktion: SRF Regionaljournal Aargau Solothurn
 verfassung:
   gesamt: 2
   sachgerecht:
     stufe: 2
-    begruendung: Die redaktionelle Frage, wie die SVP damit umgehe, «dass sie ihr Wahlversprechen nicht
-      einhalten kann», übernimmt den Vorwurf von SP-Fraktionschef Schneider als geprüfte Tatsache, ohne
-      Wortlaut eines SVP-Versprechens. Dabei deuten Vogts «nicht bereits nächstes Jahr» und der geplante
-      Aufschub per Landverkauf eher auf einen Streit um den Zeitpunkt. Das Prädikat «müssen» und der Satz
-      «Die Steuern müssen rauf» in eigener Stimme stellen eine Notwendigkeit fest, die der Beitrag mit
-      keinem Defizit, Schuldenstand oder Ertrag belegt; mildernd wirken die korrekte Vorgeschichte und
-      das präzise «beantragen» im Fliesstext.
+    begruendung: >-
+      Die redaktionelle Frage, wie die SVP damit umgehe, «dass sie ihr
+      Wahlversprechen nicht einhalten kann», übernimmt den Vorwurf von
+      SP-Fraktionschef Schneider als geprüfte Tatsache, ohne Wortlaut eines
+      SVP-Versprechens. Dabei deuten Vogts «nicht bereits nächstes Jahr» und der
+      geplante Aufschub per Landverkauf eher auf einen Streit um den Zeitpunkt.
+      Das Prädikat «müssen» und der Satz «Die Steuern müssen rauf» in eigener
+      Stimme stellen eine Notwendigkeit fest, die der Beitrag mit keinem
+      Defizit, Schuldenstand oder Ertrag belegt; mildernd wirken die korrekte
+      Vorgeschichte und das präzise «beantragen» im Fliesstext.
   vielfalt:
     stufe: 1
-    begruendung: SVP, SP und die frühere FDP-Finanzvorsteherin kommen mit eigener Begründung zu Wort,
-      Strassers Interessenlage ist markiert. Es fehlt die Einwohnerratsmehrheit, die den Landverkauf und
-      damit den Aufschub ablehnte, ebenso jede Stimme zu den übergeordneten Vorgaben der «fremdgesteuerten»
-      Ausgaben.
+    begruendung: >-
+      SVP, SP und die frühere FDP-Finanzvorsteherin kommen mit eigener
+      Begründung zu Wort, Strassers Interessenlage ist markiert. Es fehlt die
+      Einwohnerratsmehrheit, die den Landverkauf und damit den Aufschub
+      ablehnte, ebenso jede Stimme zu den übergeordneten Vorgaben der
+      «fremdgesteuerten» Ausgaben.
   meinungsbildung:
     stufe: 2
-    begruendung: Der Beitrag nennt als einzige Finanzgrösse den Steuerfuss «von 116 auf 122 Prozent»,
-      ohne Frankenbetrag und ohne Einordnung im kantonalen Vergleich. Sozialhilfequote und steuerbares
-      Einkommen bleiben ohne Zahl. Die Rolle des Einwohnerrats beim abgelehnten Landverkauf und beim bevorstehenden
-      Entscheid bleibt unerklärt, so dass der Seitenwechsel der SVP die Prüfung von Alternativen ersetzt.
+    begruendung: >-
+      Der Beitrag nennt als einzige Finanzgrösse den Steuerfuss «von 116 auf 122
+      Prozent», ohne Frankenbetrag und ohne Einordnung im kantonalen Vergleich.
+      Sozialhilfequote und steuerbares Einkommen bleiben ohne Zahl. Die Rolle
+      des Einwohnerrats beim abgelehnten Landverkauf und beim bevorstehenden
+      Entscheid bleibt unerklärt, so dass der Seitenwechsel der SVP die Prüfung
+      von Alternativen ersetzt.
   ombudsstelle: möglich
-  satz: Der Beitrag übernimmt den Wortbruch-Vorwurf der SP als eigene Prämisse und stellt die Steuererhöhung
-    als Zwang dar, ohne Defizit, Schuldenstand oder kantonalen Steuerfuss-Vergleich zu liefern, an denen
-    die Leser diese Notwendigkeit messen könnten.
+  satz: >-
+    Der Beitrag übernimmt den Wortbruch-Vorwurf der SP als eigene Prämisse und
+    stellt die Steuererhöhung als Zwang dar, ohne Defizit, Schuldenstand oder
+    kantonalen Steuerfuss-Vergleich zu liefern, an denen die Leser diese
+    Notwendigkeit messen könnten.
   at: '2026-10-18'
+themen:
+  - Lokalpolitik
+  - Steuerpolitik
+  - Gemeindefinanzen
+  - Medienframing
+  - Kanton Aargau
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Kontextmangel
+personen:
+  - Matthias Schneider
+  - Denise Strasser
+  - Vogt
+  - Hauri
+institutionen:
+  - SRF
+  - SVP
+  - SP
+  - Gemeinderat Wohlen
+  - Einwohnerrat Wohlen
+  - Regierungsrat Aargau
+gesetze_vorlagen: []
+these: >-
+  Der SRF-Beitrag rahmt einen beantragten Steuerfuss als naturgesetzliche
+  Notwendigkeit, übernimmt den politischen Vorwurf des Wortbruchs als
+  redaktionelle Prämisse ohne Beleg und verzichtet auf die Bezifferung der
+  Finanzlage, die seine Behauptung stützen müsste.
+zusammenfassung: >-
+  Der Artikel analysiert einen SRF-Regionaljournal-Beitrag über die
+  Steuererhöhung in Wohlen AG. Er zeigt, wie der Beitrag einen Antrag als Zwang
+  rahmt, den SP-Vorwurf des Wortbruchs als redaktionelle Prämisse übernimmt ohne
+  SVP-Wahlversprechen zu belegen, und wesentliche Finanzkennzahlen wie Defizit,
+  Schuldenstand oder kantonalen Steuerfuss-Vergleich weglässt. Die Konversion
+  der SVP ersetze die sachliche Prüfung der Alternativen.
+kritik_schwere: 2
 ---
 
 *Der Titel setzt das Ergebnis als Zwang: Die Gegner der Steuererhöhung «müssen» die Steuern erhöhen. Im Fliesstext heisst derselbe Vorgang korrekt «beantragen». Die Notwendigkeit wandert jedoch im Lauf des Beitrags von den Quellen in die Stimme der Redaktion. Erst sind es «Kritiker», die sagen, nichts führe an höheren Steuern vorbei. Dann formuliert der Beitrag in eigener Stimme: «Die Steuern müssen rauf». Die Bildlegende schliesst mit «Die Finanzprobleme blieben aber die gleichen». Der Seitenwechsel der SVP dient als Beweis, dass es keine Alternative gab. Die einzige Finanzgrösse im ganzen Beitrag ist der Steuerfuss «von 116 auf 122 Prozent». Wie viele Franken der Gemeinde fehlen und wo 122 Prozent im kantonalen Vergleich stehen, verschweigt er.*

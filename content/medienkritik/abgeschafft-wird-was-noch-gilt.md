@@ -1,18 +1,32 @@
 ---
-title: Abgeschafft wird, was noch gilt
+title: 'Abgeschafft wird, was noch gilt'
 date: '2026-10-19'
 status: published
 type: medienkritik
 coverImage: /images/medienkritik/abgeschafft-wird-was-noch-gilt.webp
 tweetId: ''
-categories: []
-tags: []
+categories:
+  - Abstimmungen
+  - SRF/SRG
+  - Demokratie
+tags:
+  - Heiratsstrafe
+  - Individualbesteuerung
+  - Steuerinitiative
+  - Die Mitte
+  - Karin Keller-Sutter
+  - Bundesrat
+  - Abstimmungskampf
+  - Behördenpropaganda
 seo:
-  description: SRF 4 News meldet die Heiratsstrafe als erledigt, obwohl die Individualbesteuerung erst
-    ab 2032 gilt. Der Beitrag hält so Argumente der Regierung als Sachstand fest.
+  description: >-
+    SRF 4 News meldet die Heiratsstrafe als erledigt, obwohl die
+    Individualbesteuerung erst ab 2032 gilt. Der Beitrag hält so Argumente der
+    Regierung als Sachstand fest.
 kritisiertes_medium: SRF 4 News
 kritisierter_beitrag: Bundesrat eröffnet Nein-Kampagne zur Steuerinitiative der Mitte
-quelle_url: https://www.srf.ch/news/schweiz/besteuerung-von-ehepaaren-bundesrat-eroeffnet-nein-kampagne-zur-steuerinitiative-der-mitte
+quelle_url: >-
+  https://www.srf.ch/news/schweiz/besteuerung-von-ehepaaren-bundesrat-eroeffnet-nein-kampagne-zur-steuerinitiative-der-mitte
 quelle_datum: '2026-10-13'
 quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
@@ -21,28 +35,74 @@ verfassung:
   gesamt: 2
   sachgerecht:
     stufe: 2
-    begruendung: Der Einstieg «Die Heiratsstrafe ist … bereits Geschichte» steht in Erzählerstimme, obwohl
-      laut Beitrag die Individualbesteuerung erst ab 2032 gelten soll. Der Vergleich «bis zu drei Milliarden»
-      gegenüber «rund 630 Millionen» bleibt ohne Basis und Referenzpunkt. Mildernd wirken die korrekte
-      Beschreibung der Initiative, der durchgehende Konjunktiv und die Nennung von 2032 sowie der Bemessungsbasis
-      der 630 Millionen im Text selbst.
+    begruendung: >-
+      Der Einstieg «Die Heiratsstrafe ist … bereits Geschichte» steht in
+      Erzählerstimme, obwohl laut Beitrag die Individualbesteuerung erst ab 2032
+      gelten soll. Der Vergleich «bis zu drei Milliarden» gegenüber «rund 630
+      Millionen» bleibt ohne Basis und Referenzpunkt. Mildernd wirken die
+      korrekte Beschreibung der Initiative, der durchgehende Konjunktiv und die
+      Nennung von 2032 sowie der Bemessungsbasis der 630 Millionen im Text
+      selbst.
   vielfalt:
     stufe: 3
-    begruendung: Sieben Wochen vor der Abstimmung ist Keller-Sutter die einzige zitierte Person. Die Mitte
-      als Urheberin der Initiative kommt nicht zu Wort, und ihr Modell erreicht den Leser nur über den
-      nicht zugeschriebenen Einwand «würde aber drei Mal veranlagt». Die knappe Nein-Empfehlung des Ständerats
-      mit 24 zu 21 Stimmen fehlt. Der Titel deklariert zwar offen eine «Nein-Kampagne», der Text liefert
-      aber nur diese.
+    begruendung: >-
+      Sieben Wochen vor der Abstimmung ist Keller-Sutter die einzige zitierte
+      Person. Die Mitte als Urheberin der Initiative kommt nicht zu Wort, und
+      ihr Modell erreicht den Leser nur über den nicht zugeschriebenen Einwand
+      «würde aber drei Mal veranlagt». Die knappe Nein-Empfehlung des Ständerats
+      mit 24 zu 21 Stimmen fehlt. Der Titel deklariert zwar offen eine
+      «Nein-Kampagne», der Text liefert aber nur diese.
   meinungsbildung:
     stufe: 2
-    begruendung: Der Rahmen «beschlossen heisst erledigt» nimmt das Urteil vorweg. Die Zwischenzeit bis
-      2032 und die Frage, ob die Initiative mit ihrer Dreijahresfrist früher wirken würde, bleiben unbehandelt.
-      Die Belastung von Einverdiener- und Rentnerpaaren unter der Individualbesteuerung wird nicht genannt,
-      und die Behördenschätzung erscheint ohne die Vorgeschichte der 2019 annullierten Abstimmung.
+    begruendung: >-
+      Der Rahmen «beschlossen heisst erledigt» nimmt das Urteil vorweg. Die
+      Zwischenzeit bis 2032 und die Frage, ob die Initiative mit ihrer
+      Dreijahresfrist früher wirken würde, bleiben unbehandelt. Die Belastung
+      von Einverdiener- und Rentnerpaaren unter der Individualbesteuerung wird
+      nicht genannt, und die Behördenschätzung erscheint ohne die Vorgeschichte
+      der 2019 annullierten Abstimmung.
   ombudsstelle: möglich
-  satz: Der Beitrag übernimmt vor der Abstimmung das Kernargument des Bundesrats als redaktionellen Sachstand,
-    lässt die Initianten nicht zu Wort kommen und stellt Ausfallzahlen ohne gemeinsame Basis nebeneinander.
+  satz: >-
+    Der Beitrag übernimmt vor der Abstimmung das Kernargument des Bundesrats als
+    redaktionellen Sachstand, lässt die Initianten nicht zu Wort kommen und
+    stellt Ausfallzahlen ohne gemeinsame Basis nebeneinander.
   at: '2026-10-18'
+themen:
+  - Abstimmungskampfberichterstattung
+  - Heiratsstrafe und Individualbesteuerung
+  - Steuerausfälle-Vergleich
+  - Quellenbalance bei Abstimmungen
+kritisierter_autor: ''
+kritik_typ:
+  - Behördenpropaganda
+  - Auslassung
+  - Framing
+personen:
+  - Karin Keller-Sutter
+institutionen:
+  - SRF
+  - Bundesrat
+  - Bundesgericht
+  - Ständerat
+  - Die Mitte
+  - Parlament
+gesetze_vorlagen:
+  - Steuerinitiative der Mitte
+  - Individualbesteuerung
+  - CVP-Initiative gegen die Heiratsstrafe
+these: >-
+  Der SRF-Beitrag meldet die Argumente des Bundesrats als Sachstand, verschweigt
+  die Verlierer der beschlossenen Reform und lässt die Initianten in ihrer
+  eigenen Abstimmung nicht zu Wort kommen.
+zusammenfassung: >-
+  Der Artikel kritisiert einen SRF-4-News-Beitrag zur Steuerinitiative der
+  Mitte, der das Kernargument der Finanzministerin als Fakt darstellt, obwohl
+  die Individualbesteuerung erst ab 2032 gilt. Der finanzielle Vergleich
+  zwischen Steuerausfällen der Initiative und der beschlossenen Reform sei
+  methodisch unbrauchbar, da eine Obergrenze mit einem Punktwert verglichen
+  werde. Zudem kämen die Initianten nicht zu Wort, und die Verlierer der
+  Individualbesteuerung würden verschwiegen.
+kritik_schwere: 3
 ---
 
 *Der Beitrag beginnt mit einem Satz in eigener Stimme: «Die Heiratsstrafe ist mit dem Ja des Stimmvolks zur Individualbesteuerung bereits Geschichte». Erst nach dem Doppelpunkt erfährt man, dass es sich um das «Kernargument» der Finanzministerin handelt. Die Vorannahme, die den Text trägt, lautet: beschlossen heisst erledigt. Die Zahl, die ihn trägt, ist ein Vergleich zwischen «bis zu drei Milliarden» und «rund 630 Millionen», den der Beitrag nicht prüft. Er verschweigt, wen die beschlossene Reform belastet, und er lässt die Initianten in ihrer eigenen Abstimmung nicht zu Wort kommen.*

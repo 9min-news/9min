@@ -5,45 +5,110 @@ status: published
 type: medienkritik
 coverImage: /images/medienkritik/die-begruendung-im-konjunktiv.webp
 tweetId: ''
-categories: []
-tags: []
+categories:
+  - SRF/SRG
+  - Demokratie
+  - Gesellschaft
+tags:
+  - Konjunktiv
+  - Weltwoche
+  - Leck
+  - Gesamtgericht
+  - Bundesgerichtsgesetz
+  - Parteikürzel
+  - Roger Köppel
+  - Gesamterneuerungswahl
 seo:
-  description: SRF verbindet die Nicht-Nomination von Bundesgerichtspräsident Chaix mit einer Affäre,
-    nennt aber keine Quelle dafür. Der Grund steht im Konjunktiv der Redaktion.
-kritisiertes_medium: Info 3
+  description: >-
+    SRF verbindet die Nicht-Nomination von Bundesgerichtspräsident Chaix mit
+    einer Affäre, nennt aber keine Quelle dafür. Der Grund steht im Konjunktiv
+    der Redaktion.
+kritisiertes_medium: SRF News
 kritisierter_beitrag: Bundesgerichtspräsident Chaix nicht mehr nominiert
-quelle_url: https://www.srf.ch/news/schweiz/unruhe-am-bundesgericht-bundesgerichtspraesident-chaix-nicht-mehr-nominiert
+quelle_url: >-
+  https://www.srf.ch/news/schweiz/unruhe-am-bundesgericht-bundesgerichtspraesident-chaix-nicht-mehr-nominiert
 quelle_datum: '2026-10-13'
 quelle_format: Online-Artikel
-quelle_sendung: Info 3
+quelle_sendung: ''
 quelle_redaktion: SRF News
 verfassung:
   gesamt: 2
   sachgerecht:
     stufe: 2
-    begruendung: Der Beitrag rahmt die Nicht-Nomination mit «Unruhe», «offenbar» und «deshalb» als Misstrauensvotum
-      infolge der Affäre und lässt weg, dass sich Chaix laut Keystone-SDA nicht explizit erneut zur Wahl
-      gestellt hatte. Das färbt den Gesamteindruck in einem Kernpunkt. Mildernd wirkt, dass die Deutung
-      mit «dürfte» als Vermutung markiert ist, die Erstquelle offen genannt und verlinkt wird und das
-      Gericht die Meldung bestätigt hat.
+    begruendung: >-
+      Der Beitrag rahmt die Nicht-Nomination mit «Unruhe», «offenbar» und
+      «deshalb» als Misstrauensvotum infolge der Affäre und lässt weg, dass sich
+      Chaix laut Keystone-SDA nicht explizit erneut zur Wahl gestellt hatte. Das
+      färbt den Gesamteindruck in einem Kernpunkt. Mildernd wirkt, dass die
+      Deutung mit «dürfte» als Vermutung markiert ist, die Erstquelle offen
+      genannt und verlinkt wird und das Gericht die Meldung bestätigt hat.
   vielfalt:
     stufe: 2
-    begruendung: Chaix kommt nicht zu Wort, und es fehlt ein Hinweis auf eine Anfrage bei ihm. Die SVP-Nähe
-      der «Weltwoche» als Urheberin beider Enthüllungen bleibt unmarkiert, und die Kritik an der Wahlverschiebung
-      erscheint ohne Absender. Wiedergegeben wird immerhin, dass Donzallaz eine dauerhafte Lebensgemeinschaft
-      öffentlich zurückgewiesen hat.
+    begruendung: >-
+      Chaix kommt nicht zu Wort, und es fehlt ein Hinweis auf eine Anfrage bei
+      ihm. Die SVP-Nähe der «Weltwoche» als Urheberin beider Enthüllungen bleibt
+      unmarkiert, und die Kritik an der Wahlverschiebung erscheint ohne
+      Absender. Wiedergegeben wird immerhin, dass Donzallaz eine dauerhafte
+      Lebensgemeinschaft öffentlich zurückgewiesen hat.
   meinungsbildung:
     stufe: 2
-    begruendung: 'Es fehlt die Einordnung, die ein eigenes Urteil erst ermöglicht: die Regeln zur Amtsdauer
-      des Präsidiums, Donzallaz'' SVP-Vergangenheit und seine Abwahlvorlage 2020, die Gesamterneuerungswahl
-      als Grund für das Gewicht des unveröffentlichten Berichts sowie der Vizepräsidentschaftsvorschlag
-      Parrino. Das Leck aus dem Gesamtgericht wird nur als Quellenangabe behandelt, nicht als Teil des
-      Vorgangs.'
+    begruendung: >-
+      Es fehlt die Einordnung, die ein eigenes Urteil erst ermöglicht: die
+      Regeln zur Amtsdauer des Präsidiums, Donzallaz' SVP-Vergangenheit und
+      seine Abwahlvorlage 2020, die Gesamterneuerungswahl als Grund für das
+      Gewicht des unveröffentlichten Berichts sowie der
+      Vizepräsidentschaftsvorschlag Parrino. Das Leck aus dem Gesamtgericht wird
+      nur als Quellenangabe behandelt, nicht als Teil des Vorgangs.
   ombudsstelle: möglich
-  satz: Der Beitrag stellt die Nicht-Nomination von Bundesgerichtspräsident Chaix als Folge der Richteraffäre
-    dar, ohne dafür eine Quelle zu nennen, Chaix anzuhören oder zu erwähnen, dass er sich laut Keystone-SDA
-    nicht explizit erneut zur Wahl gestellt hatte.
+  satz: >-
+    Der Beitrag stellt die Nicht-Nomination von Bundesgerichtspräsident Chaix
+    als Folge der Richteraffäre dar, ohne dafür eine Quelle zu nennen, Chaix
+    anzuhören oder zu erwähnen, dass er sich laut Keystone-SDA nicht explizit
+    erneut zur Wahl gestellt hatte.
   at: '2026-10-18'
+themen:
+  - Bundesgerichtspräsidentschaft
+  - Weltwoche als Erstquelle
+  - Affäre Donzallaz/Van de Graaf
+  - Parteipolitische Verflechtungen
+  - Untersuchungsbericht und Parlament
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Kontextmangel
+personen:
+  - François Chaix
+  - Yves Donzallaz
+  - Beatrice Van de Graaf
+  - Thomas Müller
+  - Francesco Parrino
+  - Roger Köppel
+institutionen:
+  - Bundesgericht
+  - Weltwoche
+  - Keystone-SDA
+  - Bundesversammlung
+  - SVP
+  - FDP
+  - Gesamtgericht
+gesetze_vorlagen:
+  - Bundesgerichtsgesetz
+these: >-
+  SRF verbindet im Konjunktiv eine Affäre mit der Nicht-Nomination eines
+  Bundesgerichtspräsidenten, ohne das Bindeglied zu belegen, und übernimmt damit
+  den Erzählbogen der Weltwoche ohne deren Interessenlage zu hinterfragen.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert einen SRF-Online-Beitrag, der die Nicht-Nomination
+  von Bundesgerichtspräsident Chaix als Nachbeben der
+  Donzallaz/Van-de-Graaf-Affäre rahmt, ohne eine Verbindung zu belegen.
+  Wesentliche Fakten fehlen: Chaix hatte sich laut Keystone-SDA nicht explizit
+  zur Wiederwahl gestellt, der Vizepräsidenten-Kandidat Parrino wird nicht
+  genannt, die SVP-Nähe der Weltwoche bleibt unmarkiert, und der nur dem
+  Parlament zugestellte Untersuchungsbericht wird nicht eingeordnet. Die einzige
+  Begründung für die Nicht-Nomination steht im Konjunktiv und stammt von der
+  Redaktion.
+kritik_schwere: 2
 ---
 
 *SRF erzählt zwei Vorgänge als einen. Die Dachzeile «Unruhe am Bundesgericht» und der Einstieg, das Gericht komme «auch ein halbes Jahr nach Bekanntwerden einer Liebesbeziehung nicht zur Ruhe», setzen den Rahmen, bevor der Name des Präsidenten fällt. Der zweite Satz macht daraus einen Befund: «Offenbar sind die Bundesrichterinnen und Bundesrichter mit dem Präsidium nicht mehr zufrieden.» Der dritte knüpft mit «deshalb» an. Belegt wird die Verbindung zwischen Affäre und Präsident nirgends. Sie wird im Konjunktiv hergestellt: Die Nicht-Nomination «dürfte mit den Vorgängen in den letzten Monaten zu tun haben». Weggelassen ist, dass sich François Chaix laut Keystone-SDA nicht explizit erneut zur Wahl gestellt hatte. Nicht verfolgt werden seine Rolle in der Affäre und der Weg, auf dem eine Empfehlung des Gesamtgerichts zuerst bei der «Weltwoche» landete.*

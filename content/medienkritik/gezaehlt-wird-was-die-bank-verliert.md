@@ -1,48 +1,117 @@
 ---
-title: Gezählt wird, was die Bank verliert
+title: 'Gezählt wird, was die Bank verliert'
 date: '2026-10-19'
 status: published
 type: medienkritik
 coverImage: /images/medienkritik/gezaehlt-wird-was-die-bank-verliert.webp
 tweetId: ''
-categories: []
-tags: []
+categories:
+  - SRF/SRG
+  - Wirtschaft
+  - Sicherheitspolitik
+tags:
+  - UBS
+  - Lex UBS
+  - Swissness
+  - Kapitalvorschriften
+  - Wegzugsdrohung
+  - Echo der Zeit
+  - Regulierung
+  - Asymmetrie
 seo:
-  description: 'Echo der Zeit rahmt die UBS-Regulierung als Kostenposten: Die Zahl stammt von der Bank,
-    Credit Suisse und Ständeratsentscheid fehlen im Beitrag.'
-kritisiertes_medium: Echo der Zeit
+  description: >-
+    Echo der Zeit rahmt die UBS-Regulierung als Kostenposten: Die Zahl stammt
+    von der Bank, Credit Suisse und Ständeratsentscheid fehlen im Beitrag.
+kritisiertes_medium: SRF
 kritisierter_beitrag: Swissness ist für die UBS kein Muss – (aber ein Plus)
-quelle_url: https://www.srf.ch/news/schweiz/spekulation-um-ubs-exit-swissness-ist-fuer-die-ubs-kein-muss-aber-ein-plus
+quelle_url: >-
+  https://www.srf.ch/news/schweiz/spekulation-um-ubs-exit-swissness-ist-fuer-die-ubs-kein-muss-aber-ein-plus
 quelle_datum: '2026-10-16'
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
-quelle_redaktion: SRF News
+quelle_redaktion: SRF Wirtschaftsredaktion
 verfassung:
   gesamt: 2
   sachgerecht:
     stufe: 2
-    begruendung: Die als Einschätzung gekennzeichnete Wertung ist zulässig, und die Attributionen zu WSJ
-      und UBS-Sprecher sind sauber. Die Kostenzahl von 2,5 Milliarden Dollar wird aber schon im Folgesatz
-      ohne Quelle zur Prämisse («Jahr für Jahr»), und die tieferen Gutachterschätzungen von rund 640 Millionen
-      bzw. 0,8 bis 1,3 Milliarden fehlen; die Infobox mit den Bleibebekenntnissen mildert den Befund nur
-      teilweise.
+    begruendung: >-
+      Die als Einschätzung gekennzeichnete Wertung ist zulässig, und die
+      Attributionen zu WSJ und UBS-Sprecher sind sauber. Die Kostenzahl von 2,5
+      Milliarden Dollar wird aber schon im Folgesatz ohne Quelle zur Prämisse
+      («Jahr für Jahr»), und die tieferen Gutachterschätzungen von rund 640
+      Millionen bzw. 0,8 bis 1,3 Milliarden fehlen; die Infobox mit den
+      Bleibebekenntnissen mildert den Befund nur teilweise.
   vielfalt:
     stufe: 2
-    begruendung: Einzige namentliche politische Stimme ist FDP-Nationalrat Walti, der lockern will, ohne
-      zu sagen, wie. Bundesrat, Ständeratsmehrheit und Befürworter der strengeren Linie kommen trotz angekündigtem
-      «Balanceakt» nicht vor, ebenso die Position, einen Wegzug notfalls hinzunehmen.
+    begruendung: >-
+      Einzige namentliche politische Stimme ist FDP-Nationalrat Walti, der
+      lockern will, ohne zu sagen, wie. Bundesrat, Ständeratsmehrheit und
+      Befürworter der strengeren Linie kommen trotz angekündigtem «Balanceakt»
+      nicht vor, ebenso die Position, einen Wegzug notfalls hinzunehmen.
   meinungsbildung:
     stufe: 2
-    begruendung: Der Zusammenbruch der Credit Suisse als Anlass der Vorlage fehlt, ebenso die Garantien
-      von 9 und bis zu 100 Milliarden Franken und die Zahlen des Ständeratsbeschlusses (90 statt 100 Prozent).
-      Ohne sie lässt sich das «zu streng» nicht prüfen; anerkannt bleibt die gewichtende Trennung von
+    begruendung: >-
+      Der Zusammenbruch der Credit Suisse als Anlass der Vorlage fehlt, ebenso
+      die Garantien von 9 und bis zu 100 Milliarden Franken und die Zahlen des
+      Ständeratsbeschlusses (90 statt 100 Prozent). Ohne sie lässt sich das «zu
+      streng» nicht prüfen; anerkannt bleibt die gewichtende Trennung von
       Vermögensverwaltung und Investmentbanking.
   ombudsstelle: möglich
-  satz: Der Kommentar rechnet die Regulierung nur als Kostenposten der Bank, beziffert von der Bank selbst,
-    und lässt den Credit-Suisse-Zusammenbruch als Anlass, die tieferen Gegenschätzungen und den Inhalt
-    des Ständeratsbeschlusses weg, sodass die Leser die Vorlage nur aus der Sicht des Regulierten beurteilen
-    können.
+  satz: >-
+    Der Kommentar rechnet die Regulierung nur als Kostenposten der Bank,
+    beziffert von der Bank selbst, und lässt den Credit-Suisse-Zusammenbruch als
+    Anlass, die tieferen Gegenschätzungen und den Inhalt des
+    Ständeratsbeschlusses weg, sodass die Leser die Vorlage nur aus der Sicht
+    des Regulierten beurteilen können.
   at: '2026-10-18'
+themen:
+  - UBS-Regulierung
+  - Kapitalvorschriften
+  - Wegzugsdrohung
+  - Credit Suisse-Zusammenbruch
+  - Standortdiskussion
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Asymmetrie
+  - Selektion
+personen:
+  - Beat Walti
+  - Sergio Ermotti
+  - Kelleher
+  - Oswald Grübel
+  - Aymo Brunetti
+institutionen:
+  - UBS
+  - SRF
+  - Echo der Zeit
+  - Ständerat
+  - Bundesrat
+  - Finanzdepartement
+  - Credit Suisse
+  - Wall Street Journal
+  - Morgan Stanley
+  - Autonomous
+  - watson.ch
+  - Nationalbank
+gesetze_vorlagen:
+  - Lex UBS
+these: >-
+  Der SRF-Beitrag rahmt die UBS-Regulierung als Kostenrechnung, deren Zahlen die
+  Bank selbst liefert, und lässt dabei den Anlass (CS-Zusammenbruch), die
+  staatlichen Garantien von 2023, das bereits entschräfte Ständeratsresultat und
+  die 15-jährige Vorgeschichte der Wegzugsdrohung weg.
+zusammenfassung: >-
+  Die 9min-Analyse kritisiert einen Echo-Zeit-Beitrag des SRF, der die
+  UBS-Wegzugsdrohung als Kostenrechnung darstellt, deren zentrale Zahl (2,5 Mrd.
+  Dollar) von der UBS selbst stammt und nicht geprüft wird. Der Beitrag
+  verschweigt den Zusammenbruch der Credit Suisse als Anlass der Vorlage, die 9
+  und 100 Milliarden Franken staatlicher Garantien von 2023, das bereits
+  entschräfte Ständeratsresultat (90% statt 100%) und die seit 2009 bekannte
+  Wegzugsdrohung. Dadurch entsteht eine Asymmetrie: Was gegen den Verbleib
+  spricht, trägt eine Zahl der Bank; was für die Regulierung spricht, gilt als
+  nicht quantifizierbar.
+kritik_schwere: 3
 ---
 
 *Der Beitrag fragt, ob die UBS die Schweiz braucht. Schon der Titel antwortet aus Sicht der Bank: «Swissness ist für die UBS kein Muss». Was die UBS umgekehrt die Schweiz kosten kann, ist nicht Gegenstand des Textes. Die Zahl, die das Argument trägt, stammt von der Bank selbst: «Die UBS beziffert die Kosten dafür auf 2.5 Milliarden Dollar». Einen Satz später geht das Geld bereits ohne Quellenangabe «Jahr für Jahr» vom Gewinn weg. Die Kosten der Regulierung sind damit beziffert, der Nutzen des Standorts dagegen «lässt sich auch nicht quantifizieren». Der Beitrag verschweigt vier Dinge: die deutlich tieferen Schätzungen der jährlichen Kosten, den Zusammenbruch der Credit Suisse als Anlass der Vorlage, die bereits erfolgte Abschwächung durch den Ständerat und die lange Vorgeschichte der Wegzugsdrohung.*

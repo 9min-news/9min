@@ -5,44 +5,109 @@ status: published
 type: medienkritik
 coverImage: /images/medienkritik/die-unruhe-ohne-adressat.webp
 tweetId: ''
-categories: []
-tags: []
+categories:
+  - SRF/SRG
+  - EU/Aussenpolitik
+  - Gesellschaft
+tags:
+  - Albanien
+  - Proteste
+  - SRF
+  - Framing
+  - Edi Rama
+  - Jared Kushner
+  - Sazan
+  - Luxusresort
 seo:
-  description: 'SRF meldet Albaniens Proteste als Ordnungsproblem: Gewalt hat Zahlen, das Resort auf Sazan
-    keinen Investor, und die Regierung erscheint in einem einzigen Satz.'
-kritisiertes_medium: Rendez-vous
+  description: >-
+    SRF meldet Albaniens Proteste als Ordnungsproblem: Gewalt hat Zahlen, das
+    Resort auf Sazan keinen Investor, und die Regierung erscheint in einem
+    einzigen Satz.
+kritisiertes_medium: SRF
 kritisierter_beitrag: Wieder schwere Ausschreitungen – wie weiter mit den Protesten?
-quelle_url: https://www.srf.ch/news/international/proteste-in-albanien-wieder-schwere-ausschreitungen-wie-weiter-mit-den-protesten
+quelle_url: >-
+  https://www.srf.ch/news/international/proteste-in-albanien-wieder-schwere-ausschreitungen-wie-weiter-mit-den-protesten
 quelle_datum: '2026-10-15'
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: Rendez-vous
 quelle_redaktion: SRF News
 verfassung:
   gesamt: 2
   sachgerecht:
     stufe: 2
-    begruendung: Die Gewaltbilanz von fast 100 verletzten Polizisten und über 100 Festnahmen steht ohne
-      Quelle, während die Molotowcocktails mit «Medienberichten zufolge» abgesichert sind, und verletzte
-      Demonstranten fehlen ganz. Der Satz, die Regierung zeige «keine Bereitschaft zum Dialog», blendet
-      Ramas Gesprächsangebot an die Flamingo-Bewegung aus; die korrekt gesetzten Einschränkungen und die
-      Abweichung Juni statt 30. Mai als Nebenpunkt mildern.
+    begruendung: >-
+      Die Gewaltbilanz von fast 100 verletzten Polizisten und über 100
+      Festnahmen steht ohne Quelle, während die Molotowcocktails mit
+      «Medienberichten zufolge» abgesichert sind, und verletzte Demonstranten
+      fehlen ganz. Der Satz, die Regierung zeige «keine Bereitschaft zum
+      Dialog», blendet Ramas Gesprächsangebot an die Flamingo-Bewegung aus; die
+      korrekt gesetzten Einschränkungen und die Abweichung Juni statt 30. Mai
+      als Nebenpunkt mildern.
   vielfalt:
     stufe: 2
-    begruendung: Drei Stimmen mit unterschiedlichen Strategien kommen zu Wort, doch zwei davon setzen
-      auf Wahlen, und die Studenten, laut Titel Anlass des Beitrags, sind nur mit einer Stimme vertreten.
-      Die Regierung erscheint in einem einzigen Satz ohne eigene Stimme, und von den zwei dominierenden
+    begruendung: >-
+      Drei Stimmen mit unterschiedlichen Strategien kommen zu Wort, doch zwei
+      davon setzen auf Wahlen, und die Studenten, laut Titel Anlass des
+      Beitrags, sind nur mit einer Stimme vertreten. Die Regierung erscheint in
+      einem einzigen Satz ohne eigene Stimme, und von den zwei dominierenden
       Männern wird nur Rama genannt, Berisha bleibt namenlos.
   meinungsbildung:
     stufe: 2
-    begruendung: 'Der Gegenstand des Protests bleibt gesichtslos: Das Sazan-Projekt hat weder Investor
-      (Kushner-Umfeld) noch Volumen, die erteilte Genehmigung der Regierung fehlt, und die Forderungen
-      der Studenten erscheinen nur als Schlagworte. Rahmung und Titelfrage richten das Problem an die
-      Bewegung statt an die Regierung; das Material zur Einordnung liegt nur in Infoboxen und Bildlegenden.'
+    begruendung: >-
+      Der Gegenstand des Protests bleibt gesichtslos: Das Sazan-Projekt hat
+      weder Investor (Kushner-Umfeld) noch Volumen, die erteilte Genehmigung der
+      Regierung fehlt, und die Forderungen der Studenten erscheinen nur als
+      Schlagworte. Rahmung und Titelfrage richten das Problem an die Bewegung
+      statt an die Regierung; das Material zur Einordnung liegt nur in Infoboxen
+      und Bildlegenden.
   ombudsstelle: möglich
-  satz: Der Beitrag rahmt den Protest gegen die Regierung Rama als Ordnungsproblem, beziffert die Gewalt
-    einseitig und ohne Quelle und lässt Investor, Genehmigung und den zweiten Mann des Zweiparteiensystems
-    weg, sodass die Leser die Gegenseite der Bewegung nicht kennen.
+  satz: >-
+    Der Beitrag rahmt den Protest gegen die Regierung Rama als Ordnungsproblem,
+    beziffert die Gewalt einseitig und ohne Quelle und lässt Investor,
+    Genehmigung und den zweiten Mann des Zweiparteiensystems weg, sodass die
+    Leser die Gegenseite der Bewegung nicht kennen.
   at: '2026-10-18'
+themen:
+  - Albanien-Proteste
+  - Medienframing von Protestbewegungen
+  - Regierungsverantwortung in der Berichterstattung
+  - Investoreninteressen und Politik
+  - Gewaltdarstellung und Asymmetrie
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Asymmetrie
+personen:
+  - Edi Rama
+  - Jared Kushner
+  - Donald Trump
+  - Marjana Koceku
+  - Sali Berisha
+  - Gregor
+  - Ardenisa
+institutionen:
+  - SRF
+  - Rendez-vous
+  - Sozialistische Partei (Albanien)
+  - Demokratische Partei (Albanien)
+  - USA
+  - Bildungsministerium (Albanien)
+gesetze_vorlagen: []
+these: >-
+  Der SRF-Beitrag rahmt die albanischen Proteste als Ordnungsproblem eines
+  Landes, das nicht zur Ruhe kommt, und lässt dabei die politischen und
+  wirtschaftlichen Verantwortungsträger – Regierung, Investor und Opposition –
+  gesichtslos oder ungenannt.
+zusammenfassung: >-
+  Die Analyse zeigt, dass der SRF-Beitrag wesentliche Kontexte auslässt: die
+  Verbindung des Luxusresorts zu Jared Kushner, die erteilte
+  Regierungsgenehmigung, den Stacheldraht als Auslöser und die Identität des
+  zweiten Mannes im Zweiparteiensystem (Sali Berisha). Die Gewaltbilanz ist
+  einseitig und ohne Herkunftsangabe, die Protestgründe bleiben in Stichworten
+  stecken, und die Auswahl der Stimmen erzeugt eine vorgetäuschte Uneinigkeit.
+  So entsteht ein Bild gestörter Ordnung statt herausgeforderter Macht.
+kritik_schwere: 3
 ---
 
 *«Albanien kommt nicht zur Ruhe»: Mit diesem Satz beginnt der Beitrag und setzt die Ruhe als Normalzustand, den Protest als Störung. Die Titelfrage «wie weiter mit den Protesten?» richtet sich an die Bewegung, nicht an die Regierung, gegen die sie demonstriert. Die einzige präzise Zahl im Beitrag ist eine Gewaltbilanz, die nur eine Seite kennt: «fast 100 Polizisten verletzt und mehr als 100 mutmassliche Randalierer festgenommen». Der Beitrag verschweigt, wer hinter dem Luxusresort auf Sazan steht. Die Forderungen der Studenten erscheinen nur als Schlagworte, und von den zwei Männern, die das Land laut Infobox seit Jahrzehnten dominieren, erhält nur einer einen Namen.*

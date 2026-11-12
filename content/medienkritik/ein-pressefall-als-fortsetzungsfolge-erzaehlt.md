@@ -1,18 +1,31 @@
 ---
-title: Ein Pressefall, als Fortsetzungsfolge erzählt
+title: 'Ein Pressefall, als Fortsetzungsfolge erzählt'
 date: '2026-10-19'
 status: published
 type: medienkritik
 coverImage: /images/medienkritik/ein-pressefall-als-fortsetzungsfolge-erzaehlt.webp
 tweetId: ''
-categories: []
-tags: []
+categories:
+  - SRF/SRG
+  - Medienrecht
+  - Zensur/Meinungsfreiheit
+tags:
+  - Bankgeheimnis
+  - Artikel 47 Bankengesetz
+  - Pressefreiheit
+  - Quellenschutz
+  - Personalisierung
+  - Vincenz-Affäre
+  - Lukas Hässig
+  - Framing
 seo:
-  description: SRF erzählt die Anklage gegen Lukas Hässig als Folge der Vincenz-Affäre. Das Bankgeheimnis
-    erscheint nur in einer Bildlegende, die Rechtsgrundlage fehlt.
-kritisiertes_medium: SRF 4 News
+  description: >-
+    SRF erzählt die Anklage gegen Lukas Hässig als Folge der Vincenz-Affäre. Das
+    Bankgeheimnis erscheint nur in einer Bildlegende, die Rechtsgrundlage fehlt.
+kritisiertes_medium: SRF
 kritisierter_beitrag: Zürcher Staatsanwaltschaft erhebt Klage gegen Vincenz-Aufdecker
-quelle_url: https://www.srf.ch/news/schweiz/rueckschlag-fuer-journalist-zuercher-staatsanwaltschaft-erhebt-klage-gegen-vincenz-aufdecker
+quelle_url: >-
+  https://www.srf.ch/news/schweiz/rueckschlag-fuer-journalist-zuercher-staatsanwaltschaft-erhebt-klage-gegen-vincenz-aufdecker
 quelle_datum: '2026-10-15'
 quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
@@ -21,26 +34,77 @@ verfassung:
   gesamt: 2
   sachgerecht:
     stufe: 2
-    begruendung: Der Text stellt die Anzeige als Klage Stockers über verletzte Privatsphäre dar und verschweigt
-      Art. 47 Bankengesetz sowie die Hehlerei-Analogie des Obergerichts. «Ohne Erfolg» suggeriert eine
-      Niederlage in der Sache, obwohl das Bundesgericht nicht eingetreten ist. Die Chronologie stimmt,
-      die Unschuldsvermutung gilt durchgehend, und die Bildlegende nennt den Tatvorwurf immerhin.
+    begruendung: >-
+      Der Text stellt die Anzeige als Klage Stockers über verletzte Privatsphäre
+      dar und verschweigt Art. 47 Bankengesetz sowie die Hehlerei-Analogie des
+      Obergerichts. «Ohne Erfolg» suggeriert eine Niederlage in der Sache,
+      obwohl das Bundesgericht nicht eingetreten ist. Die Chronologie stimmt,
+      die Unschuldsvermutung gilt durchgehend, und die Bildlegende nennt den
+      Tatvorwurf immerhin.
   vielfalt:
     stufe: 2
-    begruendung: Weder Hässig, dessen eigener Artikel als Quelle dient, noch die Staatsanwaltschaft oder
-      Stocker kommen mit einer Position zu Wort. Eine Stimme, die die Anklage aus Sicht der Pressefreiheit
-      einordnet, fehlt, während drei Absätze dem Vincenz-Prozess samt Spesen gelten.
+    begruendung: >-
+      Weder Hässig, dessen eigener Artikel als Quelle dient, noch die
+      Staatsanwaltschaft oder Stocker kommen mit einer Position zu Wort. Eine
+      Stimme, die die Anklage aus Sicht der Pressefreiheit einordnet, fehlt,
+      während drei Absätze dem Vincenz-Prozess samt Spesen gelten.
   meinungsbildung:
     stufe: 3
-    begruendung: Weil die Rechtsgrundlage, die Begründung des Obergerichts und der Bezug der Hausdurchsuchung
-      zum Quellenschutz fehlen, kann das Publikum die Tragweite der Anklage für die Pressefreiheit nicht
-      beurteilen. Der Rahmen als «Rückschlag» in der Vincenz-Affäre nimmt das Urteil vorweg. Die Konstellation,
-      dass ein erstinstanzlich Verurteilter den Aufdecker anzeigt, macht der Beitrag hingegen sichtbar.
+    begruendung: >-
+      Weil die Rechtsgrundlage, die Begründung des Obergerichts und der Bezug
+      der Hausdurchsuchung zum Quellenschutz fehlen, kann das Publikum die
+      Tragweite der Anklage für die Pressefreiheit nicht beurteilen. Der Rahmen
+      als «Rückschlag» in der Vincenz-Affäre nimmt das Urteil vorweg. Die
+      Konstellation, dass ein erstinstanzlich Verurteilter den Aufdecker
+      anzeigt, macht der Beitrag hingegen sichtbar.
   ombudsstelle: möglich
-  satz: Der Beitrag erzählt die Anklage gegen einen Journalisten wegen einer Publikation als Kapitel der
-    Vincenz-Affäre und verschweigt die Rechtsgrundlage, die Gerichtsbegründung und die Folgen für die
+  satz: >-
+    Der Beitrag erzählt die Anklage gegen einen Journalisten wegen einer
+    Publikation als Kapitel der Vincenz-Affäre und verschweigt die
+    Rechtsgrundlage, die Gerichtsbegründung und die Folgen für die
     Pressefreiheit.
   at: '2026-10-18'
+themen:
+  - Bankgeheimnis und Pressefreiheit
+  - Strafverfahren gegen Journalisten
+  - Berichterstattung über Justiz
+  - Quellenschutz
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Kontextmangel
+personen:
+  - Lukas Hässig
+  - Pierin Vincenz
+  - Stocker
+  - Irene Khan
+institutionen:
+  - SRF
+  - SRF 4 News
+  - Zürcher Staatsanwaltschaft
+  - Bundesgericht
+  - Zürcher Obergericht
+  - UNO
+  - Bank Julius Bär
+  - Inside Paradeplatz
+  - sda
+gesetze_vorlagen:
+  - Art. 47 Bankengesetz
+these: >-
+  SRF rahmt die Anklage gegen einen Journalisten wegen Verletzung des
+  Bankgeheimnisses als persönliche Episode der Vincenz-Affäre und verschweigt
+  die strukturelle Bedeutung für die Pressefreiheit.
+zusammenfassung: >-
+  Der 9min-Artikel analysiert einen SRF-Beitrag, der die Anklage gegen den
+  Journalisten Lukas Hässig wegen Verletzung des Bankgeheimnisses als
+  Fortsetzung der Vincenz-Affäre darstellt. SRF erwähnt die Rechtsgrundlage Art.
+  47 Bankengesetz nur in einer Bildlegende, lässt den Kontext der
+  Pressefreiheitsdebatte und den Quellenschutzaspekt der Hausdurchsuchung
+  vollständig aus. Die Kritik sieht darin eine Entpolitisierung durch
+  Personalisierung, bei der der Journalist zur Nebenfigur seiner eigenen
+  Geschichte wird.
+kritik_schwere: 3
 ---
 
 *SRF meldet die Anklage gegen einen Journalisten und erzählt sie als Episode eines Wirtschaftskrimis. Den Rahmen setzen Titel und Dachzeile: «Vincenz-Aufdecker» und «Rückschlag für Journalist» handeln vom Schicksal einer Person, nicht von einem Prinzip. Im Fliesstext erscheint der Fall als Streit zwischen zwei Männern, in dem Stocker «seine Privatsphäre verletzt sah». Der eigentliche Vorwurf, die Verletzung des Bankgeheimnisses, steht allein in einer Bildlegende. Der Beitrag verschweigt, dass seit 2015 schon das Weiterverbreiten geleakter Bankdaten strafbar ist, und er verschweigt, mit welcher Begründung ein Gericht die Einstellung des Verfahrens kippte. Rund die Hälfte des Textes gilt dem Vincenz-Prozess, die Rechtsgrundlage der Anklage gegen Hässig erhält keinen Satz.*

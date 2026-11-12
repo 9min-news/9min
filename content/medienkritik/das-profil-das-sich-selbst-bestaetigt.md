@@ -1,18 +1,30 @@
 ---
-title: Das Profil, das sich selbst bestätigt
+title: 'Das Profil, das sich selbst bestätigt'
 date: '2026-10-19'
 status: published
 type: medienkritik
 coverImage: /images/medienkritik/das-profil-das-sich-selbst-bestaetigt.webp
 tweetId: ''
-categories: []
-tags: []
+categories:
+  - SRF/SRG
+  - Demokratie
+tags:
+  - Bundesratskandidatur
+  - Céline Amaudruz
+  - SVP
+  - Parteilinie
+  - Framing
+  - Widmer-Schlumpf
+  - AKW
+  - Übergriffe
 seo:
-  description: 'SRF 4 News porträtiert Céline Amaudruz als Parteilinie: Übereinstimmung gilt als Erwartung,
-    Abweichung als Kuriosum, die erste SVP-Bundesrätin fehlt.'
+  description: >-
+    SRF 4 News porträtiert Céline Amaudruz als Parteilinie: Übereinstimmung gilt
+    als Erwartung, Abweichung als Kuriosum, die erste SVP-Bundesrätin fehlt.
 kritisiertes_medium: SRF 4 News
 kritisierter_beitrag: Diese Positionen vertritt Céline Amaudruz
-quelle_url: https://www.srf.ch/news/schweiz/nachfolge-von-parmelin-diese-positionen-vertritt-celine-amaudruz
+quelle_url: >-
+  https://www.srf.ch/news/schweiz/nachfolge-von-parmelin-diese-positionen-vertritt-celine-amaudruz
 quelle_datum: '2026-10-15'
 quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
@@ -21,32 +33,83 @@ verfassung:
   gesamt: 2
   sachgerecht:
     stufe: 2
-    begruendung: Die Bildlegende fragt, ob Amaudruz die erste SVP-Frau werde, die in den Bundesrat gewählt
-      wird. Das übergeht die Wahl der damaligen SVP-Politikerin Eveline Widmer-Schlumpf 2007; der Fehler
-      steht in einem Nebenelement, und die Abstimmungsbeispiele mit verlinkten Primärquellen und korrekter
-      Datierung bleiben zutreffend. Der Satz, Rösti würde sich «sicher freuen», ist eine Mutmassung im
-      Ton eines Befunds und rahmt die AKW-Haltung als Parteifreundschaft, obwohl sie der Linie des Bundesrats
+    begruendung: >-
+      Die Bildlegende fragt, ob Amaudruz die erste SVP-Frau werde, die in den
+      Bundesrat gewählt wird. Das übergeht die Wahl der damaligen
+      SVP-Politikerin Eveline Widmer-Schlumpf 2007; der Fehler steht in einem
+      Nebenelement, und die Abstimmungsbeispiele mit verlinkten Primärquellen
+      und korrekter Datierung bleiben zutreffend. Der Satz, Rösti würde sich
+      «sicher freuen», ist eine Mutmassung im Ton eines Befunds und rahmt die
+      AKW-Haltung als Parteifreundschaft, obwohl sie der Linie des Bundesrats
       entspricht.
   vielfalt:
     stufe: 1
-    begruendung: Die Kandidatin kommt nicht selbst zu Wort, die Kritiker bleiben anonym («in mehreren
-      Medien», «nicht ganz alle»), und die Abweichler-Kritik der Deutschschweizer SVP wird ohne Inhalt
-      referiert. Bei den Etiketten wird der Hotel-Mehrwertsteuersatz neutral erklärt, der Hülsenfrüchte-Zoll
-      dagegen als «protektionistisch» benotet; da es sich um keine Volkswahl handelt und die Abweichler-Kritik
-      immerhin erwähnt wird, wiegt dies wenig.
+    begruendung: >-
+      Die Kandidatin kommt nicht selbst zu Wort, die Kritiker bleiben anonym
+      («in mehreren Medien», «nicht ganz alle»), und die Abweichler-Kritik der
+      Deutschschweizer SVP wird ohne Inhalt referiert. Bei den Etiketten wird
+      der Hotel-Mehrwertsteuersatz neutral erklärt, der Hülsenfrüchte-Zoll
+      dagegen als «protektionistisch» benotet; da es sich um keine Volkswahl
+      handelt und die Abweichler-Kritik immerhin erwähnt wird, wiegt dies wenig.
   meinungsbildung:
     stufe: 2
-    begruendung: Die 95,9 Prozent Parteigeschlossenheit stehen ohne Fraktionsschnitt und Zeitraum, und
-      die gesellschaftspolitischen Abweichungen werden nicht benannt. Damit fehlt gerade die Information,
-      die eine Kandidatin von ihrer Fraktion unterscheidet. Auch das Spannungsverhältnis zwischen der
-      Zustimmung zu EFTA-Mercosur und der Zollforderung bleibt unverbunden, sodass der Rahmen «wenig überraschend»
-      das Urteil vorwegnimmt.
+    begruendung: >-
+      Die 95,9 Prozent Parteigeschlossenheit stehen ohne Fraktionsschnitt und
+      Zeitraum, und die gesellschaftspolitischen Abweichungen werden nicht
+      benannt. Damit fehlt gerade die Information, die eine Kandidatin von ihrer
+      Fraktion unterscheidet. Auch das Spannungsverhältnis zwischen der
+      Zustimmung zu EFTA-Mercosur und der Zollforderung bleibt unverbunden,
+      sodass der Rahmen «wenig überraschend» das Urteil vorwegnimmt.
   ombudsstelle: möglich
-  satz: Der Beitrag misst die Bundesratskandidatin an der Parteilinie, belegt Übereinstimmung mit einer
-    Zahl ohne Vergleichsmassstab, lässt ihre Abweichungen unbenannt und übergeht in der Bildlegende die
-    Wahl der SVP-Politikerin Widmer-Schlumpf 2007, womit das Publikum gerade das, was die Person von ihrer
-    Partei unterscheidet, nicht beurteilen kann.
+  satz: >-
+    Der Beitrag misst die Bundesratskandidatin an der Parteilinie, belegt
+    Übereinstimmung mit einer Zahl ohne Vergleichsmassstab, lässt ihre
+    Abweichungen unbenannt und übergeht in der Bildlegende die Wahl der
+    SVP-Politikerin Widmer-Schlumpf 2007, womit das Publikum gerade das, was die
+    Person von ihrer Partei unterscheidet, nicht beurteilen kann.
   at: '2026-10-18'
+themen:
+  - Bundesratswahl
+  - Politisches Profil
+  - Parteidisziplin
+  - Medienporträt
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Kontextmangel
+personen:
+  - Céline Amaudruz
+  - Eveline Widmer-Schlumpf
+  - Christoph Blocher
+  - Albert Rösti
+institutionen:
+  - SRF
+  - SVP
+  - Bundesrat
+  - Bundesversammlung
+  - BDP
+  - Ständerat
+  - EFTA
+  - Mercosur
+gesetze_vorlagen:
+  - Blackout-Initiative
+  - Freihandelsabkommen EFTA-Mercosur
+  - Afghaninnen-Vorlage
+  - Motion zu Hülsenfrüchten
+  - Mehrwertsteuersatz Hotels
+these: >-
+  SRF porträtiert eine Bundesratskandidatin, indem es sie an der erwarteten
+  Parteilinie misst und dabei genau das verschwinden lässt, was eine Person von
+  ihrer Partei unterscheidet.
+zusammenfassung: >-
+  9min.ch analysiert einen SRF-Beitrag über die SVP-Bundesratskandidatin Céline
+  Amaudruz. Der Beitrag messe die Kandidatin an der Parteilinie, registriere
+  Übereinstimmung als selbstverständlich und Abweichung als Kuriosum. Dabei
+  lasse er wesentliche Kontexte weg, darunter die erste SVP-Bundesrätin Eveline
+  Widmer-Schlumpf, den Bundesratsentscheid zum AKW-Neubauverbot und den
+  fehlenden Massstab für die genannte Fraktionsgeschlossenheit von 95,9 Prozent.
+kritik_schwere: 2
 ---
 
 *SRF porträtiert eine Bundesratskandidatin, indem es sie an ihrer Partei misst. Übereinstimmung wird als Erwartung verbucht: «wenig überraschend» habe Céline Amaudruz mit der SVP gestimmt, «stramm» für rechte Anliegen, beglaubigt durch eine Parteigeschlossenheit von «95.9 Prozent». Was nicht ins Raster passt, erscheint als Kuriosum. Ihre Aussage, im Parlament Opfer von Übergriffen geworden zu sein, ist «eine Aussage, die eher überrascht», ihre Motion klingt «leicht unkonventionell». Vor allem Politischen steht im Lead die Mutterschaft, über die «in mehreren Medien» geredet worden sei, ohne dass der Beitrag nennt, wer redet und mit welchem Argument. Verschwiegen wird, dass die SVP bereits eine Bundesrätin gestellt hat und dass Amaudruz' AKW-Haltung der Linie des Bundesrats entspricht.*

@@ -5,14 +5,26 @@ status: published
 type: medienkritik
 coverImage: /images/medienkritik/finanzierung-oder-anzahlung.webp
 tweetId: ''
-categories: []
-tags: []
+categories:
+  - Abstimmungen
+  - SRF/SRG
+tags:
+  - AHV
+  - Mehrwertsteuer
+  - 13. Rente
+  - Abstimmung 2026
+  - Kampagnensprache
+  - Auslassung
+  - Framing
+  - SGB
 seo:
-  description: SRF4 News übernimmt im Sachteil das Vokabular des Ja-Lagers und verschweigt, dass die Mehrwertsteuer
-    weniger als die Hälfte der 13. Rente deckt.
+  description: >-
+    SRF4 News übernimmt im Sachteil das Vokabular des Ja-Lagers und verschweigt,
+    dass die Mehrwertsteuer weniger als die Hälfte der 13. Rente deckt.
 kritisiertes_medium: SRF4 News
 kritisierter_beitrag: Allianz wirbt für höhere Mehrwertsteuer zur AHV-Finanzierung
-quelle_url: https://www.srf.ch/news/schweiz/altersvorsorge-allianz-wirbt-fuer-hoehere-mehrwertsteuer-zur-ahv-finanzierung
+quelle_url: >-
+  https://www.srf.ch/news/schweiz/altersvorsorge-allianz-wirbt-fuer-hoehere-mehrwertsteuer-zur-ahv-finanzierung
 quelle_datum: '2026-10-13'
 quelle_format: Online-Artikel
 quelle_sendung: SRF4 News
@@ -21,29 +33,83 @@ verfassung:
   gesamt: 3
   sachgerecht:
     stufe: 3
-    begruendung: Der Beitrag verschweigt, dass die 13. Rente bereits in der Verfassung steht und nicht
-      zur Abstimmung kommt. Er verschweigt auch, dass die 0,4 Prozentpunkte laut SGB und FDP weniger als
-      die Hälfte der Kosten decken, und übernimmt im Sachteil ohne Zuschreibung «moderat» sowie die Zweckangabe
-      «zu schonen» für den bestehenden reduzierten Satz. Korrekte Eckdaten, der saubere Konjunktiv in
-      den Zitatteilen und Bregys stehengelassenes Reserven-Eingeständnis mildern die Bewertung, ändern
-      aber den Gesamteindruck einer «Finanzierungslösung» nicht.
+    begruendung: >-
+      Der Beitrag verschweigt, dass die 13. Rente bereits in der Verfassung
+      steht und nicht zur Abstimmung kommt. Er verschweigt auch, dass die 0,4
+      Prozentpunkte laut SGB und FDP weniger als die Hälfte der Kosten decken,
+      und übernimmt im Sachteil ohne Zuschreibung «moderat» sowie die
+      Zweckangabe «zu schonen» für den bestehenden reduzierten Satz. Korrekte
+      Eckdaten, der saubere Konjunktiv in den Zitatteilen und Bregys
+      stehengelassenes Reserven-Eingeständnis mildern die Bewertung, ändern aber
+      den Gesamteindruck einer «Finanzierungslösung» nicht.
   vielfalt:
     stufe: 3
-    begruendung: Sechs Wochen vor der Abstimmung begründen drei Fürsprecher unter vier Zwischentiteln
-      ihre Position, während FDP und SVP einen einzigen Satz als blosse Steuerverweigerer erhalten. Maillards
-      Absichtsvorwurf bleibt ohne Stellungnahme der Beschuldigten, und die inhaltlichen Gegenargumente
-      wie Kaufkraft, KMU, Einkaufstourismus und Deckungslücke fehlen.
+    begruendung: >-
+      Sechs Wochen vor der Abstimmung begründen drei Fürsprecher unter vier
+      Zwischentiteln ihre Position, während FDP und SVP einen einzigen Satz als
+      blosse Steuerverweigerer erhalten. Maillards Absichtsvorwurf bleibt ohne
+      Stellungnahme der Beschuldigten, und die inhaltlichen Gegenargumente wie
+      Kaufkraft, KMU, Einkaufstourismus und Deckungslücke fehlen.
   meinungsbildung:
     stufe: 3
-    begruendung: Der Steuersatz steht auf eine Kommastelle genau da, Ertrag (rund 1,4 Mrd.) und Kosten
-      (über 4 Mrd.) fehlen ebenso wie die Zeitachse mit Auszahlung ab Dezember 2026 und Steuer frühestens
-      2028. Die Reduktion des Bundesratsantrags von 0,7 auf 0,4 Punkte bleibt unerwähnt, und Maillard
-      erscheint nicht als SGB-Präsident, dessen Organisation die Vorlage selbst für ungenügend hält.
+    begruendung: >-
+      Der Steuersatz steht auf eine Kommastelle genau da, Ertrag (rund 1,4 Mrd.)
+      und Kosten (über 4 Mrd.) fehlen ebenso wie die Zeitachse mit Auszahlung ab
+      Dezember 2026 und Steuer frühestens 2028. Die Reduktion des
+      Bundesratsantrags von 0,7 auf 0,4 Punkte bleibt unerwähnt, und Maillard
+      erscheint nicht als SGB-Präsident, dessen Organisation die Vorlage selbst
+      für ungenügend hält.
   ombudsstelle: aussichtsreich
-  satz: Der Beitrag übernimmt vor der Abstimmung Vokabular und Rahmen des Pro-Komitees in die Redaktionsstimme.
-    Er verschweigt, dass die 13. Rente nicht zur Abstimmung steht und die Steuer weniger als die Hälfte
-    ihrer Kosten deckt, und lässt die Gegner nur als Steuerverweigerer auftreten.
+  satz: >-
+    Der Beitrag übernimmt vor der Abstimmung Vokabular und Rahmen des
+    Pro-Komitees in die Redaktionsstimme. Er verschweigt, dass die 13. Rente
+    nicht zur Abstimmung steht und die Steuer weniger als die Hälfte ihrer
+    Kosten deckt, und lässt die Gegner nur als Steuerverweigerer auftreten.
   at: '2026-10-18'
+themen:
+  - AHV-Finanzierung
+  - Mehrwertsteuererhöhung
+  - 13. Rente
+  - Abstimmungskampf
+  - Kampagnensprache in Redaktionsstimme
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Selektion
+personen:
+  - Samira Marti
+  - Philipp Matthias Bregy
+  - Pierre-Yves Maillard
+  - Susanne Vincenz-Stauffacher
+institutionen:
+  - SRF
+  - SRF4 News
+  - Bundesrat
+  - Parlament
+  - Schweizerischer Gewerkschaftsbund
+  - FDP
+  - SVP
+  - Bundesamt für Sozialversicherungen
+  - Pro-Komitee
+gesetze_vorlagen:
+  - 13. Rente
+  - Mehrwertsteuererhöhung AHV-Finanzierung
+these: >-
+  Der SRF-Beitrag übernimmt die Kampagnensprache des Ja-Lagers in die
+  Redaktionsstimme und verschweigt, dass die 13. Rente bereits in der Verfassung
+  steht und die vorgesehene Mehrwertsteuererhöhung nur einen Bruchteil ihrer
+  Kosten deckt.
+zusammenfassung: >-
+  Der Artikel analysiert einen SRF4-News-Beitrag zur Medienkonferenz des
+  Ja-Lagers der AHV-Finanzierungsvorlage vom 29. November 2026. Er zeigt auf,
+  wie der Berietrag unmerklich von der korrekten Wiedergabe der
+  Kampagnenargumente in die Übernahme deren Vokabulars in der Redaktionsstimme
+  übergeht. Dabei verschweigt er wesentliche Fakten: Die 13. Rente steht bereits
+  in der Verfassung und wird vor Inkrafttreten der Steuer ausbezahlt, die 0,4
+  Prozentpunkte decken weniger als die Hälfte der Kosten, und die Gegner führen
+  inhaltliche Argumente, die der Beitrag nicht wiedergibt.
+kritik_schwere: 3
 ---
 
 *Der Beitrag gibt eine Medienkonferenz des Ja-Lagers wieder und wechselt im Sachteil unmerklich in dessen Vokabular. Bei Samira Marti steht die «moderate Erhöhung» noch in indirekter Rede. Wenige Absätze später schreibt die Redaktion selbst: «Dadurch würden Konsumgüter und Dienstleistungen moderat teurer.» Ohne Zuschreibung folgt, der reduzierte Satz gelte, «um die Kaufkraft der Bevölkerung und insbesondere tiefere Einkommen zu schonen». Der Beitrag verschweigt drei Dinge. Die 13. Rente steht bereits in der Verfassung und wird ausbezahlt, bevor die neue Steuer einen Franken einbringt. Die 0,4 Prozentpunkte decken nur einen Bruchteil ihrer Kosten, wie der Gewerkschaftsbund des Hauptredners selbst festhält. Und die Gegner haben mehr zu sagen als «Nein».*

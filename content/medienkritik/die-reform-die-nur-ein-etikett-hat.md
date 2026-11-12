@@ -1,49 +1,121 @@
 ---
-title: Die Reform, die nur ein Etikett hat
+title: 'Die Reform, die nur ein Etikett hat'
 date: '2026-10-19'
 status: published
 type: medienkritik
 coverImage: /images/medienkritik/die-reform-die-nur-ein-etikett-hat.webp
 tweetId: ''
-categories: []
-tags: []
+categories:
+  - SRF/SRG
+  - Medienrecht
+  - EU/Aussenpolitik
+tags:
+  - Israel
+  - Medienreform
+  - KAN
+  - SRF
+  - Tagesschau
+  - Populismus
+  - Quellenprüfung
+  - Gerichtsstopp
 seo:
-  description: SRF rahmt Israels Medienreform als Populismus-Muster, bevor der Beitrag ein einziges Gesetzesdetail
-    nennt. Der Gerichtsstopp wird zudem verkürzt dargestellt.
-kritisiertes_medium: Tagesschau
+  description: >-
+    SRF rahmt Israels Medienreform als Populismus-Muster, bevor der Beitrag ein
+    einziges Gesetzesdetail nennt. Der Gerichtsstopp wird zudem verkürzt
+    dargestellt.
+kritisiertes_medium: SRF Tagesschau
 kritisierter_beitrag: 'Israelische Medienexpertin: «So gehen Populisten mit Medien um»'
-quelle_url: https://www.srf.ch/news/international/nahost/umstrittene-medienreform-israelische-medienexpertin-so-gehen-populisten-mit-medien-um
+quelle_url: >-
+  https://www.srf.ch/news/international/nahost/umstrittene-medienreform-israelische-medienexpertin-so-gehen-populisten-mit-medien-um
 quelle_datum: '2026-10-17'
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: Tagesschau
 quelle_redaktion: SRF News
 verfassung:
   gesamt: 3
   sachgerecht:
     stufe: 3
-    begruendung: Titel, Bildlegende und Schluss melden die Reform als «gerichtlich gestoppt», obwohl Richter
-      Grosskopf nur die sofort wirksamen Bestimmungen einfror und die Aussetzung des ganzen Gesetzes ablehnte.
-      Zudem bleibt der Inhalt des Gesetzes, etwa das vom Ministerium präsidierte Findungsgremium, unbeschrieben,
-      und die Hauptquelle tritt ohne Hinweis auf ihre Rolle als Verfasserin des KAN-Ethikkodex auf. Die
-      korrekte Attribuierung der Stimmen und der zutreffende Hinweis auf das Fehlen einer Verfassung mildern
-      die Bewertung.
+    begruendung: >-
+      Titel, Bildlegende und Schluss melden die Reform als «gerichtlich
+      gestoppt», obwohl Richter Grosskopf nur die sofort wirksamen Bestimmungen
+      einfror und die Aussetzung des ganzen Gesetzes ablehnte. Zudem bleibt der
+      Inhalt des Gesetzes, etwa das vom Ministerium präsidierte Findungsgremium,
+      unbeschrieben, und die Hauptquelle tritt ohne Hinweis auf ihre Rolle als
+      Verfasserin des KAN-Ethikkodex auf. Die korrekte Attribuierung der Stimmen
+      und der zutreffende Hinweis auf das Fehlen einer Verfassung mildern die
+      Bewertung.
   vielfalt:
     stufe: 2
-    begruendung: Almog und Shwartz Altshuler sprechen direkt, die Regierungsseite erscheint nur als referierter
-      Vorwurf Karhis ohne Zitat und ohne Begründung, obwohl seine Argumente zu Monopolen und Deregulierung
-      öffentlich vorlagen. Minister und Vorwurf werden immerhin namentlich und inhaltlich genannt, und
-      Almogs Eigeninteresse ist erkennbar.
+    begruendung: >-
+      Almog und Shwartz Altshuler sprechen direkt, die Regierungsseite erscheint
+      nur als referierter Vorwurf Karhis ohne Zitat und ohne Begründung, obwohl
+      seine Argumente zu Monopolen und Deregulierung öffentlich vorlagen.
+      Minister und Vorwurf werden immerhin namentlich und inhaltlich genannt,
+      und Almogs Eigeninteresse ist erkennbar.
   meinungsbildung:
     stufe: 3
-    begruendung: Der Titel liefert mit «So gehen Populisten mit Medien um» das Urteil, bevor der Text
-      eine einzige Gesetzesbestimmung nennt. Die Wahl zehn Tage nach der Sendung, der Ausgang der Justizreform
-      mit dem Urteil von 8 zu 7 und Karhis Weigerung gegenüber dem Gericht fehlen, sodass der Leser die
+    begruendung: >-
+      Der Titel liefert mit «So gehen Populisten mit Medien um» das Urteil,
+      bevor der Text eine einzige Gesetzesbestimmung nennt. Die Wahl zehn Tage
+      nach der Sendung, der Ausgang der Justizreform mit dem Urteil von 8 zu 7
+      und Karhis Weigerung gegenüber dem Gericht fehlen, sodass der Leser die
       Einordnung übernehmen, aber nicht prüfen kann.
   ombudsstelle: möglich
-  satz: Der Beitrag übernimmt das Urteil einer nicht als beteiligt gekennzeichneten Expertin, beschreibt
-    das Gesetz selbst nicht, lässt die Regierung nur referiert zu Wort kommen und meldet einen Gerichtsstopp
-    des ganzen Gesetzes, wo nur ein Teil eingefroren wurde.
+  satz: >-
+    Der Beitrag übernimmt das Urteil einer nicht als beteiligt gekennzeichneten
+    Expertin, beschreibt das Gesetz selbst nicht, lässt die Regierung nur
+    referiert zu Wort kommen und meldet einen Gerichtsstopp des ganzen Gesetzes,
+    wo nur ein Teil eingefroren wurde.
   at: '2026-10-19'
+themen:
+  - Medienreform Israel
+  - Regierungskontrolle Medien
+  - Justizreform Israel
+  - Berichterstattung Nahost
+  - Quellenprüfung
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Interessenkonflikt
+personen:
+  - Tamar Almog
+  - Shlomo Karhi
+  - Tehilla Shwartz Altshuler
+  - David Bitan
+  - Ofer Grosskopf
+  - Gali Baharav-Miara
+  - Benjamin Netanyahu
+institutionen:
+  - SRF
+  - KAN
+  - Knesset
+  - Israel Democracy Institute
+  - Second Authority for Television and Radio
+  - Oberste Gericht Israel
+  - Kommunikationsministerium Israel
+  - Likud
+  - Journalistenverband
+  - Presserat
+  - Kanal 12
+  - Kanal 13
+  - Kanal 14
+gesetze_vorlagen:
+  - Israelische Medienreform 2026
+  - Israelische Justizreform
+these: >-
+  Der SRF-Beitrag rahmt die israelische Medienreform als populistischen Angriff,
+  ohne das Gesetz inhaltlich zu beschreiben und ohne die Beteiligung seiner
+  Hauptquelle offenzulegen.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert, dass der SRF-Beitrag zur israelischen
+  Medienreform das Urteil («So gehen Populisten mit Medien um») vor die
+  Sachdarstellung stellt, die konkreten Gesetzesbestimmungen aber nicht nennt.
+  Die Hauptquelle Shwartz Altshuler wird als neutrale Expertin präsentiert,
+  obwohl sie den Ethikkodex von KAN verfasst hat und vor dem Knesset-Ausschuss
+  aussagte. Zudem werde der Gerichtsstopp unpräzis als «gestoppt» bezeichnet und
+  die zehn Tage nach der Sendung stattfindende Wahl verschwiegen.
+kritik_schwere: 3
 ---
 
 *Der Titel liefert das Urteil, bevor der Text den Gegenstand liefert: «So gehen Populisten mit Medien um». Das Gesetz selbst erscheint in einem einzigen Satz als Paket, «das die Medienaufsicht und die Regulierung des Rundfunks neu ordnen soll». Den Rahmen bildet die Eskalationskette der Expertin: Zuerst gerieten die Gerichte unter Druck, dann andere Kontrollinstanzen, «schliesslich die Medien». Die einzige Mengenangabe, die «Hunderttausende» auf der Strasse, gehört zur Justizreform und verleiht der Medienreform ein Gewicht, das der Beitrag nie beschreibt. Verschwiegen werden der Inhalt des Gesetzes, die Begründung der Regierung, die Rolle der Hauptquelle, der tatsächliche Umfang des Gerichtsstopps und die Wahl, die zehn Tage nach der Sendung stattfindet.*

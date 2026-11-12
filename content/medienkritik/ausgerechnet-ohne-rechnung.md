@@ -1,18 +1,32 @@
 ---
-title: Ausgerechnet, ohne Rechnung
+title: 'Ausgerechnet, ohne Rechnung'
 date: '2026-10-19'
 status: published
 type: medienkritik
 coverImage: /images/medienkritik/ausgerechnet-ohne-rechnung.webp
 tweetId: ''
-categories: []
-tags: []
+categories:
+  - SRF/SRG
+  - EU/Aussenpolitik
+  - Sicherheitspolitik
+tags:
+  - Schluss ohne Prämissen
+  - Auslassung
+  - Lukoil
+  - Raffinerie Burgas
+  - Radew
+  - Diesel-Lizenz
+  - Sanktionsregime
+  - Schiffsnamen
 seo:
-  description: SRF meldet Radews Schlüsse korrekt zugeschrieben, lässt aber Lukoil-Raffinerie, Schiffsherkunft
-    und den ersten Angriff weg. Die Grundlagen der Haltung fehlen.
-kritisiertes_medium: Rendez-vous
+  description: >-
+    SRF meldet Radews Schlüsse korrekt zugeschrieben, lässt aber
+    Lukoil-Raffinerie, Schiffsherkunft und den ersten Angriff weg. Die
+    Grundlagen der Haltung fehlen.
+kritisiertes_medium: SRF News
 kritisierter_beitrag: EU-Chefs wollen Angriffe auf Schiffe vor Bulgarien verurteilen
-quelle_url: https://www.srf.ch/news/international/eu-gipfel-in-bruessel-eu-chefs-wollen-angriffe-auf-schiffe-vor-bulgarien-verurteilen
+quelle_url: >-
+  https://www.srf.ch/news/international/eu-gipfel-in-bruessel-eu-chefs-wollen-angriffe-auf-schiffe-vor-bulgarien-verurteilen
 quelle_datum: '2026-10-15'
 quelle_format: Online-Artikel
 quelle_sendung: Rendez-vous
@@ -21,29 +35,78 @@ verfassung:
   gesamt: 2
   sachgerecht:
     stufe: 2
-    begruendung: Zuschreibungen und Vorbehalte sind sauber gesetzt, doch der Beitrag verschweigt, dass
-      die Chelsea-3 ein ukrainisches Schiff mit ukrainischer Besatzung ist, und stellt ohne Zuschreibung
-      fest, die Sanktionen seien von EU und USA «gleichermassen» getragen worden, obwohl russische Gasverträge
-      der EU nach Verordnung 2026/261 weiterlaufen. Der frühere Angriff vom 6. Oktober mit der Alfa Watan
-      fehlt, ebenso die Herkunft der vermissten Seeleute der HS Dignity.
+    begruendung: >-
+      Zuschreibungen und Vorbehalte sind sauber gesetzt, doch der Beitrag
+      verschweigt, dass die Chelsea-3 ein ukrainisches Schiff mit ukrainischer
+      Besatzung ist, und stellt ohne Zuschreibung fest, die Sanktionen seien von
+      EU und USA «gleichermassen» getragen worden, obwohl russische Gasverträge
+      der EU nach Verordnung 2026/261 weiterlaufen. Der frühere Angriff vom 6.
+      Oktober mit der Alfa Watan fehlt, ebenso die Herkunft der vermissten
+      Seeleute der HS Dignity.
   vielfalt:
     stufe: 1
-    begruendung: Merz, Kallas und mit Radew ein offen widersprechender Regierungschef kommen zu Wort,
-      was die Kritik ausdrücklich anerkennt. Die russische Botschafterin erscheint nur als Adressatin,
-      ihre Antwort, sie habe keine Informationen und schliesse eine Provokation durch Dritte nicht aus,
-      wird nicht wiedergegeben.
+    begruendung: >-
+      Merz, Kallas und mit Radew ein offen widersprechender Regierungschef
+      kommen zu Wort, was die Kritik ausdrücklich anerkennt. Die russische
+      Botschafterin erscheint nur als Adressatin, ihre Antwort, sie habe keine
+      Informationen und schliesse eine Provokation durch Dritte nicht aus, wird
+      nicht wiedergegeben.
   meinungsbildung:
     stufe: 2
-    begruendung: 'Radews Schlüsse erscheinen ohne Prämissen: «schlicht keinen Sinn» ohne das ukrainische
-      Schiff, das «ausgerechnet» ohne die Lukoil-Raffinerie in Burgas und deren Ausnahmelizenzen, die
-      am 29. Oktober 2026 auslaufen. Zudem bleiben Datum, Mengen und Laufzeit der Diesel-Lizenz sowie
-      der Inhalt der verschärften Gipfelformulierung offen, und der Schlusssatz über steigende Preise
-      nennt keine Ursache.'
+    begruendung: >-
+      Radews Schlüsse erscheinen ohne Prämissen: «schlicht keinen Sinn» ohne das
+      ukrainische Schiff, das «ausgerechnet» ohne die Lukoil-Raffinerie in
+      Burgas und deren Ausnahmelizenzen, die am 29. Oktober 2026 auslaufen.
+      Zudem bleiben Datum, Mengen und Laufzeit der Diesel-Lizenz sowie der
+      Inhalt der verschärften Gipfelformulierung offen, und der Schlusssatz über
+      steigende Preise nennt keine Ursache.
   ombudsstelle: möglich
-  satz: 'Der Beitrag gibt die Schlussfolgerungen des bulgarischen Premiers korrekt zugeschrieben wieder,
-    lässt aber die Fakten weg, an denen das Publikum sie prüfen könnte: das ukrainische Schiff, die russisch
-    beherrschte Raffinerie Bulgariens und die weiterlaufenden russischen Gasverträge der EU.'
+  satz: >-
+    Der Beitrag gibt die Schlussfolgerungen des bulgarischen Premiers korrekt
+    zugeschrieben wieder, lässt aber die Fakten weg, an denen das Publikum sie
+    prüfen könnte: das ukrainische Schiff, die russisch beherrschte Raffinerie
+    Bulgariens und die weiterlaufenden russischen Gasverträge der EU.
   at: '2026-10-18'
+themen:
+  - EU-Gipfel Brüssel
+  - Angriffe auf Schiffe vor Bulgarien
+  - Russische Ölsanktionen
+  - Diesel-Einigung USA-Russland
+  - Medienberichterstattung Gipfel
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Kontextmangel
+  - Framing
+personen:
+  - Rumen Radew
+  - Eleonora Mitrofanowa
+  - Kallas
+  - Trump
+institutionen:
+  - SRF
+  - EU
+  - Lukoil
+  - Litasco
+  - US-Finanzministerium
+  - Russische Botschaft in Bulgarien
+  - Rendez-vous
+gesetze_vorlagen:
+  - General License 135
+  - Verordnung 2026/261
+these: >-
+  Der SRF-Beitrag gibt die Schlussfolgerungen seiner Quellen korrekt
+  zugeschrieben wieder, lässt aber die Prämissen weg, die diese Schlüsse für das
+  Publikum prüfbar machen würden.
+zusammenfassung: >-
+  Der 9min-Artikel analysiert einen SRF-Beitrag zum EU-Gipfel über Angriffe auf
+  Schiffe vor Bulgarien. Er zeigt, dass der SRF die Schlussfolgerungen des
+  bulgarischen Premiers Radew formal korrekt zuschreibt, aber die
+  zugrundeliegenden Fakten weglässt: die ukrainische Herkunft eines Schiffs, die
+  russische Eigentümerschaft der einzigen bulgarischen Raffinerie, Details der
+  US-Diesel-Lizenz und die EU-eigenen russischen Gasverträge. Das Muster wird
+  als «Schluss ohne Prämissen» beschrieben.
+kritik_schwere: 2
 ---
 
 *Der Beitrag gibt die Schlüsse seiner Quellen weiter, aber nicht deren Grundlagen. Der bulgarische Premier Rumen Radew hält eine ukrainische Täterschaft für sinnlos. SRF übernimmt den Satz, ohne zu sagen, wem die getroffenen Schiffe gehören und wer an Bord war. Am Ende steht ein Konzessivsatz mit einem «ausgerechnet»: Ausgerechnet Radew lehnt Angriffe auf russische Ölinfrastruktur ab und begrüsst die amerikanisch-russische Diesel-Einigung. Was diesen Satz erklären würde, steht nicht im Text: Die einzige Raffinerie Bulgariens gehört mehrheitlich Lukoil, und ihre Ausnahmelizenzen laufen zwei Wochen nach dem Gipfel aus. Ebenso unerwähnt bleiben das ukrainische Schiff unter maltesischer Flagge, der Angriff vom 6. Oktober und die eigenen russischen Energieverträge der EU, die das Wort «gleichermassen» relativieren.*

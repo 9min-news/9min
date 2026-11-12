@@ -5,45 +5,101 @@ status: published
 type: medienkritik
 coverImage: /images/medienkritik/die-milliarden-ohne-szenario.webp
 tweetId: ''
-categories: []
-tags: []
+categories:
+  - SRF/SRG
+  - Klima/Energie
+  - Wirtschaft
+tags:
+  - Klimawandel
+  - Szenarien
+  - Wintersport
+  - Hitzebelastung
+  - Wasserkraft
+  - Gletscherschmelze
+  - Bafu
+  - Anpassungskosten
 seo:
-  description: SRF beziffert die Klimakosten am Wintersport, nennt aber Hitze und Trockenheit als Kernrisiken.
-    Die Szenarien der Studie bleiben ohne Zuordnung der Zahlen.
-kritisiertes_medium: Rendez-vous
+  description: >-
+    SRF beziffert die Klimakosten am Wintersport, nennt aber Hitze und
+    Trockenheit als Kernrisiken. Die Szenarien der Studie bleiben ohne Zuordnung
+    der Zahlen.
+kritisiertes_medium: SRF
 kritisierter_beitrag: Der Klimawandel kostet Milliarden – für Wintersport wirds teuer
-quelle_url: https://www.srf.ch/news/schweiz/klimakosten-bis-2060-der-klimawandel-kostet-milliarden-fuer-wintersport-wirds-teuer
+quelle_url: >-
+  https://www.srf.ch/news/schweiz/klimakosten-bis-2060-der-klimawandel-kostet-milliarden-fuer-wintersport-wirds-teuer
 quelle_datum: '2026-10-14'
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: Rendez-vous
 quelle_redaktion: SRF News
 verfassung:
   gesamt: 2
   sachgerecht:
     stufe: 2
-    begruendung: Der einzige Frankenbetrag, «über zwei Milliarden» jährlich für den Wintertourismus, steht
-      ohne Szenario und in doppeldeutiger Zeitangabe. Die von Bucher als relevantestes Risiko genannte
-      Hitzebelastung bleibt im Text unbeziffert, ebenso Starkniederschläge sowie Sturm und Hagel. Gemildert
-      wird das durch die offen ausgewiesenen Grenzen der Studie (nicht alle Risiken, keine Wechselwirkungen,
-      Gesamtkosten «wohl deutlich höher») und die zurückhaltende Darstellung der Wasserkraft.
+    begruendung: >-
+      Der einzige Frankenbetrag, «über zwei Milliarden» jährlich für den
+      Wintertourismus, steht ohne Szenario und in doppeldeutiger Zeitangabe. Die
+      von Bucher als relevantestes Risiko genannte Hitzebelastung bleibt im Text
+      unbeziffert, ebenso Starkniederschläge sowie Sturm und Hagel. Gemildert
+      wird das durch die offen ausgewiesenen Grenzen der Studie (nicht alle
+      Risiken, keine Wechselwirkungen, Gesamtkosten «wohl deutlich höher») und
+      die zurückhaltende Darstellung der Wasserkraft.
   vielfalt:
     stufe: 1
-    begruendung: Einzige Stimme ist Raphael Bucher vom Bafu, also der Auftraggeber der Studie. Die Autoren
-      der Studie bleiben ohne Namen und Institut, das Urteil «Grosse Überraschungen birgt die neue Studie
-      nicht» bleibt ohne Absender. Für die Meldung einer Studie ausserhalb eines Abstimmungskontexts ist
-      das ein Mangel in einem Nebenpunkt.
+    begruendung: >-
+      Einzige Stimme ist Raphael Bucher vom Bafu, also der Auftraggeber der
+      Studie. Die Autoren der Studie bleiben ohne Namen und Institut, das Urteil
+      «Grosse Überraschungen birgt die neue Studie nicht» bleibt ohne Absender.
+      Für die Meldung einer Studie ausserhalb eines Abstimmungskontexts ist das
+      ein Mangel in einem Nebenpunkt.
   meinungsbildung:
     stufe: 2
-    begruendung: Die drei Szenarien werden eingeführt, danach wird kein Resultat einem Szenario zugeordnet.
-      Damit fehlt die Differenz zwischen Klimaschutz und ungebremster Erwärmung, und der Schluss reduziert
-      die Studie auf die Frage der Anpassung. Den zwei Milliarden fehlt ein Massstab, und die bedingte
-      Entwarnung für die Landwirtschaft («unter der Voraussetzung, dass wir genügend Wasser haben») wird
-      nicht mit den im selben Text genannten häufigeren Sommertrockenperioden verbunden.
+    begruendung: >-
+      Die drei Szenarien werden eingeführt, danach wird kein Resultat einem
+      Szenario zugeordnet. Damit fehlt die Differenz zwischen Klimaschutz und
+      ungebremster Erwärmung, und der Schluss reduziert die Studie auf die Frage
+      der Anpassung. Den zwei Milliarden fehlt ein Massstab, und die bedingte
+      Entwarnung für die Landwirtschaft («unter der Voraussetzung, dass wir
+      genügend Wasser haben») wird nicht mit den im selben Text genannten
+      häufigeren Sommertrockenperioden verbunden.
   ombudsstelle: unwahrscheinlich
-  satz: Der Beitrag referiert eine Szenario-Studie, ohne ihre Resultate den Szenarien zuzuordnen, beziffert
-    nur den Wintersport statt der als relevantestes Risiko genannten Hitze und lässt so offen, was der
-    Verzicht auf Klimaschutz kostet.
+  satz: >-
+    Der Beitrag referiert eine Szenario-Studie, ohne ihre Resultate den
+    Szenarien zuzuordnen, beziffert nur den Wintersport statt der als
+    relevantestes Risiko genannten Hitze und lässt so offen, was der Verzicht
+    auf Klimaschutz kostet.
   at: '2026-10-18'
+themen:
+  - Klimakosten-Studie Bafu
+  - Szenario-basierte Berichterstattung
+  - Wintersport vs. Hitzebelastung
+  - Wassernutzungskonflikt
+  - Gletscherschmelze und Wasserkraft
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Selektion
+personen:
+  - Raphael Bucher
+institutionen:
+  - SRF
+  - Bundesamt für Umwelt
+  - Bafu
+  - Glamos
+gesetze_vorlagen: []
+these: >-
+  Der SRF-Beitrag rahmt eine Szenario-Studie als Anpassungs-Ratgeber um, gibt
+  nur dem Wintersport einen Frankenbetrag und lässt den Preis des Klimaschutzes
+  verschwinden, obwohl die eigene Quelle Hitzebelastung als relevantestes Risiko
+  nennt.
+zusammenfassung: >-
+  9min.ch analysiert einen SRF-Rendez-vous-Beitrag zu einer
+  Bafu-Klimakostenstudie bis 2060. Der Beitrag stelle die drei Szenarien vor,
+  ordne aber keine Zahl einem Szenario zu und fokussiere sich einseitig auf
+  Wintersportkosten, während Hitzebelastung als relevantestes Risiko genannt,
+  aber nicht beziffert werde. Der Nutzungskonflikt um Wasser zwischen
+  Landwirtschaft und Wasserkraft sowie die Gletscherschmelze blieben unerzählt.
+kritik_schwere: 3
 ---
 
 *Titel und einziger Zwischentitel mit Zahl setzen den Wintersport ins Zentrum: «für Wintersport wirds teuer», «Milliardenschäden im Wintersport». Der einzige Gesprächspartner des Beitrags, Raphael Bucher, Leiter Klimapolitik beim Bundesamt für Umwelt, nennt jedoch andere Risiken als die relevantesten: «Das sind vor allem Hitzebelastung und Trockenheit.» Die Studie ist um drei Szenarien gebaut, von konsequentem Klimaschutz bis zu praktisch ungebremster Erwärmung. Der Beitrag stellt sie im zweiten Satz vor und ordnet danach kein einziges Resultat einem Szenario zu. Der einzige Frankenbetrag, «über zwei Milliarden» jährlich, steht ohne Szenario und ohne Massstab. Verloren gehen dabei drei Dinge: der Preis der Hitze, der Preis des Nicht-Handelns und die Frage, ob die Entwarnungen für Landwirtschaft und Wasserkraft am selben knapper werdenden Wasser hängen.*

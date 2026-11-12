@@ -5,14 +5,28 @@ status: published
 type: medienkritik
 coverImage: /images/medienkritik/die-genaueste-zahl-steht-unter-dem-symbolbild.webp
 tweetId: ''
-categories: []
-tags: []
+categories:
+  - SRF/SRG
+  - Gesellschaft
+  - Demokratie
+tags:
+  - Kinderarmut
+  - Armutsgefährdung
+  - Statistik
+  - Framing
+  - SRF
+  - Verbandsmeldung
+  - Ombudsstelle
+  - Bundesrat
 seo:
-  description: SRF stellt das weiteste Mass der Kinderarmut in den Titel, das engste in die Bildlegende,
-    definiert keines und übernimmt die Verbandsmitteilung als Lagebericht.
-kritisiertes_medium: SRF 4 News
+  description: >-
+    SRF stellt das weiteste Mass der Kinderarmut in den Titel, das engste in die
+    Bildlegende, definiert keines und übernimmt die Verbandsmitteilung als
+    Lagebericht.
+kritisiertes_medium: SRF
 kritisierter_beitrag: Fast jedes fünfte Kind ist in der Schweiz armutsgefährdet
-quelle_url: https://www.srf.ch/news/schweiz/netzwerk-kinderrechte-schweiz-fast-jedes-fuenfte-kind-ist-in-der-schweiz-armutsgefaehrdet
+quelle_url: >-
+  https://www.srf.ch/news/schweiz/netzwerk-kinderrechte-schweiz-fast-jedes-fuenfte-kind-ist-in-der-schweiz-armutsgefaehrdet
 quelle_datum: '2026-10-17'
 quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
@@ -21,26 +35,76 @@ verfassung:
   gesamt: 2
   sachgerecht:
     stufe: 2
-    begruendung: Die Angaben sind korrekt und die Forderungen als Verbandsposition im Konjunktiv gekennzeichnet.
-      Die Titelzahl stützt sich aber auf ein relatives, nicht definiertes Mass, und die 315'000 stehen
-      ohne Erhebung, Bezugsjahr und Urheber im Text. Damit wird die Wahl der Messgrösse als Befund über
-      die Lage vermittelt.
+    begruendung: >-
+      Die Angaben sind korrekt und die Forderungen als Verbandsposition im
+      Konjunktiv gekennzeichnet. Die Titelzahl stützt sich aber auf ein
+      relatives, nicht definiertes Mass, und die 315'000 stehen ohne Erhebung,
+      Bezugsjahr und Urheber im Text. Damit wird die Wahl der Messgrösse als
+      Befund über die Lage vermittelt.
   vielfalt:
     stufe: 2
-    begruendung: Einzige Stimme ist das Netzwerk Kinderrechte Schweiz. Es liefert Zahlen, Diagnose und
-      die Beschreibung der Gegenseite in einem. Der Bundesrat kommt nur in der Charakterisierung durch
-      den Verband vor, seine Begründung mit angespannten Bundesfinanzen und kantonaler Zuständigkeit fehlt.
+    begruendung: >-
+      Einzige Stimme ist das Netzwerk Kinderrechte Schweiz. Es liefert Zahlen,
+      Diagnose und die Beschreibung der Gegenseite in einem. Der Bundesrat kommt
+      nur in der Charakterisierung durch den Verband vor, seine Begründung mit
+      angespannten Bundesfinanzen und kantonaler Zuständigkeit fehlt.
   meinungsbildung:
     stufe: 2
-    begruendung: Es fehlen der Nenner von rund 1,6 Millionen Kindern, die Unterscheidung der drei Armutsmasse
-      und der europäische Vergleich, in dem die Schweiz mit 4,9 Prozent Entbehrung zu den tiefsten Werten
-      gehört. Zur Ombudsstelle erfährt der Leser weder Inhalt noch Begründung des Bundesratsentscheids
+    begruendung: >-
+      Es fehlen der Nenner von rund 1,6 Millionen Kindern, die Unterscheidung
+      der drei Armutsmasse und der europäische Vergleich, in dem die Schweiz mit
+      4,9 Prozent Entbehrung zu den tiefsten Werten gehört. Zur Ombudsstelle
+      erfährt der Leser weder Inhalt noch Begründung des Bundesratsentscheids
       vom 15. April 2026.
   ombudsstelle: möglich
-  satz: 'Der Beitrag übernimmt die Mitteilung eines Verbands als Lagebericht: Er stellt das weiteste von
-    drei undefinierten Armutsmassen ohne Nenner und Quelle in den Titel, lässt den europäischen Vergleich
-    weg und gibt den Bundesrat nur in der Charakterisierung seiner Gegner wieder.'
+  satz: >-
+    Der Beitrag übernimmt die Mitteilung eines Verbands als Lagebericht: Er
+    stellt das weiteste von drei undefinierten Armutsmassen ohne Nenner und
+    Quelle in den Titel, lässt den europäischen Vergleich weg und gibt den
+    Bundesrat nur in der Charakterisierung seiner Gegner wieder.
   at: '2026-10-18'
+themen:
+  - Kinderarmut-Statistik
+  - Messmethoden und Definitionen
+  - Ombudsstelle für Kinderrechte
+  - Verbandskommunikation als Journalismus
+  - Bundesratsentscheide in der Berichterstattung
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Kontextmangel
+personen:
+  - Noser
+institutionen:
+  - SRF
+  - SRF 4 News
+  - Bundesamt für Sozialversicherungen
+  - Bundesamt für Statistik
+  - Bundesrat
+  - Parlament
+  - Netzwerk Kinderrechte Schweiz
+  - SKOS
+  - Nationales Armutsmonitoring
+gesetze_vorlagen:
+  - Motion Noser «Ombudsstelle für Kinderrechte» (19.3633)
+  - Kinder- und Jugendförderungsverordnung
+these: >-
+  Der SRF-Beitrag wählt für die Schlagzeile das weiteste von drei Massen der
+  Kinderarmut, ohne die Masse zu definieren oder zueinander in Beziehung zu
+  setzen, und übernimmt die Mitteilung eines Verbands als Lagebericht, ohne
+  dessen Diagnosen zu prüfen oder die Begründung des Bundesrats gegen eine
+  Ombudsstelle darzustellen.
+zusammenfassung: >-
+  Der 9min-Artikel analysiert einen SRF-Beitrag über Kinderarmut, der drei
+  verschiedene Messgrössen verwendet, ohne sie zu definieren oder zueinander in
+  Beziehung zu setzen. Das weiteste Mass (Armutsgefährdung) erscheint im Titel,
+  die präziseste Zahl (4,9% kinderspezifische Entbehrungen) nur in der
+  Bildlegende. Der Beitrag übernimmt die Mitteilung des Netzwerks Kinderrechte
+  Schweiz als Lagebericht, ohne die Begründung des Bundesrats gegen eine
+  Ombudsstelle darzustellen oder den europäischen Vergleich zu nennen, der die
+  Schweiz in günstigem Licht zeigte.
+kritik_schwere: 2
 ---
 
 *Der Titel greift zur breitesten verfügbaren Kennzahl: «Fast jedes fünfte Kind ist in der Schweiz armutsgefährdet». Die engste steht in der Bildlegende, unter einem Symbolbild: «Fast fünf Prozent der Kinder unter 16 Jahren» seien 2024 in drei oder mehr wichtigen Lebensbereichen finanziell benachteiligt gewesen. Dazwischen liegen drei Masse für Kinderarmut, die der Beitrag weder definiert noch zueinander in Beziehung setzt. Er verschweigt, dass Armutsgefährdung ein relatives Mass ist, dass die Schweiz bei den Entbehrungen von Kindern im europäischen Vergleich zu den tiefsten Werten gehört und wie der Bundesrat seinen Entscheid gegen eine Ombudsstelle begründet. Die Mitteilung eines Verbands liefert Zahlen, Diagnose und Gegenposition in einem und wird so zum Lagebericht.*

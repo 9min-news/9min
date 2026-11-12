@@ -1,49 +1,107 @@
 ---
-title: Das Urteil, das keine Schuld braucht
+title: 'Das Urteil, das keine Schuld braucht'
 date: '2026-10-19'
 status: published
 type: medienkritik
 coverImage: /images/medienkritik/das-urteil-das-keine-schuld-braucht.webp
 tweetId: ''
-categories: []
-tags: []
+categories:
+  - SRF/SRG
+  - Wirtschaft
+tags:
+  - CS-Boni
+  - Bundesgericht
+  - Framing
+  - Auslassung
+  - präventive Vergütungsregel
+  - SRF
+  - Rendez-vous
+  - Gerichtsurteil
 seo:
-  description: SRF rahmt ein präventives Bundesgerichtsurteil zu CS-Boni als Quittung für Versagen. Das
-    Gericht verlangt ausdrücklich keinen Nachweis individueller Schuld.
-kritisiertes_medium: Rendez-vous
-kritisierter_beitrag: Die CS-Manager haben versagt, darum werden sie nicht belohnt
-quelle_url: https://www.srf.ch/news/wirtschaft/bundesgericht-zu-cs-boni-die-cs-manager-haben-versagt-darum-werden-sie-nicht-belohnt
+  description: >-
+    SRF rahmt ein präventives Bundesgerichtsurteil zu CS-Boni als Quittung für
+    Versagen. Das Gericht verlangt ausdrücklich keinen Nachweis individueller
+    Schuld.
+kritisiertes_medium: SRF
+kritisierter_beitrag: 'Die CS-Manager haben versagt, darum werden sie nicht belohnt'
+quelle_url: >-
+  https://www.srf.ch/news/wirtschaft/bundesgericht-zu-cs-boni-die-cs-manager-haben-versagt-darum-werden-sie-nicht-belohnt
 quelle_datum: '2026-10-15'
 quelle_format: Online-Artikel
 quelle_sendung: Rendez-vous
-quelle_redaktion: SRF News
+quelle_redaktion: Wirtschaftsredaktion
 verfassung:
   gesamt: 3
   sachgerecht:
     stufe: 3
-    begruendung: Titel und Schluss stellen das Urteil als Folge persönlichen Versagens dar. Das Bundesgericht
-      hält dagegen ausdrücklich fest, dass die Massnahme präventiv ist und «keinen Nachweis voraus[setzt],
-      dass die einzelne betroffene Person die Bankenkrise mitverursacht hat»; zudem werden die 31,7 Milliarden
-      der Bank mit «ihre» den Beschwerdeführern zugeschrieben. Gemildert wird dies durch den korrekt zitierten
-      Gesetzesartikel, das wörtlich wiedergegebene Gerichtszitat und die präzise Darstellung der Vorinstanz.
+    begruendung: >-
+      Titel und Schluss stellen das Urteil als Folge persönlichen Versagens dar.
+      Das Bundesgericht hält dagegen ausdrücklich fest, dass die Massnahme
+      präventiv ist und «keinen Nachweis voraus[setzt], dass die einzelne
+      betroffene Person die Bankenkrise mitverursacht hat»; zudem werden die
+      31,7 Milliarden der Bank mit «ihre» den Beschwerdeführern zugeschrieben.
+      Gemildert wird dies durch den korrekt zitierten Gesetzesartikel, das
+      wörtlich wiedergegebene Gerichtszitat und die präzise Darstellung der
+      Vorinstanz.
   vielfalt:
     stufe: 1
-    begruendung: Die Position der Gegenseite kommt über die sachlich und ohne Abwertung referierte Begründung
-      des Bundesverwaltungsgerichts zum Ausdruck. Die Manager selbst erhalten jedoch nur Etiketten wie
-      «in einem anderen Universum», während ihre tatsächlichen Beträge von durchschnittlich rund 68'000
-      Franken und die Staffel von 100, 50 und 25 Prozent fehlen.
+    begruendung: >-
+      Die Position der Gegenseite kommt über die sachlich und ohne Abwertung
+      referierte Begründung des Bundesverwaltungsgerichts zum Ausdruck. Die
+      Manager selbst erhalten jedoch nur Etiketten wie «in einem anderen
+      Universum», während ihre tatsächlichen Beträge von durchschnittlich rund
+      68'000 Franken und die Staffel von 100, 50 und 25 Prozent fehlen.
   meinungsbildung:
     stufe: 3
-    begruendung: Es fehlen der präventive Zweck von Art. 10a BankG, die Streitsumme pro Person und der
-      abweichende Finma-Verlustwert von 2,1 Milliarden. Damit nimmt der gespiegelte Einstieg von 31,7
-      gegen 32,3 Milliarden das Urteil vorweg. Weil der Text online nicht als Kommentar gekennzeichnet
-      ist und die Dachzeile einen Bericht signalisiert, liest sich die Wertung der Redaktorin wie die
-      Begründung des Gerichts.
+    begruendung: >-
+      Es fehlen der präventive Zweck von Art. 10a BankG, die Streitsumme pro
+      Person und der abweichende Finma-Verlustwert von 2,1 Milliarden. Damit
+      nimmt der gespiegelte Einstieg von 31,7 gegen 32,3 Milliarden das Urteil
+      vorweg. Weil der Text online nicht als Kommentar gekennzeichnet ist und
+      die Dachzeile einen Bericht signalisiert, liest sich die Wertung der
+      Redaktorin wie die Begründung des Gerichts.
   ombudsstelle: möglich
-  satz: Der Beitrag gibt die moralische Lesart der Redaktion ohne Kennzeichnung als Begründung des Bundesgerichts
-    aus, obwohl dieses ausdrücklich keinen Nachweis individuellen Versagens verlangt, und stützt sie auf
-    Milliardenzahlen, die mit dem Streitgegenstand von rund 68'000 Franken pro Person nichts zu tun haben.
+  satz: >-
+    Der Beitrag gibt die moralische Lesart der Redaktion ohne Kennzeichnung als
+    Begründung des Bundesgerichts aus, obwohl dieses ausdrücklich keinen
+    Nachweis individuellen Versagens verlangt, und stützt sie auf
+    Milliardenzahlen, die mit dem Streitgegenstand von rund 68'000 Franken pro
+    Person nichts zu tun haben.
   at: '2026-10-18'
+themen:
+  - CS-Boni
+  - Bundesgerichtsurteil
+  - Gerichtsberichterstattung
+  - Vergütungsregel
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Kontextmangel
+personen: []
+institutionen:
+  - SRF
+  - Bundesgericht
+  - Finma
+  - EFD
+  - UBS
+  - Bundesverwaltungsgericht
+  - Credit Suisse
+  - PUK
+gesetze_vorlagen:
+  - Art. 10a BankG
+these: >-
+  Der SRF-Beitrag rahmt ein präventives Gerichtsurteil als moralische Strafe für
+  persönliches Versagen und verschweigt zentrale Fakten, die diese Lesart
+  widerlegen.
+zusammenfassung: >-
+  9min.ch analysiert einen SRF-Beitrag über ein Bundesgerichtsurteil zu CS-Boni.
+  Der Beitrag zitiere Gesetz und Gericht korrekt, rahme das Urteil aber durch
+  Titel und Schluss als moralische Quittung für persönliches Versagen. Dabei
+  werde verschwiegen, dass das Gericht ausdrücklich keinen Schuldnachweis
+  verlangt, dass es pro Person um durchschnittlich 68'000 Franken ging und dass
+  die Finma einen Verlust in anderer Grössenordnung ausweist.
+kritik_schwere: 3
 ---
 
 *Der Beitrag rahmt ein Urteil über eine präventive Vergütungsregel als moralische Quittung für persönliches Versagen. Der Titel setzt die Kausalität mit einem einzigen Wort: «Die CS-Manager haben versagt, darum werden sie nicht belohnt». Der Schluss wiederholt sie: «Die Manager der Credit Suisse haben es nicht gut gemacht. Sonst gäbe es die Bank heute noch.» Getragen wird diese Lesart von einer Zahl im ersten Absatz, die mit dem Streitgegenstand nichts zu tun hat: 31,7 Milliarden Franken variable Vergütungen gegenüber 32,3 Milliarden Franken Verlust. Verschwiegen wird, dass das Bundesgericht ausdrücklich keinen Nachweis individuellen Versagens verlangt, dass es pro Person um durchschnittlich rund 68'000 Franken ging und dass die Finma für dieselbe Bank einen Verlust in ganz anderer Grössenordnung ausweist.*

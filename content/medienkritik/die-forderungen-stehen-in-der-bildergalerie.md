@@ -5,44 +5,111 @@ status: published
 type: medienkritik
 coverImage: /images/medienkritik/die-forderungen-stehen-in-der-bildergalerie.webp
 tweetId: ''
-categories: []
-tags: []
+categories:
+  - SRF/SRG
+  - Gesellschaft
+  - EU/Aussenpolitik
+tags:
+  - Frankreich
+  - Proteste
+  - Gelbwesten
+  - Gewaltdarstellung
+  - Framing
+  - Auslassung
+  - SRF
+  - Wahlkampf
 seo:
-  description: 'SRF 4 News sagt voraus, die Gewalt werde die Forderungen verdrängen, und gewichtet danach:
-    Verletzte Polizisten sind gezählt, verletzte Demonstranten nicht.'
+  description: >-
+    SRF 4 News sagt voraus, die Gewalt werde die Forderungen verdrängen, und
+    gewichtet danach: Verletzte Polizisten sind gezählt, verletzte Demonstranten
+    nicht.
 kritisiertes_medium: SRF 4 News
 kritisierter_beitrag: Was bedeuten die ausufernden Proteste für Frankreich?
-quelle_url: https://www.srf.ch/news/international/schwere-krawalle-in-frankreich-was-bedeuten-die-ausufernden-proteste-fuer-frankreich
+quelle_url: >-
+  https://www.srf.ch/news/international/schwere-krawalle-in-frankreich-was-bedeuten-die-ausufernden-proteste-fuer-frankreich
 quelle_datum: '2026-10-18'
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 verfassung:
   gesamt: 2
   sachgerecht:
     stufe: 2
-    begruendung: Der Beitrag zählt «mehr als 600» verletzte Polizisten, aber keinen verletzten Demonstranten.
-      Die Gelbwesten führt er als «Schreckgespenst» und mögliches Wiederaufflammen, obwohl sie selbst
-      zum Samstag aufgerufen hatten. Die Trennung von friedlichen und gewalttätigen Teilnehmern, das «mutmasslich»
-      zu Bardella und die saubere Trennung von Ankündigung und Wirkung bei den Lehrpersonen halten den
-      Gesamteindruck teilweise intakt.
+    begruendung: >-
+      Der Beitrag zählt «mehr als 600» verletzte Polizisten, aber keinen
+      verletzten Demonstranten. Die Gelbwesten führt er als «Schreckgespenst»
+      und mögliches Wiederaufflammen, obwohl sie selbst zum Samstag aufgerufen
+      hatten. Die Trennung von friedlichen und gewalttätigen Teilnehmern, das
+      «mutmasslich» zu Bardella und die saubere Trennung von Ankündigung und
+      Wirkung bei den Lehrpersonen halten den Gesamteindruck teilweise intakt.
   vielfalt:
     stufe: 2
-    begruendung: Regierung, LFI mit einem Mélenchon-Zitat und RN kommen im Schuldstreit zu Wort, die Demonstranten
-      und ihre Aufrufer dagegen nicht. Die Polizeiseite erhält eine Verletztenzahl, die Gegenseite nur
-      das Etikett «gewalttätige Gruppen». Die Einstufung des Innenministers zu Ultralinken in Black Blocs
+    begruendung: >-
+      Regierung, LFI mit einem Mélenchon-Zitat und RN kommen im Schuldstreit zu
+      Wort, die Demonstranten und ihre Aufrufer dagegen nicht. Die Polizeiseite
+      erhält eine Verletztenzahl, die Gegenseite nur das Etikett «gewalttätige
+      Gruppen». Die Einstufung des Innenministers zu Ultralinken in Black Blocs
       fehlt ebenfalls.
   meinungsbildung:
     stufe: 2
-    begruendung: Die konkreten Forderungen (Preisdeckel, Abschöpfung von Übergewinnen, RIC) fehlen, und
-      der Text nennt nur «Unzufriedenheit». Deshalb lässt sich die Erklärung, die Staatsverschuldung begrenze
-      jede Antwort, nicht prüfen. Die Festnahmezahlen «über 2000» und «rund 1800» stehen ohne Quelle und
-      ohne Verhältnis nebeneinander.
+    begruendung: >-
+      Die konkreten Forderungen (Preisdeckel, Abschöpfung von Übergewinnen, RIC)
+      fehlen, und der Text nennt nur «Unzufriedenheit». Deshalb lässt sich die
+      Erklärung, die Staatsverschuldung begrenze jede Antwort, nicht prüfen. Die
+      Festnahmezahlen «über 2000» und «rund 1800» stehen ohne Quelle und ohne
+      Verhältnis nebeneinander.
   ombudsstelle: möglich
-  satz: 'Der Beitrag rahmt eine Protestbewegung als Gewaltereignis mit Wahlkampffolgen: Er zählt nur die
-    verletzten Polizisten, verschweigt die Forderungen und die Gelbwesten als Aufrufer des Samstags und
-    verdrängt die Anliegen der Demonstranten in die Bildlegenden.'
+  satz: >-
+    Der Beitrag rahmt eine Protestbewegung als Gewaltereignis mit
+    Wahlkampffolgen: Er zählt nur die verletzten Polizisten, verschweigt die
+    Forderungen und die Gelbwesten als Aufrufer des Samstags und verdrängt die
+    Anliegen der Demonstranten in die Bildlegenden.
   at: '2026-10-19'
+themen:
+  - Protestberichterstattung Frankreich
+  - Framing von sozialen Bewegungen
+  - Einseitige Gewaltdarstellung
+  - Auslassung von Forderungen
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Asymmetrie
+personen:
+  - Macron
+  - Lecornu
+  - Nuñez
+  - Mélenchon
+  - Bardella
+  - Geffray
+institutionen:
+  - SRF
+  - SRF 4 News
+  - LFI
+  - Rassemblement National
+  - CGT
+  - IGPN
+  - IGGN
+  - AFP
+  - Innenministerium
+  - Bildungsministerium
+gesetze_vorlagen:
+  - RIC
+these: >-
+  Der SRF-Beitrag kündigt selbst die Verdrängung der Forderungen durch das
+  Gewaltthema an und führt sie dann strukturell aus, indem er konkrete
+  politische Forderungen weglässt, einseitig nur Polizeiverletzte zählt und die
+  Absender des Protesttags ungenannt lässt.
+zusammenfassung: >-
+  9min.ch analysiert einen SRF-4-News-Beitrag zu den Frankreich-Protesten vom
+  18.10.2026 und zeigt, dass der Beitrag die Forderungen der Demonstranten
+  (Preisdeckel, Übergewinnabschöpfung, RIC) in Bildlegenden verbannt, während er
+  sich thematisch auf Gewalt und Wahlkampffolgen konzentriert. Die Zählung von
+  Verletzten erfolgt einseitig zugunsten der Polizei, und die
+  Gelbwesten-Bewegung wird als Schreckgespenst gerahmt, obwohl sie selbst zum
+  Protesttag aufgerufen hatte. Der Beitrag vollzieht damit selbst, was er als
+  Prognose beschreibt.
+kritik_schwere: 3
 ---
 
 *Der Beitrag sagt voraus, was er selbst vollzieht. «Tatsächlich dürfte sich in den nächsten Tagen die Debatte hauptsächlich um die Gewalt drehen und weniger um die Forderungen», heisst es darin, und die Gewichtung folgt der Prognose. Die Dachzeile lautet «Schwere Krawalle in Frankreich», die erste Leitfrage «Welchen politischen Lagern nützt die Gewalt?», und von vier Leitfragen gilt eine den Anliegen der Demonstranten, mit zwei Sätzen. Was die Proteste ausgelöst hat, steht vor allem unter den Fotos. Der Beitrag zählt die verletzten Polizisten, aber keinen verletzten Demonstranten, und er kennt die Bewegung, die zum Samstag aufgerufen hat, nur als «Schreckgespenst» der Regierung.*

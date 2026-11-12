@@ -1,49 +1,120 @@
 ---
-title: Das Lager, das gezählt wird
+title: 'Das Lager, das gezählt wird'
 date: '2026-10-19'
 status: published
 type: medienkritik
 coverImage: /images/medienkritik/das-lager-das-gezaehlt-wird.webp
 tweetId: ''
-categories: []
-tags: []
+categories:
+  - SRF/SRG
+  - Demokratie
+  - Sicherheitspolitik
+tags:
+  - Bundesgericht
+  - Tagesschau
+  - Asymmetrie
+  - Parteibezeichnung
+  - Donzallaz
+  - Chaix
+  - Luminati
+  - Verfahrensrecht
 seo:
-  description: SRF deutet die Nichtnomination des Bundesgerichtspräsidenten als parteipolitische «Abstrafung».
-    Belegt ist Führungsversagen. Gezählt wird nur ein Lager.
-kritisiertes_medium: Tagesschau
-kritisierter_beitrag: Affäre, Ausstand, Abstrafung? Die Eskalation am Bundesgericht
-quelle_url: https://www.srf.ch/news/schweiz/krise-am-obersten-gericht-affaere-ausstand-abstrafung-die-eskalation-am-bundesgericht
+  description: >-
+    SRF deutet die Nichtnomination des Bundesgerichtspräsidenten als
+    parteipolitische «Abstrafung». Belegt ist Führungsversagen. Gezählt wird nur
+    ein Lager.
+kritisiertes_medium: SRF Tagesschau
+kritisierter_beitrag: 'Affäre, Ausstand, Abstrafung? Die Eskalation am Bundesgericht'
+quelle_url: >-
+  https://www.srf.ch/news/schweiz/krise-am-obersten-gericht-affaere-ausstand-abstrafung-die-eskalation-am-bundesgericht
 quelle_datum: '2026-10-13'
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: Tagesschau
 quelle_redaktion: SRF News
 verfassung:
   gesamt: 2
   sachgerecht:
     stufe: 2
-    begruendung: Die Nichtnomination von Chaix wird nach dem eingestandenen Führungsversagen als parteipolitische
-      «Abstrafung» gerahmt, gestützt auf eine Stimmverteilung «soweit bekannt» ohne Quelle und auf eine
-      Frage, die Donzallaz statt den Präsidenten zum Abstimmungsgegenstand macht. Dass Chaix FDP-Mitglied
-      ist, Donzallaz das Gericht 2023/24 selbst präsidierte und der Fall Schubarth mit Rücktritt endete,
-      fehlt. Mildernd wirken die vollständige Wiedergabe von Donzallaz' Ausstandsargumenten, die Begründung
+    begruendung: >-
+      Die Nichtnomination von Chaix wird nach dem eingestandenen
+      Führungsversagen als parteipolitische «Abstrafung» gerahmt, gestützt auf
+      eine Stimmverteilung «soweit bekannt» ohne Quelle und auf eine Frage, die
+      Donzallaz statt den Präsidenten zum Abstimmungsgegenstand macht. Dass
+      Chaix FDP-Mitglied ist, Donzallaz das Gericht 2023/24 selbst präsidierte
+      und der Fall Schubarth mit Rücktritt endete, fehlt. Mildernd wirken die
+      vollständige Wiedergabe von Donzallaz' Ausstandsargumenten, die Begründung
       des Gerichts und die angegebenen Verfügungsnummern.
   vielfalt:
     stufe: 2
-    begruendung: Einziger Gesprächspartner ist ein Experte, der Lagerdeutung, Charakterzeichnung und Reformprogramm
-      (Justizrat, einmalige Amtszeit) ohne Gegenstimme liefert. Nur das SVP-Lager erhält eine Parteibezeichnung,
-      die Gegenseite bleibt ohne Etikett, und die 15 Rechtsuchenden kommen im Gespräch nicht vor.
+    begruendung: >-
+      Einziger Gesprächspartner ist ein Experte, der Lagerdeutung,
+      Charakterzeichnung und Reformprogramm (Justizrat, einmalige Amtszeit) ohne
+      Gegenstimme liefert. Nur das SVP-Lager erhält eine Parteibezeichnung, die
+      Gegenseite bleibt ohne Etikett, und die 15 Rechtsuchenden kommen im
+      Gespräch nicht vor.
   meinungsbildung:
     stufe: 2
-    begruendung: Der Beitrag spricht wechselnd von «Gesetz» und «Gepflogenheiten», ohne Art. 8, 34 oder
-      124 BGG zu nennen. Damit lässt sich nicht beurteilen, ob die Ereignisse als Rechenschaft oder als
-      Abstrafung zu lesen sind. Die Charakterzeichnung («starke Figur», «charmante Seite», Theaterszene)
-      ersetzt die Einordnung des Vorgangs, den das Gericht als nicht sachgerecht bezeichnet.
+    begruendung: >-
+      Der Beitrag spricht wechselnd von «Gesetz» und «Gepflogenheiten», ohne
+      Art. 8, 34 oder 124 BGG zu nennen. Damit lässt sich nicht beurteilen, ob
+      die Ereignisse als Rechenschaft oder als Abstrafung zu lesen sind. Die
+      Charakterzeichnung («starke Figur», «charmante Seite», Theaterszene)
+      ersetzt die Einordnung des Vorgangs, den das Gericht als nicht sachgerecht
+      bezeichnet.
   ombudsstelle: möglich
-  satz: Der Beitrag rahmt den Vertrauensentzug gegenüber der Gerichtsleitung nach eingestandenem Versagen
-    als parteipolitische Abstrafung, etikettiert nur ein Lager, stützt die Stimmverteilung auf keine Quelle
-    und lässt die massgebliche Rechtsnorm ungenannt, sodass das Publikum zwischen Rechenschaft und Politisierung
-    nicht selbst urteilen kann.
+  satz: >-
+    Der Beitrag rahmt den Vertrauensentzug gegenüber der Gerichtsleitung nach
+    eingestandenem Versagen als parteipolitische Abstrafung, etikettiert nur ein
+    Lager, stützt die Stimmverteilung auf keine Quelle und lässt die
+    massgebliche Rechtsnorm ungenannt, sodass das Publikum zwischen Rechenschaft
+    und Politisierung nicht selbst urteilen kann.
   at: '2026-10-18'
+themen:
+  - Bundesgerichtskrise
+  - Gerichtsleitung und Führungsversagen
+  - Parteipolitische Einflussnahme auf die Justiz
+  - Verfahrensrecht und Ausstandsgründe
+  - Asymmetrie in der Berichterstattung
+kritisierter_autor: ''
+kritik_typ:
+  - Asymmetrie
+  - Auslassung
+  - Framing
+personen:
+  - Michele Luminati
+  - François Chaix
+  - Donzallaz
+  - van de Graaf
+  - Bovey
+  - Schubarth
+  - Viviane Obenauf
+institutionen:
+  - Bundesgericht
+  - Gerichtskommission
+  - SVP-Fraktion
+  - Bundesversammlung
+  - SRF
+gesetze_vorlagen:
+  - Bundesgerichtsgesetz Art. 8
+  - Bundesgerichtsgesetz Art. 34
+  - Bundesgerichtsgesetz Art. 124
+  - Verfügung 7F_68/2026
+  - Verfügung 7F_74/2026
+  - Verfügung 7F_22/2026
+  - Verfügung 7F_76/2026
+these: >-
+  Der SRF-Beitrag rahmt ein eingestandenes Führungsversagen als parteipolitische
+  Abstrafung, indem er nur ein Lager mit Parteibezeichnung versieht, gesetzliche
+  Grundlagen auslässt und Verfahrensfragen durch Charakterstudien ersetzt.
+zusammenfassung: >-
+  Der 9min-Artikel analysiert einen SRF-Tagesschau-Beitrag zur Krise am
+  Bundesgericht. Er zeigt, dass der Beitrag wesentliche Fakten korrekt
+  wiedergibt, aber durch asymmetrische Parteibezeichnungen, fehlende gesetzliche
+  Kontexte und eine halbe Stimmzählung ein einseitiges Narrativ der
+  parteipolitischen Abstrafung konstruiert. Die eigentliche Rechtsfrage wird
+  durch Charakterstudien ersetzt, während die betroffenen Rechtsuchenden kaum
+  vorkommen.
+kritik_schwere: 3
 ---
 
 *Das Interview beginnt mit einer Rechenschaftsfrage und endet bei einer Lagerfrage. Der Justizforscher Michele Luminati stellt fest, die Gerichtsleitung habe «tatsächlich versagt». Wenige Sätze später deutet er die Nichtnomination ihres Präsidenten mit einem «allerdings» als «Abstrafung», die «die zunehmende innere Politisierung des Gerichts» zeige. Mit Partei markiert werden die SVP-Richter, die so gestimmt haben sollen, sowie Donzallaz und van de Graaf. Der nicht mehr nominierte François Chaix, Mitglied der FDP, erscheint ohne Parteibezeichnung. Ungenannt bleibt auch die Norm, an der Revisionen, verschobene Wahlen und die ganze Blockade hängen: Der Beitrag spricht von Gesetz und von «Gepflogenheiten», ohne eine Bestimmung zu nennen.*

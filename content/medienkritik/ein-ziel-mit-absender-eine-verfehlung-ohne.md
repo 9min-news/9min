@@ -1,50 +1,113 @@
 ---
-title: Ein Ziel mit Absender, eine Verfehlung ohne
+title: 'Ein Ziel mit Absender, eine Verfehlung ohne'
 date: '2026-10-19'
 status: published
 type: medienkritik
 coverImage: /images/medienkritik/ein-ziel-mit-absender-eine-verfehlung-ohne.webp
 tweetId: ''
-categories: []
-tags: []
+categories:
+  - SRF/SRG
+  - Gesellschaft
+  - Sicherheitspolitik
+tags:
+  - Astra
+  - Bundesrat
+  - Verkehrsunfälle
+  - Tempo 30
+  - 125ccm-Regel
+  - Motion Schilliger
+  - Regionaljournal Basel
+  - Zielverfehlung
 seo:
-  description: Der SRF-Beitrag zu den Verkehrsunfällen erklärt das verfehlte Bundesziel mit Wachstum und
-    Fehlverhalten. Die Regeln des Bundes selbst bleiben ausserhalb des Bildes.
-kritisiertes_medium: Regionaljournal Basel
-kritisierter_beitrag: Warum die Zahl der Verkehrsunfälle in der Schweiz nicht sinkt
-quelle_url: https://www.srf.ch/news/schweiz/bund-verfehlt-ziel-warum-die-zahl-der-verkehrsunfaelle-in-der-schweiz-nicht-sinkt
+  description: >-
+    Der SRF-Beitrag zu den Verkehrsunfällen erklärt das verfehlte Bundesziel mit
+    Wachstum und Fehlverhalten. Die Regeln des Bundes selbst bleiben ausserhalb
+    des Bildes.
+kritisiertes_medium: SRF Regionaljournal Basel
+kritisierter_beitrag: >-
+  Bund verfehlt Ziel: Warum die Zahl der Verkehrsunfälle in der Schweiz nicht
+  sinkt
+quelle_url: >-
+  https://www.srf.ch/news/schweiz/bund-verfehlt-ziel-warum-die-zahl-der-verkehrsunfaelle-in-der-schweiz-nicht-sinkt
 quelle_datum: '2026-10-12'
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: Regionaljournal Basel
 quelle_redaktion: SRF News
 verfassung:
   gesamt: 2
   sachgerecht:
     stufe: 2
-    begruendung: Der Beitrag empfiehlt die Ausweitung von Tempo 30 und verschweigt, dass die seit dem
-      1. Oktober 2026 geltende Änderung der Signalisationsverordnung diese Ausweitung erschwert. Hinzu
-      kommt die ungenaue Helsinki-Angabe (kein Kalenderjahr 2024 ohne Tote, Bündel statt Einzelursache).
-      Mildernd wirkt, dass die Astra-Zahlen, der Vergleich mit 2016, die Verlagerung des Risikos auf ungeschützte
-      Verkehrsteilnehmer und das 125er-Beispiel der BFU zutreffend wiedergegeben und die Quelle verlinkt
-      sind.
+    begruendung: >-
+      Der Beitrag empfiehlt die Ausweitung von Tempo 30 und verschweigt, dass
+      die seit dem 1. Oktober 2026 geltende Änderung der
+      Signalisationsverordnung diese Ausweitung erschwert. Hinzu kommt die
+      ungenaue Helsinki-Angabe (kein Kalenderjahr 2024 ohne Tote, Bündel statt
+      Einzelursache). Mildernd wirkt, dass die Astra-Zahlen, der Vergleich mit
+      2016, die Verlagerung des Risikos auf ungeschützte Verkehrsteilnehmer und
+      das 125er-Beispiel der BFU zutreffend wiedergegeben und die Quelle
+      verlinkt sind.
   vielfalt:
     stufe: 2
-    begruendung: Für Tempo 30 sprechen BFU, Sauter-Servaes und VCS, also drei Stimmen in einer Richtung.
-      Keine Stimme aus der parlamentarischen Mehrheit, die die Motion Schilliger durchgesetzt hat, kommt
-      vor. Das Astra wird nur als Kommentator befragt, nicht zu den eigenen Massnahmen oder zur 125er-Regel
+    begruendung: >-
+      Für Tempo 30 sprechen BFU, Sauter-Servaes und VCS, also drei Stimmen in
+      einer Richtung. Keine Stimme aus der parlamentarischen Mehrheit, die die
+      Motion Schilliger durchgesetzt hat, kommt vor. Das Astra wird nur als
+      Kommentator befragt, nicht zu den eigenen Massnahmen oder zur 125er-Regel
       des Bundesrats.
   meinungsbildung:
     stufe: 2
-    begruendung: «Zahlen stagnieren» stützt sich auf 214 gegen 216 Tote ohne Bevölkerungsbezug, während
-      für Norwegen eine Rate pro Million genannt wird. Den Verlauf der Schwerverletzten (3935, gestiegen)
-      lässt der Beitrag weg. Weil die Regeländerung niemandem zugeordnet wird und der Konflikt um Tempo
-      30 fehlt, erscheint die Zielverfehlung als Folge von Kräften ohne Urheber.
+    begruendung: >-
+      «Zahlen stagnieren» stützt sich auf 214 gegen 216 Tote ohne
+      Bevölkerungsbezug, während für Norwegen eine Rate pro Million genannt
+      wird. Den Verlauf der Schwerverletzten (3935, gestiegen) lässt der Beitrag
+      weg. Weil die Regeländerung niemandem zugeordnet wird und der Konflikt um
+      Tempo 30 fehlt, erscheint die Zielverfehlung als Folge von Kräften ohne
+      Urheber.
   ombudsstelle: möglich
-  satz: Der Beitrag stellt Tempo 30 als blosse Pendenz dar und verschweigt die eben in Kraft getretene
-    Erschwerung durch Parlament und Bundesrat. Er ordnet die 125er-Regel nicht ihrem Urheber, dem Bund,
-    zu und lässt den Anstieg der Schwerverletzten ohne Verlauf, sodass die Zielverfehlung als Naturereignis
+  satz: >-
+    Der Beitrag stellt Tempo 30 als blosse Pendenz dar und verschweigt die eben
+    in Kraft getretene Erschwerung durch Parlament und Bundesrat. Er ordnet die
+    125er-Regel nicht ihrem Urheber, dem Bund, zu und lässt den Anstieg der
+    Schwerverletzten ohne Verlauf, sodass die Zielverfehlung als Naturereignis
     statt als Folge politischer Entscheide erscheint.
   at: '2026-10-18'
+themen:
+  - Verkehrssicherheitsziel des Bundes
+  - Tempo 30 und Signalisationsverordnung
+  - 125ccm-Motorradregelung für Jugendliche
+  - Behördenberichterstattung und Reguliererverantwortung
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Behördenpropaganda
+  - Kontextmangel
+personen:
+  - Sauter-Servaes
+  - Leibundgut
+institutionen:
+  - SRF
+  - Astra
+  - BFU
+  - TCS
+  - VCS
+  - Bundesrat
+  - Parlament
+gesetze_vorlagen:
+  - Revision der Führerausweisvorschriften
+  - Motion Schilliger
+  - Signalisationsverordnung
+these: >-
+  Der SRF-Beitrag rahmt eine verfehlte Bundeszielvorgabe als Naturereignis und
+  verschweigt, dass der Bund selbst die Regeln erlassen hat, die die
+  Zielverfehlung mitverursachen.
+zusammenfassung: >-
+  Der Artikel kritisiert, dass der SRF-Beitrag den Bund nur als Zielsetzer und
+  Auskunftsstelle zeigt, nicht aber als Urheber der 125ccm-Regel und der neuen
+  Signalisationsverordnung, die Tempo 30 erschwert. Wesentliche Fakten zur
+  Urheberschaft der Regeländerungen werden genannt, aber niemandem zugeordnet.
+  Die empfohlene Tempo-30-Ausweitung erscheint als unerledigte Pendenz, obwohl
+  das Parlament sie kurz vor der Sendung faktisch erschwert hat.
+kritik_schwere: 3
 ---
 
 *Der Beitrag erklärt ein verfehltes Bundesziel mit Kräften, die niemand beschlossen hat. Die tragende Stelle steht unter dem Zwischentitel «Zahlen stagnieren»: Herausforderungen seien, «dass der Strassenverkehr in der Schweiz insgesamt zunimmt und durch neue Mobilitätsformen komplexer wird». Der Verkehrsexperte ergänzt Bevölkerungswachstum, Freizeitbudget und SUVs, die BFU das menschliche Fehlverhalten. Der Bund erscheint als Zielsetzer und Auskunftsstelle, nicht als Instanz, die Regeln macht. Dass er die eine Regeländerung, die der Beitrag als Unfalltreiber nennt, selbst beschlossen und die empfohlene Ausweitung von Tempo 30 kurz vor der Sendung erschwert hat, steht nicht im Beitrag.*

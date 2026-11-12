@@ -1,18 +1,32 @@
 ---
-title: Die Kritik, die erhört wurde
+title: 'Die Kritik, die erhört wurde'
 date: '2026-10-19'
 status: published
 type: medienkritik
 coverImage: /images/medienkritik/die-kritik-die-erhoert-wurde.webp
 tweetId: ''
-categories: []
-tags: []
+categories:
+  - SRF/SRG
+  - Zensur/Meinungsfreiheit
+  - EU/Aussenpolitik
+tags:
+  - Meldeverfahren
+  - Overblocking
+  - Drohung ohne Absender
+  - Behördenpropaganda
+  - Interessenkonflikt Rösti
+  - Vernehmlassung
+  - Digital Services Act
+  - USA-Zölle
 seo:
-  description: SRF 4 News rahmt die Ausweitung des Meldeverfahrens als Antwort auf Kritik am zu geringen
-    Schutz. Die Gegenkritik der Meinungsfreiheit erscheint nur als Ablehnung.
+  description: >-
+    SRF 4 News rahmt die Ausweitung des Meldeverfahrens als Antwort auf Kritik
+    am zu geringen Schutz. Die Gegenkritik der Meinungsfreiheit erscheint nur
+    als Ablehnung.
 kritisiertes_medium: SRF 4 News
 kritisierter_beitrag: 'Nach Kritik: Bundesrat will bei Social Media mehr Jugendschutz'
-quelle_url: https://www.srf.ch/news/schweiz/kommunikationsplattformen-nach-kritik-bundesrat-will-bei-social-media-mehr-jugendschutz
+quelle_url: >-
+  https://www.srf.ch/news/schweiz/kommunikationsplattformen-nach-kritik-bundesrat-will-bei-social-media-mehr-jugendschutz
 quelle_datum: '2026-10-14'
 quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
@@ -21,28 +35,81 @@ verfassung:
   gesamt: 2
   sachgerecht:
     stufe: 2
-    begruendung: Die Ausweitung des Meldeverfahrens auf «alle mutmasslich rechtswidrigen Inhalte» erscheint
-      nur unter «Zudem» und ohne Ausgangspunkt (Delikte wie üble Nachrede, Art. 261bis StGB). Röstis Selbsteinstufung
-      «liberaler als der DSA» bleibt ungeprüft, obwohl der Text selbst DSA-typische Instrumente beschreibt.
-      Verfahrensstufe, Lager und Attribution sind korrekt wiedergegeben; die Zusammenfassung spricht einzig
-      von «Gesetz» statt Botschaft, ein Nebenpunkt.
+    begruendung: >-
+      Die Ausweitung des Meldeverfahrens auf «alle mutmasslich rechtswidrigen
+      Inhalte» erscheint nur unter «Zudem» und ohne Ausgangspunkt (Delikte wie
+      üble Nachrede, Art. 261bis StGB). Röstis Selbsteinstufung «liberaler als
+      der DSA» bleibt ungeprüft, obwohl der Text selbst DSA-typische Instrumente
+      beschreibt. Verfahrensstufe, Lager und Attribution sind korrekt
+      wiedergegeben; die Zusammenfassung spricht einzig von «Gesetz» statt
+      Botschaft, ein Nebenpunkt.
   vielfalt:
     stufe: 1
-    begruendung: Befürworter und Gegner sind vollständig aufgeführt, Parteien wie Kantone, und der Zwischentitel
-      «SVP und FDP wollen Gesetz nicht» stellt die Opposition prominent heraus. Die Zusicherungen des
-      Bundesrats erhalten jedoch eigene Infoboxen, die Gegenposition nur einen Halbsatz ohne Stimme. Röstis
-      SVP-Zugehörigkeit bleibt unmarkiert, obwohl seine Partei die Vorlage ablehnt.
+    begruendung: >-
+      Befürworter und Gegner sind vollständig aufgeführt, Parteien wie Kantone,
+      und der Zwischentitel «SVP und FDP wollen Gesetz nicht» stellt die
+      Opposition prominent heraus. Die Zusicherungen des Bundesrats erhalten
+      jedoch eigene Infoboxen, die Gegenposition nur einen Halbsatz ohne Stimme.
+      Röstis SVP-Zugehörigkeit bleibt unmarkiert, obwohl seine Partei die
+      Vorlage ablehnt.
   meinungsbildung:
     stufe: 2
-    begruendung: Der Titel «Nach Kritik» kennt nur die Forderung der Grünen nach mehr Schutz. Die Bedenken
-      zur Meinungsfreiheit setzt der Beitrag nicht zur Ausweitung des Meldeverfahrens in Beziehung. Es
-      fehlt, von wem die ausgeschlossene «Strafe» käme, und «eine Mehrheit» der Stellungnahmen bleibt
-      ohne Grösse und ohne Bezug zur Mehrheitslage im Parlament.
+    begruendung: >-
+      Der Titel «Nach Kritik» kennt nur die Forderung der Grünen nach mehr
+      Schutz. Die Bedenken zur Meinungsfreiheit setzt der Beitrag nicht zur
+      Ausweitung des Meldeverfahrens in Beziehung. Es fehlt, von wem die
+      ausgeschlossene «Strafe» käme, und «eine Mehrheit» der Stellungnahmen
+      bleibt ohne Grösse und ohne Bezug zur Mehrheitslage im Parlament.
   ombudsstelle: möglich
-  satz: Die Meldung rahmt die Ausweitung des Meldeverfahrens auf alle mutmasslich rechtswidrigen Inhalte
-    als Antwort auf Kritik nach mehr Jugendschutz, gibt die Zusicherungen des Bundesrats ungeprüft in
-    eigenen Boxen wieder und lässt offen, wer die Schweiz bestrafen würde.
+  satz: >-
+    Die Meldung rahmt die Ausweitung des Meldeverfahrens auf alle mutmasslich
+    rechtswidrigen Inhalte als Antwort auf Kritik nach mehr Jugendschutz, gibt
+    die Zusicherungen des Bundesrats ungeprüft in eigenen Boxen wieder und lässt
+    offen, wer die Schweiz bestrafen würde.
   at: '2026-10-18'
+themen:
+  - Plattformgesetz
+  - Jugendschutz vs. Meinungsfreiheit
+  - Meldeverfahren-Ausweitung
+  - Digitalregulierung im DSA-Vergleich
+  - Vernehmlassungsmehrheit
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Behördenpropaganda
+personen:
+  - Albert Rösti
+institutionen:
+  - Bundesrat
+  - SRF
+  - SVP
+  - FDP
+  - EDU
+  - EU
+  - US-Regierung
+  - UVEK
+  - Parlament
+gesetze_vorlagen:
+  - Plattformgesetz
+  - Digital Services Act
+  - Netzwerkdurchsetzungsgesetz
+  - Art. 261bis StGB
+these: >-
+  Der SRF-Beitrag rahmt die Ausweitung des Meldeverfahrens als Antwort auf eine
+  einzige Kritikrichtung, übernimmt Behörden-Selbsteinstufungen ungeprüft als
+  Befund und verschweigt den Absender der Drohung, die das Gesetz mitprägt.
+zusammenfassung: >-
+  9min.ch analysiert eine SRF-Agenturmeldung zum geplanten Schweizer
+  Plattformgesetz. Der Beitrag verarbeite die Verfahrensstufe korrekt, rahme
+  aber die Ausweitung des Meldeverfahrens auf alle mutmasslich rechtswidrigen
+  Inhalte als blosses «Zudem» und als Antwort auf nur eine der zwei
+  Kritikrichtungen. Behördliche Selbsteinstufungen («liberaler als der DSA»,
+  «kein Grund zur Strafe») erschienen ungeprüft in Infoboxen, während die
+  Gegenposition ohne Stimme bleibe. Der Absender der angedeuteten Sanktion –
+  naheliegend die USA mit Zöllen und Visabeschränkungen – werde verschwiegen,
+  und Röstis SVP-Mitgliedschaft gegen die eigene Vorlage werde nicht markiert.
+kritik_schwere: 3
 ---
 
 *Der Titel kennt nur eine Kritik. «Nach Kritik: Bundesrat will bei Social Media mehr Jugendschutz» setzt voraus, dass der massgebliche Einwand gegen das geplante Plattformgesetz lautete, es schütze zu wenig. Der Text nennt die Urheber dieser Kritik ausdrücklich: Die Landesregierung reagiere «auf Forderungen der Grünen». Die Gegenkritik, die eine Gefährdung der Meinungs- und Informationsfreiheit befürchtet, erscheint nur als Ablehnungsgrund, nicht als Kritik, auf die jemand reagiert. Dabei steht die gewichtigere Änderung im zweiten Satz und beginnt mit «Zudem»: Das Meldeverfahren soll auf alle mutmasslich rechtswidrigen Inhalte ausgedehnt werden. Der Beitrag verschweigt, von wem die Strafe käme, die der Bundesrat ausschliesst, und lässt dessen Selbsteinstufung, die Lösung sei liberaler als der «Digital Service Act» der EU, ungeprüft stehen.*

@@ -1,47 +1,113 @@
 ---
-title: Der Kompromiss, der enger ist als der Vorschlag
+title: 'Der Kompromiss, der enger ist als der Vorschlag'
 date: '2026-10-19'
 status: published
 type: medienkritik
 coverImage: /images/medienkritik/der-kompromiss-der-enger-ist-als-der-vorschlag.webp
 tweetId: ''
-categories: []
-tags: []
+categories:
+  - EU/Aussenpolitik
+  - Wirtschaft
+  - SRF/SRG
+tags:
+  - Made in Europe
+  - öffentliche Beschaffung
+  - EU-Kommission
+  - deutsch-französisches Positionspapier
+  - dynamische Rechtsübernahme
+  - Reziprozität
+  - Bilaterale I
+  - Opt-in
 seo:
-  description: SRF rahmt das deutsch-französische «Made in Europe»-Papier als Chance für die Schweiz.
-    Verschwiegen bleibt, dass der Kommissionsvorschlag offener war.
-kritisiertes_medium: Rendez-vous
+  description: >-
+    SRF rahmt das deutsch-französische «Made in Europe»-Papier als Chance für
+    die Schweiz. Verschwiegen bleibt, dass der Kommissionsvorschlag offener war.
+kritisiertes_medium: SRF
 kritisierter_beitrag: «Made in Europe» – für die Schweiz kein Problem (mehr)?
-quelle_url: https://www.srf.ch/news/international/eu-setzt-auf-heimatschutz-made-in-europe-fuer-die-schweiz-kein-problem-mehr
+quelle_url: >-
+  https://www.srf.ch/news/international/eu-setzt-auf-heimatschutz-made-in-europe-fuer-die-schweiz-kein-problem-mehr
 quelle_datum: '2026-10-16'
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: Rendez-vous
 quelle_redaktion: SRF News
 verfassung:
   gesamt: 2
   sachgerecht:
     stufe: 2
-    begruendung: Der Beitrag verschweigt den offeneren Kommissionsvorschlag vom März 2026 und das seit
-      2002 bestehende bilaterale Beschaffungsabkommen. Dadurch erscheint eine Verengung als Öffnung, und
-      ob die Schweiz vom Kriterium «Anfang 2020 Mitglieder des Binnenmarktes» überhaupt erfasst ist, bleibt
-      offen. Mildernd wirkt, dass Status und Bedingungen im Kasten korrekt und ungewöhnlich explizit genannt
-      sind; einen sachlichen Fehler weist die Kritik nicht nach.
+    begruendung: >-
+      Der Beitrag verschweigt den offeneren Kommissionsvorschlag vom März 2026
+      und das seit 2002 bestehende bilaterale Beschaffungsabkommen. Dadurch
+      erscheint eine Verengung als Öffnung, und ob die Schweiz vom Kriterium
+      «Anfang 2020 Mitglieder des Binnenmarktes» überhaupt erfasst ist, bleibt
+      offen. Mildernd wirkt, dass Status und Bedingungen im Kasten korrekt und
+      ungewöhnlich explizit genannt sind; einen sachlichen Fehler weist die
+      Kritik nicht nach.
   vielfalt:
     stufe: 2
-    begruendung: Einzige Stimme ist der Korrespondent. Die «ersten Reaktionen aus der Schweiz» bleiben
-      ohne Urheber, weder Bundesrat noch Verwaltung noch Verbände kommen zu Wort. Die Positionen von Kommission
-      und Parlamentsberichterstattern fehlen, Berlin und Paris werden nur referiert.
+    begruendung: >-
+      Einzige Stimme ist der Korrespondent. Die «ersten Reaktionen aus der
+      Schweiz» bleiben ohne Urheber, weder Bundesrat noch Verwaltung noch
+      Verbände kommen zu Wort. Die Positionen von Kommission und
+      Parlamentsberichterstattern fehlen, Berlin und Paris werden nur referiert.
   meinungsbildung:
     stufe: 2
-    begruendung: Ohne Vergleich mit dem Kommissionsvorschlag lässt sich nicht beurteilen, für wen der
-      Kompromiss «tragfähig» ist. Die Forderung nach dynamischer Übernahme wird nicht ins Verhältnis zum
-      Vertragspaket im Parlament und zur einseitigen Abschaffung der Industriezölle gesetzt. Titel und
-      Lead rahmen die Bedingungen als Wahlmöglichkeit, bevor der Kasten den Preis nennt.
+    begruendung: >-
+      Ohne Vergleich mit dem Kommissionsvorschlag lässt sich nicht beurteilen,
+      für wen der Kompromiss «tragfähig» ist. Die Forderung nach dynamischer
+      Übernahme wird nicht ins Verhältnis zum Vertragspaket im Parlament und zur
+      einseitigen Abschaffung der Industriezölle gesetzt. Titel und Lead rahmen
+      die Bedingungen als Wahlmöglichkeit, bevor der Kasten den Preis nennt.
   ombudsstelle: möglich
-  satz: Der Beitrag stellt ein deutsch-französisches Papier, das den offeneren Kommissionsvorschlag verengt,
-    als mögliche Öffnung für die Schweiz dar und lässt das seit 2002 bestehende Beschaffungsabkommen ebenso
-    weg wie die Frage, ob die Schweiz vom Stichtagskriterium überhaupt erfasst ist.
+  satz: >-
+    Der Beitrag stellt ein deutsch-französisches Papier, das den offeneren
+    Kommissionsvorschlag verengt, als mögliche Öffnung für die Schweiz dar und
+    lässt das seit 2002 bestehende Beschaffungsabkommen ebenso weg wie die
+    Frage, ob die Schweiz vom Stichtagskriterium überhaupt erfasst ist.
   at: '2026-10-18'
+themen:
+  - EU-Beschaffungspolitik
+  - Made in Europe
+  - Schweiz-EU-Beziehungen
+  - Bilaterale Verträge
+  - Protektionismus
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Kontextmangel
+personen:
+  - Anna Cavazzini
+  - Christophe Grudler
+  - Pascal Jouvet
+institutionen:
+  - SRF
+  - EU-Kommission
+  - EU-Parlament
+  - EWR
+  - WTO
+  - Bundesrat
+  - Aussenpolitische Kommission des Ständerats
+  - Berlin
+  - Paris
+gesetze_vorlagen:
+  - Industrial Accelerator Act
+  - Vertragspaket Schweiz-EU
+  - Bilaterale I
+  - WTO-Übereinkommen über das öffentliche Beschaffungswesen
+  - Freihandelsabkommen Schweiz-China
+these: >-
+  Der SRF-Beitrag rahmt eine Verengung des EU-Kommissionsvorschlags als Öffnung
+  für die Schweiz und verschweigt dabei den günstigeren Ausgangspunkt sowie die
+  bestehenden vertraglichen Verpflichtungen im Beschaffungswesen.
+zusammenfassung: >-
+  9min.ch analysiert einen SRF-Rendez-vous-Beitrag zum deutsch-französischen
+  Positionspapier «Made in Europe». Der Beitrag rahme eine tatsächliche
+  Verengung gegenüber dem offeneren Kommissionsvorschlag als Öffnung für die
+  Schweiz und verschweige, dass die Schweiz seit 2002 vertraglich mit der EU im
+  Beschaffungswesen verbunden ist. Die Bedingungen des Papiers würden korrekt
+  genannt, aber im Kasten belassen, während Titel und Lead bereits eine
+  Entspannung suggerierten.
+kritik_schwere: 3
 ---
 
 *Der Titel fragt, ob «Made in Europe» für die Schweiz «kein Problem (mehr)» sei. Der Lead verspricht einen Kompromiss, der «eine Lösung aufzeigen könnte. Wenn sie denn möchte.» Damit sind die Rollen verteilt: Die EU öffnet, die Schweiz entscheidet, ob sie eintritt, und wer ablehnt, schliesst sich selbst aus. Ein deutsch-französisches Positionspapier, das Bedingungen stellt, erscheint so als Einladung. Die Dachzeile nennt den Protektionismus dahinter «Heimatschutz». Zwei Dinge verschweigt der Beitrag. Die EU-Kommission hatte im März einen offeneren Vorschlag vorgelegt, an dem gemessen das Papier eine Verengung ist. Und die Schweiz ist im Beschaffungswesen längst vertraglich mit der EU verbunden.*

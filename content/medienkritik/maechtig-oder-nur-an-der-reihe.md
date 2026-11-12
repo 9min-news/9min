@@ -1,18 +1,31 @@
 ---
-title: Mächtig, oder nur an der Reihe?
+title: 'Mächtig, oder nur an der Reihe?'
 date: '2026-10-19'
 status: published
 type: medienkritik
 coverImage: /images/medienkritik/maechtig-oder-nur-an-der-reihe.webp
 tweetId: ''
-categories: []
-tags: []
+categories:
+  - SRF/SRG
+  - Demokratie
+  - Gesellschaft
+tags:
+  - Wahlbarometer
+  - Sotomo
+  - Bundespräsident
+  - Kollegialprinzip
+  - Konfidenzintervall
+  - Opt-in-Befragung
+  - Rangliste
+  - Kausalität
 seo:
-  description: SRF rahmt eine Wahrnehmungsumfrage als Machtrangliste des Bundesrats. Das rotierende Präsidium
-    bleibt als Erklärung für Gewinn und Verlust unbenannt.
-kritisiertes_medium: SRF 4 News
-kritisierter_beitrag: Die Mächtigste, der Beliebteste und das Schlusslicht im Bundesrat
-quelle_url: https://www.srf.ch/news/schweiz/wahlbarometer-2026-die-maechtigste-der-beliebteste-und-das-schlusslicht-im-bundesrat
+  description: >-
+    SRF rahmt eine Wahrnehmungsumfrage als Machtrangliste des Bundesrats. Das
+    rotierende Präsidium bleibt als Erklärung für Gewinn und Verlust unbenannt.
+kritisiertes_medium: SRF News
+kritisierter_beitrag: 'Die Mächtigste, der Beliebteste und das Schlusslicht im Bundesrat'
+quelle_url: >-
+  https://www.srf.ch/news/schweiz/wahlbarometer-2026-die-maechtigste-der-beliebteste-und-das-schlusslicht-im-bundesrat
 quelle_datum: '2026-10-16'
 quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
@@ -21,28 +34,82 @@ verfassung:
   gesamt: 2
   sachgerecht:
     stufe: 2
-    begruendung: Der Beitrag verschweigt, dass Keller-Sutter 2025 Bundespräsidentin war, und erklärt ihren
-      Wert mit dem Ständeratsentscheid, der am letzten Befragungstag fiel und der Vorlage des Bundesrats
-      nur zum Teil folgte (90 statt 100 Prozent), was die Formulierung «hinter die Finanzministerin» überzeichnet.
-      Der Titel macht aus wahrgenommenem Einfluss «die Mächtigste», während die ausführliche Methodenbox
-      und die Rücktrittsklammer bei Parmelin den Befund mildern.
+    begruendung: >-
+      Der Beitrag verschweigt, dass Keller-Sutter 2025 Bundespräsidentin war,
+      und erklärt ihren Wert mit dem Ständeratsentscheid, der am letzten
+      Befragungstag fiel und der Vorlage des Bundesrats nur zum Teil folgte (90
+      statt 100 Prozent), was die Formulierung «hinter die Finanzministerin»
+      überzeichnet. Der Titel macht aus wahrgenommenem Einfluss «die
+      Mächtigste», während die ausführliche Methodenbox und die
+      Rücktrittsklammer bei Parmelin den Befund mildern.
   vielfalt:
     stufe: 1
-    begruendung: Der Bundesratsbeitrag ist eine reine Umfrageauswertung ohne Stimmen. Zu den Erklärungsversuchen
-      für Rösti, Jans und Cassis kommt weder eine Fachperson noch eine Gegenlesart zu Wort, was ausserhalb
-      eines Abstimmungskontexts aber nur einen Nebenpunkt betrifft.
+    begruendung: >-
+      Der Bundesratsbeitrag ist eine reine Umfrageauswertung ohne Stimmen. Zu
+      den Erklärungsversuchen für Rösti, Jans und Cassis kommt weder eine
+      Fachperson noch eine Gegenlesart zu Wort, was ausserhalb eines
+      Abstimmungskontexts aber nur einen Nebenpunkt betrifft.
   meinungsbildung:
     stufe: 2
-    begruendung: Der in der Box ausgewiesene Fehlerbereich von ±1.2 Prozentpunkten wird auf keinen Rang
-      angewendet, die meisten Werte fehlen, und der Methodenlink führt nur auf die Sotomo-Startseite.
-      Die Rotation des Präsidiums wird nicht mit Parmelins +25 und Keller-Sutters -13 Punkten in Beziehung
-      gesetzt, und Kausalität entsteht durch Nachbarschaft (Jans und Asylpolitik, Cassis und die Aussenpolitik
-      «des Bundesrats»).
+    begruendung: >-
+      Der in der Box ausgewiesene Fehlerbereich von ±1.2 Prozentpunkten wird auf
+      keinen Rang angewendet, die meisten Werte fehlen, und der Methodenlink
+      führt nur auf die Sotomo-Startseite. Die Rotation des Präsidiums wird
+      nicht mit Parmelins +25 und Keller-Sutters -13 Punkten in Beziehung
+      gesetzt, und Kausalität entsteht durch Nachbarschaft (Jans und
+      Asylpolitik, Cassis und die Aussenpolitik «des Bundesrats»).
   ombudsstelle: möglich
-  satz: Der Beitrag präsentiert eine Opt-in-Umfrage über Eindrücke als Machtrangliste, verschweigt Keller-Sutters
-    Präsidialjahr 2025 als Erklärung für die grössten Verschiebungen und wendet den selbst ausgewiesenen
+  satz: >-
+    Der Beitrag präsentiert eine Opt-in-Umfrage über Eindrücke als
+    Machtrangliste, verschweigt Keller-Sutters Präsidialjahr 2025 als Erklärung
+    für die grössten Verschiebungen und wendet den selbst ausgewiesenen
     Fehlerbereich nicht auf die Rangfolge an.
   at: '2026-10-18'
+themen:
+  - Bundesrat-Ranking
+  - Umfragemethodik
+  - Präsidialrotation
+  - Wahrnehmung vs. Macht
+  - Fehlerbereich-Anwendung
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Asymmetrie
+personen:
+  - Karin Keller-Sutter
+  - Guy Parmelin
+  - Elisabeth Baume-Schneider
+  - Beat Jans
+  - Albert Rösti
+  - Ignazio Cassis
+  - Christoph Pfister
+institutionen:
+  - SRF
+  - SRF 4 News
+  - Sotomo
+  - Bundesrat
+  - Ständerat
+  - SRG
+  - UBS
+  - Wirtschaftskommission
+gesetze_vorlagen:
+  - Eigenkapitalvorschriften für UBS
+  - Haushaltsabgabe-Senkung 2025
+these: >-
+  Der SRF-Beitrag rahmt eine Umfrage über Wahrnehmungen als Machtrangliste,
+  verschweigt dabei die strukturelle Erklärung der Präsidialrotation und wendet
+  eigene methodische Standards inkonsistent an.
+zusammenfassung: >-
+  9min.ch analysiert einen SRF-Beitrag zum Wahlbarometer 2026, der
+  Bundesratsmitglieder nach Einfluss und Beliebtheit rangiert. Die Kritik zeigt,
+  dass der Beitrag die rotierende Bundespräsidentschaft als Erklärung für
+  Parmelins Gewinn und Keller-Sutters Verlust verschweigt, den Fehlerbereich nur
+  bei Parteien, nicht bei Personen anwendet und Kausalitäten durch
+  Textnachbarschaft konstruiert statt durch Daten belegt. Zudem wird ein
+  Ständeratsentscheid vom letzten Erhebungstag als Begründung für einen Wert
+  herangezogen, den er kaum beeinflusst haben kann.
+kritik_schwere: 2
 ---
 
 *Der Titel lautet «Die Mächtigste, der Beliebteste und das Schlusslicht im Bundesrat». Der Fliesstext ist vorsichtiger. Dort ist Karin Keller-Sutter «aus Sicht der Bevölkerung» das einflussreichste Mitglied, und Elisabeth Baume-Schneider bildet das Schlusslicht «beim wahrgenommenen Einfluss». Auf dem Weg vom Text zum Titel wird aus einer Zuschreibung ein Zustand, und der Lead liefert die Gewissheit gleich mit: Das Wahlbarometer «liefert die Antworten». Verschwiegen wird, dass Keller-Sutter im Vorjahr Bundespräsidentin war und ihr Verlust zeitlich mit Guy Parmelins Gewinn im Präsidialjahr zusammenfällt. Verschwiegen wird auch, dass der als ihr «Erfolg» verbuchte Ständeratsentscheid am letzten Tag der Befragung fiel und der Vorlage des Bundesrats nur zum Teil folgte.*

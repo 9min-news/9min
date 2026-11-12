@@ -1,18 +1,32 @@
 ---
-title: Fake News, aber welche?
+title: 'Fake News, aber welche?'
 date: '2026-10-19'
 status: published
 type: medienkritik
 coverImage: /images/medienkritik/fake-news-aber-welche.webp
 tweetId: ''
-categories: []
-tags: []
+categories:
+  - SRF/SRG
+  - Abstimmungen
+  - Sicherheitspolitik
+tags:
+  - Kriegsmaterialgesetz
+  - Waffenexport
+  - SRF
+  - Kampagnenbericht
+  - Infobox
+  - Framing
+  - Abstimmungskampf
+  - Rüstungsindustrie
 seo:
-  description: SRF 4 News übernimmt im Erklärkasten die Kernthese des Ja-Lagers zum Kriegsmaterialgesetz
-    als Lagebeschreibung, die Gegner erscheinen nur als Etikett.
+  description: >-
+    SRF 4 News übernimmt im Erklärkasten die Kernthese des Ja-Lagers zum
+    Kriegsmaterialgesetz als Lagebeschreibung, die Gegner erscheinen nur als
+    Etikett.
 kritisiertes_medium: SRF 4 News
 kritisierter_beitrag: Bürgerliche Allianz kämpft für ein Ja zum Kriegsmaterialgesetz
-quelle_url: https://www.srf.ch/news/schweiz/regeln-bei-waffenexporten-buergerliche-allianz-kaempft-fuer-ein-ja-zum-kriegsmaterialgesetz
+quelle_url: >-
+  https://www.srf.ch/news/schweiz/regeln-bei-waffenexporten-buergerliche-allianz-kaempft-fuer-ein-ja-zum-kriegsmaterialgesetz
 quelle_datum: '2026-10-15'
 quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
@@ -21,27 +35,88 @@ verfassung:
   gesamt: 2
   sachgerecht:
     stufe: 2
-    begruendung: Der Erklärkasten übernimmt in redaktioneller Stimme und im Indikativ die Kernthese des
-      Ja-Lagers, die Rüstungsindustrie sei «wegen ihrer strengen Exportregeln unattraktiv», ohne den Kompromiss
-      von 2021 und die fast rekordhohen Exporte von 2025 zu erwähnen. Die präzise Darstellung der 36 Länder,
-      der Nichtwiederausfuhrerklärung und des Vetos mildert die Bewertung.
+    begruendung: >-
+      Der Erklärkasten übernimmt in redaktioneller Stimme und im Indikativ die
+      Kernthese des Ja-Lagers, die Rüstungsindustrie sei «wegen ihrer strengen
+      Exportregeln unattraktiv», ohne den Kompromiss von 2021 und die fast
+      rekordhohen Exporte von 2025 zu erwähnen. Die präzise Darstellung der 36
+      Länder, der Nichtwiederausfuhrerklärung und des Vetos mildert die
+      Bewertung.
   vielfalt:
     stufe: 3
-    begruendung: Sechs Befürworter kommen zu Wort, die Gegner erscheinen vor der Abstimmung nur als «ein
-      linkes Komitee» ohne Namen und Argument sowie unter Nauses Etikett «Fake-News» in einem eigenen
-      Kasten. Die EVP verschwindet im Etikett «links», während die GLP unter «bürgerliche Allianz» geführt
-      wird. Die Agenturvorlage erklärt die Stimmenverteilung, nicht aber das Fehlen jedes Satzes zur Gegenposition.
+    begruendung: >-
+      Sechs Befürworter kommen zu Wort, die Gegner erscheinen vor der Abstimmung
+      nur als «ein linkes Komitee» ohne Namen und Argument sowie unter Nauses
+      Etikett «Fake-News» in einem eigenen Kasten. Die EVP verschwindet im
+      Etikett «links», während die GLP unter «bürgerliche Allianz» geführt wird.
+      Die Agenturvorlage erklärt die Stimmenverteilung, nicht aber das Fehlen
+      jedes Satzes zur Gegenposition.
   meinungsbildung:
     stufe: 2
-    begruendung: Arbeitsplätze, die sechs Forschungsprojekte und die «Milliarden» bleiben ohne Bezugsgrösse
-      und Ursache, und der «Fake-News»-Vorwurf nennt keinen Gegenstand. Kamerzins Kontrollverschiebung
-      und Göttes Neutralitätsargument werden nicht auf die eigenen Angaben zur Wiederausfuhr bezogen,
-      obwohl der Kasten das Material dafür liefert.
+    begruendung: >-
+      Arbeitsplätze, die sechs Forschungsprojekte und die «Milliarden» bleiben
+      ohne Bezugsgrösse und Ursache, und der «Fake-News»-Vorwurf nennt keinen
+      Gegenstand. Kamerzins Kontrollverschiebung und Göttes Neutralitätsargument
+      werden nicht auf die eigenen Angaben zur Wiederausfuhr bezogen, obwohl der
+      Kasten das Material dafür liefert.
   ombudsstelle: möglich
-  satz: Der Beitrag lässt vor der Abstimmung nur die Befürworter sprechen, stellt die Gegner allein als
-    Etikett und unter dem Vorwurf «Fake-News» dar und übernimmt im redaktionellen Erklärkasten die Kernthese
-    des Ja-Lagers als Ausgangslage, ohne Zahlen und Vorgeschichte, die ein eigenes Urteil ermöglichten.
+  satz: >-
+    Der Beitrag lässt vor der Abstimmung nur die Befürworter sprechen, stellt
+    die Gegner allein als Etikett und unter dem Vorwurf «Fake-News» dar und
+    übernimmt im redaktionellen Erklärkasten die Kernthese des Ja-Lagers als
+    Ausgangslage, ohne Zahlen und Vorgeschichte, die ein eigenes Urteil
+    ermöglichten.
   at: '2026-10-18'
+themen:
+  - Waffenexport
+  - Kriegsmaterialgesetz
+  - Kampagnenberichterstattung
+  - Rüstungsindustrie
+  - Infobox als Framing-Instrument
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Selektion
+personen:
+  - Reto Nause
+  - Kamerzin
+  - Michael Götte
+  - Rühl
+  - Céline Weber
+  - Theiler
+institutionen:
+  - SRF
+  - SRF 4 News
+  - SP
+  - Grüne
+  - EVP
+  - GLP
+  - Allianz Sicherheit Schweiz
+  - ETH
+  - EPFL
+  - Bundesrat
+  - Parlament
+  - Deutschland
+  - Israel
+  - Saudi-Arabien
+  - USA
+gesetze_vorlagen:
+  - Kriegsmaterialgesetz
+  - Korrektur-Initiative
+these: >-
+  Der SRF-Beitrag übernimmt in seinem redaktionellen Erklärkasten die Kernthese
+  des Ja-Lagers als sachliche Ausgangslage und lässt die Gegenseite nur als
+  Etikett des Gegners erscheinen, wodurch eine einseitige Kampagnenmeldung als
+  neutrale Berichterstattung gerahmt wird.
+zusammenfassung: >-
+  9min.ch analysiert einen SRF-4-News-Beitrag zur Lancierung der Ja-Kampagne zum
+  Kriegsmaterialgesetz. Der Beitrag gibt sechs Befürwortern Stimmen, während die
+  Gegenseite nur als von Reto Nause geprägtes Etikett erscheint. Der
+  redaktionelle Erklärkasten übernimmt die Kausalprämisse des Ja-Lagers als
+  Lagebeschreibung, ohne die Exportregeln als parlamentarischen Kompromiss von
+  2021 einzuordnen oder die Rekordexporte 2025 zu erwähnen.
+kritik_schwere: 3
 ---
 
 *Der Slogan des Ja-Lagers eröffnet den Text und schliesst den Kasten zur Gegenkampagne: «Moderne Sicherheit braucht moderne Gesetze». Dazwischen sprechen sechs Befürworter. Die Gegner treten als «ein linkes Komitee» auf und als das Etikett, das Reto Nause ihnen gibt. Die folgenreichste Stelle ist jedoch kein Zitat: Im redaktionellen Erklärkasten steht in der Stimme von SRF, die Rüstungsindustrie sei «wegen ihrer strengen Exportregeln unattraktiv» und stehe «deswegen unter Druck». Der Beitrag verschweigt, dass diese Regeln ein parlamentarischer Kompromiss von 2021 sind und die Exporte 2025 fast Rekordhöhe erreichten. Seine eigenen Angaben zur Wiederausfuhr führt er nicht zu Ende.*

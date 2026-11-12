@@ -1,18 +1,32 @@
 ---
-title: Allein, mit amerikanischen Zieldaten
+title: 'Allein, mit amerikanischen Zieldaten'
 date: '2026-10-19'
 status: published
 type: medienkritik
 coverImage: /images/medienkritik/allein-mit-amerikanischen-zieldaten.webp
 tweetId: ''
-categories: []
-tags: []
+categories:
+  - SRF/SRG
+  - EU/Aussenpolitik
+  - Sicherheitspolitik
+tags:
+  - Titel vs. Inhalt
+  - Beistandspflicht
+  - Zieldaten
+  - Asymmetrie
+  - Personalisierung
+  - Vertragsrahmen
+  - Huthi
+  - Waffenruhe
 seo:
-  description: SRF 4 News rahmt amerikanische Zurückhaltung als Verrat unter Freunden, belegt aber keine
-    Zusage und nennt Zieldaten und Waffenlieferungen erst im vierten Absatz.
+  description: >-
+    SRF 4 News rahmt amerikanische Zurückhaltung als Verrat unter Freunden,
+    belegt aber keine Zusage und nennt Zieldaten und Waffenlieferungen erst im
+    vierten Absatz.
 kritisiertes_medium: SRF 4 News
 kritisierter_beitrag: Trump lässt Saudi-Arabien im Stich
-quelle_url: https://www.srf.ch/news/international/riad-unter-beschuss-trump-laesst-saudi-arabien-im-stich
+quelle_url: >-
+  https://www.srf.ch/news/international/riad-unter-beschuss-trump-laesst-saudi-arabien-im-stich
 quelle_datum: '2026-10-13'
 quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
@@ -21,27 +35,72 @@ verfassung:
   gesamt: 2
   sachgerecht:
     stufe: 2
-    begruendung: Titel und Lead melden ein Im-Stich-Lassen und ein Königreich, das «allein» kämpft. Der
-      vierte Absatz belegt jedoch Geheimdienstinformationen, Zieldaten und das F-35-Geschäft, und ob eine
-      Beistandspflicht besteht, etwa im Strategic Defense Agreement von 2025, prüft der Beitrag nicht.
-      Mildernd wirkt, dass die US-Unterstützung, die Erwägung Trumps und die Abqaiq-Parallele korrekt
-      im Text stehen.
+    begruendung: >-
+      Titel und Lead melden ein Im-Stich-Lassen und ein Königreich, das «allein»
+      kämpft. Der vierte Absatz belegt jedoch Geheimdienstinformationen,
+      Zieldaten und das F-35-Geschäft, und ob eine Beistandspflicht besteht,
+      etwa im Strategic Defense Agreement von 2025, prüft der Beitrag nicht.
+      Mildernd wirkt, dass die US-Unterstützung, die Erwägung Trumps und die
+      Abqaiq-Parallele korrekt im Text stehen.
   vielfalt:
     stufe: 2
-    begruendung: Erzählt wird aus der Perspektive des Palasts mit Vision 2030, Investorenforum und abgesagten
-      Kongressen. Riad erhält Opferzahlen samt Nationalität, Sanaa nur ein Verb, und das Fehlen dieser
-      Zahlen wird nicht markiert.
+    begruendung: >-
+      Erzählt wird aus der Perspektive des Palasts mit Vision 2030,
+      Investorenforum und abgesagten Kongressen. Riad erhält Opferzahlen samt
+      Nationalität, Sanaa nur ein Verb, und das Fehlen dieser Zahlen wird nicht
+      markiert.
   meinungsbildung:
     stufe: 2
-    begruendung: 'Es fehlt die Einordnung, die ein Urteil über den Vorwurf erst ermöglicht: das amerikanische
-      und das pakistanische Verteidigungsabkommen, der Jemenkrieg seit 2015 mit der Waffenruhe von 2022
-      und die US-Huthi-Vereinbarung vom Mai 2025. Die saudische Verweigerung vom Mai steht im Text, prägt
-      den Rahmen aber nicht.'
+    begruendung: >-
+      Es fehlt die Einordnung, die ein Urteil über den Vorwurf erst ermöglicht:
+      das amerikanische und das pakistanische Verteidigungsabkommen, der
+      Jemenkrieg seit 2015 mit der Waffenruhe von 2022 und die
+      US-Huthi-Vereinbarung vom Mai 2025. Die saudische Verweigerung vom Mai
+      steht im Text, prägt den Rahmen aber nicht.
   ombudsstelle: möglich
-  satz: Der Beitrag meldet im Titel einen Verrat Washingtons, obwohl er selbst amerikanische Zieldaten
-    und Waffenlieferungen belegt, und lässt Beistandsabkommen, die Vorgeschichte des Jemenkriegs und die
-    Opfer in Sanaa weg.
+  satz: >-
+    Der Beitrag meldet im Titel einen Verrat Washingtons, obwohl er selbst
+    amerikanische Zieldaten und Waffenlieferungen belegt, und lässt
+    Beistandsabkommen, die Vorgeschichte des Jemenkriegs und die Opfer in Sanaa
+    weg.
   at: '2026-10-18'
+themen:
+  - Saudi-Arabien
+  - Jemenkrieg
+  - US-Aussenpolitik
+  - Medien-Framing
+  - Militärische Beistandspflicht
+kritisierter_autor: ''
+kritik_typ:
+  - Framing
+  - Auslassung
+  - Asymmetrie
+personen:
+  - Trump
+  - Mohammed bin Salman
+  - Khashoggi
+institutionen:
+  - SRF
+  - SRF 4 News
+  - Weisses Haus
+  - Senat
+  - UNO
+  - Huthi
+gesetze_vorlagen:
+  - Strategic Defense Agreement (2025)
+  - Saudi-Arabien-Pakistan Verteidigungsvertrag (17.09.2025)
+these: >-
+  Der SRF-Titel unterstellt einen Verrat durch die USA, den der Beitrag selbst
+  nicht belegt, während er die tatsächliche amerikanische Unterstützung
+  verschweigt und durch Personalisierung eine Vertragspflicht fingiert.
+zusammenfassung: >-
+  9min.ch kritisiert einen SRF-4-News-Beitrag, dessen Titel «Trump lässt
+  Saudi-Arabien im Stich» einen Verrat behauptet, den der Text nicht belegt. Der
+  Beitrag verschweigt amerikanische Zieldatenlieferungen und Waffengeschäfte im
+  Titel, nennt keine Beistandsklausel, erwähnt Opfer nur für Riad und lässt die
+  Jemenkriegsvorgeschichte sowie Riads eigene Verweigerung von
+  US-Militärkooperation im Mai unberücksichtigt.
+kritik_schwere: 3
 ---
 
 *Der Titel setzt eine Pflicht voraus, die der Beitrag nirgends belegt. «Trump lässt Saudi-Arabien im Stich» unterstellt eine Zusage, und der Lead verschärft sie: «Der Konflikt eskaliert, und das Königreich kämpft vorerst allein.» Begründet wird das nicht mit einem Vertrag, sondern mit dem Vokabular einer Freundschaft: Schwerttanz, «Bromance», «Kränkung». Der Beitrag verschweigt, ob überhaupt eine Beistandspflicht besteht. Er nennt Tote nur für eine der beiden bombardierten Hauptstädte und lässt den Jemenkrieg vor dem «Sommer» ungeschrieben. Erzählt wird durchgehend aus der Perspektive des Palasts: Vision 2030, Investorenforum, abgesagte Energiekongresse.*

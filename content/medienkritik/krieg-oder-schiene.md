@@ -5,46 +5,103 @@ status: published
 type: medienkritik
 coverImage: /images/medienkritik/krieg-oder-schiene.webp
 tweetId: ''
-categories: []
-tags: []
+categories:
+  - SRF/SRG
+  - Wirtschaft
+tags:
+  - Kerosin-Engpass
+  - Pflichtlager
+  - Flughafen Zürich
+  - Rhein-Niedrigwasser
+  - Raffineriekapazität
+  - IEA
+  - Wirtschaftliche Landesversorgung
+  - Ursachendarstellung
 seo:
-  description: SRF meldet die Freigabe des Kerosin-Pflichtlagers als Antwort auf ein Ereignis. Dass das
-    Lager schon vorher unter der Vorgabe lag, bleibt unerwähnt.
-kritisiertes_medium: Echo der Zeit
+  description: >-
+    SRF meldet die Freigabe des Kerosin-Pflichtlagers als Antwort auf ein
+    Ereignis. Dass das Lager schon vorher unter der Vorgabe lag, bleibt
+    unerwähnt.
+kritisiertes_medium: SRF
 kritisierter_beitrag: Flughafen Zürich droht Kerosin-Engpass – Bund öffnet Pflichtlager
-quelle_url: https://www.srf.ch/news/schweiz/kerosinknappheit-flughafen-zuerich-droht-kerosin-engpass-bund-oeffnet-pflichtlager
+quelle_url: >-
+  https://www.srf.ch/news/schweiz/kerosinknappheit-flughafen-zuerich-droht-kerosin-engpass-bund-oeffnet-pflichtlager
 quelle_datum: '2026-10-15'
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 verfassung:
   gesamt: 2
   sachgerecht:
     stufe: 2
-    begruendung: Der Beitrag verschweigt, dass das Kerosin-Pflichtlager laut Bundesamt schon vor der Freigabe
-      nur 72 statt der vorgeschriebenen 90 Tage abdeckte. Dadurch erscheinen die «6.5 Prozent» als Entnahme
-      aus einem vollen Lager. Die Aussage, Russland sei «einer der wichtigsten Lieferanten», bleibt ohne
-      Bezug zum Embargo, das die Schweiz übernommen hat. Gemildert wird die Bewertung durch die durchgehaltene
-      Modalität («droht», «sonst»), die Swiss-Stimme und die Trennung von Rohöl und Raffinerieprodukten
-      sowie von Kerosin und anderen Treibstoffen.
+    begruendung: >-
+      Der Beitrag verschweigt, dass das Kerosin-Pflichtlager laut Bundesamt
+      schon vor der Freigabe nur 72 statt der vorgeschriebenen 90 Tage abdeckte.
+      Dadurch erscheinen die «6.5 Prozent» als Entnahme aus einem vollen Lager.
+      Die Aussage, Russland sei «einer der wichtigsten Lieferanten», bleibt ohne
+      Bezug zum Embargo, das die Schweiz übernommen hat. Gemildert wird die
+      Bewertung durch die durchgehaltene Modalität («droht», «sonst»), die
+      Swiss-Stimme und die Trennung von Rohöl und Raffinerieprodukten sowie von
+      Kerosin und anderen Treibstoffen.
   vielfalt:
     stufe: 1
-    begruendung: Zu Wort kommen Bund, Swiss und ein SRF-Redaktor, die IEA wird referiert. Die Swiss-Sprecherin
-      relativiert den Titel und bleibt stehen. Es fehlen eine unabhängige Fachstimme sowie Betreiber oder
-      Pflichtlagerhalter, die zu Unterbestand und Wiederauffüllung Auskunft geben könnten. Ausserhalb
+    begruendung: >-
+      Zu Wort kommen Bund, Swiss und ein SRF-Redaktor, die IEA wird referiert.
+      Die Swiss-Sprecherin relativiert den Titel und bleibt stehen. Es fehlen
+      eine unabhängige Fachstimme sowie Betreiber oder Pflichtlagerhalter, die
+      zu Unterbestand und Wiederauffüllung Auskunft geben könnten. Ausserhalb
       einer Abstimmungslage ist das ein Mangel in Nebenpunkten.
   meinungsbildung:
     stufe: 2
-    begruendung: Der Beitrag nennt zwei «Hauptgründe», die Logistik und die Kriege, ohne sie zu gewichten.
-      Er lässt offen, ob die Freigabe einen Transportengpass überbrückt oder eine Marktknappheit abfedert.
-      Die Freigabemenge wird nicht in Tage Reichweite übersetzt, und die Vorgeschichte der Freigaben wegen
-      Niedrigwassers 2018 und 2022 fehlt. Das Publikum kann deshalb die Tragweite der Massnahme nicht
-      selbst einschätzen.
+    begruendung: >-
+      Der Beitrag nennt zwei «Hauptgründe», die Logistik und die Kriege, ohne
+      sie zu gewichten. Er lässt offen, ob die Freigabe einen Transportengpass
+      überbrückt oder eine Marktknappheit abfedert. Die Freigabemenge wird nicht
+      in Tage Reichweite übersetzt, und die Vorgeschichte der Freigaben wegen
+      Niedrigwassers 2018 und 2022 fehlt. Das Publikum kann deshalb die
+      Tragweite der Massnahme nicht selbst einschätzen.
   ombudsstelle: möglich
-  satz: Der Beitrag meldet die Öffnung des Kerosin-Pflichtlagers als Reaktion auf Fluss, Schiene und Kriege,
-    verschweigt aber die vom Bund selbst gemeldete Tatsache, dass das Lager schon vorher nur 72 statt
-    90 Tage abdeckte, und lässt so offen, wie ernst die Lage tatsächlich ist.
+  satz: >-
+    Der Beitrag meldet die Öffnung des Kerosin-Pflichtlagers als Reaktion auf
+    Fluss, Schiene und Kriege, verschweigt aber die vom Bund selbst gemeldete
+    Tatsache, dass das Lager schon vorher nur 72 statt 90 Tage abdeckte, und
+    lässt so offen, wie ernst die Lage tatsächlich ist.
   at: '2026-10-18'
+themen:
+  - Kerosinversorgung Schweiz
+  - Pflichtlagersystem
+  - Berichterstattung über Energieknappheit
+  - Sanktionskontext Russland
+kritisierter_autor: Dario Pelosi
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Kontextmangel
+personen:
+  - Dario Pelosi
+institutionen:
+  - SRF
+  - Echo der Zeit
+  - Bundesamt für wirtschaftliche Landesversorgung
+  - Internationale Energieagentur
+  - Flughafen Zürich
+  - Swiss
+  - Bund
+gesetze_vorlagen: []
+these: >-
+  Der SRF-Beitrag rahmt die Öffnung des Kerosin-Pflichtlagers als Antwort auf
+  ein akutes Ereignis, obwohl sie Antwort auf einen strukturellen Zustand ist –
+  das Lager war schon vor der Freigabe mit 72 statt 90 Tagen unter der
+  Bundvorgabe.
+zusammenfassung: >-
+  9min.ch analysiert einen SRF-Echo-der-Zeit-Beitrag über die Freigabe des
+  Kerosin-Pflichtlagers am Flughafen Zürich. Der Beitrag wird für sorgfältige
+  Details gelobt, lässt aber zentrale Fakten weg: den Unterbestand des Lagers
+  (72 statt 90 Tage), den Sanktionskontext zu Russland, die Vorgeschichte des
+  Rhein-Niedrigwassers und die Finanzierung über einen Garantiefonds. Die
+  Ursachen werden als akute Ereignisse ohne Akteur gerahmt, obwohl strukturelle
+  Entscheidungen mitwirken.
+kritik_schwere: 3
 ---
 
 *Der Titel stellt Drohung und Gegenmassnahme nebeneinander. Die Infobox nimmt die Drohung gleich wieder zurück: «Am Flughafen Zürich besteht aktuell keine Einschränkung.» Gemeldet wird also eine Massnahme gegen eine Knappheit, die laut der einzigen Branchenstimme noch nicht eingetreten ist. Als Ursache bietet der Beitrag zwei Hauptgründe an, die Schiene aus Deutschland und die Kriege im Nahen Osten und in der Ukraine, und gewichtet keinen. Unerwähnt bleiben der Sanktionskontext zu Russland, die Vorgeschichte des Niedrigwassers und vor allem der Umstand, dass das Kerosin-Pflichtlager schon vor der Öffnung unter der Vorgabe des Bundes lag.*

@@ -5,45 +5,114 @@ status: published
 type: medienkritik
 coverImage: /images/medienkritik/die-steuer-ohne-rente.webp
 tweetId: ''
-categories: []
-tags: []
+categories:
+  - Abstimmungen
+  - SRF/SRG
+  - Wirtschaft
+tags:
+  - 13. AHV-Rente
+  - Mehrwertsteuer
+  - Sozialverträglichkeit
+  - Verteilungsrechnung
+  - FDP-Studie
+  - Rendez-vous
+  - Abstimmung
+  - halbierte Bilanz
 seo:
-  description: SRF prüft die Mehrwertsteuer auf Sozialverträglichkeit und lässt die 13. AHV-Rente aus
-    der Rechnung. Gewogen wird die Einzahlung, nicht der Gegenwert.
-kritisiertes_medium: Rendez-vous
+  description: >-
+    SRF prüft die Mehrwertsteuer auf Sozialverträglichkeit und lässt die 13.
+    AHV-Rente aus der Rechnung. Gewogen wird die Einzahlung, nicht der
+    Gegenwert.
+kritisiertes_medium: SRF
 kritisierter_beitrag: Wie (un)sozial ist die Mehrwertsteuer?
-quelle_url: https://www.srf.ch/news/wirtschaft/abstimmung-vom-29-november-wie-un-sozial-ist-die-mehrwertsteuer
+quelle_url: >-
+  https://www.srf.ch/news/wirtschaft/abstimmung-vom-29-november-wie-un-sozial-ist-die-mehrwertsteuer
 quelle_datum: '2026-10-08'
-quelle_format: Online-Artikel
+quelle_format: Broadcast
 quelle_sendung: Rendez-vous
 quelle_redaktion: SRF News
 verfassung:
   gesamt: 3
   sachgerecht:
     stufe: 3
-    begruendung: Der Beitrag gibt die Kernzahl der verlinkten FDP-Studie, 3,6 Milliarden Franken tiefere
-      Wirtschaftsleistung, als Wert im zehnten Jahr wieder, obwohl die Studie eine kumulierte Zehnjahressumme
-      ausweist. Die regressive Wirkung illustriert er mit Spaghetti, die dem unveränderten reduzierten
-      Satz unterliegen. Die korrekten Angaben zu den Sätzen, zu den Ausnahmen und zur Unterscheidung zwischen
-      absoluter und relativer Belastung mildern die Bewertung, korrigieren aber die Kernzahl nicht.
+    begruendung: >-
+      Der Beitrag gibt die Kernzahl der verlinkten FDP-Studie, 3,6 Milliarden
+      Franken tiefere Wirtschaftsleistung, als Wert im zehnten Jahr wieder,
+      obwohl die Studie eine kumulierte Zehnjahressumme ausweist. Die regressive
+      Wirkung illustriert er mit Spaghetti, die dem unveränderten reduzierten
+      Satz unterliegen. Die korrekten Angaben zu den Sätzen, zu den Ausnahmen
+      und zur Unterscheidung zwischen absoluter und relativer Belastung mildern
+      die Bewertung, korrigieren aber die Kernzahl nicht.
   vielfalt:
     stufe: 3
-    begruendung: In der Abstimmungsphase stammen alle Zahlen und der einzige Link aus der Studie im Auftrag
-      der FDP, die die Vorlage ablehnt. Brülhart und seine Expertise für den Bund erscheinen nur als Name
-      in der Infobox, ohne Befund. Die korrekte Kennzeichnung des Auftraggebers ersetzt das fehlende Gegengewicht
-      nicht.
+    begruendung: >-
+      In der Abstimmungsphase stammen alle Zahlen und der einzige Link aus der
+      Studie im Auftrag der FDP, die die Vorlage ablehnt. Brülhart und seine
+      Expertise für den Bund erscheinen nur als Name in der Infobox, ohne
+      Befund. Die korrekte Kennzeichnung des Auftraggebers ersetzt das fehlende
+      Gegengewicht nicht.
   meinungsbildung:
     stufe: 3
-    begruendung: Der Beitrag prüft die Sozialverträglichkeit nur auf der Belastungsseite und lässt die
-      Rente als Verwendung der Mittel weg, ebenso die Deckungslücke von rund der Hälfte und die vom Bundesrat
-      geprüfte Alternative der Lohnbeiträge. Gezeigt wird ein Durchschnittshaushalt statt Zahlen nach
-      Einkommen, und die angekündigte Abfederung wird nie beziffert. Damit fehlt der Vergleich, an dem
-      sich «unsozial» bemessen liesse.
+    begruendung: >-
+      Der Beitrag prüft die Sozialverträglichkeit nur auf der Belastungsseite
+      und lässt die Rente als Verwendung der Mittel weg, ebenso die
+      Deckungslücke von rund der Hälfte und die vom Bundesrat geprüfte
+      Alternative der Lohnbeiträge. Gezeigt wird ein Durchschnittshaushalt statt
+      Zahlen nach Einkommen, und die angekündigte Abfederung wird nie beziffert.
+      Damit fehlt der Vergleich, an dem sich «unsozial» bemessen liesse.
   ombudsstelle: aussichtsreich
-  satz: Der Beitrag prüft vor der Abstimmung eine zweckgebundene Steuererhöhung nur auf ihre Belastung,
-    stützt sich dabei allein auf die Studie einer Partei der Nein-Seite und gibt deren Zehnjahressumme
-    als Jahreswert wieder, während die Rente, die finanziert werden soll, in der Rechnung fehlt.
+  satz: >-
+    Der Beitrag prüft vor der Abstimmung eine zweckgebundene Steuererhöhung nur
+    auf ihre Belastung, stützt sich dabei allein auf die Studie einer Partei der
+    Nein-Seite und gibt deren Zehnjahressumme als Jahreswert wieder, während die
+    Rente, die finanziert werden soll, in der Rechnung fehlt.
   at: '2026-10-18'
+themen:
+  - 13. AHV-Rente
+  - Mehrwertsteuererhöhung
+  - Sozialverträglichkeit
+  - Verteilungswirkung
+  - Abstimmungskampf
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Selektion
+  - Framing
+personen:
+  - Marius Brülhart
+  - Claude Maurer
+institutionen:
+  - SRF
+  - FDP
+  - SVP
+  - Bundesrat
+  - Parlament
+  - SP
+  - Mitte
+  - Grüne
+  - EVP
+  - Gewerkschaftsbund
+  - BAK Economics
+  - Universität Lausanne
+  - Bundesamt für Sozialversicherungen
+gesetze_vorlagen:
+  - 13. AHV-Rente
+  - Mehrwertsteuererhöhung
+these: >-
+  Der SRF-Beitrag prüft die Sozialverträglichkeit einer Steuererhöhung zur
+  Finanzierung der 13. AHV-Rente, als gäbe es die Rente nicht, und verzerrt
+  damit das Bild in der Abstimmungsphase.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert, dass der SRF-Beitrag die 13. AHV-Rente nur im
+  ersten Satz erwähnt und danach nur die Belastungsseite der
+  Mehrwertsteuererhöhung prüft, ohne die Verteilungswirkung der Rente, ihre nur
+  halbe Deckung durch die Steuer und alternative Finanzierungsmodelle zu
+  berücksichtigen. Zudem werde ein Spaghetti-Beispiel verwendet, das von der
+  Vorlage gar nicht betroffen ist, und eine Zahl der FDP-Studie als Jahreswert
+  wiedergegeben, obwohl sie eine Zehnjahressumme darstellt. Die Expertise des
+  Bundes werde nur namentlich genannt, während die FDP-Studie beziffert und
+  verlinkt werde.
+kritik_schwere: 3
 ---
 
 *Der Titel stellt eine Finanzierungsvorlage als reine Steuerfrage: «Wie (un)sozial ist die Mehrwertsteuer?» Die 13. AHV-Rente, um deren Finanzierung es geht, erscheint ein einziges Mal, im ersten Satz. Danach prüft der Beitrag nur noch, wer zahlt, nie, wer erhält. Die tragende Vorannahme steht im Satz «Streng genommen wird damit gegen ein Grundprinzip der Besteuerung verstossen». Illustriert wird sie mit einer Packung Spaghetti, die von der Vorlage gar nicht erfasst wird, und beziffert mit Zahlen aus einer Studie im Auftrag einer Partei, die die Vorlage ablehnt. Was der Beitrag verschweigt: Die Steuer deckt die Rente nur etwa zur Hälfte, und die Rente selbst hat eine Verteilungswirkung, die in keine Rechnung eingeht.*
