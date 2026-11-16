@@ -1,5 +1,1387 @@
 [
   {
+    "slug": "beim-eu-vertrag-zaehlt-srf-die-tage-nicht-die-kantone",
+    "title": "Beim EU-Vertrag zählt SRF die Tage, nicht die Kantone",
+    "date": "2026-11-16",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/beim-eu-vertrag-zaehlt-srf-die-tage-nicht-die-kantone.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Abstimmungen",
+      "EU/Aussenpolitik"
+    ],
+    "themen": [
+      "EU-Vertragspaket",
+      "Ständemehr",
+      "Abstimmungstermin",
+      "Parlamentsverfahren",
+      "Föderalismus"
+    ],
+    "tags": [
+      "Echo der Zeit",
+      "Ständemehr",
+      "Volksmehr",
+      "Abstimmungsfahrplan",
+      "Verfahrensfrage",
+      "Bundeskanzlei",
+      "Differenzbereinigung",
+      "Wahlkampf"
+    ],
+    "kritisiertes_medium": "SRF Echo der Zeit",
+    "kritisierter_beitrag": "Abstimmung zum EU-Vertragspaket kommt wohl frühestens 2028",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Framing",
+      "Kontextmangel"
+    ],
+    "personen": [
+      "Stefan Engler",
+      "Manuel Strupler"
+    ],
+    "institutionen": [
+      "SRF",
+      "Echo der Zeit",
+      "Bundesrat",
+      "Nationalrat",
+      "Ständerat",
+      "Bundeskanzlei",
+      "SVP",
+      "Staatspolitische Kommissionen"
+    ],
+    "gesetze_vorlagen": [
+      "EU-Vertragspaket",
+      "EWR-Vertrag"
+    ],
+    "these": "SRF verschweigt im Beitrag über den Abstimmungstermin zum EU-Vertragspaket die umstrittene Frage des Ständemehrs und stellt politische Priorisierungen als Kalenderzwang dar, wodurch der Stimmbürger nicht erfährt, nach welcher Regel seine Stimme zählt.",
+    "zusammenfassung": "Der 9min-Artikel kritisiert einen SRF-Echo-der-Zeit-Beitrag vom 14.11.2026, der den Abstimmungstermin zum EU-Vertragspaket auf frühestens 2028 datiert, ohne die zentrale Streitfrage des Ständemehrs zu erwähnen. Der Beitrag rahme politische Priorisierungen des Ständerats als Sachzwang und übernehme die Begründung des Ständeratspräsidenten unkritisch. Damit entpolitisiere SRF ein Thema, das für den Stimmbürger entscheidend ist: ob seine Stimme nur im Volksmehr oder zusätzlich im Ständemehr zählt.",
+    "quelle_datum": "2026-11-14",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "Echo der Zeit",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": ""
+  },
+  {
+    "slug": "der-cyber-anstieg-den-der-eigene-amtsbericht-nicht-zeigt",
+    "title": "Der Cyber-Anstieg, den der eigene Amtsbericht nicht zeigt",
+    "date": "2026-11-16",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/der-cyber-anstieg-den-der-eigene-amtsbericht-nicht-zeigt.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Sicherheitspolitik",
+      "Demokratie"
+    ],
+    "themen": [
+      "Cybersicherheit",
+      "Behördenkommunikation",
+      "Regulierung und Marktverbot",
+      "Datenqualität in der Berichterstattung",
+      "Interessenkonflikte bei Amtsaussagen"
+    ],
+    "tags": [
+      "Cyberattacken",
+      "Florian Schütz",
+      "Bundesamt für Cybersicherheit",
+      "SRF",
+      "Marktverbot",
+      "Vernehmlassung",
+      "Ransomware",
+      "Meldestatistik"
+    ],
+    "kritisiertes_medium": "SRF",
+    "kritisierter_beitrag": "Cyber-Chef des Bundes warnt vor aggressiveren Cyberangriffen",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Behördenpropaganda",
+      "Auslassung",
+      "Framing"
+    ],
+    "personen": [
+      "Florian Schütz"
+    ],
+    "institutionen": [
+      "Bundesamt für Cybersicherheit",
+      "SRF",
+      "Bundesrat",
+      "VBS"
+    ],
+    "gesetze_vorlagen": [
+      "Cybersicherheitsgesetz",
+      "Kennzeichnungspflicht für Telefonnummern"
+    ],
+    "these": "SRF übernimmt unkritisch die Warnung einer Behörde vor steigenden Cyberangriffen, obwohl der eigene Amtsbericht diese nicht stützt, und rahmt ein noch nicht existierendes Gesetz mit weitreichendem Marktverbot als logische Konsequenz, ohne Kosten, Alternativen oder Gegenstimmen zu prüfen.",
+    "zusammenfassung": "Der 9min-Artikel kritisiert einen SRF-Radiobeitrag vom 16.11.2026, in dem Cyber-Chef Florian Schütz vor einer Zuspitzung der Cyberlage warnt und ein neues Cybersicherheitsgesetz mit Vertriebsverbot für unsichere Produkte fordert. SRF übernehme die Behördenaussage ungeprüft, obwohl der Halbjahresbericht des eigenen Amts leicht rückläufige Meldungen und stagnierende Ransomware-Fälle zeigt. Zudem bleibe der Gesetzestext noch nicht existent, die Kosten eines Marktverbots und alternative Instrumente würden ausgeblendet, und die Interessenlage der Behörde sowie Gegenstimmen fehlten vollständig.",
+    "quelle_datum": "2026-11-16",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "Tagesgespräch",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": ""
+  },
+  {
+    "slug": "der-e-lastwagen-der-sich-ueber-die-steuerbefreiung-rechnet",
+    "title": "Der E-Lastwagen, der sich über die Steuerbefreiung rechnet",
+    "date": "2026-11-16",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/der-e-lastwagen-der-sich-ueber-die-steuerbefreiung-rechnet.webp",
+    "tweetId": "",
+    "readingTime": 6,
+    "categories": [
+      "SRF/SRG",
+      "Wirtschaft",
+      "Klima/Energie"
+    ],
+    "themen": [
+      "LSVA-Befreiung für E-Lastwagen",
+      "Medienframing staatlicher Eingriffe",
+      "Bahninfrastrukturfonds-Finanzierung",
+      "Elektromobilität im Schwerverkehr"
+    ],
+    "tags": [
+      "LSVA",
+      "Elektro-Lastwagen",
+      "Schwerverkehrsabgabe",
+      "Bahninfrastrukturfonds",
+      "Framing",
+      "Auslassung",
+      "Referendumsfrist",
+      "Energiewende"
+    ],
+    "kritisiertes_medium": "SRF",
+    "kritisierter_beitrag": "Bei Lastwagen kommt der Umstieg auf Elektroantrieb voran",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Framing",
+      "Kontextmangel"
+    ],
+    "personen": [
+      "Eric Collomb"
+    ],
+    "institutionen": [
+      "SRF",
+      "RTS",
+      "Emil Egger AG",
+      "Bundesrat",
+      "Parlament",
+      "Bundesamt für Statistik",
+      "Stadt Genf",
+      "Stadtparlament Genf",
+      "Bahninfrastrukturfonds"
+    ],
+    "gesetze_vorlagen": [
+      "Weiterentwicklung der LSVA",
+      "LSVA"
+    ],
+    "these": "SRF rahmt einen staatlich gesetzten Abgabenerlass als selbständige Marktentwicklung und verschweigt dabei die parlamentarisch beschlossene Befristung der Befreiung sowie die fiskalischen Folgen für den Bahninfrastrukturfonds.",
+    "zusammenfassung": "Der Artikel kritisiert einen SRF-Beitrag, der den Umstieg auf Elektro-Lastwagen als Marktentwicklung darstellt, obwohl der einzige Rentabilitätsgrund die befristete LSVA-Befreiung ist. Verschwiegen wird, dass das Parlament fünf Wochen vor der Sendung die ab 2031 gestaffelte Wiedereinführung der Abgabe verabschiedet hat und die Referendumsfrist läuft. Zudem fehlt die Gegenbuchung: Die Ersparnis der Unternehmen fehlt im Bahninfrastrukturfonds, und bei der Stadt Genf als staatlichem Käufer wird der Preisunterschied im Gegensatz zum privaten Unternehmen nicht thematisiert.",
+    "quelle_datum": "2026-11-09",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "RTS 19h30",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": ""
+  },
+  {
+    "slug": "der-jobkiller-den-srf-selbst-nicht-nachweisen-kann",
+    "title": "Der Jobkiller, den SRF selbst nicht nachweisen kann",
+    "date": "2026-11-16",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/der-jobkiller-den-srf-selbst-nicht-nachweisen-kann.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Wirtschaft",
+      "Gesellschaft"
+    ],
+    "themen": [
+      "KI und Arbeitsmarkt",
+      "Kausalitätsbehauptungen in Medien",
+      "Einstiegsstellen für Junge",
+      "Zinswende und Konjunktur",
+      "Studienwahl und Arbeitsmarkt"
+    ],
+    "tags": [
+      "KI",
+      "Arbeitsmarkt",
+      "Kausalität",
+      "Einstiegsstellen",
+      "Zinswende",
+      "Framing",
+      "Umfrage",
+      "Influencer"
+    ],
+    "kritisiertes_medium": "SRF",
+    "kritisierter_beitrag": "KI statt Berufseinsteiger: Wer gibt den Jungen noch eine Chance?",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Framing",
+      "Selektion"
+    ],
+    "personen": [
+      "Coppola"
+    ],
+    "institutionen": [
+      "SRF",
+      "jobs.ch",
+      "SNB",
+      "Adecco",
+      "SECO"
+    ],
+    "gesetze_vorlagen": [],
+    "these": "SRF konstruiert KI als Jobkiller, obwohl der Beitrag selbst die Kausalität nicht belegen kann und alternative Ursachen wie Zinswende, US-Zölle und Überangebot an Absolventen systematisch ausblendet.",
+    "zusammenfassung": "Der 9min-Artikel analysiert einen SRF-Beitrag, der KI als Ursache für rückgängige Einstiegsstellen für Junge darstellt. Die Analyse zeigt, dass die Periodisierung ab 2023 automatisch alle Arbeitsmarkteinflüsse der Post-KI-Phase zuordnet, während Zinswende, US-Zölle und Überangebot an Absolventen ausgeblendet werden. Die Umfrage unter einer Influencer-Community wird als repräsentativ für eine Generation gerahmt, obwohl sie selbstselektiv ist.",
+    "quelle_datum": "2026-11-10",
+    "quelle_format": "Online-Artikel",
+    "quelle_sendung": "Club",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": ""
+  },
+  {
+    "slug": "der-mindestlohn-fuer-lehrabgaenger-dessen-preis-niemand-nennt",
+    "title": "Der Mindestlohn für Lehrabgänger, dessen Preis niemand nennt",
+    "date": "2026-11-16",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/der-mindestlohn-fuer-lehrabgaenger-dessen-preis-niemand-nennt.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Abstimmungen",
+      "Wirtschaft"
+    ],
+    "themen": [
+      "Mindestlohn-Initiative für Lehrabgänger",
+      "Gesamtarbeitsverträge und Vertragsfreiheit",
+      "Kosten eines Preisbodens für margenschwache Betriebe",
+      "Vorgeschichte Mindestlohn-Initiative 2014",
+      "Framing eines Kongressbeschlusses als Vorlage"
+    ],
+    "tags": [
+      "Mindestlohn",
+      "Lehrabgänger",
+      "SGB-Initiative",
+      "Tagesschau",
+      "Gesamtarbeitsvertrag",
+      "Vertragsfreiheit",
+      "Preisboden",
+      "Framing"
+    ],
+    "kritisiertes_medium": "SRF Tagesschau",
+    "kritisierter_beitrag": "5000 Franken Mindestlohn, 8 Wochen Ferien",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Framing",
+      "Kontextmangel"
+    ],
+    "personen": [
+      "David Gallusser",
+      "Urs Furrer"
+    ],
+    "institutionen": [
+      "SRF",
+      "Schweizerischer Gewerkschaftsbund",
+      "Arbeitgeberverband",
+      "Bundesamt für Statistik"
+    ],
+    "gesetze_vorlagen": [
+      "Mindestlohn-Initiative SGB 2026",
+      "Mindestlohn-Initiative 2014",
+      "Obligationenrecht"
+    ],
+    "these": "SRF rahmt einen SGB-Kongressbeschluss ohne Initiativtext als Volksvorlage und blendet die Kosten des Mindestlohns sowie die Vorgeschichte von 2014 aus.",
+    "zusammenfassung": "9min.ch analysiert einen SRF-Tagesschau-Beitrag vom 13.11.2026 über die angekündigte SGB-Mindestlohn-Initiative für Lehrabgänger. Der Beitrag zeige zwar beide Seiten mit Stimmen, lasse aber zentrale Kontexte weg: den Preis eines Preisbodens (nicht entstehende Lehrstellen), das Scheitern der Mindestlohn-Initiative 2014 mit 76,3 Prozent Nein, den gesetzlichen Ausgangswert von fünf Wochen Ferien und die Tatsache, dass noch kein Initiativtext existiert. Ein Kongressbeschluss werde so als Vorlage gerahmt, über die das Volk entscheide.",
+    "quelle_datum": "2026-11-13",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "Tagesschau",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": ""
+  },
+  {
+    "slug": "der-saubere-strom-der-ueberwiegend-fossil-bleibt",
+    "title": "Der saubere Strom, der überwiegend fossil bleibt",
+    "date": "2026-11-16",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/der-saubere-strom-der-ueberwiegend-fossil-bleibt.webp",
+    "tweetId": "",
+    "readingTime": 6,
+    "categories": [
+      "SRF/SRG",
+      "Klima/Energie",
+      "Demokratie"
+    ],
+    "themen": [
+      "Stromanteil als Klimaziel",
+      "fossile Stromerzeugung im weltweiten Mix",
+      "Erreichbarkeit des 35-Prozent-Ziels",
+      "demokratische Legitimation internationaler Klimabeschlüsse",
+      "Kosten internationaler Klimaziele"
+    ],
+    "tags": [
+      "SRF",
+      "IEA",
+      "Stromanteil",
+      "Klimaziel",
+      "Elektrifizierung",
+      "fossile Erzeugung",
+      "Fatih Birol",
+      "Felix Wertli"
+    ],
+    "kritisiertes_medium": "SRF News",
+    "kritisierter_beitrag": "Das grosse Ziel: 35 Prozent Strom bis 2035",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Kontextmangel",
+      "Framing"
+    ],
+    "personen": [
+      "Fatih Birol",
+      "Felix Wertli"
+    ],
+    "institutionen": [
+      "SRF",
+      "Internationale Energieagentur",
+      "UNO",
+      "Schweiz",
+      "EU",
+      "China",
+      "USA"
+    ],
+    "gesetze_vorlagen": [],
+    "these": "SRF präsentiert ein Stromanteilsziel als Klimaziel, ohne die zentrale Bedingung erneuerbarer Erzeugung, die Erreichbarkeit des Ziels, die Kosten und die demokratische Legitimation zu prüfen.",
+    "zusammenfassung": "9min.ch kritisiert den SRF-Beitrag zum UNO-Klimaziel «35 Prozent Strom bis 2035», weil er verschweigt, dass der weltweite Strommix zu gut 60 Prozent fossil ist und Elektrifizierung die Verbrennung nur ins Kraftwerk verlagert. Der Beitrag rahmt ein Nachfrageziel als Klimaziel, prüft weder die Erreichbarkeit noch die Kosten und lässt die Gegenseite namenlos. Die demokratische Legitimation des Schweizer Bekenntnisses wird nicht thematisiert.",
+    "quelle_datum": "2026-11-16",
+    "quelle_format": "Online-Artikel",
+    "quelle_sendung": "HeuteMorgen",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": ""
+  },
+  {
+    "slug": "die-abgeschaffte-gebuehr-die-tschechen-weiter-bezahlen",
+    "title": "Die abgeschaffte Gebühr, die Tschechen weiter bezahlen",
+    "date": "2026-11-16",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/die-abgeschaffte-gebuehr-die-tschechen-weiter-bezahlen.webp",
+    "tweetId": "",
+    "readingTime": 6,
+    "categories": [
+      "SRF/SRG",
+      "Billag/Gebühren",
+      "EU/Aussenpolitik"
+    ],
+    "themen": [
+      "Medienfinanzierung",
+      "Rundfunkgebühr vs. Steuerfinanzierung",
+      "öffentlich-rechtlicher Rundfunk",
+      "Tschechien",
+      "EU-Medienpolitik"
+    ],
+    "tags": [
+      "Gebührenfinanzierung",
+      "Steuerfinanzierung",
+      "SRF",
+      "Interessenkonflikt",
+      "Framing",
+      "Tschechien",
+      "Medienreform",
+      "öffentlich-rechtlicher Rundfunk"
+    ],
+    "kritisiertes_medium": "SRF 4 News",
+    "kritisierter_beitrag": "Grossdemo in Tschechien gegen Abschaffung von Rundfunkgebühr",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Framing",
+      "Auslassung",
+      "Interessenkonflikt"
+    ],
+    "personen": [
+      "Mikulas Minar",
+      "Macinka",
+      "Babiš"
+    ],
+    "institutionen": [
+      "SRF",
+      "SRF 4 News",
+      "EU-Kommission",
+      "CTK",
+      "Eine Million Augenblicke für Demokratie",
+      "Regierung Tschechien"
+    ],
+    "gesetze_vorlagen": [
+      "Initiative «200 Franken sind genug!»",
+      "Europäisches Medienfreiheitsgesetz",
+      "Tschechischer Medienreform-Entwurf"
+    ],
+    "these": "SRF rahmt die Umstellung der tschechischen Rundfunkfinanzierung von Gebühren auf Steuern als «Abschaffung», verschweigt den nordischen Vergleich und die eigene Betroffenheit als Gebührenempfänger.",
+    "zusammenfassung": "Der 9min-Artikel kritisiert einen SRF-Beitrag über eine Grossdemo in Tschechien gegen eine Medienreform. SRF titelt von «Abschaffung der Rundfunkgebühr», obwohl der Text selbst eine Umstellung auf Steuerfinanzierung beschreibt. Der Vergleich mit Finnland, Schweden, Norwegen und Dänemark, die denselben Wechsel bereits vollzogen haben, fehlt ebenso wie der Hinweis, dass SRF selbst von einer Gebühr lebt, über die die Schweiz acht Monate zuvor abgestimmt hat.",
+    "quelle_datum": "2026-11-15",
+    "quelle_format": "Online-Artikel",
+    "quelle_sendung": "SRF 4 News",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": ""
+  },
+  {
+    "slug": "die-abgeschaffte-heiratsstrafe-die-noch-bis-2032-gilt",
+    "title": "Die abgeschaffte Heiratsstrafe, die noch bis 2032 gilt",
+    "date": "2026-11-16",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/die-abgeschaffte-heiratsstrafe-die-noch-bis-2032-gilt.webp",
+    "tweetId": "",
+    "readingTime": 6,
+    "categories": [
+      "SRF/SRG",
+      "Abstimmungen",
+      "Wirtschaft"
+    ],
+    "themen": [
+      "Heiratsstrafe",
+      "Individualbesteuerung",
+      "Steuerreform 2032",
+      "Volksabstimmung November 2026",
+      "Steuerföderalismus"
+    ],
+    "tags": [
+      "Heiratsstrafe",
+      "Individualbesteuerung",
+      "Echo der Zeit",
+      "Steuerchaos-Framing",
+      "Verwaltungsperspektive",
+      "annullierte Abstimmung",
+      "Bundesgericht 2019",
+      "Steuerämter als Betroffene"
+    ],
+    "kritisiertes_medium": "SRF",
+    "kritisierter_beitrag": "Heiratsstrafe erneut abschaffen – führt das zum Steuerchaos?",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Framing",
+      "Auslassung",
+      "Kontextmangel"
+    ],
+    "personen": [
+      "Ernst Stocker",
+      "Liridona Zena",
+      "Benedikt Würth"
+    ],
+    "institutionen": [
+      "SRF",
+      "Bundesgericht",
+      "Eidgenössische Steuerverwaltung",
+      "Finanzdirektorenkonferenz",
+      "Nationalrat",
+      "Ständerat",
+      "Bundesrat",
+      "Die Mitte"
+    ],
+    "gesetze_vorlagen": [
+      "Individualbesteuerung 2032",
+      "Initiative der Mitte",
+      "Artikel 129 BV"
+    ],
+    "these": "SRF rahmt ein erst 2032 greifendes Gesetz als bereits vollzogene Abschaffung der Heiratsstrafe und verschiebt die Perspektive von der Last der Bürger auf die Mühe der Verwaltung, ohne wesentliche Fakten und historischen Kontext zu nennen.",
+    "zusammenfassung": "Der 9min-Artikel analysiert einen SRF-Echo-der-Zeit-Beitrag zur Abstimmung über die Heiratsstrafe und kritisiert, dass der Titel eine für 2032 geplante Gesetzesänderung als vollzogene Abschaffung präsentiert. Der Beitrag liefere keine Zahlen betroffener Paare, keine Franken-Beträge und verschweige den historischen Kontext der ersten annullierten Volksabstimmung von 2019. Statt die Bürgerperspektive einzunehmen, werde die Verwaltungsperspektive der Steuerämter zum Massstab erklärt, während die Mitte-Position als letztes Wort unwidersprochen bleibe.",
+    "quelle_datum": "2026-11-06",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "Echo der Zeit",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": ""
+  },
+  {
+    "slug": "die-brennenden-autos-deren-besitzer-srf-nicht-fragt",
+    "title": "Die brennenden Autos, deren Besitzer SRF nicht fragt",
+    "date": "2026-11-16",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/die-brennenden-autos-deren-besitzer-srf-nicht-fragt.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Gesellschaft",
+      "Demokratie"
+    ],
+    "themen": [
+      "Jugenddemos und Gewalt",
+      "Medienberichterstattung über Proteste",
+      "Eigentum und Haftung bei Demonstrationen",
+      "Klimastreik-Bewegung"
+    ],
+    "tags": [
+      "Juso",
+      "Hostetmann",
+      "Michelle Beyeler",
+      "Gewalt bei Demos",
+      "Eigentum",
+      "Haftung",
+      "Rendez-vous",
+      "Framing"
+    ],
+    "kritisiertes_medium": "SRF",
+    "kritisierter_beitrag": "Wie plant man einen Protest, der friedlich bleiben soll?",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Framing",
+      "Kontextmangel"
+    ],
+    "personen": [
+      "Michelle Beyeler",
+      "Hostetmann"
+    ],
+    "institutionen": [
+      "SRF",
+      "Juso",
+      "Jugendstreikkomitee",
+      "Polizei"
+    ],
+    "gesetze_vorlagen": [],
+    "these": "SRF rahmt Gewalt bei Jugenddemos als Imageproblem der Bewegung und lässt die Geschädigten, Eigentumsfragen und Haftung vollständig aus dem Bild verschwinden.",
+    "zusammenfassung": "Der Artikel kritisiert den SRF-Beitrag in Rendez-vous vom 13.11.2026, weil er Gewalt bei Jugenddemos ausschliesslich als Kostenfaktor für die Bewegung bilanziert und die Geschädigten, Sachschäden und Polizeikosten ausblendet. Die Juso-Präsidentin wird mit wörtlichen Zitaten und Relativierungen präsentiert, während bürgerliche Kritiker namenlos in indirekter Rede bleiben. Zudem verschweigt der Beitrag, dass die Juso den Jugendstreik mitorganisiert, und lässt offen, welche Krawalle wo stattfanden.",
+    "quelle_datum": "2026-11-13",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "Rendez-vous",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": ""
+  },
+  {
+    "slug": "die-russland-munition-die-das-alte-gesetz-durchliess",
+    "title": "Die Russland-Munition, die das alte Gesetz durchliess",
+    "date": "2026-11-16",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/die-russland-munition-die-das-alte-gesetz-durchliess.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Abstimmungen",
+      "Sicherheitspolitik"
+    ],
+    "themen": [
+      "Waffenexport-Kontrolle",
+      "Kriegsmaterialgesetz-Revision",
+      "Medienframing im Abstimmungskampf",
+      "Nichtwiederausfuhrerklärung",
+      "Demokratische Entscheidungsgrundlage"
+    ],
+    "tags": [
+      "SRF",
+      "Echo der Zeit",
+      "Waffenexport",
+      "Russland",
+      "Kriegsmaterialgesetz",
+      "Abstimmung",
+      "Framing",
+      "Seco"
+    ],
+    "kritisiertes_medium": "SRF",
+    "kritisierter_beitrag": "Schweizer Munition gelangte über Umwege nach Russland",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Framing",
+      "Auslassung",
+      "Behördenpropaganda"
+    ],
+    "personen": [
+      "Molina",
+      "Götte"
+    ],
+    "institutionen": [
+      "SRF",
+      "Seco",
+      "Bundesrat",
+      "NZZ am Sonntag",
+      "RUAG",
+      "Parlament"
+    ],
+    "gesetze_vorlagen": [
+      "Kriegsmaterialgesetz (Revision)",
+      "Nichtwiederausfuhrerklärung",
+      "Haager Abkommen 1907"
+    ],
+    "these": "SRF rahmt einen Munitionsexport, der unter dem geltenden Recht durch eine Lücke für private Händler passierte, als Warnung vor der Gesetzesrevision und verzerrt damit die Entscheidungsgrundlage der Stimmbürger.",
+    "zusammenfassung": "Der Artikel kritisiert einen SRF-Beitrag, der einen RUAG-Munitionsexport nach Russland über einen privaten Händler als Argument gegen die Lockerung des Kriegsmaterialgesetzes rahmt, obwohl beide Gesetze diesen Fall gleich behandeln. Die auflösenden Fakten stehen im Beitrag, aber erst hinten, während Einstieg und Bildlegende die Verbindung behaupten. SRF stellt zudem das Seco als Aufklärer dar, obwohl es die bewilligende Behörde ist.",
+    "quelle_datum": "2026-11-15",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "Echo der Zeit",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": ""
+  },
+  {
+    "slug": "die-steuerzahler-haben-entschieden-zu-wort-kommen-die-empfaenger",
+    "title": "Die Steuerzahler haben entschieden, zu Wort kommen die Empfänger",
+    "date": "2026-11-16",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/die-steuerzahler-haben-entschieden-zu-wort-kommen-die-empfaenger.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Demokratie",
+      "Wirtschaft"
+    ],
+    "themen": [
+      "Waadtländer Steuerinitiative",
+      "Berichterstattung über Volksentscheide",
+      "Asymmetrie bei Steuerfragen",
+      "Direkte Demokratie in Medien",
+      "Ausgaben- vs. Einnahmenseite"
+    ],
+    "tags": [
+      "Steuerinitiative",
+      "Waadt",
+      "direkte Demokratie",
+      "Framing",
+      "Auslassung",
+      "Selektion",
+      "Behördenpropaganda",
+      "Volksentscheid"
+    ],
+    "kritisiertes_medium": "SRF",
+    "kritisierter_beitrag": "Waadtländer Regierung muss Steuern senken",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Framing",
+      "Auslassung",
+      "Selektion"
+    ],
+    "personen": [
+      "Nordmann",
+      "Alessandro Pelizzari"
+    ],
+    "institutionen": [
+      "SRF",
+      "Fachhochschule für Soziale Arbeit",
+      "Kanton Waadt",
+      "Regierung Waadt"
+    ],
+    "gesetze_vorlagen": [
+      "Baisse d'impôts pour tous"
+    ],
+    "these": "SRF rahmt einen Volksentscheid für Steuersenkungen als Katastrophe, lässt nur die Ausgabeseite sprechen und verschweigt die Gründe und Nutzniesser der Mehrheit.",
+    "zusammenfassung": "Der Artikel kritisiert den SRF-Beitrag zur Waadtländer Steuerinitiative, weil er den Volksentscheid als Schadensereignis darstellt und nur Regierungsvertreter, Staatsangestellte und Sozialwerke zu Wort kommen lässt. Name, Datum und Ergebnis der Initiative fehlen ebenso wie die Perspektive der Steuerzahler. Zudem wird ein Fachhochschuldirektor als neutraler Wissenschaftler präsentiert, obwohl seine Institution Partei ist, und die Defizitprognose eines betroffenen Regierungsrats wird unkritisch übernommen.",
+    "quelle_datum": "2026-11-12",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "Echo der Zeit",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": ""
+  },
+  {
+    "slug": "gastro-lehre-die-branche-prueft-sich-selbst-und-besteht",
+    "title": "Gastro-Lehre: Die Branche prüft sich selbst und besteht",
+    "date": "2026-11-16",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/gastro-lehre-die-branche-prueft-sich-selbst-und-besteht.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Wirtschaft",
+      "Gesellschaft"
+    ],
+    "themen": [
+      "Lehrabbrüche in der Gastro",
+      "Statistikinterpretation",
+      "Interessenkonflikt in der Berichterstattung",
+      "Selbstregulierung der Branche",
+      "Projektfinanzierung"
+    ],
+    "tags": [
+      "Lehrabbrüche",
+      "Gastro",
+      "Statistik",
+      "Interessenkonflikt",
+      "SRF",
+      "Regionaljournal Ostschweiz",
+      "Stiftung Sapere",
+      "Selbstregulierung"
+    ],
+    "kritisiertes_medium": "SRF News",
+    "kritisierter_beitrag": "Viele Lehrabbrüche: Gastro nimmt sich selbst in die Pflicht",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Framing",
+      "Selektion"
+    ],
+    "personen": [
+      "Philipp Schneider",
+      "Walter Tobler",
+      "Renato Blättler",
+      "Sebastian Länzlinger"
+    ],
+    "institutionen": [
+      "SRF",
+      "Gastro St. Gallen",
+      "Stiftung Sapere",
+      "Bundesamt für Statistik",
+      "Hotel & Gastro Union",
+      "Unia",
+      "kantonales Amt für Berufsbildung"
+    ],
+    "gesetze_vorlagen": [],
+    "these": "SRF präsentiert ein Branchenprojekt als Selbstkritik, ohne unabhängige Stimmen oder Klärung der Finanzierung, und überzeichnet die Lehrabbruchsquote durch ungenaue Statistikinterpretation.",
+    "zusammenfassung": "Der 9min-Artikel kritisiert einen SRF-Beitrag des Regionaljournals Ostschweiz, der ein Pilotprojekt der Gastro-Branche gegen Lehrabbrüche vorstellt. Die Kritikpunkte: Die zitierte 37-Prozent-Zahl misst aufgelöste Lehrverträge, nicht Aussteiger, alle vier zitierten Stimmen gehören zum Projekt, die Finanzierung des Gratisjahres bleibt ungeklärt, und der Titel 'Pflicht' verschleiert die Freiwilligkeit der Teilnahme. Der Beitrag fungiere als Projektpräsentation im Nachrichtenformat statt als unabhängige Prüfung.",
+    "quelle_datum": "2026-11-11",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "Regionaljournal Ostschweiz",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": ""
+  },
+  {
+    "slug": "rechtsbruch-beim-bundesrat-oder-bloss-lobby-sprech-der-aerzte",
+    "title": "Rechtsbruch beim Bundesrat, oder bloss Lobby-Sprech der Ärzte?",
+    "date": "2026-11-16",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/rechtsbruch-beim-bundesrat-oder-bloss-lobby-sprech-der-aerzte.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Wirtschaft",
+      "Gesellschaft"
+    ],
+    "themen": [
+      "Gesundheitskosten",
+      "KVG-Tarifstreit",
+      "Bundesratskompetenzen",
+      "Lobbyismus im Gesundheitswesen",
+      "Prämienzahler-Perspektive"
+    ],
+    "tags": [
+      "Yvonne Gilli",
+      "FMH",
+      "TARDOC",
+      "Kostendämpfungspaket 1b",
+      "Art. 47c KVG",
+      "Kostenbremse-Initiative",
+      "Legalitätsprinzip",
+      "Samstagsrundschau"
+    ],
+    "kritisiertes_medium": "SRF",
+    "kritisierter_beitrag": "Ärzte-Präsidentin: ‹Bundesrat hat seine Kompetenz überschritten›",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Selektion",
+      "Framing"
+    ],
+    "personen": [
+      "Yvonne Gilli"
+    ],
+    "institutionen": [
+      "SRF",
+      "FMH",
+      "Bundesrat",
+      "EDI",
+      "BAG",
+      "Parlament",
+      "Krankenkassen",
+      "Spitäler"
+    ],
+    "gesetze_vorlagen": [
+      "Art. 47c KVG",
+      "Art. 43 Abs. 5bis KVG",
+      "Art. 54 ff. KVG",
+      "Kostendämpfungspaket 1b",
+      "Kostenbremse-Initiative",
+      "TARDOC"
+    ],
+    "these": "SRF reicht den unbegründeten Vorwurf der FMH-Präsidentin, der Bundesrat handle ohne Gesetzesgrundlage, ungeprüft weiter und rahmt einen Rechtsstreit als Stimmungsbild, während Rechtsgrundlage, Herkunft der 4%-Grenze und der Volksentscheid zum Kostendeckel fehlen.",
+    "zusammenfassung": "Der 9min-Artikel kritisiert einen SRF-Samstagsrundschau-Beitrag, der den Vorwurf von FMH-Präsidentin Yvonne Gilli, der Bundesrat habe seine Kompetenz überschritten, ungeprüft in den Titel hebt. SRF erwähne weder die gesetzliche Grundlage (Art. 47c KVG) noch die Herkunft der 4%-Grenze aus der TARDOC-Genehmigung noch die Abstimmungsniederlage der Kostenbremse-Initiative 2024. Der Beitrag lasse nur die Ärzteschaft zu Wort kommen, während Krankenkassen, Spitäler und Prämienzahler stumm blieben und rahme einen Rechtsstreit als emotionale Geduldsprobe.",
+    "quelle_datum": "2026-11-14",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "Samstagsrundschau",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": ""
+  },
+  {
+    "slug": "schmuggelgold-in-schweizer-raffinerien-oder-nur-dubai-gold",
+    "title": "Schmuggelgold in Schweizer Raffinerien, oder nur Dubai-Gold?",
+    "date": "2026-11-16",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/schmuggelgold-in-schweizer-raffinerien-oder-nur-dubai-gold.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Wirtschaft",
+      "Demokratie"
+    ],
+    "themen": [
+      "Goldhandel und Sorgfaltspflichten",
+      "Vernehmlassungsverfahren und Verordnungsrecht",
+      "Konzernverantwortungsinitiative",
+      "Schmuggel- vs. Konfliktgold",
+      "Rolle von NGOs als Verfahrensparteien"
+    ],
+    "tags": [
+      "Goldraffinerien",
+      "Dubai",
+      "Swissaid",
+      "Vernehmlassung",
+      "Edelmetallkontrollgesetz",
+      "Verordnung",
+      "Konzernverantwortungsinitiative",
+      "Lieferkette"
+    ],
+    "kritisiertes_medium": "SRF News",
+    "kritisierter_beitrag": "Studie: Strengere Dubai-Regeln für Gold greifen kaum",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Framing",
+      "Selektion"
+    ],
+    "personen": [],
+    "institutionen": [
+      "SRF",
+      "Swissaid",
+      "Valcambi",
+      "ASMP",
+      "LBMA",
+      "Bundesrat",
+      "FATF",
+      "Zentralamt für Edelmetallkontrolle",
+      "economiesuisse"
+    ],
+    "gesetze_vorlagen": [
+      "Edelmetallkontrollgesetz",
+      "Obligationenrecht",
+      "Konzernverantwortungsinitiative"
+    ],
+    "these": "SRF präsentiert die Schätzung einer Vernehmlassungspartei als Befund und verschweigt wesentliche Kontexte, wodurch es eine strengere Verordnung als einzige Lösung nahelegt, ohne dass die demokratische Einflussnahme auf diese Verordnung thematisiert wird.",
+    "zusammenfassung": "Der Artikel kritisiert den SRF-Beitrag, weil er eine Swissaid-Studie als Befund präsentiert, ohne die Rolle von Swissaid als Vernehmlassungspartei zu problematisieren. Wesentliche Kontexte fehlen: die Gesamtimportmenge der Emirate, der Anteil beanstandeten Goldes an den Schweizer Importen, die bestehenden Sorgfaltspflichten seit 2022 und die Tatsache, dass die Regelschärfe per Verordnung ohne Referendum festgelegt wird. Die Gleichsetzung von Konflikt- und Schmuggelgold sowie die fehlende aktuelle Stellungnahme Valcambis verzerrn das Bild zusätzlich.",
+    "quelle_datum": "2026-11-12",
+    "quelle_format": "Online-Artikel",
+    "quelle_sendung": "",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": ""
+  },
+  {
+    "slug": "schweizer-design-das-kein-schweizerkreuz-mehr-tragen-soll",
+    "title": "Schweizer Design, das kein Schweizerkreuz mehr tragen soll",
+    "date": "2026-11-16",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/schweizer-design-das-kein-schweizerkreuz-mehr-tragen-soll.webp",
+    "tweetId": "",
+    "readingTime": 6,
+    "categories": [
+      "SRF/SRG",
+      "Wirtschaft",
+      "Demokratie"
+    ],
+    "themen": [
+      "Swissness-Label",
+      "Schweizerkreuz-Herkunftskennzeichnung",
+      "Gesetzgebungsverfahren",
+      "Verbraucherschutz vs. Produzenteninteressen",
+      "Rechtsstreit IGE vs. On"
+    ],
+    "tags": [
+      "Swissness",
+      "Schweizerkreuz",
+      "IGE",
+      "On",
+      "Bundesrat",
+      "Ständerat",
+      "Fabio Regazzi",
+      "Thomas Minder"
+    ],
+    "kritisiertes_medium": "SRF 4 News",
+    "kritisierter_beitrag": "Wer mit dem Schweizerkreuz wirbt, soll in der Schweiz produzieren",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Framing",
+      "Kontextmangel"
+    ],
+    "personen": [
+      "Fabio Regazzi",
+      "Thomas Minder"
+    ],
+    "institutionen": [
+      "SRF",
+      "SRF 4 News",
+      "Institut für Geistiges Eigentum",
+      "On",
+      "Bundesrat",
+      "Ständerat",
+      "Parlamentskommission",
+      "Chocosuisse",
+      "Biscosuisse",
+      "Schweizerischer Gewerbeverband",
+      "sda"
+    ],
+    "gesetze_vorlagen": [
+      "Motion Fabio Regazzi zur Swissness-Praxis",
+      "Swissness-Gesetzgebung",
+      "Volksinitiative zum Schutz des Schweizerkreuzes"
+    ],
+    "these": "SRF meldet einen Kommissionsauftrag zur Verschärfung der Swissness-Regel als allgemeine Norm, ohne Absender, ohne Ausgang des Rechtsstreits mit On, ohne den Bundesrat und ohne die Interessenlagen zu nennen.",
+    "zusammenfassung": "9min.ch kritisiert einen SRF-4-News-Beitrag vom 13.11.2026, der eine Parlamentskommissionsforderung zur Verschärfung der Schweizerkreuz-Regel als Schlagzeile ohne Absender präsentiert. Wesentliche Kontexte fehlen: der Ausgang des Rechtsstreits mit On, die Haltung des Bundesrats, die Motion von Fabio Regazzi, die Drohung mit einer Volksinitiative durch Thomas Minder und die Interessenlagen von Chocosuisse, Biscosuisse und dem Gewerbeverband. Der Beitrag rahmt eine Behördenposition als neutrale Norm und verschweigt die politische Kontroverse.",
+    "quelle_datum": "2026-11-13",
+    "quelle_format": "Online-Artikel",
+    "quelle_sendung": "SRF 4 News",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": ""
+  },
+  {
+    "slug": "schwyz-zahlt-und-zehrt-graubuenden-empfaengt-und-polstert",
+    "title": "Schwyz zahlt und zehrt, Graubünden empfängt und polstert",
+    "date": "2026-11-16",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/schwyz-zahlt-und-zehrt-graubuenden-empfaengt-und-polstert.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Wirtschaft",
+      "Demokratie"
+    ],
+    "themen": [
+      "Finanzausgleich",
+      "Kantonsfinanzen",
+      "Rechnungslegung HRM 2",
+      "Föderalismus",
+      "Eigenkapital vs. Liquidität"
+    ],
+    "tags": [
+      "Finanzausgleich",
+      "Eigenkapital",
+      "HRM 2",
+      "Neubewertung",
+      "Kantonsvergleich",
+      "Buchwert vs. Geld",
+      "Geberkanton",
+      "Empfängerkanton"
+    ],
+    "kritisiertes_medium": "SRF Regionaljournal Graubünden",
+    "kritisierter_beitrag": "Warum einige Kantone sparen müssen – und andere überhaupt nicht",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Framing",
+      "Kontextmangel"
+    ],
+    "personen": [
+      "Roland Fischer"
+    ],
+    "institutionen": [
+      "SRF",
+      "Regionaljournal Graubünden",
+      "Bund",
+      "Kantonsparlament"
+    ],
+    "gesetze_vorlagen": [
+      "Finanzausgleich",
+      "HRM 2"
+    ],
+    "these": "Der SRF-Beitrag verschweigt den Finanzausgleich beim Vergleich der Kantone Schwyz, Zug und Graubünden und rahmt buchhalterische Neubewertungen als Ersparnisse, wodurch ein verzerrtes Bild der Kantonsfinanzen entsteht.",
+    "zusammenfassung": "Der Beitrag des SRF Regionaljournals Graubünden vergleicht drei Kantone, lässt aber den Finanzausgleich als zentralen Geldfluss zwischen ihnen vollständig aus. Eigenkapital aus HRM 2-Neubewertungen wird als 'Polster auf der hohen Kante' gerahmt, obwohl es Buchwert statt Kasse ist. Zudem fehlt der kausale Bezug zu politischen Entscheidungen bei den Ausgaben, und die Warnung vor nicht-nachhaltigen Lösungen wird asymmetrisch nur bei Graubünden, nicht bei Schwyz angewendet.",
+    "quelle_datum": "2026-11-11",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "Regionaljournal Graubünden",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": ""
+  },
+  {
+    "slug": "tropenfische-im-mittelmeer-klimawandel-oder-suezkanal",
+    "title": "Tropenfische im Mittelmeer: Klimawandel oder Suezkanal?",
+    "date": "2026-11-16",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/tropenfische-im-mittelmeer-klimawandel-oder-suezkanal.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Klima/Energie",
+      "Wirtschaft"
+    ],
+    "themen": [
+      "Klimawandel-Framing",
+      "Mittelmeer-Ökologie",
+      "Kausalattribution in Medien",
+      "Fischerei und Überfischung",
+      "Suezkanal als ökologischer Eingriff"
+    ],
+    "tags": [
+      "Lessepsche Migration",
+      "Suezkanal",
+      "Überfischung",
+      "Ballastwasser",
+      "Klimawandel",
+      "Ursachenzuschreibung",
+      "Verantwortung",
+      "Rendez-vous"
+    ],
+    "kritisiertes_medium": "SRF",
+    "kritisierter_beitrag": "Das wärmere Mittelmeer lockt tropische Fische an",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Framing",
+      "Auslassung",
+      "Selektion"
+    ],
+    "personen": [
+      "Massimo Zuccaro",
+      "Merve Karakus",
+      "Ferdinand de Lesseps"
+    ],
+    "institutionen": [
+      "SRF",
+      "Mittelmeer-Agrarinstitut Bari",
+      "Fischereiinstitut Demre",
+      "GFCM",
+      "FAO",
+      "Copernicus"
+    ],
+    "gesetze_vorlagen": [],
+    "these": "SRF bucht Ursachen mit Absender (Suezkanal, Schifffahrt, Fischerei) unter eine Ursache ohne Absender (Klimawandel) und verschiebt so Verantwortung von konkreten Akteuren auf die globale Klimapolitik.",
+    "zusammenfassung": "Der SRF-Beitrag nennt im Text den Suezkanal und die Schifffahrt als Einfallswege für fremde Arten, verschweigt aber die Überfischung als Ursache leerer Bestände und fragt nicht nach den Betreibern und Entscheidern hinter Kanal, Schiffsvorschriften und Fangmengen. Unter der Dachzeile 'Hotspot des Klimawandels' werden so zuordenbare Ursachen zu einem Naturereignis umgedeutet, dessen Abhilfe auf globale Klimapolitik verschoben wird. Die Kritik gilt der Gewichtung, nicht der Physik der Erwärmung.",
+    "quelle_datum": "2026-11-13",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "Rendez-vous",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": ""
+  },
+  {
+    "slug": "ukraine-lieferungen-verboten-aber-faktisch-moeglich",
+    "title": "Ukraine-Lieferungen: verboten, aber faktisch möglich",
+    "date": "2026-11-16",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/ukraine-lieferungen-verboten-aber-faktisch-moeglich.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "Abstimmungen",
+      "Sicherheitspolitik",
+      "SRF/SRG"
+    ],
+    "themen": [
+      "Kriegsmaterialgesetz",
+      "Rüstungsexporte",
+      "Neutralitätspolitik",
+      "Abstimmungsvorbereitung",
+      "Ukraine-Krieg"
+    ],
+    "tags": [
+      "Kriegsmaterialgesetz",
+      "Rüstungsexporte",
+      "Neutralität",
+      "Ukraine",
+      "Abweichungskompetenz",
+      "Bundesrat",
+      "Framing",
+      "Abstimmung"
+    ],
+    "kritisiertes_medium": "SRF",
+    "kritisierter_beitrag": "Das Ukraine-Paradox des neuen Kriegsmaterialgesetzes",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Framing",
+      "Behördenpropaganda"
+    ],
+    "personen": [],
+    "institutionen": [
+      "SRF",
+      "Bundesrat",
+      "Parlament",
+      "SVP",
+      "SP",
+      "Mitte",
+      "FDP",
+      "Seco",
+      "Mowag",
+      "Deutschland",
+      "Dänemark",
+      "Spanien",
+      "USA",
+      "EU",
+      "Ukraine"
+    ],
+    "gesetze_vorlagen": [
+      "Kriegsmaterialgesetz",
+      "Korrektur-Initiative",
+      "Haager Abkommen V von 1907"
+    ],
+    "these": "Der SRF-Beitrag rahmt ein allgemeines Exportgesetz als Ukraine-Frage und lässt die eigentliche Abstimmungsfrage – die Abweichungskompetenz des Bundesrats – ausserhalb des Bildes, wodurch der Stimmbürger auf eine andere Abstimmung vorbereitet wird.",
+    "zusammenfassung": "Der 9min-Artikel kritisiert einen SRF-Rendez-vous-Beitrag zum neuen Kriegsmaterialgesetz, der die Vorlage primär als Ukraine-Frage rahmt, obwohl die eigentliche Abstimmung am 29. November über die Abweichungskompetenz des Bundesrats entscheidet. Wesentliche Inhalte des Gesetzes – darunter die Ausweitung von Exportmöglichkeiten für 36 Partnerstaaten auch bei bewaffneten Konflikten – werden ausgelassen, während der Bundesrat als neutrale Quelle präsentiert wird, obwohl er selbst von der neuen Kompetenz profitiert. Der Beitrag liefere zwar den Stoff für seine eigene Kritik, ziehe ihn aber nicht.",
+    "quelle_datum": "2026-11-11",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "Rendez-vous",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": ""
+  },
+  {
+    "slug": "waechst-die-schweizer-wirtschaft-oder-nur-die-bevoelkerung",
+    "title": "Wächst die Schweizer Wirtschaft oder nur die Bevölkerung?",
+    "date": "2026-11-16",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/waechst-die-schweizer-wirtschaft-oder-nur-die-bevoelkerung.webp",
+    "tweetId": "",
+    "readingTime": 6,
+    "categories": [
+      "SRF/SRG",
+      "Wirtschaft",
+      "Migration"
+    ],
+    "themen": [
+      "BIP-Wachstum vs. Bevölkerungswachstum",
+      "Pro-Kopf-Wohlstand",
+      "Wirtschaftsberichterstattung",
+      "Agenturmeldungen im öffentlich-rechtlichen Rundfunk"
+    ],
+    "tags": [
+      "BIP",
+      "Pro-Kopf-Wachstum",
+      "Bevölkerungswachstum",
+      "Seco-Schnellschätzung",
+      "Agenturmeldung",
+      "Wohlstand",
+      "Zuwanderung",
+      "Statistik"
+    ],
+    "kritisiertes_medium": "SRF News",
+    "kritisierter_beitrag": "Schweizer Wirtschaft wächst im dritten Quartal leicht",
+    "kritisierter_autor": "awp/sda",
+    "kritik_typ": [
+      "Auslassung",
+      "Framing",
+      "Behördenpropaganda"
+    ],
+    "personen": [],
+    "institutionen": [
+      "SRF",
+      "Seco",
+      "Bundesamt für Statistik",
+      "AWP",
+      "sda"
+    ],
+    "gesetze_vorlagen": [],
+    "these": "SRF meldet ein BIP-Wachstum von 0,2 Prozent, verschweigt aber, dass die Bevölkerung im selben Tempo wächst, sodass pro Kopf nichts übrig bleibt, und übernimmt dabei unkritisch eine Agenturmeldung ohne eigene redaktionelle Einordnung.",
+    "zusammenfassung": "Der Artikel kritisiert, dass SRF ein BIP-Wachstum von 0,2 Prozent als wirtschaftlichen Zustandsbericht titelt, ohne das gleichstarke Bevölkerungswachstum zu erwähnen, das den Pro-Kopf-Wert stagnieren lässt. Zudem fehlt die Relativierung des Vorquartals durch das Seco selbst, das dessen 'fulminantes' Wachstum als durch die volatile Chemie-Pharma-Branche überzeichnet bezeichnet hatte. Die Kritik richtet sich gegen die unbearbeitete Übernahme einer Agenturmeldung durch einen gebührenfinanzierten Sender, der damit Stimmbürgern bei Entscheiden über Zuwanderung und Staatsausgaben ein verzerrtes Bild des Wohlstands vermittelt.",
+    "quelle_datum": "2026-11-16",
+    "quelle_format": "Online-Artikel",
+    "quelle_sendung": "",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": ""
+  },
+  {
+    "slug": "warum-sollte-beim-eu-vertrag-das-volksmehr-genuegen",
+    "title": "Warum sollte beim EU-Vertrag das Volksmehr genügen?",
+    "date": "2026-11-16",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/warum-sollte-beim-eu-vertrag-das-volksmehr-genuegen.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "EU/Aussenpolitik",
+      "Demokratie",
+      "SRF/SRG"
+    ],
+    "themen": [
+      "EU-Vertragspaket",
+      "Ständemehr vs. Volksmehr",
+      "Kompass-Initiative",
+      "Föderalismus",
+      "Referendum sui generis"
+    ],
+    "tags": [
+      "Ständemehr",
+      "Volksmehr",
+      "EU-Vertragspaket",
+      "Kompass-Initiative",
+      "Referendum sui generis",
+      "Bundesrat",
+      "Lenkungsabgabe",
+      "Föderalismus"
+    ],
+    "kritisiertes_medium": "SRF 4 News",
+    "kritisierter_beitrag": "Nationalratskommission will Ständemehr für EU-Vertragspaket",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Kontextmangel",
+      "Framing"
+    ],
+    "personen": [
+      "Rahel Freiburghaus",
+      "Adrian Vatter"
+    ],
+    "institutionen": [
+      "SRF",
+      "Bundesrat",
+      "Nationalratskommission",
+      "Ständerat",
+      "sda",
+      "EU"
+    ],
+    "gesetze_vorlagen": [
+      "EU-Vertragspaket",
+      "Kompass-Initiative",
+      "Bundesverfassung"
+    ],
+    "these": "SRF rahmt die Grundsatzfrage, ob Kantone beim EU-Vertragspaket mitentscheiden, als Verfahrensvarianten-Wahl und lässt dabei die Interessen des Bundesrats als Verhandler, die Volksinitiative als demokratischen Ursprung der Debatte und den Inhalt des Stabilisierungsteils systematisch weg.",
+    "zusammenfassung": "Der SRF-Beitrag meldet den Kommissionsentscheid für ein obligatorisches Referendum sui generis korrekt, übergeht aber zentrale Kontexte: die Kompass-Initiative mit 111'422 Unterschriften, das Interesse des Bundesrats an der tieferen Hürde, den EWR-Präzedenzfall von 1992 und den unerklärten Stabilisierungsteil. Die Hürdenfrage erscheint so als Verfahrensnotiz statt als Grundsatzentscheid über föderale Mitbestimmung. Der Leser erfährt, wie hoch gesprungen werden soll, aber nicht wohin der Sprung führt.",
+    "quelle_datum": "2026-11-16",
+    "quelle_format": "Online-Artikel",
+    "quelle_sendung": "SRF 4 News",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": ""
+  },
+  {
+    "slug": "wer-hat-die-verwaltung-an-microsoft-gekettet",
+    "title": "Wer hat die Verwaltung an Microsoft gekettet?",
+    "date": "2026-11-16",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/wer-hat-die-verwaltung-an-microsoft-gekettet.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Wirtschaft",
+      "Sicherheitspolitik"
+    ],
+    "themen": [
+      "Microsoft-Abhängigkeit der Bundesverwaltung",
+      "Öffentliche Beschaffungspolitik",
+      "Industriepolitik und Förderprogramme",
+      "IT-Sicherheit im Bund"
+    ],
+    "tags": [
+      "Microsoft 365",
+      "Bundesverwaltung",
+      "Klumpenrisiko",
+      "Beschaffung",
+      "Open Source",
+      "Verpflichtungskredit",
+      "Eidgenössische Finanzkontrolle",
+      "Subsidiarität"
+    ],
+    "kritisiertes_medium": "SRF",
+    "kritisierter_beitrag": "Klumpenrisiko Microsoft: Leben wir in fataler Abhängigkeit?",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Framing",
+      "Selektion"
+    ],
+    "personen": [
+      "Matthias Stürmer"
+    ],
+    "institutionen": [
+      "SRF",
+      "Bundesrat",
+      "Eidgenössische Finanzkontrolle",
+      "Ständerat",
+      "Nationalrat",
+      "Bundeskanzlei",
+      "Microsoft",
+      "EVP"
+    ],
+    "gesetze_vorlagen": [
+      "Verpflichtungskredit Microsoft 365 (14,9 Mio. Franken)",
+      "Impulsprogramm Open-Source/Cloud/KI"
+    ],
+    "these": "SRF rahmt den Microsoft-Ausfall als Förderauftrag an den Staat, verschweigt aber, dass der Bund die Abhängigkeit 2023 selbst eingekauft hat, und lässt Kosten, Haftung und Gegenstimmen weg.",
+    "zusammenfassung": "Der Artikel kritisiert einen SRF-Beitrag, der die Microsoft-Abhängigkeit thematisiert, aber den Bundesratsentscheid von 2023 zur Einführung von Microsoft 365 verschweigt. Der einzige Experte widerspricht sich selbst zu Alternativen, was SRF nicht aufgreift, und das Förderprogramm des Ständerats wird ohne Kosten präsentiert. Die Ursache Beschaffung wird genannt und sofort verlassen, der Staat erscheint nur als Lösung, nie als Verursacher.",
+    "quelle_datum": "2026-11-13",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "SRF 4 News",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": ""
+  },
+  {
+    "slug": "wer-zahlt-den-langsameren-bus-wenn-nicht-die-stadt",
+    "title": "Wer zahlt den langsameren Bus, wenn nicht die Stadt?",
+    "date": "2026-11-16",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/wer-zahlt-den-langsameren-bus-wenn-nicht-die-stadt.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Demokratie",
+      "Wirtschaft"
+    ],
+    "themen": [
+      "Tempo 30",
+      "Kostenverteilung bei Geschwindigkeitsmassnahmen",
+      "Gemeindeautonomie",
+      "Bundesgerichtsurteil",
+      "Verkehrsverbundfinanzierung"
+    ],
+    "tags": [
+      "Tempo 30",
+      "Bundesgericht",
+      "Gemeinden",
+      "Verkehrsverbund",
+      "Kostenwahrheit",
+      "Framing",
+      "Subsidiarität",
+      "Mobilitätsinitiative"
+    ],
+    "kritisiertes_medium": "SRF",
+    "kritisierter_beitrag": "Zürcher Gemeinden müssen für Mehrkosten durch Tempo 30 zahlen",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Framing",
+      "Auslassung",
+      "Asymmetrie"
+    ],
+    "personen": [],
+    "institutionen": [
+      "SRF",
+      "Bundesgericht",
+      "Stadt Zürich",
+      "Stadt Winterthur",
+      "Gemeindepräsidienverband",
+      "Zürcher Verkehrsverbund",
+      "Kanton Zürich"
+    ],
+    "gesetze_vorlagen": [
+      "Mobilitätsinitiative",
+      "ÖV-Initiative",
+      "Gegenvorschlag zur ÖV-Initiative"
+    ],
+    "these": "SRF rahmt eine Kostenzuweisung an die entscheidende Gemeinde als Last, ohne zu zeigen, wer vorher zahlte, und überlässt die Auslegung des Urteils der unterlegenen Partei.",
+    "zusammenfassung": "Der 9min-Artikel kritisiert einen SRF-Beitrag zum Bundesgerichtsurteil über Mehrkosten von Tempo-30-Zonen für Zürcher Gemeinden. SRF rahme die Kostenübernahme als «Abwälzung» und «Last», verschweige aber, dass die Kosten vorher beim Verkehrsverbund lagen und die Regel seit Januar 2026 gilt. Zudem werde das Eskalationsmodell vereinfacht, die ÖV-Initiative nicht erklärt und die unterlegene Stadt Zürich erhalte das Schlusswort, ohne dass ihr Interesse markiert werde.",
+    "quelle_datum": "2026-11-13",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "Regionaljournal Zürich Schaffhausen",
+    "quelle_redaktion": "Regionaljournal Zürich Schaffhausen",
+    "kritik_schwere": 2,
+    "muster_id": ""
+  },
+  {
     "slug": "40-milliarden-spaeter",
     "title": "40 Milliarden später",
     "date": "2026-11-12",
