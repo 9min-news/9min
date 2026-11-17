@@ -88,6 +88,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M017
 ---
 
 *Zum SRF-Beitrag *[«Was bedeutet der Austritt der VAE für die Opec?»](https://www.srf.ch/news/wirtschaft/austritt-aus-dem-oelkartell-was-bedeutet-der-austritt-der-vae-fuer-die-opec)* vom 28. April 2026*

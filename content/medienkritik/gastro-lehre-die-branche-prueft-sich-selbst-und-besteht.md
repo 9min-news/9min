@@ -103,6 +103,7 @@ zusammenfassung: >-
   verschleiert die Freiwilligkeit der Teilnahme. Der Beitrag fungiere als
   Projektpräsentation im Nachrichtenformat statt als unabhängige Prüfung.
 kritik_schwere: 3
+muster_id: M009
 ---
 
 *In der Küche der Krone Mosnang geht es laut Bildlegende «zur Sache». Der Betrieb, der das Problem der Lehrabbrüche «derzeit nicht» kennt, wird von einem Mann geführt, der im Stiftungsrat jener Stiftung sitzt, deren Projekt er im selben Beitrag einen «vielversprechenden Ansatz» nennt. SRF übernimmt die Selbstbeschreibung des Titels, «Gastro nimmt sich selbst in die Pflicht», ohne eine einzige Stimme ausserhalb des Projekts zu hören, und verschweigt dabei, dass die zitierte Bundeszahl aufgelöste Lehrverträge misst und nicht Jugendliche, die ihre Ausbildung aufgeben. Eltern und Jugendliche, die eine Lehrstelle wählen, erhalten so ein überzeichnetes Risiko und eine Lösung, deren Wirkung niemand gemessen hat und deren Zahler ungenannt bleibt. Der Gebührenzahler finanziert eine Projektpräsentation im Nachrichtenformat.*

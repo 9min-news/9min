@@ -61,6 +61,7 @@ quelle_format: Broadcast
 quelle_sendung: SRF 4 News aktuell
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *SRF meldet die Abschaffung der Todesstrafe im Libanon und rahmt sie als historischen Schritt für die Menschenrechte. «Erster arabischer Staat», «bedeutender Sieg», «wegweisend». Was nicht vorkommt: die Frage, ob ein Land, das seit 22 Jahren niemandem hinrichtete, einen Schritt macht oder ein Symbol setzt. Was nicht vorkommt: die Frage, ob eine Regierung, die ein Land ohne funktionierende Justiz verwaltet, Menschenrechte fördert oder sich inszeniert. Und was ist mit der Hisbollah, die immer noch existiert? Der Beitrag ist eine Good-News-Story, die eine gescheiterte Regierung als Vorreiter feiert.*

@@ -102,6 +102,7 @@ zusammenfassung: >-
   stellte zwei Wochen vor der Sendung einen neuen Ansatz vor. Der Titel zitiert
   einen Satz, der im Text nicht vorkommt.
 kritik_schwere: 3
+muster_id: M010
 ---
 
 *SRF führt ein Einzelgespräch mit einem Winzer, der eine andere Branche anklagt, und übernimmt diese Anklage bereits im ersten Absatz als Ordnungsrahmen: «Philibert Frick, Winzer im Kanton Waadt, macht vor allem den Handel für die schwierige Lage verantwortlich.» Die Krise erscheint damit als Margenproblem der Händler. Sie erscheint weder als Preissignal eines Überangebots noch als Streit um die Zuteilung von Zollkontingenten. Strukturiert wird das Gespräch von Fricks Zahlen: 40 Prozent Preiszerfall, 35 Rappen Zoll innerhalb und 1.05 Franken ausserhalb des Kontingents. Keine dieser Zahlen wird eingeordnet. Der Titel setzt ein Zitat, «Es geht nur ums Geld», das im publizierten Text nicht steht. Der nächstliegende Satz Fricks sagt das Gegenteil: «Es geht nicht darum, dass wir einfach mehr Geld vom Staat wollen.» Verschwiegen wird, wer einen höheren Zoll bezahlen würde, dass das Kontingent nie ausgeschöpft wird und dass der Bundesrat die Zuteilungsfrage 2026 in die Vernehmlassung schickte und damit scheiterte.*

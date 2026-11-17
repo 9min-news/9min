@@ -58,6 +58,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Zum SRF-Beitrag *[«Warum Italiens Medien Verbrechen und Unglücksfälle lieben»](https://www.srf.ch/news/international/italienische-eigenheit-warum-italiens-medien-verbrechen-und-ungluecksfaelle-lieben)*, 12. Mai 2026*

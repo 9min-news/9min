@@ -100,6 +100,7 @@ zusammenfassung: >-
   wird ohne Kosten präsentiert. Die Ursache Beschaffung wird genannt und sofort
   verlassen, der Staat erscheint nur als Lösung, nie als Verursacher.
 kritik_schwere: 3
+muster_id: M010
 ---
 
 *Im selben Interview sagt der einzige Experte zuerst «Es fehlen die Alternativen» und wenig später «Es gibt Alternativen in der Schweiz – sie müssen nicht erst entwickelt werden. Bislang mangelte es schlichtweg an der Nachfrage.» Zu den Nachfragern gehört der Bund. Er beschloss 2023, Microsoft 365 einzuführen, und hatte die Software bis Mitte Dezember 2025 auf rund 54'000 Arbeitsplätzen installiert. SRF lenkt das Gespräch dennoch mit zwei Fragen zum Staat als Retter: «Müssen sich die Schweizer Behörden und Politik dem Thema annehmen?» und «Wer soll handeln?». Den Bundesratsentscheid, mit dem genau dieser Staat die Abhängigkeit eingekauft hat, verschweigt der Beitrag. Für den Steuerzahler heisst das: Er hat die erste Rechnung bezahlt und bekommt nun die zweite präsentiert, ohne dass jemand fragt, wer die erste ausgelöst hat.*

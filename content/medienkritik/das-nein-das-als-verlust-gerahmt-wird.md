@@ -63,6 +63,7 @@ quelle_format: Broadcast
 quelle_sendung: Tagesschau
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M017
 ---
 
 *SRF meldet das isländische Nein zu EU-Beitrittsgesprächen — 52,8 Prozent gegen, 47,2 Prozent dafür — und rahmt es als Absage eines «Wunschkandidaten». Der Korrespondent betrauert, dass Island nicht kam. Was der Beitrag verschweigt: Das Volk entschied souverän. Es wog Sicherheit gegen Unabhängigkeit und wählte Unabhängigkeit. Er verschweigt die Logik der Befürworter — Angst vor Trump, Angst vor Russland — und verschweigt, dass die EU keine Sicherheitsgarantie ist, die sie nicht halten kann. Er verschweigt die Schweizer Dimension: Ein Land, das im Binnenmarkt lebt, ohne Mitglied zu sein, bestätigt genau das Modell, das die Schweiz verhandelt. Und er verschweigt die Frage, die das Ergebnis aufwirft: Wenn ein wohlhabendes, integriertes, demokratisches Land Nein sagt — was sagt das über die EU? Er ist eine Wahlniederlage-Meldung, die eine souveräne Entscheidung als Bedauerlichkeit verkauft.*

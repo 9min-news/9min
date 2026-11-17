@@ -64,6 +64,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: Weltwoche Daily
 kritik_schwere: 2
+muster_id: M004
 ---
 
 *Christoph Mörgeli hat in der Weltwoche eine Pointe gesetzt: Die Familie des Winterthurer Messer-Terroristen bezieht IV — während «die Medien» tags zuvor behaupteten, ohne Zuwanderung blute die IV aus. Die Pointe sitzt. Sie sitzt, weil sie eine echte Wunde trifft. Aber sie ist auch ein rhetorischer Taschenspielertrick. Mörgeli wirft drei Dinge in einen Topf, die nichts miteinander zu tun haben: einen Terroristen, eine Sozialversicherung und eine ganze Migrationsbilanz. Wer das entwirrt, merkt: Mörgeli hat in fast jedem Einzelpunkt recht — und im Gesamtbild trotzdem unrecht. Und die Gegenseite, die ihn mit «statistisch vernachlässigbar» abkanzelt, macht es genau umgekehrt: Sie hat im Gesamtbild recht und verfehlt trotzdem den Punkt. Es ist, mit Verlaub, ein richtiges Puff.*

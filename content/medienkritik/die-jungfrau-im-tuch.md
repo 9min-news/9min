@@ -73,6 +73,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Wie SRF aus einer politisch konfrontativen Aktivistin eine sanfte Velo-Idealistin macht – und alles weglässt, was die Geschichte ist*

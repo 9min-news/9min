@@ -103,6 +103,7 @@ zusammenfassung: >-
   hohen Kosten der Ruag erscheint ohne Beleg und ohne Verweis darauf, dass die
   Ruag dem Bund gehört.
 kritik_schwere: 2
+muster_id: M017
 ---
 
 *SRF erzählt die Endmontage der Schweizer F-35A als Geschäftsfrage eines Unternehmens. Der Titel spricht vom «Geschäft mit Fragezeichen», ein Zwischentitel von der Wartung, die der Ruag «weniger ein» bringt. Dabei formuliert der Beitrag den anderen Massstab selbst. Die Inlandwartung der F/A-18 sei wichtig, damit die Armee «jederzeit einsatzbereit und nicht auf Serviceleistungen aus dem Ausland angewiesen ist». Weiterverfolgt wird danach nur die zweite Hälfte der Begründung, die «wichtige Einnahmequelle». Die Bezugsgrösse der Reduktion von vier auf drei Jets, also die Gesamtflotte, nennt keiner der beiden SRF-Beiträge dieses Tages. Die einzige eigene Erklärung der Redaktion ist eine Mutmassung ohne Beleg.*

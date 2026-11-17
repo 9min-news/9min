@@ -101,6 +101,7 @@ zusammenfassung: >-
   Jemenkriegsvorgeschichte sowie Riads eigene Verweigerung von
   US-Militärkooperation im Mai unberücksichtigt.
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *Der Titel setzt eine Pflicht voraus, die der Beitrag nirgends belegt. «Trump lässt Saudi-Arabien im Stich» unterstellt eine Zusage, und der Lead verschärft sie: «Der Konflikt eskaliert, und das Königreich kämpft vorerst allein.» Begründet wird das nicht mit einem Vertrag, sondern mit dem Vokabular einer Freundschaft: Schwerttanz, «Bromance», «Kränkung». Der Beitrag verschweigt, ob überhaupt eine Beistandspflicht besteht. Er nennt Tote nur für eine der beiden bombardierten Hauptstädte und lässt den Jemenkrieg vor dem «Sommer» ungeschrieben. Erzählt wird durchgehend aus der Perspektive des Palasts: Vision 2030, Investorenforum, abgesagte Energiekongresse.*

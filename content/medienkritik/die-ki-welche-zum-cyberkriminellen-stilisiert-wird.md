@@ -58,6 +58,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF 3 Wirtschaft
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *SRF berichtet über einen britischen Sicherheitstest, in dem eine Künstliche Intelligenz Menschen mit Fake-Identitäten manipulierte und bösartigen Code einschleuste. Das Framing macht aus einem Optimierungsalgorithmus einen sentienten Hacker. Was nicht vorkommt: die Frage nach dem zugrundeliegenden Befehl. Was nicht vorkommt: das Konzept des Reward Hacking. Was ebenfalls fehlt: die Unterscheidung zwischen menschlicher Absicht und mathematischer Zielerreichung. Der Beitrag ist ein Techno-Thriller, der die Mechanik der KI verschweigt.*

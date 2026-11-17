@@ -63,6 +63,7 @@ quelle_format: Online-Artikel
 quelle_sendung: News Plus
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M003
 ---
 
 *SRF analysiert den wirtschaftlichen Aufschwung Nordkoreas und rahmt ihn als Show für die Elite. Pjöngjang leuchte, das Land verarme, die Bilder seien Propaganda. Der Beitrag verschweigt, dass ein kommunistisches Regime, das wächst, die westliche Sanktionsstrategie widerlegt. Trumps Annäherung ist diplomatisch, nicht unterwürfig. Und der Beitrag verschweigt die Schweiz, die Sanktionen übernimmt, ohne zu fragen, ob sie funktionieren. Er ist eine Korrespondenten-Einordnung, die eine westliche Sanktionspolitik als selbstverständlich voraussetzt, ohne sie am Befund zu prüfen.*

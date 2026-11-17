@@ -67,6 +67,7 @@ quelle_format: Broadcast
 quelle_sendung: SRF Arena
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M010
 ---
 
 *Zum SRF-Beitrag *[«Bundesrat Beat Jans: ‹Ich fühle mich nicht fremd im eigenen Land›»](https://www.srf.ch/news/schweiz/abstimmungs-arena-bundesrat-beat-jans-ich-fuehle-mich-nicht-fremd-im-eigenen-land)*, 14. Mai 2026*

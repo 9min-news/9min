@@ -68,6 +68,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Zum SRF *[«Bericht: Bund lässt Gesundheitskosten bei Asylsuchenden ausufern»](https://www.srf.ch/news/schweiz/teure-krankenkasse-bericht-bund-laesst-gesundheitskosten-bei-asylsuchenden-ausufern)*, 12. Mai 2026*

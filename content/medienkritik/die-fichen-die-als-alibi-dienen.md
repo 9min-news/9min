@@ -70,6 +70,7 @@ quelle_format: Broadcast
 quelle_sendung: Rendez-vous
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M013
 ---
 
 *Der Beitrag eröffnet mit einem Skandal: 900'000 heimliche Fichen, 1989, politische Gesinnung als Staatsaufgabe. Dann die Kehrtwende: Der Bundesrat will dem Nachrichtendienst die politische Überwachung zurückgeben — «notwendig zum Schutz» der Überwachten. Der Ständerat strich den Artikel. Das ist die Story, die der Beitrag erzählt — Demokratie funktioniert, Bremse gezogen, Fichen-Geist beschworen. Was er nicht erzählt: dass die Fichen in dieser Erzählung die Funktion eines Alibis haben. Der Skandal von 1989 dient als Beweis, dass das System sich selbst korrigiert — während genau diese Selbstkorrektur das Tor für alles andere öffnet, was im Paket bleibt. Denn der Ständerat pfiff nur einen Artikel zurück. Die anderen Kompetenzausweitungen — der Beitrag nennt sie im ersten Absatz: «mehr Kompetenzen», «in mehreren Punkten» — passieren ohne Widerspruch. Ein Geheimdienst, der wächst, während das Parlament über einen Artikel streitet, hat die Debatte schon gewonnen.*

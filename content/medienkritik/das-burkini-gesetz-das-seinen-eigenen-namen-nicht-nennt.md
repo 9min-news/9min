@@ -63,6 +63,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M001
 ---
 
 *Diese Meldung handelt von einem Genfer Gesetz, das jeder als «Burkini-Verbot» kennt — der Text sagt es selbst in der dritten Zeile. Und doch ist das Bemerkenswerte an dem Beitrag, wie geschickt er den eigentlichen Konflikt umschifft, indem er sich auf einen Nebenschauplatz stürzt: die armen Familien mit ihren UV-Schutzanzügen. So entsteht aus einer hochpolitischen Auseinandersetzung über Islam, Integration und Geschlechtertrennung im öffentlichen Raum eine harmlose Geschichte über Sonnenschutz und Bürokratie. Schauen wir genau hin, denn hier wird mit der Auswahl der Stimmen Politik gemacht — leise, aber unüberhörbar.*

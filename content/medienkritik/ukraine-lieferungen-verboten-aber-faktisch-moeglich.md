@@ -112,6 +112,7 @@ zusammenfassung: >-
   präsentiert wird, obwohl er selbst von der neuen Kompetenz profitiert. Der
   Beitrag liefere zwar den Stoff für seine eigene Kritik, ziehe ihn aber nicht.
 kritik_schwere: 3
+muster_id: M011
 ---
 
 *Die SVP stimmte dem neuen Kriegsmaterialgesetz nur unter der Bedingung zu, dass Lieferungen an die Ukraine verboten bleiben. Im letzten Satz desselben SRF-Beitrags heisst es laut Bundesrat, eine Weitergabe wäre «trotzdem faktisch möglich, ohne dass die Schweiz ein Mittel dagegen hätte». Das eigentliche Paradox liegt damit offen da, doch der Beitrag misst ein allgemeines Exportgesetz an einem einzigen Empfängerland, bis zum letzten Zwischentitel: «Die Ukraine profitiert nicht von den neuen Exportregeln». Was die Vorlage für alle übrigen Exporte ändert, darunter eine Abweichungskompetenz, die das Parlament dem Bundesrat 2021 noch verweigert hatte, bleibt ausserhalb des Bildes. Am 29. November entscheidet der Stimmbürger, ob Kriegsmaterialexporte nach Gesetz oder nach Ermessen der Exekutive laufen, und der Beitrag bereitet ihn auf eine andere Abstimmung vor.*

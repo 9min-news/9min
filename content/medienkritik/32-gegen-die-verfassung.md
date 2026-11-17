@@ -62,6 +62,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Zum SRF-Beitrag *[«E-ID-Abstimmung muss nicht wiederholt werden»](https://www.srf.ch/news/schweiz/digitale-identitaetskarte-e-id-abstimmung-muss-nicht-wiederholt-werden) *vom 21. April 2026*

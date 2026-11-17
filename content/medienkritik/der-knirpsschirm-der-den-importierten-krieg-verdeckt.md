@@ -60,6 +60,7 @@ quelle_format: Broadcast
 quelle_sendung: Regionaljournal Basel Baselland
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *SRF berichtet über die Verurteilung von elf Männern wegen des Angriffs auf ein türkisches Kinderfest in Basel und rahmt das Ereignis als «kurdisch-türkischen Konflikt». Ein Knirpsschirm, ein Fussballtritt gegen den Kopf, bedingte Freiheitsstrafen, kein Landesverweis. Der Beitrag referiert den Richterspruch, ohne zu fragen, warum ausländische Konflikte auf Schweizer Strassen ausgetragen werden, warum elf gewalttätige Männer in der Schweiz bleiben und ob bedingte Strafen für einen Mob, der ein Kinderfest angreift, angemessen sind. Er ist eine Gerichtsstenografie, die einen importierten Krieg als lokales Randereignis verkleidet.*

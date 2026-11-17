@@ -3,8 +3,9 @@ title: Rosinenpickerei
 date: '2026-05-09'
 status: published
 type: analyse
-seriesIndex: 6
-coverImage: 'https://pbs.twimg.com/media/HH4O1L2XgAAYYwK.jpg'
+series: 'Rosinenpickerei'
+seriesIndex: 1
+coverImage: '/images/essays/rosinenpickerei.jpg'
 tweetId: '2053099152968499245'
 categories:
   - EU/Aussenpolitik

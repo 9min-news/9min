@@ -116,6 +116,7 @@ zusammenfassung: >-
   erwähnt. Die Kritik sieht darin eine Verengung einer Befugnisfrage auf eine
   Image-Frage.
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *Der Titel spricht Tiktok frei, und der Mitautor der Studie verweigert im selben Text genau dieses Urteil: «Wir können daraus nicht ableiten, ob Tiktok Gewalt schürt oder nicht.» Zensur erscheint im Beitrag als Reflex, den man vom Arabischen Frühling und aus Iran kennt. Dass das Amt des französischen Premierministers laut einem veröffentlichten Schreiben zwölf Tage vor der Sendung die grossen Telekomanbieter bat, eine Sperre von Tiktok, Snapchat und Instagram vorzubereiten, steht nirgends. So wird aus einem Streit um das Recht der Bürger, sich zu informieren und zu versammeln, eine Frage nach dem Image einer App. Wer diese Freiheit mit einem Harmlosigkeitsbefund verteidigt, den die Studie selbst nicht ausstellt, verteidigt sie mit einem Argument, das beim ersten Nachfragen einknickt.*

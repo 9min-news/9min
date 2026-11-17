@@ -62,6 +62,7 @@ quelle_format: Broadcast
 quelle_sendung: RTS Forum
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Eine Historikerin verkündet die «Neugründung des Westens»: Kanada plus EU, Demokratie, Recht vor Gewalt. Der Beitrag druckt jede Formel ungeprüft. Die Unklarheit des Vertragswerks gilt der Expertin als Vorteil («je unklarer, desto besser»), die Flexibilität als «Verpflichtung», und die Allianz sei «nicht gegen jemanden», während sie im selben Atemzug Trumps System als Autoritarismus und Vorrang der Gewalt beschreibt. Der Beitrag über einen Staatenbund, der sich neu erfindet, stellt keine einzige der Fragen, die eine Erfindung begleiten: Wer entscheidet? Wer kontrolliert? Und was passiert mit den demokratischen Verfahren, wenn die Flexibilität zur Pflicht wird?*

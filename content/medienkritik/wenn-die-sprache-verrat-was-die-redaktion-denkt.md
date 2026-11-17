@@ -61,6 +61,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M017
 ---
 
 *Zur SRF-Berichterstattung über *[Online-Identitätsdiebstahl](https://www.srf.ch/news/dialog/ueber-8000-faelle-im-jahr-online-identitaetsdiebstahl-hat-in-der-schweiz-stark-zugenommen)* vom 30. April 2026*

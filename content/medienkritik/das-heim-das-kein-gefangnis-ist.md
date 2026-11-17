@@ -64,6 +64,7 @@ quelle_format: Broadcast
 quelle_sendung: Regionaljournal Zürich Schaffhausen
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M001
 ---
 
 *SRF berichtet über erneute Ausbrüche aus dem Massnahmenzentrum Uitikon und rahmt sie als Sicherheitsproblem. Ein Jugendlicher entwich, bedrohte Tage später einen Sicherheitsmann mit einem Messer. Ein anderer Jugendlicher verletzte den Sicherheitschef so schwer, dass er invalid wurde. Was nicht vorkommt: die Frage, ob das System funktioniert. Was nicht vorkommt: die Frage, ob jemand, der einen Mann invalid schlägt, in einem «Heim» sein sollte. Was nicht vorkommt: die Opfer. Was nicht vorkommt: die Herkunft der Täter. Was nicht vorkommt: die Frage, ob die Schweiz zu lasch ist. Der Beitrag ist eine Verwaltungsnote über ein System, das niemand hinterfragt.*

@@ -110,6 +110,7 @@ zusammenfassung: >-
   Protesttag aufgerufen hatte. Der Beitrag vollzieht damit selbst, was er als
   Prognose beschreibt.
 kritik_schwere: 3
+muster_id: M007
 ---
 
 *Der Beitrag sagt voraus, was er selbst vollzieht. «Tatsächlich dürfte sich in den nächsten Tagen die Debatte hauptsächlich um die Gewalt drehen und weniger um die Forderungen», heisst es darin, und die Gewichtung folgt der Prognose. Die Dachzeile lautet «Schwere Krawalle in Frankreich», die erste Leitfrage «Welchen politischen Lagern nützt die Gewalt?», und von vier Leitfragen gilt eine den Anliegen der Demonstranten, mit zwei Sätzen. Was die Proteste ausgelöst hat, steht vor allem unter den Fotos. Der Beitrag zählt die verletzten Polizisten, aber keinen verletzten Demonstranten, und er kennt die Bewegung, die zum Samstag aufgerufen hat, nur als «Schreckgespenst» der Regierung.*

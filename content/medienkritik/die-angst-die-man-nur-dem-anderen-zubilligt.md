@@ -75,6 +75,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M015
 ---
 
 *Der Beitrag über russische Männer und ihre Angst vor der Mobilmachung lief am 18. September, Echo der Zeit, 18 Uhr. Am selben Tag adoptierte der Bundesrat die Sicherheitspolitische Strategie 2026: zehn Ziele, 46 Massnahmen, Vorbereitung auf hybride Angriffe und einen möglichen bewaffneten Angriff. Der Beitrag erwähnt sie mit keinem Wort. Er erwähnt auch nicht, dass Dänemark die Wehrpflicht auf Frauen ausgedehnt und den Dienst von vier auf elf Monate verlängert hat, dass europäische Geheimdienste Angriffsfenster von einem bis fünf Jahren nennen, und dass Russland die Schweiz als Verhandlungsort längst abgeschrieben hat. Die Angst russischer Männer ist exotisches Material. Die Kriegsvorbereitung des eigenen Landes ist unsichtbar. Beide Gesellschaften stellen ihre Jugend für denselben Krieg bereit, und der Beitrag zeigt eine Seite der Spirale und nennt sie Befindlichkeit.*

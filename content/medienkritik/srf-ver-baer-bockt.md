@@ -68,6 +68,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *SRF berichtet über den Streit um die Nachfolge von UNO-Generalsekretär Guterres und rahmt Annalena Baerbock als mutige Reformerin gegen die Vetomächte. «Doch hier hat sie in der Sache völlig recht», urteilt der Korrespondent. Was der Beitrag verschweigt: Die Charta beantwortet die Streitfrage nicht — sie ist ein Satz lang und schweigt zu allem, worum gestritten wird. Das Anhörungsverfahren, das Baerbock durchführt, ist kein Coup, sondern wurde 2015 beschlossen und 2016 erstmals angewendet. Und die eine Grenze, die die Charta zieht — keine Ernennung ohne Empfehlung des Sicherheitsrats —, nennt der Beitrag nicht. Ein Korrespondent, der eine offene Rechtsfrage für entschieden erklärt, ist kein Beobachter mehr.*

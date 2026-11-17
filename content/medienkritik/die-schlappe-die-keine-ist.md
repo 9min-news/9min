@@ -70,6 +70,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *Dieser SRF-Beitrag über mehrere Supreme-Court-Entscheide im Verhältnis zu Trump ist ein Lehrstück in politischem Framing: Drei Niederlagen werden in den Titel und den Lead gehoben, der eine Sieg — der strukturell wichtigste und konsequenzellste aller vier Entscheide — wird in einer Box am Ende des Beitrags versteckt. Das ist kein Zufall, sondern eine redaktionelle Entscheidung: «Schlappen für Trump» ist die Story, die SRF erzählen will. Die Story, die tatsächlich passiert ist, ist eine andere: Der Supreme Court hat die Befugnisse des Präsidenten über unabhängige Bundesbehörden massiv ausgeweitet — ein Urteil, das die amerikanische Verfassungsordnung strukturell verändert und das Verhältnis zwischen Exekutive und unabhängigen Institutionen neu definiert. Aber das steht im Box-Format am Ende, als Fussnote zu einer Story, die eigentlich von Trumps Niederlagen handelt. Wer den Beitrag liest, weiss, dass Trump dreimal verloren hat. Wer wissen will, was er gewonnen hat und was das bedeutet, muss bis zur letzten Box durchhalten — und bekommt dort keine Analyse, sondern einen knappen Faktenabriss.*

@@ -69,6 +69,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M004
 ---
 
 *Dieser SRF-Beitrag ist ein Interview-Format: EU-Korrespondent Charles Liebherr ordnet die neue EU-Regelung zu Abschiebezentren in Drittstaaten ein. Das Format ist legitim und die Sachinformation grösstenteils korrekt. Doch gerade weil es sich um «Einordnung» handelt — also um die Deutung, nicht bloss die Wiedergabe von Fakten —, lohnt der genaue Blick darauf, welche Akzente gesetzt werden, was als das eigentlich «Bemerkenswerte» markiert wird und wo der Korrespondent von der Analyse in die Wertung gleitet.*

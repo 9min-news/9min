@@ -71,6 +71,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *Ein Beitrag über aserbaidschanisches Image-Sponsoring in der Schweiz — Konzert in Montreux, Schriftzug an der Ski-WM — und der Mann, der die eigentliche Analyse liefert, ist der eigene Korrespondent: Konzerte brächten «kaum jemanden» dazu, die Augen zu verschliessen; europäische Staaten und Unternehmen schweigen, «weil Aserbaidschan Öl und Gas exportiert». Das ist der Widerspruch, der den ganzen Beitrag trägt und ihn nicht trägt: Wenn die Täuschung nicht funktioniert, ist der Vorwurf der Täuschung die falsche Anklage — dann ist es Komplizenschaft aus Interesse. Der Beitrag kritisiert das Konzert und lässt den Gashahn offen. Und er verschweigt die Woche, in der er erscheint: die Strasse von Hormus blockiert, Öl bei 109 Dollar — und einen Gaslieferanten, den Europa in genau diesem Jahr nicht verlieren darf.*

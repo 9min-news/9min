@@ -69,6 +69,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 [Zur SRF-Berichterstattung «Ghanaischer Zement für die Klimawende» von Fabian Urech, Echo der Zeit, 28. April 2026](https://www.srf.ch/news/international/klimafreundliches-bauen-ghanaischer-zement-fuer-die-klimawende)

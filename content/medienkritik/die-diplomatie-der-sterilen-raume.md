@@ -65,6 +65,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: EDI
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *Wie der Bundesrat die tiefste Krise der WHO in einen bürokratischen Erfolg umdeutet — und dabei den Kampf um die globale Gesundheit zur reinen Standortförderung für Genf degradiert*

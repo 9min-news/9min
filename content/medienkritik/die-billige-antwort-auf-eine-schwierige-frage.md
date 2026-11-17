@@ -66,6 +66,7 @@ quelle_format: Broadcast
 quelle_sendung: Treffpunkt
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *Zum SRF-Beitrag *[«Warum brauchen wir Gesetze?»](https://www.srf.ch/news/srf-news-chats/antworten-auf-ihre-fragen-warum-brauchen-wir-gesetze)* vom 27. April 2026*

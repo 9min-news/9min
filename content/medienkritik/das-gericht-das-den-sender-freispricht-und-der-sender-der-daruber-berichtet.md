@@ -62,6 +62,7 @@ quelle_format: Online-Artikel
 quelle_sendung: Info 3
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M005
 ---
 
 *SRF meldet einen Bundesgerichtsentscheid zu SRF. Die Struktur ist die Nachricht: Ein Sender berichtet über ein Urteil, das ihn selbst betrifft, das eine Beschwerde aufhebt, die ihn verurteilte. Das Bundesgericht sagt: SRF habe genügend vielfältig berichtet. Die UBI sagte: SRF habe Antisemitismus verschwiegen und beschönigend berichtet. Zwei Instanzen, zwei Urteile, ein Betroffener — und der Betroffene meldet seinen eigenen Freispruch. Was der Beitrag leistet: Er nennt den Streitstand korrekt. Was er nicht leistet: Er prüft weder das eine Urteil noch das andere. Was die UBI konkret beanstandete, welche Sendungen das Bundesgericht als Ausgleich zählte, ob der Massstab stimmt: nichts davon kommt vor. Ein Selbstbericht über einen Selbstfreispruch, ohne Distanz.*

@@ -71,6 +71,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: EDA
 kritik_schwere: 3
+muster_id: M011
 ---
 
 [Zur Rede von Bundesrat Ignazio Cassis vor der Mittwochsgesellschaft in Cham, 6. Mai 2026](https://www.eda.admin.ch/de/newnsb/TTnIINW5nIL-M-9YB-Hxs)

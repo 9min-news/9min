@@ -102,6 +102,7 @@ zusammenfassung: >-
   Der Stimmbürger erfährt, wie es der Branche geht, aber nicht, worüber er
   abstimmt.
 kritik_schwere: 3
+muster_id: M010
 ---
 
 *An Fabian Hutters Feuerwerksstand fällt laut SRF immer wieder derselbe Satz: «Früher hatten wir ein grosses Feuerwerk im Dorf, heute zünden wir es selbst im Garten.» Damit stehen die Menschen im Beitrag, über deren Garten am 29. November abgestimmt wird, und sie bleiben dort: als Kundschaft am Rand eines Verkaufsstands. Die Dachzeile heisst «Feuerwerksinitiative», doch der Lead setzt mit einem einzigen «Doch» den Rahmen: «Die Feuerwerksbranche warnt: Ein Ja wäre ihr Ende. Doch wie gut läuft das Geschäft mit Raketen, Böllern und Vulkanen heute überhaupt noch?» Was folgt, ist eine Branchenbilanz. Die Argumente der Gegner jenseits des Umsatzes, die geltende Rechtslage und die Frage, wer ein Verbot im Privatgarten durchsetzen soll, gehören nicht dazu. Dabei entscheidet der Stimmbürger über ein landesweites Verbot privaten Verhaltens, dessen Kernbegriff erst nach der Abstimmung in Bern definiert würde.*

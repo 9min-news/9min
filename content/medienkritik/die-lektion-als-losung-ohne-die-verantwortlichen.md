@@ -60,6 +60,7 @@ quelle_format: Online-Artikel
 quelle_sendung: HeuteMorgen
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *SRF berichtet über eine BAG-Empfehlung für Bewohnerräte in Alters- und Pflegeheimen — und rahmt sie als Lehre aus der Corona-Pandemie. «Im Kampf gegen Isolation», lautet der Titel, und die Empfehlung ist die Antwort auf ein Problem, das SRF als Folge von «Schutzmassnahmen» darstellt. Was nicht vorkommt: die Frage, wer diese «Schutzmassnahmen» anordnete. Was nicht vorkommt: die Frage, wer die Isolation der Heimbewohner verantwortete. Was nicht vorkommt: die Frage, ob Anne Levy, die heute Bewohnerräte empfiehlt, damals als BAG-Chefin dieselbe Isolation anordnete. Was nicht vorkommt: die Frage, ob Bewohnerräte eine echte Lösung sind — oder ob sie eine symbolische Geste sind, um von der eigentlichen Verantwortung abzulenken. Was nicht vorkommt: die Frage, ob Heime, die während Covid isolierten, jetzt plötzlich partizipativ werden können — oder ob die Strukturen, die Isolation ermöglichten, noch existieren. Der Beitrag ist Aufarbeitung ohne Rechenschaftspflicht — und die Rechenschaftspflicht wäre die Frage gewesen, wer die Isolation anordnete und wer dafür zur Verantwortung gezogen wird.*

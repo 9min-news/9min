@@ -69,6 +69,7 @@ quelle_format: Broadcast
 quelle_sendung: SRF 4 News aktuell
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *SRF berichtet über den Rücktritt des Cambridge-Professors Jason Arday und rahmt die Plagiatsvorwürfe als potenziell rassistische Kampagne. Ein Schwarzer Professor, eine «Schmierkampagne», ein Experte, der vor «rechten Kräften» warnt. Der Beitrag blendet systematisch aus, ob die Plagiate konkret bewiesen sind, ob Diversity-Einstellungen akademische Standards senken und wer hinter der Unterstützerorganisation steckt. Er ist eine Opfer-Erzählung, die akademische Integrität durch Rassismus-Deutung ersetzt.*

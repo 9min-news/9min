@@ -75,6 +75,7 @@ quelle_format: Broadcast
 quelle_sendung: 10vor10
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Dieser SRF-Beitrag zum 250. Jahrestag der US-Unabhängigkeit ist ein Lehrstück in hagiografischem Interview-Journalismus: Ein Historiker wird eingeladen, um die Gegenwart im Licht der Gründerväter zu deuten — und er deutet sie als Warnung, ohne dass der Interviewer eine einzige kritische Nachfrage stellt. Die Gründerväter werden als moralische Autoritäten präsentiert, ohne dass ihre Widersprüche erwähnt werden. Trump wird als Symptom gerahmt, ohne dass die strukturellen Ursachen analysiert werden. Und die Schweiz — die dieselben demokratischen Erosionserscheinungen zeigt — kommt mit keinem Wort vor. SRF kritisiert die US-Demokratie, aber nie die eigene. Der Beitrag klingt wie historische Reflexion, aber er ist keine — denn historische Reflexion prüft ihre Quellen, und dieser Beitrag prüft nichts. Er reproduziert eine Historiker-Meinung mit SRF-Siegel.*

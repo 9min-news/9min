@@ -59,6 +59,7 @@ quelle_format: Broadcast
 quelle_sendung: Ratgeber
 quelle_redaktion: SRF Wissen
 kritik_schwere: 3
+muster_id: M010
 ---
 
 *SRF erklärt in einer fünfteiligen Sommerserie das Perma-Modell für Resilienz und rahmt es als psychologische Erkenntnis. Fünf Säulen, fünf Folgen, eine Psychotherapeutin mit Tipps. Der Beitrag verschweigt, dass das Modell umstritten ist. Er verschweigt die Kritik an Seligmans positiver Psychologie. Er verschweigt die Evidenzfrage. Und er verschweigt die Bedeutungsverschiebung, die das Wort «Resilienz» selbst durchlaufen hat — von der Tugend der Standhaftigkeit zur Metapher aus der Materialforschung. Der erste Satz des Beitrags nennt diese Herkunft — und begreift nicht, was er verrät.*

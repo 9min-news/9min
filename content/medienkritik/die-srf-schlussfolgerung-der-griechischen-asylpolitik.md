@@ -64,6 +64,7 @@ quelle_format: Online-Artikel
 quelle_sendung: Rendez-vous
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M017
 ---
 
 *Dieser SRF-Beitrag behandelt eine Wende in der griechischen Asylpolitik: Die Regierung will unbegleitete minderjährige Asylbewerber künftig nicht mehr in kleinen, zentral gelegenen Stadtunterkünften betreuen, sondern in «Safe Areas» innerhalb von Flüchtlingscamps unterbringen — verbunden mit Abschiebeplänen nach Erreichen der Volljährigkeit. Es ist ein heikles, emotional aufgeladenes Thema, das den Kindesschutz gegen Migrationskontrolle stellt. Anders als manche Stücke dieser Serie lässt der Beitrag tatsächlich beide Seiten ausführlich zu Wort kommen — und gerade deshalb lohnt der Blick auf die feineren Mechanismen der Gewichtung.*

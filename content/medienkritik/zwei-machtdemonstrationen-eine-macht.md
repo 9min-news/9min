@@ -111,6 +111,7 @@ zusammenfassung: >-
   tatsächliche Machtasymmetrie verdeckt, obwohl der Beitrag den Hebel selbst
   benennt.
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Der Titel stellt eine Temperaturfrage: «Hat die Beziehung Trump-Selenski den Gefrierpunkt erreicht?» Damit ist der Rahmen gesetzt, bevor der erste Fakt fällt: zwei Männer, ein Verhältnis, eine Abkühlung. Die Symmetrie reicht bis in die Wortwahl. Über die Starlink-Massnahme heisst es, es scheine sich «auch um eine Machtdemonstration zu handeln», über die ukrainischen Raffinerieangriffe: «Auch das kann man als Machtdemonstration interpretieren.» Unerwähnt bleibt, dass Trump die Energiewaffenruhe, vor deren Hintergrund er Selenski kritisiert, selbst verkündet hatte. Ebenso, dass Starlink gedrosselt und nicht abgeschaltet wurde und die Urheberschaft unbestätigt ist, und dass Trump forderte, die Ukraine solle sich eine neue Führung suchen.*

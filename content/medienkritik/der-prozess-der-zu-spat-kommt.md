@@ -73,6 +73,7 @@ quelle_format: Online-Artikel
 quelle_sendung: 10 vor 10
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M003
 ---
 
 *Dieser SRF-Beitrag über den bevorstehenden Prozess gegen den Zürcher Messerangreifer ist ein Lehrstück in behutsamer Berichterstattung. Die Fakten sind korrekt, die Stimmenauswahl ist angemessen, die Einordnung des antisemitischen Kontexts ist solide. Aber der Beitrag stellt nicht die naheliegendste Frage: Warum dauert es über zwei Jahre, bis ein Täter vor Gericht kommt, der auf frischer Tat ertappt wurde, der ein Geständnis abgelegt hat, dessen Tat mit Video-Bekenntnis dokumentiert ist und bei dem die Anklageschrift seit Monaten vorliegt? Und er stellt die zweite naheliegende Frage nicht: Was passiert mit dem Täter nach der Strafe? Der Zürcher Sicherheitsdirektor Mario Fehr hatte unmittelbar nach der Tat die Ausbürgerung des tunesisch-schweizerischen Doppelbürgers gefordert — der Beitrag erwähnt das mit keinem Wort. Die Ausschaffungsfrage, die politisch zentral war und die SRF selbst in einem separaten Artikel behandelt hat, fehlt vollständig. Stattdessen liefert der Beitrag einen gut geschriebenen, aber unkritischen Vorbericht, der die institutionellen Fragen nach Verfahrensdauer, Nachrichtendienstversagen und Ausschaffung ebenso ausblendet wie die Frage nach der Angemessenheit des Jugendstrafrechts bei terrorismusnahen Taten.*

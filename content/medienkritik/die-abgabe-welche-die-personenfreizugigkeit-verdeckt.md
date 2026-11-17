@@ -66,6 +66,7 @@ quelle_format: Online-Artikel
 quelle_sendung: Tagesschau
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *SRF meldet, dass eine Ständeratskommission eine Lenkungsabgabe für EU-Arbeitskräfte fordert, und rahmt sie als «raffiniertes Instrument» zum Schutz der Bevölkerung. 4000 Franken pro Jahr, Rückverteilung an das Volk. Der Beitrag verschweigt, dass der Bundesrat die Abgabe selbst für vertragswidrig erklärt. Er verschweigt die 400'000 Nettozuwanderer seit Einführung der Personenfreizügigkeit. Und er verschweigt, dass die Abgabe ein innenpolitisches Theater ist, um das Vertragspaket dem Volk schmackhaft zu machen. Er ist eine Parlamentsnotiz, die einen juristischen Bluff als Kompromiss inszeniert.*

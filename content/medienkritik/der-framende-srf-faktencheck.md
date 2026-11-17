@@ -75,6 +75,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF Faktencheck
 quelle_redaktion: SRF Netzwerk Faktencheck
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *Dieser SRF-Faktencheck zu den «Grooming Gangs» in Grossbritannien ist ein Lehrstück in Deflektionsjournalismus: Ein systematischer, jahrzehntelanger Missbrauchskandal — bestätigt durch offizielle Untersuchungen, Gerichtsurteile und Opferberichte — wird auf eine einzige Zahl reduziert, die dann als «Schätzung» delegitimiert wird. Die ethnische Dimension, die dokumentiert ist, wird als politisches Motiv umgedeutet. Die Frage, warum Behörden jahrzehntelang schwiegen, wird behauptet als nicht existent. Und die Opfer — die realen, namentlich bekannten, gerichtlich bestätigten Opfer — kommen nicht vor. Der Beitrag klingt wie Faktencheck, aber er ist keiner — denn ein Faktencheck prüft Behauptungen gegen Realität, und dieser Beitrag prüft eine Zahl gegen nichts.*

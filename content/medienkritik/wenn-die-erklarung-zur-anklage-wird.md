@@ -64,6 +64,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M016
 ---
 
 *Dieser SRF-Beitrag von Alexandra Gubser will erklären, warum die AfD in Deutschland im Umfragehoch verharrt. Das ist ein legitimes und wichtiges Thema. Doch die Erklärung eines politischen Phänomens ist journalistisch eine Gratwanderung: Sie kann analysieren, warum Menschen eine Partei wählen — oder sie kann unter dem Deckmantel der Analyse erklären, warum diese Wähler sich irren. Der Beitrag wählt streckenweise das Zweite. Sehen wir genau hin, denn hier verschwimmt die Grenze zwischen Befund und Urteil so durchgängig, dass sie kaum mehr zu erkennen ist.*

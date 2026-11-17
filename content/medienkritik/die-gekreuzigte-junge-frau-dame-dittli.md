@@ -58,6 +58,7 @@ quelle_format: Broadcast
 quelle_sendung: Mise au point
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M004
 ---
 
 *Dieser SRF/RTS-Beitrag ist ein Nahporträt der Waadtländer Regierungsrätin Valérie Dittli (Mitte), die seit Monaten massiv unter Druck steht: Ein Untersuchungsbericht eines ehemaligen Richters warf ihr «diverse Versäumnisse» vor, eine Parlamentsmehrheit forderte ihren Rücktritt — den sie verweigerte. Ein RTS-Team begleitete sie drei Tage lang. Das Resultat ist weniger ein investigativer Bericht über die Vorwürfe als ein einfühlsames Stimmungsbild aus ihrer Perspektive. Genau das macht es zum interessanten Fall: Hier liegt die Schlagseite nicht in einer Anklage, sondern in der fast vollständigen Übernahme der Sicht der Beschuldigten.*

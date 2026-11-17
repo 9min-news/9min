@@ -73,6 +73,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *SRF berichtet über eine Studie des VZ Vermögenszentrums zum Vertrauen in die Altersvorsorge und rahmt den Vertrauensverlust bei der AHV als psychologisches Problem. Die AHV sei politisch umstritten, die Pensionskassen profitierten von hohen Zinsen. Was nicht vorkommt: die Demografie als Ursache des AHV-Drucks. Was nicht vorkommt: die Frage, ob eine 13. Rente ohne Finanzierung politische Verantwortungslosigkeit ist. Was nicht vorkommt: der kommerzielle Interessenkonflikt der Studienautoren. Was nicht vorkommt: die Politiker, die vor der Abstimmung beteuerten, die Finanzierung sei kein Problem, und nach der Abstimmung keine Lösung lieferten. Der Beitrag ist eine Finanzmarkt-PR, die als Sozialpolitik-Analyse deklariert wird.*

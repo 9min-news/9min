@@ -63,6 +63,7 @@ quelle_format: Broadcast
 quelle_sendung: La Matinale
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M006
 ---
 
 *SRF berichtet über «gewalttätigen Nihilismus» — und rahmt ihn als neue Bedrohung, die aus dem Internet kommt. «Neue Form der Radikalisierung», «sich ausbreitende neue Form des Extremismus», «neu entstehende Bedrohung» — das sind die Formulierungen, die ein Phänomen als neu markieren, um es dann zu erklären, ohne die Ursachen zu benennen. Was nicht vorkommt: die Frage, was diese Jugendlichen nihilistisch macht. Was nicht vorkommt: die Frage, welche Gesellschaft Jugendliche produziert, die keinen Sinn finden — und in Gewalt flüchten. Was nicht vorkommt: die Frage, ob der Nihilismus ein Symptom ist — und nicht die Krankheit. Was nicht vorkommt: die Schweizer Fälle — der Artikel zeigt ein Symbolbild aus Malmö, nennt kanadische Einstufungen, zitiert eine Waadtländer Fachstelle — aber kein einziger Schweizer Fall wird benannt. Was nicht vorkommt: die Rolle der Medien selbst — die Verherrlichung von Amokläufern durch die Berichterstattung, die SRF selbst betreibt. Der Beitrag ist Warnung ohne Diagnose — und die Diagnose wäre die Frage, was eine Gesellschaft produziert, die ihre Jugendlichen nihilistisch macht.*

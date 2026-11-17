@@ -109,6 +109,7 @@ zusammenfassung: >-
   eingebaut sind, fehlen, während die Note für die Schweiz auch ein Urteil über
   Volksentscheide ist.
 kritik_schwere: 3
+muster_id: M008
 ---
 
 *Die Schweiz steht in der neuen Klimaländerrangliste auf Rang 24, weil ihre Politik schwach sei. Die Note für diese Politik vergeben Greenpeace, der WWF, Fastenaktion und der Verkehrsclub der Schweiz. SRF schreibt das selbst, im ersten Abschnitt des Beitrags, und erklärt die Schlagseite dieser Bewerter im selben Atemzug für unerheblich: Sie seien «tendenziell kritisch gegenüber den Behörden», doch weil das Vorgehen überall dasselbe sei, sei der Vergleich «möglich und hilfreich». Wer die Rangliste herausgibt, wer festlegt, was «auf Kurs» heisst, und was das gelobte dänische Modell kostet, erfährt der Hörer nicht. Für den Stimmbürger geht es um mehr als einen Tabellenplatz: Die Note für die Schweizer «Politik» ist auch eine Note für Entscheide, die er an der Urne getroffen hat.*

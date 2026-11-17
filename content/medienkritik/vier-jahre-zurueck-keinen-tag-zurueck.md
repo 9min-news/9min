@@ -110,6 +110,7 @@ zusammenfassung: >-
   EU-Mercosur-Risikos allein bei Brasilien. Das Muster sei eine einseitige
   Demokratieprüfung, die Verfahrensfragen auf der Siegerseite ausblendet.
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Der Beitrag beginnt mit einem Konzessivsatz: «Der linke Lula da Silva gewinnt überraschend die Präsidentschaftswahl in Brasilien. Dennoch hat der ultrarechte Flavio Bolsonaro fast die Hälfte der Stimmen geholt.» Der Sieger erhält eine schlichte Richtungsangabe, der Verlierer eine Steigerungsform. Das «Dennoch» behandelt 48,2 Prozent für den Herausforderer als erklärungsbedürftige Abweichung. Der Titel erhebt die Motivdeutung eines einzigen Experten zur Schlagzeile und legt damit fest, worüber Brasilien abgestimmt hat: über den Fortbestand der Demokratie, bedroht von einer Seite. Was der Beitrag verschweigt, sind drei Dinge: ein Richter, früher Lulas Anwalt, der am Wahltag auf Antrag von Lulas Kampagne die Stimmabgabe landesweit verlängerte, die deshalb angekündigte Anfechtung durch den Verlierer und Lulas eigene Justizvergangenheit.*

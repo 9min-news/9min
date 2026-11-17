@@ -68,6 +68,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: 9min.ch
 kritik_schwere: 2
+muster_id: M016
 ---
 
 *9min zu 9min — Teil 2 der Serie. Über ein System, das den falschen Namen trägt — und warum diese Verwechslung politisch produktiv und intellektuell ruinös ist.*

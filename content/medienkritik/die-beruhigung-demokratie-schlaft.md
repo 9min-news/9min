@@ -67,6 +67,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 SRF macht aus einer Studie mit unbequemen Befunden eine Gute-Nacht-Geschichte. Die Überschrift: [«Schweizerinnen und Schweizer mögen ihre Staatsform, sehr sogar.»](https://www.srf.ch/news/schweiz/demokratie-statt-autokratie-schweizerinnen-und-schweizer-moegen-ihre-staatsform-sehr-sogar) Der Untertitel verrät, wer den Schlaf stören könnte: «Einige kritische Stimmen kommen von Wählenden der SVP.» Über 90 Prozent finden es wichtig, in einer Demokratie zu leben. Die Demokratie ist nicht gefährdet. Sie können weiterschlafen.

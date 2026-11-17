@@ -67,6 +67,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *SRF bringt einen Forensiker ins Studio. Jérôme Endrass, Professor für Forensische Psychologie. Er soll erklären, was schiefgelaufen ist. Und er erklärt es. Aber er erklärt es so, dass am Ende niemand schuld ist. Nicht die Ärzte. Nicht die Behörden. Nicht das System. Es ist die Akutsituation. Es ist der fehlende Informationsaustausch. Es ist die Fürsorge statt der Forensik. Es sind die begrenzten Ressourcen. Es ist die fehlende absolute Sicherheit. Am Ende heisst es: «Es gibt Fälle, die durch die Maschen fallen.» Das ist die Sprache der Behördenentlastung. Und SRF fragt nicht nach.*

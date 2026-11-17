@@ -64,6 +64,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News Wirtschaft
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *SRF meldet die Zwangsverwaltung von Nestlés Russland-Geschäft und rahmt sie als politische Strafaktion im Vorfeld der Neutralitätsabstimmung. Der Beitrag nennt die Grösse des Konzerns als Grund, zitiert einen Experten, der einen Zusammenhang zur Abstimmung vermutet, und lässt die diplomatische Unterstützung durch den Bund als Lösungsoption stehen. Was er nicht liefert: die historische Einordnung des Dekrets, die finanzielle Realität des Russland-Geschäfts und das dokumentierte Muster russischer Vermögensübernahmen. Der Beitrag behandelt einen administrativen Akt als diplomatisches Signal und verschweigt, dass die Zwangsverwaltung in Russland kein Einzelfall ist, sondern ein etablierter Vorlauf zur faktischen Enteignung.*

@@ -61,6 +61,7 @@ quelle_format: Broadcast
 quelle_sendung: Tagesgespräch
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *SRF porträtiert Daniel de Roulet — und rahmt ihn als literarische Rebellen. «Immer noch wütend», lautet der Titel, und der Beitrag feiert einen Mann, der 1975 ein Chalet niederbrannte, als intellektuelle Instanz. Was nicht vorkommt: das Wort «Terrorismus» — obwohl SRF zwei Tage zuvor eine internationale Konferenz zum linksextremen Terrorismus als parteipolitisches Manöver gerahmt hat. Was nicht vorkommt: die Frage, ob ein Brandstifter, der erst nach Ablauf der Verjährungsfrist bekannte, eine Würdigung verdient. Was nicht vorkommt: ein Vergleich mit der Berichterstattung über rechte Gewalttäter — die nie als «militante Seiten» entschuldigt werden. Der Beitrag ist eine Hagiografie ohne Gegenstimme — und die Hagiografie verdeckt, dass ihr Gegenstand ein Arsonist ist.*

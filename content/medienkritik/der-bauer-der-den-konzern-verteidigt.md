@@ -64,6 +64,7 @@ quelle_format: Broadcast
 quelle_sendung: Tagesgespräch
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M004
 ---
 
 *Dieses SRF-Tagesgespräch mit Fenaco-Chef Michael Feitknecht ist ein freundliches Gespräch unter Bekannten. Der Gast darf seine Narrative ungeprüft entfalten: die bedrohte Versorgungssicherheit, die marginale Marge, die notwendige Grösse, das edle Engagement für den ländlichen Raum. Die Interviewerin stellt Fragen, aber sie bohrt nicht nach. Die 42-Prozent-Zahl wird nicht hinterfragt, die 1,5-Prozent-Marge nicht relativiert, das Wachstum in Telekom und Tierarztpraxen nicht als strategische Frage gestellt, und der einzige Kritiker — Rudolf Strahm — wird als Strohmann erwähnt, dessen Argumente niemand vorzutragen bereit ist. Das Format heisst Tagesgespräch, und es ist eines — aber kein journalistisches.*

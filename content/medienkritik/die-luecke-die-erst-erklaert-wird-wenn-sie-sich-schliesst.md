@@ -105,6 +105,7 @@ zusammenfassung: >-
   abgelaufene Umsetzungsfrist der EU-Lohntransparenzrichtlinie. Als Quellen
   dienen ausschliesslich Akteure mit Verhandlungsinteresse.
 kritik_schwere: 3
+muster_id: M008
 ---
 
 *Der Beitrag behandelt dieselbe Kennzahl unterschiedlich, je nachdem, in welche Richtung sie zeigt. Liegen die Männer vorne, steht der Befund ohne Einschränkung im Indikativ: «In Europa verdienen Männer fast überall mehr als Frauen.» Liegen die Frauen vorne, verdienen sie nur noch «laut Statistik leicht mehr». Luxemburg ist Vorzeigeland «auf dem Papier», die Gleichheit ist eine «statistische», und der Durchschnitt der Frauen wird «rechnerisch stark» angehoben. Die Erklärung über die Zusammensetzung des Arbeitsmarkts ist für Luxemburg zutreffend, wird aber auf kein anderes Land angewendet. Es fehlen der bereinigte Wert, die Methodik, an der sich die vorgebrachte Kritik prüfen liesse, eine Stimme ohne Verhandlungsinteresse und der Hinweis, dass die Umsetzungsfrist der Transparenzrichtlinie bereits abgelaufen ist.*

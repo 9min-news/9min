@@ -75,6 +75,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: EU-Kommission
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Zur *[Grundsatzrede von Kommissionspräsidentin Ursula von der Leyen am Europäischen Gipfel zu künstlicher Intelligenz und Kindern](https://ec.europa.eu/commission/presscorner/detail/en/SPEECH_26_1060)*, Kopenhagen, 12. Mai 2026*

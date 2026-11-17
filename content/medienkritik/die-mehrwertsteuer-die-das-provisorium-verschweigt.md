@@ -71,6 +71,7 @@ quelle_format: Broadcast
 quelle_sendung: Rendez-vous
 quelle_redaktion: SRF Wirtschaftsredaktion
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *SRF erklärt, warum die Gewerkschaften die Mehrwertsteuererhöhung für die 13. AHV-Rente befürworten, und rahmt die Steuer als sozialer als angenommen. Reduzierter Satz, Ausnahmen, tiefe Schweizer Inflation. Der Beitrag verschweigt, dass dieselben Gewerkschaften vor der Abstimmung beteuerten, die Finanzierung sei kein Problem. Er verschweigt die Demografie, die das Umlagesystem sprengt. Er verschweigt die Geschichte der Mehrwertsteuer selbst: Sie wurzelt in der Warenumsatzsteuer von 1941, die als «vorübergehende Notmassnahme» eingeführt wurde und über fünfzig Jahre blieb. Und er verschweigt die Frage, ob eine «befristete» Erhöhung, die auf einem Provisorium aufbaut, tatsächlich befristet bleibt. Er ist ein Wirtschaftsinterview, das eine Steuererhöhung als soziale Wohltat verkauft.*

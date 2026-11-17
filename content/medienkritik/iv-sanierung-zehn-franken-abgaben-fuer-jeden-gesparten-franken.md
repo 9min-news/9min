@@ -105,6 +105,7 @@ zusammenfassung: >-
   und eine falsche Zuschreibung der halben Milliarde werden ebenfalls
   beanstandet.
 kritik_schwere: 3
+muster_id: M005
 ---
 
 *Für jeden Franken, den die Invalidenversicherung im Jahr 2030 einsparen soll, will der Bundesrat gut zehn Franken zusätzlich einnehmen, fast alles über die Lohnabrechnung. SRF beschreibt die Reform mit dem Satz, sie setze «bei den Ausgaben und bei den Einnahmen an», und beziffert danach nur die Einnahmen. Wie gross die Einsparungen sind, wie hoch die IV beim AHV-Fonds verschuldet ist und dass die letzte Zusatzfinanzierung zwingend vors Volk musste, erfährt das Publikum nicht. Für Lohnbezüger und Betriebe geht es um eine Sanierung, die sie bezahlen und deren Ausgabenseite aus Verben besteht. Für den Stimmbürger geht es darum, ob er überhaupt gefragt wird.*

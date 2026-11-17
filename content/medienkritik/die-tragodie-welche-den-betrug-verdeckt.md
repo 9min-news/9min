@@ -68,6 +68,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M009
 ---
 
 *SRF meldet den Tod von Jason Arday und rahmt ihn als Resultat einer Kampagne aus Desinformation und Anfeindungen. Familie, Universität und britische Politiker kondolieren und warnen vor voreiligen Urteilen. Der Beitrag verschweigt, dass die «Desinformation» über dokumentiertes Plagiat war. Er fragt nicht, ob Cambridge bei der Einstellung aus Diversitätsgründen die Qualitätskontrolle versäumte. Er ist eine Trauermeldung, die akademisches Versagen in eine Mobbing-Story umdeutet.*

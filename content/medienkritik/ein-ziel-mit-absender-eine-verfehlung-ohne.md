@@ -108,6 +108,7 @@ zusammenfassung: >-
   Die empfohlene Tempo-30-Ausweitung erscheint als unerledigte Pendenz, obwohl
   das Parlament sie kurz vor der Sendung faktisch erschwert hat.
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *Der Beitrag erklärt ein verfehltes Bundesziel mit Kräften, die niemand beschlossen hat. Die tragende Stelle steht unter dem Zwischentitel «Zahlen stagnieren»: Herausforderungen seien, «dass der Strassenverkehr in der Schweiz insgesamt zunimmt und durch neue Mobilitätsformen komplexer wird». Der Verkehrsexperte ergänzt Bevölkerungswachstum, Freizeitbudget und SUVs, die BFU das menschliche Fehlverhalten. Der Bund erscheint als Zielsetzer und Auskunftsstelle, nicht als Instanz, die Regeln macht. Dass er die eine Regeländerung, die der Beitrag als Unfalltreiber nennt, selbst beschlossen und die empfohlene Ausweitung von Tempo 30 kurz vor der Sendung erschwert hat, steht nicht im Beitrag.*

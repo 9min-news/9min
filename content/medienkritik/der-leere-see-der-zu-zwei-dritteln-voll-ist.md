@@ -105,6 +105,7 @@ zusammenfassung: >-
   der Frühjahrs-Ausgangswert. Die Asymmetrie in der Bezeichnung der Kontrahenten
   und das fehlende Kontextwissen verzerrn die Debatte um die Winterstromlücke.
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *Der Titel spricht von «Leere Stauseen», der erste Satz von Seen, die in Graubünden «im Durchschnitt nur zu zwei Dritteln gefüllt» sind, im Tessin «gar nur zur Hälfte». Zwischen diesen beiden Angaben spielt sich der ganze Beitrag ab. Er inszeniert ein Duell zwischen einem Ankläger und einer angeklagten Branche, liefert aber keine Messlatte, an der sich eine der beiden Behauptungen prüfen liesse. Die Bildlegende erklärt den Pegel in eigener Stimme für «historisch tief», ohne Vergleichswert. Der Schlussabsatz ersetzt die Prüfung durch eine Deutung: «Die AKW-Debatte überschattet im Energiebereich derzeit alles andere.» Verschwiegen werden zwei Dinge: dass die angeklagten «Energiekonzerne» mehrheitlich Kantonen und Städten gehören und dass für den knappen Winter bereits ein Instrument existiert, das die Stromkonsumenten bezahlen.*

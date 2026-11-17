@@ -66,6 +66,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: Blick Politik
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Der Streit, den der Beitrag meldet, ist ein Streit um ein Wort. Ein Influencer mit 5,5 Millionen Followern zeigt den Co-Präsidenten der grössten linken Partei des Landes an, weil dieser ihn im Abstimmungskampf mit dem Wort «Neonazi» in Verbindung brachte. Der Beitrag über diesen Streit beginnt mit der Antwort: «Der Tiktok-Star Joung Gustav verbreitet rechtsextreme Propaganda.» Das ist die Redaktionsfassung dessen, was die Justiz klären soll. Der Prozess ist eröffnet, das Urteil steht im Vorspann. Die Rechtsfrage, um die es geht, ob «Neonazi» eine beweispflichtige Tatsachenbehauptung ist oder ein geschütztes Werturteil, kommt mit keinem Wort vor.*

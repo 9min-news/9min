@@ -115,6 +115,7 @@ zusammenfassung: >-
   nicht zu Wort, und der historische Kontext des Streits um Rechtsgleichheit
   (Fall Hegetschweiler 1984) fehlt.
 kritik_schwere: 3
+muster_id: M010
 ---
 
 *Zwei Vorlagen, zwei Zettel: Am einen hängt «680 Millionen bis zu 3 Milliarden Franken pro Jahr», am anderen das Wort «Preisschild», aber keine Zahl. So stellt das «Echo der Zeit» gut drei Wochen vor der Abstimmung die Mitte-Initiative neben die vom Volk bestätigte Individualbesteuerung. Die Initiative erhält eine Kostenspanne, das Gesetz ein Attest. Dass auch die Individualbesteuerung den Bund Geld kostet, räumt der Beitrag in einem Halbsatz ein, ohne es zu beziffern, und die Urheber der Initiative kommen nicht zu Wort. Am 29. November sollen die Stimmbürger zwei Systeme abwägen. Ein Einverdiener-Ehepaar erfährt dabei, was die eine Variante den Staat kostet, aber nicht, was die andere das Ehepaar selbst kostet.*

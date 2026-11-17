@@ -116,6 +116,7 @@ zusammenfassung: >-
   aussagte. Zudem werde der Gerichtsstopp unpräzis als «gestoppt» bezeichnet und
   die zehn Tage nach der Sendung stattfindende Wahl verschwiegen.
 kritik_schwere: 3
+muster_id: M009
 ---
 
 *Der Titel liefert das Urteil, bevor der Text den Gegenstand liefert: «So gehen Populisten mit Medien um». Das Gesetz selbst erscheint in einem einzigen Satz als Paket, «das die Medienaufsicht und die Regulierung des Rundfunks neu ordnen soll». Den Rahmen bildet die Eskalationskette der Expertin: Zuerst gerieten die Gerichte unter Druck, dann andere Kontrollinstanzen, «schliesslich die Medien». Die einzige Mengenangabe, die «Hunderttausende» auf der Strasse, gehört zur Justizreform und verleiht der Medienreform ein Gewicht, das der Beitrag nie beschreibt. Verschwiegen werden der Inhalt des Gesetzes, die Begründung der Regierung, die Rolle der Hauptquelle, der tatsächliche Umfang des Gerichtsstopps und die Wahl, die zehn Tage nach der Sendung stattfindet.*

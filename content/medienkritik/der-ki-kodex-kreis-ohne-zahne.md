@@ -65,6 +65,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Zur SRF-Berichterstattung *[«KI-Einsatz in Medien soll transparenter werden»](https://www.srf.ch/news/schweiz/kodex-fuer-medienbranche-ki-einsatz-in-medien-soll-transparenter-werden)*, 7. Mai 2026*

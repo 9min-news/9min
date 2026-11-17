@@ -66,6 +66,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: 9min.ch
 kritik_schwere: 2
+muster_id: M017
 ---
 
 *Über die Aneignung von Symbolen, die Asymmetrie der Toten und wer das Recht hat, Geometrie zu kontaminieren*

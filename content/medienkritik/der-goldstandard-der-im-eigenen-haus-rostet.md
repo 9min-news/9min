@@ -64,6 +64,7 @@ quelle_format: Broadcast
 quelle_sendung: Rendez-vous
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Der Beitrag meldet eine Premiere: Zum ersten Mal seit 25 Jahren laden die USA keine OSZE-Wahlbeobachter ein. Der Korrespondent ordnet ein: Das Vorgehen sei «sonst aus Russland bekannt». Die Erzählung ist fertig: Die USA werden zu Russland, die OSZE ist der Goldstandard, die Nicht-Einladung ist der Vorbote der Manipulation. Was der Beitrag nicht liefert: die Prüfung des Goldstandards selbst. Die OSZE, deren Beobachtung als unersetzlich gilt, hat eine dokumentierte Geschichte von Berichten, die politisch kalibriert waren, und eine Organisation, die im Dienst der Aussenpolitik ihrer Mitglieder steht. Der Beitrag über eine Institution, die Demokratie misst, prüft die Demokratie-Messerin nicht. Und die eigentliche Pointe des Stücks bleibt ungenutzt: Der Mann, der die Nicht-Einladung kritisiert, ist der diplomatische Korrespondent eines Landes, dessen OSZE-Vorsitz gerade läuft und das die Nicht-Einladung «bedauert», während es selbst die Wahlbeobachtung in einem Land verweigert, das es besetzt hält.*

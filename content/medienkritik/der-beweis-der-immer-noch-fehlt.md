@@ -65,6 +65,7 @@ quelle_format: Broadcast
 quelle_sendung: Tagesschau
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *SRF analysiert die deutsche Reaktion auf den Drohnenfund in Leipzig und rahmt sie als überfällige Klarheit. «Handfeste Beweise», «klare Schuldzuweisung», «Geschenk für die Ermittler». Was der Beitrag nicht liefert: auch nur einen dieser Beweise. Kein Name, kein Gerät, kein Abfangprotokoll, kein Geheimdienstbericht — nur die Versicherung von Ministern, die Spuren wiesen auf «beteiligte Personen» hin, die «im Auftrag staatlicher russischer Stellen» handelten. Die Analyse feiert die Beweislage, ohne sie zu kennen. Und sie verschweigt die Ladung, die den ganzen Vorgang einordnen würde: 50 Gramm Hexogen — genug, um ein Flugzeug am Boden zu beschädigen, nicht genug, um «Deutschland» anzugreifen. Stattdessen: geschlossene Konsulate, gekündigte Kulturverträge, verschärfte Einreisekontrollen — ein Bündel von Massnahmen, deren Grössenordnung die eines Drohnenfundes übersteigt, der nicht detonierte.*

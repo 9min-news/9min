@@ -79,6 +79,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: EDA
 kritik_schwere: 3
+muster_id: M017
 ---
 
 [Zur Ansprache von Bundesrat Ignazio Cassis anlässlich der Swiss Press Award-Verleihung 2026 in Bern](https://www.eda.admin.ch/de/newnsb/6bUOg43KWQ-bhm7V00vwB)*, gehalten am 24. April 2026*

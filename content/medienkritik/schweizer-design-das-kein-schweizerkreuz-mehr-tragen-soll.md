@@ -109,6 +109,7 @@ zusammenfassung: >-
   Beitrag rahmt eine Behördenposition als neutrale Norm und verschweigt die
   politische Kontroverse.
 kritik_schwere: 3
+muster_id: M005
 ---
 
 *Wer in der Schweiz gestaltet und forscht, aber im Ausland fertigen lässt, soll das Schweizerkreuz wieder verlieren. SRF erklärt nicht, warum, und verschweigt, dass der Bundesrat die Verschärfung nicht wollte. Der Titel übernimmt die Forderung einer Parlamentskommission als allgemeine Norm, ohne Absender. Die Zusammenfassung meldet mit «Das Schweizerkreuz wird exklusiv» einen Vollzug, wo erst ein Auftrag erteilt wurde. Für den Stimmbürger steht eine einfache Frage auf dem Spiel: Werden hier Konsumenten vor Täuschung geschützt, oder erhalten bestimmte Produzenten ein Vorrecht auf ein Symbol, das allen gehört?*

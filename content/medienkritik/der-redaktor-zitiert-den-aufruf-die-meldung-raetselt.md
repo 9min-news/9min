@@ -109,6 +109,7 @@ zusammenfassung: >-
   wesentliche Kontexte wie Firmenname, Schadenshöhe, Strafurteil und
   Haftungsregelung fehlen oder werden verharmlosend gerahmt.
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *Am Freitag stand der Aufruf bei Watson, die Stadtpolizei war laut TeleZüri vorgewarnt, und nach der Nacht zitierte SRF-Extremismusredaktor Daniel Glaus die Mobilisierung wörtlich: «Züri brännt und mir tanzed». Die SRF-Meldung über dieselbe Nacht, auf die seine Analyse als Erstes verlinkt, schreibt dagegen, es habe «wenig auf den eigentlichen Grund der Demo» schliessen lassen. Die Analyse belegt einen politischen Kern und bettet ihn in eine Halloween-Erzählung von Mitläufern und Adrenalin, für die sie keinen Beleg hat. Die Firma in Thun, das Strafurteil hinter dem Stauffacher-Zitat und die Klima-Streik-Sektionen bleiben im Ungefähren. Wer nur die Meldung liest, erfährt von einem Krawall ohne Grund statt von einem angekündigten politischen Angriff, und kann als Zürcher Stimmbürger kaum beurteilen, wer unbewilligte Demonstrationen duldet und wer für den Schaden haftet.*

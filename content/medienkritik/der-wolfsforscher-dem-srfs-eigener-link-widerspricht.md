@@ -113,6 +113,7 @@ zusammenfassung: >-
   für Nutztierhalter (808 gerissene Tiere, CHF 695'774 Entschädigung) und
   Steuerzahler (CHF 7 Mio. Herdenschutz) werden ausgeblendet.
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *SRF verlinkt unter der These «Abschüsse fördern die Fortpflanzung der Tiere» den Bericht des Bundesamts für Umwelt zur Wolfsregulierung, und dessen Fazit lautet: «Die Wolfsregulierung gemäss dem angepassten Recht zeigt Wirkung.» Kein Satz des Beitrags erwähnt es. Der Titel steht ohne Zuschreibung, die Dachzeile «Die Natur des Wolfs» macht aus einem politischen Streit eine Biologielektion, und der Zwischentitel «Ökologie wird zu wenig beachtet» fällt in SRF-Stimme ein Urteil, das nur ein einzelner Forscher begründet. Es fehlen die fachliche Gegenstimme, die Zahlen des verlinkten Berichts und die Kosten, die andere tragen als jene, die mehr Wölfe für vertretbar halten. Steuerzahler und Nutztierhalter sollen eine Politik beurteilen, die das Parlament neu geregelt hat, nachdem das Volk am 27. September 2020 eine erste Revision des Jagdgesetzes abgelehnt hatte: Revision im Dezember 2022, proaktive Regulierung seit 1. Dezember 2023. Der gebührenfinanzierte Sender liefert ihnen dazu eine Stimme und einen ungelesenen Gegenbeleg.*

@@ -102,6 +102,7 @@ zusammenfassung: >-
   Wissenschaftler präsentiert, obwohl seine Institution Partei ist, und die
   Defizitprognose eines betroffenen Regierungsrats wird unkritisch übernommen.
 kritik_schwere: 3
+muster_id: M009
 ---
 
 *Ein Waadtländer Regierungsrat nennt den Entscheid seines Souveräns «idiotisch» und «katastrophal», und SRF gibt ihm das erste Wort und die letzte Stimme. Dazwischen sprechen eine Heimbetreuerin, der Direktor einer Fachhochschule und 8000 Demonstranten. Wer der Steuersenkung zugestimmt hat und warum, erfährt der Hörer nicht. Schon der Titel macht aus einem Volksentscheid einen Zwang, der einer Regierung widerfährt, und die Dachzeile «Proteste gegen Sparmassnahmen» verlegt das Thema sofort auf die Ausgabenseite. Verschwiegen wird, dass die Initiative nach der Schätzung des Kantons selbst weniger als ein Viertel jenes Defizits ausmacht, das Nordmann unmittelbar nach ihr anführt. Für den Stimmbürger geht es darum, ob sein Entscheid als Auftrag mit Gründen gemeldet wird oder als Schadensereignis. Für den Gebührenzahler geht es darum, ob sein Sender bei Steuerfragen beide Seiten der Kasse zeigt.*

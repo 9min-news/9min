@@ -113,6 +113,7 @@ zusammenfassung: >-
   Motivzuschreibung in der Stimme des Mediums rahme die Kritik als Angriff auf
   Geschlecht und Herkunft.
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Bevor die erste Zahl fällt, steht das Motiv schon fest. Mehrere Zeitungen hätten die Genferin angegriffen, «weil sie eine Frau ist, weil sie reich ist, weil sie nicht immer auf der Parteilinie liegt». Darauf folgt eine Rechnung, die diese Lesart stützt: vier vergütete Mandate gegen einen Durchschnitt von 3.3 im Nationalrat und 4.2 bei den Bürgerlichen. So wird aus einer Frage nach Unabhängigkeit eine Frage der Menge, und die Menge entlastet. Danach sprechen nur noch Verteidiger. Nicht erwähnt wird, dass die Anlagestiftung Ethos der Nationalrätin die Unabhängigkeit absprach, dass ihre Familie Grossaktionärin der Groupe Minoteries ist und dass sie bei einer Firma des laut NZZ am Sonntag umstrittenen Investors Antoine Hubert im Verwaltungsrat sitzt.*

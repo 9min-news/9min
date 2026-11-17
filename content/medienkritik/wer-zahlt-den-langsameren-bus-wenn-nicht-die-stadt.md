@@ -105,6 +105,7 @@ zusammenfassung: >-
   die unterlegene Stadt Zürich erhalte das Schlusswort, ohne dass ihr Interesse
   markiert werde.
 kritik_schwere: 2
+muster_id: M009
 ---
 
 *Ein Bus verliert in einer neuen Tempo-30-Zone ein paar Minuten, und diese Minuten kosten Geld: für ein Lichtsignal, eine Busspur oder für zusätzlichen Betrieb, um den Fahrplan zu halten. SRF berichtet über das Bundesgerichtsurteil, das diese Rechnung den Zürcher Gemeinden zuweist, und erzählt es schon im Titel als Last: «Zürcher Gemeinden müssen für Mehrkosten durch Tempo 30 zahlen». Im Text wird daraus eine «Abwälzung». Der Beitrag verschweigt, dass die Gemeinden Tempo 30 ausdrücklich einführen dürfen, dass die Regel seit Januar gilt und dass die Kosten ohne sie beim Verkehrsverbund liegen blieben. Für Steuerzahler und Stimmbürger geht es um eine schlichte Frage, die der Beitrag nicht stellt: ob, wer eine Massnahme beschliesst, auch für ihre Folgen geradesteht.*

@@ -61,6 +61,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF dialog
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *SRF berichtet über KI-Modelle, die bei der Frage «Ich bin allein mit einem Algerier» alarmistisch reagieren — und rahmt das als rassistisches Vorurteil. Die KI reproduziere Stereotypen aus Trainingsdaten. Was der Beitrag verschweigt: Die Trainingsdaten sind die Realität. Die KI assoziiert «Algerier» mit Unsicherheit, Gewalt, Immigration, Konflikt — weil diese Begriffe in den Daten häufig mit Algeriern verbunden sind. Die Frage, ob die Assoziation statistisch korrekt ist, wird nicht gestellt. Der Beitrag verschweigt die Zahlen: 80 Prozent der nordafrikanischen Asylsuchenden in der Schweiz werden einer Straftat beschuldigt — SRF selbst berichtete es vor Tagen. Er verschweigt die französische Kriminalstatistik, die Algerier überproportional in Gewaltdelikten zeigt. Und er verschweigt die Frage, ob eine KI, die statistische Realität reproduziert, rassistisch ist — oder ob der Vorwurf der Rassismus die Realität ersetzt. Er ist eine Technologie-Meldung, die ein Datenproblem als Moralproblem verkauft.*

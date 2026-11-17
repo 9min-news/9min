@@ -76,6 +76,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: Direktion der Justiz und des Inneren Kanton Zürich
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Zur Kampagne «Facts Matter» *(https://factsmatter.ch/) *der Kantone Zürich, St. Gallen und Luzern*

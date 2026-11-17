@@ -67,6 +67,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *Dieser SRF-Beitrag über die Verschiebung der E-ID ist ein Lehrstück in Behörden-Stenografie: Eine Pressemitteilung des Bundesamtes für Justiz wird 1:1 übernommen, ohne eine einzige kritische Frage. Die Verschiebung wird als technisches Problem (KI, Deepfakes, Sicherheit) präsentiert — ohne Kontext, ohne Vorgeschichte, ohne Kosten, ohne politische Dimension. Das ist keine Berichterstattung — das ist ein Pressespiegel mit Redaktions-Siegel. Und das Schlimmste: Die gesamte Vorgeschichte der E-ID — der Abstimmungskampf, die Swisscom-Spende, das Bundesgericht-Urteil, die Verstösse gegen Transparenzregeln — wird mit keinem Wort erwähnt. Als ob die E-ID aus dem Nichts kommt.*

@@ -90,6 +90,7 @@ quelle_format: ''
 quelle_sendung: ''
 quelle_redaktion: ''
 kritik_schwere: 3
+muster_id: M017
 ---
 
 ## Dreizehn Jahre, vier Runden und die Frage, warum immer derselbe Nein sagt

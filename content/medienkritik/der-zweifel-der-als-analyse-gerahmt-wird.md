@@ -68,6 +68,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *SRF berichtet über steigende US-Staatsanleihenrenditen und rahmt den neuen Fed-Chef Kevin Warsh als Mann, der Trump gefallen will. Die Märkte misstrauten ihm, die Inflation steige, die SNB sei das bessere Vorbild. Der Beitrag blendet systematisch aus, ob die Fed überhaupt für die Inflation verantwortlich ist, welche Rolle die US-Fiskalpolitik spielt. Amerikanische Stimmen fehlen. Die Staatsschuld kommt nicht vor. Der Beitrag ist eine Marktbeobachtung, die eine politische These als ökonomische Analyse verkauft.*

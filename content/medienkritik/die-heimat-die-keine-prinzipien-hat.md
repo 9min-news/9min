@@ -62,6 +62,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: EJPD
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *Bundesrat Beat Jans hält eine Bundesfeierrede in Therwil und rahmt die Schweiz als Geschichte der Offenheit und Vielfalt. Die Zahl 99 wird zum Symbol für ständige Erweiterung. Was nicht vorkommt: die Grundsätze, die diese Offenheit erst möglich machten. Was nicht vorkommt: die Neutralität. Was nicht vorkommt: die Kosten der Migration. Die Rede ist ein Festtagsvortrag, der die Schweiz zu einem reinen Verwaltungsapparat ohne Grenzen umdeutet.*

@@ -58,6 +58,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *SRF porträtiert den ukrainischen Schriftsteller Artem Tschapaj, der als Pazifist freiwillig in die Armee ging, und rahmt den Krieg als reine moralische Gewissensfrage. Der Beitrag blendet systematisch aus, wie die ukrainische Armee im Jahr 2026 tatsächlich rekrutiert. Ob das Interview nur Buchpromotion ist und was die Schweizer Milliarden damit zu tun haben; unklar. Er ist ein literarisches Porträt, das den Krieg romantisiert und die brutale Gegenwart ausblendet.*

@@ -67,6 +67,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: ''
 kritik_schwere: 2
+muster_id: M002
 ---
 
 *Zur Datenanalyse *[«Seit Beginn der Personenfreizügigkeit sind über 800 000 Ausländer in der Schweiz eingebürgert worden. Zum Glück»](https://www.nzz.ch/wirtschaft/seit-beginn-der-personenfreizuegigkeit-sind-ueber-800-000-auslaender-zu-schweizern-geworden-ohne-diese-einbuergerungen-wuerde-die-zahl-der-schweizer-schrumpfen-ld.1854076)*, NZZ vom 31. Oktober 2024*

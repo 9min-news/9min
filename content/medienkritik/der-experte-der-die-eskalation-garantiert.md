@@ -66,6 +66,7 @@ quelle_format: Broadcast
 quelle_sendung: Tagesgespräch
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M007
 ---
 
 *SRF interviewt einen Osteuropa-Experten über die Eskalation des Ukraine-Kriegs und rahmt ihn als Propheten. Putin müsse eskalieren, habe keine Alternative, werde nach den Wahlen weiter aufrüsten. Der Beitrag verschweigt, dass die Ukraine selbst russische Städte mit Drohnen angreift. Er verschweigt die Beweislage für die zivilen Opfer — Supermärkte und Museen werden genannt, ohne Zahlen. Er verschweigt die Frage, ob westliche Waffenlieferungen die Eskalation antreiben. Und er verschweigt die Schweizer Milliarden, die denselben Krieg finanzieren. Er ist ein Experteninterview, das eine These als Prophezeiung verkauft — ohne eine einzige Gegenstimme.*

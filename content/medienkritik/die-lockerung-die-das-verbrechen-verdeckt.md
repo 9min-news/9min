@@ -61,6 +61,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M001
 ---
 
 *SRF meldet die Verlängerung von Zwangsmassnahmen gegen das Ehepaar Moretti und rahmt den Beitrag als Verwaltungsnote. Ausreiseverbot, tägliche Meldung, Kaution, Videoanruf statt Gängen zum Posten. Was nicht vorkommt: die Opfer. Was nicht vorkommt: die Frage, ob die Massnahmen angemessen sind. Was nicht vorkommt: der Stand der Ermittlungen. Was nicht vorkommt: die Frage, warum die Staatsanwaltschaft drei Monate mehr braucht. Der Beitrag ist eine Gerichtsnote, die eine Brandkatastrophe zur administrativen Routine macht.*

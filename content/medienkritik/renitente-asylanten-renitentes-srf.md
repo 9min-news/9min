@@ -63,6 +63,7 @@ quelle_format: Broadcast
 quelle_sendung: Rundschau
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *SRF berichtet über ein Pilotprojekt zur Unterbringung renitenter Asylanten in Flumenthal und rahmt es als lokalen Streit. Gemeindeversammlung, Widerstand, Kompromiss. Der Beitrag verschweigt, dass das SEM seit 2014 dreissig Standorte prüfte und keinen fand. Er verschweigt, was «renitent» bedeutet. Er verschweigt, dass ein Asylanten in Les Verrières eine Waldhütte ansteckte. Er verschweigt die einfachste Lösung: Wer Asyl sucht und sich renitent verhält, kann dorthin zurück, woher er kam. Und er verschweigt die Kosten. Er ist eine Dorfreportage, die ein systemisches Versagen als Nachbarschaftsstreit verkauft.*

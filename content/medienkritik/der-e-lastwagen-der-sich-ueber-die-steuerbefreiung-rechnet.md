@@ -103,6 +103,7 @@ zusammenfassung: >-
   Bahninfrastrukturfonds, und bei der Stadt Genf als staatlichem Käufer wird der
   Preisunterschied im Gegensatz zum privaten Unternehmen nicht thematisiert.
 kritik_schwere: 3
+muster_id: M010
 ---
 
 *Ein Elektro-Lastwagen kostet laut dem Unternehmer im Beitrag 300'000 Franken, ein vergleichbarer Diesel 140'000, und der einzige Grund, den der Beitrag für den Kauf des teureren nennt, ist eine Abgabe, die er nicht zahlt. SRF titelt trotzdem, bei Lastwagen «kommt der Umstieg auf Elektroantrieb voran», als bewege sich ein Markt aus eigener Kraft, und überschreibt den Abgabenerlass mit «Weniger Steuerbelastung». Verschwiegen wird, dass das Parlament fünf Wochen vor der Sendung in der Schlussabstimmung verabschiedet hat, Elektro-Lastwagen ab 2031 abgabepflichtig zu machen, sofern kein Referendum die Vorlage stoppt. Für Unternehmer, die auf diese Rechnung bauen, und für Stimmbürger, bei denen die Referendumsfrist läuft, ist das keine Fussnote. Es geht um die Frage, wer die Lücke in der Bahnkasse füllt und wie lange.*

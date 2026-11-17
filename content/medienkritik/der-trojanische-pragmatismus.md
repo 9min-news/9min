@@ -62,6 +62,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M001
 ---
 
 *Wie SRF den EU-Protektionismus als Naturereignis darstellt — und die bilaterale Kapitulation als einzig logische Antwort neu erzählt*

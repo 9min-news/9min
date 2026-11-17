@@ -68,6 +68,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M005
 ---
 
 *SRF interviewt Migrationsexperte Gerald Knaus zur Ceuta-Krise und rahmt ihn als neutralen Analyst. Knaus fordert «sichere Drittstaatenabkommen», sein eigenes politisches Produkt. Was nicht vorkommt: die Hunderte Millionen Euro, die die EU und Spanien Marokko für Grenzsicherung bezahlen. Was nicht vorkommt: die Frage, ob Marokko die Krise nutzt, um mehr Geld zu erpressen. Was nicht vorkommt: Knaus' institutionelles Interesse an seiner eigenen Lösung. Der Beitrag ist ein Interview mit einem Advocacy-Vertreter, der als Experte auftritt, ohne dass eine einzige Frage an sein Geschäftsmodell gestellt wird.*

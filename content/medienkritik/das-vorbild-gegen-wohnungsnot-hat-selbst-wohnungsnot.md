@@ -109,6 +109,7 @@ zusammenfassung: >-
   Raumplanungsgesetzgebung, zu den Subventionskosten und zum
   Bevölkerungswachstum.
 kritik_schwere: 3
+muster_id: M007
 ---
 
 *Lille, Salzburg, Hannover, München, Gent: Von diesen fünf Agglomerationen soll die Schweiz lernen, wie man Wohnungsnot bekämpft. Ihr gemeinsames Merkmal ist laut SRF, dass auch dort der Wohnraum knapp ist. Schon die Dachzeile «Hilfen für mehr Wohnraum» macht aus einer Frage von Angebot, Regeln und Kosten eine Frage staatlicher Zuwendung, und der Zwischentitel «Weniger Föderalismus?» stellt die Gemeindeautonomie zur Disposition, beantwortet von einer einzigen Stimme. Verschwiegen wird, ob die gelobten Instrumente irgendwo zu mehr Wohnungen geführt haben, wer die empfohlenen Subventionen bezahlt und welche Bauvorschriften das Angebot heute bremsen. Für den Stimmbürger steht die Mitsprache über den Zonenplan seiner Gemeinde auf dem Spiel, für den Steuerzahler eine Rechnung ohne Absender, für den Mieter die Frage, ob überhaupt an der richtigen Stelle angesetzt wird.*

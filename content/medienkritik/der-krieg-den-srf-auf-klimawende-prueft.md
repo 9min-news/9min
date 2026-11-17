@@ -98,6 +98,7 @@ zusammenfassung: >-
   werde bei sinkenden Emissionen menschliches Handeln gutgeschrieben, bei
   steigenden (Waldbrände) als Ereignis dargestellt.
 kritik_schwere: 2
+muster_id: M010
 ---
 
 *Ölkrisen der Siebzigerjahre, Zerfall der Sowjetunion, Finanzkrise, Pandemie, Irankrieg: Seit 1960 hat die Welt nur dann weniger Kohle, Öl und Gas verbrannt, wenn ihr eine Katastrophe den Verbrauch abgenommen hat. SRF zählt diese Reihe selbst auf und setzt über den fünften Eintrag die Dachzeile «Ist das die Klimawende?». Was der Krieg jene gekostet hat, die das fehlende Öl nicht mehr kaufen konnten, steht nirgends im Beitrag, und dass der gesamte Ausstoss in diesem Jahr trotzdem steigt, steht erst im letzten Satz. Wenn Emissionen nur durch Knappheit sinken, dann ist die im Beitrag geforderte drastische Kürzung der Investitionen in Öl und Gas eine Knappheit mit Absicht, bezahlt an der Zapfsäule und auf der Heizrechnung. Darüber entscheidet in der Schweiz der Stimmbürger, und ihm wird nur die eine Hälfte der Rechnung gezeigt.*

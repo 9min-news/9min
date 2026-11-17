@@ -104,6 +104,7 @@ zusammenfassung: >-
   ungeprüfte Zahl einer Interessenorganisation übernommen und nicht mit
   Behördenzahlen abgeglichen, was die Schlagzeile widersprüchlich macht.
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Die Schlagzeile meldet «ICE ist weg». Der dritte Absatz meldet: «ohne grosses Aufsehen gehen die Verhaftungen von Migrantinnen und Migranten ohne geregelten Aufenthaltsstatus weiter». Der vierte beziffert sie auf 42 pro Tag. Getragen wird der Beitrag von einem Siegesnarrativ: «Nach Protesten und wachsendem politischem Druck zog Washington ICE aus Minnesota ab», Minneapolis sei zum Symbol geworden «für jene, die es geschafft hatten, Trump zum Rückzug zu bewegen». Erzählt wird ein Dreischritt aus Widerstand, Sieg und Ermüdung. Was nicht in diesen Bogen passt, bleibt draussen: die Version der Regierung, die den Einsatz für erfolgreich beendet erklärte, die Verhaftungsbilanz der Operation und die umstrittenen Hergänge der beiden Todesfälle.*

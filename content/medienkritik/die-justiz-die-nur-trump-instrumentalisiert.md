@@ -79,6 +79,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *SRF veröffentlicht eine Abrechnung mit Donald Trumps Justizpolitik — und rahmt sie als Analyse. Der Titel nennt «Würgegriff», «Vergeltung», «Waffe» — drei Wörter, die nicht analysieren, sondern urteilen. Der Beitrag versammelt Kritiker: eine Biden-Beamtin, ein Never-Trump-Republikaner, ein ehemaliger Bundesstaatsanwalt, ein Ex-Richter. Was er nicht versammelt: jemanden, der Trumps Handeln verteidigt oder erklärt. Was er nicht thematisiert: die Instrumentalisierung der Justiz vor Trump — Russland-Ermittlungen, FISA-Missbrauch, Biden-Begnadigungen. Der Beitrag ist eine Anklageschrift mit Analyse-Format — und er verschweigt den Kontext, der sie relativieren würde.*

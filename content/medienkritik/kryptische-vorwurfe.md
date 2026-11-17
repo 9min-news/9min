@@ -72,6 +72,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Dieser SRF-Beitrag ist ein Interview mit Corey Frayer, dem früheren Krypto-Berater des einstigen US-Börsenaufsichtschefs Gary Gensler, über Donald Trumps Krypto-Geschäfte. Das Thema ist legitim und ernst: Mögliche Interessenkonflikte eines amtierenden Präsidenten, der über Familienfirmen an einem Markt verdient, den seine eigene Regierung reguliert, gehören untersucht. Doch der Beitrag tut etwas Bemerkenswertes: Er lässt einen erkennbar positionierten Ankläger das Wort «Korruption» rund ein Dutzend Mal verwenden — und prüft kein einziges Mal nach. Die Interviewerin liefert Stichworte, der Zeuge urteilt, und der schwerste denkbare Vorwurf gegen ein Staatsoberhaupt wird ohne Gegenstimme als Tatsache präsentiert. Sehen wir genau hin.*

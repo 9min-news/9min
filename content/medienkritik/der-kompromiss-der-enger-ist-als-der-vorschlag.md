@@ -108,6 +108,7 @@ zusammenfassung: >-
   genannt, aber im Kasten belassen, während Titel und Lead bereits eine
   Entspannung suggerierten.
 kritik_schwere: 3
+muster_id: M013
 ---
 
 *Der Titel fragt, ob «Made in Europe» für die Schweiz «kein Problem (mehr)» sei. Der Lead verspricht einen Kompromiss, der «eine Lösung aufzeigen könnte. Wenn sie denn möchte.» Damit sind die Rollen verteilt: Die EU öffnet, die Schweiz entscheidet, ob sie eintritt, und wer ablehnt, schliesst sich selbst aus. Ein deutsch-französisches Positionspapier, das Bedingungen stellt, erscheint so als Einladung. Die Dachzeile nennt den Protektionismus dahinter «Heimatschutz». Zwei Dinge verschweigt der Beitrag. Die EU-Kommission hatte im März einen offeneren Vorschlag vorgelegt, an dem gemessen das Papier eine Verengung ist. Und die Schweiz ist im Beschaffungswesen längst vertraglich mit der EU verbunden.*

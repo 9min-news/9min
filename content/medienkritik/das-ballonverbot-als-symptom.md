@@ -71,6 +71,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: keins
 ---
 
 Zum SRF-Beitrag [«Kanton Neuenburg verbietet das Steigenlassen von Ballons»](https://www.srf.ch/news/schweiz/neuenburg-kanton-neuenburg-verbietet-das-steigenlassen-von-ballons) vom 28. April 2026

@@ -63,6 +63,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Zur SRF-Meldung *[«WHO warnt vor White Snus»](https://www.srf.ch/news/international/immer-mehr-suechtige-who-warnt-vor-white-snus)*, 15. Mai 2026*

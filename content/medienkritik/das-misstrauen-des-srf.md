@@ -73,6 +73,7 @@ quelle_format: Broadcast
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *SRF berichtet über eine Rede des US-Präsidenten — und rahmt sie als Wiederholung bekannter Lügen. «Trump sät Misstrauen an fairen US-Wahlen», lautet der Titel, und der Beitrag liefert das Urteil vor dem Inhalt. Was nicht vorkommt: dass Trump deklassierte Geheimdienst-Dokumente veröffentlicht hat — und dass erste Analysen diese Dokumente als echt beschreiben, auch wenn sie keine Manipulation beweisen. Was nicht vorkommt: dass grosse US-Sender die Rede eines amtierenden Präsidenten nicht übertrugen — ein Vorgang, der in jeder Demokratie eine Meldung wert wäre. Was nicht vorkommt: die Frage, ob Wahlsysteme tatsächlich Sicherheitslücken haben — eine Frage, die unabhängig von Trumps Person gestellt werden könnte. Der Beitrag ist ein Urteil ohne Untersuchung — und die Untersuchung wäre der Inhalt der Dokumente, die SRF nicht prüft.*

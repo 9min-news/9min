@@ -50,6 +50,7 @@ export default function MusterPage() {
           lineHeight: 1.6,
         }}>
           Wiederkehrende Formen von Fehlern und Verzerrungen im Schweizer Journalismus.
+          Die Medienkritiken auf 9min sind ihnen zugeordnet, jedes Muster führt zu seinen Beispielen.
         </p>
 
         <ul style={{ listStyle: 'none', padding: 0, margin: 0 }}>
@@ -120,6 +121,7 @@ export default function MusterPage() {
                     color: 'var(--color-textgrau-hell)',
                   }}>
                     {m.beispielCount} {m.beispielCount === 1 ? 'Beispiel' : 'Beispiele'}
+                    {m.recent.length > 0 && <> · zuletzt {m.recent.map(t => `«${t}»`).join(', ')}</>}
                   </span>
                 )}
               </Link>

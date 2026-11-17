@@ -63,6 +63,7 @@ quelle_format: Broadcast
 quelle_sendung: 10vor10
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *SRF erklärt das EU-Referendum in Island und rahmt es als richtungsweisenden Urnengang. Trumps Grönland-Drohungen als Auslöser, Fischerei als Streitpunkt, Nettozahler als Novum. Der Beitrag verschweigt die Kernfrage des Referendums: Souveränität. Er verschweigt, dass Island als EU-Mitglied dem EuGH unterstünde — es nennt es in einem Halbsatz. Er verschweigt die Lehren aus der eigenen Geschichte — Island war bereits Kandidat und zog zurück. Und er verschweigt die Schweizer Dimension: Ein Land, das den EU-Beitritt ablehnt, weil es seine Souveränität behalten will, ist ein Spiegel für die Schweiz. Er ist eine Referendumserklärung, die die wichtigste Frage — Macht — nicht stellt.*

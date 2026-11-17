@@ -67,6 +67,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M001
 ---
 
 *SRF meldet, dass der Bundesrat eine Mehrwertsteuererhöhung für Rüstungsausgaben ins Parlament schickt, und rahmt sie als selbstverständliche Konsequenz einer verschlechterten Sicherheitslage. 24 Milliarden Franken, zwölf Jahre, 0,5 Prozentpunkte. Der Beitrag verschweigt, dass dieselbe Regierung die 13. AHV-Rente ohne Finanzierung beschloss — und zuvor beteuerte, das sei kein Problem. Er verschweigt, dass die Schweiz 200 Milliarden hätte, hätte sie ihr Gold nicht verkauft. Er verschweigt, dass die Schweiz 5 Milliarden an die Ukraine verschenkt — ein korrupten Kriegsstaat, und damit gegen die eigenen Neutralitätsprinzipien verstösst. Er verschweigt, dass die Politiker, die heute 24 Milliarden für die Armee fordern, jahrelang behaupteten, man brauche keine Armee. Und er verschweigt, dass niemand im Bundesrat Verantwortung übernimmt — für nichts. Der Beitrag ist eine Regierungsmeldung, die eine Steuererhöhung als Sicherheitspolitik verkauft, während die Politik versagt und die Rechnung dem Bürger präsentiert wird.*

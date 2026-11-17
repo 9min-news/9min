@@ -65,6 +65,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *SRF berichtet über Marseille — und rahmt die Drogenkriminalität als französische Tragödie, die von tapferen Vereinen bekämpft wird. «Armut» ist die Ursache, «Prävention» ist die Lösung, «Vereine» sind die Helden. Was nicht vorkommt: die Demografie der Quartiere — wer dort lebt, woher er kommt, welche Sprache er spricht, welche Kultur er vertritt. Was nicht vorkommt: die Frage, ob Frankreichs Migrations- und Integrationspolitik die Entstehung von Parallelgesellschaften begünstigt hat. Was nicht vorkommt: die Schweiz — obwohl Genf, Lausanne, Basel dieselben Muster zeigen, obwohl Schweizer Städte dieselben Demografien importieren, obwohl der Platzspitz 2.0 längst in Schweizer Bahnhöfen existiert. Der Beitrag ist Auslandsberichterstattung als moralische Übung — der Blick nach Marseille, damit niemand nach Zürich schaut.*

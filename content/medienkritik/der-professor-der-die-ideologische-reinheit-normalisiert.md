@@ -72,6 +72,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Georg Lutz ist Professor für Politologie. Er wird von SRF als Experte befragt, um die Nichtnomination von Daniel Jositsch «einzuordnen». Das tut er. Aber er ordnet nicht ein. Er normalisiert. Er erklärt die SP-Entscheidung als strategisch nachvollziehbar. Er bezeichnet die SP als Partei, die «schon immer klar links positioniert» war. Er spricht von einem «strategischen Dilemma». Er nennt die Mobilisierung «pointierter Positionen» eine Erfolgsstrategie. Was er nicht tut: Er fragt nicht nach der Demokratie. Er fragt nicht nach dem Verhältnis von 109 Delegierten zu 237'000 Wählern. Er fragt nicht nach der Legitimität einer Partei, die ihren populärsten Politiker ausschliesst. Er fragt nicht nach den Folgen für das politische System. Georg Lutz ist der perfekte Experte für SRF: Er erklärt die Mechanismen, ohne die moralischen Fragen zu stellen. Er beschreibt die Strategie, ohne das Demokratieproblem zu benennen. Er liefert die wissenschaftliche Beglaubigung für einen Vorgang, der bei genauerer Betrachtung eine demokratische Bankrotterklärung ist.*

@@ -60,6 +60,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: ''
 kritik_schwere: 3
+muster_id: M017
 ---
 
 [Der Tages-Anzeiger berichtet](https://www.tagesanzeiger.ch/lausanne-rechtsextreme-drohen-mit-gewalt-bei-demo-am-samstag-558053370750), dass am Samstag in Lausanne «Rechtsextreme auf Antifa treffen». Die Überschrift verteilt die Rollen: Die einen sind Rechtsextreme. Die anderen sind Antifa — Antifaschisten, also die, die gegen Faschismus sind. Wer gegen Faschismus ist, steht auf der richtigen Seite. Wer ihm gegenübersteht, auf der falschen. Das Framing ist abgeschlossen, bevor der erste Absatz beginnt.

@@ -66,6 +66,7 @@ quelle_format: Online-Artikel
 quelle_sendung: Schweiz aktuell
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Dieser SRF-Beitrag handelt vom Zürcher Abstimmungssonntag mit 20 Vorlagen — und er hat sein Urteil schon im Titel gefällt: eine «Abstimmungsflut, die überfordert». Zwei Befunde verschärfen die Kritik gegenüber der ersten Fassung erheblich. Erstens: Der Titel radikalisiert den eigenen Text — der Lead formuliert vorsichtig «kann überfordern», die Schlagzeile streicht das «kann» und macht eine Tatsachenbehauptung daraus. Die Einschränkung existierte und wurde wegredigiert. Zweitens: «Abstimmungsflut» ist kein neutraler Begriff, sondern Parteivokabular — die Zürcher SVP warnte bereits im April mit exakt diesem Wort, und SRF übernimmt es unattribuiert in den Titel und macht es sogar zum programmatischen Schwerpunkt des ganzen Abstimmungssonntags. Die Rahmung ist damit kein Ausrutscher eines Artikels, sondern redaktionelle Kampagne. Gemessen an Art. 93 BV — sachgerechte Darstellung, angemessene Vielfalt der Ansichten — ist das Stück ein Lehrbeispiel: Die Schlussfolgerung steht fest, bevor die Fakten sprechen dürfen.*

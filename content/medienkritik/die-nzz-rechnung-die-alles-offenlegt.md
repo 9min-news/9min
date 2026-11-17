@@ -65,6 +65,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: ''
 kritik_schwere: 2
+muster_id: M004
 ---
 
 *Dieser Text verdient zunächst eine ehrliche Vorbemerkung: Was Fabian Schäfer in der NZZ liefert, ist solider, numerisch ernsthafter Journalismus. Drei Szenarien, klare Quellen, die Eingeständnisse über die eigene Prognose-Unsicherheit, beide Seiten im Originalton. Verglichen mit der Beruhigungsprosa, die wir aus dem öffentlich-rechtlichen Fundus kennen, ist das eine andere Liga. Und doch — gerade weil der Text so sauber gebaut ist — lohnt sich der Blick auf das, was er voraussetzt, ohne es auszusprechen. Denn auch die rigoroseste Rechnung trägt eine Wertung in sich. Und diese Wertung steckt schon in der Frage, die über allem steht: Wie retten wir die Personenfreizügigkeit?*

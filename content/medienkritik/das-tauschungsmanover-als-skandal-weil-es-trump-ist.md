@@ -63,6 +63,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *SRF meldet, dass Trump nach dem Nato-Gipfel heimlich das Flugzeug wechselte, und rahmt den Vorgang als exzentrisches Täuschungsmanöver. Catering-Wagen, Regierungsjet, Todesliste. Was nicht vorkommt: die Frage, ob die Veröffentlichung eines Sicherheitsprotokolls die Sicherheit gefährdet. Was nicht vorkommt: die Frage, ob der Iran tatsächlich eine Bedrohung ist. Was nicht vorkommt: die Frage, ob die Quelle ein Leak ist, das geahndet werden müsste. Der Beitrag ist eine Promi-Meldung, die eine Sicherheitsmassnahme als Skandal verkauft.*

@@ -110,6 +110,7 @@ zusammenfassung: >-
   nur rund 65 Prozent dem menschengemachten Klimawandel zugerechnet werden. Die
   Kommission wird als Datenquelle behandelt, nicht als Partei.
 kritik_schwere: 3
+muster_id: M007
 ---
 
 *Über dem Beitrag steht die Dachzeile «Neue Klimadaten». Darunter folgen keine neuen Daten, sondern ein Gesetzesvorschlag der EU-Kommission samt der Zahlen, mit denen die Kommission ihn begründet, überwiegend in indirekter Rede. Den Ton setzt der erste Satz: Der Sommer 2026 werde «zu Recht als ‹Sommer der Wahrheit› bezeichnet», sagt Klimakommissar Wopke Hoekstra. Das Etikett, das er bestätigt, hatte Kommissionspräsidentin Ursula von der Leyen im September in ihrer Rede zur Lage der Union verwendet; die Kommission beglaubigt also ihre eigene Formel. Die tragende Zahl ist ein Satz ohne Herleitung: Der Nutzen «könne durch vermiedene Schäden mehr als zehnmal so hoch sein». Der Beitrag verschweigt, wer die jährlich 70 Milliarden Euro zahlt, was die zitierten «Klimaschäden» tatsächlich erfassen und an welchem Massstab die Hitzetoten zu lesen wären.*

@@ -71,6 +71,7 @@ quelle_format: Online-Artikel
 quelle_sendung: Tagesschau
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M017
 ---
 
 *Zwei Tage, nachdem der Werbetweet noch «ordnet ein» versprach, steht das Label jetzt über dem Stück: «Eine Analyse von Barbara Colpi». Und siehe — es ist die beste Nummer der Trump-Reihe: eine These («politische Schwäche mit maximaler Lautstärke überdecken»), Namen statt Kollektivsubjekte, und die Erfüllung dessen, was das Interview offen liess — wer fernbleibt, «wird sich zeigen», und es zeigte sich: Rubio, Hegseth, die Swing-Kandidaten. Aber die These ist ein Urteil über die Bühne, nicht über die Partei. Denn der eigenständigste Befund steht im eigenen Material, unterm Titel «Neuartiges Format» versteckt: keine Delegiertenabstimmung, kein Roll Call, kein Parteiprogramm. Eine Partei, die ihre deliberativen Funktionen abgeschafft hat und reine Bühne ist — das wäre die Analyse. Und die 5000 Dollar, am Dienstag noch das Konkreteste am ganzen Event, sind aus ihr verschwunden. Mit ihnen 1,3 Billionen, der Kongress und die Verfassung.*

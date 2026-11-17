@@ -108,6 +108,7 @@ zusammenfassung: >-
   als handlungslose Kraft, die USA aber als Akteur mit Absichten gezeichnet –
   eine Asymmetrie, die die Deutung vor der Darstellung festlegt.
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *Der Titel «Trump macht Druck» legt den Rahmen fest, bevor ein brasilianischer Wähler zu sehen ist: Die Stichwahl erscheint als Duell zwischen Washington und Peking, Brasilien als Spielfeld. Die Rollen sind ungleich verteilt. China liefert, kauft und investiert, während die USA Bedingungen stellen, die der einzige befragte Experte «fast einer Unterwerfung Brasiliens gleich» setzt. Die strukturierende Zahl sind Zölle «von bis zu 50 Prozent» aus dem Jahr 2025. Der Beitrag verschweigt, dass Trump einen Teil davon im November 2025 unter Verweis auf Fortschritte mit der Regierung Lula wieder aufhob. Ebenso verschweigt er, dass der als «Herausforderer» eingeführte Flávio Bolsonaro im ersten Wahlgang vorne lag.*

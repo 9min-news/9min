@@ -67,6 +67,7 @@ quelle_format: Broadcast
 quelle_sendung: SRF 4 News aktuell
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *SRF interviewt eine Migrationsrechtlerin über unbegleitete Minderjährige in Ceuta und rahmt sie als Schutzbedürftige, die besonderer Rechte bedürfen. Altersbestimmung, Handgelenkröntgen, Weisheitszähne. Der Beitrag verschweigt, dass der Minderjährigenstatus ein Pull-Faktor ist, der Erwachsene dazu bringt, sich als Kinder auszugeben. Er verschweigt, dass die Zahlen zwischen 862 und 2168 schwanken — ohne dass jemand fragt, warum. Er verschweigt die 75 Toten. Er verschweigt die EU-Zahlungen an Marokko. Und er verschweigt die Schweiz. Er ist ein Experteninterview, das eine Schutzbehauptung als rechtliche Selbstverständlichkeit verkauft.*

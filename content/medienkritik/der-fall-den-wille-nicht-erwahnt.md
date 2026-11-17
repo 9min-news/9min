@@ -69,6 +69,7 @@ quelle_format: Print
 quelle_sendung: ''
 quelle_redaktion: NZZ Meinung
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *Ergänzung zur Lektüre des *[NZZ-Gastkommentars von Susanne Wille](https://www.nzz.ch/meinung/mehr-phantasie-fuer-den-medienplatz-schweiz-ld.10005734?utm_campaign=mrf-twitter-NZZ&mrfcid=2026050869fa8480c776e311d55467a9)* — der RKI-Fall vor Bundesgericht*

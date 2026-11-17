@@ -74,6 +74,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: EJPD
 kritik_schwere: 3
+muster_id: M004
 ---
 
 [Zur Medienmitteilung des Bundesrates vom 16. März 2026 zur Volksinitiative «Keine 10-Millionen-Schweiz»](https://www.ejpd.admin.ch/de/bundesrat-lehnt-volksinitiative-keine-10-millionen-schweiz-ab)

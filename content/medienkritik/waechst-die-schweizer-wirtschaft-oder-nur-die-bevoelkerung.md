@@ -99,6 +99,7 @@ zusammenfassung: >-
   damit Stimmbürgern bei Entscheiden über Zuwanderung und Staatsausgaben ein
   verzerrtes Bild des Wohlstands vermittelt.
 kritik_schwere: 3
+muster_id: M007
 ---
 
 *Wächst die Schweizer Bevölkerung im Tempo von 2025 weiter, nimmt sie pro Quartal um etwa 0.2 Prozent zu. Genau 0.2 Prozent beträgt laut Seco-Schnellschätzung auch das Wachstum des realen BIP im dritten Quartal 2026. SRF titelt «Schweizer Wirtschaft wächst» und befindet, der Wert sei «etwas besser als erwartet». Dass pro Kopf gerechnet ungefähr nichts übrig bleibt, steht nirgends. Ebenso wenig steht dort, dass das Seco das von SRF «fulminant» genannte Vorquartal selbst relativiert hat. Für den Stimmbürger, der über Zuwanderung, Steuern und Staatsausgaben entscheidet, ist das keine technische Fussnote: Er erfährt, dass der Kuchen grösser wird, aber nicht, ob sein Stück wächst.*

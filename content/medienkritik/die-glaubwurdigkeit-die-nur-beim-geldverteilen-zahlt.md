@@ -69,6 +69,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *SRF berichtet über einen Appell von 27 Stiftungen gegen Kürzungen bei der Entwicklungszusammenarbeit — und übernimmt deren Rahmung: Es gehe um «die Glaubwürdigkeit der Schweiz». Der Beitrag lässt Stiftungen, einen ETH-Ökonomen und die Finanzkontrolle sprechen. Was er nicht fragt: Warum die Glaubwürdigkeit der Schweiz ausgerechnet an der Entwicklungshilfe hängen soll — nachdem das Land in den letzten fünfzehn Jahren das Bankgeheimnis aufgegeben, die Neutralität relativiert und Prinzip um Prinzip preisgegeben hat, ohne dass dieselben Stimmen die Glaubwürdigkeit beschworen hätten. Die Selektivität des Arguments ist der Befund — und sie bleibt unbenannt.*

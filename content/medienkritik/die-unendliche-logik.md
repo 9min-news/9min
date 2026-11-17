@@ -60,6 +60,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Wie SRF eine Demonstration feiert, die auf einer Prämisse aufbaut, die nie bewiesen wurde, die absurde Gleichung «Mehr Menschen = weniger CO₂» unwidersprochen lässt, den Klassenkampf als Argumentationsersatz präsentiert und nicht fragt, wie eine wachsende Bevölkerung je schrumpfende Emissionen erzeugen soll – ausser man glaubt an eine Formel, welche die Realität nicht abbildet*

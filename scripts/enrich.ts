@@ -5,6 +5,10 @@
  *   VENICE_INFERENCE_KEY=xxx npx tsx scripts/enrich.ts              # new only
  *   VENICE_INFERENCE_KEY=xxx npx tsx scripts/enrich.ts --force      # re-enrich all
  *   VENICE_INFERENCE_KEY=xxx npx tsx scripts/enrich.ts --slug foo --slug bar  # specific slugs
+ *   VENICE_INFERENCE_KEY=xxx npx tsx scripts/enrich.ts --muster      # link new articles to content/muster
+ *     (--no-llm: literal names only, free · --limit N: at most N model calls · --dry-run: print, write nothing)
+ *
+ * After publishing: run plain enrich (new only), then --muster (new only; ~$0.0001 per article).
  *
  * Idempotent: skips files that already have `kritik_schwere` in frontmatter (unless --force).
  * After all files, aggregates to src/data/metadata.json.
@@ -23,6 +27,15 @@ const RATE_LIMIT_MS = 1000
 
 const FORCE = process.argv.includes('--force')
 const AGGREGATE_ONLY = process.argv.includes('--aggregate-only')
+const MUSTER_MODE = process.argv.includes('--muster')
+const DRY_RUN = process.argv.includes('--dry-run')
+const NO_LLM = process.argv.includes('--no-llm')
+const LIMIT = (() => {
+  const i = process.argv.indexOf('--limit')
+  return i >= 0 ? Number(process.argv[i + 1]) : Infinity
+})()
+const MUSTER_DIR = path.join(process.cwd(), 'content', 'muster')
+const MUSTER_MODEL = 'claude-haiku-5-5'   // public article text; cheap with thinking disabled
 const SLUG_ARGS: string[] = []
 for (let i = 0; i < process.argv.length; i++) {
   if (process.argv[i] === '--slug' && process.argv[i + 1]) {
@@ -290,9 +303,134 @@ function readingTime(body: string): number {
 // Main
 // ---------------------------------------------------------------------------
 
+// ---------------------------------------------------------------------------
+// Muster: link each critique to one pattern of the catalog in content/muster
+// ---------------------------------------------------------------------------
+
+// Literal house names as they appear in the articles' category paragraph (any article form/case ending).
+const MUSTER_NAMES: Record<string, RegExp> = {
+  M001: /Alternativlosigkeit/i,
+  M004: /Auswahl als Einbahnstrasse/i,
+  M005: /Behörde als neutrale[nr]? Quelle/i,
+  M006: /Kausalität als Wetter/i,
+  M007: /Plan als Befund/i,
+  M008: /Konstruktion als Befund/i,
+  M009: /interne[n]? Zeuge/i,
+  M010: /Unsichtbare[n]? als Nebensache/i,
+  M011: /Personalisierung als Entpolitisierung/i,
+  M012: /Empathie ohne Massstab/i,
+  M013: /Teilerfolg als Beruhigung/i,
+  M014: /importierte[n]? Zeuge/i,
+  M015: /Angst als Exportartikel/i,
+  M016: /Pathologisierung als Anhörungsersatz/i,
+  M017: /zweierlei Mass/i,
+}
+
+function loadCatalog(): { id: string; title: string; subtitle: string }[] {
+  return fs.readdirSync(MUSTER_DIR).filter(f => f.endsWith('.md')).sort().map(f => {
+    const { data } = matter(fs.readFileSync(path.join(MUSTER_DIR, f), 'utf-8'))
+    return { id: String(data.id), title: String(data.title), subtitle: String(data.subtitle) }
+  })
+}
+
+/** The paragraph naming the mechanism: «Das Muster …», else the last third of the body. */
+function musterPassage(content: string): string {
+  const paras = content.split(/\n\s*\n/)
+  const named = paras.find(p => /^(Das|Dieses) Muster\b/.test(p.trim()))
+  return named ?? content.slice(Math.floor(content.length * 0.6))
+}
+
+function matchLiteral(content: string): string {
+  const passage = musterPassage(content)
+  for (const text of [passage, content]) {
+    let best = ''
+    let bestPos = Infinity
+    for (const [id, re] of Object.entries(MUSTER_NAMES)) {
+      const m = re.exec(text)
+      if (m && m.index < bestPos) { best = id; bestPos = m.index }
+    }
+    if (best) return best
+  }
+  return ''
+}
+
+async function classify(title: string, these: string, summary: string, content: string, catalog: ReturnType<typeof loadCatalog>): Promise<string> {
+  // Specific patterns first: listed first, the broad M001–M003 became a catch-all in the first run.
+  const broad = ['M001', 'M002', 'M003']
+  const list = [...catalog.filter(m => !broad.includes(m.id)), ...catalog.filter(m => broad.includes(m.id))]
+    .map(m => `${m.id}: ${m.title} — ${m.subtitle}`).join('\n')
+  // Newer critiques name the mechanism in one paragraph; older ones only carry it in opening and ending.
+  const named = content.split(/\n\s*\n/).find(p => /^(Das|Dieses) Muster\b/.test(p.trim()))
+  const excerpt = named
+    ? named.slice(0, 2500)
+    : `${content.slice(0, 1500)}\n[…]\n${content.slice(-800)}`
+  const resp = await fetch(`${VENICE_BASE}/chat/completions`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${API_KEY}` },
+    body: JSON.stringify({
+      model: MUSTER_MODEL,
+      messages: [
+        { role: 'system', content: `Ordne eine Medienkritik von 9min.ch dem Muster aus diesem Katalog zu, das ihren Kernvorwurf am besten beschreibt. Die allgemeinen Muster M001 (Alternativlosigkeit), M002 (Auslassung) und M003 (fehlender Kontext) nur, wenn kein spezifischeres passt; M001 nur, wenn die Kritik ausdrücklich fehlende Alternativen bemängelt. Misst der Beitrag gleiche Sachverhalte je nach Akteur verschieden, ist es M017. «keins» nur für Texte ohne konkreten Vorwurf an einen Beitrag (Grundsatztexte, Programmschriften). Antworte NUR mit der ID (z.B. M006) oder «keins».\n\n${list}` },
+        { role: 'user', content: `Titel: ${title}\nThese: ${these}\nZusammenfassung: ${summary}\n\nAuszug:\n${excerpt}` },
+      ],
+      temperature: 0,
+      max_tokens: 10,
+      // Without these the model spends max_tokens on reasoning and Venice prepends ~1100 tokens of its own prompt.
+      venice_parameters: { disable_thinking: true, include_venice_system_prompt: false },
+    }),
+  })
+  if (!resp.ok) throw new Error(`Venice API ${resp.status}: ${await resp.text()}`)
+  const data = await resp.json() as { choices: Array<{ message: { content: string } }> }
+  const answer = (data.choices[0].message.content ?? '').trim()
+  if (process.env.DEBUG_MUSTER) console.log(`       raw: ${JSON.stringify(answer)}`)
+  const id = answer.match(/M\d{3}/)?.[0] ?? ''
+  return catalog.some(m => m.id === id) ? id : 'keins'
+}
+
+async function linkMuster() {
+  const catalog = loadCatalog()
+  const files = fs.readdirSync(CONTENT_DIR).filter(f => f.endsWith('.md')).sort()
+    .filter(f => SLUG_ARGS.length === 0 || SLUG_ARGS.includes(f.replace(/\.md$/, '')))
+  const counts: Record<string, number> = {}
+  let llmCalls = 0
+  for (const file of files) {
+    const filePath = path.join(CONTENT_DIR, file)
+    const { data, content } = matter(fs.readFileSync(filePath, 'utf-8'))
+    if (data.muster_id && !FORCE) continue
+    let id = matchLiteral(content)
+    let how = 'literal'
+    if (!id) {
+      if (NO_LLM || llmCalls >= LIMIT) continue
+      if (!API_KEY) { console.error('Missing VENICE_INFERENCE_KEY env var'); process.exit(1) }
+      try {
+        id = await classify(String(data.title ?? ''), String(data.these ?? ''), String(data.zusammenfassung ?? ''), content, catalog)
+      } catch (e) {
+        console.error(`  ✗  ${file}: ${e}`)
+        continue
+      }
+      llmCalls++
+      how = 'llm'
+      await new Promise(r => setTimeout(r, 300))
+    }
+    counts[id] = (counts[id] ?? 0) + 1
+    console.log(`  ${id.padEnd(5)} ${how.padEnd(7)} ${file}`)
+    if (!DRY_RUN) {
+      data.muster_id = id
+      fs.writeFileSync(filePath, matter.stringify(content, data))
+    }
+  }
+  console.log(`\nMuster: ${llmCalls} model calls${DRY_RUN ? ' (dry run, nothing written)' : ''}`)
+  for (const [id, n] of Object.entries(counts).sort()) console.log(`  ${id}: ${n}`)
+  if (!DRY_RUN) aggregate()
+}
+
 async function main() {
   if (AGGREGATE_ONLY) {
     aggregate()
+    return
+  }
+  if (MUSTER_MODE) {
+    await linkMuster()
     return
   }
   if (!API_KEY) {

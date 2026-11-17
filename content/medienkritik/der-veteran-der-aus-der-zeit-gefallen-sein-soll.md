@@ -64,6 +64,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *SRF porträtiert Christoph Blocher an der Lancierung der Neutralitätsinitiative und rahmt ihn als alternden Politiker, der vielleicht seinen letzten Kampf führt. «Aus der Zeit gefallen?» fragt der Beitrag — und beantwortet die Frage, bevor sie gestellt ist. Was nicht vorkommt: der Wortlaut der Initiative. Was nicht vorkommt: die rechtliche Frage, ob EU-Sanktionen ohne UNO-Mandat die Neutralität verletzen. Was nicht vorkommt: die historische Praxis, die Blocher fordert. Der Beitrag ist ein Personenporträt, das eine verfassungspolitische Initiative zur Biografie eines alten Mannes macht.*

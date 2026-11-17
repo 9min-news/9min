@@ -117,6 +117,7 @@ zusammenfassung: >-
   in dem ein lokaler Vorstoss als Kuriosum statt als Folge eines Volksentscheids
   erscheint.
 kritik_schwere: 2
+muster_id: M006
 ---
 
 *Am 8. März 2026 schrieben Volk und Stände die Bargeldversorgung in die Bundesverfassung, mit 73.4 Prozent Ja und in allen Kantonen. Sieben Monate später berichtet das Regionaljournal über eine Bargeldpflicht für Zürich und setzt die Dachzeile «Nur Bares ist Wahres» darüber. Den Vorstoss rahmt der Beitrag als «ungewohnte Allianz zwischen AL und SVP», die Abstimmung erwähnt er mit keinem Wort. So wird aus der lokalen Fortsetzung eines landesweiten Entscheids ein Kuriosum zwischen den Polen des Stadtparlaments, und unerklärt bleibt, warum Kunsthaus und Weihnachtsmarkt das Bargeld überhaupt ablehnen durften. Für den Bürger geht es um zweierlei: ob ein klarer Volksentscheid in der Berichterstattung als Massstab gilt und ob er in Betrieben, die er mit Steuern mitfinanziert, ohne Bank, ohne App und ohne Datenspur bezahlen kann.*

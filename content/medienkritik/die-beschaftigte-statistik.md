@@ -59,6 +59,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Die Beschäftigung wächst. Um 0,5 Prozent. Auf 5,537 Millionen. Der Dienstleistungssektor treibt das Wachstum. Die Industrie erholt sich. Die Aussichten sind positiv. So weit, so gut. Aber was bedeutet das eigentlich? Was SRF nicht fragt: Wächst die Beschäftigung schneller als die Bevölkerung? Wer sind die neuen Beschäftigten? Sind es Schweizer? Sind es Zugezogene? Sind es Grenzgänger? Wie viele Stellen gehen an Menschen, die erst kürzlich ins Land gekommen sind? Die Antwort auf diese Fragen würde das Bild komplett verändern. Aber SRF stellt sie nicht. SRF meldet: Wachstum. Punkt.*

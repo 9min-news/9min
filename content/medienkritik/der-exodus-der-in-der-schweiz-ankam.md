@@ -110,6 +110,7 @@ zusammenfassung: >-
   Parteien als Abweichler vom Volkswillen dar, obwohl die Urnenmehrheit auf
   ihrer Seite lag.
 kritik_schwere: 3
+muster_id: M009
 ---
 
 *Der Beitrag stützt Gabriel Zucmans wichtigste Entwarnung mit einem Satz, der nach unabhängiger Wissenschaft klingt: «Aber die Forschung zeige, dass deren Anteil sehr klein sei.» Diese Forschung ist ein Arbeitspapier zu Norwegen. SRF verlinkt es, beschreibt es aber nicht: Verfasst hat es ein Ko-Autor Zucmans, begutachtet ist es nicht, und es untersucht einen Steuersatz von 1,1 Prozent, während Zucman 2 Prozent fordert. Den zweiten Rahmen setzt die Infobox zur Schweiz. Dort folgt auf 68 Prozent Zustimmung in einer Umfrage ein «Trotzdem», das die bürgerlichen Parteien als Abweichler vom Volk erscheinen lässt. Der Beitrag verschweigt drei Dinge: den Rekordwegzug, den das norwegische Finanzministerium zählte, das Zielland vieler Weggezogener, nämlich die Schweiz, und die Volksabstimmung vom November 2025.*

@@ -64,6 +64,7 @@ quelle_format: Broadcast
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *SRF meldet verschärfte Boni-Regeln für Banken und rahmt sie als Konsequenz aus dem CS-Debakel. Sperrfristen, Bussen, Verantwortlichkeitsregime. Was nicht vorkommt: die Frage, ob Boni die Ursache des CS-Zusammenbruchs waren. Was nicht vorkommt: die Frage, ob FINMA, die versagte, mehr Befugnisse verdient; Die Frage, ob die Regierung durch die Zwangsfusion mit UBS ein grösseres «Too big to fail»-Problem schuf. Und: die Namen derer, die verantwortlich waren. Der Beitrag ist eine Regierungsmeldung, die Symptome reguliert und die Ursachen verschweigt.*

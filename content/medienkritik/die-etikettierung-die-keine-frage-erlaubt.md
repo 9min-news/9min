@@ -70,6 +70,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M001
 ---
 
 *SRF meldet das Ergebnis und benutzt die alten Wörter. Die AfD holt 44,4 Prozent — ein «sensationeller Sieg», ein «historisches Ergebnis». Die CDU wird halbiert — 18,3 Prozent, ihr schlechtestes Ergebnis bei einer Landtagswahl in Sachsen-Anhalt. Bei den 18- bis 24-Jährigen bekommt sie 5 Prozent. Fünf. Der SRF-Korrespondent sagt: Die AfD gehe mit «extremen Positionen» an, die keine andere Partei teile. Welche Positionen? Der Beitrag nennt keine. Er sagt «extrem» und nennt die Bildung, die Wirtschaft, die Kultur, die Migration — als Stichwortliste, die alles und nichts bedeutet. Eine Berichterstattung, die 44,4 Prozent als historischen Sieg meldet und kein einziges Argument der Sieger nennt, hat entschieden, dass die Wähler nicht wissen sollen, was sie wählten.*

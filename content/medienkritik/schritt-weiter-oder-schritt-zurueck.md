@@ -108,6 +108,7 @@ zusammenfassung: >-
   werden verschwiegen, Gegenstimmen nur zu einer Variante eingeholt, und die
   Milliarden-Schätzung bleibt ohne Urheber.
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Der Beitrag setzt im ersten Absatz einen Massstab und misst nie daran. Die Mehrheit im Ständerat will ein «Eintrittsgeld von mindestens 4000 Franken pro Jahr», gebunden an die Schutzklausel. Kompass Europa «geht nun einen Schritt weiter», weil seine Abgabe «jederzeit gelten soll». Dieser Schritt bezieht sich allein auf den Zeitpunkt. Bei den Tieflöhnen, die der Beitrag selbst beziffert, ist es ein Schritt zurück. Dass auch die Ständeratsvariante ihre Erträge an die Bevölkerung verteilen soll, verschweigt der Text. Am Ende urteilen zwei Verbände, die Milliardenzahl trägt keinen Urheber, und eine Deutung ohne Quelle macht aus einer Dauerforderung einen «Denkanstoss».*

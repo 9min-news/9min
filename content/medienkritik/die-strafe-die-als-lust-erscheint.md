@@ -72,6 +72,7 @@ quelle_format: Online-Artikel
 quelle_sendung: Tagesschau
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *Der Beitrag diagnostiziert «die Lust auf das Extreme». Die Wähler, heisst es, hätten das Vertrauen verloren, seien überfordert, sehnten sich «nach vermeintlich einfachen Lösungen». Das ist die Pathologie-Rahmung: Wähler als Getriebene, Extreme als Anziehung, die Regierenden als Opfer. Was der Beitrag nicht nennt: die Daten, die das Bild drehen würden. Laut Wahlforschung waren in Mecklenburg-Vorpommern 59 Prozent der Wähler vor der Wahl davon überzeugt, dass die Bundesregierung einen Denkzettel verdient hat, in Berlin 53 Prozent. Das ist keine Lust. Das ist eine Strafe, gezielt vergeben. Und die CDU rutschte in Mecklenburg-Vorpommern unter die Fünf-Prozent-Hürde, das erste Mal in der Geschichte der Bundesrepublik, dass eine Volkspartei ein Landesparlament verpasst. Wer bestraft wird, hat etwas getan. Der Beitrag über die Bestraften handelt von der Psyche der Bestrafenden.*

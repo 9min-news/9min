@@ -71,6 +71,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 Schauen wir den SRF-Beitrag [«Migrationshintergrund – und trotzdem uneins über die Initiative»](https://www.srf.ch/news/gesellschaft/10-millionen-schweiz-migrationshintergrund-und-trotzdem-uneins-ueber-die-initiative) vom 4. Mai 2026, verfasst von Nino Preuss. Auf den ersten Blick wirkt er ausgewogen. Zwei Stimmen, zwei Positionen, ein Politologe in der Mitte. Bei genauerem Hinsehen zeigt sich, wie subtile redaktionelle Entscheidungen eine Schlagseite produzieren, die der Leser nicht sofort bemerkt.

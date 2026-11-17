@@ -75,6 +75,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *SRF meldet den Start des Nein-Komitees zur Neutralitätsinitiative und rahmt die Kampagne als überparteilichen Konsens. Fünf Bundesratsparteien warnen vor «Starre», «Gefahr» und einem «Geschenk an Aggressoren». Der Beitrag nennt den Initiativtext in einer Box — aber der Haupttext zitiert nur die Gegenseite. Die 5 Milliarden für die Ukraine fehlen. Die historische Praxis vor 1990 fehlt. Die Frage, ob fünf Parteien gegen eine «überparteilich» sind, wird nicht gestellt. Der Beitrag ist eine Pressemitteilung des Establishments, verkleidet als politische Analyse.*

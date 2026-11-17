@@ -70,6 +70,7 @@ quelle_format: Online-Artikel
 quelle_sendung: Tagesschau
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M003
 ---
 
 *Zum SRF-Beitrag* [«Geld spaltet die Schweiz, die Stimmung kippt»](https://www.srf.ch/news/schweiz/gerechtigkeitsbarometer-geld-spaltet-die-schweiz-die-stimmung-kippt) *vom 27. April 2026*

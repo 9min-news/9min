@@ -62,6 +62,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M003
 ---
 
 *Zum SRF-Beitrag *[«Astronomie-Fachleute warnen vor Musks Satellitenflut» ](https://www.srf.ch/news/dialog/zu-viele-objekte-im-weltraum-astronomie-fachleute-warnen-vor-musks-satellitenflut)*vom 19. April 2026*

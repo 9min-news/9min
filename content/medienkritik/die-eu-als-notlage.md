@@ -73,6 +73,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: ''
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Dieser NZZ-Beitrag argumentiert, dass Russland, China und Trump die EU für ihre skeptischen Nachbarn attraktiver machen. Das ist eine legitime These — aber sie wird hier nicht als These präsentiert, sondern als Befund. Der Beitrag sammelt Belege für eine vorgefasste Meinung und blendet systematisch aus, was nicht ins Bild passt. Der Brexit wird zum reinen Fehlererzählung degradiert, mit selektiven Statistiken und ohne ernsthafte Gegenstimme. Die Norwegen- und Dänemark-Kapitel lesen sich wie Werbetexte für EU-Integration, nicht wie Analysen. Und der Schweizer Schlussabsatz macht aus einem Meinungsstück einen politischen Wahlkampfbeitrag: Die 10-Millionen-Initiative wird als Sabotageakt gerahmt, der «zum Entgleisen gebracht» werden sollte — eine Formulierung, die mehr über die Haltung der NZZ verrät als über die Initiative selbst. Im Kommentarbereich verweist ein Leser auf den Cambridge-Historiker Robert Tombs, der den Brexit auch rückblickend verteidigt — genau diese Perspektive fehlt im Artikel vollständig.*

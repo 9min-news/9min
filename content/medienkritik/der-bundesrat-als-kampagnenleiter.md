@@ -73,6 +73,7 @@ quelle_format: Broadcast
 quelle_sendung: Talktäglich
 quelle_redaktion: TeleZüri
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *Zum *[TeleZüri-Interview mit Bundespräsident Beat Jans zur Volksinitiative «Keine 10-Mio-Schweiz»](https://www.telezueri.ch/talktaeglich/bundesrat-beat-jans-zur-abstimmung-ueber-die-10-millionen-schweiz-initiative-163818949)*, 8. Mai 2026*

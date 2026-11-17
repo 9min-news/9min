@@ -110,6 +110,7 @@ zusammenfassung: >-
   sei durchgehend subjektlos und stelle politische Entscheidungen als
   Naturereignis dar.
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *Im Hafen von Birsfelden füllt ein Bagger an einem Novembermorgen die «Spintore» mit Altmetall: rund 2'000 Tonnen, Ziel Kehl, unter einem Titel, der den Gütertransport auf dem Rhein für unterbrochen erklärt. Warum dieses Schiff fährt und andere stillstehen, sagt der Firmenvertreter im Beitrag selbst: Bis Kehl sei der Rhein «gut ausgebaut», bei Kaub nicht. SRF druckt den Satz und macht trotzdem den Sommer zum Täter, denn die Dachzeile «Auswirkungen des Hitzesommers» legt die Ursache fest, bevor der erste Satz gelesen ist. Dass Kaub ein bekannter, staatlich verwalteter Engpass ist, dessen Ausbau seit Jahrzehnten geplant wird, erfährt das Publikum nicht. Für Konsumenten und Steuerzahler, die über den Rhein Treibstoff, Futter und Dünger beziehen, ist das keine Nebensache: Ein Sommer muss sich nicht erklären, ein Bauherr schon.*

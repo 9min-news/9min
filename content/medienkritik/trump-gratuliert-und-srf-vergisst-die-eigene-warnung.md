@@ -115,6 +115,7 @@ zusammenfassung: >-
   und beidseitiges Gerrymandering fehlen. Wortwahl und Quellenwahl sind
   asymmetrisch zugunsten der Demokraten.
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Vier Tage vor der Wahl stellte SRF ein Interview unter den Titel «Die Republikaner haben schon mal versucht, eine Wahl zu stehlen». Am Morgen danach zitiert derselbe Sender den Präsidenten: «Herzlichen Glückwunsch an die Demokraten. Sie haben gute Arbeit geleistet.» Dazwischen steht im neuen Beitrag keine Zeile Einordnung. Die Anerkennung des Resultats erscheint als Vordersatz eines Zwischentitels, der mit «aber» weitergeht. Verschwiegen wird zudem, dass die Partei des Präsidenten bei Zwischenwahlen fast immer verliert und wie gross der gemeldete «Machtwechsel» in Sitzen überhaupt ist. Für den Gebührenzahler geht es um Glaubwürdigkeit: Wer vor einer Wahl den Ernstfall ausmalt, schuldet nach der Wahl die Auskunft, ob er eingetreten ist.*

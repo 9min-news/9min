@@ -110,6 +110,7 @@ zusammenfassung: >-
   Widmer-Schlumpf, den Bundesratsentscheid zum AKW-Neubauverbot und den
   fehlenden Massstab für die genannte Fraktionsgeschlossenheit von 95,9 Prozent.
 kritik_schwere: 2
+muster_id: M011
 ---
 
 *SRF porträtiert eine Bundesratskandidatin, indem es sie an ihrer Partei misst. Übereinstimmung wird als Erwartung verbucht: «wenig überraschend» habe Céline Amaudruz mit der SVP gestimmt, «stramm» für rechte Anliegen, beglaubigt durch eine Parteigeschlossenheit von «95.9 Prozent». Was nicht ins Raster passt, erscheint als Kuriosum. Ihre Aussage, im Parlament Opfer von Übergriffen geworden zu sein, ist «eine Aussage, die eher überrascht», ihre Motion klingt «leicht unkonventionell». Vor allem Politischen steht im Lead die Mutterschaft, über die «in mehreren Medien» geredet worden sei, ohne dass der Beitrag nennt, wer redet und mit welchem Argument. Verschwiegen wird, dass die SVP bereits eine Bundesrätin gestellt hat und dass Amaudruz' AKW-Haltung der Linie des Bundesrats entspricht.*

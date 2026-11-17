@@ -64,6 +64,7 @@ quelle_format: Broadcast
 quelle_sendung: Tagesschau
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *SRF meldet die Sicherheitslage nach dem Berliner CSD-Anschlag und rahmt einen islamistischen Terroranschlag als logistische Frage. Wie bereitet man sich in der Schweiz auf Risiken vor? Wer die Risiken verursacht, welche Ideologie dahinter steht, warum der Berliner Täter trotz Bekanntheit frei herumlief: all das kommt nicht vor. Der Beitrag ist eine Sicherheitsberichterstattung ohne Sicherheitsursache. Die Massnahmen werden diskutiert, die Bedrohung nicht.*

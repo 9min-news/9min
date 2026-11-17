@@ -111,6 +111,7 @@ zusammenfassung: >-
   Gelbwesten-Krise, Abendzahlen – fehlten, sodass ein verzerrter
   'Durchschnittstumult' entstand.
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *Der Beitrag erzählt die halbe Wahrheit, und zwar in beide Richtungen. Er macht den Protest kleiner, als er war: Eine Zahl, die nur für die Provinz galt, steht in der Zusammenfassung als «landesweit». Er macht auch die Gewalt kleiner und gesichtsloser, als das eigene Material hergibt. Die Täter erscheinen als Fremdwort in einer Infobox, als «Rund 100 Vermummte» und in einem Satz ohne Subjekt: «Vielerorts kam es zu Ausschreitungen». Dazwischen stehen Schüler und Studenten, deren Anliegen die Bildstrecke an den Anfang setzt und auf das die Zerstörung abfärbt. Wer die Randalierer waren, wie viele und wie organisiert, sagt der Beitrag nicht. Ebenso wenig erfährt man, was der Sparhaushalt enthält und wie die Gelbwesten-Krise endete.*

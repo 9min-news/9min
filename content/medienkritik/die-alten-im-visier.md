@@ -62,6 +62,7 @@ quelle_format: Broadcast
 quelle_sendung: Rendez-vous
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Zur SRF-Berichterstattung *[«Warum Menschen im Alter im Einfamilienhaus wohnen bleiben»](https://www.srf.ch/news/wirtschaft/debatte-um-knappen-wohnraum-warum-menschen-im-alter-im-einfamilienhaus-wohnen-bleiben)* von Susanne Schmugge, Rendez-vous, 1. Mai 2026*

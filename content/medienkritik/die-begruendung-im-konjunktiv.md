@@ -109,6 +109,7 @@ zusammenfassung: >-
   Begründung für die Nicht-Nomination steht im Konjunktiv und stammt von der
   Redaktion.
 kritik_schwere: 2
+muster_id: M006
 ---
 
 *SRF erzählt zwei Vorgänge als einen. Die Dachzeile «Unruhe am Bundesgericht» und der Einstieg, das Gericht komme «auch ein halbes Jahr nach Bekanntwerden einer Liebesbeziehung nicht zur Ruhe», setzen den Rahmen, bevor der Name des Präsidenten fällt. Der zweite Satz macht daraus einen Befund: «Offenbar sind die Bundesrichterinnen und Bundesrichter mit dem Präsidium nicht mehr zufrieden.» Der dritte knüpft mit «deshalb» an. Belegt wird die Verbindung zwischen Affäre und Präsident nirgends. Sie wird im Konjunktiv hergestellt: Die Nicht-Nomination «dürfte mit den Vorgängen in den letzten Monaten zu tun haben». Weggelassen ist, dass sich François Chaix laut Keystone-SDA nicht explizit erneut zur Wahl gestellt hatte. Nicht verfolgt werden seine Rolle in der Affäre und der Weg, auf dem eine Empfehlung des Gesamtgerichts zuerst bei der «Weltwoche» landete.*

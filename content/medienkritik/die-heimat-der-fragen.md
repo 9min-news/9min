@@ -62,6 +62,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: ''
 kritik_schwere: 2
+muster_id: M002
 ---
 
 *Jürg Grossen, GLP-Präsident, schreibt eine Kolumne über die gescheiterte 10-Millionen-Initiative. Er tut, was GLP-Politiker tun: Er erklärt den Landgemeinden, dass sie falsch gelegen haben — wohlwollend, verständnisvoll, aber letztlich herablassend. Er fordert «mehr Wohnraum», «bessere Vereinbarkeit», «Konsequenz gegenüber jenen, die unser Gastrecht missbrauchen» — aber er nennt keine Zahl, kein Ziel, keine Grenze. Und er verschweigt die naheliegendste Frage: Wenn die Städte Nein gesagt haben und die Landgemeinden Ja — wohin dann mit den Menschen, die kommen? Dürfen die Migranten in die Regionen ziehen, die für mehr als 10 Millionen gestimmt haben? Grossen erwähnt diesen Gedanken mit keinem Wort.*

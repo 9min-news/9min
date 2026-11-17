@@ -112,6 +112,7 @@ zusammenfassung: >-
   Ursachenforschung (Negativzinspolitik, Rentenpolitik) durch ein Wettermodell
   des Unmuts ohne Schuldner.
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *Am Samstag bilanzierte die Tagesschau für Frankreich 779 Festnahmen, 116 verletzte Sicherheitskräfte und 515 bekämpfte Brände. Am Sonntag meldete SRF aus Frankfurt Molotowcocktails und mehr als 100 verletzte Polizisten. Am selben Sonntag stellt «Echo der Zeit» Europas Jugend unter den Titel «Kinder der Krise», übernimmt damit einen Protestslogan und lässt den Unmut sich «auf der Strasse» entladen wie ein Gewitter. Die einzige Zahl im Beitrag heisst «Zehntausende», drei Interpreten derselben Richtung sind sich «einig», und niemand fragt, wer die Krise verursacht hat. Für Gebührenzahler und Stimmbürger ist das eine Diagnose ohne Rechnung: Paris verspricht bereits mehr Geld und mehr Stellen, und bezahlen wird das dieselbe Generation, die heute demonstriert.*

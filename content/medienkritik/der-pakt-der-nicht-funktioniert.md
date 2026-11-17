@@ -73,6 +73,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News International
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *SRF meldet einen Streit zwischen Italien und Deutschland über Rücknahmen von Bootsflüchtlingen und rahmt ihn als bilateralen Konflikt. Salvini sagt Nein, Berlin verweist auf EU-Recht. Der Beitrag verschweigt, dass der neue Migrationspakt, der seit Juni gilt, bereits gescheitert ist — bevor er begann. Er verschweigt die 80'000 abgelehnten Rücknahmeersuchen als Systembefund. Er verschweigt die Prüfung der Seerechts-These. Und er erwähnt die Schweiz in einem Halbsatz, ohne zu erklären, was sie tut. Er ist eine Diplomatie-Notiz, die ein Systemversagen als Nachbarschaftsstreit verkauft.*

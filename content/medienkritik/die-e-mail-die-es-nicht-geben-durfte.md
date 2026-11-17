@@ -77,6 +77,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Fischers Gegendarstellung vom 9. Juni — und was sie für den Ombudsentscheid bedeutet (*[SRF](https://www.srf.ch/news/schweiz/affaere-um-falsches-zertifikat-patrick-fischer-aeussert-sich-erstmals-nach-seiner-entlassung)* und *[NZZ](https://www.nzz.ch/sport/patrick-fischer-der-ehemalige-nationaltrainer-kaempft-um-seinen-ruf-ld.10010622?utm_campaign=mrf-twitter-NZZ&utm_source=twitter&utm_medium=social&mrfcid=202606096a25cdc029cdae05be98b4a2)*)*

@@ -59,6 +59,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M006
 ---
 
 *SRF berichtet über Tankstellen unter Druck: Niedrigwasser, Irankrieg, hohe Frachtkosten. Erstmals wieder über zwei Franken pro Liter. Der Beitrag erklärt die Preiszusammensetzung — Steuern 50 Prozent, Wareneinkauf 40 Prozent, Rest Marge — und verschweigt die naheliegendste Frage: Wenn der Staat die Hälfte jedes Liters kassiert, wessen Preisproblem ist das eigentlich? Der Beitrag klagt mit den Tankstellen über die Margen und nennt nicht, dass der grösste Profiteur des hohen Preises die öffentliche Hand ist — die bei jedem Franken mehr an der Zapfsäule mitverdient.*

@@ -65,6 +65,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: ''
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Zum economiesuisse-Beitrag *[«Ein Bevölkerungsdeckel ist keine Lösung für die Schweiz»](https://www.economiesuisse.ch/de/meinung/ein-bevoelkerungsdeckel-ist-keine-loesung-fuer-die-schweiz)* vom 30. April 2026*

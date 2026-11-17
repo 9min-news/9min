@@ -82,6 +82,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News International
 kritik_schwere: 2
+muster_id: M003
 ---
 
 *Dieser SRF-Beitrag über Trumps Abwesenheit bei der Fussball-WM ist ein Lehrstück in erzwungenem Narrativ: Ein Nicht-Ereignis — der Präsident besucht keine Vorrundenspiele — wird zur Story gemacht, mit dem expliziten Ziel, eine «Trump-Show» zu dokumentieren, die ausgeblieben ist. Die Überschrift sagt es selbst: «Die von Kritikern befürchtete Trump-Show ist bei der WM bisher ausgeblieben.» Das ist die Story: Etwas, das Kritiker befürchtet haben, ist nicht passiert. Und daraus macht SRF 4 News einen Beitrag — über das, was nicht passiert ist, spekuliert über das, was noch passieren könnte, und impliziert, dass Trump aus Feigheit vor Buhrufen fernbleibt. Das ist nicht Journalismus über ein Ereignis. Das ist Journalismus über die Abwesenheit eines Ereignisses — und das ist problematisch, weil man über Abwesenheit alles behaupten kann, ohne dass es jemand widerlegen kann.*

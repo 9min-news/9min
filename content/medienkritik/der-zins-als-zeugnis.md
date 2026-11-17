@@ -106,6 +106,7 @@ zusammenfassung: >-
   Schuldnern sowie eine historisch falsche Behauptung über US-Zinsschritte vor
   Midterms, die ungeprüft gesendet wurde.
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *Der Beitrag erklärt einen Leitzins, den er «weltweit einzigartig tief» nennt, mit dem Charakter des Landes. Der tragende Satz steht unter dem Zwischentitel «Die Widerstandsfähigkeit»: «Tiefe Zinsen, tiefe Staatsverschuldung, tiefe Inflation: Die Schweiz steht in vielerlei Hinsicht finanziell besser da als andere Länder.» Der Zins steht dort in einer Reihe mit Leistungen. Das Zitat von der «sehr grossen Schuldendisziplin, auf die sie auch stolz ist» liefert die Begründung nach. Die Nationalbank, die den Zins «festgesetzt» hat, erscheint als Subjekt eines einzigen Satzes, nie als Stimme. Verschwiegen werden drei Dinge: die Vorgeschichte des Nullzinses als Krisenmittel, die Interessenlage der beiden einzigen Quellen und die falsche historische Behauptung, auf der eine der zwei US-Prognosen ruht. Die Sparer erhalten einen Halbsatz.*

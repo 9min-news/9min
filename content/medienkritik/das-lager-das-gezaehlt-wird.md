@@ -115,6 +115,7 @@ zusammenfassung: >-
   durch Charakterstudien ersetzt, während die betroffenen Rechtsuchenden kaum
   vorkommen.
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Das Interview beginnt mit einer Rechenschaftsfrage und endet bei einer Lagerfrage. Der Justizforscher Michele Luminati stellt fest, die Gerichtsleitung habe «tatsächlich versagt». Wenige Sätze später deutet er die Nichtnomination ihres Präsidenten mit einem «allerdings» als «Abstrafung», die «die zunehmende innere Politisierung des Gerichts» zeige. Mit Partei markiert werden die SVP-Richter, die so gestimmt haben sollen, sowie Donzallaz und van de Graaf. Der nicht mehr nominierte François Chaix, Mitglied der FDP, erscheint ohne Parteibezeichnung. Ungenannt bleibt auch die Norm, an der Revisionen, verschobene Wahlen und die ganze Blockade hängen: Der Beitrag spricht von Gesetz und von «Gepflogenheiten», ohne eine Bestimmung zu nennen.*

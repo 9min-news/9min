@@ -111,6 +111,7 @@ zusammenfassung: >-
   Gegenstimmen fehlen vollständig, und Obamas eigene Vorgeschichte zu Iran und
   zu Einkünften nach dem Amt werde nicht thematisiert.
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *SRF meldet einen Wahlkampfauftritt als Kabarettnummer. Der Titel lässt Obama «spotten», die Bildlegende lässt ihn «austeilen». Zwischen der Pointe über Saddam Hussein und die Cheesecake-Factory und dem Satz «Der Iran hat jetzt die Kontrolle über die Strasse von Hormus» macht der Beitrag keinen Unterschied der Gewichtung: Beides ist Rede, beides ist Spitze. Keine Zahl im Text stützt oder prüft einen der Vorwürfe, kein Umfragewert, keine Zollhöhe, kein Betrag. Verschwiegen werden der Krieg, den die USA und Israel im Februar gegen Iran begonnen haben, der Gegner des unterstützten Kandidaten und jede Antwort der angegriffenen Seite.*

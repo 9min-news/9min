@@ -117,6 +117,7 @@ zusammenfassung: >-
   Lagebeschreibung, ohne die Exportregeln als parlamentarischen Kompromiss von
   2021 einzuordnen oder die Rekordexporte 2025 zu erwähnen.
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Der Slogan des Ja-Lagers eröffnet den Text und schliesst den Kasten zur Gegenkampagne: «Moderne Sicherheit braucht moderne Gesetze». Dazwischen sprechen sechs Befürworter. Die Gegner treten als «ein linkes Komitee» auf und als das Etikett, das Reto Nause ihnen gibt. Die folgenreichste Stelle ist jedoch kein Zitat: Im redaktionellen Erklärkasten steht in der Stimme von SRF, die Rüstungsindustrie sei «wegen ihrer strengen Exportregeln unattraktiv» und stehe «deswegen unter Druck». Der Beitrag verschweigt, dass diese Regeln ein parlamentarischer Kompromiss von 2021 sind und die Exporte 2025 fast Rekordhöhe erreichten. Seine eigenen Angaben zur Wiederausfuhr führt er nicht zu Ende.*

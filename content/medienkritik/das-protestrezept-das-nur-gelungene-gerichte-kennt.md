@@ -107,6 +107,7 @@ zusammenfassung: >-
   wiedergegeben, da deren Kernbefund – Gewaltverzicht als Erfolgsfaktor –
   verschwiegen wird, während Gewalt als Dosierfrage erscheint.
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Dachzeile und Titel versprechen eine Gebrauchsanleitung: «Erfolgsrezept für Proteste», «so erreichen Proteste ihr Ziel». Im letzten Absatz nimmt der Beitrag das Versprechen selbst zurück: «Dieser Erfolg sage aber noch nichts darüber aus, ob die Anliegen auch umgesetzt würden.» Dazwischen strukturieren eine Zahl, die «3.5 Prozent-Hürde», und eine Auswahl, deren Kriterium nirgends genannt wird: Serbien, Frankreich, Spanien, Kopenhagen, Greta Thunberg, die «Gen-Z-Proteste». Durchwegs sind es Bewegungen, deren Anliegen der Beitrag nicht befragt, und Gewalt erscheint darin als Dosierfrage, deren Grenze erst das brennende Rathaus markiert. Verschwiegen werden Proteste gegen staatliche Auflagen und Abgaben, gescheiterte Proteste, Chenoweths eigentlicher Befund und das politische System des Landes, in dem der Sender ausstrahlt.*

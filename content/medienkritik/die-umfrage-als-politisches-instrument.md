@@ -71,6 +71,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Zur SRF-Berichterstattung *[«1. SRG-Umfrage: Spannung bei ‹Keine 10-Mio-Schweiz› – Ja zum Zivildienstgesetz»](https://www.srf.ch/news/schweiz/1-srg-umfrage-auf-einen-blick-spannung-bei-keine-10-mio-schweiz-ja-zum-zivildienstgesetz)*, 8. Mai 2026*

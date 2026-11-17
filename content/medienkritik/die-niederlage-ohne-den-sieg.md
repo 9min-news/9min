@@ -62,6 +62,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M003
 ---
 
 *Dieser SRF-Beitrag über den Supreme Court-Entscheid zum Geburtsortsprinzip ist ein Lehrstück in selektiver Berichterstattung: Trump verliert einen Fall — und SRF ist zur Stelle. Trump gewinnt am gleichen Tag einen Fall — und SRF schweigt. Das ist kein Zufall. Das ist ein Framing-Muster: Trump wird als Verlierer präsentiert, seine Niederlagen werden gemeldet, seine Siege werden ignoriert. Der Beitrag selbst ist faktenkorrekt — aber er ist einseitig, weil er nur die Hälfte der Story erzählt. Und die Hälfte, die er erzählt, wird mit Framing versehen, das Trump als Verlierer positioniert — ohne den Kontext, dass der Supreme Court am selben Tag in einer anderen Frage Trump recht gegeben hat.*

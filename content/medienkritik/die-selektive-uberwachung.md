@@ -67,6 +67,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Wie SRF die Massenüberwachung von Flugpassagieren normalisiert — und das grösste Schlupfloch nicht als Systemfehler, sondern als Detailfrage behandelt*

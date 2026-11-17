@@ -65,6 +65,7 @@ quelle_format: ''
 quelle_sendung: ''
 quelle_redaktion: ''
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Zur Karriere eines Vorwurfs*

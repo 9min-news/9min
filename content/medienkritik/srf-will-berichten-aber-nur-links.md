@@ -62,6 +62,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *SRF berichtet über eine internationale Konferenz zur Bekämpfung linksextremen Terrorismus — und rahmt sie als parteipolitisches Manöver. «USA wollen Terrorismus bekämpfen – aber nur den linken», lautet der Titel, und das «aber» ist das Wort, das den Vorwurf vor der Analyse liefert. Was nicht vorkommt: eine einzige Stimme, die den Fokus auf linksextremen Terrorismus unterstützt. Was nicht vorkommt: die Frage, ob linksextremer Terrorismus tatsächlich ein wachsendes Problem ist — mit Zahlen, mit Fällen, mit Befunden. Was nicht vorkommt: die Frage, ob die Schweizer «ganzheitliche» Strategie tatsächlich funktioniert — oder ob sie eine Formel ist, die unterschwellige Prioritäten verdeckt. Der Beitrag ist eine Warnung vor einer Konferenz — nicht eine Berichterstattung über eine Konferenz.*

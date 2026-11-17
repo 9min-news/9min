@@ -72,6 +72,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M005
 ---
 
 *Zur SRF-Berichterstattung *[«Was kommt nach dem Sturz der Regierung in Rumänien?»](https://www.srf.ch/news/international/rumaenien-ohne-regierung-was-kommt-nach-dem-sturz-der-regierung-in-rumaenien)*, Echo der Zeit, 5. Mai 2026*

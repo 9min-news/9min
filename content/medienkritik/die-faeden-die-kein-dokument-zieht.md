@@ -116,6 +116,7 @@ zusammenfassung: >-
   Bilder würden dokumentiert, aber der Massstab fehle, an dem die Nähe zu messen
   wäre.
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *SRF erzählt Trumps 1990er-Jahre als Dreiklang, und Epstein steht schon im Titel gleichrangig neben Schönheitsköniginnen und Schulden. Der Lead nennt den «Multimillionär und Sexualstraftäter Jeffrey Epstein» im selben Satzgefüge wie ein Leben, das «geprägt von Schulden, waghalsigen Investitionen und schönen Frauen» war. Die Vorannahme steht in der Podcast-Infobox direkt nach dem Lead: Frauen geraten dort «in ein gefährliches Milieu», in dem «superreiche Männer wie Jeffrey Epstein und Donald Trump die Fäden ziehen». Der Beitrag verschweigt, dass keine bisher veröffentlichte Akte eine Beteiligung Trumps an Epsteins Straftaten belegt. Er verschweigt auch, dass die Freundschaft kurz vor oder nach dem Bekanntwerden der Vorwürfe endete.*

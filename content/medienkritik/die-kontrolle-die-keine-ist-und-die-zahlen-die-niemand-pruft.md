@@ -65,6 +65,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *Dieser SRF-Beitrag über den EFK-Bericht zu fehlerhaften Bundesprognosen ist ein Lehrstück in Behörden-Stenografie: Eine Kontrollbehörde kritisiert eine Bundesbehörde — und SRF notiert es. Die zentrale Frage — was bedeutet es für die Schweizer Demokratie, wenn Stimmbürger mit falschen Zahlen abstimmen — wird nicht gestellt. Die konkreten Mängel werden summarisch erwähnt, aber nicht spezifiziert. Die drei betroffenen Vorlagen werden nicht benannt. Die Empfehlungen werden zitiert, aber nicht geprüft. Die Reaktion des Bundesrats («im Rahmen bestehender Ressourcen») wird als kooperativ gerahmt — ohne zu fragen, was das bedeutet: nichts. Das ist keine Berichterstattung über eine Kontrollbehörde — das ist eine Pressemitteilung der Kontrollbehörde mit SRF-Siegel.*

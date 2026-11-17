@@ -72,6 +72,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *SRF berichtet über die Offset-Geschäfte zur F-35-Beschaffung — und rahmt sie als Erfolg. Armasuisse und Lockheed Martin präsentieren gemeinsam, wie die Kompensationsgeschäfte die vorgegebenen Ziele übertreffen. Der SRF-eigene Fachredaktor liefert die Kritik im Nebenraum: 700 bis 800 Millionen US-Dollar versteckter Aufpreis für die Steuerzahler. Aber der Haupttext referiert die Pressekonferenz von Hersteller und Behörde — und fragt nicht, ob das System, das er beschreibt, funktioniert. Die Overfulfilment-Story ist die Pressemitteilung eines Rüstungskonzerns — und SRF gibt sie weiter.*

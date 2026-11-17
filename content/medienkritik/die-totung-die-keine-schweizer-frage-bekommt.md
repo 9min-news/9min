@@ -65,6 +65,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M002
 ---
 
 *Vier Tote in der Karibik, ein US-Militärschlag, ein Video, keine Beweise. Seit Herbst letzten Jahres: über 200 Getötete. Der Beitrag nennt die Zahl und nennt die Kritik an der Rechtmässigkeit. Was er nicht nennt: einen einzigen Grund, warum ein Schweizer Sender diese Meldung bringt. Kein Schweizer Opfer, kein Schweizer Schiff, keine Schweizer Drogen, keine Schweizer Politik, die betroffen wäre. Der Beitrag über extralegale Tötungen in internationalen Gewässern erscheint in einem Land, das auf internationales Recht, auf Neutralität und auf die Regelstaatlichkeit seine Aussenpolitik gründet. Die Frage, was es für ein Land bedeutet, das Völkerrecht verteidigt, wenn eine Grossmacht Menschen ohne Prozess in internationalen Gewässern tötet, wäre die Schweizer Frage. Sie wird nicht gestellt.*

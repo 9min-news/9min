@@ -68,6 +68,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *Die Frage ist nicht rhetorisch. Die Frage ist statistisch. Energieprognosen haben historisch eine Trefferquote, die einen zufriedenen Wetterfrosch nicht erstaunen würde. Die IEA hat in jedem World Energy Outlook zwischen 2002 und 2020 die Solarstromkosten überschätzt — um Faktoren, nicht um Prozente. Die IAEA hat in jedem ihrer Annual Reports zwischen 2005 und 2020 die Zahl der weltweit neu in Betrieb genommenen Reaktoren überschätzt — um durchschnittlich 40 Prozent. Das PSI selbst hat in den Energieperspektiven 2035 (2007) den Schweizer Stromverbrauch bis 2035 um rund 15 Prozent überschätzt — weil es die Effizienzsteigerungen der Beleuchtung (LED) und der Geräte unterschätzte. Die ETH hat in denselben Perspektiven die Solarstromkosten bis 2035 auf 20 bis 30 Rappen pro kWh geschätzt — tatsächlich liegen sie heute bei 5 bis 10 Rappen. Das sind keine Einzelfälle. Das ist das systematische Muster von Energieprognosen: Sie überschätzen das Bekannte und unterschätzen das Neue. Wer also fragt, wie gross die Chance ist, dass die 19 namhaften Experten sich irren — die Frage ist nicht, ob, sondern worin.*

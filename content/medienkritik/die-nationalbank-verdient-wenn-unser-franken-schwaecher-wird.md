@@ -101,6 +101,7 @@ zusammenfassung: >-
   mit Interessenstrukturen dargestellt. Die Kritik fordert Symmetrie: ein
   Wechselkursgewinn ist keine Leistung, ein Wechselkursverlust kein Versagen.
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *2025 verlor die Schweizerische Nationalbank allein durch Wechselkursbewegungen 53.1 Milliarden Franken. In den ersten neun Monaten 2026 holte sie auf demselben Posten 29.8 Milliarden zurück, gut die Hälfte des Vorjahresverlusts. SRF meldet diesen halben Rückweg als Leistung: Die SNB «erzielt» einen «hohen Milliardengewinn», massgeblich für das «starke Ergebnis» seien die Finanzmärkte. Der Leser erfährt nicht, dass der grösste Einzelposten dieses Gewinns schlicht bedeutet, dass die Anlagewährungen gegenüber dem Franken zugelegt haben, und auch nicht, dass die Devisen dafür einst mit neu geschaffenen Franken gekauft wurden. Für den Stimmbürger ist das keine Buchhaltungsfrage: Bund und Kantone planen mit Geld aus der Notenbankbilanz, das reichlicher fliesst, wenn der Franken an Wert verliert, und das ganz ausbleiben kann, wie 2022 und 2023.*

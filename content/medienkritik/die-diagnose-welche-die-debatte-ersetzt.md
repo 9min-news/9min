@@ -60,6 +60,7 @@ quelle_format: Broadcast
 quelle_sendung: Regionaljournal Basel
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M016
 ---
 
 *Die Rubrik heisst «Demokratie im Fadenkreuz», die Expertin hat ein Buch geschrieben, das «demokratischen Faschismus» im Titel trägt, und die erste Frage des Interviews lautet: «Wie haben Sie diese Wahl erlebt?» — erlebt, nicht analysiert. Die Antwort: «geschockt und gelähmt». Damit steht das Format: Eine Wissenschaftlerin, deren Forschungsergebnis im Buchtitel vorab feststeht, wird als neutrale Deuterin einer Wählerschaft präsentiert, die sie pathologisiert — und der Interviewer liefert die Steilvorlagen. Die Wähler bekommen eine Diagnose, keine Anhörung: Ihre Sorgen sind Projektionen, ihre Motive kennen sie selbst nicht, und ob ihre Wahrnehmungen stimmen, ist der Expertin einerlei — «ob das real so ist oder nicht».*

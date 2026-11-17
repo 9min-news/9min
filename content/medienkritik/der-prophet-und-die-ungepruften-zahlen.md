@@ -59,6 +59,7 @@ quelle_format: Broadcast
 quelle_sendung: 10vor10
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *SRF lädt Reto Knutti ein, die Hitzewelle einzuordnen — und liefert ein Bestätigungsritual statt eines Interviews. Der Forscher darf Zahlen nennen, Kritiker diagnostizieren und sich als müden Mahner inszenieren. Geprüft wird nichts.*

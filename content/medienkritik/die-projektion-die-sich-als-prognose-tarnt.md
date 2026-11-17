@@ -61,6 +61,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *SRF präsentiert die neuen Bevölkerungszahlen des BFS und rahmt die Zuwanderung als Linderung: Sie verjünge die Alternde, fülle die Lücke, die die Alten hinterlassen. Was der Beitrag nicht sagt: Die Eingewanderten altern mit. Die «Linderung» ist eine Verschiebung des Problems in die nächste Dekade — gegen eine Gebühr, die heisst: 76'100+ zusätzliche Menschen pro Jahr. Und die 10-Millionen-Projektion, mit der er schliesst, ist keine Prognose. Sie ist die Fortschreibung einer politischen Entscheidung, die niemand getroffen haben will.*

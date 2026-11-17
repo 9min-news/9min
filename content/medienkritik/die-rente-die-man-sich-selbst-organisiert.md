@@ -61,6 +61,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF dialog
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *SRF porträtiert zwei Long-Covid-Betroffene, deren Rentengesuche die IV ablehnte, und rahmt sie als Einzelschicksale in einem trägen System. Fabien arbeitet zwei Stunden am Tag, die IV attestiert ihm 80 bis 100 Prozent Arbeitsfähigkeit. Dorothée arbeitet 40 Prozent, die IV attestiert ihr 100. Der Beitrag lässt die Widersprüche stehen, ohne sie zu messen. Er nennt die Zahl der Betroffenen nicht, die Zahl der Ablehnungen nicht, die Zahl der Verfahren nicht. Er verschweigt die Debatte über einen möglichen Zusammenhang zwischen Impfung und Long-Covid-Symptomen vollständig. Und er endet mit einer Frau, die einen Verein gründet, damit Verwandte ihr Geld spenden — eine Rückkehr ins 19. Jahrhundert, gerahmt als Bewältigungsstrategie.*

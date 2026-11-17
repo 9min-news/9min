@@ -68,6 +68,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Der Richter hat entschieden: Trump muss den Medien wieder Zutritt gewähren. Der Beitrag rahmt das als Triumph der Pressefreiheit: «Reissleine gezogen», «Zensur gestoppt», «Hürde, an der die Regierung gescheitert ist». Die Erzählung ist vollständig: der böse Präsident, die mutigen Medien, der weise Richter, die Solidarität der Branche bis zum Lieblingssender. Was der Beitrag zum dritten Mal in Folge verschweigt: die Vorgeschichte der Akteure. CNN, MS NOW, Politico, Fox News, die New York Times. Der Beitrag behandelt sie weiterhin als neutrale Hüter der Wahrheit, deren einziger Makel die Opferrolle ist. Die dokumentierten Geschichten derselben Häuser, die Russland-Kollusions-Erzählung, die Unterdrückung der Laptop-Story, Fox' eigene erfundene Berichterstattung mit Millionenabfindungen, existieren in dieser Erzählung nicht. Ein Prozess, in dem die Kläger als Unschuldige auftreten und ein Richter die Unschuld implizit bestätigt, wird berichtet, als wäre die Frage «unabhängiger Journalismus gegen Zensur» die einzige Frage des Falls. Der Prozess entscheidet über Verfahrensrecht. Die Erzählung entscheidet über Charaktere. Und die Charaktere stehen fest.*

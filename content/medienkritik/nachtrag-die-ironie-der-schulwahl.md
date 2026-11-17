@@ -66,6 +66,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Ergänzung zum Artikel *[«Drei Gymnasiastinnen, ein politischer Auftrag»](https://x.com/9min_news/status/2051225266001772642?s=20) *zu *[«Wie drei Gymnasiastinnen über Gewalt an Frauen denken»](https://www.srf.ch/news/gesellschaft/mehr-haeusliche-gewalt-wie-drei-gymnasiastinnen-ueber-gewalt-an-frauen-denken)* vom Echo der Zeit, 3. Mai 2026*

@@ -111,6 +111,7 @@ zusammenfassung: >-
   der Berggemeinden. Die Gegenüberstellung von Badran und Walti ersetze die
   Prüfung beider Positionen.
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *Den Rahmen setzt ein Satz, den der Beitrag unwidersprochen stehen lässt. SP-Nationalrätin Jacqueline Badran sagt: «Es geht ja nicht um Ausländer, sondern um Personen im Ausland». Die Infobox wiederholt diese Grenzziehung mit «Menschen ohne Wohnsitz in der Schweiz», die Bildlegende ebenso: «Wer im Ausland wohnt, kann keine Immobilien in der Schweiz erwerben». Die eigene Liste der geplanten Änderungen widerspricht allen drei Stellen. Punkt 3 betrifft Menschen, die in der Schweiz wohnen, und unterscheidet sie nach Herkunft. Die Debatte wird als Duell zwischen Mieterschutz und Investoren erzählt. Das letzte inhaltliche Wort hat Badrans Zinsthese, ohne Gegenprüfung. Wie gross der ausländische Anteil am Schweizer Immobilienmarkt ist, beziffert niemand, und die Geldpolitik als Mitursache der Preise bleibt unerwähnt.*

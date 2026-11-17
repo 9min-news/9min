@@ -68,6 +68,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: Swissinfo
 kritik_schwere: 2
+muster_id: M009
 ---
 
 *Dieser Swissinfo-Beitrag über das Bahn-Solar-Projekt in Buttes NE ist ein Fallbeispiel für Innovationsjournalismus, der die Grenze zwischen Berichterstattung und PR-Zusammenarbeit verwischt. Ein Start-up installiert Solarpanels auf 100 Metern Bahngleis, produziert Strom für drei bis vier Haushalte — und bekommt dafür einen landesweiten Medienauftritt, der die Technologie als Weltpremiere, als Pionierleistung und als Exportchance feiert. Die Zahlen sind marginal, die Kosten fehlen, die Skalierbarkeit ist ungeprüft, und die «positive Bilanz» wird nach einem Jahr gezogen, obwohl das Pilotprojekt auf drei Jahre angelegt ist. Der Beitrag liest sich wie eine Pressemitteilung von Sun-Ways — und das ist kein Zufall, denn die Quelle ist Joseph Scuderi, der Gründer des Start-ups. Er liefert die Zahlen, die Bewertungen, die Prognosen. Der Journalist fragt nicht nach. Das Ergebnis ist ein Beitrag, der eine kommerzielle Bewerbung als journalistische Story tarnt.*

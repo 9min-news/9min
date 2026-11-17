@@ -81,6 +81,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: EU-Rat
 kritik_schwere: 3
+muster_id: M004
 ---
 
 Schauen wir die [Erklärung der EU vom 2. Mai 2026 zum World Press Freedom Day](https://www.consilium.europa.eu/en/press/press-releases/2026/05/02/world-press-freedom-day-2026-statement-by-the-high-representative-on-behalf-of-the-european-union/) genauer an. Es ist ein Dokument, das auf den ersten Blick ehrenwert klingt und bei zweitem Hinsehen so viele Probleme aufwirft, dass eine Auseinandersetzung sich lohnt.

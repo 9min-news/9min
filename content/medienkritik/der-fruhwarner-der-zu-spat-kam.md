@@ -62,6 +62,7 @@ quelle_format: Broadcast
 quelle_sendung: SRF 4 News aktuell
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M005
 ---
 
 *SRF interviewt einen Zürcher Klimaforscher über die Sturzflut-Katastrophe in Nepal und Tibet und rahmt ihn als Analysten, der das Ausmass einordnet. Mehr als 1000 Vermisste, über 160 Tote, ein Felssturz «historischen Ausmasses». Der Beitrag verschweigt die naheliegendste Frage: Der Forscher arbeitet im Auftrag der DEZA an einem Frühwarnsystem für genau diese Region — und es existierte nicht, als es gebraucht wurde. Er verschweigt die Ursachen-Debatte: Ein Erdbeben der Stärke 4,4 ging der Flut voraus, ein Erdrutsch staute den Fluss auf. Er verschweigt die Frage, ob der Klimawandel hier überhaupt eine Rolle spielt. Und er verschweigt die Schweizer Gelder, die in das Projekt fliessen. Er ist ein Experteninterview, das die Katastrophe nutzt, um das eigene Projekt zu bewerben — ohne dass jemand fragt, warum es nicht funktionierte.*

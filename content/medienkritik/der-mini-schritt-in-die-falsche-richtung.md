@@ -67,6 +67,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News Wirtschaft
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Dieser SRF-Beitrag ist eine Agenturmeldung mit Einordnungsbox: Die EZB erhöht den Leitzins erstmals seit 2023 um 0.25 Punkte auf 2.25 Prozent, als Reaktion auf den Inflationsschub infolge des Iran-Kriegs. Die hauseigene Wirtschaftsredaktorin liefert dazu eine bemerkenswert kritische Analyse — und bricht sie genau einen Satz vor ihrer eigenen Schlussfolgerung ab. Denn wer argumentiert, dass Zinserhöhungen gegen Überhitzung wirken und hier ein wachstumsdämpfender Angebotsschock vorliegt, hat soeben begründet, warum diese Zinserhöhung das falsche Instrument ist. Dazu kommt eine zweite, grundsätzlichere Leerstelle: Die Frau, die diese Entscheidung verkündet, wurde von einem französischen Gericht schuldig gesprochen — und kein Beitrag über sie erwähnt es je.*

@@ -64,6 +64,7 @@ quelle_format: Broadcast
 quelle_sendung: SRF Magazin
 quelle_redaktion: SRF
 kritik_schwere: 3
+muster_id: M005
 ---
 
 *Dieser SRF-interview mit SRG-Präsident Jean-Michel Cina ist ein Lehrstück in Selbstbefragung: Ein öffentlich-rechtlicher Sender interviewt seinen eigenen Verwaltungsratspräsidenten — und stellt keine einzige Frage, die ihn unbequem wäre. Cina darf erzählen, was er will: dass die SRG ein «Vollprogramm» braucht, dass sie «glaubwürdig» ist, dass die Trägerschaft «wichtig» ist, dass der Druck «enorm» ist. Die Interviewerin Nicole Krättli nickt, fragt nach, lässt ihn reden — und widerspricht nie. Das Ergebnis ist kein Interview. Das Ergebnis ist eine PR-Mitteilung in Dialogform.*

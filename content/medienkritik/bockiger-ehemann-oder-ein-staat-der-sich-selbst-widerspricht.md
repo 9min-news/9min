@@ -105,6 +105,7 @@ zusammenfassung: >-
   Bilanzierung von Ehe-Vorteilen und -Lasten wesentliche Belastungen wie
   Heiratsstrafe und AHV-Plafonierung weggelassen.
 kritik_schwere: 3
+muster_id: M011
 ---
 
 *Ein Lohnausweis, der beim Sozialamt eingereicht wird, bleibt nicht zwingend dort: Sozialhilfebehörden müssen den Bezug von Ausländern der Migrationsbehörde melden (Art. 97 Abs. 3 AIG, Art. 82b VZAE), und Sozialhilfeabhängigkeit ist im Ausländerrecht ein Grund, eine Bewilligung zu widerrufen. Ein Ehemann, der dieses Papier nicht herausgibt, ist im SRF-Titel einer, der «bockt». Der Beitrag nennt den Grund seiner Weigerung, die Angst um die Aufenthaltsbewilligung, und behandelt ihn dann wie eine Laune. Er verschweigt, dass dieselbe staatliche Ordnung die Offenlegung verlangt und sie zugleich bestrafen kann. Für jeden Bürger steht damit die Frage im Raum, ob der Staat eine Mitwirkung fordern darf, deren Erfüllung er selbst sanktioniert, und ob die Ehe nur dann als Einheit zählt, wenn das den Staat entlastet.*

@@ -67,6 +67,7 @@ quelle_format: Broadcast
 quelle_sendung: Tagesgespräch
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *SRF führt den EDÖB Adrian Lobsiger durch ein Interview, das Datenschutz als individuelles Anliegen und technisches Problem rahmt — nicht als strukturelles. Die Verdopplung der Meldungen wird als «Verlangen der Bevölkerung» gedeutet, KI als Meta-Brille, Regierungsgeheimnis als Einzelfall. Dass der Bund in den letzten Jahren ein Gesetz nach dem anderen verabschiedet hat, das Datenerhebung ausweitet und Privatsphäre belastet, kommt nicht vor. Der Beitrag ist ein Bestätigungsinterview — der Amtsträger darf klagen, ohne dass der Interviewer nach den Ursachen fragt.*

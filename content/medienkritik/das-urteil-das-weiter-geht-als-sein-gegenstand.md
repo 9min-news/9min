@@ -76,6 +76,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Zum SRF-Beitrag *[«Ungarn verstösst mit Anti-LGBTQI-Gesetz gegen EU-Grundwerte»](https://www.srf.ch/news/gesellschaft/europaeischer-gerichtshof-ungarn-verstoesst-mit-anti-lgbtqi-gesetz-gegen-eu-grundwerte)* vom 20. April 2026*

@@ -108,6 +108,7 @@ zusammenfassung: >-
   Schutz vor Desinformation wird ohne Nachfrage als Kausalität präsentiert und
   dient als Forderung nach Ressourcen für den eigenen Sender.
 kritik_schwere: 3
+muster_id: M009
 ---
 
 *Der Beitrag behandelt eine Bevölkerungsbefragung als Gutachten über die Unverzichtbarkeit des Senders, der sie meldet. Die tragende Vorannahme steckt in der letzten Frage des Interviewers: «Die SRG muss bekanntlich sparen. Was bedeutet das vor dem Hintergrund der Desinformation?» Der Studienleiter antwortet mit einer politischen Forderung: «Wir müssen unbedingt schauen, dass dieser Abbau nicht noch weitergeht.» Das Gespräch nennt keinen einzigen Messwert. Es ruht auf einem Kausalwort: Qualitätsjournalismus «schützt». Drei Dinge verschweigt der Beitrag: wie sich das fög vor der SRG-Abstimmung positioniert hat, dass die SRG dieselbe Studie am selben Vormittag selbst verbreitete und an welcher Messgrösse «Anfälligkeit» hängt.*

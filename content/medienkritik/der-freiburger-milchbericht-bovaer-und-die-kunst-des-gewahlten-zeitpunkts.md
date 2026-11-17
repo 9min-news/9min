@@ -85,6 +85,7 @@ quelle_format: Online-Artikel
 quelle_sendung: Regionaljournal Bern Freiburg Wallis
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *Zum SRF-Beitrag *[«Zu viel Milch: Freiburg will seine Milchbauern retten»](https://www.srf.ch/news/schweiz/milchschwemme-und-butterberg-zu-viel-milch-freiburg-will-seine-milchbauern-retten)* vom 13. April 2026, und zur Bovaer-Berichterstattung im SRG-Konzern seit 2024*

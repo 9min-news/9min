@@ -69,6 +69,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *SRF feiert die Abwahl von Viktor Orban als «Zeitenwende». Tanzende Menschen vor dem Parlament. Junge Frauen mit Fahnen. Optimismus, Aufbruch, Euphorie. Das ist die eine Seite. Die andere: Eine 73-jährige Grossmutter, die Orban verteidigt, wird als Beispiel für die Verblendeten präsentiert. Ihre Argumente werden als «Behauptungen der Orban-Regierung» abgetan. Die Hälfte des Landes, die Orban gewählt hat, bekommt eine einzige Stimme — und die wird als irregeleitet dargestellt. Das ist keine Berichterstattung. Das ist eine Siegerfeier.*

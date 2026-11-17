@@ -109,6 +109,7 @@ zusammenfassung: >-
   die zitierten Stimmen auf Institutionen, deren Mandat an die Bedrohungslage
   geknüpft sei, ohne dass dieser Interessenkonflikt markiert werde.
 kritik_schwere: 3
+muster_id: M008
 ---
 
 *Über dem Text steht «Faktencheck», darunter der Titel «Wie und wo hybride Bedrohungen Europa zunehmend treffen». Beides verspricht ein geprüftes Lagebild. Die Methodik-Box im selben Beitrag beschreibt etwas anderes. Erfasst wurden Ereignisse, die «von Sicherheits- oder Regierungsvertretern beziehungsweise in Medienberichten mit Russland in Verbindung gebracht wurden». Gezählt ist also die Zuschreibung, nicht die Urheberschaft. Der Beitrag verschweigt, dass die EBU ihre eigene Karte nicht als offizielle Zählung verstanden wissen will. Für das «zunehmend» liefert er keine Vergleichsbasis, und keiner der Fälle, in denen frühe Zuschreibungen später nicht hielten, wird erwähnt.*

@@ -68,6 +68,7 @@ quelle_format: Broadcast
 quelle_sendung: Rendez-vous
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *SRF analysiert die Regierungskrise von Friedrich Merz — und rahmt sie als persönliches Versagen. Der Kanzler fehle das «politische Handwerk», er komme «aus der Wirtschaft», er verstehe die Partei nicht. Was nicht vorkommt: die Frage, was Merz eigentlich tut. Welche Politik er vertritt. Ob die Krise ein Symptom ist für ein tieferes Problem der CDU. Was nicht vorkommt: eine einzige Stimme aus der CDU. Was nicht vorkommt: Merz selbst. Der Beitrag ist ein Monolog einer Korrespondentin, der als Analyse deklariert wird — ohne Quelle, ohne Gegenstimme, ohne Sachverhalt.*

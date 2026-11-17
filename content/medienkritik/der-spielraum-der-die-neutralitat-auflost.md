@@ -75,6 +75,7 @@ quelle_format: Broadcast
 quelle_sendung: SRF 4 News / Rendez-vous / Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *SRF publiziert drei Beiträge zur Neutralitätsinitiative. Sie kommen daher als geschlossene Kampagne für den Bundesrat. Aussenminister Ignazio Cassis warnt vor «Starrheit», ein Historiker deutet die Vergangenheit um, um EU-Sanktionen als Tradition zu erklären, und Experten warnen vor europäischer Isolation. Über alle drei Beiträge hinweg fehlt die Realität der Schweizer Aussenpolitik: die 5 Milliarden Franken für die Ukraine, die das Argument der «nichtmilitärischen Massnahmen» ad absurdum führt. Die Serie ist ein ausgedehnter Kommentar für den Status quo, verkleidet als historische und politische Analyse.*

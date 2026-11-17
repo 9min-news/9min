@@ -3,7 +3,9 @@ title: Post aus Zimmerwald
 date: '2026-05-09'
 status: published
 type: analyse
-coverImage: 'https://pbs.twimg.com/media/HH2wkCkWEAAAOwO.jpg'
+series: 'Einzelstücke'
+seriesIndex: 2
+coverImage: '/images/essays/post-aus-zimmerwald.jpg'
 tweetId: '2052991812386660636'
 categories:
   - Medienrecht

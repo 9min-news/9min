@@ -107,6 +107,7 @@ zusammenfassung: >-
   Normalbetrieb asymmetrisch darstellt: Bern erscheint als Pionier, Weinfelden
   als Ausreisser mit schlechtem Geschmack.
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *In Weinfelden stimmten 2078 Stimmbürger gegen ein Grabfeld nach muslimischer Tradition und 1947 dafür. Der Unterschied betrug 131 Stimmen bei einer Beteiligung von 53.9 Prozent, und vorausgegangen war ein Referendum gegen einen Beschluss des eigenen Stadtparlaments. In der «Sternstunde Religion» schrumpft dieser Vorgang auf einen Nebensatz: «Manchmal, wie etwa in Weinfelden, wird eine derartige Erweiterung jedoch nicht goutiert.» Das Passiv tilgt den Entscheider, das Verb macht aus einer Abstimmung eine Frage des Gaumens, und der Zwischentitel «Bern ist offen für alle – und alles» liefert den Massstab, an dem Weinfelden als Rückstand erscheint. Dabei geht es um den Status des Stimmbürgers: Wer an der Urne entschieden hat, wird im Text zum Kunden, dem etwas nicht geschmeckt hat.*

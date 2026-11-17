@@ -68,6 +68,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *SRF berichtet über den Sturm auf Ceuta und rahmt das Ereignis als PR-Kampagne rechter Kreise. Neonazis, gewählte Abgeordnete und britische Populisten werden in einen Topf geworfen. Was nicht vorkommt: die Unterscheidung zwischen Demokraten und Extremisten. Was nicht vorkommt: die demografische Realität, die hinter dem Begriff «Grosseraustausch» steht. Was nicht vorkommt: die Frage, ob es die Aufgabe von Oppositionspolitikern ist, Krisenorte zu besuchen. Der Beitrag ist eine moralische Panik über Rhetorik, die den Kollaps der Grenze ausblendet.*

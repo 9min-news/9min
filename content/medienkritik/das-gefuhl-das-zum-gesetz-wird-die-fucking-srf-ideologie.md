@@ -63,6 +63,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF Kids
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *SRF Kids veröffentlicht einen Leitfaden zur Geschlechtsidentität für Kinder. Der Beitrag rahmt Geschlechtervielfalt als Selbstverständlichkeit und biologisches Geschlecht als eine Zuordnung, die «bei der Geburt» entschieden wird. Was nicht vorkommt: die medizinische Debatte. Die Frage, ob Kinder reif genug sind, über ihre Identität zu entscheiden. Die Länder, die sich von der Behandlung Minderjähriger zurückziehen. Die Detransition. Der Beitrag ist ein pädagogischer Text, der eine ideologische Position als Kindermaterial verpackt — finanziert von 1,5 Milliarden Franken öffentlichen Geldes.*

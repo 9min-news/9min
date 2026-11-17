@@ -113,6 +113,7 @@ zusammenfassung: >-
   würden ausgeblendet, während die Schweizer Volksabstimmungen als Defizit
   gerahmt würden.
 kritik_schwere: 3
+muster_id: M009
 ---
 
 *Im Oktober 2015, wenige Wochen vor Paris, errechnete der Climate Action Tracker für die damals eingereichten Klimapläne eine Erwärmung von 2,7 Grad bis 2100. Heute kommt das UNO-Umweltprogramm für die geltenden Klimapläne auf 2,6 bis 2,7 Grad. Der Vergleich ist grob, eine Wende zeigt er nicht. SRF erzählt trotzdem eine Erfolgsgeschichte, und den Massstab setzt der Mann, der für die Schweiz am Verhandlungstisch sitzt: Er vergleicht mit einer Vier-Grad-Welt, die es nur in Szenarien gab, und nennt die Differenz «messbar». Der Austritt der USA findet keinen Platz, der Preis ebenso wenig. Dabei läuft der Beitrag auf zwei Forderungen zu, die Steuerzahler und Stimmbürger direkt treffen: mehr Geld für ärmere Länder und strengere Vorgaben im Inland, über deren Richtung das Volk schon zweimal entschieden hat.*

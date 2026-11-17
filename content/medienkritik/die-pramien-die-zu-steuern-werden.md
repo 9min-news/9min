@@ -66,6 +66,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M008
 ---
 
 *Die Schlagzeile lautet: Die Reichsten zahlen relativ am wenigsten Steuern. Die Studie, auf der sie beruht, zählt zu diesen Steuern auch die Krankenkassenprämien. Eine Prämie ist keine Steuer. Sie kauft eine Versicherung. Sie ist pro Kopf ungefähr gleich hoch, unabhängig vom Einkommen, und deshalb flacht sie jede Progressionsrechnung ab, in die man sie hineinmischt. Der zentrale Befund der Schlagzeile ist zu einem wesentlichen Teil das Ergebnis dieser Zuordnung. Der Beitrag nennt den Einbezug der Prämien und druckt sogar den Einwand eines unabhängigen Forschers dazu. Er zieht aus beidem keine Konsequenz für den Satz, den er als Titel trägt. Dazu kommt: Die Studie ist nicht peer-reviewed, ihre Kernzahl beruht auf einem Einkommensbegriff, der einbehaltene Firmengewinne als bezogenes Einkommen zählt, und die eigentlich überraschende Nachricht, die Vermögensungleichheit sei kleiner als lange angenommen, steht im Vorspann und kommt nie wieder vor.*

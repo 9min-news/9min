@@ -63,6 +63,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: ''
 kritik_schwere: 3
+muster_id: M016
 ---
 
 *Wie der Tagesanzeiger Beat Jans eine ungetrübte Plattform für Apokalyptik bietet, den Brexit-Vergleich als Waffe zulässt, ohne ihn zu prüfen, die Gesundheitsgefährdung als rhetorisches Instrument deckt und die Frage nach den Grenzen des Wachstums nicht stellt – weil die Antwort lauten müsste: Es gibt keine Grenze*

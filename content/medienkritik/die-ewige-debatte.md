@@ -72,6 +72,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Wie SRF die Zuwanderungsdebatte als ewigen Konflikt zwischen Fortschritt und Nostalgie framed, den Shift von «Überfremdung» zu «Dichtestress» als zivilisatorischen Aufstieg verkauft, das Patt als Naturgesetz darstellt statt als politisches Versagen, die Volkswillensmissachtung von 2014 verschweigt und nicht fragt, warum eine Demokratie ein Thema 56 Jahre lang nicht lösen kann – ohne dass jemand Verantwortung trägt*

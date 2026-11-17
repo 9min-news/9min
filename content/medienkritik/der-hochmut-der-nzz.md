@@ -71,6 +71,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: NZZ Meinung
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Wie Georg Häsler die SVP-Initiative als «Alleingang» und «Hochmut» rahmt, dabei selbst die hybristische Annahme vertritt, die Schweiz müsse sich Europa unterordnen, um zu überleben, die Personenfreizügigkeit mit der europäischen Schicksalsgemeinschaft gleichsetzt, die konkreten Kosten der Zuwanderung verschweigt, das Argument der «Resilienz» für die Seite verwendet, die恰恰 die Resilienz der Schweiz durch ungebremstes Wachstum untergräbt, und nicht fragt, was eine «Werte- und Schicksalsgemeinschaft» wert ist, die die direkte Demokratie als «Gefühlsausbruch» abtut*

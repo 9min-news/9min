@@ -1,24 +1,49 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
-import { getAllArticles } from '@/lib/content'
 import { Header } from '@/components/Header'
 import { Footer } from '@/components/Footer'
 import { formatDate } from '@/lib/utils'
+import { getEssayGroups, readingMinutes, essayLead } from '@/lib/essays'
+import type { Article } from '@/lib/content'
 
 export const metadata: Metadata = {
   title: 'Essays',
-  description: 'Grundlegende Texte zu Medien, Wirtschaft und Gesellschaft — die Serie «9min zu 9min».',
+  description: 'Grundlegende Texte zu Medien, Wirtschaft und Gesellschaft: die Serien «9min zu 9min», «Die Toblerone-Serie» und Einzelstücke.',
+}
+
+const label: React.CSSProperties = {
+  fontFamily: 'var(--font-body)',
+  fontSize: '11px',
+  letterSpacing: '0.18em',
+  textTransform: 'uppercase',
+}
+
+function Meta({ essay, part }: { essay: Article; part?: string }) {
+  return (
+    <span style={{ fontFamily: 'var(--font-body)', fontSize: '12px', color: 'var(--color-textgrau-hell)' }}>
+      {part && <>{part} · </>}
+      {formatDate(essay.frontmatter.date)} · {readingMinutes(essay)} Min.
+    </span>
+  )
+}
+
+function Cover({ src, ratio }: { src?: string; ratio: string }) {
+  if (!src) return <div aria-hidden="true" style={{ aspectRatio: ratio, background: 'var(--color-border)' }} />
+  return (
+    // eslint-disable-next-line @next/next/no-img-element
+    <img src={src} alt="" loading="lazy" style={{
+      display: 'block', width: '100%', aspectRatio: ratio, objectFit: 'cover', borderRadius: '2px',
+    }} />
+  )
 }
 
 export default function EssaysPage() {
-  const essays = getAllArticles()
-    .filter(a => a.type === 'analyse' || a.type === 'grundlage')
-    .sort((a, b) => (a.frontmatter.seriesIndex ?? 999) - (b.frontmatter.seriesIndex ?? 999))
+  const groups = getEssayGroups()
 
   return (
     <>
       <Header />
-      <main style={{ maxWidth: '680px', margin: '0 auto', padding: '60px 20px 100px' }}>
+      <main style={{ maxWidth: '760px', margin: '0 auto', padding: '60px 20px 100px' }}>
         <h1 style={{
           fontFamily: 'var(--font-display)',
           fontWeight: 500,
@@ -37,111 +62,93 @@ export default function EssaysPage() {
           margin: '0 0 16px',
           lineHeight: 1.6,
         }}>
-          Die Serie «9min zu 9min» — grundlegende Texte zu Methode, Medien und Ordnung.
+          Längere Texte zu Methode, Medien und Ordnung, in Serien und als Einzelstücke.
         </p>
 
-        <div style={{ width: '40px', height: '2px', background: 'var(--color-gold)', margin: '0 0 48px' }} />
+        {/* Series index */}
+        {groups.length > 1 && (
+          <nav aria-label="Serien" style={{ display: 'flex', flexWrap: 'wrap', gap: '6px 16px', margin: '0 0 48px' }}>
+            {groups.map(g => (
+              <a key={g.name} href={`#${encodeURIComponent(g.name)}`} style={{ ...label, fontSize: '10px', color: 'var(--color-gold)', textDecoration: 'none' }}>
+                {g.name} ({g.essays.length})
+              </a>
+            ))}
+          </nav>
+        )}
 
-        {essays.length === 0 && (
+        {groups.length === 0 && (
           <p style={{ fontFamily: 'var(--font-body)', fontStyle: 'italic', color: 'var(--color-textgrau-hell)' }}>
             Die erste Folge erscheint bald.
           </p>
         )}
 
-        <div style={{ display: 'flex', flexDirection: 'column', gap: 0 }}>
-          {essays.map((essay, i) => {
-            const prevSeries = essays[i - 1]?.frontmatter.series
-            const thisSeries = essay.frontmatter.series
-            const showSeriesHeader = thisSeries && thisSeries !== prevSeries
-            const isLastInGroup = thisSeries !== essays[i + 1]?.frontmatter.series
+        {groups.map(group => {
+          const [first, ...rest] = group.essays
+          const part = (i: number) => (group.numbered ? `Teil ${i}` : undefined)
+          return (
+            <section key={group.name} id={encodeURIComponent(group.name)} style={{
+              borderTop: '2px solid var(--color-tannengruen)',
+              padding: '24px 0 40px',
+              scrollMarginTop: '80px',
+            }}>
+              <h2 style={{ ...label, color: 'var(--color-gold)', fontWeight: 400, margin: '0 0 6px' }}>
+                {group.name}
+              </h2>
+              <p style={{ fontFamily: 'var(--font-body)', fontStyle: 'italic', fontSize: '15px', color: 'var(--color-textgrau)', margin: '0 0 24px', lineHeight: 1.5 }}>
+                {group.intro}
+              </p>
 
-            return (
-              <div key={essay.slug}>
-                {showSeriesHeader && (
-                  <div style={{
-                    fontFamily: 'var(--font-body)',
-                    fontSize: '11px',
-                    letterSpacing: '0.2em',
-                    textTransform: 'uppercase',
-                    color: 'var(--color-gold)',
-                    paddingTop: i > 0 ? '48px' : '0',
-                    paddingBottom: '20px',
-                    borderTop: i > 0 ? '2px solid var(--color-tannengruen)' : undefined,
-                  }}>
-                    {thisSeries}
-                  </div>
-                )}
-                <div style={{
-                  display: 'grid',
-                  gridTemplateColumns: '36px 1fr',
-                  gap: '20px',
-                  paddingBottom: '36px',
-                  marginBottom: '0',
-                  borderBottom: !isLastInGroup ? '1px solid var(--color-border)' : undefined,
-                  alignItems: 'start',
+              {/* First essay of the series: large card */}
+              <Link href={`/${first.slug}`} style={{ display: 'block', textDecoration: 'none' }}>
+                <Cover src={first.frontmatter.coverImage} ratio="16 / 9" />
+                <span style={{
+                  display: 'block',
+                  fontFamily: 'var(--font-display)',
+                  fontWeight: 500,
+                  fontSize: 'clamp(20px, 3.4vw, 26px)',
+                  color: 'var(--color-tannengruen)',
+                  lineHeight: 1.25,
+                  margin: '14px 0 8px',
                 }}>
-                  <span style={{
-                    fontFamily: 'var(--font-body)',
-                    fontSize: '13px',
-                    color: 'var(--color-gold)',
-                    letterSpacing: '0.05em',
-                    paddingTop: '4px',
-                  }}>
-                    {String(i + 1).padStart(2, '0')}
+                  {first.frontmatter.title}
+                </span>
+                {essayLead(first) && (
+                  <span style={{ display: 'block', fontFamily: 'var(--font-body)', fontSize: '15px', color: 'var(--color-textgrau)', margin: '0 0 8px', lineHeight: 1.55 }}>
+                    {essayLead(first)}
                   </span>
-                  <div>
-                    <span style={{
-                      display: 'block',
-                      fontFamily: 'var(--font-body)',
-                      fontSize: '11px',
-                      letterSpacing: '0.2em',
-                      textTransform: 'uppercase',
-                      color: 'var(--color-textgrau-hell)',
-                      marginBottom: '8px',
-                    }}>
-                      {essay.type === 'analyse' ? 'Analyse' : 'Grundlage'}
-                    </span>
-                    <Link
-                      href={`/${essay.slug}`}
-                      style={{ textDecoration: 'none' }}
-                    >
-                      <span style={{
-                        display: 'block',
-                        fontFamily: 'var(--font-display)',
-                        fontWeight: 500,
-                        fontSize: 'clamp(18px, 3vw, 22px)',
-                        color: 'var(--color-tannengruen)',
-                        lineHeight: 1.3,
-                        marginBottom: '8px',
-                      }}>
-                        {essay.frontmatter.title}
-                      </span>
-                    </Link>
-                    {essay.frontmatter.lead && (
-                      <p style={{
-                        fontFamily: 'var(--font-body)',
-                        fontStyle: 'italic',
-                        fontSize: '15px',
-                        color: 'var(--color-textgrau)',
-                        margin: '0 0 8px',
-                        lineHeight: 1.5,
-                      }}>
-                        {essay.frontmatter.lead}
-                      </p>
-                    )}
-                    <time style={{
-                      fontFamily: 'var(--font-body)',
-                      fontSize: '13px',
-                      color: 'var(--color-textgrau-hell)',
-                    }}>
-                      {formatDate(essay.frontmatter.date)}
-                    </time>
-                  </div>
-                </div>
-              </div>
-            )
-          })}
-        </div>
+                )}
+                <Meta essay={first} part={part(1)} />
+              </Link>
+
+              {/* Further parts: compact rows with thumbnail */}
+              {rest.length > 0 && (
+                <ul style={{ listStyle: 'none', padding: 0, margin: '28px 0 0' }}>
+                  {rest.map((essay, i) => (
+                    <li key={essay.slug} style={{ borderTop: '1px solid var(--color-border)' }}>
+                      <Link href={`/${essay.slug}`} className="essay-row" style={{ textDecoration: 'none' }}>
+                        <Cover src={essay.frontmatter.coverImage} ratio="4 / 3" />
+                        <span style={{ display: 'block' }}>
+                          <span style={{
+                            display: 'block',
+                            fontFamily: 'var(--font-display)',
+                            fontWeight: 500,
+                            fontSize: '18px',
+                            color: 'var(--color-tannengruen)',
+                            lineHeight: 1.3,
+                            marginBottom: '6px',
+                          }}>
+                            {essay.frontmatter.title}
+                          </span>
+                          <Meta essay={essay} part={part(i + 2)} />
+                        </span>
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              )}
+            </section>
+          )
+        })}
       </main>
       <Footer />
     </>

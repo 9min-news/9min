@@ -69,6 +69,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *SRF berichtet über russische «Wegwerfagenten» in der Schweiz und rahmt sie als Bedrohung, die den NDB bestätigt. GPS-Tracker, Brandsätze, Telegram-Gruppen. Der Beitrag nennt den verurteilten Agenten einen Ukrainer — aber rahmt ihn trotzdem als «Putins» Agent. Er verschweigt, dass der Mann nach der Verurteilung in die Schweiz zurückkehrte und keine Behörde sich äussert. Er verschweigt, ob die Schweiz, die 5 Milliarden an die Ukraine zahlt, ein legitimes Ziel für russische Gegenspionage ist. Und er verschweigt die Neutralität. Er ist eine Spionagemeldung, die eine geopolitische Verstrickung als einseitige Bedrohung verkauft.*

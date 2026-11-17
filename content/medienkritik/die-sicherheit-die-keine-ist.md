@@ -67,6 +67,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: ''
 kritik_schwere: 2
+muster_id: M017
 ---
 
 *Dieser Tages-Anzeiger-Beitrag über die Lancet-Studie zur mRNA-Impfstoffsicherheit ist ein Lehrstück in Bestätigungsjournalismus: Eine Übersichtsarbeit wird als endgültige Entlastung präsentiert, Skepsis wird als irrational gerahmt, und die zentrale methodische Frage — ob eine Übersichtsarbeit, die keine systematische Review ist, überhaupt Aussagen über Sicherheit treffen kann — wird von einem der zitierten Experten selbst aufgeworfen, dann aber vom Journalisten fallengelassen. Der Beitrag klingt wie Wissenschaftsjournalismus, aber er ist keine — denn Wissenschaftsjournalismus prüft seine Quellen, und dieser Beitrag prüft nichts. Er reproduziert eine Pressemitteilung mit Experten-Zitat.*

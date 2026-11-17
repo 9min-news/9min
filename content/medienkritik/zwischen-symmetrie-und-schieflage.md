@@ -83,6 +83,7 @@ quelle_format: Print
 quelle_sendung: ''
 quelle_redaktion: Bundeskanzlei
 kritik_schwere: 3
+muster_id: M017
 ---
 
 **Eine vollständige Analyse der Darstellung der Nachhaltigkeitsinitiative im **[Bundesbüchlein vom 14. Juni 2026](https://www.admin.ch/de/volksabstimmung-vom-14-juni-2026)

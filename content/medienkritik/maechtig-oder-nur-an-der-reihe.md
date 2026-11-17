@@ -110,6 +110,7 @@ zusammenfassung: >-
   Ständeratsentscheid vom letzten Erhebungstag als Begründung für einen Wert
   herangezogen, den er kaum beeinflusst haben kann.
 kritik_schwere: 2
+muster_id: M008
 ---
 
 *Der Titel lautet «Die Mächtigste, der Beliebteste und das Schlusslicht im Bundesrat». Der Fliesstext ist vorsichtiger. Dort ist Karin Keller-Sutter «aus Sicht der Bevölkerung» das einflussreichste Mitglied, und Elisabeth Baume-Schneider bildet das Schlusslicht «beim wahrgenommenen Einfluss». Auf dem Weg vom Text zum Titel wird aus einer Zuschreibung ein Zustand, und der Lead liefert die Gewissheit gleich mit: Das Wahlbarometer «liefert die Antworten». Verschwiegen wird, dass Keller-Sutter im Vorjahr Bundespräsidentin war und ihr Verlust zeitlich mit Guy Parmelins Gewinn im Präsidialjahr zusammenfällt. Verschwiegen wird auch, dass der als ihr «Erfolg» verbuchte Ständeratsentscheid am letzten Tag der Befragung fiel und der Vorlage des Bundesrats nur zum Teil folgte.*

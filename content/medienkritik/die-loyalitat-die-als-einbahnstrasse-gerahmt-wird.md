@@ -62,6 +62,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *SRF erzählt die Saga um den «Reflecting Pool» und rahmt sie als Komödie über Trumps Narzissmus. Ein blauer Pool, Algen, eine loyale Staatsanwältin, die versagt. Was nicht vorkommt: Pirros Begründung, das Innenministerium habe Beweise zurückgehalten. Was nicht vorkommt: der Bundesrichter, der Druck ausübte. Was nicht vorkommt: der Auftragnehmer, der die Renovation verpfuschte. Was nicht vorkommt: dass Trump Pirro nicht feuerte. Der Beitrag ist eine Trump-Satire, die die institutionelle Dimension verschweigt.*

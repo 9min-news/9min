@@ -68,6 +68,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF 4 News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *Dieser SRF-Beitrag ist eine Agenturmeldung über die Krawallnacht von Belfast: Nach einem Angriff, dessen mutmasslicher Täter ein 30-jähriger Sudanese ist, eskalierten Proteste gegen Einwanderung zu Brandstiftungen an Häusern und Fahrzeugen. Die Meldung hat echte Stärken — und ein doppeltes Grundproblem: Sie verkleinert die Tat sprachlich, und sie verkleinert die Ursachen politisch. Beides zusammen ergibt das vertraute Muster: Die Aufregung wird verwaltet, statt erklärt.*

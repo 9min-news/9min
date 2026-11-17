@@ -73,6 +73,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M010
 ---
 
 *Das BFS projiziert 10,4 Millionen Einwohner bis 2055. SRF präsentiert diese Zahl als Fakt. Als Schicksal. Als Naturgesetz. Aber wir wissen, wie das läuft. Im Abstimmungsbüchlein von 2002 stand eine andere Prognose: Die Personenfreizügigkeit werde eine Nettozuwanderung von maximal 8'000 Personen pro Jahr bringen. Die Realität: Das Zehnfache. Jahr für Jahr. Weder der Bundesrat noch das BFS noch das Parlament haben diese Fehlprognose je korrigiert. Und als das Volk 2014 die Masseneinwanderungsinitiative annahm, um das Wachstum zu stoppen, wurde die Initiative bewusst nicht umgesetzt. Das ist die Vorgeschichte, die SRF verschweigt. Die Prognosen des Bundes sind keine Wissenschaft. Sie sind politische Instrumente. Und wer das weiss, liest den SRF-Artikel anders.*

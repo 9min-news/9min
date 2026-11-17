@@ -65,6 +65,7 @@ quelle_format: Broadcast
 quelle_sendung: Rendez-vous
 quelle_redaktion: SRF
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *SRF meldet, dass die Schweiz ihre Tamiflu-Reserven drastisch senkt — Millionen Kapseln verfallen ungenutzt. Der Beitrag rahmt den Vorgang als Bedarfsoptimierung: Das Lager sei «überdimensioniert», die Neubeurteilung zeige, dass ein Viertel reiche. Was der Beitrag verschweigt: Das Lager wurde vermutlich auf Basis von Täuschung aufgebaut. Roche wird in den USA wegen Betrugs verklagt — der Vorwurf: Das Unternehmen habe Studien falsch dargestellt, um Regierungen zum Kauf von Tamiflu zu bewegen. Die Schweiz kaufte hundert Jahre Vorrat. Der Beitrag verschweigt die Klagen, die Kosten, die Verantwortung — und er verschweigt den Kontext, den ein Sender liefert, der gleichzeitig vor Gericht darum kämpft, über Pandemie-Dokumente nicht berichten zu müssen. Er ist eine Entsorgungsmeldung, die einen Betrugsskandal als Logistikfrage verkauft.*

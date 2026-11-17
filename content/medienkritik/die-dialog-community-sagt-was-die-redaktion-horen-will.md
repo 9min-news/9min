@@ -66,6 +66,7 @@ quelle_format: Online-Artikel
 quelle_sendung: dialog
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Zum SRF-Beitrag *[«‹dialog›-Community zu UBS: ‹Eine Bank darf nie so mächtig werden›»](https://www.srf.ch/news/dialog/stimmen-aus-der-community-dialog-community-zu-ubs-eine-bank-darf-nie-so-maechtig-werden)* vom 30. April 2026*

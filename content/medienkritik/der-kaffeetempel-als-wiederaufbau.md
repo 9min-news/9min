@@ -72,6 +72,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M004
 ---
 
 *Dieser SRF-Beitrag über Italiens Verwendung der EU-Corona-Milliarden ist ein Lehrstück in wohlfeiler Positivberichterstattung. Das Leitbeispiel ist die Restaurierung eines königlichen Kaffeetempels in einem römischen Park — ein hübsches Bild, aber kaum das, was der Wiederaufbaufonds eigentlich sollte: Italien digitaler, produktiver und widerstandsfähiger machen. Die «gemischte Bilanz» der Schlagzeile entpuppt sich als kosmetische Einschränkung: Ein Ziel nicht ganz erreicht, beim Personal zu wenig investiert — aber insgesamt «ein Erfolg». Der einzige Experte ist ein Professor der Privatuniversität der italienischen Industriellenvereinigung Confindustria, also einer Institution, die strukturell für EU-Investitionsgelder und gegen Sparpolitik positioniert ist. Niemand fragt nach den Schulden, die hinter den 200 Milliarden stehen. Niemand fragt nach Mafia- und Korruptionsrisiken bei 300'000 Projekten. Niemand fragt, ob eine restaurierte Parkanlage in Rom wirklich das ist, wofür die europäischen Steuerzahlerinnen und Steuerzahler haften sollten. Der Beitrag ist keine Falschdarstellung — aber er ist eine Einladung an das Publikum, eine vorgefertigte Erfolgsstory zu konsumieren, ohne die Werkzeuge zu bekommen, sie zu prüfen.*

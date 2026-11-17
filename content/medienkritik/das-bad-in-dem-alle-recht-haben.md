@@ -64,6 +64,7 @@ quelle_format: Broadcast
 quelle_sendung: Regionaljournal Bern Freiburg Wallis
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M001
 ---
 
 *Dieser SRF-Beitrag über den Polizeieinsatz gegen eine trans Frau im Berner Marzilibad ist ein Lehrstück in konfliktvermeidendem Journalismus: Eine Story über einen Nacktbereich, eine Geschlechtsfrage, einen Polizeieinsatz mit Handschellen, eine Spitalnacht und eine städtische Entschuldigung wird so erzählt, dass am Ende alle recht haben — ausser der Polizei, die zwar erwähnt, aber nicht befragt wird. Die Frauen, die sich gestört fühlten, kommen als Stimme nicht vor. Die Frauen, die sich solidarisierten, kommen als Stimme nicht vor. Die trans Frau kommt als Stimme nicht vor. Die Stadt Bern kommt mit einer Pressemitteilung vor. Das Umfeld der trans Frau kommt mit einer Mitteilung vor. Die Polizei kommt mit einem Communiqué vor. Niemand wird befragt. Niemand wird konfrontiert. Der Beitrag ist eine Aneinanderreihung von offiziellen Stellungnahmen, die keine der zentralen Fragen beantwortet: Wer hat hier recht? Wer hat hier Unrecht? Und was bedeutet das für die Frage, wer Zugang zu einem frauen-separierten Nacktbereich hat?*

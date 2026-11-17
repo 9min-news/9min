@@ -67,6 +67,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *SRF meldet, dass Spanien Reisende aus Italien die Einreise verweigert, und rahmt den Vorgang als bilaterale Vergeltungsmassnahme. Spanien kontrolliert, Italien kontrolliert, Schengen wird ausgesetzt. Was nicht vorkommt: die Frage, ob Schengen überhaupt funktioniert. Was nicht vorkommt: die Tatsache, dass Ceuta nicht Teil des Schengen-Raums ist und Migranten gar nicht direkt weiterreisen können. Was nicht vorkommt: die reale Bedrohung durch Spaniens Massenlegalisierung. Was nicht vorkommt: die 75 Toten. Was nicht vorkommt: die EU-Zahlungen an Marokko. Der Beitrag ist eine diplomatische Notiz, die einen Systemfehler als Nachbarschaftsstreit verkauft.*

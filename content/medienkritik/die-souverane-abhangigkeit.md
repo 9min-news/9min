@@ -63,6 +63,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *Die Schweiz will «souveräne Fähigkeiten im Weltraum». Dafür arbeitet sie mit Deutschland, Österreich und Luxemburg zusammen. Und nutzt die ESA, eine zivile Organisation, für militärische Zwecke. 850 Millionen Franken sind vorgesehen. Der Experte, der das erklärt, leitet das Kompetenzzentrum, das von diesen Millionen profitiert. Die Neutralität wird nicht erwähnt. Der Widerspruch zwischen «Souveränität» und «Kooperation» wird nicht aufgelöst. Und die Frage, ob ein Land, das sich nicht verteidigen kann, ohne Satelliten anderer zu nutzen, überhaupt souverän sein kann, wird nicht gestellt.*

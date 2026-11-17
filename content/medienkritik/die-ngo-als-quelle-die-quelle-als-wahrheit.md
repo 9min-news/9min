@@ -64,6 +64,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M005
 ---
 
 *SRF berichtet: Greenpeace hat eine «Untersuchung» gemacht. Die Untersuchung «zeigt», dass Schweizer AKWs mit russischem Uran betrieben werden. Die Axpo widerspricht. Greenpeace «relativiert». Das ist die Struktur des Beitrags: Greenpeace ist die Wahrheit, Axpo ist die Verteidigung. Eine NGO mit einer klaren politischen Agenda — Anti-Atomkraft, Anti-Wirtschaft — wird als neutrale Untersuchungsinstanz behandelt. Ein Unternehmen, das Strom für die Schweiz produziert, wird als der zu Befragende behandelt. Die Frage, die SRF nicht stellt: Wer ist Greenpeace eigentlich? Und warum darf eine politisch motivierte Organisation den Rahmen vorgeben, in dem ein Energiekonzern sich rechtfertigen muss?*

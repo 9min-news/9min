@@ -110,6 +110,7 @@ zusammenfassung: >-
   werde so durch methodische Auslassungen und einen unausgewiesenen
   Interessenkonflikt gestützt.
 kritik_schwere: 3
+muster_id: M009
 ---
 
 *Der Beitrag legt ein einziges Wort über alles: Polarisierung. Parteiwerte, Bundesratsbeurteilung und Wählerbewegungen erscheinen als Symptome desselben Befunds. Die These, die ihn trägt, steht in einem Satz: «Hier zeigt sich ein Paradoxon der Polarisierung: Abstimmungserfolge führen nicht zwingend zu Wahlerfolgen, oft sogar ins Gegenteil.» Als Beleg dienen drei verlorene Volksinitiativen. Der Beitrag verschweigt, dass Volksinitiativen in der Schweiz in der grossen Mehrheit scheitern. Er nennt weder einen einzigen Ja-Anteil noch den Fehlerbereich der Umfrage, und er markiert nicht, dass die erste Niederlage auf seiner Liste die Finanzierung der SRG betraf.*

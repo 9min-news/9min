@@ -116,6 +116,7 @@ zusammenfassung: >-
   hinterfragt. Das Muster sei die Bilanz als Tabu: Ein Ex-Minister beurteilt
   andere und wird nicht an den eigenen Entscheidungen gemessen.
 kritik_schwere: 3
+muster_id: M005
 ---
 
 *Vier Jahre lang sass Robert Habeck als Vizekanzler am Kabinettstisch einer Regierung, die 400'000 neue Wohnungen pro Jahr versprach und 2023 auf 294'400 kam. Heute nennt er die Wohnungsnot ein Anliegen der Demonstranten, das «absolut berechtigt» sei, als hätte er davon aus der Zeitung erfahren. SRF stellt ihn schon in der Anmoderation als Beobachter vor, der die Proteste «mit einer Mischung aus Sympathie und Ratlosigkeit» verfolgt, und lässt ihn die Forderungen der Jugend «diffus» nennen, während die konkreteste davon, eine Musterungspflicht für junge Männer ab Jahrgang 2008, im ganzen Gespräch ausgespart bleibt. Der Gebührenzahler finanziert damit ein Interview, in dem ein ehemaliges Regierungsmitglied jene Generation benotet, die die Rechnung der Politik trägt: in Mieten, Rentenbeiträgen, Schulden und neu in Form eines Musterungsbescheids.*

@@ -67,6 +67,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M005
 ---
 
 *Zum SRF-Beitrag *[«Comparis-Prognose: Anstieg der Krankenkassenprämien flacht ab»](https://www.srf.ch/news/schweiz/comparis-prognose-anstieg-der-krankenkassenpraemien-flacht-ab)*, 12. Mai 2026*

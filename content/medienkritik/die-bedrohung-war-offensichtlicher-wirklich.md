@@ -63,6 +63,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M003
 ---
 
 [Dieser Beitrag zum Ozonloch](https://www.srf.ch/news/schweiz/neue-schadstoffmessungen-die-bedrohung-durch-das-ozonloch-war-offensichtlicher) ist aus mehreren Gründen interessant. Er ist wissenschaftlich seriös. Er gibt einem Empa-Forscher Raum. Er liefert konkrete Zahlen: 4 Prozent statt erwartete 0.5 Prozent Verluste bei Feedstock-Chemikalien. 160 Prozent mehr Produktion in zwanzig Jahren. Das Ozonloch schliesst sich langsamer als vorausberechnet.

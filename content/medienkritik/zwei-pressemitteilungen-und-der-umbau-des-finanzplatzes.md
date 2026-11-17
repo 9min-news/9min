@@ -63,6 +63,7 @@ quelle_format: Broadcast
 quelle_sendung: ''
 quelle_redaktion: ''
 kritik_schwere: 3
+muster_id: M017
 ---
 
 145'000 Unterschriften für eine Initiative, die den Schweizer Finanzplatz per Verfassungsartikel auf Klimaverträglichkeit verpflichten will. Es ist eine der weitreichendsten wirtschaftspolitischen Forderungen seit Jahren. Sie würde bestimmen, welche Geschäfte Schweizer Banken, Versicherungen und Pensionskassen im Ausland tätigen dürfen und welche nicht.

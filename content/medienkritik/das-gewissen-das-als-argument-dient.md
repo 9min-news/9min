@@ -65,6 +65,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *SRF berichtet über Rekord-Passagierzahlen am Flughafen Zürich und rahmt das Fliegen als moralisches Versagen. Die Frage lautet nicht: Warum fliegen die Menschen? Sondern: Warum fliegen sie trotz besseren Wissens? Das Framing steht fest: Fliegen ist falsch, wer fliegt, hat ein Gewissensproblem. Was nicht vorkommt: die Frage, ob der Schweizer Flugverkehr klimatisch relevant ist. Was nicht vorkommt: die wirtschaftliche Funktion des Fliegens für eine Exportnation. Was nicht vorkommt: die globalen Emissionen, die zeigen, dass die Schweiz auch bei null Flügen das Klima nicht rettet. Der Beitrag ist eine moralische Anklage mit psychologischem Anstrich.*

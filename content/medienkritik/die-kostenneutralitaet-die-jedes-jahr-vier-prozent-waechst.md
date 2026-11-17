@@ -108,6 +108,7 @@ zusammenfassung: >-
   zur Aufwertung der Hausarztmedizin und der Interessenkonflikt der FMH werde
   nicht thematisiert.
 kritik_schwere: 3
+muster_id: M005
 ---
 
 *Vier Prozent pro Jahr ergeben nach fünf Jahren rund 22 Prozent mehr, nach zehn Jahren knapp 48 Prozent: So weit dürften die ambulanten Arztkosten in der Schweiz rechnerisch steigen, ohne die Obergrenze des Bundesrats je zu verletzen. SRF stellt diese Grenze unter den Zwischentitel «Kostenanstieg soll begrenzt werden» und leitet sie mit dem Versprechen ein, der Systemwechsel solle nicht dazu führen, «dass die Kosten für ambulante ärztliche Leistungen steigen». Wer diese Kosten trägt, erwähnt der Beitrag mit keinem Wort. Prämienzahler, Versicherte und Patienten tauchen nicht auf. Dabei ist die Grundversicherung obligatorisch: Wer sie bezahlt, kann weder aussteigen noch mitverhandeln, wenn über seine Rechnung entschieden wird.*

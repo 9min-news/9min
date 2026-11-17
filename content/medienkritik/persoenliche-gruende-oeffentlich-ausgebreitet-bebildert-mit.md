@@ -110,6 +110,7 @@ zusammenfassung: >-
   Die Kritik richtet sich gegen Prominenz als Relevanzersatz und asymmetrische
   Gewichtung beim Gebührenfinanzierten Sender.
 kritik_schwere: 3
+muster_id: M008
 ---
 
 *Eine 18-Jährige gibt auf einem Formular an, ihre Gründe seien «persönlich», und SRF News bebildert diesen einen Satz mit vier Fotos, die sie als Kind und Teenager zeigen. Die Dachzeile «Weiterer Bruch in der Familie» deutet den Namenswechsel als Akt gegen den Vater, obwohl der Beitrag kein Wort von ihr enthält, das diese Deutung trägt. Unmittelbar darauf folgt der Gewaltvorwurf von 2016, und zwar ohne die Gegenposition des Beschuldigten. Für den Gebührenzahler steht eine schlichte Frage im Raum: Nach welchem Massstab vergibt ein zwangsfinanzierter Sender seinen Platz, wenn am selben Nachmittag auf seiner Auslandseite keine Zeile über Tränengas und Warnschüsse vor einem Haus der ukrainischen Nationalgarde bei Kiew stand?*

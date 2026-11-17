@@ -62,6 +62,7 @@ quelle_format: Broadcast
 quelle_sendung: Rendez-vous
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *SRF meldet, dass das Bundesverwaltungsgericht die Ausbürgerung eines IS-Unterstützers trotz drohender Staatenlosigkeit billigt — und rahmt den Entscheid als bemerkenswert. Ein Mann, der Propagandakanäle betrieb, Mitglieder rekrutierte, in Frankreich verurteilt wurde. Die Sache ist klar: Wer für den IS arbeitet, hat das Schweizer Bürgerrecht verwirkt. Wer dann noch den bosnischen Pass abgibt, um die Ausbürgerung zu blockieren, hat den Trick verdient, der nicht funktioniert. Aber der Beitrag verschweigt, wo der Mann heute lebt, was Staatenlosigkeit praktisch bedeutet — und er verschweigt den Fall, der jedem Schweizer Zuhörer einfällt: Nesip D., der Messerattentäter von Winterthur, der ebenfalls Doppelbürger ist und dessen Ausbürgerung rechtlich schwieriger sein dürfte als die des Bosniers.*

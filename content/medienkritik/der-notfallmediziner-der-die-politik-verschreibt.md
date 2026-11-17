@@ -63,6 +63,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: ''
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Tagi interviewt ETH-Klimaforscher Reto Knutti und rahmt ihn als rationalen Wissenschaftler, der Hass erträgt und Fakten vertritt. Ein Stapel Briefe, das Wort «Idiot», ein Schutzpanzer. Der Beitrag blendet systematisch aus, dass Knutti selbst politische Forderungen stellt, dass er Roger Köppel persönlich angreift und dass seine «negativen Kosten» eine These sind, die niemand prüft. Er ist ein Interview, das einen politischen Akteur als neutralen Wissenschaftler inszeniert.*

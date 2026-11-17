@@ -73,6 +73,7 @@ quelle_format: Broadcast
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M006
 ---
 
 Die SRF-Redaktion hat kein böses Ziel. Sie betreibt keine Propaganda. Sie versucht, etwa im Iran-Krieg, ein komplexes Thema in vielen Facetten abzubilden. Sie gibt vielen Stimmen Raum. Sie ist nicht parteiisch im engeren Sinn.

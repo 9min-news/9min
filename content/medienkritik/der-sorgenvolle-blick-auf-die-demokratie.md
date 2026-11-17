@@ -66,6 +66,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M005
 ---
 
 *Der Titel verspricht «Warnungen an die Schweiz» — gemeint ist die Schweizer Demokratie. 53 zu 3 sagt der Ausschuss Ja, und die Sorge gilt nicht dem Vertrag, sondern dem Einzigen, was ihn noch aufhalten könnte: einem Parlament, das eine Kaution verteidigt, und einem Volk, das abstimmen darf. Die unbequemste Frage bleibt ungestellt: Wenn die Gegenseite ein Verhandlungsergebnis fast einstimmig bejubelt, was sagt das über die Verteilung der Konzessionen? Und der Text enthält die Schiefe, ohne sie zu sehen: Die EU verschlechtert die Schweizer Lage einseitig — die Beschaffungsregeln, die Schweizer Firmen ausschliessen, stammen vom selben Tag wie dieses Echo —, während jede Schweizer Anpassung am Verhandlungsergebnis «unangenehm» ist. Einseitigkeit heisst auf der einen Seite Präferenzregel, auf der anderen Abweichung.*

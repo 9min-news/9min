@@ -68,6 +68,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Zum SRF-Beitrag *[«Blatten ist kein Einzelfall: Wenn Heimat sich klimabedingt ändert»](https://www.srf.ch/news/schweiz/nach-bergsturz-im-loetschental-blatten-ist-kein-einzelfall-wenn-heimat-sich-klimabedingt-aendert)*, 13. Mai 2026 und dem SRF Klima-Narrativ*

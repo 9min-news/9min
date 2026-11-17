@@ -58,6 +58,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *Wie SRF Corine Mauch zum Abschied eine weiche Bühne bietet, die ökonomische Logik des Wohnungsmarkts als «Märchen» stehen lässt, den städtischen Machtanspruch nicht hinterfragt und nicht fragt, warum Zürich nach 17 Jahren linker Wohnpolitik unbezahlbarer ist als je zuvor*

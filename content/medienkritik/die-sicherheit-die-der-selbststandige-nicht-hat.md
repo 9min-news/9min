@@ -61,6 +61,7 @@ quelle_format: Broadcast
 quelle_sendung: Regionaljournal Ostschweiz
 quelle_redaktion: SRF
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Der Beitrag porträtiert eine 28 jährige Frau, die mit IV-Rente ein Nähatelier führt, und rahmt es als Erfolgsgeschichte: «Das geht.» Die Kernstelle steht in der Mitte und wird nicht gelesen: «Auch wenn es nicht funktionieren würde, bekäme sie weiterhin die volle IV-Rente.» Das ist die Definition von unternehmerischer Sicherheit: kein Risiko, kein Verlust, keine Konsequenz. Der Beitrag feiert die Aufhebung des unternehmerischen Risikos als Befreiung. Dabei ist genau diese Aufhebung der Grund, warum dieselbe Geschichte für jeden anderen Gründer unerreichbar ist. Wer ohne IV-Rente gründet, trägt alles: das Einkommensrisiko, das Scheitern, die Altersvorsorge, die Krankheit. Wer mit IV-Rente gründet, trägt nichts. Der Beitrag über Unternehmertum erzählt die Geschichte eines Unternehmertums, das kein Unternehmertum ist. Und er erscheint in einem Land, dessen IV-System die Erwerbsunfähigkeit von Millionen Selbstständigen mit anderen Massstäben misst.*

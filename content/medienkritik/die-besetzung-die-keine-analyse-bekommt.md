@@ -67,6 +67,7 @@ quelle_format: Broadcast
 quelle_sendung: Regionaljournal Zürich Schaffhausen
 quelle_redaktion: SRF
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *SRF meldet die Räumung des besetzten Zürcher Lindenhofs in einem zweiminütigen Audio — und lässt es dabei bewenden. Rund 100 vermummte Aktivistinnen aus dem linksextremen Umfeld besetzten einen Platz, die Stadtpolizei tolerierte es ein Wochenende lang, ein 35-Jähriger stürzte in die Tiefe, rund 20 Lärmklagen gingen ein, historische Bauten wurden mit Graffiti verschmiert. Der Tages-Anzeiger berichtet am Folgetag über das politische Nachspiel: Die Grüne-Sicherheitsvorsteherin verteidigt die Duldung, die Bürgerlichen sprechen von «Kuschen vor Linksextremen». SRF bringt: zwei Minuten Audio. Kein Artikel, keine Analyse, kein Nachspiel. Die Frage, warum ein Sender, der über einen AfD-Doppelgänger-Wettbewerb in New York sechs Bilder liefert, über eine linksextreme Besetzung in Zürich zwei Minuten Audio bringt, wird nicht gestellt — sie ist die Antwort.*

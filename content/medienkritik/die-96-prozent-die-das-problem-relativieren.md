@@ -62,6 +62,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M007
 ---
 
 *SRF meldet, dass der Bund ein Gesetzespaket gegen kriminelle Asylsuchende plant — und rahmt es als Antwort auf ein reales Problem. 80 Prozent der nordafrikanischen Asylsuchenden werden einer Straftat beschuldigt. Der Staatssekretär bestätigt: «Das ist ein reales Problem.» Aber dann die Relativierung: 96 Prozent der Asylbevölkerung verhalte sich korrekt. Der Beitrag verschweigt, dass diese 96 Prozent alle Herkünfte umfassen — während die 80 Prozent eine einzige Herkunft betreffen. Er verschweigt, dass das Gesetzespaket angekündigt wird, nicht beschlossen. Er verschweigt die Zahlen der Straftaten. Und er verschweigt die Frage, ob ein System, das seit Jahren weiss, dass 80 Prozent einer Gruppe kriminell werden, nicht längst hätte handeln müssen.*

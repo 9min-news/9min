@@ -84,6 +84,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: NZZ
 kritik_schwere: 3
+muster_id: M016
 ---
 
 Am 6. April 2026 publiziert die @NZZ einen Gastkommentar des emeritierten Professors und ehemaligen Ständerats René Rhinow. Er argumentiert, die Schweiz solle ihre dauernde Neutralität aufgeben und durch eine «situative Neutralität» ersetzen. Im Klartext: neutral sein, wenn es passt. Nicht neutral sein, wenn «gewichtige aussen-, wirtschafts- und sicherheitspolitische Gründe Vorrang geniessen.»

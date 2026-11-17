@@ -110,6 +110,7 @@ zusammenfassung: >-
   von Konflikt- und Schmuggelgold sowie die fehlende aktuelle Stellungnahme
   Valcambis verzerrn das Bild zusätzlich.
 kritik_schwere: 3
+muster_id: M008
 ---
 
 *In der Infobox des Beitrags stehen zwei Zahlen untereinander: 591 Tonnen illegales Gold, das 2024 in die Vereinigten Arabischen Emirate gelangt sein soll, und 420 Tonnen Gold, die die Schweiz im vergangenen Jahr von dort importiert hat. Dazwischen steht ein einziger Satz, «Die Schweiz sei direkt betroffen», und er erledigt die Arbeit, die eine dritte Zahl hätte leisten müssen. Wie viel Gold die Emirate insgesamt einführen und welcher Teil der 420 Tonnen überhaupt beanstandet ist, sagt SRF nicht. Dass die einzige Quelle an der Vernehmlassung zur neuen Verordnung mitwirkt, wird zwar erwähnt, bleibt aber folgenlos. Für den Stimmbürger geht es um mehr als eine Branchenfrage: Die Schärfe der künftigen Regeln für eine Schlüsselbranche legt der Bundesrat per Verordnung fest, und gegen Verordnungen gibt es kein Referendum.*

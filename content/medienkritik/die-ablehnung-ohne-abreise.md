@@ -107,6 +107,7 @@ zusammenfassung: >-
   gesendet, obwohl der Beitrag selbst Zahlen liefert, die der Behördenbehauptung
   widersprechen.
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *Die Dachzeile lautet «Kriminelle Asylsuchende», der Titel «Junge Nordafrikaner fordern Polizei und Behörden». Damit ist die Rollenverteilung gesetzt: Die Polizei trägt die Last, die Behörden liefern die Antwort, der Staat erscheint als Geforderter und nicht als Akteur, dessen Vollzug selbst Teil des Problems sein könnte. Getragen wird der Beitrag von einer Zahl, wonach 2024 «80 Prozent der Nordafrikaner mit Asylstatus einer Straftat beschuldigt» wurden. Sie steht ohne Vergleichswert und unaufgelöst neben der Behördenformel von der «kleinen kriminellen Minderheit». Der Beitrag hält fest, dass «fast alle Gesuche» abgelehnt werden, und zeigt einen Mann mit rund einem Dutzend Delikten. Warum Abgelehnte mit Deliktserie im Land bleiben, fragt er nicht. Die Rückführungshindernisse nach Algerien und der Dublin-Stillstand mit Italien fehlen.*

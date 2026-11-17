@@ -66,6 +66,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M003
 ---
 
 *Dieser SRF-Beitrag ist ein Interview, aber er funktioniert als Pressemitteilung. Christopher Wright, Chef Nachhaltigkeit beim norwegischen Staatsfonds, darf eine Story erzählen, die so rund ist, dass sie keine Fragen mehr zulässt: Der Fonds stammt aus Öl und Gas, investiert weltweit, erkennt Klimarisiken, drängt Unternehmen zu Emissionsreduktion — und profitiert langfristig, wenn die Welt sauberer wird. Das ist das Narrativ eines Fonds, der sich selbst als Lösung des Problems positioniert, das er mitverursacht hat. Der Interviewer Klaus Ammann fragt nicht nach den Widersprüchen, die aus diesem Narrativ entstehen. Er fragt nicht, warum Norwegen weiterhin Öl und Gas fördert und neue Felder erschliesst, während der Fonds Unternehmen zu Netto-Null-Plänen drängt. Er fragt nicht, ob die Netto-Null-Pläne, die der Fonds fordert, tatsächlich wirksam sind oder Greenwashing sind. Er fragt nicht, ob ein Fonds, der 1,5 Billionen Dollar verwaltet und an fast allen grossen Unternehmen beteiligt ist, nicht strukturell von dem System profitiert, das er zu verändern vorgibt. Das Interview ist ein Beispiel für Journalismus, der den Gast nicht konfrontiert, sondern ihm eine Bühne gibt — und das Ergebnis liest sich wie ein Image-Text des norwegischen Finanzministeriums.*

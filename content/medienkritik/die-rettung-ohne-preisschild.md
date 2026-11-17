@@ -110,6 +110,7 @@ zusammenfassung: >-
   (Nordhaus) weg. Zudem kommt nur UNO-Personal zu Wort, was eine Selbstbewertung
   der UNO unkritisch als Journalismus ausgibt.
 kritik_schwere: 3
+muster_id: M010
 ---
 
 *Der Titel spricht im Indikativ: «Erde erwärmt sich bis Ende Jahrhundert um 2.8 Grad». Die Zusammenfassung legt nach, die Erde «wird» Ende des Jahrhunderts 2.8 Grad wärmer sein. Dass die Zahl ein Szenario ist, gerechnet unter der heute umgesetzten Politik und mit einer Wahrscheinlichkeit von zwei Dritteln, steht nirgends; das Wort «Prognose» erscheint erst im Zwischentitel. Gemessen wird alles am 1.5-Grad-Ziel, das selbst nie gewogen wird. Was die verlangte Kehrtwende kostet, was die Schweiz an Reduktion im Ausland einkauft und was diese Tonnen taugen, verschweigt der Beitrag ebenso wie jede Stimme ausserhalb der UNO.*

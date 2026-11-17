@@ -105,6 +105,7 @@ zusammenfassung: >-
   Initiativtext existiert. Ein Kongressbeschluss werde so als Vorlage gerahmt,
   über die das Volk entscheide.
 kritik_schwere: 3
+muster_id: M010
 ---
 
 *Ein Gärtner mit eidgenössischem Fähigkeitszeugnis darf in seinen ersten drei Berufsjahren laut Gesamtarbeitsvertrag für 4875 Franken abzüglich 250, also für 4625 Franken angestellt werden, und genau diesen Einstieg würde die Initiative verbieten, die SRF in der Tagesschau vorstellt. Die Zahlen stehen in einer Bildlegende des Beitrags. Die Folgerung zieht niemand: Der Betrieb müsste pro Lehrabgänger die Differenz zu 5000 Franken, 375 Franken im Monat, zusätzlich zahlen oder ihn nicht einstellen. Der Titel «5000 Franken Mindestlohn, 8 Wochen Ferien» setzt die Forderungen des Gewerkschaftsbunds ohne Absender und ohne Verb wie einen Sachverhalt, und über den Preis spricht im ganzen Beitrag keiner, weder der SGB noch die Arbeitgeber noch SRF. Für den Stimmbürger geht es um eine Bundesvorschrift, die ausgehandelte Löhne übersteuert. Bezahlen würden sie jene Lehrabgänger, deren Arbeit einem Betrieb keine 5000 Franken wert ist.*

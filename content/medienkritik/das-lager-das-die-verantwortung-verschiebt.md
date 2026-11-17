@@ -68,6 +68,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *SRF meldet einen russischen Drohnenangriff auf ein ukrainisches Munitionslager mit mindestens 37 Toten — und rahmt den Vorfall als russischen Angriff auf Zivilisten. Erst im Mittelteil kommt die eigene Erklärung: Die Ukraine ermittelt gegen die eigene Armee wegen «dienstlicher Fahrlässigkeit» — Munition dürfe nicht neben Wohnhäusern gelagert werden. Der Beitrag verschweigt die Frage, die sich aufdrängt: Wenn die Ukraine Munition neben Wohnhäusern lagert und Russland diese Munition angreift — wer trägt die Verantwortung für die Toten? Er verschweigt die Kriegsvölkerrechts-Frage: Ist ein Munitionslager ein legitimes militärisches Ziel? Er verschweigt die Schweizer Milliarden, die die Ukraine-Munition finanzieren. Und er verschweigt die ukrainischen Angriffe auf russische Zivilisten, die im letzten Absatz als Fussnote untergehen. Er ist eine Kriegsmeldung, die die Schuldfrage einseitig beantwortet — obwohl der Beitrag selbst die Antwort liefert, die er verschweigt.*

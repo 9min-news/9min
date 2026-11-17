@@ -63,6 +63,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Nach dem Champions-League-Triumph von Paris Saint-Germain brannten in Frankreich die Strassen: rund 900 Festnahmen, 178 verletzte Sicherheitskräfte, geplünderte Geschäfte in einem Dutzend Städten. SRF tut diesmal etwas, das man loben muss — und das in der ersten, knappen Agenturmeldung noch gefehlt hatte: Der Sender fragt nach den Ursachen. Frankreich-Korrespondentin Mirjam Mathis stellt sich genau den Fragen, die zählen: Wer randaliert da? Warum gerade nach einem Sieg? Sind es tiefere gesellschaftliche Probleme? Das ist guter Korrespondentenjournalismus. Und doch endet er an einer Tür, die er nicht ganz aufstösst — an einem geografischen Codewort, das eine ganze Wahrheit verschweigt, indem es sie höflich umschreibt.*

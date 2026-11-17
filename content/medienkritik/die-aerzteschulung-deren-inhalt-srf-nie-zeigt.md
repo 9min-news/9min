@@ -118,6 +118,7 @@ zusammenfassung: >-
   Online-Befragung mit dem Verb «zeigt» überladen und medizinisch notwendige
   Anamnesefragen mit Diskriminierungserleben vermengt.
 kritik_schwere: 3
+muster_id: M012
 ---
 
 *SRF erzählt ein gutes Jahr Vereinsgeschichte, von der Wahl zum Mister Gay Europe bis zur Preisverleihung im Berner Münster, und zeigt an keiner Stelle, was dieser Verein Ärzten und Pflegepersonal beibringen will. Schon die Problemdefinition verschiebt den Massstab: Im Behandlungszimmer könnten «unangenehme Situationen» entstehen, «die Betroffene als Diskriminierung erleben», und bereits «ein bestimmter Blick» könne etwas auslösen. Eine Studie «zeigt» laut SRF, was die eigene Infobox als «nicht repräsentativ» ausweist, und wer den Verein finanziert, bleibt im Ungefähren. Dabei sucht der Protagonist ausdrücklich nach «politischer Unterstützung». Ob daraus öffentliches Geld oder ein Obligatorium wird, betrifft Steuer- und Prämienzahler ebenso wie die Patienten, deren notwendige Anamnese zur Kränkung umgedeutet werden kann.*

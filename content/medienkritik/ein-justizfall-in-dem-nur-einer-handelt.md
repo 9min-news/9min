@@ -114,6 +114,7 @@ zusammenfassung: >-
   2025 Sanktionen gegen diesen Richter verhängt haben. Die Justiz erscheint als
   Kulisse, nie als handelnder Akteur mit eigenem Kontext.
 kritik_schwere: 3
+muster_id: M005
 ---
 
 *SRF stellt im Titel eine Frage: «Flucht in die USA?». Die Korrespondentin beantwortet sie in der Infobox als Tatsache und liefert das Motiv gleich mit: Bolsonaro sei «heute auf der Flucht, aufgrund von Ermittlungen wegen Geldwäsche». Die eigene Zusammenfassung hält dagegen fest: «Offiziell bestätigt ist aktuell nur, dass Bolsonaro mit Frau und Töchtern auf dem Landweg ausgereist ist.» Zwischen diesen beiden Sätzen spannt sich ein Beitrag, der den Ausgereisten ausführlich beschreibt und das Gericht nur als Absender einer Verfügung zeigt. Der Leser erfährt nicht, dass diese Verfügung am Abend des Wahltags erging, dass derselbe Richter das Geldwäsche-Verfahren führt und dass jene US-Regierung, die nun Visa in Aussicht stellt, 2025 Sanktionen gegen ihn verhängt hat.*

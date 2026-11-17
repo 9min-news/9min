@@ -69,6 +69,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Die Pharma steht in den USA unter Preisdruck. Lösung: Die Schweiz soll kompensieren. Roche hat den USA offenbar zugesichert, Medikamente nicht teurer als in Industrieländern wie der Schweiz anzubieten — ein vertraglicher Anreiz, Schweizer Preise hochzuhalten. Bundesrätin Baume-Schneider sagt, die Schweizer sollen nicht für die USA bezahlen. Aber sie weigert sich, die Verträge zu sehen, die zeigen würden, ob sie es bereits tun. Gleichzeitig weicht die FDP von ihrem eigenen Vorschlag einer Pharmaabgabe zurück. BAG-Mitarbeiter sprechen von Erpressung. Die Ministerin nennt es mangelnde Kreativität. Zwei Artikel. Keiner verbindet die Punkte.*

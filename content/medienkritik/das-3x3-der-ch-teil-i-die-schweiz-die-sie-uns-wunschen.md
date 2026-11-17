@@ -77,6 +77,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: 9min.ch
 kritik_schwere: 2
+muster_id: M017
 ---
 
 *Drei Bundesrätinnen. Drei Pfeiler. Drei Trümmerfelder.*

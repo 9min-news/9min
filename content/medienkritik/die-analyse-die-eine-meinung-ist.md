@@ -69,6 +69,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Zum SRF-Beitrag *[«Ein weiterer Rückschlag für Giorgia Meloni und ihre Regierung»](https://www.srf.ch/news/international/migrationspolitik-in-italien-ein-weiterer-rueckschlag-fuer-giorgia-meloni-und-ihre-regierung)* vom 21. April 2026*

@@ -72,6 +72,7 @@ quelle_format: ''
 quelle_sendung: ''
 quelle_redaktion: ''
 kritik_schwere: 2
+muster_id: M004
 ---
 
 Das Dreieck. Sie kennen die Form.

@@ -102,6 +102,7 @@ zusammenfassung: >-
   Ursachen werden als akute Ereignisse ohne Akteur gerahmt, obwohl strukturelle
   Entscheidungen mitwirken.
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *Der Titel stellt Drohung und Gegenmassnahme nebeneinander. Die Infobox nimmt die Drohung gleich wieder zurück: «Am Flughafen Zürich besteht aktuell keine Einschränkung.» Gemeldet wird also eine Massnahme gegen eine Knappheit, die laut der einzigen Branchenstimme noch nicht eingetreten ist. Als Ursache bietet der Beitrag zwei Hauptgründe an, die Schiene aus Deutschland und die Kriege im Nahen Osten und in der Ukraine, und gewichtet keinen. Unerwähnt bleiben der Sanktionskontext zu Russland, die Vorgeschichte des Niedrigwassers und vor allem der Umstand, dass das Kerosin-Pflichtlager schon vor der Öffnung unter der Vorgabe des Bundes lag.*

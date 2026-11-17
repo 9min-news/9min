@@ -71,6 +71,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *Zum SRF-Beitrag *[«Bundesrat will Modell der privaten Unterbringung ausbauen»](https://www.srf.ch/news/dialog/integration-von-fluechtlingen-bundesrat-will-modell-der-privaten-unterbringung-ausbauen)* vom 18. April 2026*

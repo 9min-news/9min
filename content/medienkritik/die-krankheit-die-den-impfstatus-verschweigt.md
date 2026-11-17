@@ -58,6 +58,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF dialog
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *SRF berichtet über Long Covid in der Schweiz und rahmt die Krankheit als mysteriöse, aber rein körperliche Erschöpfung. Hunderttausende seien betroffen, das öffentliche Interesse sei verschwunden. Der Beitrag blendet systematisch aus, welchen Impfstatus die Betroffenen haben, ob die Impfung den Verlauf beeinflusste und warum das BAG seine Informationsseite stilllegte. Er ist eine medizinische Notiz, die die wichtigste epidemiologische Variable ausblendet.*

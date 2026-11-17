@@ -65,6 +65,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *SRF meldet die Lehren der EU-Innenminister aus der Ceuta-Krise und rahmt sie als technisches Kommunikationsproblem. Frühwarnsysteme, Social-Media-Überwachung, ein Dank an Spanien. Was nicht vorkommt: die Frage, warum Marokko die Grenze öffnete. Was nicht vorkommt: die Hunderte Millionen Euro, die die EU für genau diese Grenzsicherung bereits bezahlt hat. Was nicht vorkommt: die 75 Toten als politische Verantwortung. Der Beitrag ist eine Pressemitteilung der EU-Kommission, die eine Erpressung als TikTok-Problem tarnt.*

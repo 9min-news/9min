@@ -4,8 +4,8 @@ date: '2026-05-10'
 status: published
 type: analyse
 series: 'Die Toblerone-Serie'
-seriesIndex: 11
-coverImage: 'https://pbs.twimg.com/media/HH9sjjBXEAUvFEt.jpg'
+seriesIndex: 4
+coverImage: '/images/essays/verschenkte-souveranitat.jpg'
 tweetId: '2053480050125611444'
 categories:
   - Gesellschaft

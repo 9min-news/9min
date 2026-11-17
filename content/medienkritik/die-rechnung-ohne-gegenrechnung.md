@@ -70,6 +70,7 @@ quelle_format: Broadcast
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Der Beitrag meldet eine Zahl: bis zu 16.1 Milliarden Franken pro Jahr, 1300 Franken pro Kopf. Und behandelt sie als Fakt. Dabei ist sie eine Schätzung der eigenen Verwaltung, die über den zu prüfenden Gegenstand Auskunft gibt, mit einer Bandbreite von 5.8 bis 16.1 Milliarden, also einem Faktor fast drei. Was fehlt: jede Gegenrechnung. Was kostet das aktuelle System? Was kosten Asylverfahren, Kriminalität, Sozialhilfe, Integration, die Dinge, die die Initiative begrenzen will? Ein Beitrag, der die Kosten einer Änderung beziffert und die Kosten des Status quo mit keinem Wort nennt, hat nicht gerechnet. Er hat gewählt.*

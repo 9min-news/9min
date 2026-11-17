@@ -77,6 +77,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *SRF sammelt Reaktionen auf den AfD-Sieg in Sachsen-Anhalt — von «Katastrophe» bis «Erfolg». Die Sammlung ist vollständig: Proteste, der Zentralrat der Juden, Tusk, Mélenchon, Salvini, Kickl, Orban, die Türkische Gemeinde, Musk, Trump. Was die Sammlung nicht enthält: eine Analyse. Warum gewann die AfD? Warum stürzte die CDU um fast zwanzig Punkte? Was sagen die Wähler? Die internationale Presse, die SRF nicht zitiert, liefert all das — das Wall Street Journal diagnostiziert «der etablierten Parteien überdrüssige» Wähler, El País schreibt, die Eindämmungsinstrumente der letzten Jahre hätten sich «als nutzlos oder gar kontraproduktiv erwiesen». SRF hat diese Sätze nicht. SRF hat Tweets und Trauerbilder. Eine Reaktionssammlung, die die Frage ersetzt, die sie beantworten müsste.*

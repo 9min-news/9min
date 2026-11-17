@@ -65,6 +65,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M010
 ---
 
 *SRF porträtiert ein südafrikanisches Videospiel über den Raub afrikanischer Kunst aus westlichen Museen. Die Schweizer Relevanz: keine genannte. Dabei wäre sie der eigentliche Stoff. Die Schweiz hat Benin-Bronzen zurückgegeben, das Museum Rietberg retournierte 2022, Genf beherbergt Freihäfen, in denen genau die gehandelte Kunst lagert, gegen die das Spiel ist. Ein Land, das Akteur der Debatte ist, wird als Zuschauer gerahmt. Und der Ursprung des Spiels, den der Beitrag selbst erzählt, ist ein türkisches Grabmal im British Museum: die älteste Restitutionsdebatte Europas ist die griechische, die Forderung nach den Parthenon-Skulpturen, seit zwei Jahrhunderten. Der Beitrag über geraubte Kunst verschweigt die geraubte Kunst, die Europa selbst betrifft.*

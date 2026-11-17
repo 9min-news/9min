@@ -77,6 +77,7 @@ quelle_format: Online-Artikel
 quelle_sendung: Temps présent
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M012
 ---
 
 *Zur SRF-Adaption der RTS-Reportage *[«Sarah: ‹Die Kunden konnten erahnen, dass ich minderjährig bin›»](https://www.srf.ch/news/dialog/kinderprostitution-sarah-die-kunden-konnten-erahnen-dass-ich-minderjaehrig-bin)*, 8. Mai 2026*

@@ -111,6 +111,7 @@ zusammenfassung: >-
   als Verteilungsfrage rahmt und die Regierung als Verbündete der
   Protestierenden statt als Verantwortliche darstellt.
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *Spaniens Regierung unterstützt einen Generalstreik gegen eine Wohnungsnot, die sich unter ihrer Führung verschärft hat, achtzehn Tage vor einer Wahl, die sie selbst angesetzt hat. SRF meldet beides, verbindet es aber nicht. Der Titel übernimmt die Lesart der Gewerkschaften, der Streik «legt Teile des Landes lahm». Dass der Arbeitgeberverband von einer Beteiligung «im einstelligen Prozentbereich» spricht, erfährt erst, wer weiterliest. Die Zahl, die den Konflikt erklärt, 750'000 fehlende Wohnungen, steht in einer Infobox und wird nie mit dem Streit um Mieterschutz in Verbindung gebracht. Für den Schweizer Stimmbürger, der regelmässig über Mietrecht und Wohnbau abstimmt, ist das ein Lehrstück, dem die entscheidende Hälfte fehlt.*

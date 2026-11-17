@@ -66,6 +66,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: NZZ Sport
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Zum NZZ-Kommentar *[«Patrick Fischer hat seine Mannschaft verraten. Die Aufregung um ihn ist scheinheilig, die Entlassung zwingend»](https://www.nzz.ch/sport/patrick-fischer-hat-seine-mannschaft-verraten-die-aufregung-um-ihn-ist-scheinheilig-die-entlassung-zwingend-ld.1934140)* vom 17. April 2026*

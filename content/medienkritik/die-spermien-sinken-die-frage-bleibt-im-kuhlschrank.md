@@ -64,6 +64,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Zum SRF-Beitrag *[«Neuer Anlauf zur Ergründung abnehmender Spermienqualität»](https://www.srf.ch/news/schweiz/spermienkrise-in-der-schweiz-neuer-anlauf-zur-ergruendung-abnehmender-spermienqualitaet)* vom 30. April 2026*

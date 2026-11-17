@@ -61,6 +61,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF dialog
 quelle_redaktion: RTS
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *RTS berichtet über unbegleitete Minderjährige in Ceuta und rahmt sie als emotionale Krise. Kinder allein, Soldaten mit gebrochenem Herzen, Einheimische, die helfen wollen. Was nicht vorkommt: die Frage, warum Kinder allein schwimmen, der rechtliche Anreiz, der Unmündige zur Einreise nutzt. Was nicht vorkommt: die 60'000 jungen Männer, die die Minderjährigen flankieren, und die 72 Toten. Der Beitrag ist eine Empathie-Reportage, die das System hinter der Tragödie verschweigt.*

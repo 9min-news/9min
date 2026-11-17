@@ -72,6 +72,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: NZZ Meinung
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Zum NZZ-Gastkommentar von SRG-Generaldirektorin Susanne Wille *[«Mehr Phantasie für den Medienplatz Schweiz»](https://www.nzz.ch/meinung/mehr-phantasie-fuer-den-medienplatz-schweiz-ld.10005734?utm_campaign=mrf-twitter-NZZ&mrfcid=2026050869fa8480c776e311d55467a9)*, 7. Mai 2026*

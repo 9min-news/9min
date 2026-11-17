@@ -63,6 +63,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: Swissinfo
 kritik_schwere: 2
+muster_id: M002
 ---
 
 *Swissinfo veröffentlicht einen Gastkommentar des Tax Justice Network — und rahmt ihn als Analyse. Zwei Aktivisten einer Advocacy-Organisation erklären die Schweiz zum Sündenbock des globalen Finanzsystems, fordern mehr Informationsaustausch, mehr Transparenz, mehr Steuererhebung — und niemand fragt, ob das System, das sie verteidigen, legitim ist. Dass Steuern keine Gerechtigkeit sind, sondern Extraktion. Dass das FIAT-Geldsystem, das die Plutokratie erzeugt, die eigentliche Ursache der Ungleichheit ist. Dass Kapitalflucht oft Flucht vor ebenjenen Regierungen ist, die nun «Steuerinformationen» fordern. Dass das Bankgeheimnis nicht ein Wettbewerbsvorteil war, sondern ein Schutzmechanismus — historisch gewachsen aus der Erfahrung, dass Staaten ihren Bürgern das Vermögen stehlen. All das kommt nicht vor. Der Beitrag ist eine Pressemitteilung einer NGO, als Meinung deklariert — und als solche unkenntlich.*

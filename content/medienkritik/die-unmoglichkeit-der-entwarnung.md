@@ -58,6 +58,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Wie SRF eine gute Nachricht in eine schlechte verwandelt — und warum das Wegfallen des Katastrophenszenarios nicht nur gefeiert werden sollte, sondern die gesamte Erzählung infrage stellt*

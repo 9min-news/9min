@@ -108,6 +108,7 @@ zusammenfassung: >-
   Die ESTV-Autorität werde für eine unbelegte Verteilungsbehauptung suggeriert,
   und der Unterschied zwischen «beschlossen» und «wirksam» werde verwischt.
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Der erste Satz der SRF-Meldung trägt das Schlüsselwort des Nein-Komitees: Die Initiative sei «überflüssig», die Heiratsstrafe sei durch die Annahme der Individualbesteuerung im März bereits «beseitigt worden». Das steht korrekt im Konjunktiv. Der nächste Satz spricht in eigener Stimme und im Indikativ: «Die Umsetzung bis 2032 läuft bereits.» So wird die These der Gegner zum Rahmen, in dem die Initiative nur noch als Störung einer abgeschlossenen Sache erscheint. Die Zusammenfassung meldet als einzige Zahl die Obergrenze einer Behördenspanne. Was der Beitrag verschweigt: das Anliegen der Initianten, die Vergleichsgrösse der bereits beschlossenen Reform und den Umstand, dass die angeblich beseitigte Strafe nach seinen eigenen Formulierungen weiterbesteht.*

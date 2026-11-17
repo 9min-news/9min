@@ -103,6 +103,7 @@ zusammenfassung: >-
   Pluralität, obwohl beide Gesprächspartner dieselbe Lösung fordern, und SRF
   klammere als gebührenfinanzierter Sender die eigene Flugbilanz aus.
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Die Dachzeile verspricht ein «Philosophisches Streitgespräch», der Titel ein Verbot: «Darf ich wirklich nicht mehr fliegen?» Die Frage nach dem Verbot beantwortet die Moderatorin mit einer Quote: «Alle paar Jahre einen Langstreckenflug buchen». Der Streit endet genau dort, wo er grundsätzlich hätte werden können. Der Praktikant erklärt, für den CO₂-Ausstoss gebe es keine vergleichbaren Gesetze, und das solle sich ändern. Die Moderatorin antwortet: «Auch da bin ich einverstanden.» Unwidersprochen bleibt damit eine Behauptung, die für die Schweiz so nicht stimmt. Dass es ein CO₂-Gesetz und einen Emissionshandel gibt, der die Luftfahrt einschliesst, und dass das Stimmvolk 2021 eine Flugticketabgabe abgelehnt hat, erfährt das Publikum nicht.*

@@ -77,6 +77,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 [Zum SRF-Interview mit Andreas Böhm zum Iran-Krieg, Echo der Zeit, 6. Mai 2026](https://www.srf.ch/news/international/usa-im-dilemma-iran-krieg-es-gibt-nur-drei-schlechte-loesungen)

@@ -80,6 +80,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 Schauen wir, was SRF heute, am 3. Mai 2026, an Schweizer Gebührenzahler liefert.

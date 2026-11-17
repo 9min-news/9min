@@ -108,6 +108,7 @@ zusammenfassung: >-
   stecken, und die Auswahl der Stimmen erzeugt eine vorgetäuschte Uneinigkeit.
   So entsteht ein Bild gestörter Ordnung statt herausgeforderter Macht.
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *«Albanien kommt nicht zur Ruhe»: Mit diesem Satz beginnt der Beitrag und setzt die Ruhe als Normalzustand, den Protest als Störung. Die Titelfrage «wie weiter mit den Protesten?» richtet sich an die Bewegung, nicht an die Regierung, gegen die sie demonstriert. Die einzige präzise Zahl im Beitrag ist eine Gewaltbilanz, die nur eine Seite kennt: «fast 100 Polizisten verletzt und mehr als 100 mutmassliche Randalierer festgenommen». Der Beitrag verschweigt, wer hinter dem Luxusresort auf Sazan steht. Die Forderungen der Studenten erscheinen nur als Schlagworte, und von den zwei Männern, die das Land laut Infobox seit Jahrzehnten dominieren, erhält nur einer einen Namen.*

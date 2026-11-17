@@ -100,6 +100,7 @@ zusammenfassung: >-
   umgedeutet, dessen Abhilfe auf globale Klimapolitik verschoben wird. Die
   Kritik gilt der Gewichtung, nicht der Physik der Erwärmung.
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *1869 wurde zwischen dem Roten Meer und dem Mittelmeer ein Kanal eröffnet. Seither sind über 400 Arten hindurchgewandert, so regelmässig, dass die Biologie dem Vorgang einen Namen gab: Lessepssche Migration, nach dem Kanalbauer Ferdinand de Lesseps. SRF erzählt diese Wanderung unter der Dachzeile «Hotspot des Klimawandels» und dem Titel «Das wärmere Mittelmeer lockt tropische Fische an», obwohl der eigene Experte im Beitrag sagt, die neuen Arten kämen «vor allem durch den Suezkanal». Eine zweite menschengemachte Ursache der leeren Felsen verschweigt der Beitrag ganz: die Fischerei. Für den Bürger ist das keine Fachfrage. Wer eine Ursache mit Absender unter eine Ursache ohne Absender bucht, schickt die Rechnung an die falsche Adresse: an alle, über Klimapolitik, statt an jene, die über einen Kanal, eine Schiffsroute oder eine Fangmenge entscheiden.*

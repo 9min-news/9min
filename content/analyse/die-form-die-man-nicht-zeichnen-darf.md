@@ -3,8 +3,9 @@ title: 'Die Form, die man nicht zeichnen darf'
 date: '2026-05-15'
 status: published
 type: analyse
-seriesIndex: 4
-coverImage: 'https://pbs.twimg.com/media/HIW07iKWIAAF3WW.jpg'
+series: 'Einzelstücke'
+seriesIndex: 3
+coverImage: '/images/essays/die-form-die-man-nicht-zeichnen-darf.jpg'
 tweetId: '2055248760406471115'
 categories:
   - Zensur/Meinungsfreiheit

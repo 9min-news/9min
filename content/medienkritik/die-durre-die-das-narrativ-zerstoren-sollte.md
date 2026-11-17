@@ -60,6 +60,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M006
 ---
 
 *SRF interviewt einen Klimahistoriker über die Dürre von 1540 — und benutzt sie als Beweis für den menschengemachten Klimawandel. «Ich befürchte, dass wir 2026 einen analogen Fall zu 1540 haben», sagt Christian Pfister — und SRF rahmt das als Warnung vor dem Klimawandel. Was nicht vorkommt: die Frage, die sich aufdrängt. 1540 war eine elfmonatige Dürre, die von Atlantik bis Polen reichte, 40 Grad erreichte, Flüsse versiegen liess und Wälder verbrannte — ohne eine einzige Fabrik, ohne ein einziges Auto, ohne einen einzigen KKW-Ausstoss. Wenn die extremste Dürre der letzten 500 Jahre natürlichen Ursprungs war — woraus folgt dann, dass eine ähnliche Dürre heute menschengemacht ist? Die Frage wird nicht gestellt. Der Beitrag ist ein Interview, das sein eigenes Gegenargument liefert — und es nicht bemerkt.*

@@ -105,6 +105,7 @@ zusammenfassung: >-
   Bundesratsschätzung als Tatsache. Der Titel rahme die antragstellende
   Bundesrätin als Opfer, obwohl keine persönliche Attacke belegt sei.
 kritik_schwere: 3
+muster_id: M011
 ---
 
 *Selbst wenn die Stimmbürger Ja sagen, ist die 13. AHV-Rente nach Angaben des Bundes nur zur Hälfte finanziert. Die SRF-Arena nennt diese Zahl im vierten Satz ihrer Online-Zusammenfassung und fragt danach niemanden mehr, wer die andere Hälfte trägt. Stattdessen titelt sie mit der Lage der Bundesrätin, die «unter Dauerbeschuss» stehe. Das Wort Mehrwertsteuer, um die es an der Urne geht, schafft es nicht in die Schlagzeile, und wie stark die Steuer steigen soll, steht nirgends im Text. Der Stimmbürger soll über eine Steuererhöhung entscheiden, deren Satz er nicht kennt, für eine Leistung, deren zweite Hälfte später jemand bezahlt, der heute nicht gefragt wird.*

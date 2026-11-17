@@ -68,6 +68,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: EJPD
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *Wie das EJPD die berufliche Integration von Geflüchteten als Erfolgsstory verkauft, die Frage nach der Arbeitsmarktfähigkeit verschweigt, den Unterschied zwischen einem Ingenieur und einem Analphabeten einebnet, die «Extrameile» der Unternehmen als moralische Pflicht rahmt und nicht fragt, ob ein Lastwagenfahrer-Ausweis das Problem löst – oder nur das Symptom behandelt*

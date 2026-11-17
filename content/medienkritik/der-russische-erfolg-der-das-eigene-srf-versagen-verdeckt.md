@@ -63,6 +63,7 @@ quelle_format: Broadcast
 quelle_sendung: Rendez-vous
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *SRF interviewt einen Experten für russische Desinformation und rahmt diese als allmächtigen, erfolgreichen Angriff auf den Westen. Moskaus Propagandamaschine spalte Gesellschaften, befördere Populismus und beeinflusse Wahlergebnisse. Was nicht vorkommt: die Frage, warum westliche Bürger für diese Propaganda empfänglich sind. Was nicht vorkommt: die Fehlleistungen westlicher Medien und Regierungen, die der Experte selbst als Auslöser nennt. Was nicht vorkommt: der Verlust von Vertrauen in westliche Institutionen als eigenständiges Problem. Der Beitrag ist eine Warnung vor fremder Manipulation, die die eigene Verantwortung ausblendet.*

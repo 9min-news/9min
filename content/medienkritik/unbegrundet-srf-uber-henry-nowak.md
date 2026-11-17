@@ -70,6 +70,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Dieser SRF-Beitrag behandelt endlich den Fall Henry Nowak — jenen Fall, der monatelang gar nicht stattfand. Doch die Art, wie er nun stattfindet, ist aufschlussreicher als das Schweigen davor. Der Beitrag erzählt die Geschichte des in Handschellen verblutenden Studenten nicht als das, was sie für die Empörten ist — ein Justizskandal —, sondern primär als Problem: als Gefahr für Labour, als Steilvorlage für Farage, als Anlass zur Widerlegung eines «unbegründeten» Vorwurfs. Das Opfer wird zum Nebenschauplatz, die politische Schadensbegrenzung zur Hauptsache. Sehen wir genau hin.*

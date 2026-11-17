@@ -65,6 +65,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *SRF meldet ein Treffen zwischen Justizminister Jans und dem deutschen Innenminister Dobrindt in Chiasso — und rahmt es als Fortschritt der Sicherheit. «Kriminalität kennt keine Grenzen.» Ein gemeinsames Polizei- und Zollzentrum als Vorbild für die deutsch-schweizerische Grenze. Der Beitrag verschweigt die Souveränitätsfrage: Was bedeutet ein Zentrum, in dem deutsche Behörden auf Schweizer Boden operieren — oder umgekehrt? Er verschweigt die Geschichte: Vor anderthalb Jahren drohte Deutschland mit Grenzkontrollen an der Schweizer Grenze, Jans drohte mit Gegenmassnahmen. Er verschweigt die Ironie: Dobrindt ist der Innenminister, der Schengen mit Spanien aussetzte — und nun ein grenzüberschreitendes Zentrum als Modell besichtigt. Und er verschweigt die Kosten, die Rechtsgrundlage und die Frage, ob eine Schweiz, die ihre Grenzen mit Deutschland verwaltet, noch allein über ihre Grenzen bestimmt. Er ist eine Diplomatie-Meldung, die eine Souveränitätsabgabe als Sicherheitsgewinn verkauft.*

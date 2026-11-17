@@ -70,6 +70,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *Zur SRF-Berichterstattung *[«US-Teilabzug aus Deutschland — das steckt dahinter»](https://www.srf.ch/news/international/usa/anordnung-der-us-regierung-us-teilabzug-aus-deutschland-das-steckt-dahinter)*, 2. Mai 2026*

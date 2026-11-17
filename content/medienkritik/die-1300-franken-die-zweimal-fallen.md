@@ -71,6 +71,7 @@ quelle_format: Broadcast
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M005
 ---
 
 *Am 18. September veröffentlicht der Bundesrat den Schengen-Bericht: bis 3,9 Prozent BIP-Verlust, «der jährliche Einkommensverlust könnte sich auf bis zu 1300 Franken pro Kopf belaufen». Am selben Tag sendet SRF die Botschaft zur Grenzschutzinitiative: 5,8 bis 16,1 Milliarden jährlich, «Der jährliche Einkommensverlust würde sich demnach auf bis zu 1300 Franken pro Kopf belaufen.» Dieselbe Zahl, derselbe Tag, zwei Institutionen, die voneinander unabhängig sein sollten: die Regierung, die das Argument bestellt, und der öffentliche Sender, der es ausliefert. Der Bericht stammt von Ecoplan und aktualisiert die Ecoplan-Studie von 2017: Der Prüfer fortschreibt die eigene frühere Arbeit. Der Konterfakt unterstellt totale Unkooperation aller Nachbarn, obwohl dieselben Nachbarn die Kontrollen, deren Folgen da beziffert werden, bereits praktizieren. Und wer am Abend das Gegenteil behaupten will, hat keinen Sender mit 1,5 Milliarden Budget und verpflichtender Neutralität. Er hat nichts.*

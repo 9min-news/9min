@@ -71,6 +71,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M011
 ---
 
 *Der Titel fragt: «Tritt Merz zurück?» Die Struktur antwortet, bevor der Text beginnt. Vier Szenarien, jede mit einer Wahrscheinlichkeit, geliefert vom eigenen Auslandredaktor: Rücktritt eher gering, Vertrauensfrage eher gering, Misstrauensvotum sehr unwahrscheinlich, Fortsetzung eher hoch. Drei von vier Wegen geschlossen, einer offen. Die Frage ist die Schlagzeile, die Antwort ist die Architektur. Wer den Beitrag hört, weiss vor dem letzten Satz, dass Merz bleibt, denn der Beitrag hat es ihm vorausgesagt, mit der Autorität eines Prognostikers, der keine Methode nennt. Und der Sieger des Abends bekommt kein einziges Szenario. Vier Zukünfte für die Partei, die abgestürzt ist, keine einzige für die Partei, die zwei Länder gewonnen hat.*

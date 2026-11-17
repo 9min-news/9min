@@ -74,6 +74,7 @@ quelle_format: ''
 quelle_sendung: ''
 quelle_redaktion: ''
 kritik_schwere: 3
+muster_id: M004
 ---
 
 Der F-35-Bericht dokumentiert vermutlich das grösste Beschaffungsdesaster der Schweizer Geschichte. Kein Fixpreis, obwohl die Öffentlichkeit einen gekauft glaubte. Eine Verteidigungsministerin, die die Verträge nicht las. Eine Finanzkontrolle, die früh warnte — und von der Ministerin angezweifelt wurde, statt dass man nachverhandelte. Acht Monate, in denen drohende Mehrkosten verschwiegen wurden, bis nach der Rücktrittsankündigung. Die Konsequenz: Archivierungsregeln.

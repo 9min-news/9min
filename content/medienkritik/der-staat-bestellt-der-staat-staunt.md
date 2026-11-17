@@ -108,6 +108,7 @@ zusammenfassung: >-
   Jahren oder Auftraggebertypen lägen in den Daten, würden aber nicht
   ausgewertet.
 kritik_schwere: 2
+muster_id: M005
 ---
 
 *Die Experten im Beitrag sprechen im Konjunktiv. «Es sieht aus, als verletze die Firma systematisch das Arbeitsgesetz», sagt Denis G. Humbert, und bei Kurt Pärli «entsteht der Eindruck», das Betriebskonzept sei darauf angelegt. Der Titel macht daraus einen Indikativ im Präsens: «So systematisch beutet Securitas ihre Mitarbeitenden aus». Das Wort Ausbeutung fällt erst im letzten Expertenzitat. Getragen wird das Urteil von der Zahl «über 20'000 Verstösse», die die eigene Infobox relativiert, und von einer Rollenverteilung mit einem Täter und einem Retter. Mehrere Befunde stehen im Material oder liessen sich daraus gewinnen, erscheinen aber weder im Titel noch in der Analyse: Über ein Drittel der Verstösse fiel bei Einsätzen für die öffentliche Hand an, dieselbe öffentliche Hand ist Auftraggeber und Aufsicht, und die Daten könnten den behaupteten Rückgang prüfen.*

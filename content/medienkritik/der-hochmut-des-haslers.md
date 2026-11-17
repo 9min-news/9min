@@ -74,6 +74,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: NZZ Meinung
 kritik_schwere: 3
+muster_id: M016
 ---
 
 *Wie die NZZ-Kommentarspalte Georg Häslers Predigt demoliert, den Hochmutsvorwurf gegen den Autor kehrt, die Lüge von den 8'000 Zuwanderern dokumentiert, das BIP-pro-Kopf-Argument ins Zentrum rückt und beweist, dass die Leser differenzierter denken als der Kommentator – und dass ein Text, der das Volk auf der Frontseite der NZZ belehren will, genau das Gegenteil bewirkt*

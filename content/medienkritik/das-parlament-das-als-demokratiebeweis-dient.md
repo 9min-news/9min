@@ -67,6 +67,7 @@ quelle_format: Broadcast
 quelle_sendung: Tagesgespräch
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *SRF lässt einen langjährigen Korrespondenten durch Brüssel spazieren und rahmt die EU als lebendiges, demokratisches und flexibles Projekt. Die Kommission sei eine Verhandlungsmaschine, das Parlament werde unterschätzt, die Schweiz sei eine respektierte Aussenseiterin. Was nicht vorkommt: das Demokratiedefizit der EU. Was nicht vorkommt: die Starrheit der EU gegenüber der Schweiz. Was nicht vorkommt: die Frage, ob das EU-Parlament tatsächlich Gesetze macht oder nur abnickt. Der Beitrag ist ein nostalgisches Porträt, das die Machtstrukturen Brüssels verklärt.*

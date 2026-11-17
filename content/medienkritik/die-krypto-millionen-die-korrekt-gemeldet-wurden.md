@@ -72,6 +72,7 @@ quelle_format: Broadcast
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Dieser SRF-Beitrag über Trumps Krypto-Einnahmen ist ein Lehrstück in Bestätigungs-Journalismus: Die Fakten stimmen — aber das Framing ist von Anfang an festgelegt. Trump hat 1,4 Milliarden Dollar mit Krypto verdient. Das ist korrekt. Aber SRF rahmt es als Korruption, als Interessenskonflikt, als «Geld scheffeln» — ohne dass eine einzige Gegenperspektive zugelassen wird. Und SRF zitiert Elizabeth Warren als moralische Instanz — eine Senatorin, die selbst ein Vermögen im zweistelligen Millionenbereich angehäuft hat, deren Reichtum aus genau dem System stammt, das sie öffentlich bekämpft. Die zentrale Frage — ob es legal ist, ob andere Politiker dasselbe tun, ob die Offenlegung selbst ein Akt der Transparenz ist — wird nicht gestellt. Das Framing steht fest: Trump = korrupt, Krypto = Betrug, Amerika = desillusioniert. Wer wissen will, ob das juristisch und politisch korrekt ist, bekommt keine Antwort — weil die Fragen nicht gestellt wurden.*

@@ -96,6 +96,7 @@ zusammenfassung: >-
   wird als repräsentativ für eine Generation gerahmt, obwohl sie selbstselektiv
   ist.
 kritik_schwere: 3
+muster_id: M008
 ---
 
 *In der Analyse, auf die sich SRF stützt, beginnt das KI-Zeitalter mit dem Jahr 2023: einen Monat nach der Lancierung von ChatGPT und ein halbes Jahr nach der ersten Zinserhöhung der Nationalbank seit 15 Jahren. Alles, was den Schweizer Stellenmarkt danach bewegt hat, zählt damit automatisch zur «Post-KI-Phase». Der Beitrag übernimmt diese Trennlinie und setzt die Dachzeile «Jobkiller KI» darüber. Im Text räumt er dann ein, ob KI «alleine für den Rückgang verantwortlich ist», lasse sich «nicht eindeutig sagen». Eine andere Ursache nennt er an keiner Stelle. Junge Menschen wählen nach dieser Diagnose ihr Studium, Stimmbürger beurteilen nach ihr KI-Regulierung oder Ausbildungsprogramme. Wer dabei die falsche Ursache bekämpft, bezahlt zweimal.*

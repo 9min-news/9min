@@ -67,6 +67,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M006
 ---
 
 *Dieser SRF-Beitrag über den Bombenanschlag in Monaco ist ein Lehrstück in kriminalistischer Stenografie: Ein Sprengsatz explodiert vor einem Wohnhaus, drei Menschen werden verletzt, eine Verdächtige wird gesucht — und SRF meldet es wie einen Routinefall von Sachbeschädigung. Die zentralen Fragen werden nicht gestellt: Wer ist das Opfer wirklich? Wer ist die Täterin wirklich? Und: Was bedeutet es, wenn eine ukrainische «Kriegsflüchtige» aus Deutschland einen ukrainischen Oligarchen in Monaco bombardiert — im Jahr 2026, mitten in einem Krieg? Der Beitrag klingt wie Kriminalberichterstattung, aber er ist keine — denn Kriminalberichterstattung fragt nach Motiv, Kontext und Bedeutung, und dieser Beitrag fragt nach nichts.*

@@ -69,6 +69,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Dieser SRF-Beitrag über die britische Asylpolitik-Verschärfung ist ein Lehrstück in politischer Stenografie: Eine Regierung kündigt eine Massnahme an, SRF notiert sie — ohne die zentrale Frage zu stellen: Wie viel kostet ein Asylverfahren in Grossbritannien tatsächlich, und welchen Bruchteil decken 10'000 Pfund? Die Antwort lautet: einen winzigen. Die britischen Asylkosten pro Person liegen bei zigtausend Pfund — 10'000 Pfund sind ein Tropfen auf den heissen Stein. Das heisst: Die Massnahme ist keine Kostenrückgewinnung, sie ist eine symbolische Strafsteuer auf Asyl. Aber SRF stellt diese Frage nicht — und damit verfehlt der Beitrag den Kern der Story. Schlimmer noch: SRF übernimmt das Framing «nur 10 Prozent sind Asylsuchende» — als ob Asylsuchende nicht disproportional kostspielig wären. Und SRF verschweigt, was jeder weiss: dass abgewiesene Asylsuchende Grossbritannien nicht verlassen — genau wie in der Schweiz.*

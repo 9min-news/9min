@@ -114,6 +114,7 @@ zusammenfassung: >-
   identifiziert das Muster der 'beglaubigten Anekdote', bei dem die Redaktion
   Einzelstimmen mit eigener Autorität zu Befunden erhebt.
 kritik_schwere: 2
+muster_id: M004
 ---
 
 *Den Schlüsselsatz dieses Beitrags spricht keine Protagonistin, sondern die Redaktion. Eine Marktverkäuferin in Haifa sagt, die arabischen Israeli sähen, «wie alles schlecht wurde für uns». SRF beglaubigt: «Soha formuliert kein diffuses Gefühl.» Wenige Absätze später wird aus zwei Frauen eine ganze Wählergruppe: «Das Ziel arabischer Wählerinnen und Wähler ist, die Regierung Netanjahu abzuwählen.» Die konservative Partei Raam, die einzige arabische Partei, die je einer israelischen Regierung angehörte, erscheint nur in einer Bildlegende. Die Minister, denen Vertreibungsabsichten zugeschrieben werden, bleiben ohne Namen und Wortlaut. Und den «Ausweg aus diesem Patt», den die Infobox den arabischen Parteien zuschreibt, prüft der Beitrag nie auf seine Begehbarkeit.*

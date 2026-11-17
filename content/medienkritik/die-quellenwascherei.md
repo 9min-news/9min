@@ -65,6 +65,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Zur *[SRF-Analyse von Calum MacKenzie über die Moskauer Militärparade](https://www.srf.ch/news/international/militaerparade-in-moskau-putin-vernachlaessigt-seine-rolle-als-schiedsrichter)* vom 9. Mai 2026*

@@ -61,6 +61,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Wie SRF eine Reform als Kompromiss verkauft, die den Bauarbeiter bestraft und den Finanzberater belohnt — und das eigentliche Problem, die 13. Rente, als Damoklesschwert deklariert, statt als Ursache zu benennen*

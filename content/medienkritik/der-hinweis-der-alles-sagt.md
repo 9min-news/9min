@@ -61,6 +61,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *SRF meldet einen Höchststand bei Kindesmisshandlungen — 14,2 Prozent mehr Fälle, 2380 Opfer, ein toter Säugling. Der Beitrag referiert die Statistik der Kinderkliniken, nennt die Kategorien, zitiert die Pädiatriegesellschaft. Und dann, am Ende, ein Kasten mit einem einzigen Satz: «In der Kinderschutz-Statistik wurden die Nationalitäten der betroffenen Familien sowie der Täterinnen und Täter nicht erfasst.» Dieser Satz ist der bemerkenswerteste des Beitrags — denn er beantwortet eine Frage, die der Beitrag nie stellt, und dokumentiert eine Lücke, die niemand begründet.*

@@ -105,6 +105,7 @@ zusammenfassung: >-
   von SNB-Gewinnen profitieren. Der redaktionelle Kommentar schliesst zudem eine
   Debatte, die der Beitrag selbst als offen ausweist.
 kritik_schwere: 3
+muster_id: M007
 ---
 
 *SRF stellt in der Zusammenfassung zwei Sätze nebeneinander: Die Schweiz habe mit null Prozent «den weltweit niedrigsten Leitzins», und die Inflation sei «im Vergleich zu anderen Volkswirtschaften sehr gering». Der Nullzins erscheint so als logische Folge der tiefen Teuerung, und der Text liefert das Bindeglied gleich mit: Die Geldpolitik sei «daher angemessen». Dieses «daher» ruht auf SNB-Prognosen bis 2029. Der Massstab stammt laut Beitrag aus der «Definition der SNB», und das abschliessende Urteil spricht der Leiter der eigenen Wirtschaftsredaktion. Unerwähnt bleiben die Trefferquote solcher Prognosen, die Sparer, die den Nullzins tragen, und die öffentlichen Haushalte, die an den Ergebnissen der Notenbank beteiligt sind.*

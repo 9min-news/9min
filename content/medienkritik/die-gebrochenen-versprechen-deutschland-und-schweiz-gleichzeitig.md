@@ -74,6 +74,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: ''
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Im *[Mai 2002 warnte das CDU/CSU-Wahlprogramm](http://www.documentarchiv.de/brd/2002/wahlprogramm_cdu_2002.html)*, verstärkte Zuwanderung würde «den inneren Frieden gefährden und radikalen Kräften Vorschub leisten». Parteivorsitzende war Angela Merkel. Im selben Monat, am Tag, an dem dieses Programm zirkulierte, trat in der Schweiz das Freizügigkeitsabkommen mit der EU in Kraft — verkauft mit dem Versprechen, die Zuwanderung werde sich «selbst regulieren» und moderat bleiben. Beide Versprechen wurden gebrochen. Merkel sagte 2015 «Wir schaffen das». Die Schweiz stimmte 2014 für Kontingente und setzte sie nie um. Heute steht das Land vor der Abstimmung über die «10-Millionen-Schweiz» — und sie ist nichts anderes als die Quittung für zwei Jahrzehnte uneingelöster Zusagen. Wer sie verstehen will, muss die ganze Kette der Wortbrüche kennen.*

@@ -82,6 +82,7 @@ quelle_format: Broadcast
 quelle_sendung: Forum / Rendez-vous
 quelle_redaktion: SRF Radio / SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Zur SRF-Berichterstattung über die Mobilitätsbon-Initiative: *[«Klimaschutz statt Reiselust»](https://www.srf.ch/radio-srf-1/mobilitaetsbon-initiative-klimaschutz-statt-reiselust-debatte-um-flugticketabgabe-lanciert)* (Forum, 16. April 2026) und *[«Flugticket-Abgabe ja oder nein? Auf die Umfrage kommt es an!»](https://www.srf.ch/news/schweiz/soll-fliegen-teurer-werden-flugticket-abgabe-ja-oder-nein-auf-die-umfrage-kommt-es-an)* (Rendez-vous, 4. Mai 2026)*

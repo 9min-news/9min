@@ -67,6 +67,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: Wirtschaft
 kritik_schwere: 2
+muster_id: M003
 ---
 
 *Zum NZZ-Artikel *[«10-Millionen-Initiative: Die Schweiz dürfte bis 2050 noch um 35 000 Personen pro Jahr wachsen — und danach gar nicht mehr»](https://www.nzz.ch/schweiz/schweiz-eu/10-millionen-initiative-die-schweiz-duerfte-bis-2050-noch-um-35-000-personen-pro-jahr-wachsen-und-danach-gar-nicht-mehr-ld.10006081)*, 11. Mai 2026*

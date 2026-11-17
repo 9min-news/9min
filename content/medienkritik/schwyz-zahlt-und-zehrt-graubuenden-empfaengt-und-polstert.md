@@ -100,6 +100,7 @@ zusammenfassung: >-
   nicht-nachhaltigen Lösungen wird asymmetrisch nur bei Graubünden, nicht bei
   Schwyz angewendet.
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *Schwyz überweist 2026 rund 262 Millionen Franken in den Finanzausgleich, Zug rund 467 Millionen, und Graubünden steht auf der Empfängerseite. Ein Beitrag, der im Titel erklären will, «warum einige Kantone sparen müssen – und andere überhaupt nicht», vergleicht genau diese drei Kantone und erwähnt den Finanzausgleich mit keinem Wort. Seine einzige Antwort lautet: «Das hat einen einfachen Grund: die Bewertung des Vermögens.» Die Bildlegende macht aus dieser Neubewertung Erspartes, Geld «auf der hohen Kante». Der Bündner Stimmbürger erfährt nicht, wie viel seines Polsters Geld ist und wie viel Buchwert, der Schwyzer und Zuger Steuerzahler nicht, dass er über den Ausgleich mitzahlt.*

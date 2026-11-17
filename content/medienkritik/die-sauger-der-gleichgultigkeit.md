@@ -71,6 +71,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M007
 ---
 
 *Wie SRF eine Maschine feiert, die mehr CO₂ ausstösst als sie einfängt – und nicht einmal die einfachsten Fragen stellt*

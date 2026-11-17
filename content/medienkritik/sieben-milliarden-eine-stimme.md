@@ -124,6 +124,7 @@ zusammenfassung: >-
   den der Beitrag nennt, aber nicht in der Gewichtung der Urteile
   berücksichtigt.
 kritik_schwere: 3
+muster_id: M007
 ---
 
 *Der Vorspann stellt die richtige Frage: «Nur: Klappt das Vorhaben?» Das Interview beantwortet sie nicht. Schon mit der zweiten Frage ersetzt es sie durch eine andere: «Kommt man davon jetzt weg?», gemeint sind die Anbieter aus den USA. Aus Umsetzung, Kosten und Risiko wird Herkunft. Die strukturierende Zahl, «für insgesamt 7 Milliarden Franken», wird als «Mega-Betrag» eingeführt, mit einer Prognose für gerechtfertigt erklärt und danach nicht mehr angefasst. Was der Beitrag verschweigt: Die Eidgenössische Finanzkontrolle bezeichnete die Wirtschaftlichkeit des Projekts Ende 2025 als noch nicht nachgewiesen. 2021 erhielt auch ein chinesischer Anbieter einen Cloud-Zuschlag des Bundes. Und der einzige Gesprächspartner präsidiert einen Verein zur Förderung von Open Source.*

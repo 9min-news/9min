@@ -64,6 +64,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF Zytlupe
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *SRF veröffentlicht am 1. August eine satirische Kolumne, die die Schweizer Gründungsgeschichte als «Rütlischwurbel» und Lüge bezeichnet. Tell und Winkelried seien Fiktionen, wahre Grösse liege im Multikulturalismus der Fussball-Nati. Die Fragen: Warum dekonstruiert ein öffentlich-rechtlicher Sender am Nationalfeiertag die nationale Identität? Was ist die Funktion des Gründungsmythos. Was soll diese Spaltung, die dem Autor unterläuft? Der Beitrag ist eine Satire, die das Fundament des Landes verhöhnt, das sie finanziert.*

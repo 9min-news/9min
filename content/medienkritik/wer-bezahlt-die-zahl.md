@@ -65,6 +65,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M003
 ---
 
 *Auf den ersten Blick ist dies eine trockene sozialversicherungsrechtliche Meldung: Der Ständerat lehnt es ab, ausländische Häftlinge ohne Schweizer Wohnsitz zur Krankenkasse zu verpflichten. Bürokratie, Prämien, Zuständigkeiten. Doch mitten im Text steht, beiläufig hingeworfen, eine Zahl, die alles andere überstrahlt und die der Bericht so behandelt, als wäre sie eine technische Nebensächlichkeit: Ein Drittel der Gefängnisinsassen in der Schweiz — rund 2300 Personen — hat keinen festen Wohnsitz im Land. Die ganze Debatte dreht sich darum, wer ihre Arztrechnung bezahlt. Die viel grössere Frage, warum ein Drittel der Schweizer Gefängnisplätze von Menschen belegt wird, die gar nicht hier leben, stellt niemand. Nicht der Ständerat, nicht der Bundesrat, und nicht SRF.*

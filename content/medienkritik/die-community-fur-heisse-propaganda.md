@@ -63,6 +63,7 @@ quelle_format: Online-Artikel
 quelle_sendung: dialog
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *SRF berichtet über Hitzefrei — und rahmt es als Community-Debatte. «Zwei Drittel der dialog-Community wünschen sich hitzefrei», lautet der Befund. Was nicht vorkommt: dass die «dialog»-Community eine selbstselektierte Gruppe ist, die sich auf der SRF-Plattform registriert hat — keine repräsentative Stichprobe, keine Bevölkerung, kein Volk. Was nicht vorkommt: eine einzige Stimme aus der Wirtschaft — kein Arbeitgeberverband, kein KMU, kein Ökonom, niemand, der rechnet, was Hitzefrei kostet. Was nicht vorkommt: die Frage, ob SRF hier über eine Debatte berichtet — oder eine Debatte inszeniert, indem es die eigenen User als Quelle zitiert. Der Beitrag ist Advocacy mit Community-Format — und die Community ist das Deckmäntelchen.*

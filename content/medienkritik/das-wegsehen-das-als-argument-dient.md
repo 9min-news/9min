@@ -61,6 +61,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *SRF interviewt den UNO-Hochkommissar für Flüchtlinge Barham Salih und rahmt ihn als moralische Autorität. Die UNHCR-Krise sei eine Krise der Geber, nicht der Institution. Was nicht vorkommt: die Frage, ob das UNHCR selbst versagt. Was nicht vorkommt: Salih ist ein ehemaliger Präsident des Irak, ein Politiker, kein Humanist. Was nicht vorkommt: Kritik an UN-Institutionen, die seit Jahren dokumentiert ist. Was nicht vorkommt: die Schweizer Beiträge. Der Beitrag ist ein Interview ohne journalistischen Instinkt.*

@@ -84,6 +84,7 @@ quelle_format: ''
 quelle_sendung: ''
 quelle_redaktion: ''
 kritik_schwere: 3
+muster_id: M017
 ---
 
 ## Der gläserne Tresor

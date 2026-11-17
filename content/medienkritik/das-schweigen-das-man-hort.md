@@ -71,6 +71,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF Wissen
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *Zur SRF-Berichterstattung *[«Covid-Impfung: Das zermürbende Schweigen um die Nebenwirkungen» ](https://www.srf.ch/wissen/gesundheit/impfstoffvertraege-des-bag-covid-impfung-das-zermuerbende-schweigen-um-die-nebenwirkungen)*von Irène Dietschi, SRF 4 News, 4. Mai 2026*

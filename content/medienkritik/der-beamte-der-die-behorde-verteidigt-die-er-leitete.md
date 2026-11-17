@@ -68,6 +68,7 @@ quelle_format: Broadcast
 quelle_sendung: SRF 4 News aktuell
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M005
 ---
 
 *SRF befragt einen ehemaligen Verfassungsschutzchef, ob man der AfD heikle Daten vorenthalten soll — und der Ex-Chef sagt: ja, natürlich. Die Quellen, die V-Leute, die Russland-Netzwerke. Was der Beitrag verschweigt: Der Mann, den er fragt, leitete genau die Behörde, deren Kompetenzen er verteidigt. Und der prominenteste ehemalige Verfassungsschutzpräsident Deutschlands — Hans-Georg Maaßen, der das Bundesamt von 2012 bis 2018 leitete, also die oberste Instanz, nicht ein Landesamt — vertritt das exakte Gegenteil: Die Beobachtung der AfD sei politisch motiviert, der Verfassungsschutz werde als Instrument gegen eine demokratisch gewählte Partei eingesetzt. Ein Interview, das einen Ex-Beamten nach der Rechtfertigung seiner eigenen Institution befragt und den ranghöheren Ex-Beamten mit der Gegenposition nicht einmal erwähnt, hat nicht ausgewählt — es hat entschieden.*

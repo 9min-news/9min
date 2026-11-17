@@ -73,6 +73,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF Panorama
 kritik_schwere: 3
+muster_id: M017
 ---
 
 Der SRF-Folgeartikel heisst: «Nach Fall Fischer: Wenn Transparenz im Sport fehlt.»

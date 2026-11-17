@@ -64,6 +64,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Wie SRF eine Anerkennungsquote von 1,3 Prozent als «härteren Asylkurs» rahmt, die Trivialität der Asylgründe verschleiert, die Kosten der Verfahren ausblendet, die Rückführungszahlen ohne Kontext zitiert und nicht fragt, warum Menschen ein Gesuch stellen, das zu 98,7 Prozent abgelehnt wird – und wer das bezahlt*

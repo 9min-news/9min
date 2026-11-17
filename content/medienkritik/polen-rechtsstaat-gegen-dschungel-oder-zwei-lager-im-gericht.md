@@ -113,6 +113,7 @@ zusammenfassung: >-
   zwischen Aktiv und Passiv erzeuge eine einseitige Darstellung, die den
   Gebührenzahler an der eigenen Urteilsbildung hindere.
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Für den Rempler gibt es ein Video: Polens Präsident Karol Nawrocki, ehemaliger Amateurboxer, drängt sich nachts ins Verfassungsgericht und drückt eine Richterin nach unten. Für die Absetzung des Gerichtspräsidenten, die dem vorausging, gibt es bei SRF nur einen Satz über eine Webseite, im Passiv und ohne Absender. Dass eine Richterin, die der Präsident nie vereidigt hat, diese Absetzung selbst verfügte und sich selbst an die Spitze setzte, erfährt der Leser nicht. Den Rahmen liefert stattdessen Tusks Formel vom Rechtsstaat gegen den Dschungel, die SRF in den Titel hebt. Der Gebührenzahler erhält so einen Kampf zweier Lager um das höchste Gericht als Kampf zwischen Recht und Faust und verliert die Grundlage, die eigentliche Frage selbst zu beurteilen: Wer bestimmt, wer Richter ist?*

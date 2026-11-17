@@ -9,6 +9,7 @@ import { BookmarkButton } from './BookmarkButton'
 import { ArticleCard } from './ArticleCard'
 import { mdxComponents } from './mdx'
 import { AudioPlayer } from './AudioPlayer'
+import { SeriesNav } from './SeriesNav'
 import { formatDate } from '@/lib/utils'
 import { getArticle } from '@/lib/content'
 import type { Article } from '@/lib/content'
@@ -164,6 +165,8 @@ export async function GrundlageLayout({ article }: GrundlageLayoutProps) {
             </ul>
           </section>
         )}
+
+        <SeriesNav slug={slug} />
 
         <NewsletterCTA />
 

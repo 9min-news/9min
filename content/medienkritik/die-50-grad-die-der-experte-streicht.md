@@ -68,6 +68,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *Der Titel der Bewegung ist eine Zahl: «Keine 50-Grad-Sommer». Das Manifest behauptet, der Schweiz drohten bis Mitte des Jahrhunderts 50 Grad. Der Beitrag druckt die Behauptung, die Demonstrationen, die Zahlen der Teilnehmer, die Pläne bis 2027. Und dann, in einer Box, die eigentliche Nachricht: Der eigene Experte des Beitrags hält die Zahl für «übertrieben». Das theoretische Maximum der heutigen Schweiz liege bei 44 Grad, mit Klimawandel bei 46 bis 47. Die Differenz zwischen der Behauptung der Bewegung und der Einschätzung des Experten, den der Beitrag selbst zitiert, beträgt drei bis vier Grad. Das ist die Differenz zwischen dem, was auf den Plakaten steht, und dem, was die Forschung hergibt. Der Beitrag druckt beides und entscheidet sich für die Behauptung: Der Titel der Aktion, der Name der Bewegung, die Zahl, die die Demonstrationen tragen, bleibt unwidersprochen im Haupttext. Die Korrektur steht in der Box. Die Lüge, wenn es eine ist, hat die Schlagzeile. Die Wahrheit hat die Fussnote.*

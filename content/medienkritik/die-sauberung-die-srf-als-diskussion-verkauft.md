@@ -68,6 +68,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M005
 ---
 
 *237'000 Stimmen. So viele hat Daniel Jositsch 2023 im Kanton Zürich erhalten — mehr als jeder andere Politiker im Land. Er holte Stimmen aus der bürgerlichen Mitte, von Wählern, die normalerweise keine SP wählen. Er ist der populärste Schweizer Politiker. Und seine Partei wirft ihn raus. Mit 109 zu 94 Stimmen entscheiden 203 Delegierte, dass der Mann, dem das Volk 237'000 Stimmen gegeben hat, nicht mehr gut genug ist. Warum? Weil er «zu häufig von der Parteilinie abweicht». Weil er das Urteil des EGMR zu den Klimaseniorinnen kritisierte. Weil er bei Asylfragen «eine teilweise harte Haltung» vertritt. SRF nennt das «Diskussionen». «Einordnung». «Was bedeutet die Nichtnomination?» Aber die wahre Frage lautet: Was bedeutet es für eine Partei, wenn 203 Funktionäre gegen den expliziten Willen von 237'000 Wählern entscheiden? Was bedeutet es für die Demokratie, wenn der populärste Politiker des Landes ausgeschlossen wird, weil er denkt? SRF stellt diese Fragen nicht. SRF erklärt brav die Parteilogik. Und übersieht, dass es hier um etwas anderes geht als um Parteipolitik.*

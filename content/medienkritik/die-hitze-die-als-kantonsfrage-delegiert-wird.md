@@ -61,6 +61,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M001
 ---
 
 *SRF meldet, dass der Bundesrat wegen Hitze und Trockenheit keine ausserordentliche Lage ausruft, und rahmt den Entscheid als pragmatische Zuständigkeitsfrage. Die Kantone seien federführend, der Bund unterstütze. Was nicht vorkommt: die Frage, was eine ausserordentliche Lage überhaupt wäre; Die Frage, ob der Bund die Hitze dämonisiert, wenn er über sie spricht, aber kapituliert, wenn er handelt. Was nicht vorkommt: die Massnahmen, die das Wirtschaftsdepartement bereits traf; und die Kantone, die angeblich federführend sind. Der Beitrag ist eine Regierungsmeldung, die eine politische Entscheidung als Verwaltungsakt verkauft.*

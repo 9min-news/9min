@@ -59,6 +59,7 @@ quelle_format: Broadcast
 quelle_sendung: 10vor10
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *SRF erklärt die Anziehungskraft des Islamischen Staates auf Jugendliche und rahmt sie als technologisches und psychologisches Problem. Tiktok, Lebenskrisen, das Bedürfnis nach Sinn. Was nicht vorkommt: die Herkunft der Täter. Was nicht vorkommt: der kulturelle Hintergrund, in dem Judenhass und Homophobie normal sind. Was nicht vorkommt: die Schweizer Fälle, die das abstrakte Narrativ widerlegen. Der Beitrag ist eine Soziologie ohne Kontext, die das Internet zur Ursache macht, um die Realität zu schonen.*

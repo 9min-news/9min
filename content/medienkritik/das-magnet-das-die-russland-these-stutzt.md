@@ -70,6 +70,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *SRF analysiert den Ausschluss der russischen Oppositionspartei Jabloko von den Parlamentswahlen und rahmt ihn als Beweis für ein System, das Scheinwahlen inszeniert. «Machtdemonstration», «Scheinwahl», «gleichgeschaltet». Der Beitrag fragt nicht, ob die russische Wirtschaft unter Rüstungsausgaben leidet oder ob die ukrainischen Drohnenangriffe, die SRF als Unmut-Faktor nennt, zivile Ziele treffen. Er fragt nicht, ob der Westen dieselben Mechanismen nutzt. Er ist eine Russland-Analyse, die eine westliche Perspektive als universellen Massstab setzt, ohne sie zu prüfen.*

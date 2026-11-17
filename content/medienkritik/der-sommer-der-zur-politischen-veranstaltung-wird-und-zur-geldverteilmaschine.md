@@ -67,6 +67,7 @@ quelle_format: Broadcast
 quelle_sendung: Tagesschau / Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *SRF meldet, dass der Bund der Landwirtschaft wegen Trockenheit hilft — und rahmt die Massnahmen als selbstverständliche Nothilfe. Zollfreie Importe, volle Direktzahlungen trotz nicht erfüllten Bedingungen, Ernteversicherungs-Prämien, zinslose Darlehen. Was nicht vorkommt: die Frage, ob der Bund Geld verschenkt oder nur umverteilt. Die Frage, ob ein Bauernverband, der Massnahmen fordert, und ein Bundesamt, das sie liefert, ein Lobbying-Kreislauf sind. Was nicht vorkommt: der Zusammenhang mit dem Sommer, den SRF gleich zuvor zur politischen Krise erklärte. Der Beitrag ist der Abschluss eines Kreislaufs: Wetter → Krise → Forderung → Staat → Geld. Jede Krise endet mit mehr Staat. Keine Krise endet mit der Frage, ob der Staat der richtige Akteur ist.*

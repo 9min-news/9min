@@ -64,6 +64,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M005
 ---
 
 *Der Bund streicht 60 Stellen in der Öffentlichkeitsarbeit. 25 Millionen Franken weniger. Von 400 auf 340 Vollzeitstellen. Das klingt nach einem Einschnitt. Nach einem Tabubruch. Nach Konsequenzen. Aber lesen Sie die Zahlen: 400 Vollzeitstellen für Öffentlichkeitsarbeit. 400 Menschen, die Erklärvideos produzieren, Podcasts aufnehmen, Social-Media-Beiträge verfassen, Webmagazine betreiben. 400 Menschen, die vom Bund bezahlt werden, um die Arbeit des Bundes zu erklären. Das ist keine Öffentlichkeitsarbeit. Das ist eine Propagandamaschine. Und sie wird nicht abgeschafft. Sie wird nur leicht verkleinert. Von 400 auf 340. Das ist kein Einschnitt. Das ist ein Haarschnitt.*

@@ -68,6 +68,7 @@ quelle_format: Broadcast
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *SRF berichtet über die britische Covid-Untersuchungskommission — und rahmt sie als Lehrstück in staatlichem Versagen. 10 Milliarden Pfund verschwendet, 20'000 Tote vermeidbar, VIP-Lanes für politische Freunde — das sind die Befunde, die SRF einem Korrespondenten entnimmt und referiert. Was nicht vorkommt: die Schweiz. Was nicht vorkommt: eine Schweizer Covid-Untersuchungskommission — die nicht existiert. Was nicht vorkommt: die RKI-Protokolle, die in Deutschland offenlegten, dass die interne Pandemiebewertung des Robert Koch-Instituts von der öffentlichen Kommunikation abwich — und die jetzt vor dem Bundesgericht verhandelt werden. Der Beitrag ist Auslandsberichterstattung als Selbstentlastung — der Blick nach London erübrigt den Blick nach Bern.*

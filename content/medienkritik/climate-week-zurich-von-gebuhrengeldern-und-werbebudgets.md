@@ -73,6 +73,7 @@ quelle_format: Broadcast
 quelle_sendung: HeuteMorgen
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 Schauen wir den heutigen SRF-Beitrag [«Zürich will zur Klimaplattform werden»](https://www.srf.ch/news/schweiz/klimawoche-zuerich-zuerich-will-zur-klimaplattform-werden), erschienen am 4. Mai 2026 im HeuteMorgen, verfasst von Klaus Ammann. Er ist ein weiterer Lehrfall für die Methode des Konsenssenders, diesmal im Themenfeld Klima.

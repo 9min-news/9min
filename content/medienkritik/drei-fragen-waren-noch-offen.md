@@ -64,6 +64,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF Wirtschaftsredaktion
 kritik_schwere: 3
+muster_id: M001
 ---
 
 Am Mittwoch berichtete SRF, dass das BAG die Verträge freigegeben hat. Eine Agenturmeldung. Zahlen, keine Fragen.

@@ -77,6 +77,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *SRF berichtet: Trump «zementiert» seine Macht. Wer ihn kritisiert, «ist weg vom Fenster». Loyalisten setzen sich durch. Das ist die Rahmung: Trump als Parteiautokrat. Die Frage, die SRF nicht stellt: Ist das anders bei den Demokraten? Bei Biden? Bei Obama? Bei Clinton? Wer als Demokrat gegen die Parteilinie verstösst — gegen die Klimaagenda, gegen die Identitätspolitik, gegen den Konsens —, verliert ebenfalls die Unterstützung. Wird ausgeschlossen. Wird primaried. Das ist normale Parteipolitik. Bei den Republikanern nennt SRF es «Trumps Machtprobe». Bei den Demokraten nennt es niemand etwas. Es passiert einfach.*

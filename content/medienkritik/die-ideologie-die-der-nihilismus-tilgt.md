@@ -67,6 +67,7 @@ quelle_format: Broadcast
 quelle_sendung: 10vor10
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M005
 ---
 
 *Der Beitrag ist die gründlichste Kriminalrecherche, die dieses Haus seit Wochen gebracht hat: eigene Recherche mit Fedpol-Bestätigung, zwanzig Fälle, Tatbestände von Nötigung bis Beihilfe zu Suizid, Opferprofile, Täterdynamik, Europol-Kontext, eine Help-Box mit fünf Anlaufstellen. Das ist öffentlicher Dienst, und er beginnt mit dem schrecklichsten Satz des Feeds. Und trotzdem trägt ausgerechnet dieser Beitrag das Muster, das die ganze Serie trägt: Die Behörde liefert die Rahmung, das Medium übernimmt sie ungeprüft. «Nihilistischer Extremismus», definiert als Phänomen ohne Ideologie, heisst das Etikett. Der eigene Text desselben Beitrags sagt: «1414 dürfte ein rechtsextrem geprägter Code sein», Rechtsterroristen von Christchurch und Norwegen würden als «Heilige» verklärt, es gebe Überlappungen mit dem rechtsextremen «Akzelerationismus». Ein Netzwerk, das Breivik verehrt, ist nicht ideologielos. Es ist rechtsextrem mit nihilistischer Ästhetik. Die Rahmung tilgt genau das, was der Artikel selbst liefert.*

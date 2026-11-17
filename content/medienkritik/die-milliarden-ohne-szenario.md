@@ -100,6 +100,7 @@ zusammenfassung: >-
   aber nicht beziffert werde. Der Nutzungskonflikt um Wasser zwischen
   Landwirtschaft und Wasserkraft sowie die Gletscherschmelze blieben unerzählt.
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *Titel und einziger Zwischentitel mit Zahl setzen den Wintersport ins Zentrum: «für Wintersport wirds teuer», «Milliardenschäden im Wintersport». Der einzige Gesprächspartner des Beitrags, Raphael Bucher, Leiter Klimapolitik beim Bundesamt für Umwelt, nennt jedoch andere Risiken als die relevantesten: «Das sind vor allem Hitzebelastung und Trockenheit.» Die Studie ist um drei Szenarien gebaut, von konsequentem Klimaschutz bis zu praktisch ungebremster Erwärmung. Der Beitrag stellt sie im zweiten Satz vor und ordnet danach kein einziges Resultat einem Szenario zu. Der einzige Frankenbetrag, «über zwei Milliarden» jährlich, steht ohne Szenario und ohne Massstab. Verloren gehen dabei drei Dinge: der Preis der Hitze, der Preis des Nicht-Handelns und die Frage, ob die Entwarnungen für Landwirtschaft und Wasserkraft am selben knapper werdenden Wasser hängen.*

@@ -76,6 +76,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Dieser SRF-Beitrag über den Verkauf des serbischen TV-Senders N1 an einen Orban-Vertrauten ist ein klassisches Stück Auslandsberichterstattung: fern, bedrohlich, eindeutig. Serbien ist eine «mediale Wüste», regierungskritische Medien werden zu «Terroristen» erklärt, die letzte unabhängige Stimme droht zu verstummen. Das ist alles korrekt dokumentiert — und es ist trotzdem nur halb die Story. Denn der Beitrag unterscheidet nicht zwischen «unabhängig» und «regierungskritisch»: N1 ist CNN-affiliert, also Teil eines westlichen Medienkonzerns, und das macht es nicht automatisch unabhängig — es macht es zu einem anderen Abhängigkeitsverhältnis. Der Verkauf an Alpac Capital wird als Orban-Infiltration gerahmt, aber die Frage, wer N1 vorher besass und welche redaktionellen Vorgaben damit verbunden waren, fehlt. Und der Beitrag stellt die naheliegendste Gegenfrage nicht: Wie steht es um die Medienfreiheit in der Schweiz? SRF berichtet über serbische Medienkonzentration, während es selbst Teil einer SRG ist, die mit rund 1,5 Milliarden Franken jährlich einen staatlich garantierten Finanzierungsmonopol geniesst, gegen den kein privater Sender konkurrieren kann. Der Splitter im serbischen Auge wird scharf gezeichnet — der Balken im Schweizer Auge fehlt.*

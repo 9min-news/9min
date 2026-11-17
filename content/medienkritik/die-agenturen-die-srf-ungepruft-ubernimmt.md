@@ -69,6 +69,7 @@ quelle_format: Online-Artikel
 quelle_sendung: Rendez-vous
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *SRF veröffentlicht einen Überblick über Nachrichtenagenturen — und liefert ein Lexikon. Gründungsdaten, Mitarbeiterzahlen, Sprachen, Standorte. Was der Beitrag nicht liefert: eine Analyse der Abhängigkeit. Dass SRF selbst Material von AP, Reuters, Keystone-SDA und dpa übernimmt, oft ungeprüft, oft ohne eigene Recherche, kommt nicht vor. Dass ein öffentlich-rechtlicher Sender mit 1,5 Milliarden Franken Jahresbudget ein Verzeichnis publiziert, das ein Chatbot in drei Sekunden generiert, ist der eigentliche Befund — aber er wird nicht gestellt.*

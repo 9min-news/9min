@@ -115,6 +115,7 @@ zusammenfassung: >-
   Kosten der 13. Rente, alternative Erklärungen für Lohnsteigerungen und die
   Legitimation des Gewerkschaftsvetos beim EU-Paket bleiben ausgeblendet.
 kritik_schwere: 3
+muster_id: M010
 ---
 
 *Im Gespräch sagt Daniel Lampart, die AHV sei «derart sozial ausgleichend, dass selbst eine Finanzierung über die Mehrwertsteuer letztlich gerecht ist». Der Titel macht daraus «Eine AHV-Finanzierung über die Mehrwertsteuer ist gerecht»: ein Zugeständnis ohne «selbst» und ohne «letztlich». Die erste Frage setzt den Massstab für den Rest des Gesprächs: «Die 13. AHV-Rente gilt als Ihr Erfolg.» Von da an ist die Rente die Leistung eines Mannes und nicht mehr eine Ausgabe der AHV. Das Interview nennt zwei Zahlen, beide aus Niederlagen, für den Erfolg keine einzige. Es verschweigt, was die 13. Rente kostet, und es verschweigt, dass Volk und Stände rund fünf Wochen später über genau jene Mehrwertsteuerfinanzierung abstimmen, die der Titel für gerecht erklärt.*

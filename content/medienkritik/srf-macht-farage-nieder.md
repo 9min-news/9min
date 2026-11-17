@@ -72,6 +72,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M005
 ---
 
 *SRF meldet Nigel Farages Rücktritt als Parlamentsabgeordneter — und rahmt ihn als Flucht. «Verzweifelter Stunt», «Ablenkungsmanöver», «breche unter dem Druck zusammen» — drei Quotes von politischen Gegnern, die SRF ungeprüft in den Text stellt. Was nicht vorkommt: die Frage, ob ein Politiker, der sich dem Votum seiner Wähler erneut stellt, damit gerade nicht flieht. Was nicht vorkommt: die Frage, warum Reform UK führt — was die Wähler sehen, was SRF nicht sieht. Was nicht vorkommt: der Vergleich mit der britischen Spendenkultur insgesamt — sind Farages Zuwendungen ein Ausreisser oder die Norm? Der Beitrag ist eine Stenografie der Gegner-Zitate, verpackt als Berichterstattung.*

@@ -111,6 +111,7 @@ zusammenfassung: >-
   wird; zudem gleicht SRF die genannten Zahlen nicht mit der eigenen
   WFP-Mitteilung ab.
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *«Es fehlt an Geld – und das in grossem Stil.» Mit diesem Satz eröffnet SRF ein Gespräch über die Kürzung der Ernährungshilfe in Gaza und gibt damit die Grammatik des Beitrags vor: Geld fehlt hier wie Regen. Wer weniger zahlt, wer die Grenze kontrolliert und wer die Entwaffnung verweigert, wird nicht genannt. Als Einordner tritt «der Experte» auf, der Leiter des WFP-Büros in Berlin und damit Sprecher der Organisation, die kürzt und Mittel sucht. Gezählt werden die 500'000 Betroffenen. Die Geber, die Konfliktparteien und die Bilanz von drei Jahrzehnten Hilfe bleiben ausserhalb des Gesprächs.*

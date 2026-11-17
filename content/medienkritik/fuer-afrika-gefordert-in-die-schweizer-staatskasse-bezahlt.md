@@ -119,6 +119,7 @@ zusammenfassung: >-
   juristisch-technische Hürde gerahmt, während die Befürworterseite Einstieg und
   Schluss erhält.
 kritik_schwere: 3
+muster_id: M009
 ---
 
 *«Sie fehlen in Asien, in Afrika, in Lateinamerika»: Mit diesem Satz begründet Public Eye in 10vor10, warum die Schweiz die Gewinne ihrer Rohstoffhändler mit einer Übergewinnsteuer belegen soll. Eine Schweizer Steuer überweist ihren Ertrag allerdings nicht nach Asien, Afrika oder Lateinamerika, sondern an den Schweizer Fiskus, und SRF fragt nicht nach. Schon der Titel gibt die Richtung vor. «Sprudelnde Einnahmen, doch Übergewinnsteuer hat schweren Stand» macht hohe Gewinne zum Argument und die Ablehnung zum erklärungsbedürftigen Sonderfall. Wie deutlich der Nationalrat die Idee verworfen hat und dass das Volk 2023 eine Mindeststeuer für grosse Konzerne angenommen hat, erfährt der Zuschauer nicht. Für den Stimmbürger steht mehr auf dem Spiel als eine Steuerdebatte: Sein Entscheid erscheint als Charakterschwäche, und wer eine solche Steuer kassieren und wer sie tragen würde, bleibt im Dunkeln.*

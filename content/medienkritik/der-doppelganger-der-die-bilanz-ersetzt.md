@@ -61,6 +61,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *SRF berichtet über einen Doppelgänger-Wettbewerb für New Yorks Bürgermeister Zohran Mamdani — Frisur, Gesichtsbehaarung, Knicks-Trikot unter dem Anzug, Lieblingspizza als Abstimmungsfrage. Was der Beitrag verschweigt: Mamdani regiert seit Januar. Acht Monate Amtszeit, sozialistische Politik, ein Haushalt, eine Kriminalitätslage, ein Konflikt mit dem Weissen Haus — nichts davon kommt vor. Der Beitrag ist Politainment: Ein Politiker wird zum Meme, und das Medium berichtet über das Meme statt über die Politik. Die Frage, warum ein öffentlich-rechtlicher Sender mit 1,5 Milliarden Budget einen Doppelgänger-Wettbewerb meldet, während die Bilanz desselben Bürgermeisters unerwähnt bleibt, wird nicht gestellt — sie ist die Antwort.*

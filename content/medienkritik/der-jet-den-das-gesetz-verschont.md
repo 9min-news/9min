@@ -115,6 +115,7 @@ zusammenfassung: >-
   Zudem enthält der Beitrag einen Zahlenfehler beim Anteil der Privatjet-Nutzer
   an der Weltbevölkerung.
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *Im Fliesstext heisst es, im vergangenen Jahr seien 16 Millionen Tonnen Kohlendioxid «auf Privatjets» zurückgegangen. Im Titel sind daraus Täter geworden: «Superreiche verursachen 16 Millionen Tonnen CO2 mit Privatjets», in Senderstimme und ohne Anführungszeichen. Die Dachzeile «Analyse von Oxfam» und der Satz «Das zeigt eine Analyse» geben der Mitteilung einer Kampagnenorganisation den Rang eines Befunds. Den Ton setzt ein Vergleich von zwei Flugsekunden mit dem Jahresausstoss eines armen Menschen. Der Beitrag verschweigt, dass der europäische Emissionshandel nichtgewerbliche Kleinbetreiber ausnimmt, dass der Nationalrat eine Privatjet-Abgabe abgelehnt hat und dass Schweizer Haushalte auf Heizöl und Gas längst einen CO2-Preis bezahlen.*

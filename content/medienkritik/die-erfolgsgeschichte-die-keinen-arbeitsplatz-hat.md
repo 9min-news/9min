@@ -61,6 +61,7 @@ quelle_format: Broadcast
 quelle_sendung: Regionaljournal Zentralschweiz
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *SRF porträtiert einen afghanischen Flüchtling, der nach acht Jahren in der Schweiz seine Lehre als Küchenangestellter abschliesst. Der Beitrag rahmt ihn als Beweis für gelungene Integration. Dass der Betrieb, der ihn ausbildete, ihn nach der Lehre nicht übernimmt, weil es keine freie Stelle gibt, wird als Nebensatz abgetan. Dass acht Jahre für eine zweijährige Lehre vergingen, wird nicht hinterfragt. Der Beitrag ist eine Wohlfühlstory, die die Kosten, die Systemrealität und die ökonomische Logik der Migration ausblendet.*

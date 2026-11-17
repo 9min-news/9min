@@ -59,6 +59,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M004
 ---
 
 *Martin Hirzel, Präsident von Swissmem, sagt: «Das ist nicht, was man von einem Partner erwartet.» Er spricht über die EU. Über die Verdoppelung der Stahlzölle von 25 auf 50 Prozent. Über die Abschottung des Binnenmarkts. Über die existenzielle Bedrohung für die Schweizer Industrie. Was er nicht sagt: Was das für die Bilateralen bedeutet. Was das für die Souveränität bedeutet. Was das für die Frage bedeutet, ob die Schweiz überhaupt einen Partner hat — oder nur einen Hegemon, der die Regeln diktiert. Und SRF fragt nicht nach. SRF lässt Hirzel klagen — ohne die Konsequenzen zu ziehen. Ohne die Frage zu stellen, die sich aufdrängt: Wenn die EU so handelt, warum sollten wir uns ihr weiter annähern?*

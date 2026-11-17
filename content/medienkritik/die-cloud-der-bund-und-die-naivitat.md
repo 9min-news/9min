@@ -75,6 +75,7 @@ quelle_format: Online-Artikel
 quelle_sendung: Rendez-vous
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *Zum SRF-Beitrag *[«Experten fordern Datenschutz bei digitalen Gesundheitsdaten»](https://www.srf.ch/news/schweiz/digitalisierung-in-der-schweiz-experten-fordern-datenschutz-bei-digitalen-gesundheitsdaten)*, 12. Mai 2026*

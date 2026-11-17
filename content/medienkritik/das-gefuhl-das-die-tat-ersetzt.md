@@ -57,6 +57,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M016
 ---
 
 *SRF analysiert die Schüsse von Aarau und rahmt sie als Erschütterung des Sicherheitsgefühls. Zwei Kriminologinnen und zwei ZHAW-Dozentinnen erklären das «Kriminalitätsfurcht-Paradox»: Das Gefühl und die Statistik haben nichts miteinander zu tun. Die Schweiz sei «extrem sicher». Was der Beitrag verschweigt: die Tat selbst. Wer der Täter ist — der verlinkte Artikel meldet: ein 43-jähriger Schweizer, festgenommen —, was das Motiv war, wie die Waffe aufs Gelände kam: nichts davon kommt vor. Stattdessen Psychologie des Gefühls, Trauerrosen und die Botschaft: Die Angst ist irrational, die Schweiz ist sicher. Ein Beitrag über eine Gewalttat, der die Gewalttat durch Gefühlskunde ersetzt — und die einzige Frage, die zählt, nicht stellt: Warum?*

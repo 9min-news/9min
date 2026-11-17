@@ -4,8 +4,8 @@ date: '2026-05-10'
 status: published
 type: analyse
 series: 'Die Toblerone-Serie'
-seriesIndex: 10
-coverImage: 'https://pbs.twimg.com/media/HH9pZzJWUAITImv.jpg'
+seriesIndex: 3
+coverImage: '/images/essays/das-bankgeheimnis.jpg'
 tweetId: '2053476107500863626'
 categories:
   - Wirtschaft

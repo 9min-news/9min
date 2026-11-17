@@ -104,6 +104,7 @@ zusammenfassung: >-
   ausgeblendet, und die Interessenlage der Behörde sowie Gegenstimmen fehlten
   vollständig.
 kritik_schwere: 3
+muster_id: M009
 ---
 
 *27'128 freiwillige Meldungen zählte das Bundesamt für Cybersicherheit im ersten Halbjahr 2026, leicht weniger als im Vorjahreszeitraum. Dazu kamen 79 Ransomware-Fälle, exakt so viele wie im Halbjahr davor. Knapp drei Monate nach diesem Bericht sagt der Direktor desselben Amts im Radio, die Lage spitze sich zu. SRF schreibt im Vorspann in eigener Stimme: «Die Zahl der Cyberattacken steigt.» Eine Zahl, eine Periode oder eine Quelle verlangt die Redaktion nicht. Auf dieser ungeprüften Prämisse ruht die eigentliche Botschaft des Gesprächs: Es brauche ein Gesetz, damit unsichere Produkte «gar nicht mehr auf den Markt kommen». Für Konsumenten und KMU geht es um Preise, Auswahl und um die Frage, wer künftig festlegt, was sie kaufen dürfen. Zu hören bekommen sie nur die Begründung, nicht den Preis.*

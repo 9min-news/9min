@@ -67,6 +67,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF Wissen
 kritik_schwere: 3
+muster_id: M002
 ---
 
 Am 29. März 2026 veröffentlicht SRF einen Beitrag über Klimamigration. Die Überschrift lautet: [«Wenn das eigene Haus weggespült wird.»](https://www.srf.ch/wissen/klimawandel/klimamigration-unter-der-lupe-wenn-das-eigene-haus-weggespuelt-wird) Der Beitrag zitiert drei Quellen. Eine Weltbank-Studie. Einen Postdoktoranden der ETH Zürich. Einen Professor der Universität Neuenburg. Alle drei kommen zum selben Schluss: Die Klimamigration werde «stark zunehmen», deshalb brauche es «konsequente Massnahmen zum Klimaschutz». Der Beitrag ist sich einig mit sich selbst.

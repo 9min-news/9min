@@ -69,6 +69,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M017
 ---
 
 Die Schweizer Debatte über die Wohnungsnot folgt seit Jahren einem vertrauten Muster. Die eine Seite spricht über Zuwanderung, die andere über renditegetriebene Vermieter, eine dritte über fehlenden gemeinnützigen Wohnbau. Alle drei Perspektiven erfassen einen Teil des Problems. Keine reicht für sich aus. Wer verstehen will, warum sich der Wohnungsmarkt in der Schweiz in den letzten fünfzehn Jahren so stark verschärft hat, muss einen Faktor ernster nehmen, als es in der politischen und medialen Debatte meist geschieht: die Geldpolitik.

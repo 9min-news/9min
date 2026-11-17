@@ -113,6 +113,7 @@ zusammenfassung: >-
   verfolgt sie aber nicht weiter und erwähnt die Schweizer Sachabstimmung als
   mögliches Gegenmodell nicht.
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Im November 2024 wählten sie Donald Trump, im November 2026 die Demokraten, und laut SRF sind es dieselben Wählersegmente. In derselben Analyse tragen sie dennoch zwei Etiketten. Für den einen Wechsel stehen sie unter der Formel «Menschen, die Autokraten wählen», für den anderen wollen sie «eine repräsentative Demokratie, die repräsentativer ist und demokratischer». Gedeutet wird dieser Wechsel von fünf Stimmen aus demselben Lager, kein einziger Wähler kommt zu Wort, und dass die Partei des Präsidenten bei Zwischenwahlen fast immer verliert, verschweigt der Beitrag. Der Gebührenzahler finanziert damit eine Wahlanalyse, die eine Volksbewegung nur aus einer Richtung liest. Dem Stimmbürger verschweigt sie zudem das naheliegendste Mittel gegen Politikverdrossenheit, das er selbst jedes Quartal benutzt: die Sachabstimmung.*

@@ -63,6 +63,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *SRF beschreibt, wie Elon Musk den Russen den Starlink-Zugang gekappt hat, wie die Ukraine daraufhin 400 Quadratkilometer zurückeroberte, wie Swiss und Edelweiss künftig Musks Technologie nutzen, wie Starlink 11,4 Milliarden Dollar Umsatz macht, wie 9600 Satelliten 75 Prozent aller manövrierfähigen Satelliten ausmachen, wie Musk Preise diktieren und Nutzer ausschliessen kann. Und dann schreibt SRF: «Die Dominanz von Elon Musk im All birgt Gefahren.» Das ist der Moment, wo der Beitrag aufhört zu berichten und anfängt zu besänftigen. Was SRF beschreibt, ist kein Risiko. Es ist ein Monopol — militärisch, zivil, infrastrukturell. Der Beitrag liefert die Fakten für eine kritische Analyse und verweigert sich dann genau dieser Analyse.*

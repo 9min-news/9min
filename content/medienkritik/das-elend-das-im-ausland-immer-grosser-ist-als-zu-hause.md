@@ -61,6 +61,7 @@ quelle_format: Broadcast
 quelle_sendung: Temps présent
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *SRF berichtet über Las Vegas — und rahmt die Stadt als Sündenbabel, das auf Kosten der Schwächsten prosperiert. «Glanz und Elend», «Stadt der Sünde», «Eldorado auf Kosten der Schwächsten» — das sind die Formulierungen, die eine Stadt moralisch verurteilen, bevor sie analysiert wird. Was nicht vorkommt: die Schweiz. Was nicht vorkommt: die Schweizer Wohnungsnot, die Schweizer Spielsucht, die Schweizer Obdachlosigkeit, die Schweizer Drogenpolitik. Was nicht vorkommt: die Frage, ob das Elend, das SRF in Nevada findet, auch in Bern, Zürich oder Genf existiert — und ob SRF es mit derselben Unerbittlichkeit benennen würde. Der Beitrag ist Auslandsberichterstattung als moralische Selbstentlastung — der Blick nach Nevada erübrigt den Blick nach Bern.*

@@ -63,6 +63,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 Ein Mann wird beschuldigt. Das Wort «soll» steht in jedem Satz, der die Vorwürfe beschreibt. Kein Urteil. Kein Verfahren. Untersuchungen. Trotzdem demonstrieren Tausende. Trotzdem entwirft eine Justizministerin Gesetze. Trotzdem tritt eine amtierende Richterin im Fernsehen auf, um einen Fall zu bewerten, der vor keinem Gericht verhandelt wurde. Der Rechtsstaat sieht eine Reihenfolge vor: Anklage, Beweisaufnahme, Urteil, dann Konsequenz. Die Empörungsmaschinerie kehrt sie um: Konsequenz, Demonstration, Gesetzgebung — dann vielleicht irgendwann ein Verfahren.

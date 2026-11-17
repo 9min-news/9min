@@ -70,6 +70,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M002
 ---
 
 *SRF berichtet über Selenskis Besuch im Weissen Haus und rahmt ihn als Beziehungsfrage. Der ukrainische Präsident brauchte Lindsey Graham als Fürsprecher, nun muss er selbst überzeugen. Was nicht vorkommt: die Frage, ob die Ukraine den Krieg gewinnen kann. Was nicht vorkommt: die Frage, was die USA für ihr Geld bekommen. Was nicht vorkommt: die Schweizer fünf Milliarden, die in denselben Krieg fliessen. Der Beitrag ist ein Porträt eines Treffens, ohne das Treffen zu analysieren.*

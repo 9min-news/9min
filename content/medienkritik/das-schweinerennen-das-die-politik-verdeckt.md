@@ -63,6 +63,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *SRF berichtet über die Stimmung vor den US-Zwischenwahlen an einem Volksfest in Wisconsin und rahmt die Republikaner als extrem, die Demokraten als vernünftig. «Trump 2028»-Hüte, «Deportiert alle Kommunisten»-Anstecker, Bürgerkriegsszenarien. Was nicht vorkommt: die Politik der Republikaner. Was nicht vorkommt: die Frage, ob die Lebenshaltungskosten unter Trump steigen oder fielen. Und: die Frage, ob ein Linksruck bei den Demokraten normal ist, während ein Rechtsruck bei den Republikanern skandalisiert wird, fehlt. Der Beitrag ist eine Reportage, die Rhetorik als Politik verkauft und Politik ausblendet.*

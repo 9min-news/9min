@@ -61,6 +61,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: Kultur - Gesellschaft & Religion
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Vor einigen Tagen wurde gezeigt, wie SRF mit dem Oxymoron «digitale Gewalt» den Begriff der Gewalt entwertet, um den Ruf nach staatlichen Beratungsstellen lauter ertönen zu lassen. Jetzt geht SRF einen Schritt weiter: «Virtuelle Vergewaltigung». Das ist nicht mehr nur eine Entwertung. Das ist eine Usurpation. Wer Deepfakes als Vergewaltigung bezeichnet, sagt: Ein gefälschtes Video ist dasselbe wie ein Übergriff. Ein Bildschirm ist dasselbe wie ein Körper. Pixel sind dasselbe wie Haut. Das ist keine Präzision. Das ist eine Sprachrevolution — und SRF macht mit, ohne zu fragen.*

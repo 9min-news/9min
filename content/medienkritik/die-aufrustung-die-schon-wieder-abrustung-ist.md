@@ -63,6 +63,7 @@ quelle_format: Broadcast
 quelle_sendung: SRF 4 News aktuell
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M017
 ---
 
 *Dieser SRF-Beitrag referiert eine europäische Gemeinschaftsrecherche: Ein Datenleck mit Crewlisten der russischen Schattenflotte zeigt, dass Moskau bewaffnete Sicherheitsleute auf seinen Sanktions-Tankern einsetzt, zunehmend russische Kapitäne anheuert und Schiffe teils unter russischer Flagge fahren lässt. Das Format ist sauber: ein Erklärstück mit dem NDR-Journalisten, der die Daten mit ausgewertet hat. Die Schwäche liegt woanders — in der Zeitachse. Denn die Original-Recherche, auf der der Beitrag fusst, berichtet eine entscheidende Wendung, die bei SRF fehlt: Die bewaffneten Kräfte sind seit Anfang 2026 bereits wieder massiv auf dem Rückzug.*

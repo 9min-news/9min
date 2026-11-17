@@ -112,6 +112,7 @@ zusammenfassung: >-
   spricht, trägt eine Zahl der Bank; was für die Regulierung spricht, gilt als
   nicht quantifizierbar.
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Der Beitrag fragt, ob die UBS die Schweiz braucht. Schon der Titel antwortet aus Sicht der Bank: «Swissness ist für die UBS kein Muss». Was die UBS umgekehrt die Schweiz kosten kann, ist nicht Gegenstand des Textes. Die Zahl, die das Argument trägt, stammt von der Bank selbst: «Die UBS beziffert die Kosten dafür auf 2.5 Milliarden Dollar». Einen Satz später geht das Geld bereits ohne Quellenangabe «Jahr für Jahr» vom Gewinn weg. Die Kosten der Regulierung sind damit beziffert, der Nutzen des Standorts dagegen «lässt sich auch nicht quantifizieren». Der Beitrag verschweigt vier Dinge: die deutlich tieferen Schätzungen der jährlichen Kosten, den Zusammenbruch der Credit Suisse als Anlass der Vorlage, die bereits erfolgte Abschwächung durch den Ständerat und die lange Vorgeschichte der Wegzugsdrohung.*

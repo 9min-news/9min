@@ -69,6 +69,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: Inland
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Zum Tagesanzeiger-Artikel «*[Wir wollen verstehen, wieso so viele Barbershops entstanden sind»](https://www.tagesanzeiger.ch/waedenswil-stadt-wertet-ortszentrum-mit-31-massnahmen-auf-200777834698)*, 29. April 2026*

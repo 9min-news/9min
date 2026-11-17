@@ -74,6 +74,7 @@ quelle_format: Print
 quelle_sendung: ''
 quelle_redaktion: Tages-Anzeiger
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Zum Gastkommentar von Oliver Nachtwey im Tages-Anzeiger vom 18. April 2026: *[«Der Kuchen schrumpft — und schuld sind die anderen»](https://www.tagesanzeiger.ch/10-millionen-schweiz-nullsummendenken-hilft-der-initiative-993522394770)

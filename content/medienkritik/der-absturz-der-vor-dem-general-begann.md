@@ -115,6 +115,7 @@ zusammenfassung: >-
   Personalisierung ersetzt, die Anfangs- und Endpunkt der Kurve zeigt, nicht den
   Wert dazwischen.
 kritik_schwere: 3
+muster_id: M011
 ---
 
 *«Der Absturz der Partei hat zwei Namen: Matteo Salvini und Roberto Vannacci.» Mit diesem Satz legt SRF fest, wie der Niedergang der Lega zu lesen ist: als Fehlgriff eines Parteichefs, der einen General holte, und als Abgang des Generals, der eine eigene Partei gründete. Getragen wird die Erzählung von einem Zahlenpaar, 34 Prozent bei der Europawahl 2019 gegen «nur noch bei fünf Prozent» in «aktuellen Umfragen», und von der Behauptung, Vannaccis neue Partei liege «seit Monaten vor der Lega». Kein Umfragewert trägt Institut oder Datum. Der Beitrag verschweigt, dass die Umfragelage widersprüchlich ist, dass der grösste Teil des Absturzes geschah, als Vannacci noch für die Lega Stimmen sammelte, und dass die Femizid-Norm, die Vannacci tilgen will, aus der Lega selbst stammt.*

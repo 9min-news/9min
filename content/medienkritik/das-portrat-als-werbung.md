@@ -58,6 +58,7 @@ quelle_format: Broadcast
 quelle_sendung: 10vor10
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *Zum 10vor10-Beitrag *[«Unternehmerin Yaël Meier zwischen Vorbild und Reizfigur»](https://www.srf.ch/news/gesellschaft/kapital-kinder-und-kritik-unternehmerin-yael-meier-zwischen-vorbild-und-reizfigur)*, 7. Mai 2026*

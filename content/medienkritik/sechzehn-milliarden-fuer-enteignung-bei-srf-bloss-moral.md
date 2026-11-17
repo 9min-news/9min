@@ -119,6 +119,7 @@ zusammenfassung: >-
   Antisemitismus-Rufe sowie Clan-Kontakte würden teils namenlos oder ohne Beleg
   präsentiert.
 kritik_schwere: 3
+muster_id: M007
 ---
 
 *Der Brief, der Berlins Linksbündnis unter Druck setzt, entstand Mitte Oktober in einer Runde von rund 20 SPD-Mitgliedern in Pankow, angestossen von einem Intensivpfleger der Charité. Bei SRF wird daraus ein Reflex der «Bundes-SPD», die sich vor Chaos fürchte und um ihr Image bange. Der Beitrag verlinkt den Brief und deutet ihn, verschweigt aber die Gründe, die darin stehen: eine Vergesellschaftung von rund 160'000 Wohnungen gegen eine Entschädigung von bis zu 16 Milliarden Euro, das Ende der Bundeswehr-Kooperation an Schulen und die Rolle der SPD als «zweiter Juniorpartner». Wer als Bürger über Eigentum und öffentliches Geld urteilen soll, braucht die Rechnung, und SRF liefert ihm die Moral.*

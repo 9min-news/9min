@@ -62,6 +62,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Wie SRF den Prozess gegen OpenAI auf eine Verjährungsfrist reduziert — und dabei die eigentliche Sensation verschweigt: die Entlarvung des Elon Musk*

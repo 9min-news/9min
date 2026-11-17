@@ -74,6 +74,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News aktuell
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *SRF berichtet über den Ausschluss der russischen Oppositionspartei Jabloko von der Parlamentswahl und rahmt Russland als «Fassadendemokratie», in der der Kreml alles steuert. Urheberrechtsverletzungen, ausländische Wahlfinanzierung, ein Gericht, das klagt. Was nicht vorkommt: die Frage, ob der Westen dieselben Mechanismen nutzt; Die Prüfung, ob die Vorwürfe substanziiert sind; Die Frage, ob Selenskis Mobilisierungsbehauptung Propaganda ist. Der Beitrag ist eine Russland-Analyse, die die westliche Demokratie als Massstab setzt, ohne sie zu prüfen.*

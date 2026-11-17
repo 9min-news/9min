@@ -67,6 +67,7 @@ quelle_format: Broadcast
 quelle_sendung: Rendez-vous
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *SRF berichtet über den Alltag in der sudanesischen Stadt El Obeid und rahmt den Krieg als reines Leidensereignis. Drohnen, Durst, Hunger, ausfallende Vorlesungen. Der Beitrag blendet systematisch aus, wer den Krieg führt, wer die RSF finanziert, warum die UNO warnt aber nicht handelt und was die Schweiz dazu beiträgt. Er ist eine Empathie-Reportage, die einen Genozid als menschliches Schicksal verkauft, ohne nach den Akteuren zu fragen, die ihn produzieren.*

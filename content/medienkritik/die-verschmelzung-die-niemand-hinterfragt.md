@@ -69,6 +69,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *SRF erklärt, warum sich der Ukraine- und der Irankrieg zunehmend verknüpfen — und rahmt die Entwicklung als naturgesetzliche Eskalation. Immer mehr Akteure, immer mehr Länder, immer mehr Krieg. Was nicht vorkommt: die Frage, ob die Verknüpfung ein Resultat westlicher Politik ist. Was nicht vorkommt: die Frage, wer von der Eskalation profitiert. Was nicht vorkommt: die Schweizer Milliarden, die in einen der beiden Kriege fliessen. Was nicht vorkommt: eine einzige Gegenstimme. Der Beitrag ist ein Monolog eines Korrespondenten, der als Analyse deklariert wird.*

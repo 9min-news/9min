@@ -66,6 +66,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: ''
 kritik_schwere: 3
+muster_id: M001
 ---
 
 *Wie der Staat die 10-Millionen-Initiative erklärt — und dabei die politische Souveränität an die Wirtschaft auslagert und die Bürger mit dem Pflegenotstand erpresst*

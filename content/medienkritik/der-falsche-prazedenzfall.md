@@ -61,6 +61,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *SRF vergleicht die SVP-Initiative mit dem Brexit. Der Vergleich hinkt, aber er erfüllt einen Zweck: Er rahmt die Initiative als gescheitertes Projekt, bevor sie abgestimmt wird. Die UK-Daten zeigen: Nach dem Brexit stieg die Zuwanderung. Was der Artikel verschweigt: Das war eine politische Entscheidung der britischen Regierung, kein Naturgesetz. Die Schweiz hat bereits ein Kontingentssystem für Drittstaaten. Der Dublin-Asyl-Verweis ist für die Schweiz irrelevant, da sie im Dublin-System bleibt. Der Experte bekommt das letzte Wort: «Einfache Lösungen gibt es nicht.» Das ist keine Analyse. Das ist ein Urteil.*

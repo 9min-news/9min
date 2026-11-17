@@ -64,6 +64,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *SRF meldet, dass der Jugendliche, der in Zürich einen orthodoxen Juden lebensgefährlich niedergestochen hatte, in Berufung geht. Das Jugendgericht Dielsdorf hat ihn zu einem Jahr Gefängnis verurteilt, der Höchststrafe für einen 15-Jährigen. SRF referiert den Urteilsspruch als Verwaltungsnote. Was nicht vorkommt: die Frage, ob ein Jahr für mehrfachen versuchten Mord und Terrorismus angemessen ist. Was nicht vorkommt: die Frage, ob ein IS-Anhänger Schweizer bleiben sollte. Was nicht vorkommt: das Opfer. Der Beitrag ist eine Justizmeldung, die einen Terroranschlag als Jugenddelikt behandelt.*

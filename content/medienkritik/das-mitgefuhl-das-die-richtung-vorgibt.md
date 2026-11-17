@@ -67,6 +67,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF Investigativ
 kritik_schwere: 2
+muster_id: M001
 ---
 
 *Dieser SRF-Beitrag von Sarah Nowotny aus der Investigativ-Redaktion schildert die Zustände im ersten Schweizer Container-Gefängnis im luzernischen Wauwilermoos: feuchte Zellen, fehlende Privatsphäre, offene Toiletten, zu wenig warmes Wasser. Die Recherche ist solide und gibt den Behörden Raum zur Antwort. Doch der Beitrag hat eine klare Sympathie — für die Häftlinge, gegen die Container —, und diese Sympathie steuert den ganzen Bogen auf eine einzige, am Ende ausgesprochene Schlussfolgerung zu: Man solle lieber weniger Menschen einsperren. Die Frage, warum die Gefängnisse überhaupt so voll sind wie nie, wird gestellt — und sofort wieder fallengelassen. Sehen wir genau hin.*

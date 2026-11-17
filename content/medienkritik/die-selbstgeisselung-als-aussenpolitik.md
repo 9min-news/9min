@@ -76,6 +76,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SWI swissinfo.ch
 kritik_schwere: 2
+muster_id: M003
 ---
 
 *Dieser SWI-swissinfo.ch-Beitrag fragt, ob Schweizer Banken «immer noch ein Hort von Schwarzgeld» seien — und damit stellt er die falsche Frage. Nicht weil die Antwort einfach wäre, sondern weil die Frage selbst die Last umkehrt: Die Schweiz muss beweisen, dass sie sich geändert hat, statt dass der Artikel fragt, ob die internationale Kritik noch der Realität entspricht. Dabei hat die Schweiz in den letzten fünfzehn Jahren etwas aufgegeben, das nicht nur eine rechtliche Bestimmung war, sondern eine Gründungssäule ihres Finanzplatzes: das Bankgeheimnis. Sie hat den automatischen Informationsaustausch eingeführt, FATCA unterzeichnet, Milliardenstrafen gezahlt, Zehntausende Kundendaten herausgegeben, und führt 2026 ein Transparenzregister ein. Der Beitrag erwähnt all das — aber er rahmt es als unzureichend, ohne je zu fragen, was «ausreichend» überhaupt hiesse. Das Ergebnis ist ein Stück, das Regierungspropaganda nach aussen mit Selbstkritik nach innen verwechselt: SWI ist das staatliche Auslandsmedium der Schweiz, und es veröffentlicht einen Beitrag, der den eigenen Finanzplatz als problematisch darstellt — was diplomatisch klug sein mag, journalistisch aber eine einseitige Optik produziert.*

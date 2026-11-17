@@ -65,6 +65,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M017
 ---
 
 Zwischen dem 28. Februar und dem 2. April 2026 hat SRF mehr als 120 Beiträge zum Krieg im Iran publiziert. Das ist der Bedeutung des Konflikts angemessen. Es handelt sich um den grössten militärischen Konflikt seit dem Irakkrieg 2003. Die Schweiz ist als Schutzmacht der USA im Iran diplomatisch direkt involviert, und die wirtschaftlichen Folgen reichen von Energiepreisen bis zu Lieferketten und Flugverkehr. Wer SRF vorwirft, den Krieg zu wenig ernst genommen zu haben, liegt falsch. Das Problem ist nicht der Umfang der Berichterstattung. Es ist die Sprache der Schlagzeilen.

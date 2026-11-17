@@ -72,6 +72,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF Wissen
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *Zur SRF-Meldung *[«Geldstopp mit Folgen: Wo USAID-Hilfe fehlt, steigt die Gewalt»](https://www.srf.ch/wissen/mensch/friedensforschung-geldstopp-mit-folgen-wo-usaid-hilfe-fehlt-steigt-die-gewalt)* über die Studie von Dominic Rohner, 15. Mai 2026*

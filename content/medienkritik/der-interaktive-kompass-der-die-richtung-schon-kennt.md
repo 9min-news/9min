@@ -66,6 +66,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *SRF lanciert einen «Abstimmungskompass». Man bewertet Argumente. Man findet heraus, «wo man steht». Das klingt nach Aufklärung. Nach Hilfe für unentschlossene Bürger. Nach demokratischem Service public. Aber wer genau hinschaut, merkt: Der Kompass ist nicht neutral. Er ist kein Werkzeug. Er ist ein Instrument. Die Argumente sind selektiv ausgewählt. Die Formulierungen sind asymmetrisch. Die Befürworter-Argumente klingen nach Sorgen. Die Gegner-Argumente klingen nach Fakten. Und die Quelle? «Das Abstimmungsbüchlein des Bundes sowie offizielle Webseiten der Abstimmungskampagnen.» Mit anderen Worten: SRF reicht den offiziellen Diskurs durch — ohne ihn zu prüfen, ohne ihn zu ergänzen, ohne ihn zu hinterfragen. Der «interaktive Kompass» ist die digitale Version des Abstimmungsbüchleins. Und das Abstimmungsbüchlein hat schon einmal gelogen. 2002. Mit 8'000.*

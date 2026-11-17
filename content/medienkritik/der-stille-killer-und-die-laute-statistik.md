@@ -69,6 +69,7 @@ quelle_format: Broadcast
 quelle_sendung: Tagesschau
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M003
 ---
 
 *Dieser Tagesschau-Beitrag über die Hitzetoten in Europa ist ein Lehrstück in Zahlenmystik: Eine WHO-Zahl wird als Fakt präsentiert, ohne dass die Methodik hinterfragt wird. «Über 1300 zusätzliche Todesfälle, die im Zusammenhang mit den hohen Temperaturen stehen» — das klingt präzise, aber es ist statistisch vage. Was heisst «im Zusammenhang»? Was heisst «zusätzlich»? Sind es Hitzetote oder Übersterblichkeit? Sind es Tote, die ohne Hitze nicht gestorben wären, oder Tote, die ein paar Wochen früher gestorben sind, als sie ohnehin gestorben wären? Die Unterscheidung ist wissenschaftlich zentral — und der Beitrag macht sie nicht. Er übernimmt die WHO-Zahl als Fakt und kleidet sie mit einer Bestatter-Anekdote und einer Epidemiologen-Stimme in Dramatik. Das ist nicht Falschberichterstattung — aber es ist Wissenschaftsjournalismus, der die epistemische Fragilität seiner eigenen Zahlen ausblendet.*

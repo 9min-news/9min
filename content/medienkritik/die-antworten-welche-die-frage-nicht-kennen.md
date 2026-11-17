@@ -65,6 +65,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Das Q&A verspricht: «Warum die AfD gewinnt – Antworten auf die wichtigsten Fragen.» Es liefert drei «Fachpersonen,» zwei Postdocs der Universität Basel und den eigenen Auslandchef, die über den Wahlerfolg sprechen, ohne an irgendeiner Stelle eine einzige Position der AfD zu nennen. Ein ganzes Format über eine Partei, deren Programm im Text nicht vorkommt. Remigration, EU-Austritt, Energiepolitik, Rentenpolitik, Migration: nichts. Die Frage «Warum gewinnt sie?» wird beantwortet mit Wählersoziologie, Systemzersplitterung und Unzufriedenheit, aber nie mit dem naheliegendsten Ansatz: Was bietet diese Partei den Menschen, die sie wählen? Der Beitrag über den Wahlerfolg ist die Fortsetzung der Serie, die den Wahlsieg meldete, ohne den Inhalt zu nennen. Diesmal im Frage-Antwort-Format, das den Anschein von Prüfung erzeugt.*

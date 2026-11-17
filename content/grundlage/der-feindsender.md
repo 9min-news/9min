@@ -3,8 +3,9 @@ title: Der Feindsender
 date: '2026-03-30'
 status: published
 type: grundlage
+series: 'Grundlagen'
 seriesIndex: 1
-coverImage: 'https://pbs.twimg.com/media/HEqwMO9XAAAkb_O.jpg'
+coverImage: '/images/essays/der-feindsender.jpg'
 tweetId: '2038703866171056272'
 categories:
   - Medienrecht

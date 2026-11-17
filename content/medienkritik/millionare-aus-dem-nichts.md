@@ -60,6 +60,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M006
 ---
 
 *Dieser kurze SRF-Wirtschaftsbeitrag meldet eine bemerkenswerte Zahl: Zwei Millionen neue Dollar-Millionäre weltweit innert eines Jahres, das Vermögen der Reichen so stark gewachsen wie nie. Der Beitrag referiert den Capgemini-Bericht sauber und ohne ideologische Schlagseite. Doch gerade in seiner Nüchternheit zeigt sich eine Leerstelle, die nach dem vorangegangenen Ungarn-Beitrag besonders ins Auge sticht: Der Bericht nennt die Mechanik des Reichtumswachstums in einem einzigen Halbsatz — und fragt nie, was dahintersteckt. Sehen wir genau hin, denn dieser harmlose Kurzbeitrag enthält, fast versehentlich, die Antwort auf die Frage, die der Ungarn-Beitrag verschwieg.*

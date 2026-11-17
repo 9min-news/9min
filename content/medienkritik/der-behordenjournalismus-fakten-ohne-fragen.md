@@ -65,6 +65,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Um 14:42 Uhr liefert SRF die Recherche. Und man muss fair sein: Für die Bestätigung solcher Details braucht es Zeit. Der Journalist Daniel Glaus hat seinen Job gemacht. Der Täter ist ein Dschihad-Anhänger. Er war in der Winterthurer Islamisten-Szene aktiv. Er ist ein schweizerisch-türkischer Doppelbürger. Er war in der Psychiatrie. Diese Fakten liegen nun auf dem Tisch. Aber hier zeigt sich das eigentliche Problem von SRF: Der Sender gräbt genau so tief, wie die Akten der Behörden reichen – und keinen Millimeter weiter. SRF listet ein monumentales Staatsversagen auf, liest es aber vor wie einen Wetterbericht. Die Fakten sind da. Die kritischen Fragen an die Macht fehlen völlig.*

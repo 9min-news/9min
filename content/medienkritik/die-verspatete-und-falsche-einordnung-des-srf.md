@@ -66,6 +66,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *SRF berichtet, dass über 80 Prozent der nordafrikanischen Asylsuchenden in der Schweiz mindestens einer Straftat beschuldigt werden, und rahmt die Zahl als Problem, das erklärt werden muss — nicht als Befund, der Konsequenzen fordert. Ein Experte erklärt, die wenigsten kämen mit kriminellen Absichten. Der Beitrag verschweigt, dass 80 Prozent eine Zahl ist, die das Asylsystem delegitimiert. Er verschweigt die Kosten. Er verschweigt die Rückkehr als Lösung. Und er verschweigt die Frage, ob ein System, das Menschen aufnimmt, die es weiss, dass sie keine Chance haben — und die dann kriminell werden —, funktioniert oder versagt. Er ist ein Experteninterview, das ein Systemfehler als Kulturerklärung verkauft.*

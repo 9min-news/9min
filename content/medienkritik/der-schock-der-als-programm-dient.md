@@ -65,6 +65,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M003
 ---
 
 *Der Beitrag meldet Klimademonstrationen in Lausanne und Genf: Tausende Teilnehmer, Kinder mit Plakaten, Buhrufe gegen einen Bundesrat, die Forderung nach Massnahmen. Was er auslässt: jede Zahl, die den Kontext liefert. Wie viele Menschen demonstrierten wirklich? Der Beitrag nennt drei Schätzungen, die bis zum Vierfachen auseinanderliegen: 6000 laut Keystone, 12'000 laut Polizei in Lausanne; 7000 laut Organisatoren, 3000 laut Polizei in Genf. Welche gilt? Der Beitrag druckt alle vier und wählt keine. Was fordern die Demonstrierenden konkret? «Massnahmen» — welche, wie finanziert, mit welcher Wirkung: nichts. Und die Prognose, die den Schluss liefert — 50 Grad bis 2050 —, steht da ohne Quelle, ohne Einordnung, ohne die Frage, welche Annahmen eine solche Zahl tragen. Ein Beitrag über eine politische Bewegung, der die Grösse der Bewegung, den Inhalt der Forderung und die Grundlage der Warnung offenlässt, hat nichts geliefert als Stimmung.*

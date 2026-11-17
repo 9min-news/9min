@@ -68,6 +68,7 @@ quelle_format: Broadcast
 quelle_sendung: Kulturplatz
 quelle_redaktion: SRF Kultur
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *Yves Bossart blickt im «Kulturplatz» auf 25 Jahre 21. Jahrhundert zurück. Er sagt: «Wir haben die Zukunft verloren.» Er hat recht — und doch erzählt er die falsche Geschichte. Denn Bossart beschreibt die Symptome mit Eleganz: die Angst, die Krisen, die Atomisierung, das Smartphone als «Heroingerät». Aber er benennt die Ursache nicht. Er beschreibt das Gefängnis — und nennt es Stimmung. Er beschreibt die Schliessung — und nennt sie Rechtspopulismus. Er beschreibt den Kontrollverlust der Bürger — und übersieht den Kontrollgewinn der Mächtigen. Das ist kein Versehen. Es ist die Methode eines öffentlich-rechtlichen Senders, der die Krise als Wetter beschreibt — und nie als Konstruktion.*

@@ -64,6 +64,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *SRF erklärt, warum die EU Milliarden an die Palästinensische Autonomiebehörde zahlt, und rahmt die Zahlungen als humanitäre Pflicht. Ohne das Geld wäre die Behörde bankrott. Was nicht vorkommt: die Frage, ob die EU eine korrupte Behörde finanziert, die Terroristen Gehälter zahlt. Was nicht vorkommt: die fehlende demokratische Legitimation der Autonomiebehörde. Was nicht vorkommt: die Schweizer Zahlungen, und die Frage, was mit den Milliarden passiert, wenn die Behörde kollabiert. Der Beitrag ist eine Erklärung, die das System hinter den Zahlungen verschweigt.*

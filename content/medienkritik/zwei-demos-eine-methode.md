@@ -79,6 +79,7 @@ quelle_format: Print
 quelle_sendung: ''
 quelle_redaktion: NZZ am Sonntag
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Zu zwei Reportagen von Ladina Triaca: *[«Wir tragen oben Dunkel, Regenhose und dunkle Schuhe»](https://www.nzz.ch/schweiz/wir-tragen-oben-dunkel-regenhose-und-dunkle-schuhe-so-agiert-der-schwarze-block-in-der-schweiz-ld.1907137)* (NZZaS, 18. Oktober 2025) und *[«Rimoldi rief — und seine rechten Freunde kamen»](https://www.nzz.ch/schweiz/rimoldi-rief-und-seine-rechten-freunde-kamen-ld.10006409)* (NZZaS, 10. Mai 2026)*

@@ -66,6 +66,7 @@ quelle_format: Print
 quelle_sendung: ''
 quelle_redaktion: NZZ am Sonntag Meinung
 kritik_schwere: 3
+muster_id: M016
 ---
 
 *Peer Teuwsen nennt die Hälfte der Schweizer Wählerschaft neurotisch, verwahrlost und realitätsverweigernd. Er beruft sich auf Freud, um politische Gegner zu pathologisieren. Er vermischt die 10-Millionen-Initiative mit Arbeitszeit, Frühpensionierung, AHV-Renten, Sabbaticals, Erbschaften und dem Eurovision Song Contest. Was er nicht macht: ein einziges Argument der Initiativbefürworter ernst nehmen. Wohnungsnot wird nicht erwähnt. Lohnkonkurrenz wird nicht erwähnt. Die Belastung der Infrastruktur wird nicht erwähnt. Stattdessen: Diagnose. Wer anders denkt, ist krank.*

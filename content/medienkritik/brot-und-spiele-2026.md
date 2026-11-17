@@ -72,6 +72,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: 9min.ch
 kritik_schwere: 3
+muster_id: M004
 ---
 
 Die WM läuft. Seit dem 11. Juni rollt der Ball durch sechzehn Städte in drei Ländern, das grösste Turnier der FIFA-Geschichte, 48 Teams, ein Rekordzuschauerstand von 3,6 Millionen Menschen bereits nach zwei Wochen. Und während die Welt schaut, findet eine Operation statt, die man in ihrer Präzision bewundern müsste, wenn sie nicht so zynisch wäre.

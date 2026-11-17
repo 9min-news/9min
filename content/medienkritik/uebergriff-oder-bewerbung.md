@@ -112,6 +112,7 @@ zusammenfassung: >-
   Neulinge, SVP-Interesse 2015) und die Abstimmung über die Volkswahl des
   Bundesrates (2013 mit 76,3% Nein abgelehnt) weg.
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Ein Wort trägt diesen Beitrag, und es stammt von einem einzigen Mann. «Politischer Übergriff» steht im Titel, im ersten Zwischentitel und im Zitat des Berner Politologen Adrian Vatter, dort allerdings gepolstert: «Das ist eigentlich, wenn man so will, auch ein politischer Übergriff.» Im Titel sind «eigentlich», «wenn man so will» und «auch» verschwunden. Übrig bleibt ein Urteil in Anführungszeichen. Die Vorannahme lautet: Eine Partei, die öffentlich ein Departement verlangt, greift die Institution an. Der Beitrag verschweigt, dass die SVP schon 2015 Interesse am Justizdepartement anmeldete und dass dieses Departement in den letzten Jahrzehnten auffällig oft an Neugewählte ging. Neben dem Politologen spricht niemand, auch nicht die Partei, über die geurteilt wird.*

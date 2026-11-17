@@ -71,6 +71,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Wie SRF die Klimaziele zum Dogma erhebt, die Frage nach ihrer Realisierbarkeit verschweigt, den demokratischen Willen des Voluses übergeht und die Treibstoffbranche als Sündenbock präsentiert – ohne zu fragen, ob die Ziele jemals erreichbar waren*

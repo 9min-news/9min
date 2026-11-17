@@ -55,6 +55,8 @@ function SchwereDots({ value }: { value: number }) {
   )
 }
 
+const MAX_EXAMPLES = 12
+
 const TYPE_LABELS: Record<string, string> = {
   medienkritik: 'Medienkritik',
   analyse: 'Analyse',
@@ -69,7 +71,10 @@ export default async function MusterDetailPage(
   const muster = getMusterBySlug(id)
   if (!muster) notFound()
 
-  const linked = loadMetadata().filter(e => e.muster_id === muster.id)
+  const linked = loadMetadata()
+    .filter(e => e.muster_id === muster.id)
+    .sort((a, b) => b.date.localeCompare(a.date))
+  const shown = linked.slice(0, MAX_EXAMPLES)
 
   return (
     <>
@@ -158,7 +163,7 @@ export default async function MusterDetailPage(
               Beispiele · {linked.length} {linked.length === 1 ? 'Beitrag' : 'Beiträge'}
             </p>
             <ul style={{ listStyle: 'none', padding: 0, margin: 0 }}>
-              {linked.map((entry, i) => (
+              {shown.map((entry, i) => (
                 <li key={entry.slug} style={{
                   borderTop: i === 0 ? '1px solid var(--color-border)' : undefined,
                   borderBottom: '1px solid var(--color-border)',
@@ -213,6 +218,18 @@ export default async function MusterDetailPage(
                 </li>
               ))}
             </ul>
+            {linked.length > shown.length && (
+              <p style={{ margin: '24px 0 0' }}>
+                <Link href={`/medienkritik?muster=${muster.id}`} style={{
+                  fontFamily: 'var(--font-body)',
+                  fontSize: '13px',
+                  color: 'var(--color-tannengruen)',
+                  textUnderlineOffset: '3px',
+                }}>
+                  Alle {linked.length} Beiträge mit diesem Muster →
+                </Link>
+              </p>
+            )}
           </section>
         )}
 

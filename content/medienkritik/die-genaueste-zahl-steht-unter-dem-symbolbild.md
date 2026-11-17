@@ -105,6 +105,7 @@ zusammenfassung: >-
   Ombudsstelle darzustellen oder den europäischen Vergleich zu nennen, der die
   Schweiz in günstigem Licht zeigte.
 kritik_schwere: 2
+muster_id: M008
 ---
 
 *Der Titel greift zur breitesten verfügbaren Kennzahl: «Fast jedes fünfte Kind ist in der Schweiz armutsgefährdet». Die engste steht in der Bildlegende, unter einem Symbolbild: «Fast fünf Prozent der Kinder unter 16 Jahren» seien 2024 in drei oder mehr wichtigen Lebensbereichen finanziell benachteiligt gewesen. Dazwischen liegen drei Masse für Kinderarmut, die der Beitrag weder definiert noch zueinander in Beziehung setzt. Er verschweigt, dass Armutsgefährdung ein relatives Mass ist, dass die Schweiz bei den Entbehrungen von Kindern im europäischen Vergleich zu den tiefsten Werten gehört und wie der Bundesrat seinen Entscheid gegen eine Ombudsstelle begründet. Die Mitteilung eines Verbands liefert Zahlen, Diagnose und Gegenposition in einem und wird so zum Lagebericht.*

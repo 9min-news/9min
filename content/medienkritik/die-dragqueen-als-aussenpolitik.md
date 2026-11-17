@@ -63,6 +63,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M017
 ---
 
 *Dieser SRF-Beitrag über eine Schweizer Dragqueen auf China-Tour ist ein Grenzfall des öffentlich-rechtlichen Auftrags — und das nicht nur wegen des Framing. Das Thema selbst ist marginal: Eine Schweizer Künstlerin tourt durch China, kassiert Absagen, findet Ersatzlokale, tritt schliesslich auf. Das ist eine persönliche Experience-Story, kein politischer Befund. Dass aus dieser Anekdote eine Reportage über «chinesische Repression» gemacht wird, ist eine Redaktionsentscheidung, die mehr über den Schweizer Feiertagskalender verrät als über die Lage in China. Und die «queere Community», die hier bemüht wird, existiert als einheitliche Grösse gar nicht — es ist ein heterogenes Konglomerat von Individuen mit unterschiedlichen Interessen, Lebensentwürfen und politischen Positionen, das von SRF zu einer kollektiven Opfernarrative zusammengefasst wird, weil das besser ins Bild passt.*

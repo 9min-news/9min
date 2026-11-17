@@ -60,6 +60,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF 4 News
 kritik_schwere: 3
+muster_id: M009
 ---
 
 *SRF meldet den Erdüberlastungstag und rahmt ihn als wissenschaftlichen Befund. Die Menschheit lebe «auf Pump», brauche 1,73 Erden, die Schweiz 2,8. Was nicht vorkommt: die Frage, wer diese Zahlen berechnet. Was nicht vorkommt: die Methodik hinter einer Metrik, die eine Advocacy-Organisation erfand. Was nicht vorkommt: die Frage, ob der Erdüberlastungstag eine Messgrösse oder ein Kommunikationsinstrument ist. Der Beitrag ist eine Pressemitteilung des WWF, ungeprüft weitergegeben.*

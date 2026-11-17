@@ -109,6 +109,7 @@ zusammenfassung: >-
   entscheidende Zahl nicht, obwohl es sie selbst am selben Tag in einem anderen
   Beitrag publizierte.
 kritik_schwere: 3
+muster_id: M009
 ---
 
 *Ein Stimmbürger will wissen, was gegen die Feuerwerksinitiative spricht. Er sucht im Netz und landet auf feuerwerksinitiative-nein.ch, einer Seite, die aussieht wie die Kampagne der Gegner, aber von Befürwortern betrieben wird. SRF beantwortet die Titelfrage, ob das zum Abstimmungskampf gehöre, schon im zweiten Satz mit «Auch Tricksereien gehören dazu». Danach ordnet der Beitrag das Manöver mit der Faustregel eines Kampagnenberaters ein: Für Kampagnen «mit kleinem Budget» könne Frechheit eine Chance sein. Wer in diesem Abstimmungskampf klein ist, sagt er nicht. Das Ja-Lager hat der Eidgenössischen Finanzkontrolle 875'000 Franken gemeldet, die Nein-Kampagne will 100'000 Franken auslegen. Der Stimmbürger, der die Gegenseite hören will, landet so womöglich zuerst beim finanziell stärkeren Lager, und das gebührenfinanzierte Medium erzählt ihm dazu die Geschichte vom frechen Kleinen.*

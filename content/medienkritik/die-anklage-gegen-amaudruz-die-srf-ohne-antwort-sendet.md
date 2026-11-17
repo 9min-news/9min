@@ -112,6 +112,7 @@ zusammenfassung: >-
   das Sachgerechtigkeitsgebot des RTVG, indem er eine Mitbewerberin als
   Gutachterin über eine Konkurrentin inszeniert.
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Ein Text über Céline Amaudruz enthält keinen einzigen Satz von Céline Amaudruz. Die Grünen-Präsidentin wirft der SVP-Bundesratskandidatin in der Samstagsrundschau «starkes Lobbying» für eine gerügte Bank vor, und SRF liefert die Beweiskette in eigener Stimme nach: erst die Finma-Rüge, dann, «Kurz darauf», die Finma-kritischen Vorstösse. Dass Amaudruz genau diesen Zusammenhang bestreitet, steht nirgends. Knapp sechs Wochen vor der Ersatzwahl vom 9. Dezember erfährt der Stimmbürger, der den Bundesrat nicht selbst wählt, über die Kandidaten vieles nur aus Medien wie dem gebührenfinanzierten Sender. Ein Vorwurf ohne Antwort ist für ihn kein Bericht, sondern ein Urteil, das er mitbezahlt.*

@@ -75,6 +75,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M001
 ---
 
 *Zum SRF-Ticker *[«Orban gibt Blockade von Ukraine-Hilfe und Sanktionen auf»](https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-orban-gibt-blockade-von-ukraine-hilfe-und-sanktionen-auf)* vom 20.–22. April 2026*

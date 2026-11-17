@@ -103,6 +103,7 @@ zusammenfassung: >-
   verspreche der Beitrag Schweizer Gletscherdaten, liefere aber nur einen
   deutsch-österreichischen Agenturtext ohne Schweizer Fakten.
 kritik_schwere: 2
+muster_id: M012
 ---
 
 *Etwa acht Meter: So dick dürfte der «letzte Gletscher» der Allgäuer Hochalpen vor diesem Sommer im Schnitt gewesen sein, ungefähr die Höhe eines dreistöckigen Hauses. Die Rechnung steht nicht im Beitrag. Sie lässt sich nur aus seinen Zahlen gewinnen, weil SRF keine einzige absolute Grösse nennt, sondern nur relative Verluste. Titel und Bildlegende («Da war einmal ein Gletscher») machen aus einer Neuklassifikation nach einem Fachkriterium einen Nachruf, und der Text verlängert ihn bis zu den Ostalpen, die «zwischen 2060 und 2070 eisfrei» sein sollen. Für den Stimmbürger, dem Gletscherbilder in der Schweiz als politische Währung begegnen, geht es um den Massstab: Steht ein Bild für die Alpen oder für einen Firnrest in einem Randgebirge?*

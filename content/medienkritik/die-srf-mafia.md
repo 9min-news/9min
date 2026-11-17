@@ -58,6 +58,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M004
 ---
 
 *Dieser SRF-Beitrag schildert einen entsetzlichen Fall: Vier Erntehelfer werden in Kalabrien in einem Auto verbrannt, offenbar nachdem sie sich gegen ihre Arbeitsbedingungen gewehrt hatten. Der Beitrag verbindet den Fall mit dem italienischen System des «Caporalato», also der Ausbeutung migrantischer Landarbeiter durch illegale Arbeitsvermittler. Das Thema ist wichtig, die moralische Empörung berechtigt. Aber der Text springt an mehreren Stellen von Indizien zu Gewissheiten.*

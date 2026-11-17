@@ -72,6 +72,7 @@ quelle_format: Broadcast
 quelle_sendung: SRF Sport
 quelle_redaktion: SRF Sport
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Fünf Monate nach Fischer: Xhaka, dieselbe Staatsanwaltschaft, dasselbe Format — und weiterhin kein Wort zu den RKI-Akten*

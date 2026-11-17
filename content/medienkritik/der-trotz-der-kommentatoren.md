@@ -75,6 +75,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: NZZ Meinung
 kritik_schwere: 3
+muster_id: M016
 ---
 
 *Zum NZZ-Kommentar von Tobias Gafafer: *[«Zahlreiche Menschen wollen aus Trotz ein Ja einlegen, weil es ihnen zu viel geworden ist. Aber das ist gefährlich»](https://www.nzz.ch/meinung/10-millionen-initiative-der-svp-zahlreiche-menschen-wollen-aus-trotz-ein-ja-einlegen-weil-es-ihnen-zu-viel-geworden-ist-aber-das-ist-gefaehrlich-ld.10006141)*, 13. Mai 2026*

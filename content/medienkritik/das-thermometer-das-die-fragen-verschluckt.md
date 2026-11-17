@@ -62,6 +62,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF dialog
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *SRF berichtet über die Erwärmung des Mittelmeers und rahmt sie als unumkehrbare Transformation. «Das Mittelmeer wird nicht mehr so sein, wie es war.» Ein Biologe erklärt die Tropikalisierung: neue Arten, einwandernde Fische, bedrohte Delfine. Der Beitrag verschweigt die Messbasis — «bis zu sechs Grad über dem Normalwert» ohne Definition des Normalwerts. Er verschweigt die Frage, ob die Einwanderung der Arten durch den Suezkanal ein Klimaphänomen oder ein Schifffahrtsphänomen ist. Er verschweigt die historische Einordnung — das Mittelmeer war schon wärmer. Und er verschweigt die Schweizer Dimension: Wer soll was tun, und was würde es kosten. Er ist eine Tierreportage, die eine These als Fakt verkauft.*

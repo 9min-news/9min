@@ -59,6 +59,7 @@ quelle_format: Broadcast
 quelle_sendung: Rendez-vous
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M003
 ---
 
 *SRF interviewt den deutschen Klimaforscher Mojib Latif über Wasserknappheit und rahmt ihn als unfehlbaren Warner. Flüsse trocknen aus, der Bodensee sinkt. SRF fragt nicht nach Latifs vergangenen Prognosen, interviewt für Schweizer Binnengewässer einen deutschen Ozeanographen statt eines Schweizer Experten und prüft nicht die Schweizer Wasserbilanz. Der Beitrag ist ein Interview ohne journalistischen Instinkt.*

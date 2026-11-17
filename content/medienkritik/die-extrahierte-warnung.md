@@ -67,6 +67,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 Wie SRF aus einer [Literaturrede](https://www.edi.admin.ch/de/newnsb/KNx9IH3QA63zuNWdClpOf) eine politische Stellungnahme macht und was der Volltext verrät — *Zum SRF-Beitrag *[«Baume-Schneider warnt vor Initiative 'Keine 10-Mio-Schweiz'»](https://www.srf.ch/news/schweiz/an-solothurner-literaturtagen-baume-schneider-warnt-vor-initiative-keine-10-mio-schweiz)*, 15. Mai 2026*

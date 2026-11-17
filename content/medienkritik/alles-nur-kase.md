@@ -75,6 +75,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News International
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *Wie SRF im Mai 2026 detailliert über die spanische Demokratiekrise berichtet, am 20. Mai die Eskalation präzise antizipiert, drei Tage später schweigt, als 40'000 bis 120'000 Menschen in Madrid den Rücktritt von Premierminister Sánchez fordern, und stattdessen über ein Käserennen in England berichtet – eine Chronologie, die zeigt, dass öffentlich-rechtlicher Rundfunk nicht an mangelnden Ressourcen scheitert, sondern an den Kriterien, nach denen er entscheidet, welche Geschichten zu Ende erzählt werden und welche im entscheidenden Moment abreissen*

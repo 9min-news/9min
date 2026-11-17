@@ -4,8 +4,8 @@ date: '2026-05-10'
 status: published
 type: analyse
 series: 'Die Toblerone-Serie'
-seriesIndex: 8
-coverImage: 'https://pbs.twimg.com/media/HH8-rwuXMAMM3so.jpg'
+seriesIndex: 1
+coverImage: '/images/essays/die-verpackung.jpg'
 tweetId: '2053432182568284396'
 categories:
   - Wirtschaft

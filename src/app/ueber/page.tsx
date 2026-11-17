@@ -91,6 +91,9 @@ export default function UeberPage() {
             insbesondere SRF —, mit Fokus auf strukturelle Auslassungen, fehlende Verknüpfungen, ungestellte
             Fragen. Nicht «links» oder «rechts» zählen, sondern: Wird beschrieben, was zu beschreiben wäre?
             Wird adressiert, wer adressierbar wäre? Wird nachgefasst, wenn Versprechen brechen?
+            Jede Kritik fragt von den Grundprinzipien aus: Wer zahlt, wer entscheidet, wer haftet? Und sie
+            benennt den Mechanismus, der wiederkehrt. Diese Mechanismen sind im <a href="/muster">Muster-Katalog</a> gesammelt,
+            jeweils mit allen Beispielen.
           </p>
           <p>
             <strong>Essays.</strong> Längere Texte zu grundlegenden Themen — Geldordnung, Systemkritik,

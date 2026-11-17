@@ -64,6 +64,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Israel nimmt die Kreuzritterfestung Beaufort im Südlibanon ein. SRF macht daraus eine Geschichte über eine «rund 900 Jahre alte Festung», über mittelalterliches Welterbe, über den «tiefsten Vorstoss seit mehr als einem Vierteljahrhundert». Die Bildergalerie zeigt wehende israelische Fahnen auf alten Steinmauern, zerstörte Gebäude, aufsteigenden Rauch. Und der prominent gesetzte Pull-Quote stammt vom libanesischen Ministerpräsidenten: «Ein Versuch, die Geschichte auszuradieren.» Es ist eine elegant gebaute Erzählung. Aber sie stellt die entscheidende Frage erst spät, leise und ohne Nachdruck: Warum ist Israel überhaupt dort? Und sie behandelt eine vom Iran finanzierte, als Terrororganisation eingestufte Miliz als eine von drei gleichberechtigten Stimmen am Tisch.*

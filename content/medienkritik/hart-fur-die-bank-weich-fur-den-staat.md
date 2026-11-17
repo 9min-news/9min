@@ -68,6 +68,7 @@ quelle_format: Broadcast
 quelle_sendung: Tagesschau
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Der Staat verlangt von der UBS, was er für sein eigenes Geld nicht hält: harte Deckung. 90 Prozent Kernkapital für die Auslandtöchter, «hartes Eigenkapital» nennt der Beitrag das selbst. Die Logik des Regulators: Was hart unterlegt ist, kann nicht wegbrechen. Dieselbe Logik, auf das Geld des Regulators angewandt, existiert im ganzen Stück nicht. Der Franken ist eine Verbindlichkeit ohne Einlösungsversprechen, seit 1999, als die Schweiz als eines der letzten Länder der Welt die verfassungsmässige Golddeckung abschaffte, um danach die Hälfte der Reserven zu verkaufen, nahe am Preisboden. Der Staat, der Härte fordert, praktiziert Weichheit. Dazu verschweigt der Beitrag den Ursprung der gesamten Debatte: die Credit Suisse kommt mit keinem Wort vor. Und die Finanzministerin darf sagen: «Der Staat wird nie zuschauen, wie eine global tätige, systemrelevante Bank untergeht» — das Eingeständnis der impliziten Staatsgarantie, gedruckt als Beruhigung.*

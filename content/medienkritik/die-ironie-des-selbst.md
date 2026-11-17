@@ -58,6 +58,7 @@ quelle_format: Broadcast
 quelle_sendung: ''
 quelle_redaktion: SRF
 kritik_schwere: 3
+muster_id: M017
 ---
 
 SRF berichtet über ein Land, in dem die Regierung Mainstream-Medien kontrolliert, Narrative gezielt setzt, Ängste schürt und den demokratischen Dialog erschwert. Der Beitrag liest sich wie Selbstkritik — nur dass er auf Ungarn zeigt.

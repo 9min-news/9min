@@ -65,6 +65,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *Zum SRF-Beitrag *[«Sparen im Alltag: Diese Tipps entlasten das Haushaltsbudget»](https://www.srf.ch/news/schweiz/tipps-zum-sparen-sparen-im-alltag-diese-tipps-entlasten-das-haushaltsbudget)*, 12. Mai 2026*

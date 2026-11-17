@@ -77,6 +77,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: ''
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *9min zu 9min — Teil 3 der Serie. Über John Maynard Keynes, den charmantesten Ökonomen des 20. Jahrhunderts, und warum seine Ideen sich  durchsetzten. Nicht weil sie stimmten, sondern weil sie unwiderstehlich waren.*

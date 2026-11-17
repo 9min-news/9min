@@ -59,6 +59,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 Der Dachzeiler fragt: «Faire Wahlen in den USA?» Der Text kennt die Antwort bereits: Nein.

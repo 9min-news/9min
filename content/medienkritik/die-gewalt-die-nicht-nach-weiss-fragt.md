@@ -69,6 +69,7 @@ quelle_format: Broadcast
 quelle_sendung: Tagesschau
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *Dieser SRF-Beitrag über fremdenfeindliche Gewalt in Südafrika zeigt ein reales, eskalierendes Problem — und verpasst zugleich die grössere Story. Die Tagesschau berichtet über «March on March», eine Bewegung, die illegale Migranten bis zum 30. Juni aus dem Land drängen will, über Mobangriffe, Tote und panische afrikanische Arbeitsmigranten. Das ist dokumentiert und relevant. Aber der Beitrag blendet aus, was die internationale Debatte um Südafrika eigentlich dominiert: die Frage, ob weisse Farmer gezielt ermordet werden, ob es einen Rassenkrieg gibt, ob die Trump-Administration recht hatte, als sie weisse «Geflüchtete» aus Südafrika aufnahm. Der verlinkte SRF-Beitrag vom Mai 2025 erwähnt genau das — aber die aktuelle Tagesschau schweigt dazu. Wer die Südafrika-Berichterstattung des SRF in den letzten zwei Jahren verfolgt, sieht ein Muster: Wenn afrikanische Migranten Opfer sind, wird berichtet; wenn weisse Farmer Opfer sind, wird relativiert oder geschwiegen. Das ist keine Verschwörung, aber es ist eine Schlagseite, die Fragen aufwirft.*

@@ -57,6 +57,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Zum SRF-Beitrag *[«Auto rast im italienischen Modena in Menschenmenge»](https://www.srf.ch/news/international/mehrere-schwerverletzte-auto-rast-im-italienischen-modena-in-menschenmenge)*, 17. Mai 2026*

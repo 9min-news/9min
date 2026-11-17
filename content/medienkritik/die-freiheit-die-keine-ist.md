@@ -61,6 +61,7 @@ quelle_format: Print
 quelle_sendung: ''
 quelle_redaktion: NZZ am Sonntag
 kritik_schwere: 2
+muster_id: M006
 ---
 
 *Wie Lisa Marchon die SVP als Sündenbock konstruiert, während sie selbst genau das tut, was sie kritisiert: Sie macht die SVP für Probleme verantwortlich, die sie nicht allein verursacht hat, sie leugnet den einfachen Zusammenhang zwischen Bevölkerungswachstum und Infrastrukturbelastung, sie nennt die Erfahrung von Dichte «Nostalgie» und sie verkauft die Kündigung der Personenfreizügigkeit als Freiheitsverlust – ohne zu erklären, wie die Freiheit derer, die hier schon leben, durch ständiges Wachstum zunimmt*

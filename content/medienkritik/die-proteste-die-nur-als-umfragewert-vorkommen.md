@@ -107,6 +107,7 @@ zusammenfassung: >-
   Anliegen dargestellt, und der finanzielle Kontext der Regierungsschwäche
   fehlt. Mélenchons gleichartiger Zuwachs wird in der Schlagzeile übergangen.
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *Der Titel setzt einen Kausalsatz: «Strassenproteste spielen Le Pen in die Hände». Der Text darunter vermutet nur. Die Ausschreitungen «scheinen» dem Rassemblement National «in die Karten zu spielen», sie «dürften ihr zusätzlich geholfen haben». Die Zahl, die den Satz tragen müsste, steht in der Agenturbox: Le Pen «gewann damit gegenüber früheren Umfragen ein bis zwei Prozentpunkte hinzu». Ein Zuwachs dieser Grösse wird zur Wirkung einer Protestwelle erklärt, deren Anlass, Träger und Forderungen der Beitrag verschweigt, ebenso wie die Fehlermarge der Umfrage und die Kassenlage, an der jede Antwort auf die Proteste hängt.*

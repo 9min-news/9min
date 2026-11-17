@@ -64,6 +64,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M003
 ---
 
 *Zur SRF-Berichterstattung *[«Wenig Schnee auf Schweizer Gletschern»,](https://www.srf.ch/news/schweiz/gletscherschmelze-wenig-schnee-auf-schweizer-gletschern)* 8. Mai 2026*

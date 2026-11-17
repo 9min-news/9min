@@ -112,6 +112,7 @@ zusammenfassung: >-
   Steuerämter zum Massstab erklärt, während die Mitte-Position als letztes Wort
   unwidersprochen bleibe.
 kritik_schwere: 3
+muster_id: M007
 ---
 
 *Am 10. April 2019 annullierte das Bundesgericht zum ersten Mal eine eidgenössische Volksabstimmung, und zwar eine über die Heiratsstrafe. Die Stimmbürger hatten 2016 im Glauben entschieden, 80'000 Ehepaare seien betroffen, tatsächlich waren es rund 454'000. Sieben Jahre später fasst SRF dieselbe Frage in den Satz «Die Heiratsstrafe ist bereits abgeschafft», obwohl das neue Modell laut eigenem Text erst ab 2032 greifen soll. Aus dieser Vorwegnahme baut der Titel ein «erneut» und ein «Steuerchaos», das allein an der Mühe der kantonalen Steuerämter gemessen wird. Drei Wochen vor der Abstimmung vom 29. November erfährt der Stimmbürger, wer veranlagt, aber nicht, wer bezahlt.*

@@ -77,6 +77,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: Blick Politik
 kritik_schwere: 3
+muster_id: M017
 ---
 
 [Zur Berichterstattung des Blick vom 2. Mai 2026 über Justizminister Beat Jans und die GPK-Untersuchung im Abstimmungskampf zur 10-Millionen-Initiative](https://www.blick.ch/politik/verstoesse-im-abstimmungskampf-oberaufsicht-will-gegen-jans-ermitteln-id21915069.html)

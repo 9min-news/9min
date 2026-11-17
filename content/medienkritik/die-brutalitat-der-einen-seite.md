@@ -63,6 +63,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *SRF erklärt, warum Russlands Luftangriffe tödlicher werden, und rahmt den Krieg als einseitige russische Zermürbungsstrategie. Russland bombardiere zivile Ziele, um die ukrainische Bevölkerung zu brechen. Was nicht vorkommt: dass die Ukraine ebenfalls russische Zivilisten angreift; die ukrainischen Drohnenangriffe auf russische Wohngebiete und die getöteten Zivilisten in Russland. Der Beitrag ist eine Kriegsanalyse, die die Kriegsrealität halbiert — und damit nicht erklärt, warum der Krieg eskaliert, sondern nur, warum eine Seite leidet.*

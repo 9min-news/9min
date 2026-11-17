@@ -114,6 +114,7 @@ zusammenfassung: >-
   ausgeblendet, wodurch die Akteure als neutrale Beobachter statt als
   Mitverursacher und Betroffene der Risiken erschiene.
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *Der Titel verspricht «Zwei Perspektiven». Geliefert werden zwei Vertreter des Schweizer Staates, die sich in keinem Punkt widersprechen und auf keine Nachfrage antworten müssen. Der Vorspann gibt ihnen die Rolle, die den ganzen Beitrag trägt: Die beiden «ordnen die zentralen Themen ein». Schulden, Zinsen, Inflation, Börsenkorrektur und Blase liegen in dieser Anordnung draussen in der Welt, während die Schweiz «viel Lob, viel Anerkennung» erntet. Dass die Nationalbank Gläubigerin verschuldeter Staaten ist, dass ihre Gewinne in die Kasse der Finanzministerin fliessen und dass beide Institutionen 2023 die Übernahme einer Grossbank mit Garantien und Liquiditätszusagen absicherten, erfährt der Zuschauer nicht.*

@@ -63,6 +63,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *Zwei Stunden nach der Tat. Drei Verletzte statt einer. «Allahu Akbar» — aber nur über «Blick» zitiert. Ein 31-jähriger Schweizer. «Hintergrund unklar.» Das ist das «Mehr», das SRF versprochen hat. Und es ist genau das, was man erwarten konnte: Die Fakten, die nicht mehr zu vermeiden sind, werden nachgeliefert — aber so gerahmt, dass sie die Erzählung nicht stören. Der Schweizer Staatsbürger steht im Zentrum. Der Ruf nach Allah wird delegiert. Der Hintergrund bleibt «unklar». Und die Frage, die sich stellt, lautet: Was wüssten wir jetzt, wenn es Nau, Focus und Merkur nicht gäbe?*

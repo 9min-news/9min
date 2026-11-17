@@ -62,6 +62,7 @@ quelle_format: Broadcast
 quelle_sendung: Rendez-vous
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M017
 ---
 
 *Zur SRF-Sendung «Rendez-vous» vom 5. Mai 2026: *[«‹Donut-Ökonomie› soll Gesellschaft radikal verändern»](https://www.srf.ch/news/schweiz/nachhaltige-gesellschaft-donut-oekonomie-soll-gesellschaft-radikal-veraendern)

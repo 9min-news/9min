@@ -102,6 +102,7 @@ zusammenfassung: >-
   Italiens Stichtagsregel zu akzeptieren. Die Kritik sieht eine Kapitulation als
   Fortschritt inszeniert.
 kritik_schwere: 3
+muster_id: M013
 ---
 
 *4036 Asylbewerber hätte Italien seit Ende 2022 aus der Schweiz zurücknehmen müssen. Die Zusage aus Rom, die SRF als «Besserung» meldet, gilt laut Schlussabsatz des Beitrags nur für Personen, die nach Mitte Juni 2026 eingereist sind, und das SEM richtet sich danach aus. Die Zusammenfassung erzählt dagegen eine Rückkehr zur Vertragstreue: Italien verspreche, «wieder Asylsuchende zurückzunehmen». Der Beitrag sagt nicht, dass dieses «wieder» eine Bedingung enthält, die weder im alten noch im neuen Dublin-Recht steht, und er sagt nicht, was vier Jahre Blockade gekostet haben. Für den Stimmbürger, der 2005 Schengen/Dublin angenommen hat, und für den Steuerzahler, der die Folgen trägt, geht es darum, ob dieser Vertrag noch gilt oder nur noch zu den Bedingungen des Partners.*

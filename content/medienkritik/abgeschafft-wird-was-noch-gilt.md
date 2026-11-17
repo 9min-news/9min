@@ -103,6 +103,7 @@ zusammenfassung: >-
   werde. Zudem kämen die Initianten nicht zu Wort, und die Verlierer der
   Individualbesteuerung würden verschwiegen.
 kritik_schwere: 3
+muster_id: M005
 ---
 
 *Der Beitrag beginnt mit einem Satz in eigener Stimme: «Die Heiratsstrafe ist mit dem Ja des Stimmvolks zur Individualbesteuerung bereits Geschichte». Erst nach dem Doppelpunkt erfährt man, dass es sich um das «Kernargument» der Finanzministerin handelt. Die Vorannahme, die den Text trägt, lautet: beschlossen heisst erledigt. Die Zahl, die ihn trägt, ist ein Vergleich zwischen «bis zu drei Milliarden» und «rund 630 Millionen», den der Beitrag nicht prüft. Er verschweigt, wen die beschlossene Reform belastet, und er lässt die Initianten in ihrer eigenen Abstimmung nicht zu Wort kommen.*

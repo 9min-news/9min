@@ -69,6 +69,7 @@ quelle_format: Broadcast
 quelle_sendung: 10vor10 / ECO
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M017
 ---
 
 *Zur Qualität der SRF-Berichterstattung über Fredy Künzler *[2013](https://www.srf.ch/news/schweiz/schweiz-querelen-um-neue-ueberwachungsanlage-des-bundes-halten-an)*, *[2018](https://www.srf.ch/news/wirtschaft/internet-glasfasernetz-angst-vor-neuem-swisscom-monopol)*, *[2020](https://www.srf.ch/news/wirtschaft/neue-weko-klage-swisscom-soll-beim-glasfaser-netzausbau-die-konkurrenz-behindern)* — und zu ihrer Abwesenheit 2026*

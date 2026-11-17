@@ -68,6 +68,7 @@ quelle_format: Broadcast
 quelle_sendung: Tagesgespräch
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 [*Zum SRF-Tagesgespräch mit Mattea Meyer vom 29. April 202](https://www.srf.ch/news/schweiz/rueckkehr-nach-erschoepfung-mattea-meyer-ich-wusste-nicht-ob-ich-zurueckkomme)6*

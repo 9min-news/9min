@@ -66,6 +66,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *SRF interviewt eine Maghreb-Expertin über die Fluchtursachen marokkanischer Jugendlicher und rahmt den Vorgang als wirtschaftliches Paradoxon. Marokko wachse, aber die Jugend wandere aus. Der Beitrag verschweigt, dass die zitierte Expertin für eine Organisation arbeitet, deren Auftraggeber ein Interesse an Einwanderung hat. Er verschweigt die Pull-Faktoren Europas, die die Migration erst attraktiv machen. Er verschweigt die Hunderte Millionen, die die EU und die Schweiz Marokko für Grenzsicherung bezahlen — ohne dass es funktioniert. Und er verschweigt die Schweiz, die ein Hauptziel dieser Migration ist. Er ist ein Interview, das eine strukturelle Überbevölkerung als individuelles Schicksal umdeutet.*

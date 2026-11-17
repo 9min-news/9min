@@ -70,6 +70,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF Wirtschaftsredaktion
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *Zur *[SRF-«Analyse» von Klaus Ammann zum Klimagipfel in Santa Marta](https://www.srf.ch/news/international/klimakonferenz-der-willigen-ausstieg-aus-kohle-oel-und-gas-schweiz-muss-konkret-werden)* vom 1. Mai 2026*

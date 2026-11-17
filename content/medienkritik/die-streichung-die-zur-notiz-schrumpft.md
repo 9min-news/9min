@@ -68,6 +68,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *SRF meldet, dass Bundesrat Rösti die Mittel für klimatauglichen Wald streicht — und liefert vier Sätze. Die NZZ am Sonntag hat die Geschichte: ein Ständerat, der seine Bäume wässert, tote Fichten, ein Bundesrat, der Parlamentsbeschlüsse ignoriert, ein Harz-Vergleich, Förster in Ohnmacht, ein SVP-Nationalrat, der Waffen über Wald stellt. SRF hat davon gelesen — via Keystone-SDA — und einen Viertel daraus gemacht. Was nicht vorkommt: der politische Konflikt. Was nicht vorkommt: die Geschichte. Was nicht vorkommt: die Gegenstimme. Was nicht vorkommt: die Frage, ob ein Bundesrat Parlamentsbeschlüsse streichen darf. Der Beitrag ist ein Echo eines Echo eines Originals — und dokumentiert, wofür 1,5 Milliarden stehen.*

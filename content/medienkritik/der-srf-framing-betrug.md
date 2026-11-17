@@ -69,6 +69,7 @@ quelle_format: Broadcast
 quelle_sendung: Rendez-vous
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M017
 ---
 
 *Dieser SRF-Beitrag über Betrug an russischen Soldatenfamilien ist ein Lehrstück in Framing: Ein universelles Phänomen — Kriegsbetrug an Angehörigen von Vermissten und Gefangenen — wird als russisches Spezifikum gerahmt. Die Quelle, Wilhelm Odde vom IKRK, sagt explizit: «In allen Konflikten nutzten Betrüger die Angst von Angehörigen aus.» Der Beitrag zitiert das — und ignoriert es im nächsten Satz, um die russische Besonderheit zu betonen. Das Ergebnis ist eine Story, die den Eindruck erzeugt, russische Soldaten und ihre Familien seien besonders anfällig für Betrug, weil Russland korrupt sei, weil der Kreml hohe Soldatenlöhne zahle, weil russische Offiziere ihre eigenen Soldaten ausnehmen. Das mag alles zutreffen — aber es ist nicht die ganze Story, und es ist nicht die russische Story, die der Beitrag daraus macht. Es ist die universelle Story des Krieges, die hier für eine politische Aussage instrumentalisiert wird: Seht her, das ist Russland. So funktioniert das dort. Bei uns nicht.*

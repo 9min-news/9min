@@ -69,6 +69,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF 4 News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *Ein Spasskandidat als Hauptkonkurrent, ein Boykott als Protest, ein Geldgeschenk als Skandal — so rahmt SRF Nigel Farages Sieg bei der Nachwahl in Clacton. 22'239 Menschen stimmten für den Reform-UK-Chef. Der Beitrag fragt nicht, wer diese Menschen sind und was sie wollen. Er fragt nicht, ob ein Boykott der etablierten Parteien demokratisch ist oder kapituliert. Er fragt nicht, was Reform UK politisch fordert. Er ist eine Wahlanalyse, die einen demokratischen Vorgang als Zirkus verkleidet.*

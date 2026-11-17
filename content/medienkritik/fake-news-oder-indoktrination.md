@@ -65,6 +65,7 @@ quelle_format: Online-Artikel
 quelle_sendung: Regionaljournal Aargau Solothurn
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M017
 ---
 
 *Dieser SRF-Beitrag berichtet über ein sympathisches Schulprojekt: Das Aargauer Theater Marie und die Bühne Aarau inszenieren in Klassenzimmern ein als «Influencerin-Vortrag» getarntes Theaterstück, das mitten im Geschehen auffliegt — und so Jugendliche zum kritischen Denken über Fake News anregen soll. Das Anliegen ist unbestreitbar gut, der pädagogische Einfall originell. Gerade deshalb lohnt der prüfende Blick: Ein Beitrag, der das «kritische Denken» feiert, sollte selbst ein wenig davon vertragen.*

@@ -61,6 +61,7 @@ quelle_format: Podcast
 quelle_sendung: SRF News Podcast
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 Es ist tatsächlich bemerkenswert.

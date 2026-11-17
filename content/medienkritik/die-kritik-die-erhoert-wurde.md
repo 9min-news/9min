@@ -110,6 +110,7 @@ zusammenfassung: >-
   naheliegend die USA mit Zöllen und Visabeschränkungen – werde verschwiegen,
   und Röstis SVP-Mitgliedschaft gegen die eigene Vorlage werde nicht markiert.
 kritik_schwere: 3
+muster_id: M005
 ---
 
 *Der Titel kennt nur eine Kritik. «Nach Kritik: Bundesrat will bei Social Media mehr Jugendschutz» setzt voraus, dass der massgebliche Einwand gegen das geplante Plattformgesetz lautete, es schütze zu wenig. Der Text nennt die Urheber dieser Kritik ausdrücklich: Die Landesregierung reagiere «auf Forderungen der Grünen». Die Gegenkritik, die eine Gefährdung der Meinungs- und Informationsfreiheit befürchtet, erscheint nur als Ablehnungsgrund, nicht als Kritik, auf die jemand reagiert. Dabei steht die gewichtigere Änderung im zweiten Satz und beginnt mit «Zudem»: Das Meldeverfahren soll auf alle mutmasslich rechtswidrigen Inhalte ausgedehnt werden. Der Beitrag verschweigt, von wem die Strafe käme, die der Bundesrat ausschliesst, und lässt dessen Selbsteinstufung, die Lösung sei liberaler als der «Digital Service Act» der EU, ungeprüft stehen.*

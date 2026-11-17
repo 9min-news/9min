@@ -62,6 +62,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *Wie SRF die AHV-Reform als Förderung verkauft — und verschweigt, dass die Massnahmen vor allem jene treffen, die körperlich nicht mehr arbeiten können*

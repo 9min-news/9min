@@ -106,6 +106,7 @@ zusammenfassung: >-
   aufgewertet, und SRF verschweigt seinen eigenen Interessenkonflikt als
   Produzent einer Podcast-Serie zum selben Thema.
 kritik_schwere: 3
+muster_id: M009
 ---
 
 *Der Titel setzt den schwersten Begriff und ein Beweisverb: «Vergewaltigungsvorwurf: Aussagen einer Schweizerin belasten Trump». «Belasten» gibt Aussagen ein Gewicht, das die Infobox desselben Beitrags zurücknimmt. Dort heisst es, der Bericht sei «kein unabhängiges Untersuchungsergebnis und auch kein Gerichtsurteil». Die tragende Vorannahme steht im zweiten Absatz: Béatrice Keul spreche «erstmals öffentlich und explizit von Vergewaltigung». Das «erstmals» wird als gebrochenes Schweigen gemeldet und nicht als Abweichung von einer früheren, dokumentierten Fassung, in der Keul die Tat abwendete. Diese frühere Fassung steht im Bericht, den SRF verlinkt. Unerwähnt bleiben auch der Wahlkalender und die Rolle des Senders als Produzent einer eigenen Serie zum Stoff.*

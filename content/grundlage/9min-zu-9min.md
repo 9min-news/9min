@@ -3,9 +3,9 @@ title: 9min zu 9min
 date: '2026-05-13'
 status: published
 type: grundlage
-series: "9min zu 9min"
-seriesIndex: 3
-coverImage: 'https://pbs.twimg.com/media/HIOMOrMXAAAGwca.jpg'
+series: '9min zu 9min'
+seriesIndex: 1
+coverImage: '/images/essays/9min-zu-9min.jpg'
 tweetId: '2054640605888704816'
 categories:
   - Medienrecht

@@ -62,6 +62,7 @@ quelle_format: Broadcast
 quelle_sendung: RTS CQFD
 quelle_redaktion: SRF
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *Der Beitrag meldet eine Forderung: systematisches Screening auf postpartale Depressionen, früh, ab der Schwangerschaft. Die Quelle: die Eidgenössische Kommission für Familienfragen, eine offizielle Kommission. Die Massnahme: ein Fragebogen mit zehn Fragen, der Edinburgh Scale, angewandt auf alle Mütter. Der Beitrag erklärt die Symptome, nennt die Risikofaktoren, zitiert eine Hebamme und Psychologin. Was er nicht tut: eine einzige Frage an die Forderung stellen. Was ein Screening für alle bedeutet, was es kostet, wer es durchführt, was mit den Ergebnissen geschieht — nichts davon kommt vor. Und der Titel sagt «Fachleute», während es eine Kommission und eine freiberufliche Hebamme sind. Ein Beitrag, der eine staatliche Empfehlung meldet und keine einzige kritische Frage dazu hat, ist keine Berichterstattung. Er ist ein Bulletin.*

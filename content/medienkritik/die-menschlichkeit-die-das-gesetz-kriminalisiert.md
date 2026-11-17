@@ -69,6 +69,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *Der Beitrag rahmt eine Petition als Menschlichkeitsanliegen — und verbucht das Gesetz, das sie abschaffen will, als Kuriosum. Dabei steht der Kern des Stoffs in einem einzigen Satz des Beitrags selbst: «Wer es ermöglicht, dass abgewiesene Asylsuchende untertauchen oder Sans-Papiers in der Schweiz wohnen und arbeiten können, schafft eine prekäre Situation oder verlängert sie.» Das ist die Verteidigung des Gesetzes — und sie steht als Konzessivsatz zwischen zwei Absätzen, die die Gegenseite zitieren. Der Beitrag hat alle Zutaten einer Kampagnenberichterstattung: ein emotionales Auftakt-Opfer, drei prominente Befürworter, ein historischer NS-Vergleich, die Schweiz als strenges Land unter milden Nachbarn — und die Gegenposition als kurioser Rest.*

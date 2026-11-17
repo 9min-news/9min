@@ -62,6 +62,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF News
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M004
 ---
 
 *Wie SRF eine Promi-Hochzeit auf den Bahamas als Nachrichtenereignis inszeniert, mit Schweizer Haushaltsgeldern Klatschpresse finanziert, den Iran-Krieg als Hintergrundkulisse für eine Familienfeier abtut, die Frage der Relevanz für ein Schweizer Publikum nicht stellt, die Medienabgabe von 335 Franken pro Haushalt für Boulevardjournalismus zweckentfremdet und nicht fragt, was die SRG nicht berichtet, während sie über Eheringe auf Instagram schreibt*

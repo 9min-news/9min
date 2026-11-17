@@ -73,12 +73,15 @@ export interface Article {
   content: string
 }
 
+// Muster have their own route (/muster/…); docs are internal notes. Neither is an article at /<slug>.
+const NON_ARTICLE_DIRS = ['muster', 'docs']
+
 function getAllMarkdownFiles(): Array<{ filePath: string; slug: string }> {
   if (!fs.existsSync(CONTENT_DIR)) return []
 
   const results: Array<{ filePath: string; slug: string }> = []
   const typeDirs = fs.readdirSync(CONTENT_DIR, { withFileTypes: true })
-    .filter((d: fs.Dirent) => d.isDirectory())
+    .filter((d: fs.Dirent) => d.isDirectory() && !NON_ARTICLE_DIRS.includes(d.name))
     .map((d: fs.Dirent) => d.name)
 
   for (const typeDir of typeDirs) {

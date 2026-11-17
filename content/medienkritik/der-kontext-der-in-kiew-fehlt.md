@@ -60,6 +60,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M003
 ---
 
 *SRF berichtet über die schwersten russischen Angriffe auf Kiew seit Beginn des Krieges. Der Beitrag schildert die Stimmung, den Zusammenhalt, die zerstörten Fenster des Journalisten. Was er nicht erwähnt: Die russischen Angriffe folgten auf eine massive ukrainische Offensivkampagne. Am 17. Mai startete die Ukraine fast 600 Drohnen gegen russische Ziele. Am 22. und 23. Mai wurden Ölraffinerien in Rjasan und Noworossijsk getroffen. Die russische Vergeltung vom 24./25. Mai war genau das: Vergeltung. SRF erzählt die zweite Hälfte der Geschichte. Die erste Hälfte fehlt.*

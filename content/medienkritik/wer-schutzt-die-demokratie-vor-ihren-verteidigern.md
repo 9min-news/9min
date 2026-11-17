@@ -69,6 +69,7 @@ quelle_format: Broadcast
 quelle_sendung: ''
 quelle_redaktion: SRF
 kritik_schwere: 3
+muster_id: M016
 ---
 
 Einige Wochen systematische Beobachtung des Schweizer öffentlich-rechtlichen Rundfunks. Sachsen-Anhalt. EU-Beistandsklausel. Trump-Umfragen. Russland. Ungarn. Demokratieberichte.

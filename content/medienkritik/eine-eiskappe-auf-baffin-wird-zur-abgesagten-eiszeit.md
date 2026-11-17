@@ -104,6 +104,7 @@ zusammenfassung: >-
   Widerspruch aus dem Potsdam-Institut wird verschwiegen. Der Vorbehalt steht im
   Text, die Gewissheit im Titel.
 kritik_schwere: 3
+muster_id: M007
 ---
 
 *Im ersten Absatz «liefert» die Studie «Beweise», im zweitletzten heisst es: «Die Studie beweist jedoch nicht, dass eine ausgedehnte Eisbedeckung unmittelbar bevorstand.» Dazwischen liegt eine Eiskappe auf der kanadischen Insel Baffin, deren Rand seit den 1960er-Jahren um 200 bis 800 Meter zurückgewichen ist. Darüber steht ein Titel von planetarer Reichweite: «Die globale Erwärmung hat die Anfänge einer neuen Eiszeit beendet». Der Leser erfährt dreierlei nicht: Die Deutung stammt von den Autoren und ihrer Pressestelle, ein Klimamodellierer des Potsdam-Instituts hat sie gegenüber CNN öffentlich bestritten, und selbst die Mitteilung der Universität setzt eine spürbare Abkühlung erst nach Jahrtausenden an. Wer diesen Sender mit seiner Abgabe finanziert und an der Urne über Klimavorlagen entscheidet, braucht von ihm vor allem die Grenze zwischen Messung und Deutung.*

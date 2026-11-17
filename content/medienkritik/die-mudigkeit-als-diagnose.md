@@ -63,6 +63,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: Swissinfo
 kritik_schwere: 3
+muster_id: M016
 ---
 
 *Zur Swissinfo-Berichterstattung *[«Klimakrise: Mehr Fatalismus in der Schweiz»](https://www.swissinfo.ch/ger/klimaanpassung/klimakrise-mehr-fatalismus-in-der-schweiz/91367809)*, 7. Mai 2026*

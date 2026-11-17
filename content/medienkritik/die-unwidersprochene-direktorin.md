@@ -71,6 +71,7 @@ quelle_format: Broadcast
 quelle_sendung: Tagesgespräch
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Zur SRF-Berichterstattung *[«Deza: 'Es werden Leute sterben, weil es weniger Hilfe gibt'»](https://www.srf.ch/news/international/folgen-des-iran-kriegs-deza-es-werden-leute-sterben-weil-es-weniger-hilfe-gibt)*, Tagesgespräch, 5. Mai 2026*

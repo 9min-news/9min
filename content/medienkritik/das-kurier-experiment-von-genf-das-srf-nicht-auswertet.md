@@ -112,6 +112,7 @@ zusammenfassung: >-
   einseitiges Bild, das den Stimmbürger über die Kosten einer nationalen Lösung
   im Unklaren lasse.
 kritik_schwere: 3
+muster_id: M010
 ---
 
 *Dasselbe Unternehmen, dieselbe Arbeit, dasselbe Bundesrecht: In Genf bleibt der Just-Eat-Kurier angestellt, in Bern soll er nächste Woche die Kündigung erhalten. Die Rundschau erzählt diese Spaltung als Behördenversagen. Schon der Titel macht nicht Just Eat zum Adressaten, sondern «die Behörden», und gefragt wird nur, warum der Staat eine Regel nicht durchsetzt. Was die Regel kostet und wer das bezahlt, fragt der Beitrag nicht. Genf und die Waadt, wo die Durchsetzung bereits stattfindet, erhalten einen Nebensatz, ihre Wirkung erfährt der Zuschauer nicht. Der Stimmbürger soll eine «nationale Lösung» beurteilen und kennt von ihr nur die Kosten des Nichtstuns, nicht die des Handelns.*

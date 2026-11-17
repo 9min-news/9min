@@ -109,6 +109,7 @@ zusammenfassung: >-
   Supreme-Court-Urteil vom Februar 2026, das die Zollgrundlage IEEPA für
   rechtswidrig erklärte.
 kritik_schwere: 3
+muster_id: M014
 ---
 
 *Im November 2025 senkten die USA nach einer Absichtserklärung den Zusatzzoll auf Schweizer Waren von 39 auf 15 Prozent, und die Schweiz sagte im Gegenzug den Abbau eigener Zölle und Handelshemmnisse zu. Elf Monate später empfiehlt ein deutscher Amerikanist bei SRF, die Schweiz solle «Schnitte setzen, die wehtun». Das Skalpell sollen Schweizer Firmen führen, deren grösster Absatzmarkt die USA sind. Unter der Dachzeile «Wird Amerika zur Gefahr?» erscheint der Rat als kluge Taktik des Kleinen gegen den Grossen. Was er kostet, wer ihn beschliessen würde und wie er sich mit der Neutralität verträgt, fragt der Moderator nicht. Für Belegschaften und Eigentümer der Exportfirmen geht es um Aufträge, für den Stimmbürger um die Frage, ob Aussenwirtschaftspolitik zur Gesinnungsgeste gegen einen missliebigen Präsidenten werden soll, ohne dass jemand die Rechnung vorlegt.*

@@ -66,6 +66,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News International
 kritik_schwere: 2
+muster_id: M006
 ---
 
 *SRF berichtet über die AfD in Sachsen-Anhalt — und rahmt sie als Skandal mit Umfragewerten. Ein Satiriker sagt etwas Provokantes, die AfD präsentiert ein 100-Tage-Programm, und SRF kombiniert beides zum Bild einer Partei, die «an die Macht» will. Was nicht vorkommt: eine einzige AfD-Stimme im Text. Was nicht vorkommt: die Frage, was es bedeutet, wenn 41 Prozent der Wähler eine Partei wählen, die der Verfassungsschutz als «gesichert rechtsextrem» einstuft. Was nicht vorkommt: der Vergleich mit dem Merz-Beitrag vom Vortag — dort war die AfD eine «Bedrohung durch Demokratiefeinde», hier ist sie eine Partei mit 41 Prozent. Der Beitrag ist eine Warnung ohne Untersuchung — und die 41 Prozent sind der Befund, den niemand erklärt.*

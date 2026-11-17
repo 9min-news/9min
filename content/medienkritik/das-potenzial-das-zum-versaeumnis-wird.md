@@ -101,6 +101,7 @@ zusammenfassung: >-
   wird der Interessenkonflikt von Romande Energie – gleichzeitig Kostenquelle,
   Finanzierer und Betreiber – nicht thematisiert.
 kritik_schwere: 2
+muster_id: M007
 ---
 
 *Der Titel macht aus einer Modellrechnung ein Versäumnis. «Ungenutzt» setzt voraus, dass ein Potenzial eine verfügbare Menge ist, die jemand liegen lässt, und es macht die Schweiz zum Akteur, der zögert. Getragen wird der Beitrag von der Lücke zwischen zwei Zahlen: dem «Doppelten des aktuellen schweizerischen Strombedarfs» und den «weniger als 0.1 Prozent» des Sonnenstroms, die heute von Kulturland stammen. Die Erklärung für die Lücke liefert der Beitrag gleich mit: «die strengen Bewilligungshürden». Physik, Saisonalität und Kosten erscheinen nur als Nebenumstände. Verschwiegen werden der Winter, in dem Solarstrom knapp ist, und der Bund als Urheber jener Hürde, die der Beitrag beklagt.*

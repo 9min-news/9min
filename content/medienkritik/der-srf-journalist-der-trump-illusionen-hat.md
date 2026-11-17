@@ -79,6 +79,7 @@ quelle_format: Online-Artikel
 quelle_sendung: HeuteMorgen
 quelle_redaktion: SRF News Wirtschaft
 kritik_schwere: 2
+muster_id: M003
 ---
 
 *Dieser SRF-Beitrag von Damian Rast über die Zollverhandlungen zwischen der Schweiz und den USA ist ein Lehrstück in Bestätigungsjournalismus: Der Redaktor weiss von Anfang an, was die Story ist — auf die USA ist kein Verlass, Trump tut, was er will — und er arrangiert die Fakten so, dass sie diese Story stützen. Was nicht in die Story passt, wird weggelassen. Was die Story stützt, wird behauptet. Was die Story komplizieren würde, wird nicht gefragt. Das Ergebnis ist ein Beitrag, der klingt wie eine Analyse, aber keine ist — denn eine Analyse prüft ihre eigenen Behauptungen, und dieser Beitrag prüft nichts.*

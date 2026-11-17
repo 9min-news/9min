@@ -64,6 +64,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *Zur SRF-Übersicht *[«Initiative ‹Keine 10-Mio-Schweiz› in Kürze»](https://www.srf.ch/news/schweiz/auf-einen-blick-initiative-keine-10-mio-schweiz-in-kuerze)*, 8. Mai 2026*

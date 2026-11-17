@@ -110,6 +110,7 @@ zusammenfassung: >-
   die Wiederwahl 2020 auslässt und eine institutionelle Rechtsfrage als
   Personalfehde rahmt.
 kritik_schwere: 3
+muster_id: M014
 ---
 
 *Im ersten Satz des Beitrags hat ein Bundesrichter Angst. Es ist Yves Donzallaz, dessen Lebensgemeinschaft mit einer Richterkollegin das Bundesgericht tags zuvor für widerrechtlich erklärt hat. Die Angst jener, deren Urteile deswegen zur Revision stehen, findet im ganzen Text keinen Platz. SRF macht aus dem Entscheid eine Frage nach dem Motiv der Gegenseite: «Über die Liebe gestolpert: Eine Intrige der SVP?» Das «gestolpert» verkleinert eine Gesetzesverletzung zum Missgeschick, und das Fragezeichen erhebt die Verteidigungslinie des Betroffenen zur Leitfrage, während die vierzehn Revisionsgesuche unerwähnt bleiben. Für jeden, der vor Bundesgericht Recht sucht, ist das die eigentliche Nachricht: Er hat Anspruch auf ein vorschriftsgemäss besetztes Gericht, und dieser Anspruch hängt nicht davon ab, wer die Verletzung publik gemacht hat.*

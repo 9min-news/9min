@@ -105,6 +105,7 @@ zusammenfassung: >-
   Einstieg und Bildlegende die Verbindung behaupten. SRF stellt zudem das Seco
   als Aufklärer dar, obwohl es die bewilligende Behörde ist.
 kritik_schwere: 3
+muster_id: M010
 ---
 
 *Zweimal, im Dezember 2022 und im April 2023, wurde im Moskauer Register für Konformitätszertifikate Ruag-Munition aus Thun eingetragen. Beide Male galt das geltende, strenge Kriegsmaterialgesetz, unter dem der Bund seit 2014 keine neuen Lieferungen nach Russland bewilligt. SRF macht daraus im ersten Satz ein Argument gegen die Lockerung: «Ein brisantes Thema kurz vor der Abstimmung», gefolgt von der Brücke, das revidierte Gesetz gehe «einen Schritt weiter». Dass der Weg über einen privaten Händler führte, für den schon heute keine Nichtwiederausfuhrerklärung gilt, und dass die Vorlage daran nichts ändert, steht ebenfalls im Beitrag, allerdings erst im letzten Absatz. Wer am 29. November abstimmt, erhält als Hauptbeleg einen Fall, den beide Gesetze gleich behandeln.*

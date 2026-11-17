@@ -59,6 +59,7 @@ quelle_format: Broadcast
 quelle_sendung: Tagesgespräch
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M005
 ---
 
 *SRF lässt den Armeechef 26 Minuten über die Bedrohung durch Moskau sprechen — 20 Tage, bevor die Schweiz über die Neutralität abstimmt. Benedikt Roos sagt: «Die Schweiz ist ein Ziel für Moskau.» Er sagt: «Wir sind mehr als je zuvor Teil der westlichen Welt und damit ein potenzielles Ziel.» Und er sagt: «Wir sind keine Insel der Glückseligen mehr.» Jede dieser Aussagen ist ein Abstimmungsargument — gegen die strikte Neutralität, für die Westbindung, für Aufrüstung. Die Abstimmung, um die es geht, kommt im gesamten Gespräch nicht vor. Ein Armeechef, der drei Wochen vor dem Urnengang die Position des Nein-Lagers liefert, in einer SRF-Sendung, ohne dass der Interviewer die Verbindung zieht: Das ist keine Bedrohungsanalyse. Das ist eine Parole, die nicht als Parole deklariert wird.*

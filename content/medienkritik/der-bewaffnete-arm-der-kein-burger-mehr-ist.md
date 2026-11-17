@@ -64,6 +64,7 @@ quelle_format: Broadcast
 quelle_sendung: Regionaljournal Basel Baselland
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M004
 ---
 
 *SRF meldet, dass Basel erstmals Polizisten mit einer B-Bewilligung einstellt. Der Beitrag rahmt dies als pragmatische Lösung eines Personalmangels. Der nationale Polizeiverband warnt, dass der bewaffnete Arm des Staates von Bürgern vertreten werden müsse. SRF referiert die Warnung und dismissiert sie als Meinungsverschiedenheit. Was nicht vorkommt: die verfassungsrechtliche Frage, ob der Staat sein Gewaltmonopol an Nicht-Bürger delegieren darf. Was nicht vorkommt: die Frage, warum der Staat keine Schweizer findet, die ihn schützen wollen. Der Beitrag ist eine Verwaltungsnote über ein Prinzip.*

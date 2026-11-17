@@ -78,6 +78,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: ''
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Zum *[Operation Libero "Faktencheck" auf die SVP-Abstimmungszeitung](https://www.operation-libero.ch/de/blog/2026-05-04/die-svp-zeitung-im-faktencheck)* «Zuwanderung: Daten – Fakten – Hintergründe»*

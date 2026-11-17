@@ -98,6 +98,7 @@ quelle_format: ''
 quelle_sendung: ''
 quelle_redaktion: SRF
 kritik_schwere: 3
+muster_id: M017
 ---
 
 [Zur Beobachtung von Filipp Piatov über die zwei Interviews einer Woche.](https://x.com/fpiatov/status/2050529798666039333)* Nichts davon kommt im SRF vor, auch wenn beide Interviews und die Struktur der neuen Medien auch für die Schweiz signifikant sind.*

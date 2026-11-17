@@ -66,6 +66,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *Zum SRF-Beitrag *[«Warum sind Schweizer Gefängnisse so ausgelastet?»](https://www.srf.ch/news/schweiz/rekordzahl-an-inhaftierten-warum-sind-schweizer-gefaengnisse-so-ausgelastet)*, 13. Mai 2026*

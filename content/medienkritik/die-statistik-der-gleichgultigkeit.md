@@ -66,6 +66,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: ''
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Wie der Tages-Anzeiger die Familiennachzugs-Debatte entschärft — indem er die entscheidende Frage nach der Qualität der Migration durch die Quantität ersetzt*

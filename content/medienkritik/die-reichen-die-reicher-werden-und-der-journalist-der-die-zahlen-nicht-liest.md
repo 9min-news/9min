@@ -65,6 +65,7 @@ quelle_format: Broadcast
 quelle_sendung: Rendez-vous
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M004
 ---
 
 *Dieser SRF-Beitrag über den UBS Global Wealth Report ist ein Lehrstück in Bestätigungsjournalismus: Die Story steht fest, bevor die Zahlen geprüft sind — die Reichen werden reicher, die Schere geht auf, die Gesellschaft wird das nicht lange akzeptieren. Sven Zaugg liefert das Framing und nennt es Analyse. Was er nicht liefert: eine methodische Prüfung der Zahlen, die er zitiert. Die zentrale Frage — ob der Report überhaupt das misst, was SRF behauptet — wird nicht gestellt. Das Ergebnis ist ein Beitrag, der klingt wie Wirtschaftsanalyse, aber keine ist — denn eine Analyse prüft ihre Quellen, und dieser Beitrag prüft nichts.*

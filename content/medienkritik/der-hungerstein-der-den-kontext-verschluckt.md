@@ -57,6 +57,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: Gesellschaft
 kritik_schwere: 2
+muster_id: M006
 ---
 
 *SRF publiziert eine Bildergalerie von historischen Artefakten, die wegen Niedrigwasser sichtbar werden. Schiffswracks, Mammutzähne, Hungersteine. Das Framing impliziert eine beispiellose Krise, die die Vergangenheit freilegt. Was nicht vorkommt: der historische Kontext der Hungersteine, die beweisen, dass solche Dürren zyklisch sind. Was nicht vorkommt: die Frage, ob das Wasser schon tiefer stand. Der Beitrag ist eine visuelle Montage, die Geschichte für Alarmismus nutzt, ohne zu verstehen, was diese Geschichte sagt.*

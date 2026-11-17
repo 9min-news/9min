@@ -70,6 +70,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: Bundesrat
 kritik_schwere: 2
+muster_id: M003
 ---
 
 Die Abstimmung über die Konzernverantwortungsinitiative vom 29. November 2020 bleibt ein aufschlussreicher Fall für den Umgang mit Niederlagen in der direkten Demokratie. Die Initiative erreichte zwar eine knappe Volksmehrheit, scheiterte aber am Ständemehr. Verfassungsrechtlich ist der Befund eindeutig: Die Vorlage wurde abgelehnt. Wer an eidgenössischen Abstimmungen teilnimmt, kennt diese Regeln im Voraus. Das Ständemehr ist kein technischer Defekt des Systems, sondern Teil der Verfassungsordnung.

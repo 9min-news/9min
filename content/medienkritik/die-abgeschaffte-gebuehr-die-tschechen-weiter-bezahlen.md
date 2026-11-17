@@ -107,6 +107,7 @@ zusammenfassung: >-
   SRF selbst von einer Gebühr lebt, über die die Schweiz acht Monate zuvor
   abgestimmt hat.
 kritik_schwere: 3
+muster_id: M014
 ---
 
 *Finnland finanziert seinen öffentlichen Rundfunk seit 2013 aus Steuern, Schweden seit 2019, Norwegen seit 2020, Dänemark vollständig seit 2022. Prag plant dasselbe Modell, und SRF meldet es im Titel als «Abschaffung von Rundfunkgebühr», während der eigene Zwischentitel weiter unten nüchtern «Steuern statt Gebühren» sagt. Dass der Wechsel von der Gebühr zum Staatshaushalt in Nordeuropa längst Alltag ist, erfährt der Leser nicht. Er erfährt auch nicht, dass der Berichterstatter selbst von einer Gebühr lebt, über die die Schweiz acht Monate zuvor abgestimmt hat. Für den Schweizer Gebührenzahler ist das keine Auslandsnachricht: Wer zahlt, wer legt den Betrag fest, wer entscheidet damit über den Sender? Der Beitrag beantwortet diese Fragen für Prag nur von einer Seite.*

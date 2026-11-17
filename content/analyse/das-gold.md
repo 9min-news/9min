@@ -4,8 +4,8 @@ date: '2026-05-10'
 status: published
 type: analyse
 series: 'Die Toblerone-Serie'
-seriesIndex: 9
-coverImage: 'https://pbs.twimg.com/media/HH9HvICXIAMoBLM.jpg'
+seriesIndex: 2
+coverImage: '/images/essays/das-gold.jpg'
 tweetId: '2053440980263583928'
 categories:
   - Wirtschaft

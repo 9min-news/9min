@@ -79,6 +79,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF Kultur
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Zum SRF-Beitrag *[«Nach Witwen-Witz: Trump fordert Entlassung von Jimmy Kimmel»](https://www.srf.ch/kultur/gesellschaft-religion/late-night-moderator-nach-witwen-witz-trump-fordert-entlassung-von-jimmy-kimmel)* vom 28. April 2026*

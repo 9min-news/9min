@@ -68,6 +68,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: ''
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *Die NZZ interviewt Bundesrat Beat Jans zur Asylpolitik. Jans kündigt «abschreckende Wirkung» an, verteidigt Schengen als Lösung, behauptet, abgewiesene Asylsuchende würden die Schweiz verlassen, und nennt die Schweizer Integration die beste der Welt — bei 80 Prozent Sozialhilfequote. Die NZZ stellt kritische Fragen, aber sie nagelt Jans nicht fest. Sie lässt ihn Behauptungen aufstellen, die im Widerspruch zu den Fakten stehen, ohne den Widerspruch aufzulösen. Der Beitrag ist ein Interview, das einen Minister inszeniert statt ihn zu prüfen.*

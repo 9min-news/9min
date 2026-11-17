@@ -62,6 +62,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M003
 ---
 
 *SRF meldet, dass die US-Einwanderungsbehörde ICE Elektroschock-Handschuhe anschaffen will, und rahmt den Vorgang als Bürgerrechtsverletzung. «Verletzung der Bürgerrechte», «gegen unsere Verfassung», «willkürlich». Was nicht vorkommt: die Frage, ob die Handschuhe Deeskalationsgeräte sind, wie das Ministerium sagt; Eine Stimme, die die Anschaffung verteidigt. Was nicht vorkommt: die Frage, ob ICE-Beamte Schutz brauchen, nachdem es Todesfälle gab. Die Schweizer Dimension fehlt natürlich ebenso. Der Beitrag ist eine Agenturmeldung, die eine einseitige Kritik als Fakt präsentiert.*

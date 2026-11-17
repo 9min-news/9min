@@ -70,6 +70,7 @@ quelle_format: ''
 quelle_sendung: ''
 quelle_redaktion: SRF
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *Das Sprechtraining-Thema ist ein Symptom, nicht die Krankheit. Die Krankheit ist: SRF hat rund 2900 Mitarbeitende, ein Budget von rund 1,5 Milliarden Franken pro Jahr, drei Aufsichtsorgane (Ombudsstelle, Presserat, SRG-Aufsichtsrat) — und trotzdem entscheidet es weitgehend autonom, was es berichtet und was nicht. Wer kontrolliert einen öffentlich-rechtlichen Sender, der seine redaktionelle Unabhängigkeit als Schutzschild gegen jede Kritik nutzt?*

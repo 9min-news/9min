@@ -106,6 +106,7 @@ zusammenfassung: >-
   der Interessenkonflikt des Kantons als BKW-Mehrheitsaktionär nicht
   thematisiert.
 kritik_schwere: 3
+muster_id: M007
 ---
 
 *76 zu 75 bei einer Enthaltung. Mit einer einzigen Stimme Differenz hat der Berner Grosse Rat am 11. September 2026 verhindert, dass die Regierung die Mitsprache der Gemeinden bei grossen Windparks per dringlicher Verordnung aushebelt. Im Regionaljournal wird daraus die Geschichte einer Regierung, die von sich aus «den normalen, demokratischen Weg» wählt. Die Dachzeile «Kein Alleingang» lobt sie für etwas, das ihr das Parlament aufgezwungen hat. Das Abstimmungsresultat kommt im Beitrag nicht vor, ebenso wenig der Umstand, dass das Bundesrecht die Zustimmung der Gemeinden als Regelfall vorsieht. Für den Stimmbürger einer Standortgemeinde geht es darum, ob er über die Landschaft vor seiner Haustür mitentscheidet oder die Kantonsregierung allein. Der Gebührenzahler finanziert einen Bericht, der die Selbstdeutung dieser Regierung als Befund weitergibt.*

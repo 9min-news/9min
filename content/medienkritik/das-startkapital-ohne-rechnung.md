@@ -102,6 +102,7 @@ zusammenfassung: >-
   Steuerzahlern. Die Kritik der Opposition wird referiert, aber nicht an den im
   Beitrag selbst enthaltenen Zahlen geprüft.
 kritik_schwere: 2
+muster_id: M012
 ---
 
 *Der Titel setzt den Staat als Geber: «Deutschland zahlt Kindern 10 Euro pro Monat». Das Verb steht im Indikativ Präsens, obwohl die eigene Zusammenfassung festhält, der Bundesrat «muss dem Gesetz noch zustimmen». Die Bildlegende geht noch weiter, die Kinder «werden künftig 10 Euro pro Monat vom Staat erhalten». Die Zahl «10 Euro» trägt den ganzen Beitrag und wird nie hochgerechnet, weder auf die Kosten für den Bund noch auf die Laufzeit noch auf das, was am Ende im Depot liegt. Damit bleibt der «historische Entscheid» der Koalition ohne Massstab. Verschwiegen werden die Kostenschätzung der Bundesregierung, die Sperre der Auszahlung bis 65 und das Umlagesystem, dessen Grenzen die neue Kapitalanlage implizit eingesteht.*

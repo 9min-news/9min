@@ -106,6 +106,7 @@ zusammenfassung: >-
   institutionelle Erklärung des Vertrauens. Das Fallbeispiel Griechenland
   widerlege den Kernsatz, dass bei Staatsanleihen das Geld zurückkomme.
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *Der Beitrag erklärt Staatsanleihen als Vertrauensfrage. Die Bildlegende formuliert es aus: Staatsanleihen sagen «etwas über das Vertrauen der Finanzmärkte in die Zahlungsfähigkeit eines Landes» aus. Zur Schweiz heisst es: «Die Gläubiger wissen: Wenn die Laufzeit der Anleihe zu Ende ist, kommt das Geld zurück.» In diesem Modell gibt es nur private Gläubiger und Schuldner mit gutem oder schlechtem Ruf. Unerwähnt bleiben die Notenbanken als Grosskäufer, die Teuerung als Abzug vom Ertrag, der Schuldenschnitt, mit dem die gelobte griechische Sanierung begann, und die Regel, die das Schweizer Vertrauen erklärt.*

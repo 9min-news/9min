@@ -68,6 +68,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Dies ist keine Kritik an einem einzelnen Beitrag, sondern an einem Muster. Eine Suche im SRF-Archiv nach «eine Studie» liefert 32'720 Artikel. Das ist kein Zufallsbefund, sondern ein Genre: Die Studie ist zum journalistischen Universalrohstoff geworden, zu einer Formel, die fast jeder Aussage über Nacht den Stempel der Wissenschaftlichkeit verleiht. «Eine Studie zeigt» — und schon ist die Sache entschieden. Schauen wir uns an, was diese zwei Wörter leisten, was sie verschweigen, und warum gerade ihre Allgegenwart ein Problem ist.*

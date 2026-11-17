@@ -64,6 +64,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *Der Täter war seit 2018 bekannt. IS-Propaganda. Radikalisierung. Dschihad-Szene. Brüder ebenfalls radikalisiert. Zwei Jahre Türkei. Rückkehr im Mai. Wirre Aussagen. Psychiatrie. Entlassung. Messerattacke. Drei Verletzte. «Allahu Akbar.» Die Kette der Warnsignale ist acht Jahre lang. Keines wurde ernst genommen. Jetzt fordert Zürcher Sicherheitsdirektor Mario Fehr den Entzug des Bürgerrechts und die Ausschaffung. Er sagt das Richtige. Aber er sagt es in einem System, das ihn jahrelang handlungsunfähig gemacht hat. Die Frage lautet nicht: Warum hat Fehr nichts getan? Die Frage lautet: Warum hat das System die Instrumente, die es hätte, nicht genutzt? Und wer hat dafür gesorgt, dass diese Instrumente so stumpf sind?*Zum SRF Bericht [«Kipp-Moment», Schock und Kritik – die Reaktionen aus der Politik](https://www.srf.ch/news/schweiz/messerangriff-in-winterthur-kipp-moment-schock-und-kritik-die-reaktionen-aus-der-politik) vom 28.05.2026, 19:51 Uhr

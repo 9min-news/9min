@@ -65,6 +65,7 @@ quelle_format: Podcast
 quelle_sendung: News Plus
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 Und da ist sie endlich. Die Haftungsfrage, auf die wir seit Tagen warten. [Elf Minuten und siebenundfünfzig Sekunden bei «News Plus»](https://www.srf.ch/news/schweiz/covid-impfschaeden-weshalb-die-pharma-bei-der-haftung-entlastet-wurde). Man könnte denken: endlich tut SRF, was ein öffentlicher Sender tun muss.

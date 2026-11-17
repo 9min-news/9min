@@ -62,6 +62,7 @@ quelle_format: Broadcast
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *«Währungshüter» steht in der Einführung. Die Bilanz, die den Ehrentitel prüfen könnte, kommt nie. Dabei liefert der Beitrag selbst den Rechensatz: «Sie können sich dann für einen Euro weniger leisten.» Nur eben ausschliesslich für den August 2026 — nie für die Währung, um deren Hüter es geht: Seit 1999 hat der Euro rund vierzig Prozent seiner Kaufkraft verloren, gut ein Drittel seit der Bargeldeinführung — und die offizielle Rechnung untergewichtet die Wohnkosten, die gefühlte Schrumpfung liegt höher. Stattdessen: eine Viertelpunkt-Erhöhung als Kraftakt, ein Krieg als Wetterereignis, Sparern wird minus 0.8 Prozent real verkauft, und das 2-Prozent-Ziel geht als Naturgesetz durch — nicht als die Grösse, welche die Hüter selbst definierten und in beide Richtungen verfehlten.*

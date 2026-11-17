@@ -71,6 +71,7 @@ quelle_format: Broadcast
 quelle_sendung: SRF 4 News aktuell
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 Ein Gedankenexperiment. Wir nehmen den folgenden [SRF-Beitrag](https://www.srf.ch/news/international/australiens-reichste-frau-die-weibliche-trump-verkehrte-welt-in-down-under) und streichen, Satz für Satz, jede Information, die für eine Entscheidung eines Schweizer Bürgers relevant ist.

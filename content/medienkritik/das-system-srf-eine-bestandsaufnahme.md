@@ -79,6 +79,7 @@ quelle_format: Broadcast
 quelle_sendung: ''
 quelle_redaktion: SRF
 kritik_schwere: 3
+muster_id: M009
 ---
 
 *Zwischen Ende März und Juli 2026 wurden über 250 Beiträge des Schweizer Radio und Fernsehens analysiert — Nachrichtenmeldungen, Tagesschau-Beiträge, Interviews, Analysen und Faktenchecks —, ergänzt durch Vergleichsbeiträge weiterer Schweizer Leitmedien. Sämtliche analysierten Beiträge sind dokumentiert und im Archiv https://www.9min.ch/medienkritik einsehbar. Bei jedem Beitrag wurde dieselbe Frage gestellt: Was steht drin — und was fehlt? Das Ergebnis ist kein Katalog von Fehlern. Die einzelnen Beiträge sind nicht falsch — sie sind selektiv. Sie berichten, was ins Framing passt, und verschweigen, was es stört. Und die Auslassungen folgen Mustern, die über alle Ressorts hinweg wiederkehren: Klima, Migration, US-Politik, Justiz, Wissenschaft, Aussenpolitik.*

@@ -64,6 +64,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Zum SRF-Beitrag *[«Darum finden Trump und Musk immer wieder zueinander»](https://www.srf.ch/news/international/us-delegation-in-china-darum-finden-trump-und-musk-immer-wieder-zueinander)*, 15. Mai 2026*

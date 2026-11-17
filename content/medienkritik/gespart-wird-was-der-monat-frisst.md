@@ -102,6 +102,7 @@ zusammenfassung: >-
   Geschäftsmodell genau die empfohlene Beratung und digitale Finanzplanung
   anbietet.
 kritik_schwere: 3
+muster_id: M011
 ---
 
 *Der Beitrag erzählt fehlende Reserven als Frage des Verhaltens. Die Dachzeile lautet «Studie zum Sparen», und das einzige Expertenzitat setzt den Rahmen: «Regelmässiges Sparen bedeutet noch nicht, dass ein Haushalt ausreichend auf einen Einkommensausfall vorbereitet ist». Das Scharnier ist ein einziges Wort. 83 Prozent legen Geld auf die Seite, «Dennoch» verfügen knapp 15 Prozent über keinerlei liquide Reserven: Der Widerspruch wird beim Sparer gesucht, nicht bei den Kosten, gegen die er anspart. Der Beitrag misst die Reserve in Monaten, verschweigt aber, wie teuer ein Monat geworden ist, und ebenso, dass eine Bank Praxispartner der Studie war.*

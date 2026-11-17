@@ -59,6 +59,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *SRF warnt: Schweizer Städte müssen sich auf bis zu 43 Grad einstellen. Die Zahl kommt aus einer ETH-Modellierung. Sie ist kein Messwert, keine Beobachtung, kein Fakt. Sie ist das Ergebnis einer Rechnung, die von Annahmen abhängt. SRF unterscheidet nicht zwischen gemessener Temperatur und projizierter Temperatur. Der Artikel nennt die bisherigen Hitzerekorde — 39,7 Grad in Genf, 36,5 Grad in Zürich — und springt dann zu den 43 Grad, als wäre das dieselbe Kategorie von Daten. Es ist nicht dasselbe. Das eine ist gemessen. Das andere ist berechnet. Wer den Unterschied verschleiert, betreibt keine Information. Er betreibt Propaganda. Dafür zahlen wir 335 Franken im Jahr.*

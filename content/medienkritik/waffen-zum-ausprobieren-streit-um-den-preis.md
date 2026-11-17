@@ -106,6 +106,7 @@ zusammenfassung: >-
   Stimmenverteilung ist asymmetrisch, und der Interessenkonflikt der Olma als
   Gastgeberin bleibt unmarkiert.
 kritik_schwere: 3
+muster_id: M009
 ---
 
 *Der Titel macht die Kritik zum Ereignis. Die Ausstellung selbst beschreibt der Beitrag in der Sprache der Ausstellerin. Schon der erste Satz übernimmt die Selbstdarstellung der Armee in der Stimme der Redaktion: Auf rund 2000 Quadratmetern zeige die Armee, «was Verteidigungsfähigkeit des Landes heute und in Zukunft heisst». Die Bildlegenden folgen dem Ton eines Messeprospekts. Ab der Mitte trägt eine einzige Zahl die Debatte: «rund 300'000 Franken – das Dienstpersonal nicht eingerechnet». Verschwiegen werden zwei Rahmenfakten. Die Armee tritt nach neun Jahren erstmals wieder mit einer grossen Sonderschau an der Olma auf, und die SP hatte diese Schau schon vorab als «Militärwerbung» bezeichnet.*

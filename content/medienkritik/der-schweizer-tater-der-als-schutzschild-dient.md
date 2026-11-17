@@ -69,6 +69,7 @@ quelle_format: Broadcast
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *SRF interviewt Bundesrätin Baume-Schneider über K.-o.-Tropfen und sexualisierte Gewalt und rahmt das Problem als «strukturell» und «schweizerisch». «Auch mit Schweizer Bürgern als Tätern» — das ist der Satz, der den Rahmen setzt. Der Beitrag blendet systematisch aus, ob die behauptete Täterstruktur den Fakten entspricht, ob die geforderte Prävention die richtige Zielgruppe trifft und vor allem, ob die Schweizer Justiz in der Lage ist, derartige Taten überhaupt konsequent zu bestrafen. Der Beitrag ist ein Regierungsinterview, das eine politische These als Fakt präsentiert und die justizielle Realität ausblendet.*

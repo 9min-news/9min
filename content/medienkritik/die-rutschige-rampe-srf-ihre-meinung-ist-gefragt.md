@@ -65,6 +65,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF 3 Wirtschaft
 kritik_schwere: 2
+muster_id: M004
 ---
 
 *SRF fragt, ob Werbung für Flugreisen verboten werden sollte — und rahmt die Frage als Klimamassnahme. Ein Vorstoss in Zürich scheiterte knapp, Den Haag verbietet bereits, 50 Städte folgten. Der Beitrag verschweigt, dass ein Werbeverbot ein Eingriff in die Meinungs- und Wirtschaftsfreiheit ist — er nennt es «eklatante Verletzung», zitiert einen FDP-Politiker, und lässt es dabei. Er verschweigt die Frage, ob ein Staat, der Werbung für legale Produkte verbietet, noch liberal ist. Er verschweigt die Wirkung — hat Den Haags Verbot die Emissionen gesenkt? Er verschweigt die Grenze — wenn Flugreisen, warum nicht Fleisch, Autos, Alkohol? Und er verschweigt die Einladung: SRF fragt die Community um Input — für ein Verbot, das der Beitrag wohlwollend rahmt. Er ist eine Umfrage, die eine Zensurdebatte als Klimapolitik verkauft.*

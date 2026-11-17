@@ -69,6 +69,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *SRF berichtet über Alain Bersets Kritik an der FIFA — und rahmt den Europarat-Generalsekretär als Hüter der Integrität. «Wieso interveniert der Europarat im Fussball?», lautet die Frage — und die Antwort ist: weil Berset es für nötig hält. Was nicht vorkommt: die Frage, ob Berset die moralische Autorität hat, Integrität einzufordern. Was nicht vorkommt: Bersets eigene Bilanz — die Covid-Politik, die er als Innenminister verantwortete, die Grundrechte einschränkte, Regeln bog und wissenschaftliche Dissens unterdrückte. Was nicht vorkommt: die Frage, ob ein Politiker, der während einer Krise Prinzipien aufgab, jetzt Prinzipien einfordern darf. Was nicht vorkommt: der Begriff «selektive Moral» — den SRF wörtlich zitiert, aber nur auf Trump anwendet, nicht auf Berset. Was nicht vorkommt: die Erkenntnis, dass der Fussball nur ein Symptom ist — und dass das eigentliche Problem der Prinzipienverlust der politischen Klasse ist, dessen perfektes Beispiel Berset selbst ist. Der Beitrag ist Autoritätenberichterstattung ohne Selbstreflexion — und die Selbstreflexion wäre die Frage gewesen, wer den Wächter wacht.*

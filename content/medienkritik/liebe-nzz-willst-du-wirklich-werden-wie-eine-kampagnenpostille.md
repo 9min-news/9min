@@ -71,6 +71,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: NZZaS
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *Zum NZZaS-Artikel *[«Liebe Schweiz, willst du wirklich werden wie Japan?»](https://www.nzz.ch/international/liebe-schweiz-willst-du-wirklich-werden-wie-japan-ld.10006207)*, 10. Mai 2026*

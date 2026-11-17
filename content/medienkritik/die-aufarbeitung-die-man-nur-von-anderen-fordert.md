@@ -72,6 +72,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *SRF lässt seinen Auslandredaktor über das Staatsbegräbnis für Ratko Mladic schreiben — und fordert Aufarbeitung. «Eine gesellschaftliche Aufarbeitung der Kriege der 90er-Jahre und der eigenen Rolle dabei hat in Serbien nie stattgefunden», heisst es. Der Satz ist korrekt. Und er fällt auf den Absender zurück, sobald man die Variablen vertauscht: die Kriege der 90er durch die Pandemie von 2020, Serbien durch den Sender. Eine gesellschaftliche Aufarbeitung der Pandemie und der eigenen Rolle dabei hat bei SRF nie stattgefunden — stattdessen steht der Sender vor Bundesgericht, um nicht über die RKI-Protokolle berichten zu müssen. Wer von Serbien dreissig Jahre nach Dayton die Auseinandersetzung mit der Vergangenheit verlangt und sechs Jahre nach Bern die eigene vor Gericht verhindert, hat den Anspruch nicht verloren — er hat die Berechtigung.*

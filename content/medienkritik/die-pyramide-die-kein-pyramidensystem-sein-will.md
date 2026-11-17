@@ -66,6 +66,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: Swissinfo
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Zur Swissinfo/RTS-Berichterstattung *[«Ohne Zuwanderung würde die Schweizer Bevölkerung stark altern»](https://www.swissinfo.ch/ger/demografie/ohne-einwanderung-w%C3%BCrde-die-schweizer-bev%C3%B6lkerung-stark-altern/91344414)*, 1. Mai 2026*

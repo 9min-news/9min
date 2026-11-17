@@ -84,6 +84,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 Am 6. April 2026 publiziert @srfnews einen Beitrag mit dem Titel [«Wie ist das genau mit den nicht-umgesetzten Initiativen?»](https://www.srf.ch/news/schweiz/demokratie-in-der-schweiz-wie-ist-das-genau-mit-den-nicht-umgesetzten-initiativen) Der Politologe Adrian Vatter von der Universität Bern erklärt darin, warum angenommene Volksinitiativen oft nicht so umgesetzt werden, wie die Stimmbürger es sich vorgestellt haben. Er nennt drei Gründe: übergeordnetes Recht, Zuständigkeitsfragen zwischen Bund und Kantonen und die Kosten. Dann sagt er einen Satz, der als Fussnote gedacht ist, aber als Geständnis funktioniert:

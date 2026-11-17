@@ -65,6 +65,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M007
 ---
 
 *Wie SRF ein Leck als Wende deutet — und dabei beweist, dass nicht Russland, sondern die westlichen Medien eine Exit-Strategie suchen*

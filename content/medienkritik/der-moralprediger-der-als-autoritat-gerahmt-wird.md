@@ -63,6 +63,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News International
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *SRF berichtet über Alain Bersets Kritik an der FIFA — und rahmt den Europarat-Generalsekretär als moralische Instanz. «Scharfe Kritik von Alain Berset an der Fifa», lautet der Titel, und der alt Bundesrat wird als Mann präsentiert, der für Integrität, Regeln und Glaubwürdigkeit steht. Was nicht vorkommt: Bersets eigene Bilanz. Was nicht vorkommt: die Covid-Politik, die er als Innenminister verantwortete — Lockdowns, Zertifikatspflicht, Impfdruck, Grundrechtseinschränkungen, die der Bundesrat unter seiner Führung verhängte und die später teilweise gerichtlich korrigiert wurden. Was nicht vorkommt: die Frage, ob ein Politiker, der während einer Krise die Regeln bog, die Grundrechte einschränkte und die Wissenschaft selektiv instrumentalisierte, die moralische Autorität hat, der FIFA «Integrität» vorzuschreiben. Was nicht vorkommt: die Erkenntnis, dass der Fussball nur ein Symptom ist — und dass das eigentliche Problem der Prinzipienverlust in der Politik ist, dessen perfektes Beispiel Berset selbst ist. Der Beitrag ist Autoritätenberichterstattung ohne Kontext — und der Kontext ist die Covid-Bilanz, die SRF verschweigt.*

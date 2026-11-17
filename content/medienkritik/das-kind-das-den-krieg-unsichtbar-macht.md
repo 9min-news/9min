@@ -66,6 +66,7 @@ quelle_format: Broadcast
 quelle_sendung: 10vor10
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *SRF porträtiert drei Kinder im Libanon und rahmt den Nahost-Krieg als reines Leidensereignis. Zeichnen, Yoga, Traumata. Was nicht vorkommt: die Hisbollah. Was nicht vorkommt: israelische Kinder unter Raketenbeschuss. Was nicht vorkommt: die Frage, warum die Kinder fliehen mussten. Was nicht vorkommt: wer die Hilfsorganisation finanziert. Der Beitrag ist eine Empathie-Reportage, die den Krieg von jeder Ursache befreit — und damit nicht erklärt, warum er nicht endet.*

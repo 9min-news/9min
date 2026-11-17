@@ -116,6 +116,7 @@ zusammenfassung: >-
   Personalisierung als Entpolitisierung, bei dem die Betroffenen hinter der
   Prominenz des Vermittlers verschwinden.
 kritik_schwere: 3
+muster_id: M011
 ---
 
 *Der Beitrag behandelt eine humanitäre Waffenruhe als Personalie. Schon der Titel ist ein Charakterurteil über die mutmassliche Vermittlerin, und er kürzt dabei das Zitat: Im Gespräch ist Melania Trump «auf ihre Art und Weise eine clevere Geschäftsfrau», in der Schlagzeile entfällt die Einschränkung. Ein Beispiel für die Geschäftstüchtigkeit liefert der Beitrag ohnehin nicht. Die erste Frage setzt den Rahmen des Erstaunens («Hat es Sie erstaunt, dass Melania Trump diese Waffenruhe vermittelt haben soll?»), die letzte führt zu den Zwischenwahlen. Dazwischen verschweigt der Beitrag, wie es um die Stadt steht und dass UNO und Europarat genau diese Waffenruhe gefordert hatten. In der Online-Fassung fehlt zudem, dass beide Kriegsparteien sie inzwischen bestätigt haben.*

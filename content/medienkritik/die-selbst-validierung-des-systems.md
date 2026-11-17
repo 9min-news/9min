@@ -81,6 +81,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: Ombudsstelle der SRG Deutschschweiz
 kritik_schwere: 3
+muster_id: M004
 ---
 
 Eine forensische Lektüre des Ombudsentscheids im Fall Fischer

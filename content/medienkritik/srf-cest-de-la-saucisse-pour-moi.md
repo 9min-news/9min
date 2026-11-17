@@ -68,6 +68,7 @@ quelle_format: Print
 quelle_sendung: ''
 quelle_redaktion: Feuilleton
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Die NZZ am Sonntag interviewt SRG-Chefin Susanne Wille und rahmt sie als Verteidigerin der Schweizer Demokratie gegen Big Tech. KI, Datenabfluss, ETH-Kooperation. Der Beitrag blendet systematisch aus, ob ein steuerfinanziertes Medienhaus private Plattformen gesetzlich zwingen darf, ob die ETH-Kooperation eine staatliche Marktverzerrung ist und warum 300 Mitarbeiter gegen den Umbau protestieren. Das Interview ist ein PR-Dialog, der eine Monopolistin als Heldin inszeniert.*

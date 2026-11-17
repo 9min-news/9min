@@ -17,9 +17,10 @@ interface Props {
   categories: string[]
   kritikTypen?: string[]
   medien?: string[]
+  muster?: { id: string; title: string }[]
 }
 
-export function CategoryFilter({ articles, categories, kritikTypen = [], medien = [] }: Props) {
+export function CategoryFilter({ articles, categories, kritikTypen = [], medien = [], muster = [] }: Props) {
   const searchParams = useSearchParams()
   const router = useRouter()
   const [open, setOpen] = useState(false)
@@ -28,8 +29,11 @@ export function CategoryFilter({ articles, categories, kritikTypen = [], medien 
   const activeTyp = searchParams.get('typ') ?? null
   const activeMedium = searchParams.get('medium') ?? null
   const activeSchwere = searchParams.get('schwere') ?? null
-  const anyActive = !!(activeKat || activeTyp || activeMedium || activeSchwere)
-  const activeCount = [activeKat, activeTyp, activeMedium, activeSchwere].filter(Boolean).length
+  const activeMuster = searchParams.get('muster') ?? null
+  const anyActive = !!(activeKat || activeTyp || activeMedium || activeSchwere || activeMuster)
+  const activeCount = [activeKat, activeTyp, activeMedium, activeSchwere, activeMuster].filter(Boolean).length
+  const musterTitle = muster.find(m => m.id === activeMuster)?.title ?? activeMuster
+  const activeLabel = [activeKat, activeTyp, activeMedium, activeSchwere ? SCHWERE_LABELS[activeSchwere] : null, musterTitle].filter(Boolean).join(' · ')
 
   // Only show medien that appear more than once (filter out noise)
   const usefulMedien = medien.filter(m => m === 'SRF' || ['NZZ', 'Tages-Anzeiger', 'Swissinfo', 'SRF 4 News', 'NZZ am Sonntag', 'Blick', 'TeleZüri'].includes(m))
@@ -51,6 +55,7 @@ export function CategoryFilter({ articles, categories, kritikTypen = [], medien 
     if (activeTyp && !a.frontmatter.kritik_typ?.includes(activeTyp)) return false
     if (activeMedium && a.frontmatter.kritisiertes_medium !== activeMedium) return false
     if (activeSchwere && String(a.frontmatter.kritik_schwere ?? '') !== activeSchwere) return false
+    if (activeMuster && a.frontmatter.muster_id !== activeMuster) return false
     return true
   })
 
@@ -106,7 +111,7 @@ export function CategoryFilter({ articles, categories, kritikTypen = [], medien 
               color: 'var(--color-tannengruen)',
               marginLeft: '4px',
             }}>
-              {[activeKat, activeTyp, activeMedium, activeSchwere ? SCHWERE_LABELS[activeSchwere] : null].filter(Boolean).join(' · ')}
+              {activeLabel}
             </span>
           )}
           <span style={{
@@ -175,6 +180,32 @@ export function CategoryFilter({ articles, categories, kritikTypen = [], medien 
                       transition: 'all 120ms ease',
                     }}>
                       {typ}
+                    </button>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {/* Muster */}
+            {muster.length > 0 && (
+              <div style={{ marginBottom: '16px' }}>
+                <p style={{ fontFamily: 'var(--font-body)', fontSize: '10px', letterSpacing: '0.18em', textTransform: 'uppercase', color: 'var(--color-textgrau-hell)', margin: '0 0 8px' }}>Muster</p>
+                <div style={{ display: 'flex', gap: '6px', flexWrap: 'wrap' }}>
+                  {muster.map(m => (
+                    <button key={m.id} onClick={() => toggle('muster', activeMuster, m.id)} style={{
+                      fontFamily: 'var(--font-body)',
+                      fontSize: '11px',
+                      letterSpacing: '0.1em',
+                      textTransform: 'uppercase',
+                      color: activeMuster === m.id ? 'var(--color-bg-paper)' : 'var(--color-tannengruen)',
+                      background: activeMuster === m.id ? 'var(--color-tannengruen)' : 'transparent',
+                      border: '1px solid var(--color-tannengruen)',
+                      borderRadius: '2px',
+                      padding: '3px 10px',
+                      cursor: 'pointer',
+                      transition: 'all 120ms ease',
+                    }}>
+                      {m.title}
                     </button>
                   ))}
                 </div>
@@ -261,7 +292,7 @@ export function CategoryFilter({ articles, categories, kritikTypen = [], medien 
       }}>
         {filtered.length} {filtered.length === 1 ? 'Beitrag' : 'Beiträge'}
         {anyActive && (
-          <> · <span style={{ color: 'var(--color-tannengruen)' }}>{[activeKat, activeTyp, activeMedium, activeSchwere ? SCHWERE_LABELS[activeSchwere] : null].filter(Boolean).join(' · ')}</span></>
+          <> · <span style={{ color: 'var(--color-tannengruen)' }}>{activeLabel}</span></>
         )}
       </p>
 

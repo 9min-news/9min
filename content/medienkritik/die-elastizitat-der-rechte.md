@@ -66,6 +66,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Zur SRF-*[Analyse von Fredy Gsteiger über die Deklaration von Chisinau](https://www.srf.ch/news/international/deklaration-von-chisinau-europarat-der-wind-in-auslaenderfragen-weht-schaerfer)*, 15. Mai 2026*

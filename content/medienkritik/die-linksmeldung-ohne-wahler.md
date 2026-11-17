@@ -69,6 +69,7 @@ quelle_format: Broadcast
 quelle_sendung: Rendez-vous
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *SRF meldet das offizielle Resultat: Schweden rückt nach links — «wenn auch nur knapp». Der Korrespondent erklärt die neuen Mehrheiten: Die Polpartei wechselt von rechts nach links, die Migrationspolitik ändere sich «kaum», die Aussenpolitik gar nicht. Was der Beitrag nicht liefert: die Zahlen, die den Wechsel erklären. Die Sozialdemokraten feiern ihren Sieg mit dem schlechtesten Resultat seit einem Jahrhundert. Die Linkspartei legte zu. Und den Ausschlag gaben Wähler, die mit keinem Wort vorkommen: fast eine Million im Ausland geborene Wahlberechtigte, 483'000 Erstwähler, ein Rekord an vorgezogenen Stimmabgaben — und in den Migrantenvierteln ein Zulauf zur Linkspartei von fast 13 Punkten. Der Wechsel, der als ideologische Heimkehr erzählt wird, ist eine demografische Verschiebung. Und die Migrationspolitik, die sich «kaum» ändert, ändert sich exakt dort, wo die neue Wählerschaft sie ändert.*

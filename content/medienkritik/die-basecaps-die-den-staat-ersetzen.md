@@ -65,6 +65,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *SRF berichtet über die 1.-August-Reden der Landesregierung und rahmt den Nationalfeiertag als Modenschau. Trachten, Regenschirme, rote Kappen. Was nicht vorkommt: die Frage, woraus der Staat besteht. Was nicht vorkommt: die Grundsätze, die die Schweiz tragen. Was nicht vorkommt: der Widerspruch zwischen zentraler Regierung und dezentraler Verantwortung. Der Beitrag ist ein Stilleben der Bundesräte, die das Fundament des Landes hinter Accessoires verstecken.*

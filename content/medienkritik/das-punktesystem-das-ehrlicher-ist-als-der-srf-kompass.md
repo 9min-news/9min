@@ -66,6 +66,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF
 kritik_schwere: 2
+muster_id: M017
 ---
 
 *Ein Mann sitzt vor der Kamera und denkt laut nach. Er zählt Argumente. Er vergibt Punkte. Er kommt am Ende auf 11:6 für die Initiative. Das klingt vielleicht banal. Es ist aber das Gegenteil davon. Es ist genau das, was SRF mit seinem «interaktiven Abstimmungskompass» vorgibt zu tun — aber nie tut. Hier sitzt Frank Urbaniok, der seine Position offen darlegt, seine Gewichtungen begründet, seine Zweifel benennt und am Ende eine Schlussfolgerung zieht. Keine Pseudo-Neutralität. Keine versteckte Agenda. Keine quotenkonforme Zitatesammlung. Nur ein Mensch und seine Argumente. Das ist die transparenteste Form politischer Meinungsbildung. Und sie ist deshalb wertvoller als jedes redaktionell kuratierte «Pro/Contra»-Format. Schauen wir genauer hin.*

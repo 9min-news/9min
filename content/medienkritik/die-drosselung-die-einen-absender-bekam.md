@@ -107,6 +107,7 @@ zusammenfassung: >-
   Quellenlage ist einseitig ukrainisch, ohne dass diese Interessenlage markiert
   wird.
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Der Titel nennt einen Urheber, den der Text nicht ermittelt: «Trumps Politik hilft den Russen im Krieg gegen die Ukraine», darüber die Dachzeile «Unzuverlässige USA». Der Hauptteil handelt jedoch von einer Geschwindigkeitsgrenze für die militärtaugliche Version von Starlink. Im Text heisst sie «Starlink-Dienstes von US-Milliardär Elon Musk». Wer die Grenze angeordnet hat, sagt der Beitrag an keiner Stelle. Erst im zweitletzten Absatz verbindet er Präsident und Unternehmer mit einem «wohl» zu einem gemeinsamen Kalkül. Er verschweigt, dass sich die beiden möglichen Urheber öffentlich die Verantwortung zuschieben, dass für zivile Tarife seit März eine ähnliche Grenze gilt und dass die angekündigte Dieselbeschaffung aus Russland eine innenpolitische Begründung trägt. Aus der Zahl «160 km/h» leitet die Redaktion selbst ab, dass «noch mehr unbeteiligte Kinder, Frauen und Männer sterben werden».*

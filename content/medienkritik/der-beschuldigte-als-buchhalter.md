@@ -106,6 +106,7 @@ zusammenfassung: >-
   –, ohne dass diese Parteistellung markiert werde. Auch der Kontext der
   verbotenen Kundgebung und die Grössenordnung der «Aufmärsche» fehlen.
 kritik_schwere: 3
+muster_id: M005
 ---
 
 *Der Beitrag baut ein Duell. Der Innenminister sagt: «Selbstverständlich hat die Polizei sie nicht geschützt.» Danach kippt der Text mit dem Satz «Videoaufnahmen aus dem ostfranzösischen Nancy zeichnen ein anderes Bild». Der Widerspruch bleibt als Endpunkt stehen, als gäbe es zwischen Ministerwort und Handyvideo keine dritte Instanz. Das Etikett «Aufmärsche» im Titel unterstellt eine Grössenordnung, die der Text nirgends beziffert. Die 410'000 Demonstranten und ihr Anliegen rücken dagegen in Dachzeile und Schlussabsatz. Verschwiegen werden das Verfahren der Staatsanwaltschaft Nancy, die Lage der verbotenen Kundgebung, in der die Szene entstand, und der Umstand, dass jede Zahl im Text von jener Behörde stammt, deren Polizei unter Vorwurf steht.*

@@ -67,6 +67,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Dieser SRF-Beitrag (übernommen von SWI swissinfo.ch) tut etwas scheinbar Bescheidenes: Er referiert, wie ausländische Medien über die SVP-Initiative «Keine 10-Millionen-Schweiz» berichten. Das ist ein legitimes Format — der Blick von aussen kann erhellend sein. Aber gerade dieses Format birgt eine besondere Versuchung: Wer aus dem unendlichen Meer internationaler Berichterstattung zitiert, *wählt aus*, und die Auswahl ist die eigentliche redaktionelle Aussage. Sehen wir uns an, was hier ausgewählt wurde — und was nicht.*

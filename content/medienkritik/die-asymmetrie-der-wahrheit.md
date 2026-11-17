@@ -60,6 +60,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Wie SRF im Faktencheck die Ja-Argumente zerschneidet und die Nein-Argumente zurechtbiegt — und das «Richtig» des einen ganz anders aussieht als das «Richtig» des anderen*

@@ -69,6 +69,7 @@ quelle_format: Broadcast
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Der Beitrag erzählt eine Geschichte von Helden und Opfern: Ein Präsident schliesst Medien aus, die Medien wehren sich, die Solidarität der Branche folgt, selbst der «Lieblingssender» stellt sich quer. Die Erzählung kennt nur eine Tugend, die verteidigt wird: unabhängiger Journalismus. Was sie nicht kennt: die Akteure. CNN, MS NOW, Politico, Fox News, die New York Times. Das sind keine neutralen Beobachter, die um ihre Unabhängigkeit kämpfen. Das sind Akteure eines Partisanenkriegs, die seit Jahren dokumentierte Narrative pflegen, Geschichten unterdrückten, Falschmeldungen verbreiteten und ihre eigene Agenda fahren. Ein Sender –– SRF –– der selbst Framing betreibt, berichtet über einen Streit zwischen einem Präsidenten und anderen Framern, und rahmt die einen als Hüter der Wahrheit. Der Streit ist real. Die Unschuld der einen Seite ist die Erfindung des Beitrags.*

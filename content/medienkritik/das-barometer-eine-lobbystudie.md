@@ -61,6 +61,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 Der SRF-Beitrag zum «Mietbarometer» des Mieterinnen- und Mieterverbands illustriert ein bekanntes Problem des politischen Journalismus: Interessengetriebene Erhebungen werden rasch als neutrale Bestandsaufnahme behandelt, obwohl sie in Wirklichkeit Teil einer politischen Argumentationskette sind.

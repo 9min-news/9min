@@ -70,6 +70,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Der Beitrag meldet: «Tausende demonstrieren in Bern für die Rechte von Migranten.» Wer die Tausenden auf die Strasse brachte, steht im zweiten Absatz und klingt wie eine Fussnote: «Solidarité sans frontières gemeinsam mit rund hundert weiteren Organisationen, Gewerkschaften und zivilgesellschaftlichen Gruppen.» Das ist der eigentliche Befund des Stücks: kein Volksaufstand, sondern eine mobilisierte Kundgebung, getragen von einem eingespielten Verbandsapparat. Dieselbe Struktur wie die Klimademo zwei Wochen zuvor, damals 170 Organisationen, initiiert von einer Westschweizer Partei. Ein Medium, das organisierte Mobilisierung als organische Bewegung berichtet, macht den Veranstalter zur Nachricht und den Apparat unsichtbar. Die Forderungen, die es dabei wörtlich zitiert, sind radikal: offene Grenzen, Mitbestimmung unabhängig vom Status, das Ende der Abschiebungen. Der Beitrag nennt sie beim humanitären Klang statt beim politischen Inhalt.*

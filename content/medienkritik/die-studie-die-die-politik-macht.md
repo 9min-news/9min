@@ -74,6 +74,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M004
 ---
 
 *Dieser SRF-Beitrag über eine ETH/PSI-Studie zur Wirtschaftlichkeit neuer Atomkraftwerke ist ein Beispiel für Wissenschaftsberichterstattung, die sich als neutral geriert, aber eine politische Wirkung erzeugt. Die Studie kommt zum Schluss: Neue AKW lohnen sich nur mit staatlicher Unterstützung, die Schweiz braucht sie für Netto-Null nicht, und bei europäischen Baukosten verschwinden sie aus dem kostenoptimalen Energiemix. Der Beitrag gibt das wieder — ohne die Annahmen der Studie zu prüfen, ohne die Systemkosten der Alternative zu benennen, ohne die Frage zu stellen, ob die ETH und das PSI die richtigen Institutionen für eine unparteiliche Analyse sind, und ohne zu thematisieren, dass die Studie exakt zum politisch heiklen Zeitpunkt erscheint, an dem das Parlament das AKW-Neubauverbot aufgehoben hat. Das Ergebnis ist ein Beitrag, der eine wissenschaftliche Studie als Fakten präsentiert, obwohl sie auf Modellannahmen beruht, die strittig sind — und der damit die Atomausstieg-Position stärkt, ohne sie als Position zu markieren.*

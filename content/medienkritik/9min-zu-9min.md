@@ -67,6 +67,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: ''
 kritik_schwere: 3
+muster_id: keins
 ---
 
 *Eine kurze Erklärung. Dank an 280+ Follower in ~1.5 Monaten. SRF predigt Transparenz. 9min lebt sie. Rückfragen jederzeit: hello@9min.ch*

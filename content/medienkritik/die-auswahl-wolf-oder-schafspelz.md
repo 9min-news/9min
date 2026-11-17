@@ -63,6 +63,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 Am 31. März 2026 berichtet SRF, dass in Hamburg ein Wolf eine Frau gebissen hat. Acht Sätze. Eine Karte. Ein Foto der Binnenalster bei Nacht. Das Tier wurde eingefangen. Weitere Informationen werden in Aussicht gestellt.

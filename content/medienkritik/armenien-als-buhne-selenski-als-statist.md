@@ -73,6 +73,7 @@ quelle_format: Broadcast
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Zur SRF-Berichterstattung *[«EPG-Treffen in Armenien ist ein politisches Signal»](https://www.srf.ch/news/international/annaeherung-an-europa-epg-treffen-in-armenien-ist-ein-politisches-signal)*, SRF 4 News, 5. Mai 2026*

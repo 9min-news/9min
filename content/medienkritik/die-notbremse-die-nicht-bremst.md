@@ -60,6 +60,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Wie SRF die EU-Kapitulation vor Trump als «Einigung» verkauft — und ein Kontrollmechanismus als Schutzschild präsentiert wird, der die EU an den Verursacher der Krise bindet*

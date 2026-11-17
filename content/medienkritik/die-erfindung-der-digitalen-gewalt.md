@@ -63,6 +63,7 @@ quelle_format: Broadcast
 quelle_sendung: ''
 quelle_redaktion: ''
 kritik_schwere: 3
+muster_id: M016
 ---
 
 *Wie ein politisch konstruierter Begriff den Bürger zum Patienten macht und den Staat zum Therapeuten – und was die alternative Prämisse der mündigen Selbstermächtigung dagegen setzt*

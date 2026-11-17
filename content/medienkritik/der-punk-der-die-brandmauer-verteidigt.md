@@ -63,6 +63,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *SRF porträtiert den Punksänger Monchi, der in sein ostdeutsches Heimatdorf zurückkehrte, um gegen die AfD zu kämpfen. 54 Prozent AfD-Wähler sind ein «Schock». Der Beitrag fragt nicht, warum die Menschen so wählen. Er fragt nicht, ob eine «Brandmauer», die eine Mehrheitspartei ausschliesst, demokratisch ist. Er ist eine Reportage, die einen linken Aktivisten als Helden inszeniert und den Wählerwillen als Krankheit gerahmt.*

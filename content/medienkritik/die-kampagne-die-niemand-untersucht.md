@@ -66,6 +66,7 @@ quelle_format: Broadcast
 quelle_sendung: Rendez-vous
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *SRF berichtet über eine anonyme Kampagne gegen Bundesrichterin Julia Hänni — und rahmt sie als Angriff auf die Justiz. «Beispiellose Kampagne», «Schmierenkampagne», «Haltlose Vorwürfe», «Diffamierungen» — das sind die Wörter, die der Beitrag wählt, bevor er eine einzige Frage gestellt hat. Was nicht vorkommt: wer hinter der Kampagne steht. Was nicht vorkommt: was genau Hänni plagiiert haben soll — und ob die Prüfung des Bundesamts für Justiz ausreichend war. Was nicht vorkommt: die Frage, ob Kritik an Richtern immer ein «Angriff auf die Institution» ist — oder ob Richter, die politische Urteile fällen, politische Kritik provozieren. Der Beitrag ist eine Verteidigung der Justiz als Opfer — ohne Untersuchung der Vorwürfe, die zur Verteidigung geführt haben.*

@@ -77,6 +77,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Zur SRF-Berichterstattung über Korruption in der Ukraine, mit besonderer Berücksichtigung des *[Beitrags von Judith Huber vom 15. Mai 2026](https://www.srf.ch/news/international/ukraine/geldwaescherei-und-villenbau-ukrainische-korruptionsaffaere-wirft-dunklen-schatten-auf-selenski)

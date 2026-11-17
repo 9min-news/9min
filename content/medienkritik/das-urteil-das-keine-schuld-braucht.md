@@ -102,6 +102,7 @@ zusammenfassung: >-
   verlangt, dass es pro Person um durchschnittlich 68'000 Franken ging und dass
   die Finma einen Verlust in anderer Grössenordnung ausweist.
 kritik_schwere: 3
+muster_id: M008
 ---
 
 *Der Beitrag rahmt ein Urteil über eine präventive Vergütungsregel als moralische Quittung für persönliches Versagen. Der Titel setzt die Kausalität mit einem einzigen Wort: «Die CS-Manager haben versagt, darum werden sie nicht belohnt». Der Schluss wiederholt sie: «Die Manager der Credit Suisse haben es nicht gut gemacht. Sonst gäbe es die Bank heute noch.» Getragen wird diese Lesart von einer Zahl im ersten Absatz, die mit dem Streitgegenstand nichts zu tun hat: 31,7 Milliarden Franken variable Vergütungen gegenüber 32,3 Milliarden Franken Verlust. Verschwiegen wird, dass das Bundesgericht ausdrücklich keinen Nachweis individuellen Versagens verlangt, dass es pro Person um durchschnittlich rund 68'000 Franken ging und dass die Finma für dieselbe Bank einen Verlust in ganz anderer Grössenordnung ausweist.*

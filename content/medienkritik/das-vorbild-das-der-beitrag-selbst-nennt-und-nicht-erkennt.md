@@ -71,6 +71,7 @@ quelle_format: Broadcast
 quelle_sendung: SRF 4 Nachrichten
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M003
 ---
 
 *Ein Land sucht Zugang zum europäischen Binnenmarkt — ohne Mitgliedschaft, ohne Gerichtshoheit, ohne dynamische Rechtsübernahme. Sektoral, vertraglich, souverän. Der Korrespondent liefert die Referenz selbst, in einem Halbsatz: «so wie ihn die Schweiz in vielen Bereichen hat» — und geht weiter zu Carneys Reiseplan. Das ist die Story: Kanada, die achte grösste Volkswirtschaft der Welt, wählt in der Woche, in der die Schweiz über Bilaterale III berät, genau das Modell, das die Schweiz seit dreissig Jahren lebt — und das ihr in der aktuellen Debatte als unhaltbar, als «nicht mehr zeitgemäss», als Auslaufmodell gerahmt wird. Ein Land, das die Mitgliedschaft freiwillig ausschlägt, ist die stärkste verfügbare Bestätigung des Alternativmodells — und der Beitrag druckt sie als Randnotiz.*

@@ -72,6 +72,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF 3 Wirtschaft
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *Dieser SRF-Beitrag über den neuen EU-Päcklizoll ist ein Lehrstück in Protektionismus-Stenografie: Die EU erhebt einen Zoll von 3 Euro pro Artikelkategorie auf Pakete unter 150 Euro — und SRF berichtet das als selbstverständliche Massnahme gegen eine «Paketflut» mit «qualitativ minderwertigen Artikeln». Die zentralen Fragen werden nicht gestellt: Ist das legal (WTO?), wem nützt es (EU-Händlern?), wem schadet es (Konsumenten?), und was bedeutet es für Schweizer Exporteure (wie viele, wie viel, welche Produkte?). Und: Dieselbe EU, die Trumps Zölle als Schutzmassnahme bekämpft und als Bedrohung des Freihandels brandmarkt, erhebt nun selbst Zölle — und SRF erwähnt diesen Widerspruch mit keinem Wort. Der Beitrag liest sich wie ein Communiqué der EU-Kommission — ohne Prüfung, ohne Gegenperspektive, ohne wirtschaftliche Analyse.*

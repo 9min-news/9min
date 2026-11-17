@@ -20,4 +20,4 @@ Ein Ereignis, Dokument, Urteil oder eine Stellungnahme, das für das Verständni
 
 ## Wirkung
 
-Auslassung ist schwerer nachweisbar als Fehlinformation, da das Fehlende definitionsgemäss nicht sichtbar ist. Das Muster nutzt die Asymmetrie zwischen Produzenten (die den Gesamtraum der verfügbaren Fakten kennen) und Konsumenten (die nur das Berichtete sehen). Wer einen Artikel liest, hat keine Möglichkeit zu wissen, was hätte drinstehenkönnten. Auslassung schützt dabei oft keine Quellen, sondern Beziehungen — zu Behörden, Unternehmen, politischen Akteuren.
+Auslassung ist schwerer nachweisbar als Fehlinformation, da das Fehlende definitionsgemäss nicht sichtbar ist. Das Muster nutzt die Asymmetrie zwischen Produzenten (die den Gesamtraum der verfügbaren Fakten kennen) und Konsumenten (die nur das Berichtete sehen). Wer einen Artikel liest, hat keine Möglichkeit zu wissen, was hätte drinstehen können. Auslassung schützt dabei oft keine Quellen, sondern Beziehungen — zu Behörden, Unternehmen, politischen Akteuren.

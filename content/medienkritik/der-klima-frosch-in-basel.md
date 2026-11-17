@@ -60,6 +60,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *SRF meldet einen Bestandseinbruch beim Grasfrosch — und liefert eine Ursache: den Klimawandel. Dass ein Biologe am Bruderholz seit 1988 Laichballen zählt und einen Rückgang feststellt, ist ein Datum. Dass aus diesem Datum eine monokausale Erklärung wird, ist eine Entscheidung — des Forschers und des Mediums. Der Beitrag ist eine Pressemitteilung mit SRF-Siegel: Eine Studie wird referiert, ein Experte wird zitiert, eine Ursache wird behauptet. Geprüft wird nichts.*

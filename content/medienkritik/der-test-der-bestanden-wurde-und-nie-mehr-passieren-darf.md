@@ -70,6 +70,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *SRF interviewt Bundesrat Beat Jans zur Ceuta-Krise und rahmt ihn als Krisenmanager. Jans sagt: «So etwas darf nie mehr passieren» — und im selben Atemzug: «Schengen hat den Test bestanden.» 75 Tote, 72'000 Migranten, ein Test, der bestanden wurde. SRF fragt nicht, wie beides zusammenpasst. Die EU-Zahlungen an Marokko fehlen, die Frage, ob die Überwachung sozialer Medien legitim ist, wird nicht gestellt, das Versprechen von vor anderthalb Jahren wird nicht eingefordert. Der Beitrag ist ein Interview, das einen Bundesrat nicht konfrontiert, sondern bedient.*

@@ -65,6 +65,7 @@ quelle_format: Broadcast
 quelle_sendung: HeuteMorgen / SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Dieser SRF-Beitrag berichtet über ein Genfer Pionierprojekt: Das Universitätsspital plant eine kokaingestützte Behandlung für Schwerstsüchtige nach dem Vorbild der Heroinabgabe — und ein Veteran ebendieser Heroinabgabe, André Seidenberg, hat den Genfer Suchtmediziner deswegen angezeigt. Der Konflikt ist journalistisch ein Geschenk. Der Beitrag verschenkt es nicht nur — er stellt ihn falsch dar. Denn Seidenberg ist kein Gegner der Kokainabgabe: Er berät selbst den Bund in dieser Frage und hat vor Jahren ein eigenes Modell der ärztlichen Kokainverschreibung publiziert. SRF inszeniert als Streit über das Ob, was in Wahrheit ein Streit über das Wie ist — und lässt nebenbei Pharmakologie, Rechtslage und Sprachpflege gleich mit fallen.*

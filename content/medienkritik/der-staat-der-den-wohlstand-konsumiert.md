@@ -58,6 +58,7 @@ quelle_format: Broadcast
 quelle_sendung: 10vor10
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M003
 ---
 
 *SRF fragt, wie gross der Staat sein soll, und rahmt das Wachstum der Verwaltung als neutrale Debatte zwischen einem liberalen Ökonomen und einem Gewerkschafter. 49 Prozent mehr Stellen seit 2000. Was nicht vorkommt: das Schweizer Prinzip der Subsidiarität. Was nicht vorkommt: die Frage, wer den Wohlstand erzeugt und wer ihn konsumiert. Was nicht vorkommt: die demokratische Schieflage, wenn ein Viertel der Erwerbstätigen vom Staat lebt. Der Beitrag ist eine ausgewogene Stellennachricht, die den systemischen Angriff auf das Schweizer Modell verschweigt.*

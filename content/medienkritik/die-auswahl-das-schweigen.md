@@ -72,6 +72,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 Am 11. März 2026 präsentiert der Gemeindepräsident von Wattwil, Alois Gunzenreiner (Mitte), an der Vorgemeinde im Thurparksaal eine Zahl: Eine Familie mit vorläufiger Aufnahme: zwei Eltern, vier unmündige Kinder, 2023 über die Balkanroute eingereist. Die Familie kostet die Gemeinde rund 400'000 Franken pro Jahr. Sozialhilfe, Wohnkosten, Integrationsmassnahmen. Er nennt keine Namen. Er präsentiert eine kommunale Ausgabe an einer öffentlichen Veranstaltung über kommunale Ausgaben.

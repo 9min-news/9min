@@ -80,6 +80,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News International
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Dieser SRF-Beitrag schildert das Vorhaben des neuen ungarischen Premiers Peter Magyar, eine Vermögenssteuer einzuführen, mit der die unter Viktor Orbán reich gewordene Elite zur Kasse gebeten werden soll. Das Thema ist legitim. Doch der Beitrag trägt eine durchgehende Sympathie — für den Machtwechsel, für Magyar, für die Steuer als «Symbol der Gerechtigkeit» —, und diese Sympathie ersetzt die kritische Prüfung, die ein Service public auch dem populären Akteur schuldet. Tiefer noch: Der Beitrag verwechselt das Symptom mit der Ursache und lässt damit die eigentlich interessante Frage ungestellt — warum es diese Ungleichheit überhaupt gibt. Und am Ende steht eine grössere Frage, die über diesen einen Beitrag hinausreicht: Warum erzählt SRF diese Geschichte mit solcher Wärme — und schweigt zugleich zu anderen?*

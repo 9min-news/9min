@@ -70,6 +70,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M001
 ---
 
 *Diese SRF-Meldung berichtet über etwas historisch Bemerkenswertes — und tut alles, um es nicht so klingen zu lassen. Die EU macht den Weg frei für Abschiebezentren ausserhalb ihres Territoriums, sogenannte «Return Hubs» in Drittstaaten. Der Korrespondent sagt es im Infokasten selbst: «Was noch vor wenigen Jahren politisch kaum denkbar war, soll möglich werden.» Das ist ein tektonischer Verschub in der europäischen Asylpolitik — die faktische Übernahme genau jener Modelle, für die man Italien und Grossbritannien noch vor Kurzem an den Pranger stellte. Und doch ist der Bericht handwerklich solide, fair gegliedert, mit Kontext versehen. Schauen wir, was er gut macht — und wo die Sprache und Auswahl trotzdem eine Schlagseite verraten.*

@@ -67,6 +67,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *SRF meldet den Aufsichtsbericht zum F-35: kein Fixpreis, «ungenügende» Führung, eine Ministerin, die Verträge nicht las, eine Anwaltskanzlei ohne US-Rechtskenntnisse, ein Mehraugenprinzip, das missachtet wurde — im grössten Rüstungsgeschäft der Schweizer Geschichte. Und dann der zentrale Befund: Die Kommission stellt den Verdacht in den Raum, die Öffentlichkeit sei hinters Licht geführt worden — aber «auf Nachfrage sagt sie, sie habe keine Hinweise auf eine bewusste Täuschung». Ein Bericht, der jahrelange Verweigerung, verpasste Nachverhandlungen, acht Monate Verschleppung und ungelesene Verträge dokumentiert — und bei der Frage nach dem Vorsatz aussteigt. Der Korrespondent nennt das «überraschend». Es ist das Muster.*

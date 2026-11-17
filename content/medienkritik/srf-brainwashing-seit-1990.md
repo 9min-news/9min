@@ -70,6 +70,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Der Titel verspricht «Schwedens Absage an die Extreme» — und der Text liefert selbst das Material, das die Absage widerlegt. Die Sozialdemokraten, heisst es, fuhren «das schlechteste Wahlergebnis der letzten hundert Jahre» ein. Die Schwedendemokraten verloren drei Prozent — und bleiben mit 17,6 Prozent drittgrösste Kraft. Der Sieg des rotgrünen Lagers hinge «wiederum» an «einigen wenigen Tausend Stimmen». Wo genau die Schweden den Extremen abgesagt haben sollen, bleibt das Geheimnis des Titels. Was die Daten zeigen — und der Beitrag mit keinem Wort erwähnt: fast eine Million im Ausland geborene Wahlberechtigte, 483'000 Erstwähler, ein Höchststand seit 16 Jahren, und in den Migrantenvierteln ein Massenzulauf zur Linkspartei von plus 12,7 Punkten. Das ist keine Absage an die Extreme. Das ist eine demografische Gegenmobilisierung — mit der extremen Linken als Gewinnerin.*

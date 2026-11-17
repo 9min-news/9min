@@ -100,6 +100,7 @@ zusammenfassung: >-
   Einnahmen vom Weiterrauchen leben, während Gesundheit das Aufhören will – wird
   als Verbuchungsproblem umgedeutet statt als Konstruktionsfehler benannt.
 kritik_schwere: 2
+muster_id: M007
 ---
 
 *SRF 4 News kritisiert die deutsche Tabaksteuererhöhung scharf, aber an einer bestimmten Stelle: bei der Verwendung des Geldes, nicht bei seiner Erhebung. Der Titel «Wenn der deutsche Staat genüsslich abkassiert» wirft der Regierung keinen Zugriff vor, sondern einen falschen Verwendungszweck. Ehrlich wäre die Steuer, so der Beitrag, wenn die Mehreinnahmen «zweckgebunden für die Gesundheitsversorgung» flössen. Den Rahmen setzt ein Satz: «Die sprudelnden Steuereinnahmen sind das eine, der Gesundheitsschutz ist das andere.» Dass das eine vom Scheitern des anderen lebt, zieht der Beitrag nicht in Betracht. Er stützt seine Forderung auf eine Kostenzahl ohne Gegenrechnung, verschweigt die Gesundheitsbegründung der Regierung und empfiehlt eine Zweckbindung, deren Haltbarkeit seine eigene Vorgeschichte in Frage stellt.*

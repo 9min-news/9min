@@ -71,6 +71,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Zur SRF-Berichterstattung *[«Trump kassiert vor Gericht die nächste Zoll-Niederlage»](https://www.srf.ch/news/international/zollpolitik-des-us-praesidenten-trump-kassiert-vor-gericht-die-naechste-zoll-niederlage)*, 8. Mai 2026*

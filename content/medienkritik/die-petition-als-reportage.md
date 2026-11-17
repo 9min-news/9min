@@ -75,6 +75,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *Zur SRF-Berichterstattung *[«Kriminalisierung Geflüchteter — Kritik an Griechenland: Geflüchtete als Schlepper verhaftet»](https://www.srf.ch/news/international/kriminalisierung-gefluechteter-kritik-an-griechenland-gefluechtete-als-schlepper-verhaftet)*, Echo der Zeit, 30. April 2026*

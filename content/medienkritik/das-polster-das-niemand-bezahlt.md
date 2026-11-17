@@ -67,6 +67,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Die Kantonalbanken halten viel mehr hartes Eigenkapital, als sie müssten. SRF berichtet darüber im Ton der Beruhigung: «robuste Kapitalpolster», «dickes Polster», «für die Kantone ein Vorteil». Im selben Atemzug wird die UBS erwähnt — die, die mehr Kapital aufbauen soll und sich wehrt. Die Botschaft, fein gewoben: Die Kantonalbanken sind die soliden Guten, die UBS ist der renitente Riese. Aber unter dieser beruhigenden Erzählung liegt eine Frage, die SRF nicht stellt: Wer trägt das Risiko, wenn das Polster doch reisst? Und warum darf eine Bank «völlig überkapitalisiert» sein, während eine andere für dasselbe gescholten wird? Die Antwort führt zum gefährlichsten Wort des ganzen Artikels — einem Wort, das fast versteckt im Fliesstext steht: Staatsgarantie. Und genau dieses Wort wird in der öffentlichen Debatte systematisch mit etwas ganz anderem verwechselt.*

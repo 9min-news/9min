@@ -69,6 +69,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Zur SRF-Berichterstattung «*[Wie drei Gymnasiastinnen über Gewalt an Frauen denken»](https://www.srf.ch/news/gesellschaft/mehr-haeusliche-gewalt-wie-drei-gymnasiastinnen-ueber-gewalt-an-frauen-denken)* von Matthias Baumer, Echo der Zeit, 3. Mai 2026*

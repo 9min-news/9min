@@ -15,6 +15,7 @@ export interface Muster {
   content: string
   slug: string
   beispielCount: number
+  recent: string[]   // titles of the two newest examples
 }
 
 function parseMuster(filePath: string, slug: string): Muster {
@@ -31,6 +32,7 @@ function parseMuster(filePath: string, slug: string): Muster {
     content,
     slug,
     beispielCount: 0,
+    recent: [],
   }
 }
 
@@ -47,7 +49,11 @@ export function getAllMuster(): Muster[] {
     .map(f => {
       const slug = f.replace(/\.md$/, '')
       const m = parseMuster(path.join(MUSTER_DIR, f), slug)
-      m.beispielCount = metadata.filter(e => e.muster_id === m.id).length
+      const examples = metadata
+        .filter(e => e.muster_id === m.id)
+        .sort((a, b) => b.date.localeCompare(a.date))
+      m.beispielCount = examples.length
+      m.recent = examples.slice(0, 2).map(e => e.title)
       return m
     })
     .sort((a, b) => b.schwere_tendenz - a.schwere_tendenz || b.beispielCount - a.beispielCount)

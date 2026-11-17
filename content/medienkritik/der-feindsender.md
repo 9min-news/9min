@@ -81,6 +81,7 @@ quelle_format: ''
 quelle_sendung: ''
 quelle_redaktion: ''
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Am 8. März 2026 stimmte die Schweiz darüber ab, ob sie die Finanzierung jener Institution halbieren will, deren Empfang das Dritte Reich einst mit dem Tod bestrafte. Sie sagte Nein. Beide Seiten der Debatte lagen falsch. Das eigentliche Problem ist jenes, das keine Seite benennen wollte — und das nach der Abstimmung unverändert weiterbesteht.*

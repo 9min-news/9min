@@ -63,6 +63,7 @@ quelle_format: Online-Artikel
 quelle_sendung: Tagesgespräch / Schweiz aktuell
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *SRF publiziert am selben Tag zwei Klima-Beiträge, die sich ergänzen: ein Interview mit ETH-Klimatologen Erich Fischer, der vor Kipppunkten warnt, und eine Meldung über den verschwundenen Bella-Tola-Gletscher. Der Prophet liefert die Theorie, das Begräbnis liefert die Emotion. Beide zusammen ergeben eine Klimakrise, die nicht hinterfragt wird. Die Beiträge blenden aus, dass die Dürre von 1540 ohne CO2 stattfand, dass der Gletscher seit fünf Jahren kein aktiver Gletscher mehr war und dass die Modelle, die Fischer zitiert, zwischen einem und zehn Grad schwanken. Die Kosten der Szenarien fehlen. Die beiden Beiträge sind eine zweigleisige Propaganda, die Wissenschaft als abgeschlossen und die Debatte als überflüssig erklärt.*

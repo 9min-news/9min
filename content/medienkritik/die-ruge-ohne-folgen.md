@@ -67,6 +67,7 @@ quelle_format: Broadcast
 quelle_sendung: Bleisch & Bossart
 quelle_redaktion: SRF
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Die UBI rügt SRF gleich mehrfach: einseitige Berichterstattung über die Covid-mRNA-Spritze, einseitige Positionierung vor der Erbschaftssteuer-Abstimmung. Das bestätigt, was Kritiker seit Jahren sagen. Doch die Rügen bleiben folgenlos. SRF «entschuldigt» sich, die UBI verzichtet auf weitere Massnahmen. Gleichzeitig zeigt der Entscheid zu Gaza ein strukturelles Problem: Die Medien dürfen die offizielle Terminologie des Bundesrats übernehmen. Wenn der Bundesrat nicht von Genozid spricht, muss es RTS auch nicht. Der Wächter erlaubt dem Sender, der Regierung zu folgen.*

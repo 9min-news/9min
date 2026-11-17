@@ -59,6 +59,7 @@ quelle_format: Online-Artikel
 quelle_sendung: HeuteMorgen
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *SRF meldet, dass das Bundesverwaltungsgericht junge Afghanen in ihr Heimatland weggewiesen kann, und rahmt den Entscheid als juristischen Meilenstein. «Referenzurteil», «abschliessend», 200 hängige Fälle. Der Beitrag verschweigt, dass das Gericht selbst sagt, die Lage sei «grundsätzlich unzumutbar». Er verschweigt, dass es keine Direktflüge nach Afghanistan gibt. Er verschweigt, dass die Taliban-Herrschaft als «verbesserte Sicherheitslage» eingestuft wird. Und er verschweigt die 15'574 Afghanen, die im Asylprozess registriert sind, ohne zu fragen, was sie kosten. Er ist eine Gerichtsmeldung, die ein theoretisches Urteil als praktischen Durchbruch verkauft.*

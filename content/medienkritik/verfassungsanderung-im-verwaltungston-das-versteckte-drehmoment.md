@@ -77,6 +77,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M001
 ---
 
 *Zur SRF-Berichterstattung *[«Kommission will Ständemehr bei neuen Verträgen mit der EU»](https://www.srf.ch/news/schweiz/bilaterale-beziehungen-kommission-will-staendemehr-bei-neuen-vertraegen-mit-der-eu)*, 6. Mai 2026 — und zum tatsächlichen Wortlaut der parlamentarischen Initiative*

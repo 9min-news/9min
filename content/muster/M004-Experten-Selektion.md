@@ -1,7 +1,7 @@
 ---
 id: "M004"
-title: "Selektive Expertenstimmen"
-subtitle: "Wer zitiert wird, entscheidet die Deutung"
+title: "Die Auswahl als Einbahnstrasse"
+subtitle: "Experten nur einer Richtung, Etiketten nur einer Seite"
 kategorie: "Selektion"
 schwere_tendenz: 2
 date: "2024-03-20"
@@ -20,4 +20,4 @@ Ein Bericht zieht nur Experten oder Quellen bei, die eine bestimmte Sichtweise s
 
 ## Wirkung
 
-Expertenselektion erzeugt einen Konsens-Effekt: Wer nur Stimmen hört, die in dieselbe Richtung weisen, nimmt diese als allgemeine Fachmeinung wahr. Die heterogene Realität wissenschaftlicher und fachlicher Debatten bleibt unsichtbar. In der Schweizer Medienlandschaft verschärft sich dieses Problem durch die geringe Grösse des Landes: Die Expertenszene ist klein, die persönlichen Netzwerke zwischen Redaktionen und Expertinnen sind dicht.
+Expertenselektion erzeugt einen Konsens-Effekt: Wer nur Stimmen hört, die in dieselbe Richtung weisen, nimmt diese als allgemeine Fachmeinung wahr. Die heterogene Realität wissenschaftlicher und fachlicher Debatten bleibt unsichtbar. In der Schweizer Medienlandschaft verschärft sich dieses Problem durch die geringe Grösse des Landes: Die Expertenszene ist klein, die persönlichen Netzwerke zwischen Redaktionen und Experten sind dicht.

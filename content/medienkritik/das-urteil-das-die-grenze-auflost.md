@@ -57,6 +57,7 @@ quelle_format: Broadcast
 quelle_sendung: Rendez-vous
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *SRF berichtet über Hunderte Migranten, die nach Ceuta schwimmen, und rahmt das Ereignis als logistische Überforderung einer spanischen Exklave. Die Aufnahmezentren seien überlastet, die Menschen flüchteten um den Grenzzaun herum. Was nicht vorkommt: die Frage, warum Schwimmen legaler sein soll als Klettern. Was nicht vorkommt: die Herkunftsländer, die sicher sind. Was nicht vorkommt: die Verantwortung der Gerichte für den Pull-Faktor. Der Beitrag ist eine Grenzberichterstatterung ohne Grenzanalyse.*

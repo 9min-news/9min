@@ -58,6 +58,7 @@ quelle_format: Online-Artikel
 quelle_sendung: Rendez-vous
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *SRF berichtet über eine Afrobarometer-Umfrage zum Migrationswunsch in Afrika und rahmt sie als beruhigende Nachricht. 45 Prozent denken ans Auswandern, aber nur ein Drittel will nach Europa. Die Ankunftszahlen in Europa sinken. Der Beitrag verschweigt, dass 45 Prozent von 1,4 Milliarden Afrikanern 630 Millionen Menschen sind. Er verschweigt, dass die sinkenden Ankunftszahlen auf EU-Zahlungen an nordafrikanische Staaten zurückgehen, nicht auf sinkenden Migrationsdruck. Und er verschweigt die Schweiz, die von der Migration direkt betroffen ist. Er ist eine Umfragenmeldung, die eine demografische Realität als statistische Entwarnung verkauft.*

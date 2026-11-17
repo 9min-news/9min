@@ -67,6 +67,7 @@ quelle_format: Broadcast
 quelle_sendung: Gredig direkt
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *Der Elefant wird beim Namen genannt — «Der Elefant im Raum ist der Ukraine-Krieg» — und danach geht jeder um ihn herum: der Interviewte, der Interviewer, die Sendung. Der Sonderkorrespondent darf den Krieg nicht kommentieren («Ich dokumentiere»), will seine Meinung zu Russlands Endziel nicht preisgeben («halte mich diesbezüglich zurück») und liefert Stimmungen: «gespürt», «Gefühl», «höre ich». Der Titel macht daraus Fakt: «Viele Russen haben Angst». Und das Ganze ist ein Inserat: SRF News interviewt den SRG-eigenen «Journalisten des Jahres» über die SRG-eigene Doku-Serie, alle drei Folgen eingebettet, geführt vom eigenen Talkmaster — ohne eine einzige Gegenfrage. Was bleibt, wenn der Krieg tabu ist und die Meinung einbehalten wird: Angst, gefühlt — und eine Kriegswirtschaft, die als normaler Arbeitsmarkt durchgeht.*

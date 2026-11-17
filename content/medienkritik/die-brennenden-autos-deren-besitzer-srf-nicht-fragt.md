@@ -99,6 +99,7 @@ zusammenfassung: >-
   verschweigt der Beitrag, dass die Juso den Jugendstreik mitorganisiert, und
   lässt offen, welche Krawalle wo stattfanden.
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *In der Aufzählung der Juso-Präsidentin steht das brennende Auto neben dem brennenden Regenwald, die zerstörte Scheibe neben den zerstörten Städten in Gaza und der Ukraine. Der Halter des Autos steht nirgends, und SRF fügt ihn nicht hinzu. Der Beitrag fragt im Titel, wie man einen Protest plant, «der friedlich bleiben soll». Die Planer verweigern die Antwort, und das einzige Argument gegen Krawalle, das der Beitrag ausführt, ist ein taktisches: Gewalt schade der Bewegung. Welche Krawalle gemeint sind und wo sie stattfanden, erfährt das Publikum nicht. Ebenso wenig erfährt es, dass die Partei der zitierten Präsidentin den Streik vom 20. November selbst mitorganisiert. Für den Bürger geht es um Eigentum und Haftung. Wird Sachbeschädigung zur Imagefrage einer Bewegung, tragen der Geschädigte und der Steuerzahler, der den Polizeieinsatz bezahlt, die Kosten einer Debatte, in der sie nicht vorkommen.*

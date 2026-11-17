@@ -71,6 +71,7 @@ quelle_format: Broadcast
 quelle_sendung: Tagesschau
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *SRF fragt, ob der Hitzesommer 2026 die Wahlen 2027 beeinflusst — und rahmt die Hitze als politisches Asset der Grünen. Ein Politgeograf erklärt, wie das Klima den Parteien nützt oder schadet. Was nicht vorkommt: die Frage, ob Wähler tatsächlich nach Hitze anders wählen. Was nicht vorkommt: die Frage, ob der Sommer 2026 aussergewöhnlich ist. Was nicht vorkommt: die Kosten der geforderten Massnahmen. Was nicht vorkommt: die Wahlergebnisse von 2023, die die grüne Welle schon wieder wegspülten. Der Beitrag ist eine Wahlanalyse ohne Wahldaten.*

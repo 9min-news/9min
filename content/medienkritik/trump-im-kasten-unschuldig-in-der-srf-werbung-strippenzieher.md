@@ -103,6 +103,7 @@ zusammenfassung: >-
   SRF nicht nach, wer die Zeugin freigab, was sie sagen durfte, und holt keine
   Stellungnahme der Gegenseite ein.
 kritik_schwere: 3
+muster_id: M009
 ---
 
 *Auf derselben SRF-Seite stehen zwei Kästen, wenige Bildschirmlängen voneinander entfernt. Der erste hält über den Bericht, der Donald Trump belastet, fest, er sei «kein Gerichtsurteil», und: «Trump bestreitet die Vorwürfe.» Der zweite wirbt für den hauseigenen Podcast und beschreibt ohne jeden Vorbehalt ein Milieu, «in dem superreiche Männer wie Jeffrey Epstein und Donald Trump die Fäden ziehen». Dazwischen steht ein Interview, in dem die Hauptzeugin offenlegt, dass Dritte über Inhalt und Zeitpunkt ihrer Aussagen mitbestimmten, und SRF fragt nicht, wer. Für den Gebührenzahler, der Berichterstattung und Eigenwerbung zugleich finanziert, und für jeden Bürger, dem die Unschuldsvermutung auch dann zusteht, wenn er mächtig und unbeliebt ist, ist das keine Formfrage.*

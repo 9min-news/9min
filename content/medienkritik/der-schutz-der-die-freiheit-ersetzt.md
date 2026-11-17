@@ -64,6 +64,7 @@ quelle_format: Online-Artikel
 quelle_sendung: Tagesschau
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M001
 ---
 
 *Der Beitrag meldet einen EU-Gesetzesentwurf: kein Social Media unter 13, elterliche Kontrolle bis 15, Bussgelder bis sechs Prozent des Weltumsatzes, Verbot von Endlos-Scrollen und KI-Begleitern. Und er rahmt alles als Schutz — «Kinder besser schützen», «klare Grenzen», «absolut sicher». Was der Beitrag nie in Frage stellt: den Mechanismus, mit dem diese Grenzen durchgesetzt werden sollen. Ein Verbot für unter 13-Jährige erfordert eine Altersverifikation — und die funktioniert nur, wenn jeder Nutzer sein Alter beweist. Das heisst: Um Kinder zu schützen, muss die EU alle Bürger veranlassen, ihre Identität offen zu legen — bei jeder Plattform, bei jedem Dienst, bei jedem Login. Der Beitrag über Jugendschutz verschweigt die Überwachungsarchitektur, die der Jugendschutz benötigt. Er meldet Zensur und nennt sie Fürsorge.*

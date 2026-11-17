@@ -102,6 +102,7 @@ zusammenfassung: >-
   als Grundsatzentscheid über föderale Mitbestimmung. Der Leser erfährt, wie
   hoch gesprungen werden soll, aber nicht wohin der Sprung führt.
 kritik_schwere: 3
+muster_id: M005
 ---
 
 *Der Bundesrat hat das EU-Vertragspaket ausgehandelt, und er hat auch die Hürde vorgeschlagen, die es nehmen soll: das Volksmehr allein, ohne die Kantone. SRF meldet das in einem Nebensatz unter dem Zwischentitel «Kommission verwirft drei andere Varianten» und macht so aus der Frage, wer über den Vertrag entscheidet, eine Auswahl aus einem Verfahrensmenü. Der Leser erfährt nicht, was ein Referendum «sui generis» bedeutet, dass eine Volksinitiative mit 111'422 Unterschriften genau dieses Ständemehr verlangt und warum ausgerechnet der Verhandler die tiefere Hürde wünscht. Für den Stimmbürger in Uri oder Glarus entscheidet diese Wahl, ob beim nach unserer Einschätzung folgenreichsten Europavertrag seit dem EWR auch die Mehrheit der Kantone zählt, in der seine Stimme schwerer wiegt als die eines Zürchers, oder ob ein knappes Volksmehr genügt.*

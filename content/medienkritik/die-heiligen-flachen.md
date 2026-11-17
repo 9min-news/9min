@@ -64,6 +64,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Wie SRF den Biodiversitätsschwund als Staatsversagen rahmt, mehr Schutzgebiete fordert, ohne zu fragen, ob die bisherigen überhaupt wirken, die abgelehnte Volksinitiative verschweigt und die Agrarsubventionen als Problem benennt – ohne die Frage zu stellen, warum der Staat für die Zerstörung bezahlt, die er gleichzeitig beklagt*

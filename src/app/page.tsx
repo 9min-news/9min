@@ -7,6 +7,8 @@ import { Footer } from '@/components/Footer'
 import { LogoMark } from '@/components/LogoMark'
 import { ComingSoonVideo } from '@/components/ComingSoonVideo'
 import { formatDate, getExcerpt } from '@/lib/utils'
+import { loadMetadata } from '@/lib/metadata'
+import { getAllMuster } from '@/lib/muster'
 
 const TYPE_LABELS: Record<string, string> = {
   chronik: 'Chronik',
@@ -18,6 +20,21 @@ const TYPE_LABELS: Record<string, string> = {
 export const metadata: Metadata = {
   title: '9min',
   description: 'Schweizer Medienkritik. Registrierender Natur. Mit vorsichtiger Würde.',
+}
+
+/** The `limit` patterns named most often in critiques of the last `days` days (from metadata.json). */
+function recentMuster(days: number, limit: number) {
+  const since = new Date(Date.now() - days * 86_400_000).toISOString().slice(0, 10)
+  const counts = new Map<string, number>()
+  for (const e of loadMetadata()) {
+    if (e.muster_id && String(e.date) >= since) counts.set(e.muster_id, (counts.get(e.muster_id) ?? 0) + 1)
+  }
+  const all = getAllMuster()
+  return [...counts.entries()]
+    .sort((a, b) => b[1] - a[1])
+    .map(([id, count]) => ({ muster: all.find(m => m.id === id), count }))
+    .filter((x): x is { muster: NonNullable<typeof x.muster>; count: number } => !!x.muster)
+    .slice(0, limit)
 }
 
 // ---------------------------------------------------------------------------
@@ -175,10 +192,12 @@ function ComingSoonPage() {
 
 function MainPage() {
   const recent = getAllArticles().slice(0, 6)
+  // seriesIndex counts within a series (see lib/essays.ts); across series the reading order is the date
   const grundlagen = getArticlesByType('grundlage').sort(
-    (a, b) => (a.frontmatter.seriesIndex ?? 99) - (b.frontmatter.seriesIndex ?? 99)
+    (a, b) => String(a.frontmatter.date).localeCompare(String(b.frontmatter.date))
   )
   const [featured, ...feed] = recent
+  const topMuster = recentMuster(30, 3)
 
   return (
     <>
@@ -275,6 +294,56 @@ function MainPage() {
 
             <div aria-hidden="true" style={{ width: '40%', height: '1px', background: '#D4A847', margin: '0 auto 48px' }} />
           </>
+        )}
+
+        {/* Häufigste Muster der letzten 30 Tage */}
+        {topMuster.length > 0 && (
+          <section style={{ marginBottom: '56px' }}>
+            <p style={{
+              fontFamily: "'GT Sectra', Georgia, serif",
+              fontSize: '11px',
+              letterSpacing: '0.2em',
+              textTransform: 'uppercase',
+              color: '#D4A847',
+              margin: '0 0 20px',
+            }}>
+              Häufigste Muster, letzte 30 Tage
+            </p>
+            <ul style={{ listStyle: 'none', padding: 0, margin: 0 }}>
+              {topMuster.map(({ muster, count }, i) => (
+                <li key={muster.id} style={{
+                  borderTop: i === 0 ? '1px solid #E8E4DC' : undefined,
+                  borderBottom: '1px solid #E8E4DC',
+                }}>
+                  <Link href={`/muster/${muster.slug}`} style={{
+                    display: 'flex',
+                    justifyContent: 'space-between',
+                    alignItems: 'baseline',
+                    gap: '16px',
+                    padding: '14px 0',
+                    textDecoration: 'none',
+                  }}>
+                    <span>
+                      <span style={{ display: 'block', fontFamily: "'GT Sectra Display', Georgia, serif", fontSize: '16px', color: '#1A2E1A', lineHeight: 1.3 }}>
+                        {muster.title}
+                      </span>
+                      <span style={{ display: 'block', fontFamily: "'GT Sectra', Georgia, serif", fontStyle: 'italic', fontSize: '13px', color: '#5A6B5A', lineHeight: 1.4, marginTop: '3px' }}>
+                        {muster.subtitle}
+                      </span>
+                    </span>
+                    <span style={{ fontFamily: "'GT Sectra', Georgia, serif", fontSize: '12px', color: '#8A9C8A', whiteSpace: 'nowrap', flexShrink: 0 }}>
+                      {count}×
+                    </span>
+                  </Link>
+                </li>
+              ))}
+            </ul>
+            <p style={{ margin: '14px 0 0' }}>
+              <Link href="/muster" style={{ fontFamily: "'GT Sectra', Georgia, serif", fontSize: '13px', color: '#1A2E1A', textUnderlineOffset: '3px' }}>
+                Alle Muster →
+              </Link>
+            </p>
+          </section>
         )}
 
         {/* Zum Einstieg — Grundlagen */}

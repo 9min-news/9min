@@ -67,6 +67,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: keins
 ---
 
 *Wie SRF das Scheitern von Netzcourage der Technologie anlastet — und die interne Krise, die gestrichenen Bundesgelder und die umstrittene Gründerin in einer wegklappbaren Box versteckt, um den Ruf nach einer neuen staatlichen Stelle lauter ertönen zu lassen*

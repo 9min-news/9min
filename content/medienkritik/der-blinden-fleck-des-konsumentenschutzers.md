@@ -70,6 +70,7 @@ quelle_format: Broadcast
 quelle_sendung: Kassensturz
 quelle_redaktion: SRF
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Wie Kassensturz über XXXLutz richtet — und dabei vergisst, dass der öffentlich-rechtliche Sender selbst vor Gericht steht, weil er Hunderte von Rügen seiner eigenen Aufsichtsorgane ignoriert*

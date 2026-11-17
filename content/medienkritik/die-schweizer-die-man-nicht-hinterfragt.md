@@ -63,6 +63,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *SRF meldet die Anklage gegen zwei 18-Jährige wegen Terrorismusunterstützung — und nennt die Nationalitäten beiläufig: «der Schweizer und der Italiener». Der dritte Beschuldigte aus dem Thurgau ist ebenfalls ein «Schweizer». Und hier beginnt die Frage, die der Beitrag nicht stellt: Wie schweizerisch sind diese Schweizer? Nesip D., der Messerattentäter von Winterthur, war auch «Schweizer» — geboren 1994 in der Schweiz als Sohn türkischer Eltern, eingebürgert 2009, radikalisiert in der Winterthurer Islamistenszene, zwei Jahre in der Türkei, zurück, Psychiatrie, Messerattacke. Der Pass machte ihn nicht schweizerischer — er machte ihn statistisch unsichtbar. Dasselbe Muster wiederholt sich in Schaffhausen: Ein «Schweizer» und ein «Italiener» planen Sprengstoffanschläge für den IS. Was der Beitrag verschweigt: die Herkunft, die Radikalisierung, die Frage, ob diese Jugendlichen in der Schweiz sozialisiert wurden oder in Parallelstrukturen — die Frage, ohne die das Wort «Schweizer» eine leere Hülse ist.*

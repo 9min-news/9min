@@ -101,6 +101,7 @@ zusammenfassung: >-
   Offenlegung des Interessenkonflikts tritt an die Stelle der Distanz, statt sie
   herzustellen.
 kritik_schwere: 3
+muster_id: M005
 ---
 
 *Der Titel nennt zuerst die «Verwaltung». Der Text weist ihr rund 29 von 202 Stellen zu, und die Bildlegende verlegt alle 202 in den «Produktionsbereich»: drei Ortsangaben für denselben Abbau, keine davon aufgelöst. Strukturiert wird der Beitrag von den 80 Millionen Franken, die er mit dem Wort «insgesamt» als Gesamtgrösse einführt, obwohl sie nur die erste Stufe beziffern. Die Ursache steht im Indikativ und hat ein einziges Subjekt, den Bundesrat. Verschwiegen werden das Sparziel bis 2029, die Volksabstimmung vom März und die Zahlen der lateinischen Schweiz.*

@@ -64,6 +64,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M002
 ---
 
 *SRF analysiert den gescheiterten Handelsvertrag zwischen den USA und Kanada und rahmt ihn als Machtprobe zweier Nachbarn. Trump fordere zu viel, Carney wehre sich, beide schädigen sich mit Zöllen. Der Beitrag verschweigt das konkrete Objekt, um das es ging: die Keystone-Ölpipeline, deren Wiederaufbau Trump als Teil des Deals forderte. Er verschweigt die Zollsenkungen, die die USA angeboten hatten. Und er verschweigt die Frage, ob ein Land, das 70 Prozent seiner Exporte in ein einziges Land schickt, überhaupt verhandeln kann. Er ist eine Konfliktanalyse ohne den Stoff des Konflikts.*

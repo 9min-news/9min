@@ -65,6 +65,7 @@ quelle_format: Online-Artikel
 quelle_sendung: Tagesschau
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M003
 ---
 
 *SRF berichtet über eine Umfrage zum Gründungszeitpunkt der Schweiz und rahmt sie als kulturelle Spaltung zwischen Mythos und Fakt. Was nicht vorkommt: die Frage, warum der Staat 1291 feiert, wenn die Mehrheit 1848 für das Gründungsjahr hält. Was nicht vorkommt: der historische Grund, warum 1291 überhaupt zum Nationalfeiertag erklärt wurde. Der Beitrag ist eine Umfrage-Auswertung, die politische Geschichte zur Trivia-Frage degradiert.*

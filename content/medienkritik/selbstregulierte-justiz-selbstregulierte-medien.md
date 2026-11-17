@@ -86,6 +86,7 @@ quelle_format: Broadcast
 quelle_sendung: Rendez-vous / Tagesschau
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *Zur SRF-Berichterstattung *[«Bundesrichter können trotz Fehler nicht entlassen werden»](https://www.srf.ch/news/schweiz/heikle-liebe-am-bundesgericht-bundesrichter-koennen-trotz-fehler-nicht-entlassen-werden)*, 1. Mai 2026 — und zur Aufdeckung der «Weltwoche»*

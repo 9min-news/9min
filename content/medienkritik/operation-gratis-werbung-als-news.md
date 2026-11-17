@@ -60,6 +60,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M004
 ---
 
 *Dieser SRF-Beitrag berichtet über eine PR-Aktion der Organisation Operation Libero: Zum «Vatertag» wurden über Nacht zahlreiche Männer-Denkmäler — darunter die Einstein-Statue in Bern — mit pinkfarbenen Babytragetüchern und Puppen versehen, um ein «Zeichen für mehr Verantwortung von Vätern» zu setzen. Es ist eine kurze Meldung über einen Werbe-Coup, und als solche scheint sie harmlos. Aber gerade die scheinbare Harmlosigkeit lohnt einen zweiten Blick, denn der Beitrag tut etwas, das man leicht übersieht: Er übernimmt eine politische Kampagne fast vollständig in deren eigener Sprache — samt einer Selbstetikettierung, die er nicht prüft, und unter Auslassung eines Kontexts, der zur Einordnung des Absenders gehört.*

@@ -68,6 +68,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News International
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Zur SRF-Berichterstattung *[«Russland feiert reduziert – aus Angst vor ukrainischem Angriff»](https://www.srf.ch/news/international/gedenken-an-zweiten-weltkrieg-russland-feiert-reduziert-aus-angst-vor-ukrainischem-angriff)*, 7. Mai 2026*

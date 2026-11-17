@@ -3,8 +3,9 @@ title: Der Freitagsprofessor
 date: '2026-04-17'
 status: published
 type: grundlage
+series: 'Grundlagen'
 seriesIndex: 2
-coverImage: 'https://pbs.twimg.com/media/HGGxZayaAAAP6Zz.jpg'
+coverImage: '/images/essays/der-freitagsprofessor.jpg'
 tweetId: '2045111516316287149'
 categories:
   - Medienrecht

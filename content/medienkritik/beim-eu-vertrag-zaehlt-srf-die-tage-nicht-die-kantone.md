@@ -104,6 +104,7 @@ zusammenfassung: >-
   Thema, das für den Stimmbürger entscheidend ist: ob seine Stimme nur im
   Volksmehr oder zusätzlich im Ständemehr zählt.
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *Am 6. Dezember 1992 lehnte das Volk den EWR mit 50,3 Prozent Nein knapp ab, und die Stände verfehlten das Mehr klar: Selbst ein knappes Ja des Volkes hätte der Vorlage nicht gereicht. Vierunddreissig Jahre später erklärt «Echo der Zeit» genau, warum über das EU-Vertragspaket frühestens 2028 abgestimmt wird, und sagt kein Wort darüber, nach welcher Regel. «Die Konsequenzen sind klar», heisst es im Beitrag. Klar ist aber nur der Kalender. Dass der Ständerat als Erstrat das Ständemehr beschlossen hat, der Bundesrat es nicht will und der Nationalrat im Dezember über das Paket berät, erfährt der Hörer nicht. Für den Stimmbürger in Uri oder Appenzell Innerrhoden ist das keine Terminfrage: Es geht darum, ob seine Stimme auch über seinen Stand zählt oder nur im Volkstotal aufgeht.*

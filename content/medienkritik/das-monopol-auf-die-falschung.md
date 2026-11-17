@@ -65,6 +65,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: 20min
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *SRF wehrt sich gegen Deepfake-Videos, die die Marke des Senders missbrauchen. Zu Recht. Aber die Empörung über KI-generierte Fälschungen verschleiert das eigentliche Problem: SRF selbst produziert systematisch einseitige Berichterstattung, die die Wirklichkeit verzerrt — nur mit höherem Budget und staatlicher Autorität. Gegen Deepfakes gibt es Strafanzeigen. Gegen SRF-Bias gibt es den Ombudsmann. Der eine ist Fälschung ohne Mandat. Der andere ist Fälschung mit Mandat.*

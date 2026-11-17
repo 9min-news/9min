@@ -63,6 +63,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M006
 ---
 
 *Ein Fussballsieg, und danach: 200 Verletzte, 780 Festnahmen, brennende Autos, Plünderungen in 15 Städten. Im Vorjahr dasselbe Bild, nur mit zwei Toten. SRF berichtet darüber pflichtschuldig, korrekt, mit allen Zahlen — und lässt dabei die eine Frage konsequent aus, die sich jedem Leser sofort aufdrängt: Wer tut das eigentlich? Und warum verwandelt sich in Frankreich ein sportliches Freudenfest mit solcher Regelmässigkeit in eine Strassenschlacht, dass der Innenminister es «vorausgesehen» hat und 22'000 Polizisten aufbietet? Der Bericht beschreibt das Symptom in jedem Detail. Die Ursache bleibt eine schwarze Box.*

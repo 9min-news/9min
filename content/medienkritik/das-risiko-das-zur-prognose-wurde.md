@@ -98,6 +98,7 @@ zusammenfassung: >-
   relativierenden Fakten stünden zwar im Fliesstext, erreichten aber Titel und
   Lead nicht.
 kritik_schwere: 2
+muster_id: M007
 ---
 
 *SRF steigert ein Wort in vier Stufen. Der Titel spricht vom «Kollaps», der Lead vom «verschwinden», die Infobox vom «Aussterben», der letzte Zwischentitel nennt die «Rote Liste der bedrohten Arten». Gemeint ist jedes Mal dieselbe Einstufung: eine Risikokategorie der Roten Liste der Ökosysteme. Die Zahl 96 Prozent trägt diese Steigerung. Sie steht im Lead im Konjunktiv («könnten») und im Schluss als Gewissheit («Denn nun ist klar, was passiert, wenn man nichts tut»). Verschwiegen wird, dass dieselbe Bewertung auf Basis der Beobachtung 24 Prozent ergibt und die 96 Prozent erst aus einem gewählten Erwärmungsszenario entstehen.*

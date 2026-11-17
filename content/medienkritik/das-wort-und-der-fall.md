@@ -68,6 +68,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M017
 ---
 
 *Zum SRF-Beitrag *[«Lebenslange Freiheitsstrafe für Baselbieter Frauenmörder»](https://www.srf.ch/news/schweiz/binningen-bl-lebenslange-freiheitsstrafe-fuer-baselbieter-frauenmoerder)*, 13. Mai 2026*

@@ -68,6 +68,7 @@ quelle_format: Online-Artikel
 quelle_sendung: Tagesschau
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *SRF meldet die Landtagswahl in Sachsen-Anhalt und nennt die AfD eine «rechtsextreme Partei» — im Titel, im Text, im X-Post: «Zum ersten Mal seit 1945 könnte mit der AfD eine rechtsextreme Partei in einem Bundesland an die Macht kommen.» Die Grundlage existiert: Der Verfassungsschutz Sachsen-Anhalt stufte den Landesverband im November 2023 als «gesichert rechtsextremistische Bestrebung» ein. Aber die Einstufung ist eine Verwaltungsbehörde, keine Gerichtsentscheid — die AfD klagt, das Verfahren ist ausgesetzt. Und die Gesamtpartei ist nicht als rechtsextrem eingestuft, nur einzelne Landesverbände. Was der Beitrag verschweigt: die andere Richtung. Die Linke ist die Nachfolgepartei der SED — der Partei, die die Mauer baute und Menschen an der Grenze erschoss. Die Linke stellte mit Bodo Ramelow den Ministerpräsidenten von Thüringen — ein Bundesland, regiert von der Nachfolgerin einer Diktaturpartei. Kein SRF-Text schrieb damals «zum ersten Mal seit 1945». Linksextremistische Gewalt ist vom Verfassungsschutz dokumentiert — tausende gewaltbereite Linke, Angriffe auf Polizisten, Brandanschläge. Keine Partei der Linken wird je «linksextreme Partei» genannt. Ein Etikett, das nur eine Richtung hat, ist keine Analyse. Es ist eine Position.*

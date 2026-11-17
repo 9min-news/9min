@@ -67,6 +67,7 @@ quelle_format: Broadcast
 quelle_sendung: Tagesschau
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M009
 ---
 
 *SRF erklärt die Reform des EU-Emissionshandels — und rahmt das System als funktionierend. «In den letzten 20 Jahren ist der CO₂-Ausstoss der ETS-Unternehmen um rund die Hälfte gesunken – das System gilt deshalb als vorbildlich.» Das ist der Befund, der ohne Prüfung steht. Was nicht vorkommt: die Geschichte des Zertifikatebetrugs — Karussellbetrug im Wert von Milliarden, Phantom-Projekte, Doppelzählung, Windfall-Profite. Was nicht vorkommt: die Frage, ob der Rückgang der Emissionen auf das ETS zurückgeht — oder auf andere Faktoren. Was nicht vorkommt: die Tatsache, dass die EU jetzt ausländische Zertifikate zulassen will — genau jene Zertifikate, die in der Vergangenheit als besonders anfällig für Betrug dokumentiert wurden. Der Beitrag ist eine Erklärung ohne Untersuchung — und die Untersuchung wäre die Frage, ob das System funktioniert oder ob es eine Bühne ist.*

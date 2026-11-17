@@ -68,6 +68,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: ''
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Zum Tages-Anzeiger-Beitrag *[«Hat SRF das Vertrauen von Patrick Fischer missbraucht?»](https://www.tagesanzeiger.ch/patrick-fischer-durfte-srf-vertrauliche-infos-publizieren-693688521931)* vom 18. April 2026*

@@ -63,6 +63,7 @@ quelle_format: Broadcast
 quelle_sendung: 10 vor 10
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M003
 ---
 
 *SRF gräbt Guisans Geheimplan aus — und verbindet ihn mit der Neutralitätsinitiative. Die historische Pointe: Der Volksheld, der die Schweiz rettete, plante geheime militärische Zusammenarbeit mit Frankreich. Die politische Pointe: Wäre das nach der Initiative noch möglich? Blocher sagt ja, Dittli sagt nein. Was der Beitrag leistet: Er erzählt eine gute Geschichte und zitiert beide Seiten. Was er nicht leistet: Er prüft keine der beiden Behauptungen. Der Initiative-Text steht im Beitrag — und niemand liest ihn gegen die Interpretationen. Die historische Analogie bleibt illustrativ, wo sie prüfbar wäre.*

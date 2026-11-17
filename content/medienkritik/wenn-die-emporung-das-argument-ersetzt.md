@@ -69,6 +69,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Zur SRF-Berichterstattung *[«Trumps sogenannter Drogenkrieg»](https://www.srf.ch/news/international/hinrichtungen-auf-hoher-see-trumps-sogenannter-drogenkrieg)*, Echo der Zeit, 1. Mai 2026*

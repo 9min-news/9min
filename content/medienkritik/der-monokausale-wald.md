@@ -61,6 +61,7 @@ quelle_format: Broadcast
 quelle_sendung: Regionaljournal Basel Baselland
 quelle_redaktion: Regionaljournal Basel Baselland
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *SRF berichtet über Notfällungen im Baselbiet — und rahmt das Waldsterben als reine Klimafolge. Die Temperatur steigt, die Buchen sterben, die Förster fällen. Welche Gesetze, welche Bewirtschaftungsvorgaben, welche Eigentumsverhältnisse die Handlungsspielräume der Förster bestimmen, kommt nicht vor. Der Wald existiert in diesem Beitrag als Natur, nicht als rechtliches und ökonomisches Objekt — und genau deshalb bleibt unerklärlich, warum Notfällungen überhaupt umstritten sind.*

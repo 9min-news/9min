@@ -79,6 +79,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *Zur SRF-Berichterstattung *[«EGMR urteilt: Schweiz hat gegen Versammlungsfreiheit verstossen»](https://www.srf.ch/news/schweiz/frauenstreik-in-genf-2019-egmr-urteilt-schweiz-hat-gegen-versammlungsfreiheit-verstossen)*, 7. Mai 2026 — und zum Strassburger Urteil «Affaire Batou c. Suisse»*

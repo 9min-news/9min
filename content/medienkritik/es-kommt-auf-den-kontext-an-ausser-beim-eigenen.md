@@ -73,6 +73,7 @@ quelle_format: Broadcast
 quelle_sendung: Rendez-vous
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Beide Experten geben dieselbe Antwort, in Variationen: Es kommt auf den Kontext an. Goetschel: «Es kommt auf den Kontext an.» Cederman: «Es kommt also immer auf die Intention der führenden Politikerinnen und Politiker an.» Der Beitrag zitiert beide und liefert dann eine Diskussion ohne einen einzigen Schweizer Kontext. Am selben Tag entschied der Ständerat über den Rüstungsfonds, der zwölf Milliarden für die Aufrüstung freigibt. Drei Tage zuvor adoptierte der Bundesrat die Sicherheitspolitische Strategie 2026, die einen bewaffneten Angriff einkalkuliert. In fünf Tagen stimmt das Volk über die Neutralitätsinitiative ab. Das Wort «Neutralität» kommt in einem Beitrag über die Aufrüstung der Schweizer Armee, fünf Tage vor der Abstimmung über die Schweizer Neutralität, mit keinem Wort vor. Die beiden Experten fordern den Kontext als Massstab und bekommen einen Diskurs ohne Schweizer Massstab. Das ist keine Auslassung unter vielen. Das ist die Konstruktion.*

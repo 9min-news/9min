@@ -71,6 +71,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 ***Teil 2**: Zur SRF-Berichterstattung *[«So viel Geld fliesst in die Abstimmungskampagnen»](https://www.srf.ch/news/schweiz/keine-10-mio-schweiz-so-viel-geld-fliesst-in-die-abstimmungskampagnen)*, 7. Mai 2026 *

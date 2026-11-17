@@ -68,6 +68,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Wie SRF die WHO als technisches Opfer darstellt — und verschweigt, dass die Krise der Organisation nicht das Werk von Populisten ist, sondern die Konsequenz ihres eigenen politischen Handelns*

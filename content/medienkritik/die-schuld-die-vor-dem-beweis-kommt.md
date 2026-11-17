@@ -67,6 +67,7 @@ quelle_format: Broadcast
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *SRF meldet, dass Deutschland Russland für den Drohnenfund in Leipzig verantwortlich macht — und rahmt die Zuschreibung als gesicherte Erkenntnis. «Man gehe von einem russischen Geheimdienst als Urheber aus», heisst es, gestützt auf «Bild» und «Spiegel». Was der Beitrag nicht liefert: einen einzigen vorgelegten Beweis. Kein Geheimdienstbericht, kein Beweismittel, kein Name — nur anonyme Sicherheitskreise, US-Geheimdienstquellen und die Erinnerung, dass «Politikerinnen und Experten» Russland «schon bald» benannt hatten. Die Zuschreibung kam vor der Untersuchung; die Untersuchung bestätigte die Erwartung. Dazu verschweigt der Beitrag, was Leipzig eigentlich ist: der grösste Umschlagplatz für westliche Waffen an die Ukraine. Und er verschweigt die Schweizer Neutralität, über die in vier Wochen abgestimmt wird.*

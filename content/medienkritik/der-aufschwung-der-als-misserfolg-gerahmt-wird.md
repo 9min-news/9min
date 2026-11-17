@@ -61,6 +61,7 @@ quelle_format: Broadcast
 quelle_sendung: Tagesschau
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *SRF berichtet über Argentiniens Wirtschaftswachstum unter Milei und rahmt es als Krise. Die Wirtschaft wächst um 4,4 Prozent, das Kreditrating steigt, das Ausfallrisiko sinkt — aber der Beitrag fragt nicht, ob das ein Erfolg ist. Er fragt, wo die Jobs bleiben. Was nicht vorkommt: die Inflation, die Milei bändigte. Was nicht vorkommt: die Armut, die laut SRFs eigenem Archivbeitrag sank. Was nicht vorkommt: der Ausgangspunkt — ein Land, das vor Milei wirtschaftlich kollabierte. Der Beitrag ist eine Wachstumsstory, die das Wachstum als Problem gerahmt.*

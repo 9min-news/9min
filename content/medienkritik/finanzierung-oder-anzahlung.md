@@ -110,6 +110,7 @@ zusammenfassung: >-
   Prozentpunkte decken weniger als die Hälfte der Kosten, und die Gegner führen
   inhaltliche Argumente, die der Beitrag nicht wiedergibt.
 kritik_schwere: 3
+muster_id: M009
 ---
 
 *Der Beitrag gibt eine Medienkonferenz des Ja-Lagers wieder und wechselt im Sachteil unmerklich in dessen Vokabular. Bei Samira Marti steht die «moderate Erhöhung» noch in indirekter Rede. Wenige Absätze später schreibt die Redaktion selbst: «Dadurch würden Konsumgüter und Dienstleistungen moderat teurer.» Ohne Zuschreibung folgt, der reduzierte Satz gelte, «um die Kaufkraft der Bevölkerung und insbesondere tiefere Einkommen zu schonen». Der Beitrag verschweigt drei Dinge. Die 13. Rente steht bereits in der Verfassung und wird ausbezahlt, bevor die neue Steuer einen Franken einbringt. Die 0,4 Prozentpunkte decken nur einen Bruchteil ihrer Kosten, wie der Gewerkschaftsbund des Hauptredners selbst festhält. Und die Gegner haben mehr zu sagen als «Nein».*

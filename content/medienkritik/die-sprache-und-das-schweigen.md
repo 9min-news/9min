@@ -63,6 +63,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *Zum SRF-Beitrag «*[Mehr als ein Drittel der Aargauer Kinder spricht schlecht Deutsch»](https://www.srf.ch/news/schweiz/deutschtest-fuer-3-jaehrige-mehr-als-ein-drittel-der-aargauer-kinder-spricht-schlecht-deutsch-1)*, 13. Mai 2026*

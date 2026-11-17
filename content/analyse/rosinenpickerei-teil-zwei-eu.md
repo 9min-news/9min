@@ -3,8 +3,9 @@ title: 'Rosinenpickerei, Teil Zwei (EU)'
 date: '2026-05-09'
 status: published
 type: analyse
-seriesIndex: 7
-coverImage: 'https://pbs.twimg.com/media/HH4UFUmWMAEudx_.jpg'
+series: 'Rosinenpickerei'
+seriesIndex: 2
+coverImage: '/images/essays/rosinenpickerei-teil-zwei-eu.jpg'
 tweetId: '2053114638225600673'
 categories:
   - EU/Aussenpolitik

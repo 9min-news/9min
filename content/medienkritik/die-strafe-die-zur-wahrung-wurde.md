@@ -80,6 +80,7 @@ quelle_format: Broadcast
 quelle_sendung: SRF 4 News aktuell
 quelle_redaktion: SRF
 kritik_schwere: 3
+muster_id: M010
 ---
 
 *Der Beitrag erzählt die Entsanktionierung Usmanows als Verstrickungsgeschichte: Frankreich setzt sich ein, Aserbaidschan liefert einen Gefangenen, die EU streicht. Der Korrespondent diagnostiziert «komplexe Verstrickungen» und warnt, die EU müsse das Sanktionsregime gegen Unterwanderung verteidigen. Was er nicht bemerkt: Der Fall ist der Beweis für das Gegenteil seiner Rahmung. Sanktionen, die gegen die Freilassung eines Gefangenen getauscht werden, sind keine Strafe mehr. Sie sind eine Währung. Ein Regime, das Erdogan, Macron und Alijew auf Anfrage durchlöchern können, ist kein Bollwerk, das es zu verteidigen gilt. Es ist ein Markt, auf dem jeder handelt. Und die Frage, die der ganze Fall aufwirft, ob die Sanktionen je funktioniert haben, wird nicht gestellt: Der Krieg läuft seit vier Jahren, die Sanktionen laufen seit vier Jahren, und der Korrespondent sagt selbst, die Oligarchen hielten die Kriegswirtschaft am Laufen. Vier Jahre Sanktionen, vier Jahre Kriegswirtschaft. Die Bilanz fehlt.*

@@ -64,6 +64,7 @@ quelle_format: Broadcast
 quelle_sendung: SRF 4 News aktuell
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M001
 ---
 
 *SRF interviewt einen freien Journalisten vor Ort in Ceuta und rahmt die Krise als Kommunikationsproblem. Marokko sagt: Falschinformationen im Netz. SRF übernimmt das als Erklärung. Was nicht vorkommt: die Hunderte Millionen Euro, die die EU Marokko für Grenzsicherung bezahlt. Was nicht vorkommt: die Frage, ob Marokko die Krise orchestrierte. Was nicht vorkommt: die 22 EU-Regierungschefs, die Spaniens Migrationspolitik kritisieren. Was nicht vorkommt: die Spanien-Legalisierung von 1,2 Millionen Migranten. Der Beitrag ist eine Reportage vor Ort, die die Ursachen vor Ort nicht sucht.*

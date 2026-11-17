@@ -107,6 +107,7 @@ zusammenfassung: >-
   politische Entscheidung sei, die der parlamentarischen und demokratischen
   Kontrolle entzogen wird.
 kritik_schwere: 3
+muster_id: M010
 ---
 
 *Vor gut einem Jahr floss Geld von einem bundeseigenen Rüstungskonzern an die Hackergruppe «Akira». Heute liegen bei derselben Gruppe die Pensionskassendaten von Tausenden Versicherten, möglicherweise auch die Identitäten verdeckter Ermittler, und SRF führt eine zweite, verdeckte Zahlung als eine von drei sachlichen Optionen. Der Titel spricht von «Geheimdienst-Daten», wo der Text nur «potenziell» schreibt, und fragt nach den «Optionen» des Bundes, als stünde ein Krisenmanager vor einem Menü und nicht der Arbeitgeber, Datenhalter und Auftraggeber der gehackten Lieferkette. Verschwiegen werden die Kosten des Zahlens und die Frage, wer eine Zahlung bewilligen dürfte, die per Definition nie bestätigt wird. Auf dem Spiel steht, ob der Steuerzahler eine Erpressung finanziert, von der er und, soweit der Beitrag erkennen lässt, auch sein Parlament nie erfahren, und mit ihr gleich die nächste.*

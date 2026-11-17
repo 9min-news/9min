@@ -68,6 +68,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M004
 ---
 
 *Zur SRF-Berichterstattung *[«Gier nach kritischen Mineralien ist ungebrochen» ](https://www.srf.ch/news/international/hilfsstoffe-der-energiewende-gier-nach-kritischen-mineralien-ist-ungebrochen)*von Klaus Ammann, SRF 4 News, 29. April 2026*

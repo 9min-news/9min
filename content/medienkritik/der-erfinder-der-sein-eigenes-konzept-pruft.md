@@ -63,6 +63,7 @@ quelle_format: Broadcast
 quelle_sendung: Regionaljournal Basel Baselland
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M005
 ---
 
 *Der Beitrag porträtiert den Erfinder des ökologischen Fussabdrucks und lässt ihn sein eigenes Konzept verteidigen. Die Kritik am Konzept steht in einer Box und wird im selben Atemzug vom Erfinder selbst entkräftet: Auch das BSP sei eine Vereinfachung. Kein Kritiker kommt vor. Kein Wissenschaftler, der die Methodik des Fussabdrucks je angezweifelt hat, kein Ökonom, der die «Biokapazität» als Messgrösse bestreitet, kein Statistiker, der die Overshoot-Day-Rechnung für halten hält. Ein Mann, der ein Konzept erfand, eine Organisation gründete, die es berechnet, und vom Konzept lebt, wird als neutrale Autorität interviewt. Der Beitrag ist eine Werbeveranstaltung im Nachrichtenformat.*

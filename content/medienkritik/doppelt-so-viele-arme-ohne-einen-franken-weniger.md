@@ -104,6 +104,7 @@ zusammenfassung: >-
   Sozialleistungen, die Gemeinden als Zahler und die staatliche Mitverantwortung
   bei Grundkosten aus und kehrt die subsidiäre Ordnung um.
 kritik_schwere: 3
+muster_id: M009
 ---
 
 *Fünfhundert Franken im Monat: Um so viel müsste man das soziale Existenzminimum anheben, damit sich die Zahl der Armen in der Schweiz ungefähr verdoppelt, ohne dass ein einziger Haushalt einen Franken verliert. Das steht im Armutsmonitoring des Bundes, auf dessen Zahlen sich SRF selbst beruft. Im Text schrumpft dieser Mechanismus auf einen Satz: «Caritas ist der Ansicht, dass der Bund die Armutsgrenze zu tief ansetzt.» Wo die beiden Linien liegen und was sie messen, erfährt der Leser nicht. Genau diese Linie bestimmt aber, wie viele Menschen künftig Anspruch auf Leistungen haben, die Steuerzahler in Gemeinden und Kantonen finanzieren.*

@@ -69,6 +69,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 SRF publiziert das perfekte Hintergrundstück — zwei Monate vor der Abstimmung. Dreissig Jahre SVP-Geschichte, eingerahmt als Geschichte von «Tabubrüchen», «Provokationen» und «Politshows». Die Botschaft an den Leser: Was auch immer am 14. Juni zur Abstimmung kommt — es ist einfach die SVP, die wieder macht, was die SVP immer macht.

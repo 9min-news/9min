@@ -75,6 +75,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M017
 ---
 
 *Dieser Echo-der-Zeit-Beitrag von USA-Korrespondent Andrea Christen ist das Gegengift zum SRF-4-News-Stück, das vor einer Stunde analysiert wurde. Dieselben vier Supreme-Court-Entscheide, derselbe Tag, dasselbe Haus — aber ein völlig anderes journalistisches Produkt. Hier wird der FTC-Entscheid nicht in einer Box versteckt, sondern als das behandelt, was er ist: ein struktureller Machtwechsel von Kongress zu Präsident. Hier wird der Zusammenhang zwischen Cook- und FTC-Entscheid erklärt: Die Fed ist eine Ausnahme, andere Behörden nicht. Hier wird die konservative Mehrheit des Gerichts benannt und eingeordnet. Hier werden andere Trump-Fälle erwähnt (Zölle, Einwanderung, Geburtstatsachenbürgerschaft), um ein Muster zu erkennen. Das ist nicht perfekt — aber es ist Journalismus, der versucht, das Ganze zu sehen, statt ein Framing durchzuziehen. Der Vergleich der beiden Beiträge zeigt, dass SRF zu besseren Berichterstattung fähig ist — wenn der Korrespondent vor Ort das Wort hat und nicht die Agentur-Zentrale den Lead schreibt.*

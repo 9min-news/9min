@@ -103,6 +103,7 @@ zusammenfassung: >-
   intakt bleibt. Die Infobox fungiert als Quarantäne für Fakten, die die
   Erzählung umdeuten würden.
 kritik_schwere: 3
+muster_id: M007
 ---
 
 *Die Tagesschau erzählt die 13. AHV-Rente als privaten Glücksfall, über den der einzelne Rentner nach Gewissen verfügt. Das Etikett liefert die Bildlegende: «Den Geldsegen einer 13. AHV-Rente brauchen nicht alle, deshalb ermuntert eine Stiftung, das Geld zu spenden.» Ein Segen hat keinen Absender und keine Rechnung. Die Rechnung steht zwar im Beitrag, aber in einer abgetrennten Infobox, wo sie die Geschichte nicht berührt: Für die Auszahlungen 2026 und 2027 gibt es keine Zusatzfinanzierung. Unverbunden bleibt, dass die gespendete Rente nicht in die AHV zurückkehrt, sondern an Dritte geht, dass der Fiskus den Verzicht über den Spendenabzug mitträgt, und dass die Stiftung fünf Wochen vor der Abstimmung über genau diese Finanzierung auftritt.*

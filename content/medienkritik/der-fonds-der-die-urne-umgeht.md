@@ -69,6 +69,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M010
 ---
 
 *Der Beitrag feiert einen politischen Erfolg: Pfisters Rüstungsfonds sei «plötzlich mehrheitsfähig». Der Clou, den er selbst benennt, ist ein Umgehungsmanöver: Der Ständerat hat Fonds und Steuererhöhung entkoppelt. Selbst wenn das Volk die Mehrwertsteuererhöhung ablehnt, bleibt der Fonds. Und die Volksabstimmung über den Fonds soll erst 2028 stattfinden, nach den nationalen Wahlen. Ein Parlament verabschiedet zwölf Milliarden für die Aufrüstung, koppelt sie vom Volkswillen ab und terminiert die Urne in den Nachwahl-Sommer. Der Beitrag nennt das einen Clou und analysiert das Kalkül der Parteien. Was er nicht analysiert: das demokratische Muster, das da sichtbar wird. Ein Fonds, der sich verschuldet, ausserhalb der ordentlichen Budgets, dessen Abstimmung auf den Moment verschoben wird, in dem niemand mehr etwas daran ändern kann, ist kein Finanzierungsinstrument. Er ist eine Umgehung der Schuldenbremse und des Stimmvolks in einem.*

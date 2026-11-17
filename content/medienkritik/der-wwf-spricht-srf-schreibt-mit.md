@@ -64,6 +64,7 @@ quelle_format: Broadcast
 quelle_sendung: Rendez-vous
 quelle_redaktion: SRF
 kritik_schwere: 3
+muster_id: M005
 ---
 
 Der Tag ist Donnerstag. Der WWF hat am Morgen 145'000 Unterschriften für seine Finanzplatz-Initiative eingereicht. Am Mittag sendet SRF im «Rendez-vous» einen Beitrag mit dem Titel «Banken und klimaschädliche Konzerne: investieren oder nicht?»

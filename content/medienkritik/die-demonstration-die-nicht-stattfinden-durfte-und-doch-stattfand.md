@@ -64,6 +64,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: ''
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Eine unbewilligte Demonstration zieht durch Bern. Vermummte führen den Zug an. Petarden werden gezündet. Ein Eingang der Fremdenpolizei wird mit Backsteinen zugemauert. Eine Gruppe mobilisiert unter dem Banner einer Flugzeugentführerin und ruft zur «Intifada». Und der zuständige Sicherheitsdirektor steht «aus einiger Distanz» daneben und zeigt sich «zufrieden». Der Bund berichtet darüber — sachlich, distanziert, fast wohlwollend. SRF.ch berichtet gar nicht. Vier Artikel über einen toten Wal, aber kein Wort über eine illegale Demonstration in der Bundesstadt, an der unter dem Banner einer Terroristin zur Intifada aufgerufen wird. Das ist nicht ein Versehen. Das ist eine Entscheidung.*

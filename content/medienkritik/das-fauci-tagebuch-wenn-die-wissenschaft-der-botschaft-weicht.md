@@ -91,6 +91,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF
 kritik_schwere: 3
+muster_id: M002
 ---
 
 Am 29. Juli 2026 verweigerte Anthony Fauci vor dem US-Senat die Aussage. Er berief sich auf den Fifth Amendment. Wenige Tage zuvor hatte Senator Rand Paul das private Tagebuch Faucis veröffentlicht — 1'141 Seiten, vom 30. Dezember 2019 bis zum 17. Dezember 2022. Das Dokument ist frei zugänglich.

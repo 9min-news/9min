@@ -76,6 +76,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 ## Wie SRF einen verfassungsrechtlich strittigen Vorgang als demokratische Selbstverständlichkeit verkauft

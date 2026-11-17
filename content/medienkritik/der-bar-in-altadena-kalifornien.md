@@ -61,6 +61,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Zum SRF-Beitrag *[«Kalifornien: Bär sorgt in Wohngegend für Aufregung»](https://www.srf.ch/news/gesellschaft/kalifornien-baer-sorgt-in-wohngegend-fuer-aufregung)*, 11. Mai 2026*

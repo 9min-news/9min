@@ -66,6 +66,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Zur *[SRF-Berichterstattung über das neue Strafverfahren nach der Brandkatastrophe von Crans-Montana](https://www.srf.ch/news/dialog/katastrophe-in-crans-montana-rettungskraefte-geraten-in-den-fokus-der-staatsanwaltschaft)*, 1. Mai 2026*

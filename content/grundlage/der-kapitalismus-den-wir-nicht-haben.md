@@ -3,9 +3,9 @@ title: "Der Kapitalismus, den wir nicht haben"
 date: "2026-05-25"
 status: published
 type: grundlage
-series: "9min zu 9min"
-seriesIndex: 4
-coverImage: "https://pbs.twimg.com/media/HJJzUTSXIAAVIrI.jpg"
+series: '9min zu 9min'
+seriesIndex: 2
+coverImage: '/images/essays/der-kapitalismus-den-wir-nicht-haben.jpg'
 tweetId: "2058835888734396530"
 categories: []
 tags: []

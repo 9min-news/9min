@@ -123,6 +123,7 @@ zusammenfassung: >-
   Asymmetrie liegt darin, dass bei rechtsextremer Gewalt die Herkunft der
   Ausgangspunkt wäre, hier aber zur Parteimeinung degradiert wird.
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *«Ein kleines bisschen Gerechtigkeit blitzt auf in jeder zerbrochenen Scheibe»: Diesen Satz zitierte Watson am Freitag vor der Krawallnacht aus einem Aufruf auf barrikade.info. Am Sonntag zeigt SRF in seinen Bildlegenden die Folgen, «eingeschlagene Scheiben, … Scherben», den Aufruf zeigt es nicht. Titel und Dachzeile machen aus einem angekündigten Krawall einen Reigen von Stellungnahmen («so reagiert die Politik»). Die politische Herkunft der Gewalt nennen darin nur SVP und bürgerliche Jungparteien, obwohl der SRF-Extremismusredaktor sie am selben Tag in eigener Stimme festhält. Dem Zürcher Stimmbürger, der den Gemeinderat wählt, und dem Steuerzahler, der zerstörte Haltestellen ersetzt, enthält der Beitrag damit drei Auskünfte vor: woher die Gewalt kam, wer beantragte Polizeistellen nicht bewilligt und wer die Rechnung trägt.*

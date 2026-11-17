@@ -118,6 +118,7 @@ zusammenfassung: >-
   Kostenverursacherhaftung nach dem Gegenvorschlag zur Anti-Chaoten-Initiative
   noch holt er eine Stellungnahme der zuständigen Stadträtin Karin Rykart ein.
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *«Ein kleines bisschen Gerechtigkeit blitzt auf in jeder zerbrochenen Scheibe.» Das stand vor Halloween auf der linksradikalen Plattform barrikade.info, zusammen mit dem Aufruf «All in Kreis 4». Die Stadtpolizei war informiert und hielt sich bereit. In der Nacht auf Sonntag gingen dann die Scheiben der VBZ-Haltestelle Stauffacher und mehrerer Geschäfte zu Bruch, an der Zwinglistrasse brannte ein Auto, und eine Patrouille musste vor einem Mob zurückweichen, statt einem schwer verletzten Jugendlichen zu helfen. SRF schreibt danach, es habe «wenig auf den eigentlichen Grund der Demo» schliessen lassen. Für den Steuerzahler, der Einsatz und Schaden trägt, und für den Stimmbürger, der über Polizeimittel entscheidet, ist es ein Unterschied, ob er von einer Kundgebung liest oder von einem angekündigten Krawall.*

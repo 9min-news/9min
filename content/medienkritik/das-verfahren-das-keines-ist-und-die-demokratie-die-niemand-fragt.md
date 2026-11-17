@@ -73,6 +73,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Dieser SRF-Beitrag über das EU-Parlamentsverfahren gegen die AfD-Europapartei ist ein Lehrstück in institutioneller Stenografie: Ein politisches Verfahren gegen eine demokratisch gewählte Partei wird gemeldet — ohne dass die zentrale Frage gestellt wird: Darf ein Parlament die Finanzierung einer Partei entziehen, die das Volk in dasselbe Parlament gewählt hat? Die AfD wird als «gesichert rechtsextremistisch» etikettiert, ohne dass erwähnt wird, dass diese Einstufung juristisch angefochten ist und das Verfahren hängig ist. Die politischen Akteure, die das Verfahren vorantreiben, werden benannt — aber ihr Eigeninteresse wird nicht thematisiert. Das Ergebnis ist ein Beitrag, der klingt wie EU-Institutionsberichterstattung, aber keine ist — denn Berichterstattung prüft ihre Quellen, und dieser Beitrag prüft nichts.*

@@ -66,6 +66,7 @@ quelle_format: Broadcast
 quelle_sendung: Regionaljournal Aargau Solothurn / Schweiz aktuell
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M002
 ---
 
 *Dieser SRF-Beitrag ist ein regionaler Gerichtsbericht über das Urteil im «Wolfsrudel»-Prozess: Fünf junge Schweizer wurden vom Bezirksgericht Rheinfelden wegen über 40 Straftaten verurteilt — von der Glasfaser-Sabotage, die 4000 Haushalte vom Netz nahm, über Cyberangriffe bis zu Vorbereitungshandlungen zu Raub. Die Hauptstrafen: rund acht, sechs und vier Jahre. Der Beitrag ist im Protokollarischen solide. Aber er lässt die drei Fragen unbeantwortet, die jeder Leser sofort stellt: Warum taten sie das? Warum erhält einer ein lebenslanges Tätigkeitsverbot mit Minderjährigen? Und sind acht Jahre für einen jungen Ersttäter ohne Gewaltdelikt viel oder wenig?*

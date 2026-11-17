@@ -72,6 +72,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: EDA
 kritik_schwere: 3
+muster_id: M004
 ---
 
 [Zur OSZE](https://www.eda.admin.ch/de/newnsb/nd8EC5t7YxiZP6KvFi6GS)*/E*[uroparat-Konferenz in Chişinău](https://www.efd.admin.ch/en/newnsb/-L7PdfPMHTgqLJyBqF5by)*, 14. Mai 2026, und den *[Aussagen von Bundesrat Cassis](https://x.com/ignaziocassis/status/2055209296820883734)

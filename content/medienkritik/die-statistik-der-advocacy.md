@@ -73,6 +73,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *Zum SRF-Beitrag *[«Rund 80 Prozent der LGBTIQ-Personen erleben Diskriminierung»](https://www.srf.ch/news/schweiz/hate-crimes-in-der-schweiz-rund-80-prozent-der-lgbtiq-personen-erleben-diskriminierung)*, 15. Mai 2026*

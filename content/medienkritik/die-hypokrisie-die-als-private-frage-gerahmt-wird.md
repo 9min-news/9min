@@ -74,6 +74,7 @@ quelle_format: Online-Artikel
 quelle_sendung: Tagesschau
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *SRF berichtet über die Nachfolge von Jens Spahn als Fraktionschef der Union — und rahmt die Leihmutterschaftsaffäre als Persönlichkeitsproblem, das gelöst wurde. «Merz will relativ bald Vorschlag machen», lautet der Titel, und der Beitrag fokussiert sich auf die Namen der potenziellen Nachfolger. Was nicht vorkommt: die Frage, warum ein Politiker, der jahrelang gegen Leihmutterschaft war und sie für unvereinbar mit christlichen Werten erklärte, jetzt plötzlich davon profitiert — und zurücktritt, nicht weil er seine Meinung geändert hat, sondern weil er erwischt wurde. Was nicht vorkommt: die Frage, ob ein Mann, der die moralische Autorität einer Partei verletzt hat, die diese Autorität als Kern ihrer Identität nutzt, überhaupt einen Rücktritt verdient hat — oder ob er ausgepfiffen werden sollte. Was nicht vorkommt: die Frage, ob die CDU, die sich als Partei der christlichen Werte positioniert, ihre moralische Glaubwürdigkeit überhaupt noch hat, wenn ihr Fraktionschef privat macht, was er öffentlich verurteilt. Der Beitrag ist Personalberichterstattung ohne Moral — und die Moral ist die Substanz, die fehlt.*

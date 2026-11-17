@@ -67,6 +67,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Dieser Beitrag — produziert von SWI swissinfo, dem Auslandportal der SRG, und über SRF News ausgespielt — erklärt, warum die Schweiz trotz steigender Demo-Frequenz friedlich bleibt: direkte Demokratie als Ventil. Das ist als These plausibel und mit einem Experten belegt. Aber die Auslassungen haben wieder System: Die staatliche Repression der Covid-Proteste — Demonstrationsverbote, Wasserwerfer, Gummischrot gegen Massnahmenkritiker — fehlt vollständig, obwohl der Beitrag eine eigene Box «Kritik an Repression» führt, in der ausschliesslich linke Anliegen als Opfer figurieren. Und die politische Farbe der Gewalt wird konsequent verschwiegen: Dass gewalttätige Demos in der Schweiz fast ausnahmslos aus dem linksextremen Spektrum kommen — Schwarzer Block, 1.-Mai-Nachdemo, Anti-WEF — kommt nicht vor; die 1.-Mai-Krawalle, das jährlichste Gewaltritual des Landes, fehlen sogar in einer 13-teiligen historischen Bildergalerie. Dazu die Pointe der Woche: Derselbe Sender, der zuvor die direkte Demokratie zur Überforderung erklärte, feiert sie hier als Friedensgarantin.*

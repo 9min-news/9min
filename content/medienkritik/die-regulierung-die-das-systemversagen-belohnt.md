@@ -65,6 +65,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *SRF befragt den eigenen Wirtschaftsredaktor zu den neuen Bankregeln und rahmt sie als Schritt in die richtige Richtung. Boni, Bussen, Eigenkapital. Was nicht vorkommt: die Frage, ob die FINMA, die versagte, mehr Macht verdient; Die Frage, ob der Bundesrat durch die Zwangsfusion ein grösseres «Too big to fail»-Problem schuf; und die Namen der Verantwortlichen. Was nicht vorkommt: die Frage, ob eine Regulierung, die frühestens 2029 greift, das Problem löst oder es perpetuiert. Der Beitrag ist ein Selbstgespräch mit einem SRF-Redaktor, das eine Regierungsmeldung als Analyse verkauft.*

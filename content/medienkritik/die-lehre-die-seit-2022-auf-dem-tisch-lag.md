@@ -111,6 +111,7 @@ zusammenfassung: >-
   Parteien reduziert, die Gesamtlücke der Mehrkosten und die gelöschten
   Threema-Chats blieben unbeleuchtet.
 kritik_schwere: 3
+muster_id: M005
 ---
 
 *Der Titel macht aus der Stellungnahme einer gerügten Regierung einen Lernprozess: «Bundesrat will Lehren aus F-35-Fixpreis-Debakel ziehen». Getragen wird diese Rahmung von einer Quote, «sechs von sieben Empfehlungen», und von einer Grammatik der Zukunft: «Künftig sollen Rüstungsgeschäfte transparenter ablaufen», bei grossen Vorhaben «soll geprüft werden, ob das Verhandlungsmandat […] genehmigt werden muss». Die Kritik an der Stellungnahme erhält eine Infobox mit dem Titel «Linke fordern Beschaffungsstopp» und damit ein Lager. Der Beitrag meldet, das VBS habe den Fixpreis «jahrelang» verteidigt, verschweigt aber, gegen wen: gegen die Eidgenössische Finanzkontrolle seit Mai 2022 und gegen die zuständige US-Behörde seit Februar 2025.*

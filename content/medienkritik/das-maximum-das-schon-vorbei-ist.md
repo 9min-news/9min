@@ -64,6 +64,7 @@ quelle_format: Broadcast
 quelle_sendung: Regionaljournal Zürich Schaffhausen
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *SRF meldet das Urteil gegen den Jugendlichen, der 2024 in Zürich einen orthodoxen Juden lebensgefährlich niedergestochen hatte — und referiert es als Justizmeldung. Ein Jahr Freiheitsstrafe, mehrfacher Mordversuch, ISIS-Bekenntnis, Livestream, geplanter Synagogen-Angriff, Märtyrer-Absicht. Das höchstmögliche Strafmass für einen 15-Jährigen. SRF nennt all das — und fragt nicht, ob das höchstmögliche Mass angemessen ist. SRF nennt die tunesischen Wurzeln — und fragt nicht, was sie bedeuten. SRF nennt das ISIS-Bekenntnis — und fragt nicht, was mit einem Staatsbürger passiert, der sich zum Islamischen Staat bekennt und Schweizer Juden töten will. Der Beitrag ist Stenografie eines Gerichtsentscheids, ohne eine einzige Frage an den Rahmen, in dem der Entscheid steht.*

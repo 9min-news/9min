@@ -75,6 +75,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *SRF berichtet über Max, die russische Super-App: Bildschirmaufnahmen ohne Wissen der Nutzer, Zugriff auf Nachrichten und Zahlungsdaten, Handeln im Namen der Nutzer, Zwangsanwendung für Beamte, Studierende, Schüler. Die Recherche des «Guardian» wird sauber wiedergegeben, die Überwachung ist real, die Kritik berechtigt. Was der Beitrag nicht liefert: den Spiegel. In der Ukraine existiert Diia, eine staatliche Super-App mit digitalen Ausweisen, über 150 Regierungsdiensten und 23 Millionen Nutzern, die QR-Codes für Gebäudezugänge liefert und staatliche Leistungen bündelt. Und wer finanziert dieses «Vorbild»? Der Schweizer Steuerzahler, mit 88,2 Millionen Franken bis 2028. Währenddessen arbeitet Brüssel daran, die Chatkontrolle durchzudrücken, die das EU-Parlament zuvor mit 314 Stimmen gegen 276 abgelehnt hatte. Der Beitrag über russische Überwachungstechnologie erscheint, während europäische Überwachung gegen die Parlamentsmehrheit weiterverfolgt wird, und erwähnt beides mit keinem Wort.*

@@ -59,6 +59,7 @@ quelle_format: Broadcast
 quelle_sendung: Regionaljournal Aargau Solothurn
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *SRF zeigt Familien, die sieben bis zehn Jahre getrennt werden — und Kinder, die unterdessen «unter prekären Bedingungen im Ausland» ihre Kindheit verbringen. Liest man die beiden Aussagen zusammen, fällt der Rahmen auseinander: Das Land, das angeblich so gefährlich ist, dass man nicht einmal Dokumente verlangen darf, ist sicher genug, um eine ganze Kindheit darin zu verbringen. Der Afghane reiste für seine Eheurkunde selbst zurück — «trotz Gefährdungslage». Er konnte also. Die Familie blieb, wo sie war, ein Jahrzehnt lang. Jedes dieser Jahre war eine Entscheidung: Der Geflüchtete kehrte nicht zurück, die Familie kam nicht früher, beide warteten — auf die Bewilligung. Das Leid ist echt. Aber der Beitrag verbucht ihn als Verbrechen der Behörden — und tilgt jede Entscheidung aller Beteiligten ausser der Schweizer.*

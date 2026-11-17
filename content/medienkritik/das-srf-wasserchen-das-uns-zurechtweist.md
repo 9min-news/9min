@@ -58,6 +58,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M003
 ---
 
 *Dieser SRF-Beitrag ist ein Interview mit der ETH-Hydrologin Manuela Brunner über ein tatsächlich wenig beachtetes Phänomen: Flusshitzewellen, also ungewöhnlich hohe Wassertemperaturen über mehrere Tage. Das Thema ist real und relevant, die Fachfrau qualifiziert, und einige der Antworten differenzieren erfreulich. Doch das Gespräch trägt die typische Signatur des unkritischen Expertengesprächs: Die Befragte verkündet, der Sender protokolliert, und an keiner Stelle wird eine Aussage hinterfragt. Sehen wir genau hin.*

@@ -71,6 +71,7 @@ quelle_format: Broadcast
 quelle_sendung: Tagesschau
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Was SRF zeigt, wenn es schweigt — und wie es spricht, wenn es nicht mehr schweigen kann*

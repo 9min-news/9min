@@ -74,6 +74,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: Ausland
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Zum Tages-Anzeiger-Beitrag *[«Supreme Court schränkt Rassismus-Klausel für Wahlen ein»](https://www.tagesanzeiger.ch/usa-oberster-gerichtshof-schraenkt-rassismus-klausel-ein-375313250996)* vom 18. April 2026*

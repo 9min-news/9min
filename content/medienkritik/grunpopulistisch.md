@@ -67,6 +67,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *SRF berichtet über die Lokalwahlen in England: Reform UK und die Grünen haben gewonnen. Die «Rechtspopulisten» und die Grünen. Schon der Sprachgebrauch verrät die Asymmetrie. Reform UK bekommt das Label «Rechtspopulisten». Die Grünen bekommen kein Label. Beide sind Sieger. Beide sind Newcomer. Beide haben grosse Versprechen gemacht. Aber nur eine Seite wird politisch markiert. Die andere ist einfach «die Grünen» — als wäre das eine neutrale Beschreibung, keine politische Position.*

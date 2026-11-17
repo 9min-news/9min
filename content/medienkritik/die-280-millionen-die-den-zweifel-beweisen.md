@@ -67,6 +67,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M007
 ---
 
 *Der Beitrag ist die skeptischste Gaza-Meldung des Hauses seit Monaten. Er benennt den Widerspruch zwischen Bombenverkäufen und Wiederaufbauversprechen, er endet mit dem vierten Winter und dem Wort «vergeblich». Und trotzdem bleibt er hinter seinem eigenen Anspruch zurück: Der Zweifel wird aufgeführt, nicht gemessen. Die Zahl, die die Leere des Versprechens beweist, existiert und fehlt: Von den 18 Milliarden Dollar, die internationale Geber zugesagt haben, sind nach Geberangaben 280 Millionen geflossen. Die Auszahlungsquote beträgt 1,6 Prozent. Der Beitrag nennt den Plan ein «leeres Versprechen» und liefert weder diese Zahl noch den Inhalt des Plans noch die Bilanz des Waffenstillstands, an der sich die Leere messen liesse. Stattdessen eröffnet die Autorin mit der Frage, «ob man überhaupt darüber berichten soll», und beantwortet sie mit einem Bericht, der die Prüfung spart, die er ankündigt.*

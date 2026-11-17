@@ -103,6 +103,7 @@ zusammenfassung: >-
   Veranstalter- und Behördenaussagen ohne Rückfragen werden als Auslassung und
   Kontextmangel beanstandet.
 kritik_schwere: 2
+muster_id: M006
 ---
 
 *Bevor der erste Stein flog, hatten viele Einzelhändler in deutschen Innenstädten ihre Schaufenster mit Holzplatten verbarrikadiert, «vorsorglich» und «aus Angst vor Ausschreitungen», wie SRF selbst schreibt. Derselbe Beitrag verbucht die Gewalt im Titel als «Krawalle nach friedlichem Protest» und lässt in der Zusammenfassung «die Stimmung» in Gewalt umschlagen, als hätte niemand gehandelt. Sein eigener Text verortet die Ausschreitungen in Berlin und Hamburg jedoch «bei» und «gegen Ende» der Demonstrationen. Zudem verschweigt er, dass der hessische Innenminister vorab vor einer Instrumentalisierung der Proteste gewarnt und ein Grossaufgebot angekündigt hatte. Der Gebührenzahler erhält so die Geschichte eines friedlichen Tages, über den die Gewalt hereinbricht, und verliert die Grundlage für die Frage, wer sie kommen sah und wer für den Schaden an Polizisten und fremdem Eigentum einsteht.*

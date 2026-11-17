@@ -112,6 +112,7 @@ zusammenfassung: >-
   Plausibilität genügt, und durch textliche Montage eine unbelegte Verbindung
   zwischen deutschen Politikerinnen und russischem Einfluss erzeugt.
 kritik_schwere: 3
+muster_id: M005
 ---
 
 *In einem Privathaus westlich von Kiew warten einberufene Männer auf ihre Grundausbildung, vier von ihnen sind wegen unerlaubten Entfernens von der Truppe festgenommen worden. Im SRF-Faktencheck über dieses Haus kommt das Wort «Mobilisierung» kein einziges Mal vor. Ein Leser fragt, was tatsächlich geschah, doch der Text beginnt mit der Frage, wer die Geschichte verbreitet: Alice Weidel und Sahra Wagenknecht stehen im ersten Abschnitt, bevor ein einziger Fakt zum Haus genannt ist. Unerwähnt bleiben die explodierenden Beschwerden über die ukrainischen Rekrutierungszentren, die vier Verletzten, die die Truppe selbst meldete, und die Prüfungen zweier staatlicher Ombudsstellen. Wer sich bei SRF erklären lässt, was als Desinformation gilt, erhält ein Fazit, das wie ein Abschluss klingt, zu einem Fall, den Kiews eigene Aufsichtsstellen noch offen halten.*

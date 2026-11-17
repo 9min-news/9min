@@ -114,6 +114,7 @@ zusammenfassung: >-
   durch eine Nase ersetzt und belegbare Bundesintervention zugunsten von xAI
   nicht weiterverfolgt.
 kritik_schwere: 3
+muster_id: M012
 ---
 
 *Der Titel setzt das Etikett, bevor der erste Satz steht: «Elon Musks Datenzentren bringen Anwohnende gegen Trump auf». Die Vorannahme lautet, der Streit um Gasturbinen in einem Arbeiterviertel von Memphis sei ein Protest gegen den Präsidenten. Der eigene Text widerlegt sie, wenn er die Kritiker als «unabhängig von der Partei» beschreibt und einen parteiunabhängigen Stadtrat aus Nashville zitiert, der den Widerstand «bei Demokraten und Republikanern» wachsen sieht. Getragen wird die Rahmung von einer Umfrage ohne Absender, belegt wird die Belastung mit einer Nase statt mit einer Messung. Verschwiegen werden die Behörde, die die Turbinen bewilligt hat, die vorhandenen Messungen und Modelle zur Luft in Boxtown und jede Zahl zu Steuern und Arbeitsplätzen.*

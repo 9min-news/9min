@@ -71,6 +71,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 Nachrichten
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *SRF meldet das Treffen zwischen Trump und Xi als diplomatische Zeremonie: prunkvoll, freundschaftlich, ohne politische Durchbrüche. Die Berichterstattung übergeht das einzige konkrete Ergebnis des Gipfels, die Verlängerung der Zollpause bis zum 10. Januar, und verbannt die eigentliche Verhandlungsmasse, ein eingefrorenes Taiwan-Waffenpaket im Wert von 14 Milliarden Dollar, in eine Randbox. Zwei Beiträge innerhalb von 24 Stunden, ein Muster: Der Pomp wird zur Nachricht, die Handelspolitik zur Fussnote, und die chinesische Nichtbestätigung der Einigung bleibt unerwähnt.*

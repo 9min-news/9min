@@ -62,6 +62,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *SRF meldet den Rücktritt von SRG-Präsident Jean-Michel Cina und deutet ihn als Erfolgsgeschichte. «Erfolgreich», «aufgegleist», «voller Front». Der Beitrag verschweigt, dass SRF über seinen eigenen Mutterverein berichtet — eine institutionelle Selbstreferenz ohne Distanz. Er verschweigt die 900 Stellen, die unter Cinas Präsidium gestrichen wurden. Er verschweigt die 300 Mitarbeiter, die gegen die Geschäftsleitung protestierten. Er verschweigt, dass 38 Prozent der Stimmbevölkerung die SRG halbieren wollten. Und er verschweigt die Kosten. Er ist eine Pressemitteilung der SRG über die SRG, verkleidet als Nachricht.*

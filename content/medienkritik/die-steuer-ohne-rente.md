@@ -113,6 +113,7 @@ zusammenfassung: >-
   Bundes werde nur namentlich genannt, während die FDP-Studie beziffert und
   verlinkt werde.
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Der Titel stellt eine Finanzierungsvorlage als reine Steuerfrage: «Wie (un)sozial ist die Mehrwertsteuer?» Die 13. AHV-Rente, um deren Finanzierung es geht, erscheint ein einziges Mal, im ersten Satz. Danach prüft der Beitrag nur noch, wer zahlt, nie, wer erhält. Die tragende Vorannahme steht im Satz «Streng genommen wird damit gegen ein Grundprinzip der Besteuerung verstossen». Illustriert wird sie mit einer Packung Spaghetti, die von der Vorlage gar nicht erfasst wird, und beziffert mit Zahlen aus einer Studie im Auftrag einer Partei, die die Vorlage ablehnt. Was der Beitrag verschweigt: Die Steuer deckt die Rente nur etwa zur Hälfte, und die Rente selbst hat eine Verteilungswirkung, die in keine Rechnung eingeht.*

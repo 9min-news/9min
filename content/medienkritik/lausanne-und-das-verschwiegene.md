@@ -66,6 +66,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Zum SRF-Beitrag *[«Polizeiaktion in Lausanne führt zu über 180 Strafverfolgungen»](https://www.srf.ch/news/schweiz/grossoperation-der-polizei-polizeiaktion-in-lausanne-fuehrt-zu-ueber-180-strafverfolgungen)*, 12. Mai 2026*

@@ -110,6 +110,7 @@ zusammenfassung: >-
   der Artikel bietet keine Gegenstimmen. Die Personen-Box nennt alle
   Auszeichnungen, aber nicht die politische Interessenlage durch die Ehe.
 kritik_schwere: 3
+muster_id: M009
 ---
 
 *Eine Woche vor den amerikanischen Zwischenwahlen ruft im SRF-Interview eine Frau dazu auf, «demokratische Kandidaten» zu unterstützen, deren Ehemann Vizepremier und Aussenminister Polens ist. SRF stellt sie als Historikerin vor. Die Dachzeile «Warnung vor Trump» und der Satz, die Wahl könne «über die Zukunft der amerikanischen Demokratie mitentscheiden», machen aus einer Kongresswahl eine Abstimmung über das System. Der Titel macht aus einem Satz über den 6. Januar ein Urteil über eine ganze Partei. Verschwiegen wird, dass Anne Applebaum seit 1992 mit Radosław Sikorski verheiratet ist, obwohl sie im selben Interview über Nato und Militärausgaben spricht. Wer per Zwang Gebühren für ein Programm mit Vielfaltsauftrag bezahlt, hat Anspruch darauf, die Interessenlage einer Quelle zu kennen, die eine Wahlempfehlung abgibt.*

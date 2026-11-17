@@ -62,6 +62,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News Plus
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *SRF fragt: «Muss man sie jetzt regieren lassen?» Der Satz ist das Framing. In einer Demokratie stellt sich nach einer Wahl nicht die Frage, ob der Wahlsieger regieren darf — sondern wie. Wer 44 Prozent holt, hat den ersten Anspruch auf die Regierungsbildung; das ist nicht Gnade, sondern Verfahren. Der Beitrag kehrt dieses Prinzip um: Er rahmt Regieren als Erlaubnis, die andere gewähren — und macht aus dem stärksten demokratischen Ergebnis des Landes eine Bitte um Aufnahme. Die Antwort, die der Beitrag vorbereitet, kennt der Titel schon: Nein, man muss nicht. Weil die AfD nicht kompromissbereit sei, weil sie sich nicht «entzaubern» werde, weil Koalitionen kaum möglich seien. Eine Frage, die die Demokratie umkehrt, und eine Antwort, die sie bestätigt.*

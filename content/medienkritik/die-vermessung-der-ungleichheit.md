@@ -62,6 +62,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Wie SRF eine Erfolgsgeschichte als Krise rahmt, den sozialen Graben auf die Familie schiebt und nach dem Staat als Retter ruft – ohne zu fragen, ob der Graben überhaupt mit Schule zu schliessen ist*

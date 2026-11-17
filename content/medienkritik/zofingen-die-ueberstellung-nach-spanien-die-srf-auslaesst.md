@@ -111,6 +111,7 @@ zusammenfassung: >-
   Satz ohne Beleg und verschweigt sowohl die völkerrechtliche Option als auch
   die Millionenkosten des Massnahmenvollzugs.
 kritik_schwere: 3
+muster_id: M009
 ---
 
 *Seit 1988 gehört die Schweiz einem Europaratsvertrag an, der regelt, wie ein im Ausland Verurteilter seine Sanktion im Heimatstaat verbüsst. SRF beantwortet die Frage nach genau diesem Weg im Jahr 2026 mit zwei Wörtern: «Direkt ausweisen? Geht nicht», so lautet der Titel einer Infobox im Bericht über den Prozess gegen den Mann, der im Mai 2024 in Zofingen sieben Menschen angegriffen haben soll. Die Begründung liefert die Staatsanwaltschaft, also die Partei, die die Massnahme beantragt. Die Redaktion schliesst die verbleibende Lücke mit einem eigenen Satz ohne Beleg. Dass die Schweiz und Spanien ein Zusatzprotokoll ratifiziert haben, das die Überstellung nach einer Landesverweisung sogar ohne Zustimmung des Verurteilten zulässt, erfährt der Leser nicht. Für den Steuerzahler geht es um eine Therapie, die über Jahre Millionen kosten kann, für den Stimmbürger um die Frage, wann eine vom Volk gewollte Landesverweisung tatsächlich greift.*

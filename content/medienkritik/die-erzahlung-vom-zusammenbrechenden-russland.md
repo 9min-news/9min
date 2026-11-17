@@ -63,6 +63,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News International
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *Wie SRF Wirtschaftskrise und Kriegsrekrutierung verknüpft — und dabei die unbequemen Fragen vermeidet

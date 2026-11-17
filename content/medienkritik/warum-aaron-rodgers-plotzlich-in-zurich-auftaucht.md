@@ -64,6 +64,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF Sport
 kritik_schwere: 3
+muster_id: M017
 ---
 
 Zwei Tage nach der Freistellung legt SRF nach. Ein Folgeartikel, der den Fall Fischer in einen grösseren Kontext stellt. Eine Chronik der «fehlenden Transparenz im Sport». Vier Vergleichsfälle: Breel Embolo, Markus Anfang, Aaron Rodgers, das Rio-Dopingprogramm.

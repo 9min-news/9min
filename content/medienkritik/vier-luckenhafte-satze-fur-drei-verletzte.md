@@ -61,6 +61,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Ein Mann sticht am Bahnhof Winterthur auf vier Passanten ein. Drei werden verletzt, einer schwer. Der Täter ruft «Allahu Akbar». Es ist 8:30 Uhr morgens, an einem ganz normalen Donnerstag, am Hauptbahnhof der sechstgrössten Stadt der Schweiz. Wie berichtet SRF? In vier Sätzen. Ein Opfer, in den Oberschenkel gestochen. Hintergrund unklar. Mehr folgt. Während SRF noch schweigt, berichten deutsche Zeitungen aus München, Berlin und Bayern bereits die Wahrheit. Während SRF noch «Mehr folgt» verspricht, hat ein kleines Schweizer Online-Portal namens Nau den Augenzeugen interviewt, den Polizeisprecher zitiert, die Tatwaffe fotografiert und alle wesentlichen Fakten dokumentiert. SRF hat tausende Mitarbeiter, eine Milliarde Franken Budget, Korrespondenten in jeder Region. Aber wenn es darum geht, eine Tat zu beschreiben, deren Hintergrund das Narrativ stört, wird SRF vom kleinsten Konkurrenten überholt. Das ist nicht Inkompetenz. Das ist Methode.*

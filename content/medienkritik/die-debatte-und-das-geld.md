@@ -64,6 +64,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M010
 ---
 
 *Zum SRF-Beitrag *[«Schweizer Mittelstand mit Geldsorgen: Was können Betroffene tun?»](https://www.srf.ch/news/wirtschaft/haushaltsbudget-schweizer-mittelstand-mit-geldsorgen-was-koennen-betroffene-tun)*, 8. Mai 2026*

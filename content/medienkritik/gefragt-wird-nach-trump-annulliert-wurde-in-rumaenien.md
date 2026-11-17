@@ -115,6 +115,7 @@ zusammenfassung: >-
   universell formulierter Grundsatz wird nur am Gegner im Ausland geprüft, der
   naheliegende Fall im eigenen Haus bleibt ungefragt.
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Im Hundert-Meter-Final, mit dem Alain Berset die Demokratie erklärt, gibt es nur einen Störenfried: den Zweitplatzierten, der das Resultat nicht anerkennt. Den anderen Fall gibt es seit Dezember 2024 in Rumänien, einem Mitgliedstaat jener Organisation, die Berset heute führt: Dort erklärte das Kampfgericht zwei Tage vor dem Final das ganze Rennen für ungültig. SRF übernimmt in der Anmoderation das Anliegen des Europarats in eigener Stimme. Den Generalsekretär fragt es zur Anerkennung von Wahlen aber nur nach Washington, nicht nach Bukarest. Für den Stimmbürger steht damit die eigentliche Frage aus: ob der Satz «Dann gilt das Resultat» auch für Gerichte, Behörden und Geheimdienste gilt, und wer bestimmt, ob eine Wahl «korrekt» war.*

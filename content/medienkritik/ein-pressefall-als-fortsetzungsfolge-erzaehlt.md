@@ -105,6 +105,7 @@ zusammenfassung: >-
   Personalisierung, bei der der Journalist zur Nebenfigur seiner eigenen
   Geschichte wird.
 kritik_schwere: 3
+muster_id: M011
 ---
 
 *SRF meldet die Anklage gegen einen Journalisten und erzählt sie als Episode eines Wirtschaftskrimis. Den Rahmen setzen Titel und Dachzeile: «Vincenz-Aufdecker» und «Rückschlag für Journalist» handeln vom Schicksal einer Person, nicht von einem Prinzip. Im Fliesstext erscheint der Fall als Streit zwischen zwei Männern, in dem Stocker «seine Privatsphäre verletzt sah». Der eigentliche Vorwurf, die Verletzung des Bankgeheimnisses, steht allein in einer Bildlegende. Der Beitrag verschweigt, dass seit 2015 schon das Weiterverbreiten geleakter Bankdaten strafbar ist, und er verschweigt, mit welcher Begründung ein Gericht die Einstellung des Verfahrens kippte. Rund die Hälfte des Textes gilt dem Vincenz-Prozess, die Rechtsgrundlage der Anklage gegen Hässig erhält keinen Satz.*

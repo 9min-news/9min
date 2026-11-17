@@ -108,6 +108,7 @@ zusammenfassung: >-
   Befürworter Hartweg mehrere Zitate und das letzte Wort erhält. Die
   Finanzkritik erscheint so als ökologische statt fiskalische Frage.
 kritik_schwere: 3
+muster_id: M007
 ---
 
 *SRF setzt 200 Millionen Franken in den Titel, die vielleicht nie fliessen, und 400 Millionen in den Fliesstext, die sicher fliessen sollen. Die privaten Garanten zahlen nur, wenn die Winterspiele 2038 ein Defizit schreiben. Bund, Kantone und Gemeinden sollen ihren Beitrag in jedem Fall leisten. Der Satz, der das Bild trägt, lautet: «Bei der Defizit-Garantie soll erstmals nicht der Staat einspringen.» Der Beitrag sagt nicht, wer einspringt, wenn das Defizit die 200 Millionen übersteigt, und er verschweigt, dass Schweizer Stimmbürger Olympia-Projekte mehrfach abgelehnt haben. Für den Steuerzahler geht es um die Frage, wer am Ende das Restrisiko trägt. Für den Stimmbürger geht es darum, ob er diesmal überhaupt gefragt wird.*

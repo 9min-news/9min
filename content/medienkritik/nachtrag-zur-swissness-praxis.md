@@ -65,6 +65,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: Eidgenössisches Institut für Geistiges Eigentum
 kritik_schwere: 3
+muster_id: M017
 ---
 
 [Teil I](https://x.com/9min_news/status/2053432182568284396)

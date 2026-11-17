@@ -66,6 +66,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *SRF meldet, dass Ärzte und Apotheker Medikamenten-Rabatte nicht an Patienten weitergeben, und rahmt den Vorgang als Kontrolllücke. Die EFK kritisiert den Bund, das BAG verspricht Besserung. Was nicht vorkommt: die Frage, wer die 655 Millionen kassiert; Die Frage, warum das BAG die Kontrolle sechs Jahre lang nicht wahrnahm; Die Frage, ob das BAG unter Berset das Personal abzog, um Covid zu managen. Was nicht vorkommt: die Frage, ob das BAG unter Baume-Schneider die Stellen halbierte. Was nicht vorkommt: der Schaden von über 2 Milliarden Franken. Der Beitrag ist eine Verwaltungsnote, die ein politisches Versagen als administrativen Schlupfloch verkauft — während 20min denselben Fall als Skandal aufdeckt.*

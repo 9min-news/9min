@@ -110,6 +110,7 @@ zusammenfassung: >-
   in Berührung gekommen zu verabreicht und der gebührenfinanzierte SRF bewirbt
   damit die ARD-Serie eines anderen Gebührensenders.
 kritik_schwere: 3
+muster_id: M008
 ---
 
 *Der Satz, aus dem SRF seine Schlagzeile macht, steht am Ende einer Antwort über Gewichtheben, Schwimmen und Leichtathletik: «Im Turnen werden Pubertätsblocker benutzt, um Kinder künstlich klein und leicht zu halten.» Er nennt kein Land, keinen Fall und keine Quelle, und niemand fragt nach. Nach demselben Verfahren entsteht die Leitzahl: Aus Kindern, die laut Infobox «mit Doping in Berührung gekommen» sind, werden im Lead zehn Millionen gedopte Kinder. Nicht verfolgt werden die Rolle der Staaten, die der Interviewte selbst nennt, und jeder Bezug zum Schweizer Leistungssport, den der Bund mitfinanziert. Der Gebührenzahler bekommt ein Gespräch, das als Programmhinweis für eine ARD-Serie funktioniert, und erfährt über die Kinder in den hiesigen Kadern nichts.*

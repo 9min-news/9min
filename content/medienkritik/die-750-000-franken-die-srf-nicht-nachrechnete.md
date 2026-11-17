@@ -112,6 +112,7 @@ zusammenfassung: >-
   Zeitreihe und blende den Kontext des anstehenden EU-Vertragspakets sowie
   bestehender Entlastungsgesetze aus.
 kritik_schwere: 3
+muster_id: M008
 ---
 
 *750'000 Franken im Jahr koste die Bürokratie ein Schweizer Kleinunternehmen, rechnet der Präsident von Swissmem im «Rendez-Vous» vor. Beim Schweizer Medianlohn entspricht das dem Bruttolohn von gut neun Vollzeitstellen. Für einen Betrieb mit ein paar Dutzend Mitarbeitern wäre das entweder ein Skandal oder eine falsche Zahl, doch SRF behandelt sie als keins von beidem und verrät auch nicht, woher sie stammt. Schon der Titel legt die Spur: Betriebe «stöhnen», als wäre Regulierung eine Witterung, unter der eine Branche leidet, und nicht das Werk von Parlament und Verwaltung. Bezahlt wird diese Last am Ende von Konsumenten, Angestellten und jenen, die nie ein Unternehmen gründen. Beschlossen wird sie von Behörden, die der Stimmbürger wählt und der Steuerzahler finanziert.*

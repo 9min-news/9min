@@ -62,6 +62,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *Wie SRF einen statistisches Artefakt als Wirtschaftskrise verkauft, die Methodenänderung verschweigt, die den Vergleich ungültig macht, und die Brutalität einer Regelung analysiert, die Unternehmen für Steuerschulden vernichtet – oft ohne einen Rappen für den Staat übrig zu lassen*

@@ -69,6 +69,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *SRF meldet einen WMO-Bericht: Hitzewellen und Brände verschärfen die Luftverschmutzung. Fast 100'000 zusätzliche Todesfälle zwischen 2010 und 2018, die Zahl extremer Brandereignisse habe sich seit den 1990er-Jahren verdreifacht. Der Beitrag übernimmt jede Zahl des Berichts als Fakt — ohne eine einzige zu prüfen, ohne eine Gegenstimme, ohne die Fragen, die die Zahlen aufwerfen. Die 100'000 Todesfälle sind eine Schätzung — global, über acht Jahre, hochgerechnet. Die Verdreifachung seit den 1990er-Jahren misst an einem Jahrzehnt, das als historisches Brandminimum gilt. Und die eigentliche Nachricht des Berichts — Europa und Nordamerika haben ihre Emissionen gesenkt — steht im Text und zählt nicht. Er ist eine Pressemitteilung der WMO im Nachrichtengewand, von einer Agentur, die alle Medien gleichlautend druckten.*

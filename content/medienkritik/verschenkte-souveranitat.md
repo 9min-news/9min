@@ -82,6 +82,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: 9min.ch
 kritik_schwere: 3
+muster_id: M001
 ---
 
 ## Das Matterhorn entfernt

@@ -65,6 +65,7 @@ quelle_format: Broadcast
 quelle_sendung: Club
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Der «Club» lädt Peter Altmaier, um die deutsche Krise zu erklären. Altmaier, Merkels Kanzleramtschef von 2013 bis 2018, enger Vertrauter, Mitglied der Regierung, die die Krise produzierte. Er liefert die ehrlichste Diagnose des Hauses seit dem Wahlabend: fünf Jahre kein Wachstum, Wohlstandsverlust, Menschen, die glauben, die Etablierten hätten sie vergessen. Und er sagt: Mit der AfD könne man Deutschland «auf keinen Fall regieren». Was niemand im Studio erwähnt: Die CDU schrieb 2002 in ihr eigenes Wahlprogramm den Satz, der die AfD voraussagte. «Verstärkte Zuwanderung würde den inneren Frieden gefährden und radikalen Kräften Vorschub leisten.» Die Partei des Gastes prophezeite die Partei, die jetzt stärkste Kraft in drei Ländern ist. Dann regierte sie gegen die eigene Weissagung. Der Mann, der dabei half, sitzt im Studio und diagnostiziert die Erfüllung. Niemand hält ihm die Schrift vor.*

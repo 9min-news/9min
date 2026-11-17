@@ -64,6 +64,7 @@ quelle_format: Broadcast
 quelle_sendung: Tagesschau
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *SRF berichtet über den Kanton Zug, der ein Forschungszentrum zum Nationalen Finanzausgleich mitfinanziert, und rahmt es als Kauf von Wissenschaft. Ein Ökonom darf das IWP als «propagandistisch» bezeichnen, ungeprüft. Was nicht vorkommt: die Frage, ob 467 Millionen Franken Nettozahlung pro Jahr ein legitimes Interesse an Forschung begründen. Was nicht vorkommt: die Frage, ob der Finanzausgleich selbst funktioniert. Was nicht vorkommt: die Pro-Kopf-Zahl, die das Ausmass der Umverteilung sichtbar macht. Der Beitrag ist ein Interview mit einem Kritiker, der als neutraler Experte auftritt.*

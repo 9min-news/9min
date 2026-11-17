@@ -62,6 +62,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *SRF meldet einen Bericht der Eidgenössischen Finanzkontrolle zu gescheiterten oder gefährdeten IT-Schlüsselprojekten der Bundesverwaltung — und referiert ihn als Verwaltungsnote. Die EFK rüffelt, die Bundeskanzlei erwidert «Ja, aber», die Schlagzeile nennt keine Namen, der Text nennt keine Namen, die Konsequenzen fehlen. Was nicht vorkommt: die Frage, wer verantwortlich ist. Wer leitet das Projekt zur Auszahlung der Arbeitslosengelder? Wer hat die Einführung des Zahlungssystems verantwortet, bei dem Anfang Jahr Menschen ihr Geld nicht erhielten? Wer hat seinen Job verloren, wer wurde versetzt, wer wurde zur Rechenschaft gezogen? Niemand — oder zumindest: SRF fragt nicht. Der Beitrag ist eine Stenografie eines Verwaltungsberichts, ohne eine einzige Frage an die Personen, die hinter den Projekten stehen.*

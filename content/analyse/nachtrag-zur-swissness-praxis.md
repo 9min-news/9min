@@ -4,8 +4,8 @@ date: '2026-05-10'
 status: published
 type: analyse
 series: 'Die Toblerone-Serie'
-seriesIndex: 12
-coverImage: 'https://pbs.twimg.com/media/HH9tyLHXAAQ3bUO.jpg'
+seriesIndex: 5
+coverImage: '/images/essays/nachtrag-zur-swissness-praxis.jpg'
 tweetId: '2053481759841333262'
 categories:
   - Wirtschaft

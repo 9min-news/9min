@@ -69,6 +69,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF Kultur
 kritik_schwere: 3
+muster_id: M001
 ---
 
 *Dieser SRF-Beitrag über die Enthüllung von Angela Merkels offiziellem Porträt ist ein Lehrstück in Devotions-Journalismus: Ein Kunstwissenschaftler darf ungetestete Thesen über ein Porträt verbreiten, eine Kanzlerin, deren politisches Erbe in Echtzeit zusammenbricht, wird zur Ikone stilisiert, und der berühmteste Satz der deutschen Nachkriegspolitik — «Wir schaffen das» — wird als positives Resümee verwendet, ohne dass eine einzige kritische Frage gestellt wird. Die zentrale Frage — was Merkel in 16 Jahren Kanzlerschaft tatsächlich hinterlassen hat — wird nicht gestellt, weil sie nicht gestellt werden darf. Das Framing steht fest: Merkel war Stabilität, Merkel war Autorität, Merkel war Optimismus. Wer sich ansieht, in welchem Zustand Deutschland 2026 tatsächlich ist, weiss: Das ist nicht Analyse, das ist Denkmalpflege.*

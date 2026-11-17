@@ -68,6 +68,7 @@ quelle_format: Podcast
 quelle_sendung: News Plus
 quelle_redaktion: SRF 4 News
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *Dieser SRF-Beitrag ist ein Erklärstück aus dem Podcast-Format «News Plus»: Die Krawalle von Belfast werden mit der Historikerin und Friedensforscherin Corinna Hauswedell durch die Brille des Nordirlandkonflikts betrachtet — «The Troubles», Peace Walls, Power Sharing. Als historische Vertiefung ist das stellenweise erhellend. Aber die Rahmung hat System: Sie verschiebt ein Ereignis von 2026 in die Kulisse von 1972 — und entlastet damit die Gegenwart. Das Bemerkenswerteste daran: Die Expertin selbst sagt in der Podcast-Beschreibung ausdrücklich, die aktuellen Zustände hätten mit dem Nordirland-Konflikt «nichts zu tun» — und die Redaktion baut die Troubles-Kulisse trotzdem um sie herum. Denn was sich in Belfast entlädt, wurde nicht vom Bürgerkrieg geboren, sondern von zwanzig Jahren Politik gegen den erklärten Willen der Bevölkerung. Es wurde sogar vorhergesagt — wortwörtlich, vor einem Vierteljahrhundert.*

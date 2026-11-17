@@ -107,6 +107,7 @@ zusammenfassung: >-
   US-Diesel-Lizenz und die EU-eigenen russischen Gasverträge. Das Muster wird
   als «Schluss ohne Prämissen» beschrieben.
 kritik_schwere: 2
+muster_id: M006
 ---
 
 *Der Beitrag gibt die Schlüsse seiner Quellen weiter, aber nicht deren Grundlagen. Der bulgarische Premier Rumen Radew hält eine ukrainische Täterschaft für sinnlos. SRF übernimmt den Satz, ohne zu sagen, wem die getroffenen Schiffe gehören und wer an Bord war. Am Ende steht ein Konzessivsatz mit einem «ausgerechnet»: Ausgerechnet Radew lehnt Angriffe auf russische Ölinfrastruktur ab und begrüsst die amerikanisch-russische Diesel-Einigung. Was diesen Satz erklären würde, steht nicht im Text: Die einzige Raffinerie Bulgariens gehört mehrheitlich Lukoil, und ihre Ausnahmelizenzen laufen zwei Wochen nach dem Gipfel aus. Ebenso unerwähnt bleiben das ukrainische Schiff unter maltesischer Flagge, der Angriff vom 6. Oktober und die eigenen russischen Energieverträge der EU, die das Wort «gleichermassen» relativieren.*

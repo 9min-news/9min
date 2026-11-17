@@ -104,6 +104,7 @@ zusammenfassung: >-
   Redaktionsfeststellung übernimmt. Die Allaussage, keine Demokratie erlasse
   Vorsorgegesetze, ist durch den AI Act widerlegt.
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *Der Titel verteilt die Rollen, bevor der erste Satz fällt: «Die Demokratie als Opfer der Technologie». Die künstliche Intelligenz «könne das und tue das», Staaten und Parlamente erleiden. Getragen wird das Bild von einem Satz, den die Redaktion im Indikativ und ohne Zuschreibung setzt: «Und in keiner Demokratie besteht die Bereitschaft, Gesetze und Regelwerke zu erlassen für künftige Bedrohungen.» Die Machtverschiebung belegt ein einziger Vergleich, Nvidia als Mittelmacht, dessen Methode der Beitrag nicht nennt. Verschwiegen wird, dass die EU ein vorausschauendes KI-Gesetz erlassen hat, dass Washington über Nvidias Exporte bestimmt und dass Europas Demokratien aufrüsten, ohne dafür reihenweise abgewählt zu werden.*

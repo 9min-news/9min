@@ -62,6 +62,7 @@ quelle_format: Broadcast
 quelle_sendung: SRF 4 News aktuell
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M001
 ---
 
 *SRF meldet den Rücktritt von Trumps Pressesprecherin Karoline Leavitt und rahmt ihn als Verlust für den Präsidenten. Ein deutscher Politikprofessor erklärt, was Trump verliert, wie Leavitt diente, warum sie ging. Der Beitrag blendet systematisch aus, ob Leavitts Rücktritt tatsächlich ein Verlust ist oder ob Trump ersetzt, was er ersetzen kann. Er verschweigt, dass die Presse, die Leavitt briefte, selbst einseitig berichtete. Er verschweigt, ob die «Realität», die Leavitt vertrat, eine Realität war, die Millionen Amerikaner teilen. Der Beitrag ist ein Experteninterview, das eine politische These als Analyse verkauft.*

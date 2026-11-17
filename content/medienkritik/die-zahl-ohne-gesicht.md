@@ -61,6 +61,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *Der Beitrag meldet einen Rekord: 164'336 Menschen unter Kesb-Massnahmen, 3,4 Prozent Zunahme, Höchststand seit Beginn der Erhebung. Die vollständige Auskunft über die Betroffenen: ein Drittel Kinder, zwei Drittel Erwachsene. Das ist alles. Keine Nationalität, kein Migrationsstatus, keine Staatsangehörigkeit, keine Massnahmenart, kein Kanton, keine Schwere der Eingriffe. Eine Zahl von dieser Grösse, staatliche Eingriffe in Familien und in die Handlungsfähigkeit Erwachsener, erscheint als reines Aggregat: ein Block, gewachsen um 3,4 Prozent, erklärt durch die Institution, die die Massnahmen anordnet. Der Beitrag nennt die Zahl und fragt nicht ein einziges Mal, aus wem sie besteht.*

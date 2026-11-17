@@ -3,8 +3,9 @@ title: 'Das Haus, das die Nationalbank baute'
 date: '2026-04-01'
 status: published
 type: analyse
-seriesIndex: 5
-coverImage: 'https://pbs.twimg.com/media/HE1NP5BXIAEYxZQ.jpg'
+series: 'Einzelstücke'
+seriesIndex: 1
+coverImage: '/images/essays/das-haus-das-die-nationalbank-baute.jpg'
 tweetId: '2039371201521353106'
 categories:
   - Wirtschaft

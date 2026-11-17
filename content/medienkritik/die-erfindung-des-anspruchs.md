@@ -68,6 +68,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Wie SRF einen Leistungsausbau zum Besitzstand erklärt — und den Schutz der Steuerzahler zum Angriff auf Kinder umdeutet*

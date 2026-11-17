@@ -67,6 +67,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M003
 ---
 
 *Dieser SRF-Beitrag fasst die zweite SRG-Umfrage von GFS Bern zu den Abstimmungen vom 14. Juni zusammen — zur SVP-Initiative «Keine 10-Mio-Schweiz» und zum Zivildienstgesetz. Umfragejournalismus ist heikel, weil er nicht bloss berichtet, was die Leute denken, sondern selbst beeinflusst, was sie denken werden: Wer als «im Trend liegend» gilt, mobilisiert; wer als «chancenlos» dasteht, demobilisiert. Gerade deshalb lohnt der genaue Blick darauf, welche Zahl in den Vordergrund gerückt wird, welcher Vorbehalt in den Nebensatz wandert und wie die Methodik dargestellt wird.*

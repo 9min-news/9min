@@ -102,6 +102,7 @@ zusammenfassung: >-
   demokratische Legitimation des Schweizer Bekenntnisses wird nicht
   thematisiert.
 kritik_schwere: 3
+muster_id: M007
 ---
 
 *Zwei Prozentpunkte in acht Jahren: So stark ist der Anteil des Stroms am weltweiten Endenergieverbrauch laut Internationaler Energieagentur zwischen 2015 und 2023 gewachsen, von 18 auf rund 20 Prozent. SRF präsentiert die Formel «35 bis 35» als «das grosse Ziel» und als Gewinn fürs Klima. Schon der zweite Absatz stellt den Strom jenen Energieträgern gegenüber, die «direkt» aus Kohle, Öl und Gas kommen. Was der Beitrag verschweigt: Nur gut 40 Prozent des Weltstroms stammen aus Erneuerbaren und Kernkraft, der Rest überwiegend aus ebendiesen fossilen Quellen. Die Schweiz unterstützt das Ziel. Ob es sie bindet, wer darüber entschieden hat und wer den Ausbau bezahlt, erfährt der Stimmbürger nicht.*

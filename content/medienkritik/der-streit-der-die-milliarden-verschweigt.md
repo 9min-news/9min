@@ -68,6 +68,7 @@ quelle_format: Online-Artikel
 quelle_sendung: HeuteMorgen
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M002
 ---
 
 *SRF meldet einen Kommissionsstreit über die internationale Zusammenarbeit und rahmt ihn als Parlamentskränkung. Der Bundesrat habe Vorentscheide getroffen, das Parlament übergangen. Eine Mehrheit empört, eine Minderheit von «gespielter Empörung». Der Beitrag verschweigt die Gesamtszahl der Auslandhilfe — rund 3 Milliarden Franken pro Jahr. Er verschweigt die Frage, ob die Hilfe funktioniert. Er verschweigt die Empfänger und ihre Bilanzen. Und er verschweigt die 5 Milliarden für die Ukraine, die nebenbei weiterfliessen. Er ist eine Parlamentsnotiz, die einen Streit über Verfahren meldet — und den Streit über die Substanz verschweigt.*

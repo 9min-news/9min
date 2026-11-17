@@ -66,6 +66,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 SRF berichtet am 28. März über [«Die Schweiz im Visier des hybriden russischen Kriegs»](https://www.srf.ch/news/dialog/sicherheit-die-schweiz-im-visier-des-hybriden-russischen-kriegs). Der Titel ist gross. Der Beleg ist kleiner.

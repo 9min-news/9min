@@ -57,6 +57,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News International
 kritik_schwere: 2
+muster_id: M004
 ---
 
 *Was hat dieser Text auf der Website eines gebührenfinanzierten öffentlichen Rundfunks verloren? Die ehrliche Antwort lautet: Es ist eine Werbeanzeige für ein deutsches Privatunternehmen, die nur nicht als solche gekennzeichnet ist. Flixbus hätte für eine vergleichbare Platzierung — Markenname in der Schlagzeile, Logo-grünes Bild des eigenen Busses, die augenzwinkernde «Highway to Hel»-Story, das alles auf dem Newsportal des meistbesuchten Schweizer Senders — vermutlich einen vier- bis fünfstelligen Betrag zahlen müssen. Hier bekommt das Unternehmen es vermutlich (?) geschenkt. Und genau darin liegt der eigentliche Skandal dieser harmlos wirkenden Glosse.*

@@ -71,6 +71,7 @@ quelle_format: ''
 quelle_sendung: ''
 quelle_redaktion: ''
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *9min zu 9min — Teil 4 der Serie. Im *[September 2022 schrieb Nayib Bukele](https://bitcoinmagazine.com/print/stop-drinking-the-elites-kool-aid)* (*@nayibbukele)* *[ein Essay,](https://bitcoinmagazine.com/print/stop-drinking-the-elites-kool-aid)* das die westliche Wirtschaftspresse als Verzweiflungsschrei las. Vier Jahre später liest er sich anders.*

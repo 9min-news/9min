@@ -107,6 +107,7 @@ zusammenfassung: >-
   den Vorwurf des Gefälligkeitsgutachtens ungeprüft und lässt die Gutachter
   nicht zu Wort kommen.
 kritik_schwere: 3
+muster_id: M008
 ---
 
 *Seit 1894/95 hängen 16 geschnitzte Holzköpfe in einer Aula, die laut Schulvorsteher «nur selten» für den regulären Unterricht genutzt wird. Ein neues Gutachten soll nun ausgerechnet «die schulische Nutzung des Saals» untersuchen. SRF setzt «Koloniales Erbe» als Dachzeile über die Meldung und stellt in der Infobox das Gutachten von 2025 als Gegenposition zu den städtischen Fachstellen dar, obwohl dieses Gutachten beides festhält: das rassistische Weltbild und die fehlende Diskriminierung. Wer das Gutachten bestellt hat, wer es geschrieben hat und mit welchem Druckmittel die Alternative Liste die Debatte erzwang, erfährt der Leser nicht. Für den Stimm- und Steuerbürger geht es darum, wer in Zürich festlegt, was als rassistisch gilt, und wie oft er dafür bezahlt.*

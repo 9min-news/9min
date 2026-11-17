@@ -74,6 +74,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M005
 ---
 
 *Zur SRF-Berichterstattung *[«Der kanadische Premierminister macht Europa Mut»](https://www.srf.ch/news/international/epg-treffen-in-armenien-der-kanadische-premierminister-macht-europa-mut)* von Charles Liebherr, Echo der Zeit, 4. Mai 2026*

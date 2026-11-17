@@ -73,6 +73,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M002
 ---
 
 *Dieser SRF-Beitrag über den AfD-Bundesparteitag in Erfurt ist ein Lehrstück in Protest-zentrierter Berichterstattung: Eine demokratisch gewählte Partei hält ihren Parteitag ab — und SRF berichtet primär über diejenigen, die den Parteitag verhindern wollen. Die AfD kommt vor als Anlass für Protest, nicht als politischer Akteur mit Inhalten. Was im Saal gesagt wurde, ausser drei Sätzen, fehlt. Was die Partei plant, fehlt. Was die Delegierten denken, fehlt. Was die Wähler erwarten, fehlt. Dafür erfahren wir, dass 20'000 Menschen durch Erfurt zogen, dass Sitzblockaden stattfanden, dass die Autobahn gesperrt wurde, dass Pyrotechnik flog und dass die Polizei Pferde und Wasserwerfer bereithielt. Der Beitrag klingt wie Politikberichterstattung, aber er ist keine — denn Politikberichterstattung berichtet über Politik, und dieser Beitrag berichtet über Logistik.*

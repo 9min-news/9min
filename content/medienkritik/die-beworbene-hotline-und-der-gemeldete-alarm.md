@@ -60,6 +60,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M008
 ---
 
 *Dieser SRF-Beitrag ist eine Agenturmeldung über die neue Opferhilfe-Statistik des Bundesamts für Statistik: 2025 wurden sieben Prozent mehr Beratungen durchgeführt als im Vorjahr, die ausbezahlten Entschädigungen stiegen um zehn Prozent. An eine Kurzmeldung sind keine Recherche-Massstäbe anzulegen — sie soll knapp und korrekt referieren, was eine amtliche Quelle vermeldet. Das tut sie. Trotzdem lohnt der Blick, denn der Titel trifft eine Wertung, die die Zahl nicht hergibt, und der ganze Vorgang steht in einem Kontext, den der Beitrag verschweigt: Bund und Sender betreiben seit Monaten eine gross angelegte, koordinierte Werbekampagne für genau diese Hilfsangebote.*

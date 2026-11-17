@@ -72,6 +72,7 @@ quelle_format: Broadcast
 quelle_sendung: SRF 4 News
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M014
 ---
 
 *Fünf SRF-Beiträge in vier Tagen zu einer Landtagswahl — die Demokratie (07.09.), der Verfassungsschutz (08.09.), die Kanzlerschaft (07.09.), das Hufeisen mit Wagenknecht (09.09.) —, und nun, wenn die heimischen Winkel erschöpft sind, wird der Zeuge importiert: Warschau. Der Titel verspricht zu erklären, «warum der Aufstieg der AfD tief verwurzelte Ängste weckt» — und liefert die Angst als Analyse: «Bei vielen Polinnen und Polen ist ein Misstrauen geblieben», «In Polen fürchtet man», «Man rechnet damit, dass ein Überfall bevorstehen könnte». Wer rechnet? Kein Historiker, kein Sicherheitsexperte, kein einziger namentlicher Pole ausser Regierungspolitikern — die Korrespondentin ist das Medium, durch das die polnische Kollektivseele spricht. Tusk darf die eigene Wählerschaft «Idioten oder Verräter» nennen — SRF nennt es «unkonventionell scharf» und erklärt die Logik. Grzegorz Braun aber, der im Präsidentschaftswahlkampf rund 14 Prozent holte, wird als Rand abgetan — obwohl dieser «Rand» samt Konfederacja und PiS etwa die Hälfte Polens ist, die sich über den AfD-Triumph nicht fürchtet, sondern freut. Und die «alte Haltung», die Polen wirklich kennt — Moskau und Berlin auf Augenhöhe über die Köpfe der Kleinen —, hat nicht der Rand praktiziert, sondern die Mitte: Nord Stream, zweimal, gegen polnischen Protest, gebaut von Schröder und Merkel. Die Angst ist echt. Die Analyse fehlt — durchweg.*

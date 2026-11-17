@@ -105,6 +105,7 @@ zusammenfassung: >-
   Schuldenstand oder kantonalen Steuerfuss-Vergleich weglässt. Die Konversion
   der SVP ersetze die sachliche Prüfung der Alternativen.
 kritik_schwere: 2
+muster_id: M006
 ---
 
 *Der Titel setzt das Ergebnis als Zwang: Die Gegner der Steuererhöhung «müssen» die Steuern erhöhen. Im Fliesstext heisst derselbe Vorgang korrekt «beantragen». Die Notwendigkeit wandert jedoch im Lauf des Beitrags von den Quellen in die Stimme der Redaktion. Erst sind es «Kritiker», die sagen, nichts führe an höheren Steuern vorbei. Dann formuliert der Beitrag in eigener Stimme: «Die Steuern müssen rauf». Die Bildlegende schliesst mit «Die Finanzprobleme blieben aber die gleichen». Der Seitenwechsel der SVP dient als Beweis, dass es keine Alternative gab. Die einzige Finanzgrösse im ganzen Beitrag ist der Steuerfuss «von 116 auf 122 Prozent». Wie viele Franken der Gemeinde fehlen und wo 122 Prozent im kantonalen Vergleich stehen, verschweigt er.*

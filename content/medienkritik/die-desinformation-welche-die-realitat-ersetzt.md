@@ -62,6 +62,7 @@ quelle_format: Online-Artikel
 quelle_sendung: SRF dialog
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *RTS und SRF berichten über zunehmende Gewalt gegen ukrainische Flüchtlinge in Polen und rahmen sie als Produkt russischer Desinformation und rechtskonservativer Hetze. Ein ukrainischer Akzent führt zu Übergriffen, ein historisches Massaker wird in sozialen Medien instrumentalisiert. Was nicht vorkommt: die Frage, ob eine Million Flüchtlinge auf ein Land der Grösse Polens wirtschaftliche und soziale Spannungen erzeugen, die ganz ohne russische Hilfe entstehen. Was nicht vorkommt: die Streichung des Sonderstatus als reale Ursache für Frustration. Der Beitrag ist eine geopolitische Deutung, die die hausgemachten Probleme ausblendet.*

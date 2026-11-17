@@ -64,6 +64,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News Wirtschaft
 kritik_schwere: 2
+muster_id: M017
 ---
 
 *Wie SRF die Diagnose stellt und die Therapie verweigert — und dabei beweist, was es bestreitet*

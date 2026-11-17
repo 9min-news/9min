@@ -67,6 +67,7 @@ quelle_format: Online-Artikel
 quelle_sendung: News Plus
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Zu zwei SRF-Beiträgen derselben Woche: *[«Impfstoffe: vom Goldesel zum Verlustgeschäft»](https://www.srf.ch/news/wirtschaft/nach-corona-pandemie-impfstoffe-vom-goldesel-zum-verlustgeschaeft)* (17.4.2026) und *[«1 Milliarde: Hat die Schweiz zu viel für Covid-Impfungen bezahlt?»](https://www.srf.ch/audio/news-plus-das-thema-des-tages-in-15-minuten/1-milliarde-hat-die-schweiz-zu-viel-fuer-covid-impfungen-bezahlt?id=AUDI20260417_NR_0016)* (News Plus, 17.4.2026)*

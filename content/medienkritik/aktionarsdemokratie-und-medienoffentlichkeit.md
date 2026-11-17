@@ -69,6 +69,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Zum SRF-Beitrag *[«Online-Generalversammlung der Swatch-Gruppe in der Kritik»](https://www.srf.ch/news/wirtschaft/virtuelle-generalversammlung-online-generalversammlung-der-swatch-gruppe-in-der-kritik)*, 12. Mai 2026*

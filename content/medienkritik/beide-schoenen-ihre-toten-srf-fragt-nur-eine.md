@@ -101,6 +101,7 @@ zusammenfassung: >-
   genannt, der Titel mit der Hochrechnung statt des Datenstands gerahmt und der
   Vergleich zur ukrainischen Mobilmachung vollständig ausgelassen.
 kritik_schwere: 3
+muster_id: M009
 ---
 
 *Unter einem Bild hält SRF fest, dass Kriegsparteien die eigenen Toten herunterspielen und jene des Gegners überhöhen: «Das dürfte auch im Ukraine-Krieg nicht anders sein.» Zwei Antworten weiter sagt der einzige Experte des Beitrags, die ukrainischen Verluste seien «klar» um ein Vielfaches geringer, und räumt im nächsten Atemzug ein, er kenne die Datenquellen «nicht gut genug, um eine sichere Aussage zu treffen». Der Titel fragt nach einer halben Million gefallener Russen. Diese Zahl steht nicht im Leak, sie ist die Hochrechnung des Experten. Verschwiegen wird, wer die Daten gestohlen hat, und die Skepsis der eigenen Bildlegende wird nur an einer Kriegspartei angelegt. Der Stimmbürger eines neutralen Landes, der über Sanktionen, Neutralität und Wiederausfuhr von Waffen mitentscheidet, erhält so eine halbseitig geprüfte Kriegsbilanz als Faktenbasis, bezahlt mit seinen Gebühren.*

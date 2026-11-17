@@ -114,6 +114,7 @@ zusammenfassung: >-
   Einsatzplanung verschwiegen, während Regierungsangaben die
   Linksextremismus-These stützen.
 kritik_schwere: 3
+muster_id: M005
 ---
 
 *Der Titel leiht sich ein Etikett, das in der Schweiz, auch bei SRF selbst, für das Milieu der Selbstverwalter, Reichsbürger und «souveränen Bürger» steht, und heftet es an die Gewalt in Frankreich: «Die Staatsverweigerer der anderen Art». Die Vorannahme folgt im ersten Absatz. Wer ein Rathaus anzünde, dem gehe es «kaum um Klassengrössen und verstopfte WCs an Gymnasien», und später heisst es: «Es geht offensichtlich nicht um Schulbücher». Der Beitrag beruft sich auf «Die Bilder und die Zahlen aus Frankreich» und nennt keine einzige Zahl, die friedliche Mehrheit schrumpft auf «Zehntausende», und der Seitentitel «Europa in Flammen» macht aus einem Frankreich-Text einen Kontinentalbefund. Verschwiegen werden die Forderungen, mit denen zum Protest aufgerufen wurde, die Grösse dieses Protests und die schwer verletzten Demonstranten.*

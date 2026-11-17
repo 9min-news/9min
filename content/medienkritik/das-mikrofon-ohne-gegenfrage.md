@@ -68,6 +68,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Zur SRF-Berichterstattung *[«Man glaubt uns palästinensischen Journalisten nicht» ](https://www.srf.ch/news/international/gazastreifen-man-glaubt-uns-palaestinensischen-journalisten-nicht)*von Susanne Brunner, Echo der Zeit, 2. Mai 2026*

@@ -107,6 +107,7 @@ zusammenfassung: >-
   Partei unmarkiert. Die eigentliche Ursachenverkettung wird durch Framing
   verzerrt.
 kritik_schwere: 3
+muster_id: M009
 ---
 
 *Der Beitrag gibt dem Problem ein Subjekt, bevor er es beschreibt. Die Dachzeile lautet «Sparmassnahmen des Bundes», der erste Satz «Die Sparmassnahmen des Bundes setzen wichtige IT-Projekte unter Druck», der letzte «Die Sparmassnahmen drohen also, den digitalen Wandel auszubremsen». Dazwischen wird die Kostenexplosion des Migrationsregisters ZEMIS in einem Halbsatz als bekannte Vorgeschichte abgelegt. Der Beitrag verschweigt, dass das Projekt ursprünglich rund 66 Millionen Franken kosten sollte und das SEM selbst «gravierende Fehler» eingeräumt hat. Er nennt auch nicht, um wie viel gekürzt wurde, und damit lässt sich nicht prüfen, ob die Kürzung die Ursache ist oder nur die jüngste.*

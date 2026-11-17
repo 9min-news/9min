@@ -120,6 +120,7 @@ zusammenfassung: >-
   Sprachregion nur am Rand behandelt, und die SVP-Statutenregel, die die freie
   Wahl des Parlaments diszipliniert, bleibt unerwähnt.
 kritik_schwere: 3
+muster_id: M007
 ---
 
 *Zwei Bundesräte aus derselben Zuger Gemeinde: Solange die Kantonsklausel galt, war das ausgeschlossen, seit 1999 ist es bloss ungewohnt. SRF meldet die Kandidatur von SVP-Fraktionschef Thomas Aeschi und schreibt in eigener Stimme in die Bildlegende, seine Chancen dürften wegen der Wahl des ebenfalls aus Zug stammenden Martin Pfister «gesunken sein». Dass der Souverän genau diese Hürde per Abstimmung beseitigt hat, steht nirgends. Für den Stimmbürger geht es um mehr als eine Personalie: Ein Kriterium, das er abgeschafft hat, kehrt als ungeschriebene Regel zurück und erscheint nicht als Vorliebe des Parlaments, sondern als Sachzwang.*

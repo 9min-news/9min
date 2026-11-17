@@ -67,6 +67,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M017
 ---
 
 *«Wer bezahlt die 13. AHV-Rente?» So lautet die Überschrift. Es ist eine vernünftige Frage, und SRF beantwortet sie sachlich: Mehrwertsteuer rauf, oder Lohnabzüge rauf, oder beides. Aber lesen Sie die Frage noch einmal. «Wer bezahlt?» Die Antwort steht in jedem der fünf vorgestellten Geschäfte schon fest, bevor sie ausgesprochen wird — und sie lautet immer gleich: Sie. Der Bürger. Die Arbeiterin. Der Konsument. Was als nüchterne Vorschau auf die Sommersession daherkommt, ist in Wahrheit eine Aufzählung von fünf verschiedenen Wegen, in dieselbe Tasche zu greifen — und die einzige Frage, die das Parlament zu verhandeln scheint, ist nicht ob, sondern wie tief und mit welchem Instrument.*

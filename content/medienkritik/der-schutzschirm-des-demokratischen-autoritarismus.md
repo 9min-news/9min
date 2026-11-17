@@ -66,6 +66,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Zum SRF-Beitrag *[«Parlament in Magdeburg macht sich resilienter gegen AfD»](https://www.srf.ch/news/international/sachsen-anhalt-parlament-in-magdeburg-macht-sich-resilienter-gegen-afd)* vom 23. April 2026*

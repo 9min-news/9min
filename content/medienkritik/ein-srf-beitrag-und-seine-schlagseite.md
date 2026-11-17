@@ -79,6 +79,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 Schauen wir den Beitrag [«Wie soll die Schweizer Neutralität aussehen?» ](https://www.srf.ch/news/schweiz/solidaritaet-mit-der-ukraine-wie-soll-die-schweizer-neutralitaet-aussehen)genauer an, erschienen am 29. April 2026 im Echo der Zeit, verfasst von Tobias Gasser. Er ist ein interessanter Fall. Nicht weil er handwerklich schlecht wäre. Sondern weil er handwerklich kompetent ist und gerade deswegen die Schlagseite des Konsenssenders so schön illustriert.

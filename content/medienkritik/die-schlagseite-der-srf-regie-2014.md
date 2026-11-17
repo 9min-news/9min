@@ -88,6 +88,7 @@ quelle_format: Broadcast
 quelle_sendung: ''
 quelle_redaktion: SRF
 kritik_schwere: 2
+muster_id: M017
 ---
 
 *Eine erweiterte Inhaltsanalyse von 29 SRF-Beiträgen zur **Masseneinwanderungsinitiative**, Februar 2014 – Dezember *2016

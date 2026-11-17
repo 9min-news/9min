@@ -63,6 +63,7 @@ quelle_format: Podcast
 quelle_sendung: News Plus
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *SRF analysiert Trumps Rede — und rahmt sie als strategische Lüge. «Wird bei den Midterms alles mit rechten Dingen zugehen?», lautet der Titel, und die Frage ist rhetorisch: Die Wahlen werden fair sein — Trump bezweifelt das nur, weil er Niederlage fürchtet. Was nicht vorkommt: eine Stimme, die Trumps Bedenken teilt oder auch nur ernst nimmt. Was nicht vorkommt: die deklassierten Dokumente, die Trump referenced — und die erste Analysen als echt beschrieben. Was nicht vorkommt: die Frage, ob die Expertin recht hat — oder ob sie eine Perspektive als Fakt präsentiert. Der Beitrag ist ein Interview ohne Gegeninterview — und die Expertin darf urteilen, ohne dass jemand ihre Urteile prüft.*

@@ -111,6 +111,7 @@ zusammenfassung: >-
   Hausfriedensbruch und Nötigung bestrafte. Damit verschwinde die demokratisch
   2020 gezogene Grenze der Meinungsfreiheit aus dem Bericht.
 kritik_schwere: 3
+muster_id: M005
 ---
 
 *Ein 2,4 Meter hohes Holzkreuz mit der Aufschrift «NOPRIDEMONTH», hineingetragen in einen Pride-Gottesdienst der Zürcher Kirche St. Peter und Paul: Diese Aktion hat das Bezirksgericht Zürich als Diskriminierung gewertet. SRF stellt eine andere Aktion über seinen Bericht, nämlich «Drag-Lesung gestört». Ausgerechnet dort sprach das Gericht laut 20 Minuten vom Vorwurf der Diskriminierung frei und bestrafte Hausfriedensbruch und Nötigung. Der Beitrag zählt auf, was die Staatsanwaltschaft vorwarf, nennt aber keinen einzigen Schuldspruch mit Tatbestand und keinen Freispruch mit Inhalt. Damit verschwindet eine Grenze, die der Stimmbürger 2020 selbst gezogen hat: Wo der strafrechtliche Schutz vor Diskriminierung endet, entscheidet darüber, welche Meinung strafbar ist.*

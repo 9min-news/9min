@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import { Suspense } from 'react'
 import { getArticlesByType, getAllCategories, getAllKritikTypen, getAllMedien } from '@/lib/content'
 import { CategoryFilter } from '@/components/CategoryFilter'
+import { getAllMuster } from '@/lib/muster'
 import { Header } from '@/components/Header'
 import { Footer } from '@/components/Footer'
 
@@ -15,6 +16,10 @@ export default function MediakritikPage() {
   const categories = getAllCategories()
   const kritikTypen = getAllKritikTypen()
   const medien = getAllMedien()
+  const muster = getAllMuster()
+    .filter(m => m.beispielCount > 0)
+    .sort((a, b) => a.id.localeCompare(b.id))
+    .map(m => ({ id: m.id, title: m.title }))
 
   return (
     <>
@@ -47,6 +52,7 @@ export default function MediakritikPage() {
             categories={categories}
             kritikTypen={kritikTypen}
             medien={medien}
+            muster={muster}
           />
         </Suspense>
       </main>

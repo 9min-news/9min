@@ -69,6 +69,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M003
 ---
 
 *SRF meldet den Start der Ja-Kampagne zur Neutralitätsinitiative und rahmt sie als SVP-Projekt. Blocher und Rietiker werden genannt, die SVP als einzige grosse Partei markiert. Was nicht vorkommt: der Wortlaut der Initiative. Was nicht vorkommt: die konkreten Forderungen, über die am 27. September abgestimmt wird. Was nicht vorkommt: die Frage, ob die Initiative ein Anliegen ist, das über die SVP hinausgeht. Der Beitrag ist eine Meldung ohne Inhalt, die eine verfassungspolitische Initiative auf einen Parteitag reduziert.*

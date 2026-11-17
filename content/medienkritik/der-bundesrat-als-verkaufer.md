@@ -68,6 +68,7 @@ quelle_format: Online-Artikel
 quelle_sendung: ''
 quelle_redaktion: EJPD
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *Zur *[Rede von Bundesrat Beat Jans in Baden](https://www.ejpd.admin.ch/de/newnsb/ohmSUIgVXairaBYs7mMc2)*, 7. Mai 2026*

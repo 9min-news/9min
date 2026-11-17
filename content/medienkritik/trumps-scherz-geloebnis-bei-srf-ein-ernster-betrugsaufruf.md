@@ -110,6 +110,7 @@ zusammenfassung: >-
   kalifornische Proposition 50 und der Vergleich mit Schweizer Transparenzregeln
   werden ausgelassen.
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Im September 2026 liess Donald Trump das Publikum am republikanischen Midterm-Parteitag in Dallas ein Gelöbnis sprechen, am 3. November zu wählen, auch unregistriert, und sagte über sich, er werde «cheat like hell like they do»; laut Medienberichten lachte der Saal, mehrere Medien schrieben, Trump habe offensichtlich gescherzt. Bei SRF bleibt davon ein Satz ohne Ort, Datum und Anlass: ein ernst gemeinter Aufruf, zu betrügen. Der Rahmen steht im ersten Absatz. Die Parteien reizen «alle legalen Mittel» aus, «aber» das beschädige die Demokratie, und weil SRF den Korrespondenten nicht urteilen, sondern einordnen lässt, wird aus seiner Meinung eine Einordnung. Wer das Geld gibt, dass das höchste Gericht den Präsidenten gestoppt hat und dass in Kalifornien das Volk über eine Wahlkreiskarte abstimmte, erfährt der Leser nicht. Der Gebührenzahler finanziert damit eine Meinung im Gewand eines Befunds, und der Stimmbürger eines Landes, das selbst über die Finanzierung seiner Politik und seines Rundfunks entscheidet, bekommt legales Politikgeld als Demokratieschaden vorgesetzt.*

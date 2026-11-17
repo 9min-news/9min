@@ -64,6 +64,7 @@ quelle_format: Broadcast
 quelle_sendung: Rendez-vous
 quelle_redaktion: SRF News
 kritik_schwere: 2
+muster_id: M003
 ---
 
 *Dieser SRF-Beitrag über Klimaanlagen in Altersheimen ist ein kleines Lehrstück darüber, wie eine komplexe Frage durch falsche Gewichtung simplifiziert wird. Die naheliegendste Frage — wie viele Menschen in Schweizer Altersheimen tatsächlich an Hitze sterben — wird nicht gestellt. Die naheliegendste Gegenfrage — ob der Wärmeausstoss einer Heim-Klimaanlage im Vergleich zu urbaner Hitzeinsel, Verkehr und Industrie jemals relevant sein wird — wird ebenfalls nicht gestellt. Stattdessen bekommt eine Energiestiftungs-Expertin das letzte Wort mit der Aussage, Klimaanlagen seien «nicht wirklich sinnvoll» — und niemand widerspricht. Das Stück ist nicht falsch, aber es verfehlt seine eigene Leitfrage, weil es die Energiesteuerungsperspektive über die Gesundheitsperspektive stellt.*

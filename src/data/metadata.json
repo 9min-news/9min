@@ -62,7 +62,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "der-cyber-anstieg-den-der-eigene-amtsbericht-nicht-zeigt",
@@ -122,7 +122,7 @@
     "quelle_sendung": "Tagesgespräch",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M009"
   },
   {
     "slug": "der-e-lastwagen-der-sich-ueber-die-steuerbefreiung-rechnet",
@@ -186,7 +186,7 @@
     "quelle_sendung": "RTS 19h30",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M010"
   },
   {
     "slug": "der-jobkiller-den-srf-selbst-nicht-nachweisen-kann",
@@ -244,7 +244,7 @@
     "quelle_sendung": "Club",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M008"
   },
   {
     "slug": "der-mindestlohn-fuer-lehrabgaenger-dessen-preis-niemand-nennt",
@@ -306,7 +306,7 @@
     "quelle_sendung": "Tagesschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M010"
   },
   {
     "slug": "der-saubere-strom-der-ueberwiegend-fossil-bleibt",
@@ -367,7 +367,7 @@
     "quelle_sendung": "HeuteMorgen",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M007"
   },
   {
     "slug": "die-abgeschaffte-gebuehr-die-tschechen-weiter-bezahlen",
@@ -432,7 +432,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M014"
   },
   {
     "slug": "die-abgeschaffte-heiratsstrafe-die-noch-bis-2032-gilt",
@@ -499,7 +499,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M007"
   },
   {
     "slug": "die-brennenden-autos-deren-besitzer-srf-nicht-fragt",
@@ -556,7 +556,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "die-russland-munition-die-das-alte-gesetz-durchliess",
@@ -620,7 +620,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M010"
   },
   {
     "slug": "die-steuerzahler-haben-entschieden-zu-wort-kommen-die-empfaenger",
@@ -680,7 +680,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M009"
   },
   {
     "slug": "gastro-lehre-die-branche-prueft-sich-selbst-und-besteht",
@@ -743,7 +743,7 @@
     "quelle_sendung": "Regionaljournal Ostschweiz",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M009"
   },
   {
     "slug": "rechtsbruch-beim-bundesrat-oder-bloss-lobby-sprech-der-aerzte",
@@ -811,7 +811,7 @@
     "quelle_sendung": "Samstagsrundschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "schmuggelgold-in-schweizer-raffinerien-oder-nur-dubai-gold",
@@ -875,7 +875,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M008"
   },
   {
     "slug": "schweizer-design-das-kein-schweizerkreuz-mehr-tragen-soll",
@@ -944,7 +944,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M005"
   },
   {
     "slug": "schwyz-zahlt-und-zehrt-graubuenden-empfaengt-und-polstert",
@@ -1004,7 +1004,7 @@
     "quelle_sendung": "Regionaljournal Graubünden",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "tropenfische-im-mittelmeer-klimawandel-oder-suezkanal",
@@ -1065,7 +1065,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "ukraine-lieferungen-verboten-aber-faktisch-moeglich",
@@ -1135,7 +1135,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M011"
   },
   {
     "slug": "waechst-die-schweizer-wirtschaft-oder-nur-die-bevoelkerung",
@@ -1190,7 +1190,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M007"
   },
   {
     "slug": "warum-sollte-beim-eu-vertrag-das-volksmehr-genuegen",
@@ -1254,7 +1254,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M005"
   },
   {
     "slug": "wer-hat-die-verwaltung-an-microsoft-gekettet",
@@ -1317,7 +1317,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M010"
   },
   {
     "slug": "wer-zahlt-den-langsameren-bus-wenn-nicht-die-stadt",
@@ -1379,7 +1379,7 @@
     "quelle_sendung": "Regionaljournal Zürich Schaffhausen",
     "quelle_redaktion": "Regionaljournal Zürich Schaffhausen",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M009"
   },
   {
     "slug": "40-milliarden-spaeter",
@@ -1448,7 +1448,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "anfaellig-ist-wer-uns-nicht-hoert",
@@ -1515,7 +1515,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M009"
   },
   {
     "slug": "beide-schoenen-ihre-toten-srf-fragt-nur-eine",
@@ -1577,7 +1577,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M009"
   },
   {
     "slug": "bockiger-ehemann-oder-ein-staat-der-sich-selbst-widerspricht",
@@ -1639,7 +1639,7 @@
     "quelle_sendung": "Regionaljournal Basel Baselland",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M011"
   },
   {
     "slug": "bundesbetrieb-ruag-zahlte-akira-akira-ist-zurueck",
@@ -1703,7 +1703,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M010"
   },
   {
     "slug": "das-gesetz-das-es-angeblich-nicht-gibt",
@@ -1765,7 +1765,7 @@
     "quelle_sendung": "Sternstunde Philosophie",
     "quelle_redaktion": "SRF Kultur",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "das-klimaabkommen-das-seine-unterhaendler-selbst-benoten",
@@ -1837,7 +1837,7 @@
     "quelle_sendung": "Rendez-Vous",
     "quelle_redaktion": "SRF Wissen",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M009"
   },
   {
     "slug": "das-kurier-experiment-von-genf-das-srf-nicht-auswertet",
@@ -1903,7 +1903,7 @@
     "quelle_sendung": "Rundschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M010"
   },
   {
     "slug": "das-potenzial-das-zum-versaeumnis-wird",
@@ -1963,7 +1963,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M007"
   },
   {
     "slug": "das-preisschild-das-srf-der-individualbesteuerung-erspart",
@@ -2033,7 +2033,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M010"
   },
   {
     "slug": "das-protestrezept-das-nur-gelungene-gerichte-kennt",
@@ -2097,7 +2097,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "das-risiko-das-zur-prognose-wurde",
@@ -2151,7 +2151,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF Wissen",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M007"
   },
   {
     "slug": "das-startkapital-ohne-rechnung",
@@ -2214,7 +2214,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M012"
   },
   {
     "slug": "das-vorbild-gegen-wohnungsnot-hat-selbst-wohnungsnot",
@@ -2280,7 +2280,7 @@
     "quelle_sendung": "RTS La Matinale",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M007"
   },
   {
     "slug": "der-absturz-der-vor-dem-general-begann",
@@ -2353,7 +2353,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M011"
   },
   {
     "slug": "der-abzug-der-als-sieg-verbucht-wird",
@@ -2417,7 +2417,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "der-beschuldigte-als-buchhalter",
@@ -2480,7 +2480,7 @@
     "quelle_sendung": "Tagesschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M005"
   },
   {
     "slug": "der-exodus-der-in-der-schweiz-ankam",
@@ -2547,7 +2547,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M009"
   },
   {
     "slug": "der-faktencheck-der-vorwuerfe-zaehlt",
@@ -2614,7 +2614,7 @@
     "quelle_sendung": "Tagesgespräch",
     "quelle_redaktion": "SRF Faktenchecks",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M008"
   },
   {
     "slug": "der-jet-den-das-gesetz-verschont",
@@ -2686,7 +2686,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "der-krawall-war-angekuendigt-srf-nennt-ihn-demo",
@@ -2758,7 +2758,7 @@
     "quelle_sendung": "SRF 4 Nachrichten",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "der-krieg-den-srf-auf-klimawende-prueft",
@@ -2814,7 +2814,7 @@
     "quelle_sendung": "Heute Morgen",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M010"
   },
   {
     "slug": "der-krieg-der-als-iran-politik-durchgeht",
@@ -2884,7 +2884,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF 4 News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "der-leere-see-der-zu-zwei-dritteln-voll-ist",
@@ -2952,7 +2952,7 @@
     "quelle_sendung": "Tagesschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "der-linke-krawall-den-im-srf-bericht-nur-buergerliche-benennen",
@@ -3031,7 +3031,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "der-praesident-im-titel-die-behoerde-im-passiv",
@@ -3106,7 +3106,7 @@
     "quelle_sendung": "Club",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M012"
   },
   {
     "slug": "der-rabatt-der-die-differenz-nicht-erklaert",
@@ -3167,7 +3167,7 @@
     "quelle_sendung": "Tagesschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "der-redaktor-zitiert-den-aufruf-die-meldung-raetselt",
@@ -3237,7 +3237,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "der-rhein-ist-unterbrochen-und-das-schiff-legt-ab",
@@ -3306,7 +3306,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "der-staat-bestellt-der-staat-staunt",
@@ -3372,7 +3372,7 @@
     "quelle_sendung": "HeuteMorgen",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M005"
   },
   {
     "slug": "der-tiktok-freispruch-den-der-mitautor-selbst-verweigert",
@@ -3444,7 +3444,7 @@
     "quelle_sendung": "Forum",
     "quelle_redaktion": "RTS",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "der-wolfsforscher-dem-srfs-eigener-link-widerspricht",
@@ -3512,7 +3512,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF Wissen",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "der-zins-als-zeugnis",
@@ -3579,7 +3579,7 @@
     "quelle_sendung": "Tagesschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "die-750-000-franken-die-srf-nicht-nachrechnete",
@@ -3650,7 +3650,7 @@
     "quelle_sendung": "Rendez-Vous",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M008"
   },
   {
     "slug": "die-779-festnahmen-die-im-echo-nicht-vorkommen",
@@ -3723,7 +3723,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "die-ablehnung-ohne-abreise",
@@ -3787,7 +3787,7 @@
     "quelle_sendung": "Rundschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "die-aerzteschulung-deren-inhalt-srf-nie-zeigt",
@@ -3862,7 +3862,7 @@
     "quelle_sendung": "Reporter",
     "quelle_redaktion": "SRF Kultur",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M012"
   },
   {
     "slug": "die-affaere-ist-erwiesen-gefragt-wird-nach-der-intrige",
@@ -3931,7 +3931,7 @@
     "quelle_sendung": "HeuteMorgen",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M014"
   },
   {
     "slug": "die-ahv-steuer-die-nur-die-haelfte-bezahlt",
@@ -4000,7 +4000,7 @@
     "quelle_sendung": "Arena",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M011"
   },
   {
     "slug": "die-anklage-gegen-amaudruz-die-srf-ohne-antwort-sendet",
@@ -4074,7 +4074,7 @@
     "quelle_sendung": "Samstagsrundschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-auslaender-um-die-es-nicht-geht",
@@ -4143,7 +4143,7 @@
     "quelle_sendung": "Eco Talk",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "die-bargeld-abstimmung-die-srf-zuerich-verschweigt",
@@ -4215,7 +4215,7 @@
     "quelle_sendung": "Regionaljournal Zürich Schaffhausen",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "die-drag-lesung-fuer-die-niemand-wegen-hass-verurteilt-wurde",
@@ -4281,7 +4281,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M005"
   },
   {
     "slug": "die-drosselung-die-einen-absender-bekam",
@@ -4346,7 +4346,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-faeden-die-kein-dokument-zieht",
@@ -4418,7 +4418,7 @@
     "quelle_sendung": "Radio SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-glaeubigerin-die-vor-den-schulden-warnt",
@@ -4490,7 +4490,7 @@
     "quelle_sendung": "Tagesschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "die-kantonsklausel-1999-abgeschafft-lebt-in-srf-bildlegenden",
@@ -4569,7 +4569,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M007"
   },
   {
     "slug": "die-klimarangliste-in-der-greenpeace-die-schweiz-benotet",
@@ -4635,7 +4635,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M008"
   },
   {
     "slug": "die-kostenneutralitaet-die-jedes-jahr-vier-prozent-waechst",
@@ -4701,7 +4701,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M005"
   },
   {
     "slug": "die-lehre-die-seit-2022-auf-dem-tisch-lag",
@@ -4774,7 +4774,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M005"
   },
   {
     "slug": "die-luecke-die-erst-erklaert-wird-wenn-sie-sich-schliesst",
@@ -4838,7 +4838,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M008"
   },
   {
     "slug": "die-nationalbank-verdient-wenn-unser-franken-schwaecher-wird",
@@ -4898,7 +4898,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "die-proteste-die-nur-als-umfragewert-vorkommen",
@@ -4968,7 +4968,7 @@
     "quelle_sendung": "SRF 4 News aktuell",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "die-rettung-ohne-preisschild",
@@ -5039,7 +5039,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M010"
   },
   {
     "slug": "die-stabilitaet-die-der-gepruefte-selbst-definiert",
@@ -5102,7 +5102,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF Wirtschaftsredaktion",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M007"
   },
   {
     "slug": "die-steuer-die-den-raucher-braucht",
@@ -5162,7 +5162,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M007"
   },
   {
     "slug": "die-stichwahl-ohne-waehler",
@@ -5225,7 +5225,7 @@
     "quelle_sendung": "10vor10",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "die-strafe-die-fuer-erledigt-erklaert-wird",
@@ -5292,7 +5292,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-waffen-schweigen-die-stadt-auch",
@@ -5365,7 +5365,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M011"
   },
   {
     "slug": "die-zweite-fassung-als-erste-nachricht",
@@ -5429,7 +5429,7 @@
     "quelle_sendung": "Radio SRF 3",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M009"
   },
   {
     "slug": "doppelt-so-viele-arme-ohne-einen-franken-weniger",
@@ -5493,7 +5493,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M009"
   },
   {
     "slug": "ein-gutachten-sagt-nicht-diskriminierend-zuerich-verlangt-ein-neues",
@@ -5555,7 +5555,7 @@
     "quelle_sendung": "Regionaljournal Zürich Schaffhausen",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M008"
   },
   {
     "slug": "ein-justizfall-in-dem-nur-einer-handelt",
@@ -5632,7 +5632,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M005"
   },
   {
     "slug": "ein-verbot-im-eigenen-garten-erzaehlt-als-branchensorge",
@@ -5693,7 +5693,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M010"
   },
   {
     "slug": "eine-eiskappe-auf-baffin-wird-zur-abgesagten-eiszeit",
@@ -5763,7 +5763,7 @@
     "quelle_sendung": "Albachiara week-end",
     "quelle_redaktion": "RSI",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M007"
   },
   {
     "slug": "eine-wahlempfehlung-gesendet-als-expertise",
@@ -5834,7 +5834,7 @@
     "quelle_sendung": "Club",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M009"
   },
   {
     "slug": "feuerwerksinitiative-seit-wann-sind-875-000-franken-ein-kleines-budget",
@@ -5903,7 +5903,7 @@
     "quelle_sendung": "Arena",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M009"
   },
   {
     "slug": "fuer-afrika-gefordert-in-die-schweizer-staatskasse-bezahlt",
@@ -5979,7 +5979,7 @@
     "quelle_sendung": "10vor10",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M009"
   },
   {
     "slug": "gefragt-wird-nach-trump-annulliert-wurde-in-rumaenien",
@@ -6048,7 +6048,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "gerecht-oder-letztlich-gerecht",
@@ -6122,7 +6122,7 @@
     "quelle_sendung": "Tagesgespräch",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M010"
   },
   {
     "slug": "gespart-wird-was-der-monat-frisst",
@@ -6182,7 +6182,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M011"
   },
   {
     "slug": "gespendet-wird-was-noch-nicht-finanziert-ist",
@@ -6247,7 +6247,7 @@
     "quelle_sendung": "Tagesschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M007"
   },
   {
     "slug": "gezaehlt-nicht-gewogen",
@@ -6317,7 +6317,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "gezeigt-wird-wer-nie-regierte",
@@ -6385,7 +6385,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "habeck-prueft-die-jugend-seine-eigene-bilanz-prueft-niemand",
@@ -6456,7 +6456,7 @@
     "quelle_sendung": "Tagesgespräch",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M005"
   },
   {
     "slug": "italien-bricht-dublin-die-schweiz-passt-sich-an",
@@ -6519,7 +6519,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M013"
   },
   {
     "slug": "iv-sanierung-zehn-franken-abgaben-fuer-jeden-gesparten-franken",
@@ -6582,7 +6582,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M005"
   },
   {
     "slug": "kaputtgespart-oder-verplant",
@@ -6648,7 +6648,7 @@
     "quelle_sendung": "HeuteMorgen",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M009"
   },
   {
     "slug": "kein-geld-vom-staat-nur-schutz-durch-den-staat",
@@ -6711,7 +6711,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M010"
   },
   {
     "slug": "olympia-2038-private-buergen-fuer-200-steuerzahler-zahlen-400",
@@ -6776,7 +6776,7 @@
     "quelle_sendung": "Eco Talk",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M007"
   },
   {
     "slug": "opfer-der-technologie-oder-opfer-der-auswahl",
@@ -6837,7 +6837,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "persoenliche-gruende-oeffentlich-ausgebreitet-bebildert-mit",
@@ -6908,7 +6908,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M008"
   },
   {
     "slug": "polen-rechtsstaat-gegen-dschungel-oder-zwei-lager-im-gericht",
@@ -6975,7 +6975,7 @@
     "quelle_sendung": "Tagesschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "rekrutenhaus-bei-kiew-der-faktencheck-ohne-mobilisierung",
@@ -7044,7 +7044,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF Faktenchecks",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M005"
   },
   {
     "slug": "schritt-weiter-oder-schritt-zurueck",
@@ -7112,7 +7112,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "schulbuecher-oder-spritpreise",
@@ -7179,7 +7179,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M005"
   },
   {
     "slug": "sechzehn-milliarden-fuer-enteignung-bei-srf-bloss-moral",
@@ -7256,7 +7256,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M007"
   },
   {
     "slug": "sieben-milliarden-eine-stimme",
@@ -7333,7 +7333,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M007"
   },
   {
     "slug": "spaniens-regierung-unterstuetzt-den-streik-gegen-ihre-eigene-bilanz",
@@ -7404,7 +7404,7 @@
     "quelle_sendung": "Tagesschau kompakt",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "srf-trennt-demo-und-krawall-sauberer-als-es-war",
@@ -7465,7 +7465,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "srfs-pubertaetsblocker-schlagzeile-stuetzt-sich-auf-einen-nebensatz",
@@ -7533,7 +7533,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M008"
   },
   {
     "slug": "trump-gratuliert-und-srf-vergisst-die-eigene-warnung",
@@ -7610,7 +7610,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "trump-im-kasten-unschuldig-in-der-srf-werbung-strippenzieher",
@@ -7675,7 +7675,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M009"
   },
   {
     "slug": "trumps-scherz-geloebnis-bei-srf-ein-ernster-betrugsaufruf",
@@ -7741,7 +7741,7 @@
     "quelle_sendung": "NewsPlus",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "uebergriff-oder-bewerbung",
@@ -7812,7 +7812,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "vertrauen-oder-ankauf",
@@ -7875,7 +7875,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "vier-jahre-zurueck-keinen-tag-zurueck",
@@ -7944,7 +7944,7 @@
     "quelle_sendung": "Tagesgespräch",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "weinfeldens-nein-zum-grabfeld-bei-srf-eine-geschmacksfrage",
@@ -8007,7 +8007,7 @@
     "quelle_sendung": "Sternstunde Religion",
     "quelle_redaktion": "SRF Kultur",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "wer-trump-waehlt-waehlt-autokraten-bis-er-zurueckwechselt",
@@ -8074,7 +8074,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "wer-zahlt-wenn-die-schweiz-trump-wehtun-soll",
@@ -8141,7 +8141,7 @@
     "quelle_sendung": "Gredig direkt",
     "quelle_redaktion": "SRF",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M014"
   },
   {
     "slug": "wie-gross-war-der-letzte-allgaeuer-gletscher-eigentlich",
@@ -8203,7 +8203,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M012"
   },
   {
     "slug": "windparks-erst-am-volk-vorbei-dann-gelebte-demokratie",
@@ -8269,7 +8269,7 @@
     "quelle_sendung": "Regionaljournal Bern Freiburg Wallis",
     "quelle_redaktion": "SRF",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M007"
   },
   {
     "slug": "zehnfacher-nutzen-gerechnet-von-wem",
@@ -8338,7 +8338,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M007"
   },
   {
     "slug": "zofingen-die-ueberstellung-nach-spanien-die-srf-auslaesst",
@@ -8404,7 +8404,7 @@
     "quelle_sendung": "Regionaljournal Aargau Solothurn",
     "quelle_redaktion": "SRF Regionaljournal Aargau Solothurn",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M009"
   },
   {
     "slug": "abgeschafft-wird-was-noch-gilt",
@@ -8466,7 +8466,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M005"
   },
   {
     "slug": "allein-mit-amerikanischen-zieldaten",
@@ -8530,7 +8530,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "ausgerechnet-ohne-rechnung",
@@ -8596,7 +8596,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "das-gestaendnis-das-die-bilanz-ersetzt",
@@ -8658,7 +8658,7 @@
     "quelle_sendung": "Regionaljournal Aargau Solothurn",
     "quelle_redaktion": "SRF Regionaljournal Aargau Solothurn",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "das-lager-das-gezaehlt-wird",
@@ -8730,7 +8730,7 @@
     "quelle_sendung": "Tagesschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "das-profil-das-sich-selbst-bestaetigt",
@@ -8798,7 +8798,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M011"
   },
   {
     "slug": "das-urteil-das-keine-schuld-braucht",
@@ -8857,7 +8857,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "Wirtschaftsredaktion",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M008"
   },
   {
     "slug": "der-kompromiss-der-enger-ist-als-der-vorschlag",
@@ -8927,7 +8927,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M013"
   },
   {
     "slug": "die-begruendung-im-konjunktiv",
@@ -8994,7 +8994,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "die-forderungen-stehen-in-der-bildergalerie",
@@ -9063,7 +9063,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M007"
   },
   {
     "slug": "die-genaueste-zahl-steht-unter-dem-symbolbild",
@@ -9128,7 +9128,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M008"
   },
   {
     "slug": "die-kritik-die-erhoert-wurde",
@@ -9195,7 +9195,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M005"
   },
   {
     "slug": "die-milliarden-ohne-szenario",
@@ -9252,7 +9252,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "die-reform-die-nur-ein-etikett-hat",
@@ -9327,7 +9327,7 @@
     "quelle_sendung": "Tagesschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M009"
   },
   {
     "slug": "die-souveraenitaet-die-als-umsatzeinbusse-verbucht-wird",
@@ -9387,7 +9387,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-sparbilanz-die-bei-2027-aufhoert",
@@ -9448,7 +9448,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M005"
   },
   {
     "slug": "die-steuer-ohne-rente",
@@ -9518,7 +9518,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-unruhe-ohne-adressat",
@@ -9583,7 +9583,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "ein-pressefall-als-fortsetzungsfolge-erzaehlt",
@@ -9649,7 +9649,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M011"
   },
   {
     "slug": "ein-ziel-mit-absender-eine-verfehlung-ohne",
@@ -9713,7 +9713,7 @@
     "quelle_sendung": "Regionaljournal Basel",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "fake-news-aber-welche",
@@ -9789,7 +9789,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "finanzierung-oder-anzahlung",
@@ -9856,7 +9856,7 @@
     "quelle_sendung": "SRF4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M009"
   },
   {
     "slug": "gezaehlt-wird-was-die-bank-verliert",
@@ -9927,7 +9927,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF Wirtschaftsredaktion",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "krieg-oder-schiene",
@@ -9985,7 +9985,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "maechtig-oder-nur-an-der-reihe",
@@ -10055,7 +10055,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M008"
   },
   {
     "slug": "waffen-zum-ausprobieren-streit-um-den-preis",
@@ -10119,7 +10119,7 @@
     "quelle_sendung": "Tagesschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M009"
   },
   {
     "slug": "zwei-machtdemonstrationen-eine-macht",
@@ -10183,7 +10183,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-regel-die-zum-paradox-wird",
@@ -10249,7 +10249,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "Bundeshausredaktion",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M009"
   },
   {
     "slug": "zu-klein-gezaehlt-zu-weich-beschrieben",
@@ -10313,7 +10313,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "die-antworten-welche-die-frage-nicht-kennen",
@@ -10375,7 +10375,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-tausenden-die-der-apparat-schickt",
@@ -10440,7 +10440,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "das-bankett-das-die-pakete-versteckt",
@@ -10506,7 +10506,7 @@
     "quelle_sendung": "SRF 4 Nachrichten",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "die-280-millionen-die-den-zweifel-beweisen",
@@ -10568,7 +10568,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M007"
   },
   {
     "slug": "die-50-grad-die-der-experte-streicht",
@@ -10632,7 +10632,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "die-zwangsverwaltung-die-als-strafaktion-gerahmt-wird",
@@ -10691,7 +10691,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News Wirtschaft",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "das-urteil-das-das-kartell-entlastet",
@@ -10755,7 +10755,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "der-goldstandard-der-im-eigenen-haus-rostet",
@@ -10815,7 +10815,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-strafe-die-zur-wahrung-wurde",
@@ -10889,7 +10889,7 @@
     "quelle_sendung": "SRF 4 News aktuell",
     "quelle_redaktion": "SRF",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M010"
   },
   {
     "slug": "die-ideologie-die-der-nihilismus-tilgt",
@@ -10951,7 +10951,7 @@
     "quelle_sendung": "10vor10",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M005"
   },
   {
     "slug": "die-weissagung-der-cdu",
@@ -11014,7 +11014,7 @@
     "quelle_sendung": "Club",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "hart-fur-die-bank-weich-fur-den-staat",
@@ -11078,7 +11078,7 @@
     "quelle_sendung": "Tagesschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-maschine-lauft-wieder",
@@ -11146,7 +11146,7 @@
     "quelle_sendung": "SRF Sport",
     "quelle_redaktion": "SRF Sport",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-super-app-die-nur-der-andere-hat",
@@ -11212,7 +11212,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-unabhangigen-die-keine-sind",
@@ -11275,7 +11275,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-zahl-ohne-gesicht",
@@ -11330,7 +11330,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "es-kommt-auf-den-kontext-an-ausser-beim-eigenen",
@@ -11399,7 +11399,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "der-fonds-der-die-urne-umgeht",
@@ -11464,7 +11464,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M010"
   },
   {
     "slug": "die-strafe-die-als-lust-erscheint",
@@ -11532,7 +11532,7 @@
     "quelle_sendung": "Tagesschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "vier-szenarien-fur-den-verlierer",
@@ -11601,7 +11601,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M011"
   },
   {
     "slug": "das-etikett-das-als-fakt-durchgeht",
@@ -11665,7 +11665,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "Blick Politik",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "das-screening-das-die-vater-nicht-kennt",
@@ -11723,7 +11723,7 @@
     "quelle_sendung": "RTS CQFD",
     "quelle_redaktion": "SRF",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "der-erfinder-der-sein-eigenes-konzept-pruft",
@@ -11779,7 +11779,7 @@
     "quelle_sendung": "Regionaljournal Basel Baselland",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M005"
   },
   {
     "slug": "der-schock-der-als-programm-dient",
@@ -11841,7 +11841,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "der-tresor-der-im-eigenen-land-steht",
@@ -11899,7 +11899,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M010"
   },
   {
     "slug": "die-1300-franken-die-zweimal-fallen",
@@ -11963,7 +11963,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M005"
   },
   {
     "slug": "die-sicherheit-die-der-selbststandige-nicht-hat",
@@ -12020,7 +12020,7 @@
     "quelle_sendung": "Regionaljournal Ostschweiz",
     "quelle_redaktion": "SRF",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-totung-die-keine-schweizer-frage-bekommt",
@@ -12081,7 +12081,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "der-neue-westen-der-die-alten-fragen-nicht-kennt",
@@ -12142,7 +12142,7 @@
     "quelle_sendung": "RTS Forum",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-angst-die-man-nur-dem-anderen-zubilligt",
@@ -12211,7 +12211,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M015"
   },
   {
     "slug": "die-pramien-die-zu-steuern-werden",
@@ -12271,7 +12271,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M008"
   },
   {
     "slug": "die-rechnung-ohne-gegenrechnung",
@@ -12336,7 +12336,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "der-schutz-der-die-freiheit-ersetzt",
@@ -12396,7 +12396,7 @@
     "quelle_sendung": "Tagesschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M001"
   },
   {
     "slug": "die-linksmeldung-ohne-wahler",
@@ -12460,7 +12460,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-fichen-die-als-alibi-dienen",
@@ -12527,7 +12527,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M013"
   },
   {
     "slug": "die-menschlichkeit-die-das-gesetz-kriminalisiert",
@@ -12592,7 +12592,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "das-vorbild-das-der-beitrag-selbst-nennt-und-nicht-erkennt",
@@ -12657,7 +12657,7 @@
     "quelle_sendung": "SRF 4 Nachrichten",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "die-ausgewogene-propaganda-die-wir-per-zwang-bezahlen",
@@ -12721,7 +12721,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "srf-brainwashing-seit-1990",
@@ -12782,7 +12782,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-diagnose-welche-die-debatte-ersetzt",
@@ -12838,7 +12838,7 @@
     "quelle_sendung": "Regionaljournal Basel",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M016"
   },
   {
     "slug": "die-reinwaschung-die-am-gashahn-vorbeigeht",
@@ -12903,7 +12903,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "die-show-die-analyse-heisst",
@@ -12967,7 +12967,7 @@
     "quelle_sendung": "Tagesschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "der-elefant-im-srf-studio",
@@ -13025,7 +13025,7 @@
     "quelle_sendung": "Gredig direkt",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "der-sorgenvolle-blick-auf-die-demokratie",
@@ -13088,7 +13088,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M005"
   },
   {
     "slug": "der-zeuge-den-man-sich-importiert",
@@ -13153,7 +13153,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M014"
   },
   {
     "slug": "gehutet-wird-was-schmilzt",
@@ -13210,7 +13210,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "zu-gefahrlich-fur-die-ruckkehr-sicher-genug-fur-die-kindheit",
@@ -13263,7 +13263,7 @@
     "quelle_sendung": "Regionaljournal Aargau Solothurn",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "der-beamte-der-die-behorde-verteidigt-die-er-leitete",
@@ -13326,7 +13326,7 @@
     "quelle_sendung": "SRF 4 News aktuell",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M005"
   },
   {
     "slug": "die-schweiz-die-wir-haben-und-die-ch-die-wir-brauchen",
@@ -13396,7 +13396,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-tauschung-die-niemand-beging",
@@ -13458,7 +13458,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "die-erlaubnis-die-keine-ist",
@@ -13515,7 +13515,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News Plus",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-schweizer-die-man-nicht-hinterfragt",
@@ -13572,7 +13572,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "das-frohlocken-das-die-analyse-ersetzt",
@@ -13645,7 +13645,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "das-ziel-das-die-westbindung-erzeugt",
@@ -13702,7 +13702,7 @@
     "quelle_sendung": "Tagesgespräch",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M005"
   },
   {
     "slug": "die-aufarbeitung-die-man-nur-von-anderen-fordert",
@@ -13765,7 +13765,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-todesfalle-die-als-gewissheit-dienen",
@@ -13825,7 +13825,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-etikettierung-die-keine-frage-erlaubt",
@@ -13892,7 +13892,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M001"
   },
   {
     "slug": "das-historische-beispiel-das-die-frage-nicht-beantwortet",
@@ -13953,7 +13953,7 @@
     "quelle_sendung": "10 vor 10",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "das-gericht-das-den-sender-freispricht-und-der-sender-der-daruber-berichtet",
@@ -14009,7 +14009,7 @@
     "quelle_sendung": "Info 3",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M005"
   },
   {
     "slug": "der-beweis-der-immer-noch-fehlt",
@@ -14069,7 +14069,7 @@
     "quelle_sendung": "Tagesschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "das-gefuhl-das-die-tat-ersetzt",
@@ -14122,7 +14122,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M016"
   },
   {
     "slug": "das-zentrum-das-die-souveranitat-verschweigt",
@@ -14184,7 +14184,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "der-doppelganger-der-die-bilanz-ersetzt",
@@ -14242,7 +14242,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "die-besetzung-die-keine-analyse-bekommt",
@@ -14302,7 +14302,7 @@
     "quelle_sendung": "Regionaljournal Zürich Schaffhausen",
     "quelle_redaktion": "SRF",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-schuld-die-vor-dem-beweis-kommt",
@@ -14365,7 +14365,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "srf-ver-baer-bockt",
@@ -14430,7 +14430,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "das-etikett-das-nur-eine-richtung-hat",
@@ -14491,7 +14491,7 @@
     "quelle_sendung": "Tagesschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "das-lager-das-die-verantwortung-verschiebt",
@@ -14552,7 +14552,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "das-nein-das-als-verlust-gerahmt-wird",
@@ -14609,7 +14609,7 @@
     "quelle_sendung": "Tagesschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "der-bias-der-die-realitat-verschweigt",
@@ -14665,7 +14665,7 @@
     "quelle_sendung": "SRF dialog",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "das-lager-das-der-betrug-baute-selektive-aufarbeitung-bei-srf",
@@ -14724,7 +14724,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "das-referendum-das-die-souveranitat-verschweigt",
@@ -14786,7 +14786,7 @@
     "quelle_sendung": "10vor10",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "die-rutschige-rampe-srf-ihre-meinung-ist-gefragt",
@@ -14850,7 +14850,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF 3 Wirtschaft",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "das-thermometer-das-die-fragen-verschluckt",
@@ -14907,7 +14907,7 @@
     "quelle_sendung": "SRF dialog",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "der-fruhwarner-der-zu-spat-kam",
@@ -14963,7 +14963,7 @@
     "quelle_sendung": "SRF 4 News aktuell",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M005"
   },
   {
     "slug": "der-streit-der-die-milliarden-verschweigt",
@@ -15025,7 +15025,7 @@
     "quelle_sendung": "HeuteMorgen",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "die-96-prozent-die-das-problem-relativieren",
@@ -15084,7 +15084,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M007"
   },
   {
     "slug": "der-experte-der-die-eskalation-garantiert",
@@ -15145,7 +15145,7 @@
     "quelle_sendung": "Tagesgespräch",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M007"
   },
   {
     "slug": "der-handelskrieg-der-die-pipeline-verschweigt",
@@ -15205,7 +15205,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "der-preis-der-den-staat-verschweigt",
@@ -15260,7 +15260,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "der-trick-der-als-befund-gerahmt-wird",
@@ -15320,7 +15320,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "das-modell-das-die-tugend-ersetzte",
@@ -15375,7 +15375,7 @@
     "quelle_sendung": "Ratgeber",
     "quelle_redaktion": "SRF Wissen",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M010"
   },
   {
     "slug": "der-pakt-der-nicht-funktioniert",
@@ -15445,7 +15445,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News International",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "die-projektion-die-sich-als-prognose-tarnt",
@@ -15502,7 +15502,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "die-rente-die-man-sich-selbst-organisiert",
@@ -15561,7 +15561,7 @@
     "quelle_sendung": "SRF dialog",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "das-kind-das-den-pull-faktor-verdeckt",
@@ -15623,7 +15623,7 @@
     "quelle_sendung": "SRF 4 News aktuell",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "der-bundesrat-der-die-wirklichkeit-umdefiniert",
@@ -15688,7 +15688,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "der-rucktritt-der-die-bilanz-verdeckt",
@@ -15748,7 +15748,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "der-wegwerfagent-der-die-neutralitat-verdeckt",
@@ -15812,7 +15812,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-mehrwertsteuer-die-das-provisorium-verschweigt",
@@ -15880,7 +15880,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF Wirtschaftsredaktion",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "die-verspatete-und-falsche-einordnung-des-srf",
@@ -15940,7 +15940,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "renitente-asylanten-renitentes-srf",
@@ -15999,7 +15999,7 @@
     "quelle_sendung": "Rundschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "das-urteil-das-die-praxis-verdeckt",
@@ -16053,7 +16053,7 @@
     "quelle_sendung": "HeuteMorgen",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "der-boom-der-die-sanktionsfrage-verdeckt",
@@ -16113,7 +16113,7 @@
     "quelle_sendung": "News Plus",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "der-bundnisbruch-der-die-lastenteilung-verdeckt",
@@ -16182,7 +16182,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-umfrage-die-die-demografie-verdeckt",
@@ -16236,7 +16236,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "das-magnet-das-die-russland-these-stutzt",
@@ -16300,7 +16300,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "der-punk-der-die-brandmauer-verteidigt",
@@ -16361,7 +16361,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-abgabe-welche-die-personenfreizugigkeit-verdeckt",
@@ -16423,7 +16423,7 @@
     "quelle_sendung": "Tagesschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "das-geschenk-das-die-neutralitat-auflost",
@@ -16495,7 +16495,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-drohne-die-den-krieg-verdeckt",
@@ -16561,7 +16561,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "die-expertin-aus-deutschland-welche-die-einwanderung-legitimiert",
@@ -16622,7 +16622,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "das-schweinerennen-das-die-politik-verdeckt",
@@ -16680,7 +16680,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "der-spielraum-der-die-neutralitat-auflost",
@@ -16747,7 +16747,7 @@
     "quelle_sendung": "SRF 4 News / Rendez-vous / Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "die-tragodie-welche-den-betrug-verdeckt",
@@ -16811,7 +16811,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M009"
   },
   {
     "slug": "der-notfallmediziner-der-die-politik-verschreibt",
@@ -16869,7 +16869,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-mulltonne-die-den-wahlerwillen-verdeckt",
@@ -16932,7 +16932,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF 4 News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "der-handschuh-als-burgerrechtsverletzung",
@@ -16990,7 +16990,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "der-prophet-und-das-begrabnis-die-die-krise-inszenieren",
@@ -17046,7 +17046,7 @@
     "quelle_sendung": "Tagesgespräch / Schweiz aktuell",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "der-rabatt-der-die-verantwortung-verschlingt",
@@ -17107,7 +17107,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "der-verlust-der-als-nachricht-gerahmt-wird",
@@ -17165,7 +17165,7 @@
     "quelle_sendung": "SRF 4 News aktuell",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M001"
   },
   {
     "slug": "die-sicherheitsabgabe-welche-die-verantwortungslosigkeit-verdeckt",
@@ -17227,7 +17227,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M001"
   },
   {
     "slug": "der-sieg-der-als-ablenkung-dient",
@@ -17285,7 +17285,7 @@
     "quelle_sendung": "SRF 4 News aktuell",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "die-boni-die-das-systemversagen-verdecken",
@@ -17344,7 +17344,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "die-fassadendemokratie",
@@ -17415,7 +17415,7 @@
     "quelle_sendung": "SRF 4 News aktuell",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-hitze-die-als-kantonsfrage-delegiert-wird",
@@ -17473,7 +17473,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M001"
   },
   {
     "slug": "die-regulierung-die-das-systemversagen-belohnt",
@@ -17534,7 +17534,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "das-tauschungsmanover-als-skandal-weil-es-trump-ist",
@@ -17595,7 +17595,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "der-freiwillige-der-die-zwangsrekrutierung-verdeckt",
@@ -17650,7 +17650,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "die-prophezeiung-die-als-fakt-gerahmt-wird",
@@ -17701,7 +17701,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M007"
   },
   {
     "slug": "das-plagiat-als-rassistische-kampagne",
@@ -17763,7 +17763,7 @@
     "quelle_sendung": "SRF 4 News aktuell",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "der-zweifel-der-als-analyse-gerahmt-wird",
@@ -17827,7 +17827,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "srf-cest-de-la-saucisse-pour-moi",
@@ -17891,7 +17891,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "Feuilleton",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "der-schweizer-tater-der-als-schutzschild-dient",
@@ -17953,7 +17953,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "der-staat-der-den-wohlstand-konsumiert",
@@ -18007,7 +18007,7 @@
     "quelle_sendung": "10vor10",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "der-streit-der-das-system-fragwurdig-macht",
@@ -18070,7 +18070,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "die-krankheit-die-den-impfstatus-verschweigt",
@@ -18125,7 +18125,7 @@
     "quelle_sendung": "SRF dialog",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "das-kind-das-den-krieg-unsichtbar-macht",
@@ -18188,7 +18188,7 @@
     "quelle_sendung": "10vor10",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "die-lockerung-die-das-verbrechen-verdeckt",
@@ -18246,7 +18246,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M001"
   },
   {
     "slug": "der-hungerstein-der-den-kontext-verschluckt",
@@ -18298,7 +18298,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "Gesellschaft",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "der-knirpsschirm-der-den-importierten-krieg-verdeckt",
@@ -18352,7 +18352,7 @@
     "quelle_sendung": "Regionaljournal Basel Baselland",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "das-fauci-tagebuch-wenn-die-wissenschaft-der-botschaft-weicht",
@@ -18440,7 +18440,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "die-rente-die-ohne-verantwortung-auskommt",
@@ -18508,7 +18508,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "der-deutsche-ozeanograph-der-die-alpen-erklart",
@@ -18565,7 +18565,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "der-sommer-der-zur-politischen-veranstaltung-wird-und-zur-geldverteilmaschine",
@@ -18625,7 +18625,7 @@
     "quelle_sendung": "Tagesschau / Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "die-brutalitat-der-einen-seite",
@@ -18683,7 +18683,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "die-desinformation-welche-die-realitat-ersetzt",
@@ -18742,7 +18742,7 @@
     "quelle_sendung": "SRF dialog",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "die-ki-welche-zum-cyberkriminellen-stilisiert-wird",
@@ -18797,7 +18797,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF 3 Wirtschaft",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-loyalitat-die-als-einbahnstrasse-gerahmt-wird",
@@ -18856,7 +18856,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-milliarden-die-als-humanitare-notwendigkeit-gerahmt-werden",
@@ -18915,7 +18915,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "das-heim-das-kein-gefangnis-ist",
@@ -18976,7 +18976,7 @@
     "quelle_sendung": "Regionaljournal Zürich Schaffhausen",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M001"
   },
   {
     "slug": "der-aufschwung-der-als-misserfolg-gerahmt-wird",
@@ -19033,7 +19033,7 @@
     "quelle_sendung": "Tagesschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "der-test-der-bestanden-wurde-und-nie-mehr-passieren-darf",
@@ -19101,7 +19101,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "die-kinder-die-als-schutzschild-dienen",
@@ -19159,7 +19159,7 @@
     "quelle_sendung": "SRF dialog",
     "quelle_redaktion": "RTS",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "die-leeren-lehren",
@@ -19223,7 +19223,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "die-svp-lancierung-ohne-kontext",
@@ -19288,7 +19288,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "das-parlament-das-als-demokratiebeweis-dient",
@@ -19350,7 +19350,7 @@
     "quelle_sendung": "Tagesgespräch",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "der-experte-der-die-rechnung-vergisst",
@@ -19413,7 +19413,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M005"
   },
   {
     "slug": "der-russische-erfolg-der-das-eigene-srf-versagen-verdeckt",
@@ -19473,7 +19473,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "der-sommer-der-als-wahlkampfmaschine-dient",
@@ -19537,7 +19537,7 @@
     "quelle_sendung": "Tagesschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "die-falschinformation-die-als-ursache-dient",
@@ -19595,7 +19595,7 @@
     "quelle_sendung": "SRF 4 News aktuell",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M001"
   },
   {
     "slug": "die-krise-die-zur-kulisse-der-rechten-degradiert-wird",
@@ -19658,7 +19658,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-verschmelzung-die-niemand-hinterfragt",
@@ -19723,7 +19723,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "der-veteran-der-aus-der-zeit-gefallen-sein-soll",
@@ -19783,7 +19783,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "die-streichung-die-zur-notiz-schrumpft",
@@ -19847,7 +19847,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "der-grundungsmythos-der-zur-brauerei-umfrage-verkommt",
@@ -19908,7 +19908,7 @@
     "quelle_sendung": "Tagesschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "die-basecaps-die-den-staat-ersetzen",
@@ -19969,7 +19969,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "die-grundung-die-zur-luge-erklart-wird",
@@ -20031,7 +20031,7 @@
     "quelle_sendung": "SRF Zytlupe",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-heimat-die-keine-prinzipien-hat",
@@ -20090,7 +20090,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "EJPD",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "das-internet-das-als-ursache-dient",
@@ -20146,7 +20146,7 @@
     "quelle_sendung": "10vor10",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "das-gewissen-das-als-argument-dient",
@@ -20209,7 +20209,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "das-urteil-das-die-grenze-auflost",
@@ -20263,7 +20263,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "der-terror-der-als-jugenddelikt-verschwindet",
@@ -20321,7 +20321,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "klimapropaganda-auf-pump-fur-15-mrd-chf-jahrlich",
@@ -20377,7 +20377,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF 4 News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M009"
   },
   {
     "slug": "die-forschung-die-als-propaganda-gerahmt-wird",
@@ -20437,7 +20437,7 @@
     "quelle_sendung": "Tagesschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "das-gefuhl-das-zum-gesetz-wird-die-fucking-srf-ideologie",
@@ -20495,7 +20495,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF Kids",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "das-wegsehen-das-als-argument-dient",
@@ -20552,7 +20552,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "der-anschlag-der-nur-ein-sicherheitsproblem-ist",
@@ -20611,7 +20611,7 @@
     "quelle_sendung": "Tagesschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "der-bewaffnete-arm-der-kein-burger-mehr-ist",
@@ -20670,7 +20670,7 @@
     "quelle_sendung": "Regionaljournal Basel Baselland",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "der-fursprecher-der-die-frage-ersetzt",
@@ -20736,7 +20736,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "der-handwerker-der-kein-politiker-ist",
@@ -20801,7 +20801,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-erfolgsgeschichte-die-keinen-arbeitsplatz-hat",
@@ -20857,7 +20857,7 @@
     "quelle_sendung": "Regionaljournal Zentralschweiz",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "das-system-srf-eine-bestandsaufnahme",
@@ -20933,7 +20933,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M009"
   },
   {
     "slug": "die-lektion-als-losung-ohne-die-verantwortlichen",
@@ -20990,7 +20990,7 @@
     "quelle_sendung": "HeuteMorgen",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "berset-als-integritatsprediger",
@@ -21057,7 +21057,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "leihmutterschaft-als-private-wohlfuhlgeschichte-in-der-politik",
@@ -21115,7 +21115,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "NZZ am Sonntag",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "der-gewalttatige-nihilismus",
@@ -21173,7 +21173,7 @@
     "quelle_sendung": "La Matinale",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "der-moralprediger-der-als-autoritat-gerahmt-wird",
@@ -21234,7 +21234,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News International",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-hypokrisie-die-als-private-frage-gerahmt-wird",
@@ -21304,7 +21304,7 @@
     "quelle_sendung": "Tagesschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "das-elend-das-als-franzosisches-problem-gerahmt-wird",
@@ -21363,7 +21363,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "das-elend-das-im-ausland-immer-grosser-ist-als-zu-hause",
@@ -21420,7 +21420,7 @@
     "quelle_sendung": "Temps présent",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "das-system-das-als-vorbildlich-gerahmt-wird-ohne-dass-jemand-den-betrag-pruft",
@@ -21480,7 +21480,7 @@
     "quelle_sendung": "Tagesschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M009"
   },
   {
     "slug": "die-durre-die-das-narrativ-zerstoren-sollte",
@@ -21534,7 +21534,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "das-misstrauen-des-srf",
@@ -21602,7 +21602,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "der-brandstifter-der-als-schriftsteller-gewaschen-wird",
@@ -21658,7 +21658,7 @@
     "quelle_sendung": "Tagesgespräch",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-bedrohung-ohne-ursache",
@@ -21721,7 +21721,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News International",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "die-expertin-als-tatsacheninstanz-fur-tds",
@@ -21782,7 +21782,7 @@
     "quelle_sendung": "News Plus",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "srf-will-berichten-aber-nur-links",
@@ -21841,7 +21841,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "der-blick-nach-london-der-den-blick-nach-bern-erubrigt",
@@ -21905,7 +21905,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "die-community-fur-heisse-propaganda",
@@ -21965,7 +21965,7 @@
     "quelle_sendung": "dialog",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-kampagne-die-niemand-untersucht",
@@ -22027,7 +22027,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-unbeliebtheit-die-je-nach-adressat-anders-zahlt",
@@ -22091,7 +22091,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-panne-fur-die-niemand-verantwortlich-ist",
@@ -22149,7 +22149,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "das-maximum-das-schon-vorbei-ist",
@@ -22207,7 +22207,7 @@
     "quelle_sendung": "Regionaljournal Zürich Schaffhausen",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "der-aufpreis-der-als-erfolg-gefeiert-wird",
@@ -22273,7 +22273,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "die-justiz-die-nur-trump-instrumentalisiert",
@@ -22346,7 +22346,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "srf-macht-farage-nieder",
@@ -22412,7 +22412,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M005"
   },
   {
     "slug": "der-hinweis-der-alles-sagt",
@@ -22467,7 +22467,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "der-klima-frosch-in-basel",
@@ -22523,7 +22523,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "der-monokausale-wald",
@@ -22582,7 +22582,7 @@
     "quelle_sendung": "Regionaljournal Basel Baselland",
     "quelle_redaktion": "Regionaljournal Basel Baselland",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "die-agenturen-die-srf-ungepruft-ubernimmt",
@@ -22645,7 +22645,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "die-glaubwurdigkeit-die-nur-beim-geldverteilen-zahlt",
@@ -22708,7 +22708,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-steuer-die-gerecht-sein-soll",
@@ -22770,7 +22770,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "Swissinfo",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "brot-und-spiele-2026",
@@ -22838,7 +22838,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "9min.ch",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "der-datenschutzer-der-die-ursachen-vergisst",
@@ -22903,7 +22903,7 @@
     "quelle_sendung": "Tagesgespräch",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "der-prophet-und-die-ungepruften-zahlen",
@@ -22959,7 +22959,7 @@
     "quelle_sendung": "10vor10",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "der-framende-srf-faktencheck",
@@ -23029,7 +23029,7 @@
     "quelle_sendung": "SRF Faktencheck",
     "quelle_redaktion": "SRF Netzwerk Faktencheck",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "der-parteitag-der-nur-als-storung-existiert",
@@ -23097,7 +23097,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "die-grundung-mit-srf-spin-und-ohne-schweiz-bezug",
@@ -23168,7 +23168,7 @@
     "quelle_sendung": "10vor10",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "der-anschlag-ohne-hintergrund",
@@ -23229,7 +23229,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "das-srf-interviewchen-mit-dem-srg-prasidenten",
@@ -23290,7 +23290,7 @@
     "quelle_sendung": "SRF Magazin",
     "quelle_redaktion": "SRF",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M005"
   },
   {
     "slug": "das-verfahren-das-keines-ist-und-die-demokratie-die-niemand-fragt",
@@ -23356,7 +23356,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "der-minderwertige-artikel-uber-minderwertige-artikel",
@@ -23424,7 +23424,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF 3 Wirtschaft",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "die-10000-pfund-und-die-kosten-die-srf-verschweigt",
@@ -23490,7 +23490,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-heimat-der-fragen",
@@ -23548,7 +23548,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "die-kontrolle-die-keine-ist-und-die-zahlen-die-niemand-pruft",
@@ -23609,7 +23609,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "die-sicherheit-die-keine-ist",
@@ -23671,7 +23671,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "das-portrat-und-die-kanzlerin-deren-vermachtnis-zusammenbricht",
@@ -23734,7 +23734,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF Kultur",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M001"
   },
   {
     "slug": "die-krypto-millionen-die-korrekt-gemeldet-wurden",
@@ -23803,7 +23803,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "der-srf-journalist-der-trump-illusionen-hat",
@@ -23878,7 +23878,7 @@
     "quelle_sendung": "HeuteMorgen",
     "quelle_redaktion": "SRF News Wirtschaft",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "der-stille-killer-und-die-laute-statistik",
@@ -23942,7 +23942,7 @@
     "quelle_sendung": "Tagesschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "die-niederlage-ohne-den-sieg",
@@ -24002,7 +24002,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "die-reichen-die-reicher-werden-und-der-journalist-der-die-zahlen-nicht-liest",
@@ -24059,7 +24059,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-verschiebung-und-die-verschleierung",
@@ -24120,7 +24120,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "die-wm-die-ohne-trump-auskommt-srf-spekulation",
@@ -24196,7 +24196,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News International",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "srf-die-15-milliarden-und-die-frage-wer-eigentlich-kontrolliert-eine-strukturana",
@@ -24261,7 +24261,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "das-bad-in-dem-alle-recht-haben",
@@ -24318,7 +24318,7 @@
     "quelle_sendung": "Regionaljournal Bern Freiburg Wallis",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M001"
   },
   {
     "slug": "das-pionierprojekt-das-keines-ist",
@@ -24381,7 +24381,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "Swissinfo",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M009"
   },
   {
     "slug": "der-fonds-der-sich-selbst-rettet",
@@ -24443,7 +24443,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "der-prozess-der-zu-spat-kommt",
@@ -24510,7 +24510,7 @@
     "quelle_sendung": "10 vor 10",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "der-splitter-und-der-balken",
@@ -24581,7 +24581,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "der-srf-framing-betrug",
@@ -24648,7 +24648,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "der-srf-korrespondent-der-etwas-mehr-sieht",
@@ -24718,7 +24718,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-19-namhaften-und-die-wahrscheinlichkeit-des-irrtums",
@@ -24782,7 +24782,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "die-schlappe-die-keine-ist",
@@ -24848,7 +24848,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "die-studie-die-die-politik-macht",
@@ -24914,7 +24914,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "das-schweigen-nach-dem-bericht",
@@ -24990,7 +24990,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "der-kaffeetempel-als-wiederaufbau",
@@ -25057,7 +25057,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-dragqueen-als-aussenpolitik",
@@ -25117,7 +25117,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-eu-als-notlage",
@@ -25184,7 +25184,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-gewalt-die-nicht-nach-weiss-fragt",
@@ -25249,7 +25249,7 @@
     "quelle_sendung": "Tagesschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "der-bauer-der-den-konzern-verteidigt",
@@ -25309,7 +25309,7 @@
     "quelle_sendung": "Tagesgespräch",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-klimaanlage-die-die-welt-erwarmt",
@@ -25369,7 +25369,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "die-selbstgeisselung-als-aussenpolitik",
@@ -25440,7 +25440,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SWI swissinfo.ch",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "das-3x3-der-ch-teil-iii-die-schweiz-ist-eine-idee",
@@ -25504,7 +25504,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "9min.ch",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "das-3x3-der-ch-teil-i-die-schweiz-die-sie-uns-wunschen",
@@ -25577,7 +25577,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "9min.ch",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "das-3x3-der-ch-teil-ii-die-schweiz-die-sie-uns-hinterlassen",
@@ -25652,7 +25652,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "der-protest-der-immer-von-links-gut-aussieht",
@@ -25716,7 +25716,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-demokratie-als-zumutung",
@@ -25780,7 +25780,7 @@
     "quelle_sendung": "Schweiz aktuell",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "acht-jahre-gefangnis-warum",
@@ -25841,7 +25841,7 @@
     "quelle_sendung": "Regionaljournal Aargau Solothurn / Schweiz aktuell",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "crack-im-text-kokain-als-spray",
@@ -25903,7 +25903,7 @@
     "quelle_sendung": "HeuteMorgen / SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "der-mini-schritt-in-die-falsche-richtung",
@@ -25964,7 +25964,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News Wirtschaft",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-geschichte-als-fluchtweg",
@@ -26028,7 +26028,7 @@
     "quelle_sendung": "News Plus",
     "quelle_redaktion": "SRF 4 News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "die-aufrustung-die-schon-wieder-abrustung-ist",
@@ -26087,7 +26087,7 @@
     "quelle_sendung": "SRF 4 News aktuell",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-e-mail-die-es-nicht-geben-durfte",
@@ -26157,7 +26157,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-schule-der-trager",
@@ -26220,7 +26220,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "messerangriff-in-belfast",
@@ -26282,7 +26282,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF 4 News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "die-beworbene-hotline-und-der-gemeldete-alarm",
@@ -26338,7 +26338,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M008"
   },
   {
     "slug": "die-gekreuzigte-junge-frau-dame-dittli",
@@ -26394,7 +26394,7 @@
     "quelle_sendung": "Mise au point",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-schlagseite-der-srf-regie-2014",
@@ -26473,7 +26473,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-srf-schlussfolgerung-der-griechischen-asylpolitik",
@@ -26531,7 +26531,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "fake-news-oder-indoktrination",
@@ -26592,7 +26592,7 @@
     "quelle_sendung": "Regionaljournal Aargau Solothurn",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "eine-studie-zeigt",
@@ -26656,7 +26656,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "operation-gratis-werbung-als-news",
@@ -26712,7 +26712,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-srf-mafia",
@@ -26766,7 +26766,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "kryptische-vorwurfe",
@@ -26832,7 +26832,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "srf-einseitige-ausland-auswahl",
@@ -26897,7 +26897,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "das-mitgefuhl-das-die-richtung-vorgibt",
@@ -26959,7 +26959,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF Investigativ",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M001"
   },
   {
     "slug": "das-srf-wasserchen-das-uns-zurechtweist",
@@ -27014,7 +27014,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "millionare-aus-dem-nichts",
@@ -27069,7 +27069,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "die-ruge-ohne-folgen",
@@ -27130,7 +27130,7 @@
     "quelle_sendung": "Bleisch & Bossart",
     "quelle_redaktion": "SRF",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-umfrage-als-botschaft",
@@ -27194,7 +27194,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "unbegrundet-srf-uber-henry-nowak",
@@ -27259,7 +27259,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "wenn-die-erklarung-zur-anklage-wird",
@@ -27319,7 +27319,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M016"
   },
   {
     "slug": "wenn-die-sympathie-die-prufung-ersetzt",
@@ -27392,7 +27392,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News International",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "das-burkini-gesetz-das-seinen-eigenen-namen-nicht-nennt",
@@ -27450,7 +27450,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M001"
   },
   {
     "slug": "die-grosse-wende",
@@ -27518,7 +27518,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M001"
   },
   {
     "slug": "gratiswerbung-mit-gebuhrengeldern",
@@ -27571,7 +27571,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News International",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "wenn-die-einordnung-die-haltung-verrat",
@@ -27635,7 +27635,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "wer-bezahlt-die-zahl",
@@ -27697,7 +27697,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "die-regelmassigen-krawalle-in-paris-und-srf-dpa",
@@ -27755,7 +27755,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "wenn-der-sieg-brennt",
@@ -27813,7 +27813,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "wer-bezahlt-die-13-ahv-rente",
@@ -27876,7 +27876,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "das-polster-das-niemand-bezahlt",
@@ -27940,7 +27940,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "das-vierteljahrhundert-das-srf-nicht-verstehen-will",
@@ -28006,7 +28006,7 @@
     "quelle_sendung": "Kulturplatz",
     "quelle_redaktion": "SRF Kultur",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "die-burg-der-krieg-und-die-frage-wer-geschossen-hat",
@@ -28065,7 +28065,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-demonstration-die-nicht-stattfinden-durfte-und-doch-stattfand",
@@ -28127,7 +28127,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-gebrochenen-versprechen-deutschland-und-schweiz-gleichzeitig",
@@ -28198,7 +28198,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-nzz-rechnung-die-alles-offenlegt",
@@ -28258,7 +28258,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "das-punktesystem-das-ehrlicher-ist-als-der-srf-kompass",
@@ -28322,7 +28322,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "der-interaktive-kompass-der-die-richtung-schon-kennt",
@@ -28384,7 +28384,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "der-partner-der-keiner-ist-und-die-industrie-die-es-nicht-sagen-darf",
@@ -28443,7 +28443,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "der-professor-der-die-ideologische-reinheit-normalisiert",
@@ -28510,7 +28510,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-familie-die-kassiert-und-die-debatte-die-niemand-sauber-fuhren-will",
@@ -28569,7 +28569,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "Weltwoche Daily",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "der-experte-der-das-system-entlastet",
@@ -28633,7 +28633,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "die-propaganda-die-information-heisst",
@@ -28694,7 +28694,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M005"
   },
   {
     "slug": "die-sauberung-die-srf-als-diskussion-verkauft",
@@ -28757,7 +28757,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M005"
   },
   {
     "slug": "das-mehr-ein-31-jahriger-schweizer-ruft-allahu-akbar",
@@ -28815,7 +28815,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "das-system-das-ihn-schutzte",
@@ -28877,7 +28877,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "der-behordenjournalismus-fakten-ohne-fragen",
@@ -28940,7 +28940,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-beschaftigte-statistik",
@@ -28995,7 +28995,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-ngo-als-quelle-die-quelle-als-wahrheit",
@@ -29054,7 +29054,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M005"
   },
   {
     "slug": "die-prognose-die-schon-einmal-log",
@@ -29120,7 +29120,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M010"
   },
   {
     "slug": "grunpopulistisch",
@@ -29179,7 +29179,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "vier-luckenhafte-satze-fur-drei-verletzte",
@@ -29235,7 +29235,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-43-grad-die-keiner-gemessen-hat",
@@ -29291,7 +29291,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-prominente-wort-eskalation",
@@ -29347,7 +29347,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "Kultur - Gesellschaft & Religion",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-zeitenwende-die-nur-eine-wende-ist",
@@ -29413,7 +29413,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "the-squad",
@@ -29487,7 +29487,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "das-monopol-auf-die-falschung",
@@ -29547,7 +29547,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "20min",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "der-falsche-prazedenzfall",
@@ -29606,7 +29606,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "der-kontext-der-in-kiew-fehlt",
@@ -29663,7 +29663,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "der-monopolist-als-dienstleister",
@@ -29721,7 +29721,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "die-diagnose-als-waffe",
@@ -29784,7 +29784,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "NZZ am Sonntag Meinung",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M016"
   },
   {
     "slug": "die-lektion-aus-san-salvador",
@@ -29851,7 +29851,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-quersubvention",
@@ -29914,7 +29914,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-souverane-abhangigkeit",
@@ -29973,7 +29973,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "in-the-long-run-we-are-all-dead",
@@ -30047,7 +30047,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "alles-nur-kase",
@@ -30117,7 +30117,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News International",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "der-hochmut-der-nzz",
@@ -30183,7 +30183,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "NZZ Meinung",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "der-hochmut-des-haslers",
@@ -30252,7 +30252,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "NZZ Meinung",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M016"
   },
   {
     "slug": "der-kapitalismus-den-wir-nicht-haben",
@@ -30316,7 +30316,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "9min.ch",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M016"
   },
   {
     "slug": "die-ewige-debatte",
@@ -30384,7 +30384,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-freiheit-die-keine-ist",
@@ -30441,7 +30441,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "NZZ am Sonntag",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "die-wichtige-hochzeit-auf-srf-news",
@@ -30501,7 +30501,7 @@
     "quelle_sendung": "SRF News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "das-marchen-vom-marchen",
@@ -30557,7 +30557,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "der-arbeitsmarkt-als-asyl-losung",
@@ -30621,7 +30621,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "EJPD",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "der-harte-kurs-der-keiner-ist",
@@ -30680,7 +30680,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-unendliche-logik",
@@ -30739,7 +30739,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "der-bundesrat-als-prophet",
@@ -30800,7 +30800,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M016"
   },
   {
     "slug": "die-heiligen-flachen",
@@ -30858,7 +30858,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "das-versagen-das-den-staat-ruft",
@@ -30922,7 +30922,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "keins"
   },
   {
     "slug": "der-gesunde-menschenverstand-und-der-kranke-markt",
@@ -30982,7 +30982,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M001"
   },
   {
     "slug": "der-staat-als-vollstrecker",
@@ -31040,7 +31040,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "die-erfindung-der-digitalen-gewalt",
@@ -31099,7 +31099,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M016"
   },
   {
     "slug": "die-erzahlung-vom-zusammenbrechenden-russland",
@@ -31159,7 +31159,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News International",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "die-heiligen-ziele",
@@ -31224,7 +31224,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-selektive-uberwachung",
@@ -31288,7 +31288,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-unmoglichkeit-der-entwarnung",
@@ -31343,7 +31343,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-vermessung-der-ungleichheit",
@@ -31401,7 +31401,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "zwischen-symmetrie-und-schieflage",
@@ -31480,7 +31480,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "Bundeskanzlei",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "der-blinden-fleck-des-konsumentenschutzers",
@@ -31546,7 +31546,7 @@
     "quelle_sendung": "Kassensturz",
     "quelle_redaktion": "SRF",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "der-trojanische-pragmatismus",
@@ -31605,7 +31605,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M001"
   },
   {
     "slug": "die-asymmetrie-der-wahrheit",
@@ -31663,7 +31663,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-notbremse-die-nicht-bremst",
@@ -31721,7 +31721,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-sanftmut-der-strafen",
@@ -31778,7 +31778,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "die-ubergangslosung-die-keiner-braucht",
@@ -31837,7 +31837,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "der-gekrankte-imperator",
@@ -31896,7 +31896,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-diplomatie-der-sterilen-raume",
@@ -31957,7 +31957,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "EDI",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "die-drohkulisse-als-sachinformation",
@@ -32018,7 +32018,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M001"
   },
   {
     "slug": "die-erfindung-des-anspruchs",
@@ -32083,7 +32083,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-exit-strategie-der-projektion",
@@ -32142,7 +32142,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M007"
   },
   {
     "slug": "die-mathematik-des-verschweigens",
@@ -32205,7 +32205,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-statistik-der-gleichgultigkeit",
@@ -32267,7 +32267,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-theologie-der-unschuldsvermutung",
@@ -32332,7 +32332,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "tech-bosse-und-daten-kraken",
@@ -32390,7 +32390,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News Wirtschaft",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "der-tater-der-keiner-sein-darf",
@@ -32443,7 +32443,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-40-jahre-regel",
@@ -32502,7 +32502,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-jungfrau-im-tuch",
@@ -32570,7 +32570,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-sauger-der-gleichgultigkeit",
@@ -32634,7 +32634,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M007"
   },
   {
     "slug": "die-extrahierte-warnung",
@@ -32697,7 +32697,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "die-uhren-der-gleichgultigkeit",
@@ -32761,7 +32761,7 @@
     "quelle_sendung": "Tagesschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-villa-in-kiew-das-srf-muster",
@@ -32829,7 +32829,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-who-der-snus-und-die-definitionsmacht",
@@ -32889,7 +32889,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "modus-vivendi",
@@ -32955,7 +32955,7 @@
     "quelle_sendung": "Samstagsrundschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M001"
   },
   {
     "slug": "der-bergsturz-als-projektionsflache",
@@ -33020,7 +33020,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "der-bundesrat-als-verkaufer",
@@ -33085,7 +33085,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "EJPD",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-elastizitat-der-rechte",
@@ -33146,7 +33146,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-form-die-man-nicht-zeichnen-darf",
@@ -33211,7 +33211,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "9min.ch",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-neutralitat-am-operationstisch",
@@ -33280,7 +33280,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "EDA",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-romcom-der-machtigen",
@@ -33341,7 +33341,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-statistik-der-advocacy",
@@ -33410,7 +33410,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "die-vereinfachte-gewaltformel",
@@ -33475,7 +33475,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF Wissen",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "chancengleichheit-hausgemacht",
@@ -33531,7 +33531,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "der-trotz-der-kommentatoren",
@@ -33601,7 +33601,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "NZZ Meinung",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M016"
   },
   {
     "slug": "die-arena-der-asymmetrien",
@@ -33666,7 +33666,7 @@
     "quelle_sendung": "SRF Arena",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M010"
   },
   {
     "slug": "die-prognose-und-das-verschwiegen",
@@ -33731,7 +33731,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-selbst-validierung-des-systems",
@@ -33806,7 +33806,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "Ombudsstelle der SRG Deutschschweiz",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-statistik-und-das-verschwiegene",
@@ -33866,7 +33866,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "9min-zu-9min",
@@ -33927,7 +33927,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "keins"
   },
   {
     "slug": "das-wort-und-der-fall",
@@ -33990,7 +33990,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "der-blick-nach-italien",
@@ -34046,7 +34046,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-sprache-und-das-schweigen",
@@ -34106,7 +34106,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "die-studie-die-alles-erklart",
@@ -34166,7 +34166,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "lausanne-und-das-verschwiegene",
@@ -34226,7 +34226,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "zusammenhange-wie-vorhange-made-in-china",
@@ -34292,7 +34292,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "aktionarsdemokratie-und-medienoffentlichkeit",
@@ -34357,7 +34357,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "das-schweigen-zwischen-den-zahlen",
@@ -34421,7 +34421,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M005"
   },
   {
     "slug": "die-buchhaltung-als-berichterstattung",
@@ -34482,7 +34482,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-cloud-der-bund-und-die-naivitat",
@@ -34553,7 +34553,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "die-sicherheit-der-kinder-als-vorwand",
@@ -34622,7 +34622,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "EU-Kommission",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "spartipps-fur-die-ausgepressten",
@@ -34683,7 +34683,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "das-grosse-experiment",
@@ -34745,7 +34745,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "Wirtschaft",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "der-bar-in-altadena-kalifornien",
@@ -34802,7 +34802,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-debatte-und-das-geld",
@@ -34862,7 +34862,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M010"
   },
   {
     "slug": "zwei-demos-eine-methode",
@@ -34932,7 +34932,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "NZZ am Sonntag",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "das-bankgeheimnis",
@@ -35010,7 +35010,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "das-gold",
@@ -35078,7 +35078,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "die-verpackung",
@@ -35146,7 +35146,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "liebe-nzz-willst-du-wirklich-werden-wie-eine-kampagnenpostille",
@@ -35212,7 +35212,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "NZZaS",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "nachtrag-zur-swissness-praxis",
@@ -35271,7 +35271,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "Eidgenössisches Institut für Geistiges Eigentum",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "verschenkte-souveranitat",
@@ -35346,7 +35346,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "9min.ch",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M001"
   },
   {
     "slug": "das-portrat-als-werbung",
@@ -35399,7 +35399,7 @@
     "quelle_sendung": "10vor10",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "die-form-der-distanz",
@@ -35473,7 +35473,7 @@
     "quelle_sendung": "Temps présent",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M012"
   },
   {
     "slug": "die-quellenwascherei",
@@ -35534,7 +35534,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "drei-geschichten-ein-mann",
@@ -35601,7 +35601,7 @@
     "quelle_sendung": "10vor10 / ECO",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "post-aus-zimmerwald",
@@ -35685,7 +35685,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "rosinenpickerei-teil-zwei-eu",
@@ -35777,7 +35777,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "rosinenpickerei",
@@ -35838,7 +35838,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "der-bundesrat-als-kampagnenleiter",
@@ -35904,7 +35904,7 @@
     "quelle_sendung": "Talktäglich",
     "quelle_redaktion": "TeleZüri",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "der-fall-den-wille-nicht-erwahnt",
@@ -35970,7 +35970,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "NZZ Meinung",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "die-diesjahrige-messung-liegt-im-negativen-mittelfeld-einer-hochvariablen-zeitre",
@@ -36028,7 +36028,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "die-dramaturgie-der-schwache",
@@ -36089,7 +36089,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News International",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-justiz-als-hindernis",
@@ -36156,7 +36156,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-umfrage-als-politisches-instrument",
@@ -36221,7 +36221,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "srf-3-3-10mio",
@@ -36283,7 +36283,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "srf-fehlt-der-wille",
@@ -36350,7 +36350,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "NZZ Meinung",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "ausgelagerte-aufklarung",
@@ -36415,7 +36415,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "der-bundesrat-als-therapeut",
@@ -36482,7 +36482,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "EDA",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M011"
   },
   {
     "slug": "der-experte-und-seine-idiotie",
@@ -36554,7 +36554,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "der-ki-kodex-kreis-ohne-zahne",
@@ -36616,7 +36616,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-geschichte-hinter-der-meldung",
@@ -36690,7 +36690,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "die-mudigkeit-als-diagnose",
@@ -36748,7 +36748,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "Swissinfo",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M016"
   },
   {
     "slug": "selbstregulierte-justiz-selbstregulierte-medien",
@@ -36830,7 +36830,7 @@
     "quelle_sendung": "Rendez-vous / Tagesschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "zahlen-ohne-frage",
@@ -36894,7 +36894,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF Data",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-eu-freundliche-geographie-des-echos",
@@ -36961,7 +36961,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M005"
   },
   {
     "slug": "die-nzz-und-die-800-000",
@@ -37022,7 +37022,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "die-pflanztopfe-von-wadenswil",
@@ -37086,7 +37086,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "Inland",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-unwidersprochene-direktorin",
@@ -37154,7 +37154,7 @@
     "quelle_sendung": "Tagesgespräch",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-zirkusdirektorin-der-klimazirkus-und-der-bose-finanzmarkt",
@@ -37213,7 +37213,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "verfassungsanderung-im-verwaltungston-das-versteckte-drehmoment",
@@ -37284,7 +37284,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M001"
   },
   {
     "slug": "armenien-als-buhne-selenski-als-statist",
@@ -37353,7 +37353,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "das-schweigen-das-man-hort",
@@ -37421,7 +37421,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF Wissen",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "das-stille-ubergehen-einer-volksabstimmung",
@@ -37492,7 +37492,7 @@
     "quelle_sendung": "Forum / Rendez-vous",
     "quelle_redaktion": "SRF Radio / SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "der-faktencheck-als-glaubensbekenntnis",
@@ -37562,7 +37562,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "der-staat-als-faktenwachter",
@@ -37630,7 +37630,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "Direktion der Justiz und des Inneren Kanton Zürich",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "mut-machen-lassen",
@@ -37699,7 +37699,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M005"
   },
   {
     "slug": "nachtrag-die-ironie-der-schulwahl",
@@ -37761,7 +37761,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "climate-week-zurich-von-gebuhrengeldern-und-werbebudgets",
@@ -37828,7 +37828,7 @@
     "quelle_sendung": "HeuteMorgen",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-alten-im-visier",
@@ -37888,7 +37888,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "drei-gymnasiastinnen-ein-politischer-auftrag",
@@ -37952,7 +37952,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "ein-srf-beitrag-und-seine-schlagseite",
@@ -38025,7 +38025,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "migrationshintergrund-auf-der-waage",
@@ -38090,7 +38090,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "pressefreiheit-eine-lekture-der-eu-erklarung-zum-welttag-der-pressefreiheit",
@@ -38164,7 +38164,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "EU-Rat",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "das-mikrofon-ohne-gegenfrage",
@@ -38227,7 +38227,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-saubere-energie-und-ihre-schmutzigen-stoffe",
@@ -38288,7 +38288,7 @@
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "krawallmacher-und-die-sprache-die-sie-schutzt",
@@ -38345,7 +38345,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "ostervilm-und-der-elch-eine-frage-an-den-offentlich-rechtlichen-rundfunk-srf",
@@ -38421,7 +38421,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "vier-stunden-hocke-zwolf-minuten-merz-nichts-im-srf",
@@ -38514,7 +38514,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-drohung-mit-dem-briefkopf-der-regierung",
@@ -38580,7 +38580,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "EJPD",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-petition-als-reportage",
@@ -38648,7 +38648,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "die-pyramide-die-kein-pyramidensystem-sein-will",
@@ -38710,7 +38710,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "Swissinfo",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "ein-blick-in-den-wahlkampf-der-regierung",
@@ -38782,7 +38782,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "Blick Politik",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "wenn-der-abzug-zur-krise-wird-weil-das-selbstbild-es-so-verlangt",
@@ -38846,7 +38846,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "wenn-die-emporung-das-argument-ersetzt",
@@ -38912,7 +38912,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "wenn-die-reportage-zur-werbebroschure-wird",
@@ -38977,7 +38977,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "aktivismus-mit-redaktorenausweis",
@@ -39043,7 +39043,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF Wirtschaftsredaktion",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "wenn-anwalte-die-untersuchung-schreiben",
@@ -39102,7 +39102,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "wenn-der-wirtschaftsdachverband-zum-sp-sprachrohr-wird",
@@ -39164,7 +39164,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "wenn-die-sprache-verrat-was-die-redaktion-denkt",
@@ -39220,7 +39220,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-dialog-community-sagt-was-die-redaktion-horen-will",
@@ -39280,7 +39280,7 @@
     "quelle_sendung": "dialog",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-erschopfung-als-politisches-format",
@@ -39344,7 +39344,7 @@
     "quelle_sendung": "Tagesgespräch",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-spermien-sinken-die-frage-bleibt-im-kuhlschrank",
@@ -39404,7 +39404,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "walser-aus-washington-und-das-eingeubte-lamento",
@@ -39475,7 +39475,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "Ausland",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-importierten-experten",
@@ -39560,7 +39560,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "das-ballonverbot-als-symptom",
@@ -39627,7 +39627,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "keins"
   },
   {
     "slug": "die-billige-antwort-auf-eine-schwierige-frage",
@@ -39690,7 +39690,7 @@
     "quelle_sendung": "Treffpunkt",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "die-lucke-im-gerechtigkeitsbarometer",
@@ -39754,7 +39754,7 @@
     "quelle_sendung": "Tagesschau",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "warum-srf-nicht-aufhoren-kann-uber-jimmy-kimmel-zu-berichten",
@@ -39827,7 +39827,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF Kultur",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "wer-schutzt-die-demokratie-vor-ihren-verteidigern",
@@ -39890,7 +39890,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M016"
   },
   {
     "slug": "anatomie-eines-haltungsbeitrags",
@@ -39963,7 +39963,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "der-schutzschirm-des-demokratischen-autoritarismus",
@@ -40025,7 +40025,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-rede-die-sich-selbst-widerlegt",
@@ -40097,7 +40097,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "EDA",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "das-system-srf-framing-im-krieg",
@@ -40163,7 +40163,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M006"
   },
   {
     "slug": "das-ticker-format-und-seine-tucken",
@@ -40232,7 +40232,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M001"
   },
   {
     "slug": "das-urteil-das-weiter-geht-als-sein-gegenstand",
@@ -40303,7 +40303,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-analyse-die-eine-meinung-ist",
@@ -40369,7 +40369,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "32-gegen-die-verfassung",
@@ -40429,7 +40429,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-experten-erklaren-den-burgern-warum-alles-in-ordnung-war",
@@ -40492,7 +40492,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-nzz-findet-das-urteil-und-liefert-die-moral-nach",
@@ -40553,7 +40553,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "NZZ Sport",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "musk-als-magnet-keine-reflektion",
@@ -40611,7 +40611,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "srf-und-das-accountability-laundering",
@@ -40681,7 +40681,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "das-grosse-experiment-am-kuchentisch",
@@ -40746,7 +40746,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "der-freiburger-milchbericht-bovaer-und-die-kunst-des-gewahlten-zeitpunkts",
@@ -40825,7 +40825,7 @@
     "quelle_sendung": "Regionaljournal Bern Freiburg Wallis",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "der-soziologe-die-null-und-die-summe-die-keine-ist",
@@ -40893,7 +40893,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "Tages-Anzeiger",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-bedrohung-war-offensichtlicher-wirklich",
@@ -40949,7 +40949,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "im-internationalen-mainstream-der-krisenbeschaffung",
@@ -41009,7 +41009,7 @@
     "quelle_sendung": "News Plus",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "peanut-das-eichhornchen-und-die-schweizerischen-schwarzungen",
@@ -41076,7 +41076,7 @@
     "quelle_sendung": "SRF 4 News aktuell",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "vom-goldesel-zum-opfer",
@@ -41141,7 +41141,7 @@
     "quelle_sendung": "News Plus",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "der-freitagsprofessor",
@@ -41220,7 +41220,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "der-wwf-spricht-srf-schreibt-mit",
@@ -41282,7 +41282,7 @@
     "quelle_sendung": "Rendez-vous",
     "quelle_redaktion": "SRF",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M005"
   },
   {
     "slug": "die-pr-expertin-und-die-reinwaschung",
@@ -41340,7 +41340,7 @@
     "quelle_sendung": "SRF News Podcast",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "drei-fragen-waren-noch-offen",
@@ -41398,7 +41398,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF Wirtschaftsredaktion",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M001"
   },
   {
     "slug": "transparenz-aber-nur-im-sport",
@@ -41468,7 +41468,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF Panorama",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "warum-aaron-rodgers-plotzlich-in-zurich-auftaucht",
@@ -41527,7 +41527,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF Sport",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "eine-milliarde-dollar-null-fragen",
@@ -41590,7 +41590,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M010"
   },
   {
     "slug": "patrick-fischer-und-die-selektive-unerbittlichkeit",
@@ -41653,7 +41653,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "zwei-pressemitteilungen-und-der-umbau-des-finanzplatzes",
@@ -41711,7 +41711,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-politshow-und-die-fehlende-pointe",
@@ -41776,7 +41776,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "die-ironie-des-selbst",
@@ -41831,7 +41831,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "eingeplant-wie-die-schweiz-den-volkswillen-verwaltet",
@@ -41910,7 +41910,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "situative-souveranitat-standerat-will-neutralitat-opfern-um-einen-krieg-zu-unter",
@@ -41987,7 +41987,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "NZZ",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M016"
   },
   {
     "slug": "krieg-der-schlagzeilen-trumps-krieg-irans-leid",
@@ -42046,7 +42046,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "nein-heisst-nein-ausser-bei-der-konzernverantwortung",
@@ -42110,7 +42110,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "Bundesrat",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "das-haus-das-die-nationalbank-baute",
@@ -42175,7 +42175,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-legende-wahlrechte-als-dekret",
@@ -42232,7 +42232,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "das-barometer-eine-lobbystudie",
@@ -42290,7 +42290,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "der-aufmarsch-die-guten-und-die-bosen",
@@ -42347,7 +42347,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "der-klima-kreis-999",
@@ -42407,7 +42407,7 @@
     "quelle_sendung": "Echo der Zeit",
     "quelle_redaktion": "SRF Wissen",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M002"
   },
   {
     "slug": "die-auswahl-das-schweigen",
@@ -42473,7 +42473,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M003"
   },
   {
     "slug": "die-auswahl-wolf-oder-schafspelz",
@@ -42532,7 +42532,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "die-bedrohung-eine-inspektionsdrohne",
@@ -42593,7 +42593,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-beruhigung-demokratie-schlaft",
@@ -42656,7 +42656,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M004"
   },
   {
     "slug": "der-feindsender",
@@ -42731,7 +42731,7 @@
     "quelle_sendung": "",
     "quelle_redaktion": "",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   },
   {
     "slug": "die-anklage-digitale-vergewaltigung",
@@ -42790,6 +42790,6 @@
     "quelle_sendung": "",
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
-    "muster_id": ""
+    "muster_id": "M017"
   }
 ]

@@ -70,6 +70,7 @@ quelle_format: Online-Artikel
 quelle_sendung: Samstagsrundschau
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M001
 ---
 
 *Zur SRF-Berichterstattung über EU Stahlzölle, *[«Bundespräsident Parmelin übt heftige Kritik an der EU»](https://www.srf.ch/news/schweiz/neuer-konflikt-mit-bruessel-bundespraesident-parmelin-uebt-heftige-kritik-an-der-eu)* vom 16. Mai 2026 und *[«EU verschärft Stahlzölle – der Schweiz droht Kollateralschaden»](https://www.srf.ch/news/wirtschaft/importzoelle-auf-stahl-eu-verschaerft-stahlzoelle-der-schweiz-droht-kollateralschaden)* vom 8. Oktober 2025*

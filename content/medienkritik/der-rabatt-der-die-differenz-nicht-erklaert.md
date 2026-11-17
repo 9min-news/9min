@@ -101,6 +101,7 @@ zusammenfassung: >-
   beziffern. Die Rolle des Bundes als Mitverursacher und Profiteur der hohen
   Preise bleibt unsichtbar, während er als möglicher Retter inszeniert wird.
 kritik_schwere: 3
+muster_id: M006
 ---
 
 *Titel und Dachzeile setzen den Rahmen beim Konsumenten: «Wer fremdtankt, spart Geld», «Tanktourismus boomt». Die Ursache des hohen Preises erscheint als äusserer Umstand, «aufgrund des Konflikts im Nahen Osten», ergänzt um das «Stichwort: Strasse von Hormus». Der Beitrag enthält selbst den Satz, der das Gefälle erklärt: «In Österreich sind die Mineralölsteuern grundsätzlich um einiges tiefer als in der Schweiz.» Er beziffert ihn nicht und baut seine politische Hälfte stattdessen um den Tankrabatt, der nach den Zahlen im Beitrag den kleineren Teil der Differenz ausmacht. Er verschweigt, wie viel vom Schweizer Literpreis an den Bund geht, also an jene «Politik», die die Preise senken soll.*

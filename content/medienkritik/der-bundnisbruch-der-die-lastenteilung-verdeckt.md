@@ -72,6 +72,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *SRF analysiert Trumps Aussenpolitik und rahmt sie als einzigartigen Bruch mit einer bewährten Bündnistradition. «Geringschätzung», «vor den Kopf stossen», «Scheinwerferlicht». Der Beitrag verschweigt, dass Südkorea sich weigerte, den Iran-Krieg zu unterstützen — ein legitimer Grund für Trump, die Übungen zu kürzen. Er verschweigt die Kosten der Übungen und die Tatsache, dass Südkorea seine Verteidigungsausgaben erhöhte. Er verschweigt, dass Biden dieselbe Bündnispflege versprach und scheiterte. Und er verschweigt die Schweiz, die von den Bündnisfragen direkt betroffen ist. Er ist eine Korrespondenten-Einordnung, die eine strategische Neuausrichtung als diplomatisches Fehlverhalten gerahmt.*

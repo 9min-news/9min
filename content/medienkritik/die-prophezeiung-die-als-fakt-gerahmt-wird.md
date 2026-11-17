@@ -59,6 +59,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M007
 ---
 
 *SRF meldet Hitzerekorde in Westeuropa und rahmt sie als Beweis einer unausweichlichen, CO2-getriebenen Klimaerhitzung. 2,79 Grad über dem Durchschnitt, 44 Grad in Zürich als Zukunftsszenario. Der Beitrag blendet systematisch aus, welcher Referenzzeitraum gemessen wird, wie stark das natürliche Phänomen El Niño die Statistik verzerrt und auf welchen Modellannahmen die Extremprognosen basieren. Er ist eine Klima-Analyse, die die Wissenschaft als abgeschlossen und die Debatte als überflüssig erklärt.*

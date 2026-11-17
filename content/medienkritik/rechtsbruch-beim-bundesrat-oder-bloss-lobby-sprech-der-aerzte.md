@@ -112,6 +112,7 @@ zusammenfassung: >-
   Krankenkassen, Spitäler und Prämienzahler stumm blieben und rahme einen
   Rechtsstreit als emotionale Geduldsprobe.
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Die Gesetzesgrundlage, die es laut Ärzte-Präsidentin Yvonne Gilli nicht gibt, hat das Parlament im Kostendämpfungspaket 1b beschlossen. Art. 47c KVG verpflichtet Leistungserbringer und Versicherer, in ihren Tarifverträgen Kosten zu überwachen und Korrekturmassnahmen vorzusehen. Einigen sie sich nicht, legt der Bundesrat die Massnahmen fest. SRF hebt Gillis Vorwurf, der Bundesrat habe «seine Kompetenz überschritten», in den Titel und erzählt den Rest als Geduldsprobe, die beim versöhnlichen «nicht mehr so schwarz» endet. Ob die Norm eine feste Obergrenze trägt, ist eine echte Rechtsfrage. Dass sie existiert, woher die vier Prozent stammen und wer das Ergebnis über Pflichtprämien bezahlt, erfährt der Hörer nicht. Für Prämienzahler und Stimmbürger geht es darum, wer in einem Zwangssystem über das Kostenwachstum entscheidet: das Parlament, der Bundesrat oder die Verbände.*

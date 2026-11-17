@@ -69,6 +69,7 @@ quelle_format: Broadcast
 quelle_sendung: Rendez-vous
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M004
 ---
 
 *Der Beitrag verspricht eine Debatte — «Befürworter sagen... Skeptische Stimmen sehen...» — und liefert ein Verhältnis von eins zu drei. Auf der einen Seite: ein SVP-Nationalrat. Auf der anderen: ein Militärhistoriker, ein Militäranalyst, ein Friedensforscher. Die Initiative bekommt einen Politiker mit Meinung; die Gegenseite bekommt drei Fachleute mit Autorität. Das ist die klassische Asymmetrie der Schein-Ausgewogenheit: Die einen dürfen sagen, was sie glauben — die anderen dürfen erklären, was gilt. Und der Mann, der die Lücke geschlossen hätte, fehlt: Niels Melzer, UNO-Sonderberichterstatter, Schweizer Völkerrechtler, öffentlicher Befürworter der Initiative — die Stimme, die den Befürwortern völkerrechtliche Autorität verliehen hätte, kommt mit keinem Wort vor.*

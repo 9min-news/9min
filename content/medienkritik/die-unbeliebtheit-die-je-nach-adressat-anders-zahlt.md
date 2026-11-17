@@ -66,6 +66,7 @@ quelle_format: Broadcast
 quelle_sendung: Echo der Zeit
 quelle_redaktion: SRF News
 kritik_schwere: 3
+muster_id: M017
 ---
 
 *SRF berichtet über Friedrich Merz' Sommerpressekonferenz — und rahmt sie als Persönlichkeitsstück. «Das beschäftigt mich», sagt Merz über seine Unbeliebtheit, und SRF referiert es mit Wohlwollen. Am selben Tag veröffentlicht SRF einen Beitrag über Trumps Migrationspolitik — und rahmt sie als Boomerang, der den Präsidenten gefährlich werden könnte. Zwei Beiträge, zwei Politiker, zwei Unbeliebtheiten — und zwei Framings, die nicht miteinander kommunizieren. Was nicht vorkommt: der grösste transatlantische Krach seit Jahrzehnten. Was nicht vorkommt: die Frage, ob 80 Prozent Unzufriedenheit nach 14 Monaten mehr ist als ein Kommunikationsproblem. Was nicht vorkommt: der Vergleich, den SRF selbst nicht zieht — obwohl er auf der eigenen Website liegt. Der Beitrag ist ein Stimmungsbild ohne Massstab — und ohne den Skandal, der die Stimmung erklärt.*
