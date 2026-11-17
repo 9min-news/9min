@@ -1,5 +1,195 @@
 [
   {
+    "slug": "der-winter-ist-verloren-die-fis-soll-ihn-retten",
+    "title": "Der Winter ist verloren, die FIS soll ihn retten",
+    "date": "2026-11-17",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/der-winter-ist-verloren-die-fis-soll-ihn-retten.webp",
+    "tweetId": "",
+    "readingTime": 6,
+    "categories": [
+      "SRF/SRG",
+      "Klima/Energie"
+    ],
+    "themen": [
+      "Klimabilanz des Skirennsports",
+      "Emissionsmessung und Methoden",
+      "Verantwortungszurechnung im Klimadiskurs",
+      "Berichterstattung über Klimakonferenzen"
+    ],
+    "tags": [
+      "FIS",
+      "Emissionen",
+      "Zuschaueranreise",
+      "Metapher",
+      "Bilanz ohne Nenner",
+      "WMO",
+      "Interessenkonflikt",
+      "Klimakonferenz"
+    ],
+    "kritisiertes_medium": "SRF",
+    "kritisierter_beitrag": "Der Skirennsport sägt am Ast, auf dem er sitzt",
+    "kritisierter_autor": "Susanna Sieff",
+    "kritik_typ": [
+      "Kontextmangel",
+      "Framing",
+      "Interessenkonflikt"
+    ],
+    "personen": [
+      "Susanna Sieff",
+      "Wayne Jenkinson",
+      "Thénault",
+      "Gisin"
+    ],
+    "institutionen": [
+      "SRF",
+      "FIS",
+      "WMO",
+      "UNO",
+      "Greenpeace Österreich"
+    ],
+    "gesetze_vorlagen": [],
+    "these": "SRF liefert mit einer isolierten Emissionszahl und einer Metapher Schuldzuweisung ohne Proportionen und lässt einen Kooperationspartner als neutralen Experten auftreten.",
+    "zusammenfassung": "Der Artikel kritisiert einen SRF-Rendez-vous-Beitrag, der der FIS 400'000 Tonnen CO₂ zurechnet, ohne einen Vergleichsmassstab oder eine Methode zu nennen. Die angekündigten Massnahmen tangieren den Hauptposten (86% durch Zuschaueranreise) nicht, und der WMO-Partner, der die Massnahmen bewertet, wird als neutraler Experte geführt. Die Anreise zur UNO-Klimakonferenz, auf deren Bühne recherchiert wird, bleibt unbilanziert.",
+    "quelle_datum": "2026-11-16",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "Rendez-vous",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 2,
+    "muster_id": "M012"
+  },
+  {
+    "slug": "gefaehrlich-oder-bloss-krank-und-bei-der-iv",
+    "title": "Gefährlich, oder bloss krank und bei der IV?",
+    "date": "2026-11-17",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/gefaehrlich-oder-bloss-krank-und-bei-der-iv.webp",
+    "tweetId": "",
+    "readingTime": 6,
+    "categories": [
+      "SRF/SRG",
+      "Sicherheitspolitik",
+      "Gesellschaft"
+    ],
+    "themen": [
+      "Waffenrecht",
+      "IV-Meldepflicht",
+      "Quellenprüfung",
+      "Interessenkonflikt",
+      "Stigmatisierung"
+    ],
+    "tags": [
+      "IV-Stelle",
+      "Waffenbehörde",
+      "Meldepflicht",
+      "Loïc Dobler",
+      "Pro Tell",
+      "Quellenattribution",
+      "Doppelrolle",
+      "Generalverdacht"
+    ],
+    "kritisiertes_medium": "SRF News",
+    "kritisierter_beitrag": "IV soll gefährliche Personen der Waffenbehörde melden dürfen",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Framing",
+      "Auslassung",
+      "Interessenkonflikt"
+    ],
+    "personen": [
+      "Loïc Dobler"
+    ],
+    "institutionen": [
+      "SRF",
+      "IV-Stelle Jura",
+      "Bundesrat",
+      "Bundesamt für Sozialversicherungen",
+      "Pro Tell",
+      "Waffenbehörde",
+      "Polizei"
+    ],
+    "gesetze_vorlagen": [
+      "Art. 30b Waffengesetz",
+      "Art. 8 Abs. 2 Waffengesetz"
+    ],
+    "these": "SRF rahmt eine Senkung der Meldeschwelle von konkreter Gefährdung auf die bloße Ansicht der IV-Stelle als Schutz vor «gefährlichen Personen», lässt den Interessenkonflikt des Initianten unbefragt und hört nur zustimmende Stimmen, während die betroffenen IV-Versicherten unsichtbar bleiben.",
+    "zusammenfassung": "Die 9min-Analyse kritisiert einen SRF-Beitrag, der einen Vorstoss von Loïc Dobler — selbst Angestellter einer IV-Stelle — für ein Melderecht der IV an die Waffenbehörde darstellt. SRF nutzt ungesicherte Angaben zum IV-Bezug des Täters von Aarau als faktische Grundlage, hinterfragt Doblers Doppelrolle nicht und hört keine betroffenen Versichertenorganisationen oder Datenschützer. Das bestehende Meldecht seit 2008 mit höherer Schwelle wird erwähnt, dessen Bedeutung für die neue, niedrigere Schwelle aber nicht erörtert.",
+    "quelle_datum": "2026-11-16",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "Regionaljournal Aargau Solothurn",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M009"
+  },
+  {
+    "slug": "londons-ruanda-plan-scheiterte-anders-als-srf-erzaehlt",
+    "title": "Londons Ruanda-Plan scheiterte anders, als SRF erzählt",
+    "date": "2026-11-17",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/londons-ruanda-plan-scheiterte-anders-als-srf-erzaehlt.webp",
+    "tweetId": "",
+    "readingTime": 6,
+    "categories": [
+      "Migration",
+      "EU/Aussenpolitik",
+      "SRF/SRG"
+    ],
+    "themen": [
+      "Ruanda-Plan",
+      "Rückkehrzentren",
+      "Asylpolitik",
+      "britische Gerichtsurteile",
+      "Kosten der Migrationspolitik"
+    ],
+    "tags": [
+      "Ruanda",
+      "Rückkehrzentren",
+      "Echo der Zeit",
+      "Chronologie",
+      "Kosten",
+      "Haftung",
+      "EU-Rückkehrverordnung",
+      "Asylsystem"
+    ],
+    "kritisiertes_medium": "SRF",
+    "kritisierter_beitrag": "Neue Zentren für in Europa abgewiesene Asylsuchende – in Ruanda",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Framing",
+      "Asymmetrie"
+    ],
+    "personen": [
+      "Stocker",
+      "Plevris",
+      "Mette Frederiksen",
+      "Giorgia Meloni",
+      "Starmer"
+    ],
+    "institutionen": [
+      "SRF",
+      "Echo der Zeit",
+      "Supreme Court Grossbritannien",
+      "Court of Appeal",
+      "EU-Grundrechteagentur",
+      "Parlament Grossbritannien",
+      "Regierung Starmer"
+    ],
+    "gesetze_vorlagen": [
+      "Safety of Rwanda Act",
+      "EU-Rückkehrverordnung",
+      "Rückführungsrichtlinie"
+    ],
+    "these": "SRF verzerrt die Chronologie des britischen Ruanda-Plans und lässt entscheidende Fragen zu Kosten und Haftung des neuen europäischen Plans offen.",
+    "zusammenfassung": "Der Artikel kritisiert einen SRF-Beitrag vom 16.11.2026, der die Chronologie des britischen Ruanda-Plans falsch darstellt: Das Oberste Gericht urteilte vor dem Parlamentsgesetz, nicht danach, und die Regierung Starmer beendete den Plan politisch, nicht gerichtlich. Zudem fehlen im Beitrag die Kosten des neuen Plans für fünf europäische Staaten sowie die Haftungsfrage bei Grundrechtsverletzungen. Die Überschrift suggeriert fälschlich bereits existierende Zentren, obwohl nur Verhandlungen begonnen haben.",
+    "quelle_datum": "2026-11-16",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "Echo der Zeit",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M003"
+  },
+  {
     "slug": "beim-eu-vertrag-zaehlt-srf-die-tage-nicht-die-kantone",
     "title": "Beim EU-Vertrag zählt SRF die Tage, nicht die Kantone",
     "date": "2026-11-16",
