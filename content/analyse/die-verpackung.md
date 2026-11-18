@@ -1,5 +1,6 @@
 ---
 title: Die Verpackung
+lead: "Die Toblerone verlor das Matterhorn, als ein Teil der Produktion die Schweiz verliess. Der Auftakt der Serie fragt, ob die Substanz des Landes noch zu seiner Verpackung passt."
 date: '2026-05-10'
 status: published
 type: analyse
@@ -21,10 +22,7 @@ tags:
   - Monetäre Souveränität
   - Bankgeheimnis
 seo:
-  description: >-
-    Das Dreieck. Sie kennen die Form. Selbst wenn Sie den Namen nicht sofort
-    parat haben, kennen Sie die Form. Die dreieckigen Zacken, aufgereiht wie
-    eine…
+  description: "Die Toblerone musste 2023 das Matterhorn von der Verpackung nehmen. Teil 1 der Toblerone-Serie: der Swissness-Test, angewandt auf die Schweiz selbst."
 themen:
   - Schweizer Wirtschaft
   - Toblerone

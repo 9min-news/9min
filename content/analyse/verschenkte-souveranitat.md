@@ -1,5 +1,6 @@
 ---
 title: Verschenkte Souveränität
+lead: "Gaststaatgesetz, EU-Sanktionen, Überwachung, importierte Regulierung: Teil 4 zieht die Bilanz der Serie und fragt, wer für diese Tauschgeschäfte die Beweislast trägt."
 date: '2026-05-10'
 status: published
 type: analyse
@@ -18,9 +19,7 @@ tags:
   - Datenschutz
   - digitale Identität
 seo:
-  description: >-
-    Das Matterhorn entfernt Genf ist eine kleine Stadt mit einer übergrossen
-    Mieterliste. Die Vereinten Nationen unterhalten dort ihren europäischen…
+  description: "Teil 4 der Toblerone-Serie: wie Gaststaatgesetz, Übernahme von EU-Sanktionen und Ausbau der Überwachung die Souveränität der Schweiz verändert haben."
 themen:
   - Souveränität
   - Internationale Organisationen

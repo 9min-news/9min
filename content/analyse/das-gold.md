@@ -1,5 +1,6 @@
 ---
 title: Das Gold
+lead: "Mit der neuen Bundesverfassung von 1999 fiel die Goldbindung des Frankens, ab 2000 verkaufte die Nationalbank einen grossen Teil ihres Goldes. Teil 2 fragt, was die Schweiz dafür eintauschte."
 date: '2026-05-10'
 status: published
 type: analyse
@@ -19,9 +20,7 @@ tags:
   - Finanzkrise
   - Souveränität
 seo:
-  description: >-
-    Der erste Zacken entfernt Am 18. April 1999 stimmte das Schweizer Volk einer
-    neuen Bundesverfassung zu. Es war eine Totalrevision, die erste seit 1874.…
+  description: "1999 fiel die Goldbindung des Frankens, ab 2000 verkaufte die SNB Gold. Teil 2 der Toblerone-Serie über die Unabhängigkeit der Währung und ihren Preis."
 themen:
   - Schweizer Währung
   - Goldbindung

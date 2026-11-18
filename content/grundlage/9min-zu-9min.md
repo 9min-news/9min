@@ -1,5 +1,6 @@
 ---
 title: 9min zu 9min
+lead: "Welche Grundannahme hinter 9min steht und warum sie offengelegt gehört: die Österreichische Schule als Werkzeug, der Feindsender als Methode."
 date: '2026-05-13'
 status: published
 type: grundlage
@@ -20,10 +21,7 @@ tags:
   - SRF
   - 9min
 seo:
-  description: >-
-    Eine kurze Erklärung. Dank an 280+ Follower in ~1.5 Monaten. SRF predigt
-    Transparenz. 9min lebt sie. Rückfragen jederzeit: hello@9min.ch Die
-    Perspektive…
+  description: "Woran 9min misst: die Österreichische Schule als Rahmen, Mises und Hayek als Werkzeuge, Radio Beromünster als Vorbild. Eine offengelegte Perspektive."
 themen:
   - Medienkritik
   - Österreichische Schule

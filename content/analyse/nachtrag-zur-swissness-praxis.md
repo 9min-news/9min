@@ -1,5 +1,6 @@
 ---
 title: Nachtrag zur Swissness-Praxis
+lead: "Im März 2026 lockerte das Institut für Geistiges Eigentum die Swissness-Praxis: Das Schweizerkreuz darf auf Produkte, die in der Schweiz entwickelt und anderswo gefertigt werden."
 date: '2026-05-10'
 status: published
 type: analyse
@@ -21,9 +22,7 @@ tags:
   - Geldpolitik
   - Marke
 seo:
-  description: >-
-    Teil I Teil II Teil III Teil IV Das Kreuz bleibt Während diese Serie in
-    Vorbereitung war — am 23. März 2026 — gab das Eidgenössische Institut für…
+  description: "Die Toblerone verlor das Matterhorn, On darf das Schweizerkreuz behalten. Der Nachtrag zur Toblerone-Serie über die gelockerte Swissness-Praxis von 2026."
 themen:
   - Swissness-Praxis
   - Schweizer Wirtschaft

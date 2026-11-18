@@ -1,5 +1,6 @@
 ---
 title: Post aus Zimmerwald
+lead: "Seit 2013 sagt Init7-Chef Fredy Künzler Nein, wenn der Bund Überwachungstechnik und Netzzugriffe verlangt. Die Geschichte eines Providers und die Frage, warum er damit fast allein steht."
 date: '2026-05-09'
 status: published
 type: analyse
@@ -21,10 +22,7 @@ tags:
   - Glasfasernetz
   - DNS-Sperren
 seo:
-  description: >-
-    Dreizehn Jahre, vier Runden und die Frage, warum immer derselbe Nein sagt
-    «Es geht mir gegen den Strich, dass ich als Unternehmer zum Hilfspolizisten
-    und…
+  description: "Init7-Chef Fredy Künzler und das Zentrum für elektronische Operationen: dreizehn Jahre Widerstand gegen Kabelaufklärung, Netzsperren und Hilfspolizei-Pflichten."
 themen:
   - Überwachung
   - Massenüberwachung

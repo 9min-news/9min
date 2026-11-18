@@ -1,5 +1,6 @@
 ---
 title: 'Rosinenpickerei, Teil Zwei (EU)'
+lead: "Opt-outs, Sonderregeln, stillschweigend geduldete Ausnahmen: Teil 2 zeigt, wie die EU selbst auswählt und es differenzierte Integration nennt."
 date: '2026-05-09'
 status: published
 type: analyse
@@ -19,10 +20,7 @@ tags:
   - Internationale Beziehungen
   - Politik
 seo:
-  description: >-
-    Wer den Vorwurf erhebt — und was er selbst tut Im ersten Teil wurde
-    dargelegt, dass «Rosinenpickerei» die Grundform jeder vernünftigen Wahl ist.
-    Niemand…
+  description: "Dänemark, Irland, Schweden: Teil 2 zeigt, wie die EU unter dem Namen «differenzierte Integration» selbst auswählt, was sie der Schweiz vorwirft."
 themen:
   - EU-Beziehungen
   - Wirtschaftspolitik

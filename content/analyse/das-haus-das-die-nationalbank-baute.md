@@ -1,5 +1,6 @@
 ---
 title: 'Das Haus, das die Nationalbank baute'
+lead: "Zuwanderung, Vermieter, zu wenig gemeinnütziger Wohnbau: Die Debatte über die Wohnungsnot übersieht meist einen Faktor, die Geldpolitik der Nationalbank."
 date: '2026-04-01'
 status: published
 type: analyse
@@ -21,9 +22,7 @@ tags:
   - Geldpolitik
   - Wirtschaft
 seo:
-  description: >-
-    Die Schweizer Debatte über die Wohnungsnot folgt seit Jahren einem
-    vertrauten Muster. Die eine Seite spricht über Zuwanderung, die andere über…
+  description: "Wie Negativzinsen und der Anlagedruck der Pensionskassen neben Bauvorschriften und Zuwanderung zur Wohnungsnot beitragen. Eine Analyse zur Geldpolitik."
 themen:
   - Wohnungsnot
   - Geldpolitik

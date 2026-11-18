@@ -1,5 +1,6 @@
 ---
 title: Der Freitagsprofessor
+lead: "Jeden Freitag um 19.10 Uhr beschrieb Jean Rudolf von Salis auf Beromünster die Kriegslage, ruhig und aus mehreren Blickwinkeln. Ein Porträt der Weltchronik und ein Massstab für SRF."
 date: '2026-04-17'
 status: published
 type: grundlage
@@ -19,9 +20,7 @@ tags:
   - Rundfunk
   - Medienkritik
 seo:
-  description: >-
-    Der Freitagsprofessor Fünfzehn Minuten, die einen Kontinent nicht losliessen
-    — und das Schweigen im Signal «Den heute Jungen gewidmet, damit sie wissen,…
+  description: "Jean Rudolf von Salis und die Weltchronik auf Radio Beromünster: wie redliche Berichterstattung unter Zensur klang und was davon bei SRF geblieben ist."
 themen:
   - Schweizer Medien
   - Rundfunkgeschichte

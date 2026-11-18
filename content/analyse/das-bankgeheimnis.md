@@ -1,5 +1,6 @@
 ---
 title: Das Bankgeheimnis
+lead: "Seit 1934 stand die Verletzung des Bankgeheimnisses unter Strafe, heute meldet die Schweiz Kontodaten automatisch an über hundert Staaten. Teil 3 über den Tausch von Privatsphäre gegen Marktzugang."
 date: '2026-05-10'
 status: published
 type: analyse
@@ -19,10 +20,7 @@ tags:
   - OECD
   - automatischer Informationsaustausch
 seo:
-  description: >-
-    Der gläserne Tresor Im Jahr 1713 erliess der Grosse Rat von Genf eine
-    Verordnung, die Bankiers verpflichtete, Register über ihre Kunden zu führen
-    — und es…
+  description: "Vom Bankengesetz 1934 zum automatischen Informationsaustausch: Teil 3 der Toblerone-Serie fragt, was der Tausch Privatsphäre gegen Marktzugang gebracht hat."
 themen:
   - Bankgeheimnis
   - Finanzwesen

@@ -1,5 +1,6 @@
 ---
 title: Der Feindsender
+lead: "Radio Beromünster war für das Dritte Reich ein Feindsender, weil er ehrlich beschrieb. Nach der Abstimmung vom 8. März 2026 bleibt die Frage, ob das Signal der SRG noch ehrlich ist."
 date: '2026-03-30'
 status: published
 type: grundlage
@@ -21,10 +22,7 @@ tags:
   - Konsenssender
   - Jean Rudolf von Salis
 seo:
-  description: >-
-    Am 8. März 2026 stimmte die Schweiz darüber ab, ob sie die Finanzierung
-    jener Institution halbieren will, deren Empfang das Dritte Reich einst mit
-    dem Tod…
+  description: "Von der Weltchronik auf Radio Beromünster zur heutigen SRG: was ein ehrliches Signal ausmacht und warum die Abstimmung vom März 2026 die Frage offenliess."
 themen:
   - SRG
   - Rundfunkgebühren

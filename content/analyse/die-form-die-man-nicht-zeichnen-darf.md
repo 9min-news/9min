@@ -1,5 +1,6 @@
 ---
 title: 'Die Form, die man nicht zeichnen darf'
+lead: "Ein rotes Dreieck gilt plötzlich als Hamas-Symbol. Der Text fragt, wer das Recht hat, einfache Formen zu besetzen, und warum 9min sein Dreieck behält."
 date: '2026-05-15'
 status: published
 type: analyse
@@ -19,7 +20,7 @@ tags:
   - Meinungsfreiheit
   - Symbolik
 seo:
-  description: "Über die Aneignung von Symbolen, die Asymmetrie der Toten und wer das Recht hat, Geometrie zu kontaminieren \U0001F53B\U0001F53B\U0001F53B Jemand hat neulich gefragt, ob wir das…"
+  description: "Wenn eine Organisation eine Form verwendet, ist sie dann für alle tabu? Über die Kontamination von Symbolen, das rote Dreieck und das Dreieck von 9min."
 themen:
   - Symbolik
   - Kontamination von Symbolen

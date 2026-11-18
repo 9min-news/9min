@@ -1,5 +1,6 @@
 ---
 title: Rosinenpickerei
+lead: "Das Wort fällt in Bundesratsreden und Leitartikeln, als wäre Auswahl ein Charakterfehler. Der Text prüft den Vorwurf der Rosinenpickerei an der Logik von Supermarkt und Firma."
 date: '2026-05-09'
 status: published
 type: analyse
@@ -20,9 +21,7 @@ tags:
   - Integration
   - Souveränität
 seo:
-  description: >-
-    Zur Karriere eines Vorwurfs Das Wort fällt regelmässig. In Bundesratsreden,
-    in Leitartikeln, in Talkshows, in Diplomatengesprächen. Die Schweiz dürfe…
+  description: "«Rosinenpickerei» klingt nach Argument und ist eine Forderung. Teil 1 über die Karriere eines Vorwurfs, der die Schweiz in der Europapolitik begleitet."
 themen:
   - Schweizer EU-Beziehungen
   - Bilaterale Verträge

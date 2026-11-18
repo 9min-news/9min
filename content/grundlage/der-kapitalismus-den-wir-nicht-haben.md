@@ -1,5 +1,6 @@
 ---
 title: "Der Kapitalismus, den wir nicht haben"
+lead: "Wenn etwas schiefläuft, gilt der Kapitalismus als schuldig. Warum ein System mit Bailouts, Staatsgarantien und gesteuerten Zinsen diesen Namen nicht verdient."
 date: "2026-05-25"
 status: published
 type: grundlage
@@ -10,7 +11,7 @@ tweetId: "2058835888734396530"
 categories: []
 tags: []
 seo:
-  description: "9min zu 9min — Teil 2 der Serie. Über ein System, das den falschen Namen trägt — und warum diese Verwechslung politisch produktiv und intellektuell ruinös…"
+  description: "Profit ohne Verlust ist kein Kapitalismus. Warum Bailouts, Staatsgarantien und Geldpolitik ein anderes System ergeben, als sein Name verspricht."
 ---
 
 *9min zu 9min — Teil 2 der Serie. Über ein System, das den falschen Namen trägt — und warum diese Verwechslung politisch produktiv und intellektuell ruinös ist.*
