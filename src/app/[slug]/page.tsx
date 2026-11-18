@@ -38,7 +38,7 @@ export async function generateMetadata(
       type: 'article',
       publishedTime: frontmatter.date,
       modifiedTime: frontmatter.updated,
-      authors: ['Henry Barrows'],
+      authors: ['9min'],
       images: [{ url: ogImage, width: 1200, height: 630 }],
     },
     twitter: {

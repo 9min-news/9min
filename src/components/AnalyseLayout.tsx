@@ -37,7 +37,7 @@ export async function AnalyseLayout({ article }: AnalyseLayoutProps) {
     headline: frontmatter.title,
     datePublished: frontmatter.date,
     dateModified: frontmatter.updated ?? frontmatter.date,
-    author: { '@type': 'Person', name: 'Henry Barrows' },
+    author: { '@type': 'Organization', name: '9min', url: 'https://9min.ch' },
     publisher: { '@type': 'Organization', name: '9min', url: 'https://9min.ch' },
     description: frontmatter.seo?.description,
     url: `https://9min.ch/${slug}`,
