@@ -136,6 +136,78 @@
     "muster_id": "M006"
   },
   {
+    "slug": "die-huerde-fuers-eu-paket-die-srf-als-formalie-meldet",
+    "title": "Die Hürde fürs EU-Paket, die SRF als Formalie meldet",
+    "date": "2026-11-18",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/die-huerde-fuers-eu-paket-die-srf-als-formalie-meldet.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "EU/Aussenpolitik",
+      "Demokratie",
+      "SRF/SRG"
+    ],
+    "themen": [
+      "Ständemehr vs. Volksmehr",
+      "EU-Vertragspaket Bilaterale III",
+      "Referendumstypen und Abstimmungshürden",
+      "Kompass-Initiative",
+      "Dynamische Rechtsübernahme"
+    ],
+    "tags": [
+      "Ständemehr",
+      "Volksmehr",
+      "EU-Paket",
+      "Bilaterale III",
+      "Referendum",
+      "Föderalismus",
+      "Kompass-Initiative",
+      "APK-N"
+    ],
+    "kritisiertes_medium": "SRF News",
+    "kritisierter_beitrag": "EU-Paket: Nationalratskommission gegen Ständemehr",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Framing",
+      "Behördenpropaganda"
+    ],
+    "personen": [
+      "Rahel Freiburghaus",
+      "Adrian Vatter"
+    ],
+    "institutionen": [
+      "SRF",
+      "SRF4 News",
+      "Aussenpolitische Kommission Nationalrat",
+      "Staatspolitische Kommission Nationalrat",
+      "Staatspolitische Kommission Ständerat",
+      "Ständerat",
+      "Nationalrat",
+      "Bundesrat",
+      "EU",
+      "Gerichtshof der EU",
+      "Parlamentsdienste",
+      "Verbindungsbüro des Parlaments Brüssel"
+    ],
+    "gesetze_vorlagen": [
+      "EU-Vertragspaket Bilaterale III",
+      "Kompass-Initiative",
+      "parlamentarische Initiative 26.425",
+      "Artikel 141 Bundesverfassung",
+      "Parlamentsgesetz"
+    ],
+    "these": "SRF rahmt einen Entscheid über die Abstimmungshürde für das EU-Paket als Kammergerangel und verschweigt dabei die wesentlichen Kontexte: den Unterschied von rund fünf Prozentpunkten, die zustande gekommene Kompass-Initiative und die Gründe beider Seiten.",
+    "zusammenfassung": "Der Artikel kritisiert eine SRF-Meldung, die den Entscheid der APK-N gegen das Ständemehr für das EU-Paket als Verfahrensstreit zwischen zwei Kammern darstellt. Wesentliche Kontexte fehlen: der geschätzte Unterschied von rund fünf Prozentpunkten zwischen Volksmehr und Ständemehr, die zustande gekommene Kompass-Initiative mit über 111'000 Unterschriften, die inhaltlichen Gründe beider Seiten sowie die Stimmenverhältnisse im Ständerat. Die Meldung übernimmt zudem das Vokabular der Kommission («wehrt sich», «Vertiefung», «abkommenswidrig») und stellt die Kommission als Schiedsrichterin dar, obwohl sie als Partei agiert, die für ihr eigenes bevorzugtes Ergebnis die niedrigere Hürde wählt.",
+    "quelle_datum": "2026-11-18",
+    "quelle_format": "Online-Artikel",
+    "quelle_sendung": "SRF4 News",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M013"
+  },
+  {
     "slug": "gewaehlt-ja-demokraten-vielleicht-srf-und-die-afd",
     "title": "Gewählt ja, Demokraten vielleicht: SRF und die AfD",
     "date": "2026-11-18",
