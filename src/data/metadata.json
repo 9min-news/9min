@@ -1,5 +1,399 @@
 [
   {
+    "slug": "der-kohleexporteur-am-verhandlungstisch-den-srf-nicht-nennt",
+    "title": "Der Kohleexporteur am Verhandlungstisch, den SRF nicht nennt",
+    "date": "2026-11-19",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/der-kohleexporteur-am-verhandlungstisch-den-srf-nicht-nennt.webp",
+    "tweetId": "",
+    "readingTime": 6,
+    "categories": [
+      "SRF/SRG",
+      "Klima/Energie",
+      "Wirtschaft"
+    ],
+    "themen": [
+      "COP31-Berichterstattung",
+      "Fossile Brennstoffe in Klimaverhandlungen",
+      "Interessenkonflikte bei Verhandlungsführung",
+      "Schweizer Klimapolitik-Kosten",
+      "Medienframing von Klimakonferenzen"
+    ],
+    "tags": [
+      "COP31",
+      "Antalya",
+      "Australien",
+      "Kohleexport",
+      "Verhandlungsführung",
+      "fossile Brennstoffe",
+      "Klima- und Innovationsgesetz",
+      "Netto-Null"
+    ],
+    "kritisiertes_medium": "SRF 4 News",
+    "kritisierter_beitrag": "COP31-Entwurf streicht alle Hinweise auf fossile Brennstoffe",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Framing",
+      "Selektion"
+    ],
+    "personen": [
+      "Albert Rösti"
+    ],
+    "institutionen": [
+      "SRF",
+      "SRF 4 News",
+      "Bundesrat",
+      "COP31",
+      "EU",
+      "Deutschland",
+      "USA",
+      "Australien",
+      "Türkei",
+      "Saudi-Arabien",
+      "Russland",
+      "COP30"
+    ],
+    "gesetze_vorlagen": [
+      "Klima- und Innovationsgesetz",
+      "Pariser Abkommen"
+    ],
+    "these": "SRF blendet in seiner COP31-Berichterstattung die Interessen der australischen Verhandlungsführung, den Vorjahreskontext und die Kosten der Schweizer Klimapolitik aus und reduziert die Berichterstattung auf Wortzählung statt Kostenanalyse.",
+    "zusammenfassung": "Der Artikel kritisiert den SRF-Beitrag zur COP31 in Antalya, weil er Australien als Kohle- und Flüssiggasexporteur in der Verhandlungsführung nicht erwähnt, den Vergleich mit der Vorjahreserklärung von Belém unterlässt und Bundesrat Rösti unkritisch als Zitatgeber präsentiert, ohne dessen Doppelrolle als Partei und kostenverteilende Behörde zu thematisieren. SRF übernehme den 35-Prozent-Stromzielwert als Massstab, ohne Kosten oder Machbarkeit zu hinterfragen, und rahme den Entwurf als Niederlage gegen Petrostaaten, obwohl der Vorjahrestext ebenfalls keine fossilen Brennstoffe nannte.",
+    "quelle_datum": "2026-11-16",
+    "quelle_format": "Online-Artikel",
+    "quelle_sendung": "SRF 4 News",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M004"
+  },
+  {
+    "slug": "der-souveraen-entscheidet-und-srf-meldet-eine-niederlage",
+    "title": "Der Souverän entscheidet, und SRF meldet eine Niederlage",
+    "date": "2026-11-19",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/der-souveraen-entscheidet-und-srf-meldet-eine-niederlage.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "Abstimmungen",
+      "SRF/SRG"
+    ],
+    "themen": [
+      "SRG-Umfrage-Methodik",
+      "Abstimmungsberichterstattung",
+      "Framing von Umfrageergebnissen",
+      "Opt-in-Stichproben",
+      "Meinungsbildung vor Urnengängen"
+    ],
+    "tags": [
+      "SRG-Umfrage",
+      "gfs.bern",
+      "Opt-in-Verfahren",
+      "Repräsentativität",
+      "Fehlerspanne",
+      "Framing",
+      "Abstimmungsvorlagen",
+      "Souveränität"
+    ],
+    "kritisiertes_medium": "SRF News",
+    "kritisierter_beitrag": "Dem Bund drohen mindestens zwei Niederlagen",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Framing",
+      "Auslassung",
+      "Interessenkonflikt"
+    ],
+    "personen": [
+      "Lukas Golder",
+      "Corina Schena"
+    ],
+    "institutionen": [
+      "SRF",
+      "SRG",
+      "gfs.bern",
+      "AAPOR",
+      "Bundesrat",
+      "Parlament"
+    ],
+    "gesetze_vorlagen": [
+      "AHV-Finanzierung",
+      "Feuerwerksinitiative",
+      "Mitte-Initiative",
+      "Kriegsmaterialgesetz",
+      "Individualbesteuerung"
+    ],
+    "these": "SRF rahmt eine methodisch limitierte, gewichtete Momentaufnahme aus überwiegend selbst rekrutierten Online-Antworten als Verdikt des Volkes gegen den Bund, verschweigt die methodischen Einschränkungen in der Schlagzeile und lässt die Sachinhalte der Vorlagen sowie die Interessenlagen der Stimmbürger unbeleuchtet.",
+    "zusammenfassung": "Der Artikel analysiert einen SRF-Beitrag über eine SRG-Umfrage zu vier Schweizer Abstimmungsvorlagen. Kritisiert wird, dass SRF eine gewichtete Momentaufnahme aus 13'017 nicht-repräsentativen Online-Antworten und nur 510 Telefoninterviews als präzises Verdikt rahmt, während die methodischen Vorbehalte ins Kleingedruckte wandern. Zudem werden Sachargumente als 'Angst' pathologisiert, die Vorlageninhalte nicht erklärt und die Perspektive des Bundes als 'Niederlagen' übernommen, obwohl der Volksentscheid der Normalfall der direkten Demokratie ist.",
+    "quelle_datum": "2026-11-18",
+    "quelle_format": "Online-Artikel",
+    "quelle_sendung": "SRF 4 News",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M007"
+  },
+  {
+    "slug": "gleich-lange-spiesse-aber-nur-einer-schreibt-die-regeln",
+    "title": "Gleich lange Spiesse, aber nur einer schreibt die Regeln",
+    "date": "2026-11-19",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/gleich-lange-spiesse-aber-nur-einer-schreibt-die-regeln.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "EU/Aussenpolitik",
+      "SRF/SRG",
+      "Demokratie"
+    ],
+    "themen": [
+      "Bilaterale Verträge EU-Schweiz",
+      "Dynamische Rechtsübernahme",
+      "Kohäsionsbeitrag",
+      "Streitbeilegung",
+      "Direkte Demokratie"
+    ],
+    "tags": [
+      "Charmeoffensive",
+      "Rahmenabkommen",
+      "EU-Kommission",
+      "Sefcovic",
+      "Kohäsionsmilliarden",
+      "Streitbeilegung",
+      "Medienkritik",
+      "Behördenpropaganda"
+    ],
+    "kritisiertes_medium": "SRF News",
+    "kritisierter_beitrag": "Eine ‹positive Story›: Charmeoffensive aus Brüssel",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Behördenpropaganda",
+      "Selektion"
+    ],
+    "personen": [
+      "Maros Sefcovic",
+      "Richard Szostak",
+      "Christophe Grudler"
+    ],
+    "institutionen": [
+      "SRF",
+      "EU-Kommission",
+      "EU-Parlament",
+      "Ständerat",
+      "Nationalrat",
+      "Aussenpolitische Kommission des Nationalrats",
+      "Gerichtshof der EU",
+      "Le Temps"
+    ],
+    "gesetze_vorlagen": [
+      "Bilaterale Verträge EU-Schweiz",
+      "Stromabkommen"
+    ],
+    "these": "SRF benennt eine EU-Werbeveranstaltung als solche, übernimmt aber deren Narrativ, ohne die zentralen Fragen nach Kosten und Machtverteilung zu stellen.",
+    "zusammenfassung": "Der Artikel kritisiert einen SRF-Beitrag zur EU-Charmeoffensive in Brüssel, der die Veranstaltung zwar als PR-Anlass erkenne, aber deren Programm unkritisch weiterreiche. Wesentliche Fakten fehlten: der jährliche Kohäsionsbeitrag von 350 Millionen Franken, die genaue Ausgestaltung der dynamischen Rechtsübernahme mit Mitwirkung ohne Mitentscheid, die bindende Auslegung durch den EU-Gerichtshof sowie mögliche Ausgleichsmassnahmen. Zudem kämen ausschliesslich EU-Vertreter zu Wort, keine Schweizer Stimmen.",
+    "quelle_datum": "2026-11-18",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "Echo der Zeit",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M005"
+  },
+  {
+    "slug": "tiefere-praemien-oder-acht-milliarden-neue-steuern",
+    "title": "Tiefere Prämien, oder acht Milliarden neue Steuern?",
+    "date": "2026-11-19",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/tiefere-praemien-oder-acht-milliarden-neue-steuern.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "Abstimmungen",
+      "Gesellschaft",
+      "Wirtschaft"
+    ],
+    "themen": [
+      "Krankenversicherungsprämien",
+      "Volksinitiative",
+      "Steuerfinanzierung",
+      "Umverteilung",
+      "Gesundheitskosten"
+    ],
+    "tags": [
+      "Prämieninitiative",
+      "SP",
+      "Umverteilung",
+      "Steuerzuschlag",
+      "Framing",
+      "Kontextmangel",
+      "direkte Bundessteuer",
+      "Gewinnsteuer"
+    ],
+    "kritisiertes_medium": "SRF News",
+    "kritisierter_beitrag": "Linke Allianz nimmt neuen Anlauf für tiefere Prämien",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Framing",
+      "Kontextmangel",
+      "Auslassung"
+    ],
+    "personen": [
+      "Samuel Bendahan",
+      "Mattea Meyer",
+      "Pierre-Yves Maillard"
+    ],
+    "institutionen": [
+      "SRF",
+      "SP",
+      "BAG",
+      "Ecoplan",
+      "Die Mitte",
+      "FDP",
+      "Prioswiss",
+      "H+",
+      "FMH"
+    ],
+    "gesetze_vorlagen": [
+      "Volksinitiative für tiefere Prämien",
+      "KVG",
+      "direkte Bundessteuer"
+    ],
+    "these": "SRF meldet eine Steuererhöhung von acht Milliarden Franken als Prämienentlastung, ohne Grössenordnungen zu nennen, Kostenmechanismen zu prüfen oder das Etikett der Initianten kritisch zu hinterfragen.",
+    "zusammenfassung": "9min.ch analysiert einen SRF-Beitrag zur Lancierung einer linken Prämieninitiative. SRF übernehme das Framing der Initianten (\"tiefere Prämien\"), obwohl die Kosten nicht sinken, sondern per Steuererhöhung umgebucht würden. Kritisiert wird, dass SRF die Summe von acht Milliarden Franken nicht ins Verhältnis setze, die 90-Prozent-Zielsetzung als Tatsache melde, das angebliche acht-Prozent-Versprechen historisch unpräzise darstelle und die Abstimmungsniederlage von 2024 nicht mit dem neuen Anlauf verbinde.",
+    "quelle_datum": "2026-11-19",
+    "quelle_format": "Online-Artikel",
+    "quelle_sendung": "SRF 4 News",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M010"
+  },
+  {
+    "slug": "vererbte-armut-die-der-bund-beim-einkommen-nicht-findet",
+    "title": "Vererbte Armut, die der Bund beim Einkommen nicht findet",
+    "date": "2026-11-19",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/vererbte-armut-die-der-bund-beim-einkommen-nicht-findet.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Gesellschaft",
+      "Demokratie"
+    ],
+    "themen": [
+      "Armutsmessung",
+      "Vererbungsthese ohne Beleg",
+      "Sozialhilfe-Rückzahlung",
+      "Einzelfall als Hochrechnung"
+    ],
+    "tags": [
+      "Armut",
+      "Armutsgefährdung",
+      "Einkommensarmut",
+      "Vererbung",
+      "Sozialhilfe",
+      "Struktur",
+      "kantonales Recht",
+      "Bundesamt für Statistik"
+    ],
+    "kritisiertes_medium": "SRF",
+    "kritisierter_beitrag": "Ich bin alleinerziehend und armutsgefährdet – wie viele andere",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Framing",
+      "Einordnungsfehler"
+    ],
+    "personen": [
+      "Nadja Chahdi"
+    ],
+    "institutionen": [
+      "SRF",
+      "10 vor 10",
+      "Bundesamt für Statistik",
+      "Schweizerische Konferenz für Sozialhilfe",
+      "Caritas"
+    ],
+    "gesetze_vorlagen": [
+      "kantonales Recht zur Rückzahlung der Sozialhilfe",
+      "SKOS-Richtlinien"
+    ],
+    "these": "SRF behauptet eine Vererbungsthese für Einkommensarmut ohne Beleg, wählt von zwei amtlichen Zahlen die doppelt so grosse und verschweigt die kleinere, und nennt «strukturell», was in seinem einzigen konkreten Fall eine adressierbare kantonale Rückzahlungsregel ist, die er nicht beim Namen nennt.",
+    "zusammenfassung": "Der Artikel kritisiert den SRF-Beitrag von «10 vor 10» vom 09.11.2026, weil er in redaktioneller Eigenstimme eine Vererbungsthese für Einkommensarmut behauptet, die das Bundes-Armutsmonitoring gerade für dieses Mass nicht bestätigt, und die 708'000 Personen unter dem sozialen Existenzminimum verschweigt, während er 1,45 Millionen «Armutsgefährdete» unter der Dachzeile «Armut in der Schweiz» präsentiert. Die einzige konkret benannte Struktur, die kantonale Pflicht zur Rückzahlung von Sozialhilfe, bleibt namenlos, obwohl sie als einzige adressierbare Ursache im Beitrag auftaucht. Damit entzieht die Redaktion der demokratischen Korrektur den Ort, an dem Verantwortung liegt.",
+    "quelle_datum": "2026-11-09",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "10 vor 10",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M008"
+  },
+  {
+    "slug": "wie-einzigartig-ist-ein-budget-nein-das-es-2016-gab",
+    "title": "Wie einzigartig ist ein Budget-Nein, das es 2016 gab?",
+    "date": "2026-11-19",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/wie-einzigartig-ist-ein-budget-nein-das-es-2016-gab.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Abstimmungen",
+      "Wirtschaft"
+    ],
+    "themen": [
+      "Budgetprozess 2027",
+      "Schuldenbremse",
+      "Finanzkommissionsantrag vs. Gesamtabstimmung",
+      "Mehrwertsteuererhöhungen",
+      "13. AHV-Rente"
+    ],
+    "tags": [
+      "Budget",
+      "Schuldenbremse",
+      "Finanzkommission",
+      "Voranschlag",
+      "Mehrwertsteuer",
+      "AHV",
+      "Framing",
+      "Asymmetrie"
+    ],
+    "kritisiertes_medium": "SRF 4 News",
+    "kritisierter_beitrag": "Warum das Budget an einer unheiligen Allianz scheiterte",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Framing",
+      "Auslassung",
+      "Asymmetrie"
+    ],
+    "personen": [
+      "Lars Guggisberg"
+    ],
+    "institutionen": [
+      "SRF",
+      "Nationalrat",
+      "Finanzkommission des Nationalrats",
+      "Bundesrat",
+      "SVP",
+      "SP",
+      "Grüne"
+    ],
+    "gesetze_vorlagen": [
+      "Voranschlag 2027",
+      "Schuldenbremse",
+      "Parlamentsgesetz Art. 74 Abs. 5",
+      "13. AHV-Rente",
+      "Rüstungsfonds",
+      "Finanzplan"
+    ],
+    "these": "SRF rahmt einen Kommissionsantrag als gescheitertes Budget und verschweigt, dass der Voranschlag die Schuldenbremse einhält und einen Überschuss aufweist, wodurch vor der AHV-Abstimmung die Gewichte zulasten der direkten Demokratie verschoben werden.",
+    "zusammenfassung": "9min.ch kritisiert einen SRF-Beitrag, der die Ablehnung des Voranschlags 2027 durch die Finanzkommission als gescheitertes Budget und historische Premiere darstellt, obwohl der Nationalrat noch gar nicht abgestimmt hat und ein identischer Präzedenzfall von 2016 existiert. Der Beitrag verschweigt den strukturellen Überschuss, das Ausgabenwachstum von 2,7 Milliarden und die konkreten Mehrwertsteuerbelastungen, prüft nur das rechte Nein auf seine Logik und rahmt die eingehaltene Schuldenbremse als Konfliktpartei.",
+    "quelle_datum": "2026-11-12",
+    "quelle_format": "Online-Artikel",
+    "quelle_sendung": "SRF 4 News",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M007"
+  },
+  {
     "slug": "das-bag-hielt-die-krebs-rangliste-zurueck-srf-verschweigt-es",
     "title": "Das BAG hielt die Krebs-Rangliste zurück, SRF verschweigt es",
     "date": "2026-11-18",
