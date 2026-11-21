@@ -1,5 +1,285 @@
 [
   {
+    "slug": "bei-srf-schrumpft-katar-staerker-als-beim-iwf",
+    "title": "Bei SRF schrumpft Katar stärker als beim IWF",
+    "date": "2026-11-21",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/bei-srf-schrumpft-katar-staerker-als-beim-iwf.webp",
+    "tweetId": "",
+    "readingTime": 6,
+    "categories": [
+      "SRF/SRG",
+      "Migration",
+      "Wirtschaft"
+    ],
+    "themen": [
+      "Katar-Berichterstattung SRF",
+      "IWF-Prognose und wirtschaftliche Polster",
+      "Angriff auf Ras Laffan",
+      "Arbeitsreformen und Kafala-System",
+      "Krisenframing ohne Täter"
+    ],
+    "tags": [
+      "10vor10",
+      "Katar",
+      "IWF-Prognose",
+      "Ras Laffan",
+      "Kafala-System",
+      "Gaskrise",
+      "Ausländerpolitik",
+      "Framing"
+    ],
+    "kritisiertes_medium": "SRF",
+    "kritisierter_beitrag": "Das System Katar – Ein Land voller Gäste auf Zeit",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Framing",
+      "Kontextmangel"
+    ],
+    "personen": [
+      "Mehran Kamrava",
+      "Nathan Porter",
+      "Muhammad"
+    ],
+    "institutionen": [
+      "SRF",
+      "IWF",
+      "QatarEnergy",
+      "Orlen",
+      "PGNiG",
+      "ILO",
+      "Arbeitsministerium Katar"
+    ],
+    "gesetze_vorlagen": [
+      "Staatsangehörigkeitsgesetz Katar 2005"
+    ],
+    "these": "SRF rahmt Katars Gaskrise als Schicksal der Gäste auf Zeit, verschweigt dabei den iranischen Angriff auf Ras Laffan, die finanziellen Polster des Emirats, die Arbeitsreformen und den Entscheider, der über Kürzungen befindet.",
+    "zusammenfassung": "Der 9min-Artikel kritisiert einen 10vor10-Beitrag über Katar, der eine veraltete IWF-Prognose verwendet und entlastende Befunde derselben Quelle (Polster, Wachstum ausserhalb des Energiesektors) weglässt. Der Angriff Irans auf die LNG-Anlage Ras Laffan fehlt ebenso wie die Arbeitsreformen, der Lohn der Arbeiter und die gesetzliche Obergrenze bei Einbürgerungen. Die Krisenerzählung bleibt ohne Täter, ohne Vermögensseite und ohne Entscheider.",
+    "quelle_datum": "2026-11-18",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "10vor10",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M006"
+  },
+  {
+    "slug": "das-ausstiegsvorbild-das-der-eu-das-gas-liefert",
+    "title": "Das Ausstiegsvorbild, das der EU das Gas liefert",
+    "date": "2026-11-21",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/das-ausstiegsvorbild-das-der-eu-das-gas-liefert.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Klima/Energie",
+      "Demokratie"
+    ],
+    "themen": [
+      "Klimakonferenz COP31",
+      "Schweizer Klimagesetz",
+      "Norwegen als EU-Gaslieferant",
+      "Klimafinanzierung",
+      "Medienkritik SRF"
+    ],
+    "tags": [
+      "COP31",
+      "Klimagesetz",
+      "Norwegen",
+      "Gasimporte",
+      "Albert Rösti",
+      "Echo der Zeit",
+      "Ausstieg",
+      "direkte Demokratie"
+    ],
+    "kritisiertes_medium": "SRF",
+    "kritisierter_beitrag": "Albert Röstis Versprechen an der Klimakonferenz",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Framing",
+      "Asymmetrie"
+    ],
+    "personen": [
+      "Albert Rösti",
+      "Reto Burkard"
+    ],
+    "institutionen": [
+      "SRF",
+      "Echo der Zeit",
+      "Bundesrat",
+      "BAFU",
+      "SECO",
+      "UNEP",
+      "Equinor",
+      "Parlament",
+      "Umweltkommission des Nationalrats",
+      "COP30-Präsidentschaft",
+      "Arabische Gruppe",
+      "Russland"
+    ],
+    "gesetze_vorlagen": [
+      "Klima- und Innovationsgesetz",
+      "Rahmenkredit Globale Umwelt 2027-2030"
+    ],
+    "these": "SRF wertet ein vom Volk angenommenes Klimagesetz mit verbindlichen Zwischenzielen als blosse \"Zusammenfassung\" ab, während es ungeprüfte Regierungspläne des größten EU-Gaslieferanten Norwegen als \"Vorbild\" rahmt und so direkte Demokratie zugunsten internationaler Vergleichbarkeit abwertet.",
+    "zusammenfassung": "Der 9min-Artikel kritisiert den SRF-Beitrag zur COP31, weil er das Schweizer Klimagesetz trotz Volksmandat und gesetzlicher Zwischenziele als \"Zusammenfassung bereits beschlossener Ziele\" abwertet, während Norwegen ungeprüft als Ausstiegsvorbild dargestellt wird, obwohl es 2025 der größte Pipelinegaslieferant der EU war. SRF prüft Schweizer Zahlen mit dem Rechenstift, lässt Pläne Frankreichs und Norwegens ungeprüft und nennt die Staaten nicht, die den Hinweis auf fossile Brennstoffe ablehnten. Rösti wird am fehlenden Zusatzpapier statt an der verfehlten Emissionsreduktion gemessen.",
+    "quelle_datum": "2026-11-20",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "Echo der Zeit",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M007"
+  },
+  {
+    "slug": "der-groesste-abbau-fehlt-im-srf-bericht-der-eigene",
+    "title": "Der grösste Abbau fehlt im SRF-Bericht: der eigene",
+    "date": "2026-11-21",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/der-groesste-abbau-fehlt-im-srf-bericht-der-eigene.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Billag/Gebühren",
+      "Demokratie"
+    ],
+    "themen": [
+      "Interessenkonflikt bei Eigenberichterstattung",
+      "Stellenabbau SRG vs. private Medien",
+      "Medienfinanzierung und Volksabstimmungen",
+      "Gewerkschaftsprotest und Lobbyismus"
+    ],
+    "tags": [
+      "Interessenkonflikt",
+      "SRG",
+      "Stellenabbau",
+      "Medienfinanzierung",
+      "Gewerkschaft",
+      "Auslassung",
+      "Bundesplatz",
+      "Demokratie"
+    ],
+    "kritisiertes_medium": "SRF",
+    "kritisierter_beitrag": "Medienschaffende protestieren für Journalismus und Demokratie",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Framing",
+      "Interessenkonflikt"
+    ],
+    "personen": [
+      "Salvador Atasoy",
+      "Stephanie Vonarburg",
+      "Caroline Gebhard",
+      "Susanne Brunner"
+    ],
+    "institutionen": [
+      "SRG",
+      "SRF",
+      "SSM",
+      "Syndicom",
+      "Impressum",
+      "Tamedia",
+      "Ringier",
+      "Radio Energy",
+      "Swissinfo",
+      "Bundesrat",
+      "Media Alliance",
+      "Keystone-SDA",
+      "sda"
+    ],
+    "gesetze_vorlagen": [
+      "SRG-Initiative «200 Franken sind genug!»",
+      "Massnahmenpaket zugunsten der Medien 2022",
+      "Senkung der Haushaltabgabe auf 300 Franken"
+    ],
+    "these": "SRF berichtet über eine Demonstration gegen Stellenabbau in der Medienbranche, verschweigt aber, dass über drei Viertel des beanstandeten Abbaus im eigenen Haus stattfindet und die eigene Gewerkschaft zum Protest aufgerufen hat, wodurch der Sender seine Parteilichkeit verschleiert.",
+    "zusammenfassung": "Der Artikel kritisiert einen SRF-Bericht über eine Kundgebung auf dem Bundesplatz gegen Stellenabbau in der Medienbranche. SRF verschweigt, dass rund 260 der 363 betroffenen Stellen bei der SRG selbst anfallen und die Gewerkschaft des SRG-Personals zum Protest aufgerufen hat. Zudem fehlen wesentliche Kontexte wie die Ursachen des Abbaus (Werbeabwanderung, Bundesratsentscheid zur Haushaltabgabe-Senkung) und die beiden Volksabstimmungen zur Medienfinanzierung.",
+    "quelle_datum": "2026-11-21",
+    "quelle_format": "Online-Artikel",
+    "quelle_sendung": "SRF4 News",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M009"
+  },
+  {
+    "slug": "drei-atommaechte-am-tisch-und-srf-vergisst-die-schweiz",
+    "title": "Drei Atommächte am Tisch, und SRF vergisst die Schweiz",
+    "date": "2026-11-21",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/drei-atommaechte-am-tisch-und-srf-vergisst-die-schweiz.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "EU/Aussenpolitik",
+      "Sicherheitspolitik"
+    ],
+    "themen": [
+      "Dreiergipfel Shenzhen 2026",
+      "Schweizer Neutralität und OSZE-Vorsitz",
+      "Transatlantische Sicherheitspolitik",
+      "Atomwaffen-Diplomatie",
+      "Neutralitätsinitiative"
+    ],
+    "tags": [
+      "Tagesgespräch",
+      "Claudia Major",
+      "German Marshall Fund",
+      "OSZE-Ministerrat Lugano",
+      "Jalta-Vergleich",
+      "Interessenmarkierung",
+      "importierter Zeuge",
+      "Symbolik statt Text"
+    ],
+    "kritisiertes_medium": "SRF",
+    "kritisierter_beitrag": "Expertin: ‹Für Europa ist das eine bedrohliche Nachricht›",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Selektion",
+      "Interessenkonflikt"
+    ],
+    "personen": [
+      "Claudia Major",
+      "Ignazio Cassis",
+      "Ronald Reagan",
+      "Michail Gorbatschow",
+      "Joe Biden",
+      "Wladimir Putin",
+      "Donald Tusk",
+      "Mark Rutte",
+      "Donald Trump"
+    ],
+    "institutionen": [
+      "SRF",
+      "OSZE",
+      "EU",
+      "NATO",
+      "German Marshall Fund",
+      "UNO",
+      "Internationaler Strafgerichtshof",
+      "EU-Kommission",
+      "Schweizer Botschaft Belgrad",
+      "Berliner Zeitung",
+      "Auswärtiges Amt"
+    ],
+    "gesetze_vorlagen": [
+      "Neutralitätsinitiative",
+      "New START"
+    ],
+    "these": "Das SRF-Tagesgespräch über den Dreiergipfel von Shenzhen übernimmt den Blickwinkel eines transatlantischen Thinktanks, ohne die Erklärung der Atommächte zu prüfen oder die Bedeutung für die neutrale Schweiz im OSZE-Vorsitz zu erfragen.",
+    "zusammenfassung": "9min.ch kritisiert, dass das SRF-Tagesgespräch zum Dreiergipfel in Shenzhen nur eine Expertin des German Marshall Fund zu Wort kommen lässt, deren Institution von EU, NATO und Regierungen finanziert wird, ohne dies offenzulegen. Die gemeinsame Erklärung der drei Atommächte mit vier Punkten wird nicht ausgewertet, und die Rolle der Schweiz als amtierender OSZE-Vorsitz mit anstehendem Ministerrat in Lugano bleibt unerwähnt. Der Beitrag ersetze die Schweizer Frage durch eine europäische und nutze Symbolik statt Textanalyse.",
+    "quelle_datum": "2026-11-19",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "Tagesgespräch",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M014"
+  },
+  {
     "slug": "der-kohleexporteur-am-verhandlungstisch-den-srf-nicht-nennt",
     "title": "Der Kohleexporteur am Verhandlungstisch, den SRF nicht nennt",
     "date": "2026-11-19",
