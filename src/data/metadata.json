@@ -1,5 +1,150 @@
 [
   {
+    "slug": "die-romandie-verliert-einen-sitz-die-verfassung-nichts",
+    "title": "Die Romandie verliert einen Sitz, die Verfassung nichts",
+    "date": "2026-11-22",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/die-romandie-verliert-einen-sitz-die-verfassung-nichts.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Demokratie"
+    ],
+    "themen": [
+      "Bundesratswahl",
+      "Sprachregionenvertretung",
+      "Ticketsystem",
+      "Konkordanz",
+      "Medien-Framing"
+    ],
+    "tags": [
+      "Bundesratswahl",
+      "Romandie",
+      "Ticketplatz",
+      "SVP",
+      "SRF",
+      "Konkordanz",
+      "Sprachregionen",
+      "Ausschlussklausel"
+    ],
+    "kritisiertes_medium": "SRF",
+    "kritisierter_beitrag": "Hardliner-Ticket: Und die SVP hat es doch getan …",
+    "kritisierter_autor": "Dominik Meier",
+    "kritik_typ": [
+      "Auslassung",
+      "Framing",
+      "Kontextmangel"
+    ],
+    "personen": [
+      "Thomas Aeschi",
+      "Dominik Meier",
+      "Christoph Blocher",
+      "Eveline Widmer-Schlumpf",
+      "Guy Parmelin",
+      "Elisabeth Baume-Schneider",
+      "Ignazio Cassis",
+      "Roger Bonvin",
+      "Nello Celio",
+      "Céline Amaudruz",
+      "Pierre Alain Schnegg",
+      "Alain Berset",
+      "Beat Jans",
+      "Jon Pult",
+      "Yves Donzallaz",
+      "Albert Graber"
+    ],
+    "institutionen": [
+      "SRF",
+      "SVP",
+      "SP",
+      "Grüne",
+      "FDP",
+      "Die Mitte",
+      "Bundesrat",
+      "Bundesversammlung",
+      "GRECO",
+      "Europarat",
+      "Immunitätskommissionen"
+    ],
+    "gesetze_vorlagen": [
+      "Art. 175 Abs. 4 BV"
+    ],
+    "these": "SRF rahmt die SVP-Nomination als Verstoss gegen ungeschriebene Bräuche, die als verbindliche Verfassungsnorm dargestellt werden, und blendet dabei den historischen Anlass der Ausschlussklausel sowie den SP-Vergleichsfall von 2023 aus.",
+    "zusammenfassung": "Der 9min-Artikel analysiert einen 10vor10-Beitrag von Dominik Meier, der die SVP-Ticketnominierung als Grenzüberschreitung gegenüber einem angeblichen «Anspruch der Romandie» rahmt. Kritisiert wird, dass SRF ungeschriebene Bräuche als Verfassungspflicht darstellt, den historischen Anlass der Ausschlussklausel (Blocher-Wahl 2007) weglässt, verfügbare Romand-Kandidaten nicht nennt, zentrale Vorwürfe nur anonym belegt und den SP-Vergleichsfall von 2023 auslässt. Die Asymmetrie besteht darin, dass die SVP an Massstäbe gemessen wird, die bei anderen Parteien nicht angelegt werden.",
+    "quelle_datum": "2026-11-20",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "10vor10",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 2,
+    "muster_id": "M004"
+  },
+  {
+    "slug": "foerdergeld-im-namen-der-demokratie-die-2022-nein-sagte",
+    "title": "Fördergeld im Namen der Demokratie, die 2022 Nein sagte",
+    "date": "2026-11-22",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/foerdergeld-im-namen-der-demokratie-die-2022-nein-sagte.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Billag/Gebühren",
+      "Demokratie"
+    ],
+    "themen": [
+      "Medienförderung",
+      "direkte Demokratie",
+      "Medienqualität",
+      "Subventionspolitik"
+    ],
+    "tags": [
+      "Medienpaket 2022",
+      "Medienförderung",
+      "direkte Demokratie",
+      "Echo der Zeit",
+      "SRG-Interessenkonflikt",
+      "Lokaljournalismus",
+      "Qualitätsdebatte",
+      "Abstimmungsresultat verschwiegen"
+    ],
+    "kritisiertes_medium": "SRF Echo der Zeit",
+    "kritisierter_beitrag": "Weniger Journalisten – leidet die Qualität?",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Selektion",
+      "Framing"
+    ],
+    "personen": [
+      "Lüthi",
+      "Wyss"
+    ],
+    "institutionen": [
+      "SRF",
+      "Media Alliance",
+      "SSM",
+      "Bundesrat",
+      "Parlament",
+      "Universität Zürich",
+      "fög",
+      "Post"
+    ],
+    "gesetze_vorlagen": [
+      "Medienpaket 2022 (abgelehnt 13.02.2022)",
+      "Bundesbeitrag Zustellhilfe",
+      "Abgabenanteil Lokalradios/Regionalfernsehen"
+    ],
+    "these": "Der SRF-Beitrag instrumentalisiert die direkte Demokratie als Argument für neue Medienförderung, verschweigt aber das Nein der Stimmbürger von 2022 sowie die bereits fliessenden und gerade erhöhten dreistelligen Millionenbeträge an Bundessubventionen.",
+    "zusammenfassung": "Der Beitrag beruft sich zweimal auf die direkte Demokratie, um neue Fördermodelle zu fordern, lässt aber das Abstimmungsresultat von 2022 (54,6% Nein zum Medienpaket) unerwähnt. Ebenso verschweigt er die bestehende und 2025/2026 aufgestockte Förderung in dreistelliger Millionenhöhe. Der eigene Experte verneint einen Qualitätsverlust, dennoch endet der Beitrag beim Ruf nach Geld – präsentiert von einem abgabefinanzierten Sender ohne Markierung der eigenen Interessenlage.",
+    "quelle_datum": "2026-11-21",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "Echo der Zeit",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M010"
+  },
+  {
     "slug": "bei-srf-schrumpft-katar-staerker-als-beim-iwf",
     "title": "Bei SRF schrumpft Katar stärker als beim IWF",
     "date": "2026-11-21",
