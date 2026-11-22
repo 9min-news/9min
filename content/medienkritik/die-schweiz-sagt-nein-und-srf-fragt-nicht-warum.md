@@ -5,13 +5,24 @@ status: published
 type: medienkritik
 coverImage: /images/medienkritik/die-schweiz-sagt-nein-und-srf-fragt-nicht-warum.webp
 tweetId: ''
-categories: []
-tags: []
+categories:
+  - SRF/SRG
+  - Klima/Energie
+  - EU/Aussenpolitik
+tags:
+  - SRF
+  - Tagesschau
+  - Klimakonferenz
+  - Antalya
+  - Albert Rösti
+  - Cover Decision
+  - COP28
+  - Klimaziel
 seo:
   description: >-
     Die SRF-Tagesschau meldet das Nein der Schweiz zur Klimakonferenz als Echo
     der EU. Warum die Delegation ablehnte und was es kostet, bleibt offen.
-kritisiertes_medium: Tagesschau
+kritisiertes_medium: SRF News/Tagesschau
 kritisierter_beitrag: Keine Einigung bei Weltklimakonferenz – auch Schweiz lehnt ab
 quelle_url: >-
   https://www.srf.ch/news/international/klimakonferenz-in-der-tuerkei-keine-einigung-bei-weltklimakonferenz-auch-schweiz-lehnt-ab
@@ -54,6 +65,56 @@ verfassung:
     sowie an einem als «definitiv» verfehlt erklärten 1,5-Grad-Ziel.
   at: '2026-11-22'
 muster_id: M014
+themen:
+  - Klimakonferenz Antalya
+  - Schweizer Klimaaussenpolitik
+  - Medienberichterstattung über Klimaverhandlungen
+  - Klimafinanzierung
+  - 1.5-Grad-Ziel
+kritisierter_autor: Klaus Ammann
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Kontextmangel
+personen:
+  - Albert Rösti
+  - Murat Kurum
+  - Klaus Ammann
+institutionen:
+  - SRF
+  - EU
+  - WMO
+  - IPCC
+  - Copernicus
+  - Keystone-SDA
+  - Bundesrat
+  - Saudi-Arabien
+  - Panama
+  - Marshallinseln
+  - Ghana
+  - Afrikanische Gruppe
+  - COP28
+gesetze_vorlagen:
+  - CO2-Gesetz
+  - Klima- und Innovationsgesetz
+  - Cover Decision
+  - Paris-Abkommen
+these: >-
+  SRF meldet ein Schweizer Nein zur Weltklimakonferenz, rahmt es als
+  EU-Anhängsel und lässt die zentralen Fragen nach Begründung, Mandat und Kosten
+  unbeantwortet, während es unverbindliche Aufrufe als verbindliche Einigung und
+  politische Setzungen als Messbefunde präsentiert.
+zusammenfassung: >-
+  Der Artikel kritisiert den SRF-Tagesschau-Beitrag zur Weltklimakonferenz in
+  Antalya, weil er das Schweizer Nein zur Abschlussdeklaration mit dem Wort
+  «auch» als EU-Anhängsel framingt, aber weder die Gründe noch das Mandat noch
+  die Kosten des Schweizer Neins nennt. Zudem wird die zwei Tage zuvor in der
+  SRF-Arena geäusserte Bewertung durch Bundesrat Rösti nicht mit der Ablehnung
+  verknüpft, die unverbindliche COP28-Erklärung als verbindliche Einigung
+  dargestellt und das 1.5-Grad-Ziel mit einer Endgültigkeit verkündet, die WMO
+  und IPCC selbst nicht beanspruchen. Die EU erhält drei wörtliche Zitate, die
+  Schweiz nur eine inhaltslose Bestätigung.
+kritik_schwere: 3
 ---
 
 *Am Freitag gab Bundesrat Albert Rösti in der SRF-«Arena» der Weltklimakonferenz eine Schulnote: «Ich würde dieser Konferenz die Note 4,5 geben.» Am Sonntag lehnte die Schweizer Delegation in Antalya den Abschlussentwurf ab. Die Tagesschau desselben Senders setzt dieses Nein in den Titel, macht es mit einem einzigen Wort aber zum Anhang der EU: «auch Schweiz lehnt ab». Warum die Schweiz Nein sagte, in wessen Auftrag und was das Nein kostet oder spart, erfährt der Leser nicht. Der Stimmbürger, der an der Urne über Klimagesetze entscheidet und Klimafinanzierung mit seinen Steuern trägt, weiss danach, dass seine Regierung in einem Weltverfahren Nein gesagt hat, aber nicht, wozu.*
