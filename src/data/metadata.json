@@ -65,6 +65,209 @@
     "muster_id": "M009"
   },
   {
+    "slug": "das-bedrohte-kulturerbe-das-noch-niemand-gemessen-hat",
+    "title": "Das bedrohte Kulturerbe, das noch niemand gemessen hat",
+    "date": "2026-11-22",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/das-bedrohte-kulturerbe-das-noch-niemand-gemessen-hat.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Klima/Energie",
+      "Abstimmungen"
+    ],
+    "themen": [
+      "Klimawandel und Schweizer Museen",
+      "Kulturerbe-Schutz und Zuständigkeit",
+      "Bund-Kantone-Kompetenzverteilung",
+      "Budgetdebatte Kulturausgaben",
+      "Medienkritik SRF"
+    ],
+    "tags": [
+      "Klimawandel",
+      "Museen",
+      "Kulturerbe",
+      "SRF",
+      "Echo der Zeit",
+      "Bundesamt für Kultur",
+      "Zuständigkeit",
+      "Budgetdebatte"
+    ],
+    "kritisiertes_medium": "SRF",
+    "kritisierter_beitrag": "Der Klimawandel bedroht das kulturelle Gedächtnis der Schweiz",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Framing",
+      "Auslassung",
+      "Behördenpropaganda"
+    ],
+    "personen": [
+      "Oliver Martin",
+      "Betty Sacher",
+      "Peter Wandeler"
+    ],
+    "institutionen": [
+      "SRF",
+      "Bundesamt für Kultur",
+      "Naturhistorisches Museum Freiburg",
+      "Schweizer Museumsrat",
+      "Verband der Museen der Schweiz",
+      "Berner Fachhochschule",
+      "Grosse Rat Freiburg"
+    ],
+    "gesetze_vorlagen": [
+      "Bundesverfassung Art. 69",
+      "Entlastungspaket 2027",
+      "Verpflichtungskredit 65,5 Mio. Freiburg"
+    ],
+    "these": "SRF rahmt einen Käferfund ohne Schaden und eine eingeräumte Datenlücke als Bedrohung des kulturellen Gedächtnisses, um eine Bundesmitfinanzierung zu fordern, obwohl ein Kanton das Problem bereits demokratisch gelöst hat.",
+    "zusammenfassung": "Der 9min-Artikel analysiert einen SRF-Beitrag, der den Klimawandel als Bedrohung des Schweizer Kulturerbes darstellt, obwohl die eigenen Quellen weder Schäden noch Daten vorweisen. Kritisiert wird, dass die demokratisch beschlossene und bezahlte Lösung in Freiburg (65,5 Mio. Kredit vom Stimmvolk bewilligt) nur beiläufig erwähnt wird, während die Forderung nach Bundesgeld in eine laufende Budgetdebatte fällt, ohne dies kenntlich zu machen. Die Schlagzeile, Bildlegenden und die Übersetzung der Redaktion gehen über die Aussagen der eigenen Quellen hinaus.",
+    "quelle_datum": "2026-11-18",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "Echo der Zeit",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M007"
+  },
+  {
+    "slug": "das-einreiseverbot-fuer-eine-band-die-schon-eingereist-ist",
+    "title": "Das Einreiseverbot für eine Band, die schon eingereist ist",
+    "date": "2026-11-22",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/das-einreiseverbot-fuer-eine-band-die-schon-eingereist-ist.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Zensur/Meinungsfreiheit",
+      "Migration"
+    ],
+    "themen": [
+      "Einreiseverbot für Kneecap",
+      "Meinungsfreiheit vs. Strafrecht",
+      "Zuständigkeit fedpol",
+      "Politischer Druck über städtisches Darlehen",
+      "Präzedenzfall Neuenburg"
+    ],
+    "tags": [
+      "Kneecap",
+      "Einreiseverbot",
+      "fedpol",
+      "AIG",
+      "Strafrecht",
+      "Meinungsfreiheit",
+      "Hisbollah",
+      "Hamas"
+    ],
+    "kritisiertes_medium": "SRF",
+    "kritisierter_beitrag": "Zürcher Politiker fordern Einreiseverbot für umstrittene Band",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Kontextmangel",
+      "Selektion"
+    ],
+    "personen": [
+      "Liam Óg Ó hAnnaidh",
+      "Jo Cox",
+      "David Amess",
+      "Paul Goldspring"
+    ],
+    "institutionen": [
+      "SRF",
+      "fedpol",
+      "Bundesrat",
+      "Stadtrat Zürich",
+      "FDP",
+      "SVP",
+      "Mitte",
+      "Stiftung Limmathaus",
+      "X-tra",
+      "Keystone-SDA",
+      "Hamas",
+      "Hisbollah",
+      "Londoner Polizei"
+    ],
+    "gesetze_vorlagen": [
+      "Art. 67 Abs. 4 AIG",
+      "Art. 259 StGB",
+      "Hamas-Verbot (Bundesgesetz)",
+      "Hisbollah-Verbot (Vernehmlassung)"
+    ],
+    "these": "SRF rahmt eine Verbotsforderung mit dem Etikett «umstritten», statt sie an der geltenden Rechtslage und dem zuständigen Bundesamt zu messen, und verschweigt dabei sowohl den Schweizer Präzedenzfall als auch die rechtlich relevante Äusserung der Band.",
+    "zusammenfassung": "Der 9min-Artikel analysiert einen SRF-Beitrag über die Forderung Zürcher Politiker nach einem Einreiseverbot für die Band Kneecap. Er kritisiert, dass SRF den Neuenburger Präzedenzfall erwähnt, aber nicht prüft, die zuständige Behörde (fedpol) und die Rechtslage (Art. 67 AIG, Art. 259 StGB) verschweigt, Meinungen und mögliche Straftaten vermischt und nur die fordernden Politiker, nicht aber die Betroffenen hört. Das Wort «umstritten» ersetze die rechtliche Prüfung, die der Beitrag schuldig bleibe.",
+    "quelle_datum": "2026-11-12",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "Regionaljournal Zürich Schaffhausen",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M006"
+  },
+  {
+    "slug": "die-4-tage-woche-studie-die-ihr-berater-selbst-mitdurchfuehrte",
+    "title": "Die 4-Tage-Woche-Studie, die ihr Berater selbst mitdurchführte",
+    "date": "2026-11-22",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/die-4-tage-woche-studie-die-ihr-berater-selbst-mitdurchfuehrte.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Wirtschaft",
+      "Gesellschaft"
+    ],
+    "themen": [
+      "4-Tage-Woche",
+      "Interessenkonflikt in der Berichterstattung",
+      "Wissenschaftskommunikation",
+      "Arbeitszeitmodelle"
+    ],
+    "tags": [
+      "4-Tage-Woche",
+      "Interessenkonflikt",
+      "SRF",
+      "BFH",
+      "Tempora Labs",
+      "Produktivität",
+      "Teilzeit",
+      "gleicher Lohn"
+    ],
+    "kritisiertes_medium": "SRF",
+    "kritisierter_beitrag": "Weniger arbeiten bei gleichem Lohn: die 4-Tage-Woche im Test",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Interessenkonflikt",
+      "Framing"
+    ],
+    "personen": [
+      "Veit Hailperin",
+      "Jan Borer",
+      "Andreas Wapp"
+    ],
+    "institutionen": [
+      "SRF",
+      "10vor10",
+      "Berner Fachhochschule",
+      "Tempora Labs",
+      "4 Day Week Global",
+      "4 Day Week Switzerland",
+      "Unia",
+      "WWF Schweiz",
+      "Arbeitgeber Zürich"
+    ],
+    "gesetze_vorlagen": [],
+    "these": "SRF präsentiert eine von Modellverbreitern mitgetragene Befragung ohne Kontrollgruppe als wissenschaftlichen Test einer Hochschule und verschweigt dabei die Interessenlage seiner Hauptquelle sowie die Kostenfrage des 'gleichen Lohns'.",
+    "zusammenfassung": "Der Artikel kritisiert einen SRF-Beitrag zur 4-Tage-Woche, der eine BFH-Pilotstudie als wissenschaftlichen Test rahmt, aber verschweigt, dass der Pilot von Tempora Labs mitgetragen wurde – einer Firma, die das Modell verbreitet und deren Gründer Veit Hailperin im Beitrag als neutraler Experte auftritt. Zudem fehlen wesentliche Kontexte: nur vier freiwillige Organisationen nahmen teil, eine Kontrollgruppe existiert nicht, und die präsentierten Prozentzahlen sind Mitarbeiter-Einschätzungen, keine betrieblichen Kennzahlen. Die zentrale Kostenfrage – wer den 'gleichen Lohn' bei weniger Arbeitszeit bezahlt – wird nicht gestellt, und die Gerechtigkeitsfrage gegenüber bestehenden Teilzeitkräften bleibt unbehandelt.",
+    "quelle_datum": "2026-11-19",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "10vor10",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M009"
+  },
+  {
     "slug": "die-romandie-verliert-einen-sitz-die-verfassung-nichts",
     "title": "Die Romandie verliert einen Sitz, die Verfassung nichts",
     "date": "2026-11-22",
@@ -143,6 +346,33 @@
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 2,
     "muster_id": "M004"
+  },
+  {
+    "slug": "die-schweiz-sagt-nein-und-srf-fragt-nicht-warum",
+    "title": "Die Schweiz sagt Nein, und SRF fragt nicht warum",
+    "date": "2026-11-22",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/die-schweiz-sagt-nein-und-srf-fragt-nicht-warum.webp",
+    "tweetId": "",
+    "readingTime": 6,
+    "categories": [],
+    "themen": [],
+    "tags": [],
+    "kritisiertes_medium": "Tagesschau",
+    "kritisierter_beitrag": "Keine Einigung bei Weltklimakonferenz – auch Schweiz lehnt ab",
+    "kritisierter_autor": "",
+    "kritik_typ": [],
+    "personen": [],
+    "institutionen": [],
+    "gesetze_vorlagen": [],
+    "these": "",
+    "zusammenfassung": "",
+    "quelle_datum": "2026-11-21",
+    "quelle_format": "Online-Artikel",
+    "quelle_sendung": "Tagesschau",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 2,
+    "muster_id": "M014"
   },
   {
     "slug": "foerdergeld-im-namen-der-demokratie-die-2022-nein-sagte",
