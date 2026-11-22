@@ -1,5 +1,70 @@
 [
   {
+    "slug": "59-prozent-der-lohnluecke-erklaert-bei-srf-trotzdem-gratisarbeit",
+    "title": "59 Prozent der Lohnlücke erklärt, bei SRF trotzdem Gratisarbeit",
+    "date": "2026-11-22",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/59-prozent-der-lohnluecke-erklaert-bei-srf-trotzdem-gratisarbeit.webp",
+    "tweetId": "",
+    "readingTime": 6,
+    "categories": [
+      "SRF/SRG",
+      "Wirtschaft",
+      "Gesellschaft"
+    ],
+    "themen": [
+      "Lohngleichheit",
+      "Gender Pay Gap",
+      "Interessenkonflikt in der Berichterstattung",
+      "Statistische Methodik",
+      "Lohnanalyse-Pflicht"
+    ],
+    "tags": [
+      "Lohnlücke",
+      "Gratisarbeit",
+      "BFS-Statistik",
+      "Gudrun Sander",
+      "HSG",
+      "Equal Pay Day",
+      "Framing",
+      "Interessenkonflikt"
+    ],
+    "kritisiertes_medium": "SRF",
+    "kritisierter_beitrag": "Was bremst die Schweiz bei der Lohngleichheit aus?",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Framing",
+      "Auslassung",
+      "Interessenkonflikt"
+    ],
+    "personen": [
+      "Gudrun Sander"
+    ],
+    "institutionen": [
+      "SRF",
+      "Bundesamt für Statistik",
+      "Universität St. Gallen",
+      "Kompetenzzentrum für Diversity und Inklusion der HSG",
+      "EU",
+      "Ständerat",
+      "Parlament",
+      "Bund"
+    ],
+    "gesetze_vorlagen": [
+      "Lohnanalyse-Pflicht (bis 2032 befristet)",
+      "Logib-Tool",
+      "Evaluation 2027"
+    ],
+    "these": "SRF rahmt eine mehrheitlich durch messbare Merkmale erklärte Lohnlücke als «Gratisarbeit», übergeht den Interessenkonflikt seiner Quelle und verschweigt zentrale politische Fakten zur Befristung der Lohnanalyse-Pflicht.",
+    "zusammenfassung": "Der Artikel kritisiert einen SRF-Beitrag zur Lohngleichheit, der die gesamte Lohnlücke von 15,7 Prozent als «symbolische Gratisarbeit» rahmt, obwohl das BFS rund 59 Prozent davon mit messbaren Merkmalen erklärt. Der einzige Gast, Gudrun Sander, wird als Ökonomin vorgestellt, nicht aber als Direktorin eines Instituts, das die im Beitrag empfohlenen Lohnanalysen und Schulungen verkauft. Zudem verschweigt SRF die Befristung der Lohnanalyse-Pflicht bis 2032 und die anstehende Evaluation 2027, die für den Stimmbürger politisch relevant sind.",
+    "quelle_datum": "2026-11-20",
+    "quelle_format": "Online-Artikel",
+    "quelle_sendung": "SRF 4 News",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M009"
+  },
+  {
     "slug": "die-romandie-verliert-einen-sitz-die-verfassung-nichts",
     "title": "Die Romandie verliert einen Sitz, die Verfassung nichts",
     "date": "2026-11-22",
@@ -143,6 +208,76 @@
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
     "muster_id": "M010"
+  },
+  {
+    "slug": "wer-darf-entscheiden-ob-die-kantone-beim-eu-paket-zaehlen",
+    "title": "Wer darf entscheiden, ob die Kantone beim EU-Paket zählen?",
+    "date": "2026-11-22",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/wer-darf-entscheiden-ob-die-kantone-beim-eu-paket-zaehlen.webp",
+    "tweetId": "",
+    "readingTime": 6,
+    "categories": [
+      "EU/Aussenpolitik",
+      "Demokratie",
+      "SRF/SRG"
+    ],
+    "themen": [
+      "Ständemehr bei EU-Verträgen",
+      "Verfahrensfragen bei Volksabstimmungen",
+      "Föderalismus",
+      "EU-Vertragspaket",
+      "Parlamentarisches Verfahren"
+    ],
+    "tags": [
+      "Ständemehr",
+      "EU-Vertragspaket",
+      "Föderalismus",
+      "Bundesrat",
+      "Kantone",
+      "Referendum",
+      "Verfassungsfrage",
+      "Framing"
+    ],
+    "kritisiertes_medium": "SRF News",
+    "kritisierter_beitrag": "Soll das Volk zuerst über das Ständemehr bei EU-Paket abstimmen?",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Framing",
+      "Kontextmangel"
+    ],
+    "personen": [
+      "Gerhard Pfister",
+      "Stefan Engler"
+    ],
+    "institutionen": [
+      "SRF",
+      "Bundesrat",
+      "Nationalrat",
+      "Ständerat",
+      "Einigungskonferenz",
+      "Aussenpolitische Kommissionen",
+      "Allianz Kompass Europa",
+      "EU",
+      "Gerichtshof der EU"
+    ],
+    "gesetze_vorlagen": [
+      "EU-Vertragspaket",
+      "Kompass-Initiative",
+      "EWR-Vertrag",
+      "Bilaterale I",
+      "Konzernverantwortungsinitiative",
+      "obligatorisches Staatsvertragsreferendum sui generis"
+    ],
+    "these": "SRF rahmt eine Verfassungsfrage über das Ständemehr als parlamentarische Taktik, blendet den Bundesrat als Antragsteller des Verfahrens ohne Ständemehr aus und verzerrt durch das Framing als «Hürde» die Wahrnehmung der Kantonsmitbestimmung.",
+    "zusammenfassung": "Der 9min-Artikel kritisiert einen SRF-Beitrag, der die Frage des Ständemehrs beim EU-Vertragspaket als taktisches Parlamentsspiel darstellt. SRF lasse den Bundesrat als Antragsteller des Verfahrens ohne Ständemehr vollständig weg, erwähne den Ständeratsentscheid vom 30. September 2026 nicht und nenne weder Präzedenzfälle noch den Inhalt des Pakets. Durch das durchgehende Framing des Ständemehrs als «Hürde» werde die Kantonsmitbestimmung strukturell als Hindernis dargestellt.",
+    "quelle_datum": "2026-11-16",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "SRF News",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M004"
   },
   {
     "slug": "bei-srf-schrumpft-katar-staerker-als-beim-iwf",
