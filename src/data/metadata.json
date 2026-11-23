@@ -1,5 +1,279 @@
 [
   {
+    "slug": "der-bundesrats-experte-der-seine-eigene-umfrage-zitiert",
+    "title": "Der Bundesrats-Experte, der seine eigene Umfrage zitiert",
+    "date": "2026-11-23",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/der-bundesrats-experte-der-seine-eigene-umfrage-zitiert.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Demokratie"
+    ],
+    "themen": [
+      "Bundesratswahl",
+      "Konkordanz",
+      "SVP-Ticket",
+      "Interessenkonflikt bei Umfragen",
+      "Präzedenzfälle Bundesratswahlen"
+    ],
+    "tags": [
+      "Michael Herrmann",
+      "Sotomo",
+      "Blick",
+      "Keystone-SDA",
+      "Konkordanz",
+      "Bundesratsticket",
+      "Ausschlussdrohung",
+      "Agenturmeldung"
+    ],
+    "kritisiertes_medium": "SRF News",
+    "kritisierter_beitrag": "Michael Herrmann: ‹Dieses SVP-Ticket stellt Konkordanz infrage›",
+    "kritisierter_autor": "Michael Herrmann",
+    "kritik_typ": [
+      "Interessenkonflikt",
+      "Auslassung",
+      "Selektion"
+    ],
+    "personen": [
+      "Michael Herrmann",
+      "Hansjörg Walter",
+      "Christiane Brunner",
+      "Ruth Dreifuss",
+      "Francis Matthey",
+      "Samuel Schmid",
+      "Rita Fuhrer",
+      "Roland Eberle",
+      "Eveline Widmer-Schlumpf",
+      "Christoph Blocher",
+      "Thomas Aeschi"
+    ],
+    "institutionen": [
+      "SRF",
+      "Sotomo",
+      "Blick",
+      "Keystone-SDA",
+      "SVP",
+      "SP",
+      "BDP",
+      "Bundesversammlung",
+      "Parlament"
+    ],
+    "gesetze_vorlagen": [],
+    "these": "SRF übernimmt eine Agenturmeldung mit einer einzigen Expertenstimme, deren Interessenverflechtung unmarkiert bleibt, und macht deren These zum Titel, während historische Präzedenzfälle verkürzt und einseitig ausgewählt werden.",
+    "zusammenfassung": "Der Artikel kritisiert einen SRF-Beitrag, der eine Aussage des Sotomo-Leiters Michael Herrmann zum SVP-Bundesratsticket übernimmt, ohne zu markieren, dass Herrmann eine Umfrage seines eigenen Instituts deutet, die vom «Blick» in Auftrag gegeben wurde. Der Beitrag lässt die beiden erfolgreichen Aufstände des Parlaments gegen SVP-Kandidaten (2000, 2007) weg und verkürzt den Präzedenzfall 1993, indem er den Verzicht des gewählten Francis Matthey verschweigt. SRF verschärft die Agenturmeldung im Titel und bietet keine Gegenposition.",
+    "quelle_datum": "2026-11-22",
+    "quelle_format": "Online-Artikel",
+    "quelle_sendung": "SRF 4 News",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M009"
+  },
+  {
+    "slug": "klimaabgabe-fuer-touristen-freiwillig-bis-das-hotel-entscheidet",
+    "title": "Klimaabgabe für Touristen: freiwillig, bis das Hotel entscheidet",
+    "date": "2026-11-23",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/klimaabgabe-fuer-touristen-freiwillig-bis-das-hotel-entscheidet.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Klima/Energie",
+      "Wirtschaft"
+    ],
+    "themen": [
+      "Klimaabgabe für Touristen",
+      "Freiwilligkeit vs. Obligatorium",
+      "Behördliche Mitfinanzierung verschleiert",
+      "Bereits bestehende Abgaben verschwiegen",
+      "CO₂-Wirkung unbelegt"
+    ],
+    "tags": [
+      "Klimaabgabe",
+      "SRF",
+      "Regionaljournal",
+      "Framing",
+      "Behördenpropaganda",
+      "Freiwilligkeit",
+      "Kurtaxe",
+      "Wyss Academy"
+    ],
+    "kritisiertes_medium": "SRF",
+    "kritisierter_beitrag": "Kampf gegen Klimawandel: Feriengäste sollen zahlen",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Framing",
+      "Auslassung",
+      "Behördenpropaganda"
+    ],
+    "personen": [
+      "Kim Räber",
+      "Marc Ungerer",
+      "Alina von Allmen"
+    ],
+    "institutionen": [
+      "SRF",
+      "Regionalkonferenz Oberland-Ost",
+      "Amt für Umwelt und Energie Kanton Bern",
+      "Wyss Academy",
+      "Universität Bern",
+      "Bundesamt für Energie",
+      "Kanton Bern",
+      "Tourismusorganisation Jungfrauregion",
+      "Gemeinde Interlaken",
+      "Lenzerheide Future Fonds"
+    ],
+    "gesetze_vorlagen": [
+      "kantonale Beherbergungsabgabe Kanton Bern",
+      "Kurtaxe Interlaken"
+    ],
+    "these": "SRF rahmt ein von 28 Gemeinden, kantonalem Umweltamt und öffentlich finanzierter Akademie mitgetragenes Abgabeprojekt als private Initiative einer Einheimischen und verschleiert damit die Fragen nach Legitimation, Kosten und Rechenschaft.",
+    "zusammenfassung": "Der 9min-Artikel analysiert einen SRF-Beitrag über eine geplante Klimaabgabe für Touristen in der Region Interlaken. SRF stellt das Projekt als Herzensprojekt einer Privatperson dar, verschweigt aber die treibende Rolle von Behörden und öffentlich finanzierter Institutionen sowie bereits bestehende Abgaben. Der Begriff «freiwillig» ist irreführend, da nicht der Gast, sondern das Hotel darüber entscheidet; unabhängige Stimmen oder CO₂-Mengen fehlen.",
+    "quelle_datum": "2026-11-23",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "Regionaljournal Bern Freiburg Wallis",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M009"
+  },
+  {
+    "slug": "steinschleudern-gegen-die-polizei-laut-srf-wenige-zwischenfaelle",
+    "title": "Steinschleudern gegen die Polizei, laut SRF «wenige Zwischenfälle»",
+    "date": "2026-11-23",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/steinschleudern-gegen-die-polizei-laut-srf-wenige-zwischenfaelle.webp",
+    "tweetId": "",
+    "readingTime": 6,
+    "categories": [
+      "SRF/SRG",
+      "Abstimmungen",
+      "Sicherheitspolitik"
+    ],
+    "themen": [
+      "Jugendstreik-Berichterstattung",
+      "Framing von Gewalt bei Demonstrationen",
+      "Teilnehmerzahlen und Quellenattributierung",
+      "Rüstungsfinanzierung und Mehrwertsteuer",
+      "Forderungen ohne Kostenanalyse"
+    ],
+    "tags": [
+      "Framing",
+      "Teilnehmerzahlen",
+      "Juso",
+      "Aufrüstung",
+      "Mehrwertsteuer",
+      "Steinschleudern",
+      "10vor10",
+      "Asymmetrie"
+    ],
+    "kritisiertes_medium": "SRF",
+    "kritisierter_beitrag": "Jugend-Demos: Tausende auf der Strasse, wenige Zwischenfälle",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Framing",
+      "Auslassung",
+      "Selektion"
+    ],
+    "personen": [
+      "Mirjam Hostetmann"
+    ],
+    "institutionen": [
+      "SRF",
+      "Juso",
+      "Junge Grüne",
+      "Klimastreik",
+      "SGB",
+      "Stadtpolizei Zürich",
+      "Kantonspolizei",
+      "UBS",
+      "Bundesrat",
+      "Parlament",
+      "Keystone-SDA",
+      "20 Minuten"
+    ],
+    "gesetze_vorlagen": [
+      "Mehrwertsteuererhöhung für Armee",
+      "SGB-Volksinitiative Mindestlohn 5000 Franken"
+    ],
+    "these": "SRF rahmt Steinschleudern, Barrikaden und Tränengas als «wenige Zwischenfälle», übernimmt eine ungeprüfte Organisatorenzahl als einzige Gesamtgrösse und lässt den Preis der Forderungen sowie die anstehende Abstimmung über die Rüstungsfinanzierung unerwähnt.",
+    "zusammenfassung": "9min.ch kritisiert den SRF-Beitrag zu den Jugendstreiks vom 19.11.2026, weil Titel und Zusammenfassung («wenige Zwischenfälle», «kleinere Ausschreitungen») die im Text selbst geschilderte Gewalt verharmlosen. Die Teilnehmerzahl von 40'000 stamme von der Juso, werde aber nicht als parteiliche Quelle eingeordnet, und die Forderungen erscheinen ohne Kostenanalyse oder Gegenstimmen. Zudem fehle der Hinweis auf die anstehende Abstimmung über die Mehrwertsteuererhöhung für die Armee, was den Begriff «Aufrüstung» kontextlos lasse.",
+    "quelle_datum": "2026-11-19",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "10vor10",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M009"
+  },
+  {
+    "slug": "vier-zahlen-zu-klimageldern-keine-davon-von-srf-geprueft",
+    "title": "Vier Zahlen zu Klimageldern, keine davon von SRF geprüft",
+    "date": "2026-11-23",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/vier-zahlen-zu-klimageldern-keine-davon-von-srf-geprueft.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Klima/Energie",
+      "Wirtschaft"
+    ],
+    "themen": [
+      "Klimagelder Schweiz",
+      "Interviewmethodik SRF",
+      "Klimakonferenz Baku",
+      "Klimafinanzierung Methodenkonflikt"
+    ],
+    "tags": [
+      "Klimagelder",
+      "SRF",
+      "Samstagsrundschau",
+      "Albert Rösti",
+      "Faire Anteil",
+      "Methodenkonflikt",
+      "Pflicht ohne Absender",
+      "Kontextmangel"
+    ],
+    "kritisiertes_medium": "SRF",
+    "kritisierter_beitrag": "Albert Rösti: ‹Wir zahlen unseren fairen Anteil›",
+    "kritisierter_autor": "Klaus Ammann",
+    "kritik_typ": [
+      "Auslassung",
+      "Kontextmangel",
+      "Framing"
+    ],
+    "personen": [
+      "Albert Rösti",
+      "Klaus Ammann"
+    ],
+    "institutionen": [
+      "SRF",
+      "Alliance Sud",
+      "Greenpeace",
+      "ODI",
+      "Bafu",
+      "Bundesrat",
+      "Parlament",
+      "GEF",
+      "Nestlé",
+      "SwissRe"
+    ],
+    "gesetze_vorlagen": [
+      "Rahmenkredit für internationale Umweltprojekte 2027–2030",
+      "Entlastungspaket",
+      "Mehrwertsteuererhöhung für Armee"
+    ],
+    "these": "SRF rahmt einen Methodenkonflikt um Klimagelder als moralischen Streit, indem es vier inkommensurable Zahlen nicht auf eine gemeinsame Basis bringt, den Zuwachs seit 2019 verschweigt und eine unklare Zahlungspflicht als Sachzwang voraussetzt.",
+    "zusammenfassung": "Der Artikel analysiert ein SRF-Interview mit Albert Rösti in der Samstagsrundschau, in dem vier unterschiedliche Zahlen zu Klimageldern (600 Mio., 900 Mio., 1 Mrd., 450–600 Mio.) genannt, aber nie auf eine gemeinsame Bezugsgrösse gebracht werden. SRF schlichtet mit «Das ist umstritten» statt methodisch zu prüfen, verschweigt den Zuwachs öffentlicher Klimagelder um zwei Drittel seit 2019 und lässt eine dritte Schätzung der Denkfabrik ODI weg. Die Pflicht der Schweiz zu höheren Zahlungen wird behauptet, aber nie belegt, wer sie eingegangen ist und mit welcher Legitimation.",
+    "quelle_datum": "2026-11-21",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "Samstagsrundschau",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 2,
+    "muster_id": "M008"
+  },
+  {
     "slug": "59-prozent-der-lohnluecke-erklaert-bei-srf-trotzdem-gratisarbeit",
     "title": "59 Prozent der Lohnlücke erklärt, bei SRF trotzdem Gratisarbeit",
     "date": "2026-11-22",
