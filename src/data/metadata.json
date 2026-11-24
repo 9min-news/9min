@@ -1,5 +1,284 @@
 [
   {
+    "slug": "das-hardliner-ticket-dessen-kandidaten-srf-nicht-nennt",
+    "title": "Das Hardliner-Ticket, dessen Kandidaten SRF nicht nennt",
+    "date": "2026-11-24",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/das-hardliner-ticket-dessen-kandidaten-srf-nicht-nennt.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [],
+    "themen": [],
+    "tags": [],
+    "kritisiertes_medium": "SRF 4 News",
+    "kritisierter_beitrag": "Grüne schicken Sprengkandidatin ins Rennen",
+    "kritisierter_autor": "",
+    "kritik_typ": [],
+    "personen": [],
+    "institutionen": [],
+    "gesetze_vorlagen": [],
+    "these": "",
+    "zusammenfassung": "",
+    "quelle_datum": "2026-11-23",
+    "quelle_format": "Online-Artikel",
+    "quelle_sendung": "SRF 4 News",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 2,
+    "muster_id": "M004"
+  },
+  {
+    "slug": "die-iv-milliarde-die-auf-jedem-lohnausweis-landet",
+    "title": "Die IV-Milliarde, die auf jedem Lohnausweis landet",
+    "date": "2026-11-24",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/die-iv-milliarde-die-auf-jedem-lohnausweis-landet.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "Abstimmungen",
+      "Wirtschaft",
+      "Gesellschaft"
+    ],
+    "themen": [
+      "IV-Reform",
+      "Lohnbeitragserhöhung",
+      "Sozialversicherungsfinanzierung",
+      "Bundeshaushalt",
+      "Invalidenrente"
+    ],
+    "tags": [
+      "IV-Defizit",
+      "Lohnprozente",
+      "Solidaritätsbeitrag",
+      "Einsparungen",
+      "Stimmbürger",
+      "halbe Bilanz",
+      "Vernehmlassung"
+    ],
+    "kritisiertes_medium": "SRF Tagesschau",
+    "kritisierter_beitrag": "Der IV geht das Geld aus: Wer zahlt die Rechnung?",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Framing",
+      "Selektion"
+    ],
+    "personen": [
+      "Barbara Zimmermann-Gerster"
+    ],
+    "institutionen": [
+      "SRF",
+      "Bundesrat",
+      "Bundesamt für Sozialversicherungen",
+      "AHV",
+      "IV",
+      "Arbeitgeberverband",
+      "Gewerkschaftsbund",
+      "Allianz"
+    ],
+    "gesetze_vorlagen": [
+      "IV-Reform 2026",
+      "Lohnbeitragserhöhung IV um 0,2 Prozentpunkte"
+    ],
+    "these": "SRF beziffert bei der IV-Reform nur die Einnahmen, nicht die Einsparungen, und rahmt eine unbefristete Lohnabgabe als Hilfe für junge psychisch Kranke - eine halbe Bilanz, die den Stimmbürgern wesentliche Informationen vorenthält.",
+    "zusammenfassung": "Der Artikel kritisiert den SRF-Tagesschau-Beitrag zur IV-Reform, weil er Einnahmen in Franken beziffert, Einsparungen aber nur im Indikativ und ohne Zahl nennt. Das bis 2030 erwartete Defizit von über 600 Millionen Franken werde verschwiegen, die Stimmenauswahl sei unausgewogen, und der Begriff 'Solidaritätsbeitrag' werde ohne Einordnung übernommen. Die Titelfrage 'Wer zahlt die Rechnung?' werde durch einen Verbandsstreit ersetzt, statt in Franken pro Lohn und Franken gespart zu antworten.",
+    "quelle_datum": "2026-11-23",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "Tagesschau",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M012"
+  },
+  {
+    "slug": "femizid-per-suchfilter-srf-zaehlte-nur-maenner-gegen-frauen",
+    "title": "«Femizid» per Suchfilter: SRF zählte nur Männer gegen Frauen",
+    "date": "2026-11-24",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/femizid-per-suchfilter-srf-zaehlte-nur-maenner-gegen-frauen.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Gesellschaft",
+      "Demokratie"
+    ],
+    "themen": [
+      "Methodik der SRF-Recherche zu Femiziden",
+      "Begriff «Femizid» als politisches Etikett",
+      "Rechtsgleichheit bei Gewaltdarstellung",
+      "Behördenversagen bei Schutzmassnahmen",
+      "Ausländeranteil ohne Bezugsgrösse"
+    ],
+    "tags": [
+      "Femizid",
+      "SRF Investigativ",
+      "Suchfilter",
+      "Framing",
+      "Gewalt gegen Frauen",
+      "Rechtsgleichheit",
+      "Ausländeranteil",
+      "Behördenversagen"
+    ],
+    "kritisiertes_medium": "SRF",
+    "kritisierter_beitrag": "169 versuchte Femizide – so brutal ist die Gewalt gegen Frauen",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Framing",
+      "Auslassung",
+      "Selektion"
+    ],
+    "personen": [
+      "Nora Markwalder",
+      "Diana Russell",
+      "Loredana G."
+    ],
+    "institutionen": [
+      "SRF",
+      "SRF Investigativ",
+      "Bundesamt für Statistik",
+      "Polizei",
+      "Staatsanwaltschaft",
+      "Gerichte"
+    ],
+    "gesetze_vorlagen": [
+      "Art. 129 StGB",
+      "Art. 66a StGB",
+      "Ausschaffungsinitiative"
+    ],
+    "these": "SRF verwendet einen politischen Begriff als Suchfilter und meldet das Ergebnis als Befund, ohne das Motiv im Einzelfall zu prüfen oder Vergleichsgruppen einzubeziehen.",
+    "zusammenfassung": "9min.ch kritisiert die SRF-Investigativ-Recherche zu «169 versuchten Femiziden» als methodisch voreingenommen: SRF habe nur nach Fällen mit männlichen Tätern und weiblichen Opfern gesucht, den Begriff «Femizid» aus dem Aktivismus aber als neutralen Befund ausgegeben, ohne das Motiv «aufgrund des Geschlechts» an einzelnen Fällen zu prüfen. Vergleichsgruppen, Bezugsgrössen zum Ausländeranteil und die Frage nach Behördenversagen beim Schutz Loredana G.s blieben ausgeblendet.",
+    "quelle_datum": "2026-11-23",
+    "quelle_format": "Online-Artikel",
+    "quelle_sendung": "SRF Investigativ",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M008"
+  },
+  {
+    "slug": "srf-zaehlt-aeschis-mandate-statt-seine-interessen-zu-pruefen",
+    "title": "SRF zählt Aeschis Mandate, statt seine Interessen zu prüfen",
+    "date": "2026-11-24",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/srf-zaehlt-aeschis-mandate-statt-seine-interessen-zu-pruefen.webp",
+    "tweetId": "",
+    "readingTime": 6,
+    "categories": [
+      "SRF/SRG",
+      "Demokratie"
+    ],
+    "themen": [
+      "Bundesratswahl",
+      "Interessenkonflikte",
+      "Transparenzberichterstattung",
+      "Mandate",
+      "Asymmetrie Markt/Staat"
+    ],
+    "tags": [
+      "Bundesratskandidaten",
+      "Interessenbindungen",
+      "Mandate",
+      "Verflechtung",
+      "Asymmetrie",
+      "Transparenz",
+      "Lobbyregister"
+    ],
+    "kritisiertes_medium": "SRF News",
+    "kritisierter_beitrag": "Die wirtschaftlichen Verflechtungen von Aeschi und Graber",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Framing",
+      "Asymmetrie"
+    ],
+    "personen": [
+      "Thomas Aeschi",
+      "Thomas Matter",
+      "Marcel Rohner",
+      "Toni Brunner"
+    ],
+    "institutionen": [
+      "SRF",
+      "SRF 4 News",
+      "Helvetische Bank",
+      "Expert Suisse",
+      "Eringerverein",
+      "Aeschi & Company GmbH",
+      "UBS",
+      "Fernuni Schweiz",
+      "Bundesversammlung",
+      "Parlament"
+    ],
+    "gesetze_vorlagen": [],
+    "these": "SRF zählt Mandate statt Interessenkonflikte zu prüfen und misst mit zweierlei Mass: Private Bindungen gelten als Verflechtung, öffentliche Ämter als Qualifikation.",
+    "zusammenfassung": "Der Artikel kritisiert, dass SRF bei der Untersuchung der Interessenbindungen von Bundesratskandidaten Aeschi und Graber Mandate zählt, statt konkrete Konflikte zu prüfen. Private Verflechtungen werden als Abhängigkeit gerahmt, während öffentliche Ämter als Erfahrung gewürdigt werden, was eine Asymmetrie zwischen Markt und Staat erzeugt. Die Öffentlichkeit erhält ein Inventar statt einer Rechnung.",
+    "quelle_datum": "2026-11-23",
+    "quelle_format": "Online-Artikel",
+    "quelle_sendung": "SRF 4 News",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 2,
+    "muster_id": "M004"
+  },
+  {
+    "slug": "vermummte-polizisten-wer-kontrolliert-die-die-keiner-erkennt",
+    "title": "Vermummte Polizisten: Wer kontrolliert die, die keiner erkennt?",
+    "date": "2026-11-24",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/vermummte-polizisten-wer-kontrolliert-die-die-keiner-erkennt.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Sicherheitspolitik",
+      "Medienrecht"
+    ],
+    "themen": [
+      "Vermummte Zivilpolizei",
+      "Identifizierbarkeit der Staatsgewalt",
+      "Rechtsstaatliche Kontrolle",
+      "Polizeieinsatz bei Demonstrationen"
+    ],
+    "tags": [
+      "Vermummungsverbot",
+      "Zivilpolizei",
+      "SRF Faktencheck",
+      "Rechtsstaat",
+      "Identifikationspflicht",
+      "Hinderung einer Amtshandlung",
+      "Demonstrationsrecht",
+      "Haftungsfrage"
+    ],
+    "kritisiertes_medium": "SRF 4 News",
+    "kritisierter_beitrag": "Kritik an vermummter Polizei in Zivil – was steckt dahinter?",
+    "kritisierter_autor": "Sibilla Bondolfi",
+    "kritik_typ": [
+      "Auslassung",
+      "Behördenpropaganda",
+      "Asymmetrie"
+    ],
+    "personen": [
+      "Sibilla Bondolfi",
+      "Daniel Wälti",
+      "Mirjam Hostetmann",
+      "Raimond Lüppken"
+    ],
+    "institutionen": [
+      "SRF",
+      "SRF 4 News",
+      "Stadtpolizei Zürich",
+      "Juso",
+      "20 Minuten"
+    ],
+    "gesetze_vorlagen": [],
+    "these": "SRF rahmt einen rechtsstaatlich grundlegenden Streit um die Identifizierbarkeit der Staatsgewalt als Frage nach polizeilicher Verkleidungstechnik, lässt belastende Fakten zu beiden Seiten weg und ersetzt die Rechtsprüfung durch ein Hausgutachten der eigenen Korrespondentin.",
+    "zusammenfassung": "Der Artikel analysiert einen SRF-Beitrag über den Einsatz vermummter Zürcher Zivilpolizei bei einem Jugendprotest. Er kritisiert, dass SRF wesentliche Fakten auslässt – den Schlagstockeinsatz, tätliche Angriffe auf Polizisten und die Festnahmezahlen –, die Rechtslage durch die hauseigene Korrespondentin statt durch Gesetze klärt und Vorwürfe gegen die Polizei asymmetrisch prüft, während Polizeiangaben und Kritikerinnen-Aussagen unbeanstandet bleiben. Die Analyse zeigt, dass der Beitrag die Bausteine seiner eigenen Kritik enthält, sie aber nicht zusammenführt.",
+    "quelle_datum": "2026-11-23",
+    "quelle_format": "Online-Artikel",
+    "quelle_sendung": "SRF 4 News",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M009"
+  },
+  {
     "slug": "der-bundesrats-experte-der-seine-eigene-umfrage-zitiert",
     "title": "Der Bundesrats-Experte, der seine eigene Umfrage zitiert",
     "date": "2026-11-23",
