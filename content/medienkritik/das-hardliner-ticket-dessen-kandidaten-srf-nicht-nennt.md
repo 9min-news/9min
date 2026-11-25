@@ -6,8 +6,19 @@ type: medienkritik
 coverImage: >-
   /images/medienkritik/das-hardliner-ticket-dessen-kandidaten-srf-nicht-nennt.webp
 tweetId: ''
-categories: []
-tags: []
+categories:
+  - SRF/SRG
+  - Abstimmungen
+  - Demokratie
+tags:
+  - Bundesratswahl
+  - SVP-Ticket
+  - Sprengkandidatin
+  - Namensnennung
+  - Etikettierung
+  - Zauberformel
+  - Gebührenzahler
+  - Konjordanz
 seo:
   description: >-
     SRF 4 News hängt dem SVP-Bundesratsticket fünf fremde Etiketten an, nennt
@@ -58,6 +69,62 @@ verfassung:
     Immunitätsverfahrens mitzuteilen.
   at: '2026-11-24'
 muster_id: M004
+themen:
+  - Bundesratswahl 2026
+  - SVP-Ticket vs. Grüne Gegenkandidatur
+  - Asymmetrische Darstellung im öffentlich-rechtlichen Journalismus
+  - Zauberformel und Wahlfreiheit des Parlaments
+kritisierter_autor: ''
+kritik_typ:
+  - Auslassung
+  - Framing
+  - Asymmetrie
+personen:
+  - Thomas Aeschi
+  - Michael Graber
+  - Céline Amaudruz
+  - Franz Grüter
+  - Klopfenstein Broggini
+  - Lisa Mazzone
+  - Philipp Burkhardt
+  - Greta Gysin
+  - Ruslan Stefantschuk
+  - Eveline Widmer-Schlumpf
+  - Christoph Blocher
+  - Recordon
+  - Andrey
+  - Rytz
+  - Andreys
+institutionen:
+  - SRF
+  - SVP
+  - Grüne
+  - FDP
+  - Mitte
+  - GLP
+  - SP
+  - Bundesversammlung
+  - Bundesanwaltschaft
+  - Bundeshauspolizei
+  - Pro Velo Schweiz
+gesetze_vorlagen:
+  - Art. 175 Abs. 4 BV
+  - Volkswahl des Bundesrats (Abstimmung 9. Juni 2013)
+these: >-
+  SRF nennt in einem Beitrag über das SVP-Bundesratsticket die Namen der beiden
+  Kandidaten nicht, hängt ihnen dafür fünf fremdvergebene Etiketten an und
+  übernimmt die Dramaturgie der Grünen, während der eigene Analyst die
+  Kandidatur auf null Chancen setzt.
+zusammenfassung: >-
+  Der 9min-Artikel kritisiert einen SRF-4-News-Beitrag vom 23. November 2026,
+  der die grüne Gegenkandidatur zur SVP-Bundesratsticket thematisiert. Die Namen
+  der SVP-Kandidaten Thomas Aeschi und Michael Graber fehlen vollständig,
+  während die grüne Kandidatin Klopfenstein Broggini mit Lebenslauf porträtiert
+  wird. Der Vorwurf der Handgreiflichkeit wird ohne den Ausgang des Verfahrens
+  präsentiert, und die eigene Analyse des SRF-Analysten, der der Kandidatur null
+  Chancen gibt, wird nur in einem aufklappbaren Kasten geparkt, während Titel
+  und Zusammenfassung die Sprengkraft-Dramaturgie der Grünen übernehmen.
+kritik_schwere: 3
 ---
 
 *Ein Steckbrief mit Merkmalen, Vorwurf und Jahr des Vorfalls, aber ohne Foto: So erscheint das SVP-Ticket für den Bundesrat in diesem Beitrag. Fünf Etiketten hängt SRF ihm an, alle aus fremdem Mund: «Provokation», «Affront», «ihres harten Flügels», «handgreiflich», «Hardliner-Ticket». Der Titel übernimmt mit dem Wort «Sprengkandidatin» die Dramaturgie der Grünen, und die Zusammenfassung ordnet deren Kandidatur «als Reaktion darauf» ein. Die Namen der beiden Männer, gegen die sich das alles richtet, stehen an keiner Stelle im Text, während der Leser über die grüne Gegenkandidatin Alter, Ausbildung, Kommissionen und Verbandspräsidium erfährt. Am 9. Dezember wählt das Parlament, nicht das Volk. Gerade deshalb ist der Gebührenzahler darauf angewiesen, dass ein Sender mit gesetzlichem Sachgerechtigkeitsgebot ihm wenigstens sagt, wer zur Wahl steht.*

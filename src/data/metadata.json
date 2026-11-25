@@ -1,5 +1,62 @@
 [
   {
+    "slug": "chinas-kohle-rekord-verschwindet-hinter-solarpanels",
+    "title": "Chinas Kohle-Rekord verschwindet hinter Solarpanels",
+    "date": "2026-11-24",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/chinas-kohle-rekord-verschwindet-hinter-solarpanels.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Klima/Energie"
+    ],
+    "themen": [
+      "Chinas Kohle- und Solarausbau",
+      "Schweizer Klimapolitik im globalen Kontext",
+      "Klimaziele und Messbarkeit",
+      "Medienberichterstattung über Energiepolitik"
+    ],
+    "tags": [
+      "SRF",
+      "Rendez-vous",
+      "China",
+      "Kohle",
+      "Solar",
+      "Klimaziele",
+      "Emissionen",
+      "Asymmetrie"
+    ],
+    "kritisiertes_medium": "SRF",
+    "kritisierter_beitrag": "Neben gigantischen Solarparks rauchen Kohlemeiler",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Framing",
+      "Asymmetrie"
+    ],
+    "personen": [
+      "Xu Qinhua"
+    ],
+    "institutionen": [
+      "SRF",
+      "Climate Action Tracker",
+      "Bund"
+    ],
+    "gesetze_vorlagen": [
+      "Chinas Klimaplan vom 3. November 2025",
+      "Schweizer Klimaziel minus 50 Prozent gegenüber 1990"
+    ],
+    "these": "Der SRF-Beitrag verzerrt Chinas Energiewende durch asymmetrische Zählweise – Solar wird in Quadratkilometern und Weltrangierungen vermessen, Kohle mit einem unbestimmten Adjektiv erwähnt – und entzieht Schweizer Stimmbürgern durch fehlende Emissionszahlen und Kontext die Grundlage zur Einordnung der eigenen Klimapolitik.",
+    "zusammenfassung": "9min.ch kritisiert einen SRF-Rendez-vous-Beitrag vom 23.11.2026 über Chinas Energiewende, weil er Solarparks mit Flächen und Rangierungen ausstatte, den Kohleausbau aber nur als «zahlreich» bezeichne, ohne konkrete Gigawatt-Zahlen, Emissionswerte oder das chinesische Klimaziel für 2035 zu nennen. Die einzige Stimme sei eine als «Regierungsberaterin» markierte Expertin ohne Gegenstimme, und der Beitrag liefere Schweizer Stimmbürgern keinen Massstab, um Nutzen und Kosten der eigenen Klimapolitik zu beurteilen. Die Kritik sieht darin eine systematische Asymmetrie, bei der eine Seite mit Zahlen vermessen werde, die andere mit einem Adjektiv erwähnt bleibe.",
+    "quelle_datum": "2026-11-23",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "Rendez-vous",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M007"
+  },
+  {
     "slug": "das-hardliner-ticket-dessen-kandidaten-srf-nicht-nennt",
     "title": "Das Hardliner-Ticket, dessen Kandidaten SRF nicht nennt",
     "date": "2026-11-24",
@@ -7,23 +64,76 @@
     "coverImage": "/images/medienkritik/das-hardliner-ticket-dessen-kandidaten-srf-nicht-nennt.webp",
     "tweetId": "",
     "readingTime": 7,
-    "categories": [],
-    "themen": [],
-    "tags": [],
+    "categories": [
+      "SRF/SRG",
+      "Abstimmungen",
+      "Demokratie"
+    ],
+    "themen": [
+      "Bundesratswahl 2026",
+      "SVP-Ticket vs. Grüne Gegenkandidatur",
+      "Asymmetrische Darstellung im öffentlich-rechtlichen Journalismus",
+      "Zauberformel und Wahlfreiheit des Parlaments"
+    ],
+    "tags": [
+      "Bundesratswahl",
+      "SVP-Ticket",
+      "Sprengkandidatin",
+      "Namensnennung",
+      "Etikettierung",
+      "Zauberformel",
+      "Gebührenzahler",
+      "Konjordanz"
+    ],
     "kritisiertes_medium": "SRF 4 News",
     "kritisierter_beitrag": "Grüne schicken Sprengkandidatin ins Rennen",
     "kritisierter_autor": "",
-    "kritik_typ": [],
-    "personen": [],
-    "institutionen": [],
-    "gesetze_vorlagen": [],
-    "these": "",
-    "zusammenfassung": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Framing",
+      "Asymmetrie"
+    ],
+    "personen": [
+      "Thomas Aeschi",
+      "Michael Graber",
+      "Céline Amaudruz",
+      "Franz Grüter",
+      "Klopfenstein Broggini",
+      "Lisa Mazzone",
+      "Philipp Burkhardt",
+      "Greta Gysin",
+      "Ruslan Stefantschuk",
+      "Eveline Widmer-Schlumpf",
+      "Christoph Blocher",
+      "Recordon",
+      "Andrey",
+      "Rytz",
+      "Andreys"
+    ],
+    "institutionen": [
+      "SRF",
+      "SVP",
+      "Grüne",
+      "FDP",
+      "Mitte",
+      "GLP",
+      "SP",
+      "Bundesversammlung",
+      "Bundesanwaltschaft",
+      "Bundeshauspolizei",
+      "Pro Velo Schweiz"
+    ],
+    "gesetze_vorlagen": [
+      "Art. 175 Abs. 4 BV",
+      "Volkswahl des Bundesrats (Abstimmung 9. Juni 2013)"
+    ],
+    "these": "SRF nennt in einem Beitrag über das SVP-Bundesratsticket die Namen der beiden Kandidaten nicht, hängt ihnen dafür fünf fremdvergebene Etiketten an und übernimmt die Dramaturgie der Grünen, während der eigene Analyst die Kandidatur auf null Chancen setzt.",
+    "zusammenfassung": "Der 9min-Artikel kritisiert einen SRF-4-News-Beitrag vom 23. November 2026, der die grüne Gegenkandidatur zur SVP-Bundesratsticket thematisiert. Die Namen der SVP-Kandidaten Thomas Aeschi und Michael Graber fehlen vollständig, während die grüne Kandidatin Klopfenstein Broggini mit Lebenslauf porträtiert wird. Der Vorwurf der Handgreiflichkeit wird ohne den Ausgang des Verfahrens präsentiert, und die eigene Analyse des SRF-Analysten, der der Kandidatur null Chancen gibt, wird nur in einem aufklappbaren Kasten geparkt, während Titel und Zusammenfassung die Sprengkraft-Dramaturgie der Grünen übernehmen.",
     "quelle_datum": "2026-11-23",
     "quelle_format": "Online-Artikel",
     "quelle_sendung": "SRF 4 News",
     "quelle_redaktion": "SRF News",
-    "kritik_schwere": 2,
+    "kritik_schwere": 3,
     "muster_id": "M004"
   },
   {
@@ -153,6 +263,84 @@
     "quelle_redaktion": "SRF News",
     "kritik_schwere": 3,
     "muster_id": "M008"
+  },
+  {
+    "slug": "pushbacks-erlaubt-drei-grenzstaaten-verurteilt",
+    "title": "Pushbacks erlaubt, drei Grenzstaaten verurteilt",
+    "date": "2026-11-24",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/pushbacks-erlaubt-drei-grenzstaaten-verurteilt.webp",
+    "tweetId": "",
+    "readingTime": 6,
+    "categories": [
+      "Migration",
+      "EU/Aussenpolitik",
+      "SRF/SRG"
+    ],
+    "themen": [
+      "EGMR-Urteil zu Pushbacks",
+      "Erklärung von Chişinău",
+      "Europäische Menschenrechtskonvention",
+      "Schweizer Migrationspolitik",
+      "Medienberichterstattung über Gerichtsentscheide"
+    ],
+    "tags": [
+      "Pushbacks",
+      "EGMR",
+      "Europarat",
+      "Non-Refoulement",
+      "Frontex",
+      "Chişinău",
+      "Verantwortungsverdeckung",
+      "Kollektivausweisung"
+    ],
+    "kritisiertes_medium": "SRF News",
+    "kritisierter_beitrag": "Pushbacks von Migranten zulässig – ein wegweisendes Urteil",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Framing",
+      "Kontextmangel"
+    ],
+    "personen": [
+      "Mattias Guyomar",
+      "Stocker"
+    ],
+    "institutionen": [
+      "SRF",
+      "SRF4 News",
+      "Europarat",
+      "Ministerkomitee des Europarats",
+      "EGMR",
+      "Frontex",
+      "EU",
+      "Belarus",
+      "Russland",
+      "Marokko",
+      "Türkei",
+      "Polen",
+      "Lettland",
+      "Litauen",
+      "Spanien",
+      "Bundesrat",
+      "ORF"
+    ],
+    "gesetze_vorlagen": [
+      "EMRK",
+      "Flüchtlingskonvention",
+      "Erklärung von Chişinău",
+      "EU-Türkei-Erklärung vom 18. März 2016",
+      "Frontex-Verordnung",
+      "Abstimmung vom 15. Mai 2022"
+    ],
+    "these": "SRF rahmt ein abgestuftes Urteil mit drei Verurteilungen als Freigabe unter dem Druck einer «Grosswetterlage» und verschweigt dabei, dass die Schweizer Regierung die zugrundeliegende Erklärung von Chişinău im Konsens aller 46 Europarat-Staaten mitgetragen hat.",
+    "zusammenfassung": "9min.ch kritisiert einen SRF4-News-Beitrag, der ein EGMR-Urteil zu Pushbacks als «wegweisend» und «zulässig» einrahmt, während die Erklärung von Chişinău als Drohung «einzelner» Länder dargestellt wird. Tatsächlich wurde sie von allen 46 Europarat-Mitgliedstaaten einschliesslich der Schweiz im Konsens verabschiedet, was der Beitrag verschweigt. Zudem vermengt SRF das Non-Refoulement-Gebot mit dem Verbot der Kollektivausweisung und lässt wesentliche Kontexte wie das frühere Urteil N.D. und N.T. gegen Spanien (2020) sowie die finanziellen Dimensionen des EU-Türkei-Deals und der Frontex-Finanzierung durch die Schweiz unerwähnt.",
+    "quelle_datum": "2026-11-24",
+    "quelle_format": "Online-Artikel",
+    "quelle_sendung": "SRF4 News",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M006"
   },
   {
     "slug": "srf-zaehlt-aeschis-mandate-statt-seine-interessen-zu-pruefen",
