@@ -1,5 +1,265 @@
 [
   {
+    "slug": "bruessel-nickt-ohne-debatte-die-schweiz-zahlt",
+    "title": "Brüssel nickt ohne Debatte, die Schweiz zahlt",
+    "date": "2026-11-25",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/bruessel-nickt-ohne-debatte-die-schweiz-zahlt.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "EU/Aussenpolitik",
+      "Abstimmungen",
+      "Demokratie"
+    ],
+    "themen": [
+      "Bilaterale III",
+      "EU-Parlamentsabstimmung",
+      "Kohäsionsbeitrag",
+      "Schiedsgericht und EuGH",
+      "Referendumsfrage"
+    ],
+    "tags": [
+      "Bilaterale III",
+      "EU-Parlament",
+      "Kohäsionsbeitrag",
+      "Schiedsgericht",
+      "EuGH",
+      "dynamische Rechtsübernahme",
+      "obligatorisches Referendum",
+      "Framing"
+    ],
+    "kritisiertes_medium": "SRF",
+    "kritisierter_beitrag": "Warum das EU-Parlament klar Ja zum Vertragspaket sagt",
+    "kritisierter_autor": "Matthias Strasser",
+    "kritik_typ": [
+      "Framing",
+      "Auslassung",
+      "Kontextmangel"
+    ],
+    "personen": [
+      "Matthias Strasser",
+      "Christophe Grudler"
+    ],
+    "institutionen": [
+      "SRF",
+      "EU-Parlament",
+      "Europäischer Gerichtshof",
+      "Schweizer Parlament",
+      "Nationalrat",
+      "Ständerat",
+      "Staatspolitische Kommission des Nationalrats",
+      "EU"
+    ],
+    "gesetze_vorlagen": [
+      "Bilaterale III",
+      "Artikel 218 Absatz 6 AEUV"
+    ],
+    "these": "SRF rahmt ein Ja ohne Debatte als klares Votum und Vorsprung, verschweigt dabei die 350 Millionen Franken jährlichen Kohäsionsbeitrag, die bindende EuGH-Auslegung im Streitfall und die offene Referendumsfrage.",
+    "zusammenfassung": "Der SRF-Beitrag stellt das Votum des EU-Parlaments für die Bilateralen III als klares Ja und Vorsprung vor Bern dar, obwohl der eigene Korrespondent einräumt, dass viele Abgeordnete kaum betroffen sind und ohne Debatte abstimmten. Wesentliche Elemente des Pakets fehlen: der jährliche Kohäsionsbeitrag von 350 Millionen Franken, die Bindung des Schiedsgerichts an den EuGH bei der Auslegung von EU-Recht sowie die Frage des obligatorischen Referendums. Der Beitrag rahmt das Desinteresse im EU-Parlament als Druck auf die Schweiz.",
+    "quelle_datum": "2026-11-25",
+    "quelle_format": "Online-Artikel",
+    "quelle_sendung": "SRF 4 News",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M014"
+  },
+  {
+    "slug": "das-akw-nein-das-die-atomfrage-nicht-beendet",
+    "title": "Das AKW-Nein, das die Atomfrage nicht beendet",
+    "date": "2026-11-25",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/das-akw-nein-das-die-atomfrage-nicht-beendet.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Abstimmungen",
+      "Klima/Energie"
+    ],
+    "themen": [
+      "Atomkraft-Abstimmung 2027",
+      "Stromversorgung im Winter",
+      "Neubauverbot für Kernkraftwerke",
+      "Volksinitiative Blackout stoppen",
+      "Erneuerbare-Ausbau"
+    ],
+    "tags": [
+      "Atomkraft",
+      "Abstimmungskampf",
+      "Rundschau",
+      "Framing",
+      "Versorgungssicherheit",
+      "Verbandsbeschwerderecht",
+      "Subventionsfrage",
+      "Gegenvorschlag"
+    ],
+    "kritisiertes_medium": "SRF Rundschau",
+    "kritisierter_beitrag": "Rösti: ‹Bei Nein müssten wir alles aus der Natur rauspressen›",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Framing",
+      "Auslassung",
+      "Asymmetrie"
+    ],
+    "personen": [
+      "Albert Rösti",
+      "Lisa Mazzone",
+      "Müller-Altermatt"
+    ],
+    "institutionen": [
+      "SRF",
+      "Bundesamt für Energie",
+      "Nationalrat",
+      "SP",
+      "Grüne",
+      "GLP",
+      "Mitte",
+      "Bundesrat"
+    ],
+    "gesetze_vorlagen": [
+      "Neubauverbot für Kernkraftwerke",
+      "Stromgesetz",
+      "Volksinitiative «Blackout stoppen»"
+    ],
+    "these": "Der SRF-Beitrag rahmt eine Abstimmung über die Aufhebung eines Bauverbots fälschlich als Abstimmung über den Bau von Kraftwerken und verschweigt zentrale Fakten zur Winterstromversorgung, zur Finanzierungsfrage und zu den Folgen eines Neins.",
+    "zusammenfassung": "9min.ch kritisiert den SRF-Rundschau-Beitrag zur Atomkraft-Abstimmung vom 28. Februar 2027, weil er die Aufhebung eines Neubauverbots als Baubeschluss darstellt und wesentliche Informationen auslässt. Konkret fehlen Zahlen zur Winterstromversorgung, die Frage der Finanzierung allfälliger neuer Reaktoren und der Hinweis, dass ein Nein die Volksinitiative «Blackout stoppen» wieder aufleben lässt. Zudem werden unbequeme Fragen nur an Befürworter gerichtet, während Behauptungen der Gegner ungeprüft bleiben.",
+    "quelle_datum": "2026-11-25",
+    "quelle_format": "Online-Artikel",
+    "quelle_sendung": "Rundschau",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M004"
+  },
+  {
+    "slug": "die-kuerzung-trifft-frauen-sagen-die-hilfswerke",
+    "title": "Die Kürzung trifft Frauen, sagen die Hilfswerke, die sie trifft",
+    "date": "2026-11-25",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/die-kuerzung-trifft-frauen-sagen-die-hilfswerke.webp",
+    "tweetId": "",
+    "readingTime": 6,
+    "categories": [
+      "SRF/SRG",
+      "Migration",
+      "Demokratie"
+    ],
+    "themen": [
+      "Entwicklungszusammenarbeit",
+      "Humanitäre Hilfe",
+      "Interessenkonflikt bei Quellen",
+      "Schweizer Parlamentsbeschlüsse",
+      "Geschlechterspezifische Gewalt"
+    ],
+    "tags": [
+      "UNFPA",
+      "UN Women",
+      "OECD",
+      "Entwicklungshilfe",
+      "Kürzungen",
+      "USA",
+      "Schweiz",
+      "Quellenmarkierung"
+    ],
+    "kritisiertes_medium": "SRF News",
+    "kritisierter_beitrag": "Die Krise der Entwicklungszusammenarbeit trifft besonders Frauen",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Interessenkonflikt",
+      "Auslassung",
+      "Framing"
+    ],
+    "personen": [
+      "Shoko Arakaki",
+      "Sofia Caltrop"
+    ],
+    "institutionen": [
+      "SRF",
+      "UNFPA",
+      "UN Women",
+      "OECD",
+      "IKRK",
+      "Schweizer Parlament",
+      "USA",
+      "UNO-Generalversammlung",
+      "DAC"
+    ],
+    "gesetze_vorlagen": [],
+    "these": "Der SRF-Beitrag rahmt die Budgetsorgen UN-finanzierter Hilfswerke als Schicksal der Frauen, ohne deren Eigeninteresse zu markieren, die Schweizer Parlamentsentscheidung chronologisch und sachlich korrekt darzustellen und die Täter der Gewalt als Akteure zu benennen.",
+    "zusammenfassung": "Der 9min-Artikel kritisiert einen SRF-Beitrag, der Kürzungen in der Entwicklungszusammenarbeit als besonders frauenfeindlich darstellt. Die Quellen (UNFPA, UN Women) hätten einen finanziellen Eigeninteresse an den freiwilligen Beiträgen, der nicht markiert werde. Der Vergleich mit anderen Bevölkerungsgruppen fehle, die Schweiz werde fälschlich als Nachzüglerin der USA dargestellt, obwohl ihr Parlamentsbeschluss vor Trumps Dekret lag und die humanitäre Hilfe ausnahm. Die Täter der Gewalt erscheinen nur in einer Bildlegende, nicht als handelnde Akteure.",
+    "quelle_datum": "2026-11-19",
+    "quelle_format": "Online-Artikel",
+    "quelle_sendung": "SRF 4 News",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M009"
+  },
+  {
+    "slug": "kubas-sterbezahlen-sind-aelter-als-die-us-blockade",
+    "title": "Kubas Sterbezahlen sind älter als die US-Blockade",
+    "date": "2026-11-25",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/kubas-sterbezahlen-sind-aelter-als-die-us-blockade.webp",
+    "tweetId": "",
+    "readingTime": 6,
+    "categories": [
+      "SRF/SRG",
+      "EU/Aussenpolitik",
+      "Gesellschaft"
+    ],
+    "themen": [
+      "Kuba-Gesundheitssystem",
+      "US-Sanktionen gegen Kuba",
+      "Medien-Framing Kausalität",
+      "Lebenserwartung Kuba",
+      "WHO-Datenquellen"
+    ],
+    "tags": [
+      "Kuba",
+      "US-Blockade",
+      "SRF",
+      "Lebenserwartung",
+      "Gesundheitssystem",
+      "Framing",
+      "Kausalität",
+      "WHO"
+    ],
+    "kritisiertes_medium": "SRF News",
+    "kritisierter_beitrag": "Kubanische Bevölkerung leidet massiv unter US-Blockade",
+    "kritisierter_autor": "Anna Lemmenmeier",
+    "kritik_typ": [
+      "Framing",
+      "Auslassung",
+      "Behördenpropaganda"
+    ],
+    "personen": [
+      "Tedros Adhanom Ghebreyesus",
+      "Anna Lemmenmeier",
+      "Donald Trump",
+      "Juan Carlos Albizu-Campos"
+    ],
+    "institutionen": [
+      "SRF",
+      "WHO",
+      "kubanische Regierung",
+      "US-Regierung",
+      "ONEI"
+    ],
+    "gesetze_vorlagen": [
+      "Cuban Democracy Act",
+      "Trade Sanctions Reform Act",
+      "US-Embargo gegen Kuba"
+    ],
+    "these": "SRF rahmt einen fünfjährigen Zerfall des staatlich geführten kubanischen Gesundheitssystems mit einer Schlagzeile, die eine US-Massnahme nennt, die erst nach den Daten verhängt wurde, und verschweigt dabei die kubanische Regierung als Eigentümerin und Urheberin des Systems.",
+    "zusammenfassung": "Der 9min-Artikel kritisiert den SRF-Beitrag zur Kuba-Berichterstattung, weil die Schlagzeile einen kausalen Zusammenhang zwischen US-Ölblockade (Januar 2026) und sinkender Lebenserwartung (2020–2025) suggeriert, obwohl der Text selbst einräumt, dass die Zahlen vor der Massnahme liegen. Die kubanische Regierung als Eigentümerin von Spitälern, Stromnetz und Wirtschaft werde als Akteurin verschwiegen, während den USA Absicht und Handlung zugeschrieben werden. Korrektive Fakten stünden im Kleingedruckten, die Deutung aber in Schlagzeile und Zwischentiteln.",
+    "quelle_datum": "2026-11-25",
+    "quelle_format": "Online-Artikel",
+    "quelle_sendung": "HeuteMorgen",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M006"
+  },
+  {
     "slug": "chinas-kohle-rekord-verschwindet-hinter-solarpanels",
     "title": "Chinas Kohle-Rekord verschwindet hinter Solarpanels",
     "date": "2026-11-24",
