@@ -1,5 +1,138 @@
 [
   {
+    "slug": "die-konzerninitiative-die-srf-still-dem-bundesrat-anglich",
+    "title": "Die Konzerninitiative, die SRF still dem Bundesrat anglich",
+    "date": "2026-11-26",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/die-konzerninitiative-die-srf-still-dem-bundesrat-anglich.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Abstimmungen",
+      "EU/Aussenpolitik"
+    ],
+    "themen": [
+      "Konzernverantwortungsinitiative",
+      "Gegenvorschlag zur Konzernverantwortungsinitiative",
+      "EU-Lieferkettenrichtlinie",
+      "Stille Artikeländerung ohne Korrekturhinweis",
+      "Volksabstimmung 2020"
+    ],
+    "tags": [
+      "Konzernverantwortungsinitiative",
+      "stille Änderung",
+      "EU-Lieferkettenrichtlinie",
+      "Bundesrat",
+      "Gegenvorschlag",
+      "Infobox",
+      "Korrekturhinweis",
+      "Volksmehr 2020"
+    ],
+    "kritisiertes_medium": "SRF News",
+    "kritisierter_beitrag": "Konzernverantwortung: Bundesrat passt sich der EU an",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Behördenpropaganda",
+      "Framing"
+    ],
+    "personen": [
+      "Meret Schneider"
+    ],
+    "institutionen": [
+      "SRF",
+      "Bundesrat",
+      "EU",
+      "EU-Parlament",
+      "economiesuisse",
+      "Swissholdings",
+      "Koalition für Konzernverantwortung",
+      "FDP",
+      "GLP",
+      "Grüne",
+      "Revisionsaufsichtsbehörde"
+    ],
+    "gesetze_vorlagen": [
+      "Konzernverantwortungsinitiative",
+      "Gegenvorschlag zur Konzernverantwortungsinitiative",
+      "EU-Lieferkettenrichtlinie",
+      "Omnibus I",
+      "indirekter Gegenvorschlag zur ersten Konzernverantwortungsinitiative"
+    ],
+    "these": "SRF hat durch eine stille Änderung der Infobox die zentrale Differenz zwischen Initiative und Gegenvorschlag beseitigt und die Selbstauskunft des Bundesrats als Tatsache präsentiert, wodurch der Stimmbürger die wesentliche Information für seine Entscheidung verliert.",
+    "zusammenfassung": "Der Artikel kritisiert, dass SRF in seinem Beitrag zur Konzernverantwortungsinitiative nachträglich und ohne Korrekturhinweis die Schwellenwerte der Initiative durch die des Bundesrats ersetzt hat, wodurch die wichtigste Differenz zwischen den Vorlagen verschwand. Zudem wird die EU-Konformität des Entwurfs im Titel als Tatsache präsentiert, obwohl sie vom Bundesrat selbst stammt und von Wirtschaftsverbänden bestritten wird. Der Beitrag lässt den Kontext der EU-Lockerung der Lieferkettenrichtlinie, das Volksmehr von 2020 und die Stimmen von Initianten und Wirtschaft vollständig fehlen.",
+    "quelle_datum": "2026-11-25",
+    "quelle_format": "Online-Artikel",
+    "quelle_sendung": "SRF 4 News",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M005"
+  },
+  {
+    "slug": "srf-fragt-welche-maenner-zuschlagen-und-ueberspringt-die-statistik",
+    "title": "SRF fragt, welche Männer zuschlagen, und überspringt die Statistik",
+    "date": "2026-11-26",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/srf-fragt-welche-maenner-zuschlagen-und-ueberspringt-die-statistik.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Gesellschaft",
+      "Migration"
+    ],
+    "themen": [
+      "Häusliche Gewalt",
+      "Lernprogramme für Täter",
+      "Migrationsstatistik und Prävention",
+      "Interessenkonflikt bei Wirkungsevaluation",
+      "Strafprozessualer Zwang"
+    ],
+    "tags": [
+      "häusliche Gewalt",
+      "Lernprogramme",
+      "Migrationshintergrund",
+      "Manosphere",
+      "PKS-Statistik",
+      "Interessenkonflikt",
+      "Unschuldsvermutung",
+      "Framing"
+    ],
+    "kritisiertes_medium": "Club",
+    "kritisierter_beitrag": "Wie gewalttätige Männer lernen, nicht mehr zuzuschlagen",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Framing",
+      "Interessenkonflikt"
+    ],
+    "personen": [
+      "Regli"
+    ],
+    "institutionen": [
+      "SRF",
+      "Eidgenössisches Gleichstellungsbüro",
+      "Bundesamt für Statistik",
+      "Polizeiliche Kriminalstatistik",
+      "Kanton Zürich",
+      "Amt für Justizvollzug und Wiedereingliederung",
+      "Zürcher Justizdirektion"
+    ],
+    "gesetze_vorlagen": [
+      "Art. 55a Abs. 2 StGB",
+      "Art. 237 StPO"
+    ],
+    "these": "SRF stellt die richtige Frage nach den Tätern häuslicher Gewalt, lässt aber den statistisch belegten Risikofaktor Migrationshintergrund weg, rahmt eine strafprozessuale Zwangsmassnahme unter Haftdrohung als pädagogisches Lernangebot und übergeht den Interessenkonflikt einer internen Wirkungsstudie.",
+    "zusammenfassung": "Der 9min-Artikel kritisiert einen SRF-Club-Beitrag über Lernprogramme gegen häusliche Gewalt, weil er den Faktor Migrationshintergrund, den das EBG mit Zahlen belegt und aus dem es gezielte Prävention ableitet, vollständig auslässt, während die Manosphere ohne Zahl genannt wird. Zudem wird der Interessenkonflikt verschwiegen, dass die evaluierende Studie aus derselben Behörde stammt, die das Programm leitet, und der strafprozessuale Zwangscharakter mit Haftdrohung als pädagogisches Lernangebot gerahmt. Die Rechtsgrundlage nach Art. 55a StGB und Art. 237 StPO wird nicht eingeordnet, insbesondere dass Teilnehmer möglicherweise nicht verurteilt sind.",
+    "quelle_datum": "2026-11-24",
+    "quelle_format": "Online-Artikel",
+    "quelle_sendung": "Club",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M004"
+  },
+  {
     "slug": "bruessel-nickt-ohne-debatte-die-schweiz-zahlt",
     "title": "Brüssel nickt ohne Debatte, die Schweiz zahlt",
     "date": "2026-11-25",
