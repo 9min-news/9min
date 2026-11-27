@@ -1,5 +1,288 @@
 [
   {
+    "slug": "der-datenzentren-baustopp-den-schaffhausen-schon-abgelehnt-hat",
+    "title": "Der Datenzentren-Baustopp, den Schaffhausen schon abgelehnt hat",
+    "date": "2026-11-27",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/der-datenzentren-baustopp-den-schaffhausen-schon-abgelehnt-hat.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Demokratie",
+      "Klima/Energie"
+    ],
+    "themen": [
+      "Datenzentren Schaffhausen",
+      "Baustopp-Forderung und Rechtslage",
+      "Direktdemokratische Mitsprache",
+      "Energieverbrauch und -regulierung",
+      "Medienberichterstattung über Bauprojekte"
+    ],
+    "tags": [
+      "Datenzentren",
+      "Beringen",
+      "Baustopp",
+      "Motion 2026/5",
+      "Zonenplan",
+      "Rechtsstaat",
+      "Stromversorgungsgesetz",
+      "Energieverordnung"
+    ],
+    "kritisiertes_medium": "SRF Regionaljournal Zürich Schaffhausen",
+    "kritisierter_beitrag": "Die Bevölkerung wehrt sich gegen Datenzentren",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Framing",
+      "Kontextmangel"
+    ],
+    "personen": [
+      "Eva Neumann",
+      "Paillard",
+      "Urs Kögl"
+    ],
+    "institutionen": [
+      "SRF",
+      "Regierungsrat Schaffhausen",
+      "Kantonsrat Schaffhausen",
+      "Einwohnerrat Beringen",
+      "Gemeinderat Beringen",
+      "Stack",
+      "Enka",
+      "Verein Datenzentren? Nein danke!",
+      "SP",
+      "FDP",
+      "SVP",
+      "Grüne"
+    ],
+    "gesetze_vorlagen": [
+      "Motion 2026/5",
+      "Energieverordnung § 25a",
+      "Stromversorgungsgesetz Art. 13",
+      "Zonenplan Beringen 1988"
+    ],
+    "these": "SRF meldet eine bereits rechtlich erledigte Baustopp-Forderung als offene Frage und erzeugt durch fehlenden Kontext den Eindruck von Willkür, wo in Wahrheit eine Rechtslage besteht.",
+    "zusammenfassung": "Der 9min-Artikel analysiert einen SRF-Beitrag über Widerstand gegen Datenzentren in Beringen SH. SRF rahme 40 Vereinsgründer als Bevölkerungsaufstand, verschweige die parteiübergreifende Motion 2026/5, die Rechtsgrundlagen (Zonenplan 1988, Baubewilligung als Polizeierlaubnis) und die bereits abgelehnte Sistierung. Zudem werde eine Effizienzverordnung als Mengenbegrenzung dargestellt und der Stromverbrauch nur kantonal statt national (1,1%) gemessen.",
+    "quelle_datum": "2026-11-21",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "Regionaljournal Zürich Schaffhausen",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M003"
+  },
+  {
+    "slug": "spaniens-machtlose-migrationspolitik-und-ihre-million",
+    "title": "Spaniens machtlose Migrationspolitik und ihre Million Legalisierungsanträge",
+    "date": "2026-11-27",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/spaniens-machtlose-migrationspolitik-und-ihre-million.webp",
+    "tweetId": "",
+    "readingTime": 6,
+    "categories": [
+      "Migration",
+      "EU/Aussenpolitik",
+      "SRF/SRG"
+    ],
+    "themen": [
+      "Spanische Migrationspolitik",
+      "Sonderregularisierung 2026",
+      "Wahlkampfberichterstattung",
+      "Wirtschaftsargumente Migration",
+      "Medienkritik SRF"
+    ],
+    "tags": [
+      "Spanien",
+      "Migration",
+      "Regularisierung",
+      "Pedro Sánchez",
+      "SRF",
+      "Echo der Zeit",
+      "Wahlkampf",
+      "Wirtschaftswachstum"
+    ],
+    "kritisiertes_medium": "SRF",
+    "kritisierter_beitrag": "Steht Pedro Sánchez' migrationsfreundliches Modell vor dem Aus?",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Kontextmangel",
+      "Selektion"
+    ],
+    "personen": [
+      "Pedro Sánchez",
+      "Fernando",
+      "Irene",
+      "Sandra",
+      "Andreo",
+      "Grande-Marlaska"
+    ],
+    "institutionen": [
+      "SRF",
+      "SRF4 News",
+      "Echo der Zeit",
+      "Ministerrat",
+      "Funcas",
+      "Eurostat",
+      "Banco de España",
+      "INE",
+      "Innenministerium",
+      "PP",
+      "Vox"
+    ],
+    "gesetze_vorlagen": [
+      "Real Decreto 1155/2024",
+      "Sonderregularisierung Januar 2026"
+    ],
+    "these": "Der SRF-Beitrag verschweigt die konkrete Regierungsentscheidung (Sonderregularisierung mit über 1 Million Anträgen) und übernimmt unkritisch die These eines einzelnen Experten, Migration sei wirtschaftlich bedingt und politisch kaum steuerbar, was die Regierung entlastet und die Wahlentscheidung entwertet.",
+    "zusammenfassung": "9min.ch kritisiert einen SRF Echo der Zeit Beitrag vom 26.11.2026, der Spaniens Migrationspolitik vor der Wahl behandelt. Der Beitrag verschweigt die zentrale Regierungsentscheidung (Sonderregularisierung mit 1'174'978 Anträgen), übernimmt unkritisch die Wirtschaftsthese eines einzelnen Experten, prüft Oppositionsaussagen auf Rechtmässigkeit, bestätigt aber Regierungsaussagen, und relativiert Ankunftszahlen mit der günstigsten verfügbaren Jahreszahl. Die Regierung erscheint als Mahnerin statt als Urheberin der umstrittenen Massnahme.",
+    "quelle_datum": "2026-11-26",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "Echo der Zeit",
+    "quelle_redaktion": "SRF4 News",
+    "kritik_schwere": 3,
+    "muster_id": "M006"
+  },
+  {
+    "slug": "zehn-ausschluesse-ohne-oeffentliche-belege-srf-fragt-nach-gesinnung",
+    "title": "Zehn Ausschlüsse ohne öffentliche Belege, SRF fragt nach Gesinnung",
+    "date": "2026-11-27",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/zehn-ausschluesse-ohne-oeffentliche-belege-srf-fragt-nach-gesinnung.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Demokratie",
+      "Gesellschaft"
+    ],
+    "themen": [
+      "Parteiausschluss ohne Begründungspflicht",
+      "Verfahrensfragen vs. Gesinnungsfragen",
+      "Asymmetrie in der Berichterstattung",
+      "Vereinsfreiheit und Subsidiarität"
+    ],
+    "tags": [
+      "Junge SVP",
+      "Ausschluss ohne Gründe",
+      "Statutenänderung",
+      "Junge Tat",
+      "Rechtsextremismus-Vorwurf",
+      "Verfahrensfrage",
+      "Gesinnungsprüfung",
+      "Asymmetrie"
+    ],
+    "kritisiertes_medium": "SRF 4 News",
+    "kritisierter_beitrag": "Was der Mitglieder-Ausschluss für die Junge SVP bedeutet",
+    "kritisierter_autor": "Glaus",
+    "kritik_typ": [
+      "Auslassung",
+      "Framing",
+      "Asymmetrie"
+    ],
+    "personen": [
+      "Joel Bucher",
+      "Martin Wicki",
+      "Sarah Regez",
+      "Martin Sellner",
+      "Glaus",
+      "Fiechter"
+    ],
+    "institutionen": [
+      "SRF 4 News",
+      "Junge SVP Schweiz",
+      "Junge SVP Kanton Luzern",
+      "SVP Kanton Luzern",
+      "Junge Tat",
+      "Nachrichtendienst",
+      "Juso",
+      "Junge Grüne",
+      "Junge GLP",
+      "Jungfreisinnige",
+      "Junge Mitte Luzern"
+    ],
+    "gesetze_vorlagen": [
+      "Statutenänderung Junge SVP vom 3. Oktober 2026"
+    ],
+    "these": "SRF rahmt einen Ausschluss ohne öffentliche Belege als Gesinnungstest der Partei, statt die Verfahrensfrage zu stellen, ob eine Zentrale Mitglieder ohne Begründungspflicht ausschliessen darf.",
+    "zusammenfassung": "Der Artikel kritisiert, dass SRF 4 News den Ausschluss von zehn Mitgliedern der Jungen SVP durch die Parteizentrale als Gesinnungsfrage rahmt, ohne die zugrundeliegende Verfahrensfrage zu thematisieren. Die Ausschlüsse basieren auf einer Statutenänderung vom 3. Oktober 2026, die Ausschlüsse ohne Begründung erlaubt, und auf einer Untersuchung, die öffentlich nicht vorliegt. Zudem wird eine Asymmetrie in der Berichterstattung moniert: Während rechtsextreme Bezüge intensiv geprüft werden, fehlen vergleichbare Beiträge zu linksextremer Gewalt.",
+    "quelle_datum": "2026-11-27",
+    "quelle_format": "Online-Artikel",
+    "quelle_sendung": "SRF 4 News",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M009"
+  },
+  {
+    "slug": "zuerich-zaehlt-business-apartments-nicht-die-fehlenden-wohnungen",
+    "title": "Zürich zählt Business-Apartments, nicht die fehlenden Wohnungen",
+    "date": "2026-11-27",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/zuerich-zaehlt-business-apartments-nicht-die-fehlenden-wohnungen.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "Wirtschaft",
+      "Gesellschaft",
+      "Demokratie"
+    ],
+    "themen": [
+      "Wohnungsmarkt Zürich",
+      "Business-Apartments",
+      "Airbnb-Initiative",
+      "Mietpreisregulierung",
+      "Bewilligungsverfahren"
+    ],
+    "tags": [
+      "Wohnungsknappheit",
+      "Ausweichgeschäft",
+      "Interventionsspirale",
+      "Selektion",
+      "Kontextmangel",
+      "Stadtrat",
+      "Baugesuch",
+      "Leerstandsquote"
+    ],
+    "kritisiertes_medium": "SRF 4 News",
+    "kritisierter_beitrag": "Stadt Zürich zählt immer mehr Business-Wohnungen",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Kontextmangel",
+      "Selektion"
+    ],
+    "personen": [
+      "Ludwig von Mises"
+    ],
+    "institutionen": [
+      "SRF",
+      "sda",
+      "Stadt Zürich",
+      "Kanton Zürich",
+      "SP",
+      "Grüne",
+      "AL",
+      "ZKB",
+      "Wüest Partner",
+      "Bundesgericht",
+      "Stadt Luzern"
+    ],
+    "gesetze_vorlagen": [
+      "Airbnb-Initiative",
+      "Gegenvorschlag des Stadtrats",
+      "BZO-Teilrevision",
+      "Art. 253a Abs. 2 OR"
+    ],
+    "these": "Der SRF-Beitrag rahmt ein Symptom des Wohnungsmangels als dessen Ursache und verschweigt den eigentlichen Mangel, die Wirksamkeit der Gegenmassnahmen und die Rolle der Behörde im Bewilligungsverfahren.",
+    "zusammenfassung": "9min.ch kritisiert einen SRF-Beitrag über Business-Apartments in Zürich, der die SP-Kausalerklärung unkritisch übernimmt, während wesentlicher Kontext fehlt: Bevölkerungswachstum vs. Wohnungsbestand, Leerstandsquote, Bautätigkeit und Bewilligungsdauer. Der Beitrag rahme ein Symptom als Ursache und verschweige, dass die vom Kanton bestellte Studie Kurzzeitvermietungsbeschränkungen als kaum wirksam einstuft. Dem Stimmbürger zur hängigen Airbnb-Initiative werde so ein verzerrtes Bild vermittelt.",
+    "quelle_datum": "2026-11-26",
+    "quelle_format": "Online-Artikel",
+    "quelle_sendung": "SRF 4 News",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M010"
+  },
+  {
     "slug": "die-konzerninitiative-die-srf-still-dem-bundesrat-anglich",
     "title": "Die Konzerninitiative, die SRF still dem Bundesrat anglich",
     "date": "2026-11-26",
