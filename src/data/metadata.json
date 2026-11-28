@@ -1,5 +1,76 @@
 [
   {
+    "slug": "die-verschwoerungstheorie-die-srf-ohne-quelle-definiert",
+    "title": "Die Verschwörungstheorie, die SRF ohne Quelle definiert",
+    "date": "2026-11-28",
+    "type": "medienkritik",
+    "coverImage": "/images/medienkritik/die-verschwoerungstheorie-die-srf-ohne-quelle-definiert.webp",
+    "tweetId": "",
+    "readingTime": 7,
+    "categories": [
+      "SRF/SRG",
+      "Migration",
+      "Demokratie"
+    ],
+    "themen": [
+      "Verschwörungstheorie-Definition ohne Quelle",
+      "Junge Tat und Junge SVP",
+      "Demografischer Wandel vs. Lenkungsbehauptung",
+      "Ausschluss und Unterwanderung"
+    ],
+    "tags": [
+      "Infobox",
+      "Quellenlosigkeit",
+      "Remigration",
+      "Bevölkerungsaustausch",
+      "Gerichtsurteil fehlt",
+      "direkte Demokratie",
+      "Etikett als Beweisersatz"
+    ],
+    "kritisiertes_medium": "SRF",
+    "kritisierter_beitrag": "Junge SVP lässt inhaltliche Abgrenzung zu Junge Tat vermissen",
+    "kritisierter_autor": "",
+    "kritik_typ": [
+      "Auslassung",
+      "Framing",
+      "Behördenpropaganda"
+    ],
+    "personen": [
+      "Nils Fiechter",
+      "Joel Bucher",
+      "Tobias Lingg",
+      "Manuel Corchia",
+      "Martin Sellner",
+      "Renaud Camus",
+      "Thilo Sarrazin"
+    ],
+    "institutionen": [
+      "SRF",
+      "Junge Tat",
+      "Junge SVP",
+      "SVP",
+      "Bezirksgericht Zürich",
+      "Bundeszentrale für politische Bildung",
+      "Correctiv",
+      "Eidgenössische Kommission gegen Rassismus"
+    ],
+    "gesetze_vorlagen": [
+      "Bilaterale I",
+      "Personenfreizügigkeit",
+      "Masseneinwanderungsinitiative",
+      "Begrenzungsinitiative",
+      "Nachhaltigkeitsinitiative"
+    ],
+    "these": "SRF definiert die Junge Tat in einer Infobox als Verbreiter einer Verschwörungstheorie, ohne das Wort «gezielt» zu belegen oder das vorliegende Gerichtsurteil zu nennen, und verschwimmt damit die Grenze zwischen amtlichem demografischem Wandel und behaupteter Lenkung.",
+    "zusammenfassung": "Der Artikel kritisiert den SRF-Beitrag zur Jungen SVP und Jungen Tat wegen einer Infobox, die die Junge Tat als Verbreiterin einer Verschwörungstheorie definiert, ohne Quelle oder Subjekt für das Wort «gezielt» zu nennen. Das vier Wochen zuvor ergangene, nicht rechtskräftige Urteil des Bezirksgerichts Zürich gegen zwei Junge-Tat-Exponenten fehlt ebenso wie die präzise Erklärung des Begriffs «Remigration». 9min.ch zeigt, dass die demografischen Zahlen, die SRF selbst berichtet hat, ohne Lenkungsbehauptung keine Verschwörungstheorie sind, sondern Gegenstand direktdemokratischer Abstimmungen.",
+    "quelle_datum": "2026-11-27",
+    "quelle_format": "Broadcast",
+    "quelle_sendung": "Echo der Zeit",
+    "quelle_redaktion": "SRF News",
+    "kritik_schwere": 3,
+    "muster_id": "M005"
+  },
+  {
     "slug": "der-datenzentren-baustopp-den-schaffhausen-schon-abgelehnt-hat",
     "title": "Der Datenzentren-Baustopp, den Schaffhausen schon abgelehnt hat",
     "date": "2026-11-27",
